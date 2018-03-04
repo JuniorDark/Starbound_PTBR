@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um estranho pedaço de nave. Parece que pode servir para um propósito, mas quem realmente sabe?"
+  }
+]

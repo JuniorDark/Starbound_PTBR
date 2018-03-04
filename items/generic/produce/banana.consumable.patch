@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Uma banana geneticamente melhorada."}, {"op": "replace", "path": "/shortdescription", "value": "Banana"}]

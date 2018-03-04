@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "As reflexões de um estudioso Hylotl sobre a contra-cultura dentro da sociedade Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "Em Defesa De Nossa Raça"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "value": "A raça Hylotl tem sido às vezes acusada de homogeneidade, como se na falta de uma contra-cultura significativa somos de alguma forma deficientes. Para esses acusadores eu digo, \"Observe o Avian devoto e seu irmão Grounded; considere o Apex rebelde quanto ele encontra um oficial da Miniknog.\"\n\nNossa cultura é vívida, nosso pensamento iluminado; Só nos falta hostilidade. Na verdade, esta tranquilidade agradável é a nossa maior força."
+  }
+]

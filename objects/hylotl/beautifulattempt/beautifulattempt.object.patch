@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma máquina de fliperama com um jogo narrativo interativo."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Uma máquina de fliperama de cores vivas, que tipo de jogo é esse?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "O jogo nesta máquina de fliperama brilhante parece que poderia ser relaxante."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Essta máquina de fliperama é colorida como uma flor."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Confuso. Jogos deste tipo têm um objetivo pouco claro."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Esta máquina brilhante tem um jogo Hylotl popular nela."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Este é um clássico, cada Hylotl conhece todos os finais."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Esta máquina de fliperama é muito bonita."
+  }
+]

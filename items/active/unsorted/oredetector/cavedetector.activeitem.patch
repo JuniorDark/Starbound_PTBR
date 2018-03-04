@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "tool"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Cave Detector"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Emite pulsos para traçar a densidade de materiais próximos."
+  }
+]

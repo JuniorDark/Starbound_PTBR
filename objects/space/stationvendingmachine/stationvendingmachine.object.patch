@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma máquina de venda automática, há algumas lanches de qualidade aqui."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Esta máquina de venda automática parece útil, ela poderia fornecer alguns suprimentos de alimentos necessários."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Esta máquina parece ter alguns suprimentos dentro e parece estar funcionando."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Lanchess esspaciais!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Interessado. Esta máquina de venda automática parece estar funcionando, pode ter suprimentos."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Que sorte ter esta máquina de venda automática, estou me sentindo um pouco com fome."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Uma máquina de venda automática, semelhante à encontrada dentro das cidades Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Esta máquina é como um comerciante robô! Eu dou dinheiro e os suprimentos saem."
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": " Maquina de Venda"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": " Lanches Saborosos"
+  }
+]

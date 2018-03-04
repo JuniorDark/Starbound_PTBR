@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um braço de mecha bem feito que dispara feixes de algo parecido com energia pura."
+  }
+]

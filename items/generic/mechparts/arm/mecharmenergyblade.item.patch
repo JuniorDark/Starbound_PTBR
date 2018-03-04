@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma poderosa lâmina de energia para cortar... Praticamente tudo."
+  }
+]

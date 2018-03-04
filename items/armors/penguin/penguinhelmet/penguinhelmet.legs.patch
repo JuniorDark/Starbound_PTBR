@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um capacete militar, usado principalmente pela tripulação de Dreadwing."
+  }
+]

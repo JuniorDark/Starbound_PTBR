@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma cama que é projetada para realizar exames médicos."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Esta cama médica parece um lugar que eu poderia descansar um minuto."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Deitar nesta cama cercada por esses scanners me deixaria desconfortável."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Luzesss chiques ao redor desta cama de metal."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Curioso. Eu me pergunto se esta cama médica pode explicar a anatomia Glitch."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Parece um tipo de cama de scanner médico, mas acho que ainda é um lugar para se deitar."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Esta cama médica provavelmente foi projetada para ajudar médicos ou pesquisadores."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Uma cama chique cercada por luzes brilhantes."
+  }
+]

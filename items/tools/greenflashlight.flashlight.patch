@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "tool"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Flashlight"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma lanterna verde! Um brilho poderoso."
+  }
+]

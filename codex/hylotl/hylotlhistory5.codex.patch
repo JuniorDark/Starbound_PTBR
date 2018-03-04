@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "As observações de um estudioso Hylotl sobre como sua raça evoluiu."
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "A Evolução dos Hylotl"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/1",
+    "value": "Ainda é uma necessidade para os Hylotl respirar ar, mas o aumento das nossas capacidades pulmonares permitem sessões prolongadas de atividade no mar profundo, e quando apropriado pode ser utilizado como um auxílio de flutuabilidade. Um Hylotl moderno também tem a capacidade de ver claramente no ar e na água sem ajuda, apesar das diferenças de densidade."
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "value": "Como os Hylotl eram originalmente uma espécie de habitação terrestre, a nossa biologia sofreu rápidas mudanças evolutivas nos vários milhares de anos desde a adoção de um estilo de vida subaquático. Isto é possível devido ao nosso metabolismo genético naturalmente rápido, ao tempo de vida curto e frequente rotatividade geracional, em comparação com outras formas de vida. Depois de inicialmente depender da tecnologia Hylotl para auxiliar na natação e respiração, nossos corpos começaram a desenvolver saliências como barbatanas e correias retráteis entre os dedos e os dedos dos pés."
+  }
+]

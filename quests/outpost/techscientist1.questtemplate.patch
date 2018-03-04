@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "^orange;Vamos Ser Técnicos"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "Estou desenvolvendo uma tecnologia que irá permitir que o usuário corra rapidamente de um ponto a outro, mas estou sem alguns componentes cruciais para o meu ^orange;protótipo^white;. Você poderia me ajudar ^green;me trazendo ^orange;10 Coppers Bars^white;?"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "Você me trouxe as peças! Maravilhoso! Com esta ^orange;Tecnologia de Corrida^white; você deve estar pronto para a ação, mas só há uma maneira de ter certeza..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "value": "Fale com ^orange;Elliott^reset; no ^orange;Posto Avançado^reset;"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma placa com uma imagem de uma arma, indicando uma estação de armas."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Esta placa destina-se a indicar uma estação de armas."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Esta placa indica uma estação de armas."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Esta placa destina-se a indicar uma essstação de armasss."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Informado. A imagem deste símbolo pretende indicar uma estação de armas."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Uma placa que marca uma estação de armas."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Placas como esta geralmente significam que há uma estação de armas próxima."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Acho que esta placa significa que deve haver uma estação de armas por aqui."
+  }
+]

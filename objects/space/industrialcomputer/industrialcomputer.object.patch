@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma antiga torre de computador de metal. Cabos descompactos saem das suas costas."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Este console tem muitos botões e alavancas. Tenho certeza de que eu poderia entender isso com um manual de instruções."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Este computador mostra muito texto verde pequeno. Eu me pergunto o que é?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Caixa tem palavras verdes nela. verde é uma boa cor. Floran aprova."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Intrigado. Esta tela mostra muita informação - eu me pergunto para o que é tudo isso?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Me pergunto por que todo o texto na tela deste computador é verde? É uma escolha estilística?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Este computador é muito maior do que precisa ser. Os engenheiros Hylotl poderiam construir algo mais compacto."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Esta caixa aqui com certeza tem muitas palavras nela, mas eu simplesmente não tenho a capacidade de atenção para acompanhar isso."
+  }
+]

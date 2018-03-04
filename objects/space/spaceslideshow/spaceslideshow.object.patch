@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma tela exibindo uma série de fotografias com temas espaciais."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Esta grande tela mostra imagens de espaço profundo."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "A resolução dessas fotos é incrível."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Imagens ssserenas de locais espaciais."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Curioso. Essas imagens são de locais específicos no espaço, eles estão de alguma forma conectados?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Com esta tela eu poderia ver o espaço da segurança de um sofá"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Esta tela exibe fotografias de alta resolução do espaço."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Apenas a maior televisão que eu já vi, só tem um canal embora."
+  }
+]

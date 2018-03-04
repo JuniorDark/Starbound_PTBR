@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma cama barata com uma estrutura de metal resistente. Não parece muito confortável."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Esta cama parece que foi projetada com a integridade estrutural em mente, em vez de conforto."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Esta cama parece bastante pesada..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran pode não dormir bem na grande cama de metal."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Analítico. Esta cama parece ser capaz de resistir a movimentos extremamente turbulentos."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Com um pouco de estofamento extra, essa cama poderia realmente ser bastante confortável."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Esta cama parece horrivelmente desconfortável, mas não sou julgante, então eu ainda posso dormir nela."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Esta cama pode parecer bastante rígida, mas felizmente eu sou um dorminhoco fácil."
+  }
+]

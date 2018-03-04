@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um design de cadeira moderno, comumente encontrado dentro de naves espaciais."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Talvez sentar nisso ajudaria a manter minhas costas retas."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Esta cadeira tem um design muito familiar, embora nenhum Avian construa com materiais como estes."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Assento de metal firme parece dessconfortável."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Interessado. Este assento é projetado para suportar forças de lançamento para viajantes espaciais."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Esta cadeira é o tipo que você encontraria em uma nave espacial."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Esta cadeira resistente é construída para resistir às forças de lançamento."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Esta cadeira é bastante sólida, eu não consigo nem mesmo chutá-la."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma superfície de trabalho sólida, montada no chão."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Uma mesa de aparência industrial."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Esta mesa tem uma faixa pintada sobre ela."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Apenass uma mesa de metal."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Indiferente. Esta mesa não é notável."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Esta mesa é fixada no chão, caso contrário eu acho que poderia tombar."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Uma mesa de metal que foi montada no chão."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Uma pequena mesa feita de metal."
+  }
+]

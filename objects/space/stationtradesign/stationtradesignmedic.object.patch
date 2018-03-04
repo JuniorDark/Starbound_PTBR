@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma placa com uma imagem indicando uma estação médica."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Esta placa destina-se a indicar uma estação médica."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Esta placa indica uma estação médica."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Esta placa destina-se a indicar uma essstação médica."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Informado. A imagem deste símbolo pretende indicar uma estação médica."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Uma placa que marca uma estação médica."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Placas como esta geralmente significam que há uma estação médica próxima."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Acho que esta placa significa que deve haver uma estação médica por aqui."
+  }
+]

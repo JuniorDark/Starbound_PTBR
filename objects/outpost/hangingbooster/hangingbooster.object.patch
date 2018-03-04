@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um propulsor de mecha pendurado"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Um grande propulsor de mecha, suspenso por correntes."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Este propulsor de mecha está parcialmente desmontado."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Propulsor de mecha pendurado em correntesss."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Interessado. Suspenso assim dá fácil acesso à mecânica interna deste propulsor de mecha."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Um propulsor de mecha, pendurado em correntes. Provavelmente está em conserto."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Este propulsor de mecha parece que está sendo trabalhado."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Um propulsor de mecha, pendurado em algumas grandes correntes."
+  }
+]

@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/scriptConfig/crew/role/name","value":"Mecânico(a)"},{"op":"replace","path":"/scriptConfig/crew/role/field","value":"Técnico"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/default/default/0","value":"Eu vou continuar limpando o carburador enquanto estou aqui. A eficiência do combustível aumentou 10%!"}]

@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Rope Whip ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Uma corda transformada em um chicote. Faça estralar!"}, {"op": "replace", "path": "/shortdescription", "value": "Rope Whip"}]

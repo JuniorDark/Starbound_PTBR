@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um monitor de tela eletrônica compacta."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Este monitor parece projetado para exibir dados importantes."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Eu não tenho certeza se eu entendo o que todos os botões deste monitor controlam."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Tela esspacial está fazendo palavras estranhas."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Interessado. A informação nesta tela pode ser importante."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Este monitor é uma espécie de design antigo, mas ainda da pro gasto."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Gostei, um monitor simples e funcional."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Esta tela pode provavelmente mostrar qualquer coisa que você precisa saber."
+  }
+]

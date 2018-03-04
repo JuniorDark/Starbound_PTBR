@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Vine Whip ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Um chicote feito de uma vinha espinhosa. Faça estralar!"}, {"op": "replace", "path": "/shortdescription", "value": "Vine Whip"}]

@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um design clássico de propulsores de alcance médio, historicamente usado por naves de entrega."
+  }
+]

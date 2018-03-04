@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "O diário de um explorador que se tornou um senhorio."
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "Como Me Tornei Um Senhorio 1"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "value": "O verão passado foi um dos mais chuvosos que eu tinha visto na região de floresta de Rana Esker VI. Eu só fui lá pelo café (tenho que ter aqueles feijões fresco da floresta), e depois de muito rastejar na chuva pesada eu estava pronto para voltar para a cama. Eu podia ver uma pequena cabana em ruínas no topo da colina, então eu comecei a caminhar penosamente até lá. Não foi tão ruim quando cheguei, havia até mesmo um saco de dormir e os restos de uma velha fogueira, obviamente, um local popular para aventureiros exaustos e encharcados como eu."
+  }
+]

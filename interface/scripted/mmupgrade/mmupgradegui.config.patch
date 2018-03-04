@@ -1,0 +1,112 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": "^#b9b5b2;Manipule o que importa no seu manipulador de matéria!"
+  },
+  {
+    "op": "replace",
+    "path": "/defaultDescription",
+    "value": "Escolha uma melhoria para ver seu custo e beneficio"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblGroup4/value",
+    "value": "^green;ÓTICOS^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblGroup1/value",
+    "value": "^green;PROCESSADOR DE MATERIA^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblModuleLabel/value",
+    "value": "^green;MANIPULATOR MODULES^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblModuleCount/value",
+    "value": "^yellow;0 / 0^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblGroup2/value",
+    "value": "^green;ESPAÇO DE EXPANSÃO^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblUpgradeDescription/value",
+    "value": "Você não tem um Manipulador de Materia ainda."
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblGroup3/value",
+    "value": "^green;GERADOR DE ENERGIA^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": "Melhorias do Manipulador de Matéria"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/range1/description",
+    "value": "Aumenta 2 blocos de alcance do manipulador"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/power3/description",
+    "value": "Aumenta a taxa de destruição do manipulador em 300%"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/size2/description",
+    "value": "Aumenta a área de destruição de blocos para 4x4"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/paintmode/description",
+    "value": "Habilita o Modo Pintura, para pintar blocos em varias cores"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/size1/description",
+    "value": "Aumenta a área de destruição de blocos para 3x3"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/wiremode/description",
+    "value": "Habilita o Modo Fiação, para conectar objetos funcionais"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/liquidcollection/description",
+    "value": "Permite recolher líquidos utilizando o Modo de Escavação"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/size3/description",
+    "value": "Aumenta a área de destruição de blocos para 5x5"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/range2/description",
+    "value": "Aumenta 4 blocos de alcance do manipulador"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/power2/description",
+    "value": "Aumenta a taxa de destruição do manipulador em 200%"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/range3/description",
+    "value": "Aumenta 6 blocos de alcance do manipulador"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/power1/description",
+    "value": "Aumenta a taxa de destruição do manipulador em 100%"
+  }
+]

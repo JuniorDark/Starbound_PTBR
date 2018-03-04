@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "tool"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Construído para colocar cabos óticos entre pontos de entrada. ^green;Selecione rapidamente com a tecla [T]."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Modo Fiação"
+  }
+]

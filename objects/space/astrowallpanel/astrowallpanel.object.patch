@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um painel projetado para ambientes internos no espaço."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Este painel de parede é feito de algum tipo de polímero."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Eu não tenho certeza se painéis como este tem uma função."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Algum tipo de painel de plástico."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Confuso. A função deste painel não é compreendida."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Um painel espacial feito de alguns plásticos."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Painéis projetados assim eram comuns dentro de naves."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Algum tipo de painel espacial de plástico."
+  }
+]

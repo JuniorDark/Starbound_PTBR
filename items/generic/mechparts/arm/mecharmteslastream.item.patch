@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um design de arma clássico que sobrecarga inimigos com uma carga elétrica devastadora."
+  }
+]

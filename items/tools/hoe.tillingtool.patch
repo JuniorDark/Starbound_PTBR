@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "tool"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Esta enxada permite arar o solo. O solo arado pode então ser usado para plantar todos os tipos de colheitas!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;Hoe^white;"
+  }
+]

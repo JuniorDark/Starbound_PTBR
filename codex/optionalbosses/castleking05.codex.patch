@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um conto folclórico Glitch."
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "O Que Queria Ser Rei Parte 5"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "value": "O exército desfilou em carros alegóricos, rebocado por dúzias de trabalhadores Glitch e um Floran que tinha decidido juntar-se sem aviso prévio.\n\nDreadwing sentou-se sobre o seu trono de ferro, trazido de fora para a cidade, e aplaudiu cada unidade.\n\n\"Suspeito. Eles estão muito quietos.\" ele comentou, e seus assessores responderam \"Tranquilizador. Sim sua Majestade. Seus soldados são muito disciplinados.\""
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/1",
+    "value": "À medida que a última alegoria desceu a rua, a multidão inteira suspirou - um dos soldados pulou de seu estande e correu em direção a Dreadwing!\n\nOs mais surpresos de todos eram os ferreiros que sabiam muito bem que seus 'soldados' eram pouco mais que conchas decorativas. Dreadwing, no entanto, pensou que era tudo parte do show."
+  }
+]

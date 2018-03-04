@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Solus Katana ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Uma espada infundida com solarium, forjada por Asra Nox."}, {"op": "replace", "path": "/shortdescription", "value": "Solus Katana"}]

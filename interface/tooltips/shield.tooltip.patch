@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/cooldownTitleLabel/value", "value": "Tempo de Recarga:"}, {"op": "replace", "path": "/healthTitleLabel/value", "value": "Vida do Escudo:"}]

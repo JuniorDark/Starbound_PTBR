@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Gnome Gun ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Diga olá para meu pequeno amigo!"}, {"op": "replace", "path": "/shortdescription", "value": "Gnome Gun"}]

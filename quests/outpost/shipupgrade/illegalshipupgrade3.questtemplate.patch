@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "Esta licença é indiscutivelmente legal. ^green;Visite Pinguim Pete^reset; com ^orange;6 Upgrade Modules^reset; para atualizar sua nave."
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "Uma atualização de nave saindo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/portraits/questComplete/title",
+    "value": "Pinguim Pete"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "^green;Atualização de Nave Fishy Falcon"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "value": "Entregue ^orange;Upgrade Modules^reset; para ^orange;Penguin Pete^reset; no ^orange;posto avançado^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/conditions/0/description",
+    "value": "Ache ^orange;<itemName>^reset;: ^green;<current> / <required>^reset;"
+  }
+]

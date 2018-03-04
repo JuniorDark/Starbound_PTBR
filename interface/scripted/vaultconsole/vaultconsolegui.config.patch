@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/gui/windowtitle/title","value":"Console do Portal do Vault"},{"op":"replace","path":"/gui/windowtitle/subtitle","value":"Ativado com uma Vault Key"}]

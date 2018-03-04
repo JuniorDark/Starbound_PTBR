@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma arma estranha que dispara esferas de energia oscilantes."
+  }
+]

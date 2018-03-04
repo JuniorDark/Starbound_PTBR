@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": "Console da Estação"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": "Controle os sistemas da sua estação"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblGravity/value",
+    "value": "GRAVIDADE"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblHideExpansionSlots/value",
+    "value": "OCULTAR SLOTS DE EXPANSÃO"
+  }
+]

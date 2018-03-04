@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um corpo de mecha usado principalmente por piratas e mercenários, por razões óbvias."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Esta porta forma uma vedação hermética quando fechada."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Portas como estas são projetadas para selar seções de naves ou estações."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Esta porta é projetada para sobreviver à dureza do espaço."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Porta espacial pode desslizar para abrir e fechar."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Interessado. Esse design de porta já foi popular na construção de naves e estações."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Esta porta moderna pode criar uma vedação hermética para conter a atmosfera."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Este tipo de porta moderna é elegante e receptiva."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Esta porta de aparência elegante parece que ela poderia aguentar qualquer coisa."
+  }
+]

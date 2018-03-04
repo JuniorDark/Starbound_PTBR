@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Lunarang ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Isso não é lua."}, {"op": "replace", "path": "/shortdescription", "value": "Lunarang"}]

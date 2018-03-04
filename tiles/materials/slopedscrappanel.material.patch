@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Painel de sucata enferrujada em estado grave de abandono."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Preocupado. Esta superfície metálica parece muito irregular e enferrujada."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Metal tão enferrujado, Floran nem o usssaria."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Este painel de metal é apenas uma sucata enferrujada."
+  }
+]

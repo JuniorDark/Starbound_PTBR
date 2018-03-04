@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma caixa selada de componentes de armas, valiosa para o comércio interestelar."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "value": "Era uma vez, embora não há muito tempo atras, uma coisa estranha aconteceu entre os Glitch.\n\nEles viviam bastante pacificamente, na maneira normal da sua espécie - festejavam alegremente nos castelos e trabalhavam alegremente nos campos, e assim continuaram, como de costume. Mas um dia, um Glitch desconhecido chegou entre eles.\n\nEsse Glitch abriu caminho pra dento de um castelo, sentou no trono, e em voz alta proclamou, 'Decisivo. Eu Sou O Rei'."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um conto folclórico Glitch."
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "O Que Queria Ser Rei Parte 1"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/1",
+    "value": "Os outros Glitch olharam fixamente para esta visão incomum, completamente sem saber o que dizer. \n\nQuem no mundo era esse estranho? Ele certamente parecia possuir auto-confiança excessiva... \n\nEnquanto isso não era normalmente a forma como tais coisas foram determinadas, os Glitch decidiram que ele seria rei, se ele realmente quisesse, como ele realmente parecia tão confiante sobre o seu direito de estar lá."
+  }
+]

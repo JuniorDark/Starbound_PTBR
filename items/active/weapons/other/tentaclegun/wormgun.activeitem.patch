@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Essa arma contém uma massa de vermes alienígenas mutantes se contorcendo."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Alien Worm Gun"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "value": " Explosão de Tentáculo"
+  }
+]

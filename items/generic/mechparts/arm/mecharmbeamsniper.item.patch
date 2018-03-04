@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um braço-arma de mecha que descarrega feixes rápidos de energia solar."
+  }
+]

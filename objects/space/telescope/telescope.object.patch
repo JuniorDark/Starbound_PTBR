@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um telescópio científico, perfeito para observar as estrelas."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Este grande telescópio pode me permitir ver objetos distantes."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Um telescópio especialmente feito para olhar as estrelas."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Telessscópios permitem Floran olhar atentamente para as estrelas."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Animado. Este telescópio é a ferramenta perfeita para inspecionar as estrelas de longe."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Este telescópio grande parece especialmente desenhado para astronomia."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Espelhos em telescópios como este devem ser posicionados de forma muito precisa."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Um grande telescópio para olhar as estrelas."
+  }
+]

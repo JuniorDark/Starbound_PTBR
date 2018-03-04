@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/speedTitleLabel/value", "value": "Velocidade de Ataque:"}, {"op": "replace", "path": "/damagePerShotTitleLabel/value", "value": "Dano Por Ataque:"}]

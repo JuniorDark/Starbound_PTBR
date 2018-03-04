@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "tool"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma rede para capturar insetos! Caçe insetos, capture-os, e aumente sua coleção!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Bug Net"
+  }
+]

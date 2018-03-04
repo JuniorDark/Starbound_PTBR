@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/descriptionLabel/value", "value": "Coleta carne e outros produtos de monstros."}, {"op": "replace", "path": "/maxDamageTitleLabel/value", "value": "Dano Base Máximo:"}, {"op": "replace", "path": "/energyPerShotTitleLabel/value", "value": "Energia Por Tiro:"}]

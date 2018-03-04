@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma tigela de porcelana fina."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Uma tigela de porcelana fina. Os Apex geralmente recebem tigelas de plástico."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Avians tradicionalmente comem apenas em pratos."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran tenta comer comida fressca da caçada."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Travesso. O som de uma tigela lançada é mais satisfatório."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Utensílio de cozinha bastante sofisticado."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Os Hylotl também são mestres da porcelana fina."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Esta linda tigela é tão limpa que posso ver meu reflexo."
+  }
+]

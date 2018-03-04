@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "<Um interruptor /'NOT'/. Inverte a entrada no circuito.>"}, {"op": "replace", "path": "/shortdescription", "value": "NOT Switch"}]

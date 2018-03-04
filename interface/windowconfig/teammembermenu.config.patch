@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/removeSelfText","value":"Sair"},{"op":"replace","path":"/removeOtherText","value":"Remover"},{"op":"replace","path":"/paneLayout/beamToShip/caption","value":"Ir a nave"},{"op":"replace","path":"/paneLayout/makeLeader/caption","value":"Tornar Lider"},{"op":"replace","path":"/paneLayout/removeFromTeam/caption","value":"Remover"}]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "O relatório de teste de pesquisa e desenvolvimento realizado pela Miniknog."
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": " Relatório de P&D da Miniknog "
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "value": "A mais recente iteração do Sistema de Projeção e Implementação Balística Big Ape está se provando altamente eficaz. Até agora todos os sujeitos de teste foram anulados.\n\nHá ainda um debate entre a equipe de Pesquisa e Desenvolvimento quanto aos benefícios de limitar a letalidade no sistema.\n\nIterações anteriores deixaram alguns indivíduos vivos, e as experiências desses sobreviventes tem tido um enorme impacto sobre sua alma."
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/1",
+    "value": "Seu terror resultante do \"Big Ape\" inspirou os níveis de lealdade para a figura que é inédito. Os defensores do ajuste apontam que criar esse aspecto no sistema pode ser benéfico para a promoção contínua da construção de Big Ape.\n\nEsta escola de pensamento está ganhando impulso, e é provável que mudanças em breve serão implementadas para permitir propositadamente algumas poucas possibilidades para a sobrevivência das cobaias."
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/2",
+    "value": "Apesar disso, houve muita celebração dentro do departamento, como resultado da realização de uma taxa de fatalidade de 100% usando a versão atual do sistema."
+  }
+]

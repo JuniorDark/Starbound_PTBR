@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Pernas de mecha resistentes que equilibram a velocidade e potência do propulsor."
+  }
+]

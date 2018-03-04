@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/speedStatLabel/value",
+    "value": "Velocidade de Voo"
+  },
+  {
+    "op": "replace",
+    "path": "/controlStatLabel/value",
+    "value": "Manobrabilidade"
+  }
+]

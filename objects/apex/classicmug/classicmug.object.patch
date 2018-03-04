@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma caneca de porcelana fina."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Uma caneca para suco quente. Tais sucos foram banidos na proibição."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Os Avian não tem copos com este tipo de formato."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Aroma nojento de frutass dentro."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Analítico. O copo parece ter contido um suco de fruta aquecido."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "O cheiro me lembra de sucos de frutas tropicais."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Hylotl adotaram um fator de forma menor para beber bebidas quentes."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Uma caneca grossa para bebidas quentes, eu acho."
+  }
+]

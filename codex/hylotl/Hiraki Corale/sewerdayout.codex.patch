@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um trecho do diário de Hiraki Corale, Hylotl Aventureiro"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "Um Bom Dia de Folga"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "value": "por Hiraki Corale, Hylotl Aventureiro\n\nEu me encontrei em um pouco de um impasse; atrás de mim, uma horda de Glitchs com forcados e tochas. À minha frente, a abertura para um esgoto. Tomei coragem, e mergulhei de cabeça nos túneis escuros.\n\nNossa, essa foi por um triz! Agora estou aqui em baixo, explorando os corredores labirínticos, não encontrando nem uma alma. É, de fato, bastante pacífico."
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/1",
+    "value": "O gotejamento constante da água do teto, a passagem de fluxos de água sob os pés, o zumbido esporádico de asas gigantes, em algum lugar atrás de mim..."
+  }
+]

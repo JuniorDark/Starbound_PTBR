@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Uma caixa de aparência resistente, iluminada por um conjunto de luzes vermelhas fracas."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Esta caixa parece ser difícil de destruir."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Essa caixa tem olhos vermelhosss? Floran preocupado."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Impressionado. O exterior desta caixa é feito para suportar a pressão extrema. Se eu fosse tão durão como isso..."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Eu poderia fingir estar interessado em como esta caixa parece, mas realmente eu só quero ver o que está dentro."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Esta caixa é projetada para suportar a pressão extrema. Gostaria de saber se um Hylotl ajudou a projetá-la?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "O exterior desta caixa é feito para suportar a pressão extrema, mas realmente eu só quero ver o que está dentro!"
+  }
+]

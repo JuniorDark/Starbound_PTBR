@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/energyStatLabel/value",
+    "value": "Energia Máxima"
+  },
+  {
+    "op": "replace",
+    "path": "/protectionStatLabel/value",
+    "value": "Defesa"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um bar de metal com uma superfície suavemente polida."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Este bar não serve para muita coisa, exceto um lugar para perder tempo."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Este bar é frio e industrial, mas pelo menos os bancos parecem confortáveis."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Essste bar pode ser um bom lugar para Floran começar brigas..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Desinteressado. A maioria dos Glitch preferem uma grande mesa sobre um bar para beber e celebrar."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Este bar é bom, mas não tem muito uso sem alguém para cuidar dele."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Nada como sentar ao lado de algumas caras novas em um bar para fazer amigos."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Parece-me um bom lugar para puxar um banquinho e descansar um pouco."
+  }
+]

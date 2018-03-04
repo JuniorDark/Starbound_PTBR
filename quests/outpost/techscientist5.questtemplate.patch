@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "^orange;Arredondando Os Componentes"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "A ^orange;tecnologia^white; que estou trabalhando agora é realmente fantástica! Ela permite que o usuário se comprima em forma de uma pequena esféra, ideal para se deslocar em espaços apertados. Eu preciso de alguns componentes finais para termina-la. ^green;Você poderia me trazer ^orange;10 Gold Bars^white;?"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "Excelente! Agora tudo o que resta é testar a ^orange;Tecnologia de Esfera de Distorção^white; e eu tenho a pista para ela."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "value": "Fale com ^orange;Elliott^reset; no ^orange;Posto Avançado^reset;"
+  }
+]

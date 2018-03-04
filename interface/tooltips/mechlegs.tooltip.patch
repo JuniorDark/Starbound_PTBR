@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/speedStatLabel/value",
+    "value": "Velocidade no Solo"
+  },
+  {
+    "op": "replace",
+    "path": "/jumpStatLabel/value",
+    "value": "Poder de Pulo"
+  }
+]

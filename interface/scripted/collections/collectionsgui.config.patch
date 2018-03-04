@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/gui/windowtitle/subtitle", "value": "Catalogue tudo o que você viu e fez!"}, {"op": "replace", "path": "/gui/selectLabel/value", "value": "Coleção"}, {"op": "replace", "path": "/gui/emptyLabel/value", "value": "Selecione uma coleção à esquerda"}, {"op": "replace", "path": "/gui/windowtitle/title", "value": "Biblioteca de Coleções"}]

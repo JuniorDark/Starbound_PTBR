@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Armadura de perna decorativa, reservada apenas para indivíduos de grande valor."
+  }
+]

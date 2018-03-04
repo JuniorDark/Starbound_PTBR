@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/0", "value": "Intruso!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/0", "value": "CORTAR E PICAR!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/1", "value": "CORTAR E PICAR!"}]

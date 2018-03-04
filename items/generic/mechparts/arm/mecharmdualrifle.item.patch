@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "O que é melhor do que uma metralhadora gigante? Duas metralhadoras gigantes."
+  }
+]

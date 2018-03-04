@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "É um ovo!"}, {"op": "replace", "path": "/shortdescription", "value": "Egg"}]

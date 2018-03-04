@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A arma de mecha mais barata disponível, um braço que dispara cacos metálicos aquecidos."
+  }
+]

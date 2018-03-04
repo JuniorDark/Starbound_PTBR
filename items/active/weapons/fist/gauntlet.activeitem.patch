@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Gauntlet ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Perfeita para iniciar um duelo."}, {"op": "replace", "path": "/shortdescription", "value": "Gauntlet"}]

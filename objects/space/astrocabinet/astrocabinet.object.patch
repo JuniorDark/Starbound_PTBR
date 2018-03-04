@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um armário metálico moderno com suportes de montagem no chão."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Deve haver um motivo pelo qual esses armários são moldados dessa forma."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Este armário é um pouco sofisticado para para o meu gosto, mas eu gosto."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Armários podem conter todo tipo de coisasss."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Impressionado. Este pequeno armário possui uma capacidade de armazenamento generosa."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Este armário me faz lembrar de algo. Não consigo colocar o dedo sobre ele."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Sou um fã da forma como este armário foi projetado."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Um armário, bom o suficiente para esconder tudo o que ocê precisa."
+  }
+]

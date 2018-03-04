@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "Parabéns! Agora que você tem dois tripulantes você foi qualificado para a Sparrow License. Você pode atualizar a sua nave! ^green;Visite Pinguim Pete no posto avançado^reset; com ^orange;2 Upgrade Modules^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "Vou atualizar sua nave agora. Tenho certeza que você estará satisfeito com o nível de habilidade."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/portraits/questComplete/title",
+    "value": "Pinguim Pete"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "^green;Atualização de Nave Sparrow"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "value": "Entregue ^orange;Upgrade Modules^reset; para ^orange;Penguin Pete^reset; no ^orange;posto avançado^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/conditions/0/description",
+    "value": "Encontre ^orange;<itemName>^reset;: ^green;<current> / <required>^reset;"
+  }
+]

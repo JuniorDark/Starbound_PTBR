@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "value": "por Hiraki Corale, Hylotl Aventureiro\n\nPassei meus dias neste navio me sentindo realmente enjoado, na ocasião eu realmente sucumbi à náusea e... Bem, não é educado falar disso.\n\nAgora, estou à procura de um companheiro. E um plano! E uma causa, talvez. Ouvi que os Apex poderiam precisar de uma ajudinha. Ou talvez os humanos. Vou fazer uma cruzada pela justiça em toda a galáxia, e será glorioso."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um trecho do diário de Hiraki Corale, Hylotl Aventureiro"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "Enjoado"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma placa halógena para a Corporação Letheia."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Uma placa de aparência corporativa brilhante."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Esta é uma placa muito angular."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Placa é muito inclinada."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Curioso. Isso parece ser uma placa para algum tipo de marca ou empresa."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Uma placa para a Corporação Letheia, uma empresa de conglomerado com muito dinheiro para gastar."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Uma placa para a Corporação Letheia, uma empresa Hylotl bem conhecida."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "É um pouco chamativa para uma placa, não é?"
+  }
+]

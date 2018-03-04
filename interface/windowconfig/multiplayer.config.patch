@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/account/hint", "value": "conta do servidor"}, {"op": "replace", "path": "/address/hint", "value": "endereço do servidor"}, {"op": "replace", "path": "/port/hint", "value": "porta"}, {"op": "replace", "path": "/password/hint", "value": "senha do servidor"}, {"op": "replace", "path": "/connect/caption", "value": "Entrar"}]

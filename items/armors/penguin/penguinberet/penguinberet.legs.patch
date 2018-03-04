@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma boina militar, apta para um pequeno soldado Pinguim. Que fofo."
+  }
+]

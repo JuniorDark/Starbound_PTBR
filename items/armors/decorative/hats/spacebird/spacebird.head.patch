@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um capacete decorativo, apto para guerreiros espaciais prontos para a batalha."
+  }
+]

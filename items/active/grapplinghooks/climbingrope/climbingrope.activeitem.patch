@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "tool"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Rope"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um pedaço de corda. Útil para escalada e amarrar as coisas juntas!"
+  }
+]

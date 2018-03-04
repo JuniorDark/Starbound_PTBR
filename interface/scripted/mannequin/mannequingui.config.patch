@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/gui/swapGender/caption", "value": "Mudar Gênero"}, {"op": "replace", "path": "/gui/equipFunctional/caption", "value": "Equipar (Funcional)"}, {"op": "replace", "path": "/gui/equipCosmetic/caption", "value": "Equipar (Cosmético)"}]

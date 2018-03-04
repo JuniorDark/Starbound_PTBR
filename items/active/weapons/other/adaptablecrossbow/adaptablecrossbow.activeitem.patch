@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Adaptable Crossbow ^yellow;^reset;"}, {"op": "replace", "path": "/shortdescription", "value": "Adaptable Crossbow"}, {"op": "replace", "path": "/description", "value": "Lança dardos intercambiáveis por força magnética."}]

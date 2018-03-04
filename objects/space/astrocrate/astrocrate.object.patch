@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um grande recipiente especializado para transporte espacial."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Uma caixa de transporte espacial padrão."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Este recipiente é grande, isso significa muito espaço para armazenar coisas dentro."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Grande caixa listrada de metal."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Interessado. Os metais utilizados nesta caixa a tornam forte, mas bastante leve."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Uma caixa de transporte de grandes dimensões, isso pode armazenar muita coisa dentro."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Um grande recipiente de transporte, feito para transporte de mercadorias."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Eu acreditaria que você poderia armazenar qualquer coisa nessa grande caixa."
+  }
+]

@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/paneLayout/windowtitle/title", "value": "ATENÇÃO"}, {"op": "replace", "path": "/paneLayout/ok/caption", "value": "Ok"}]

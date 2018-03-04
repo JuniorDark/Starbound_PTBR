@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Esta porta é feita de algum tipo de material à prova de balas. Possui um trilho composto que corre por ela."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Uma eclusa de ar com trilho."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Uma eclusa de ar com um trilho passando por ela."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "É uma eclusa de ar com trilhosss."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Apreciativo. Uma eclusa de ar resistente com um trilho passando por ela."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Uma eclusa de ar que inclui um trilho. Útil!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Uma eclusa de ar básica para sistemas ferroviários."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Parece uma eclusa de ar com trilhos correndo pelo meio."
+  }
+]

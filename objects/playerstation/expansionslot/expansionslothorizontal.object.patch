@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma porta na qual as peças de expansão da estação modular podem ser anexadas."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Esta porta é usada para adicionar módulos adicionais a uma estação espacial."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Este terminal é para gerenciar os módulos de expansão para esta estação."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Computadoresss podem anexar mais espaçosss à estação."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Observador. Este tipo de terminal pode ser usado anexar uma variedade de módulos internos à estação."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Uma porta de expansão, há um monte de módulos de estação diferentes que podem ser anexados a ela."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Este painel pode ser usado para expandir o interior da estação."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Alguns computadores chiques para tornar a estação ainda maior."
+  }
+]

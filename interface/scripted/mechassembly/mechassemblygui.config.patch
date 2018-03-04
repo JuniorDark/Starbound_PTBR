@@ -1,0 +1,77 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": "^#b9b5b2;Equipe e personalize o seu mecha pessoal!"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": "  Estação de Montagem de Mecha"
+  },  
+  {
+    "op": "replace",
+    "path": "/gui/lblSlot_body/value",
+    "value": "Corpo"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblSlot_leftArm/value",
+    "value": "Braço E"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblSlot_legs/value",
+    "value": "Pernas"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblSlot_booster/value",
+    "value": "Propulsor"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblSlot_rightArm/value",
+    "value": "Braço D"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblSlot_horn/value",
+    "value": "Buzina"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblPrimaryColor/value",
+    "value": "Cor 1"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblSecondaryColor/value",
+    "value": "Cor 2"
+  },
+  {
+    "op": "replace",
+    "path": "/disabledText",
+    "value": "^red;Usuário Não Autorizado"
+  },
+  {
+    "op": "replace",
+    "path": "/incompleteText",
+    "value": "^red;Configuração Incompleta"
+  },
+  {
+    "op": "replace",
+    "path": "/completeText",
+    "value": "^cyan;Pronto para Lançar!"
+  },
+  {
+    "op": "replace",
+    "path": "/energyFormat",
+    "value": "Energia: %d MJ"
+  },
+  {
+    "op": "replace",
+    "path": "/drainFormat",
+    "value": "Uso: %.02f MJ/s"
+  }
+]

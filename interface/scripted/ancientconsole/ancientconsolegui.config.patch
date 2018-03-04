@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/gui/costDescription/value", "value": "FRAGMENTOS NECESSÁRIOS"}, {"op": "replace", "path": "/gui/costLabel/value", "value": "0 / --"}, {"op": "replace", "path": "/gui/windowtitle/subtitle", "value": "Ativado com Core Fragments"}, {"op": "replace", "path": "/gui/windowtitle/title", "value": "Console do Antigo Portal"}]

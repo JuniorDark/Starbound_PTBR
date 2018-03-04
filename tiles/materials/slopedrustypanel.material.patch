@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Painéis de metal resistentes que enferrujaram com o tempo."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Ansioso. Tenho certeza que com alguma graxa de cotovelo, este painel de metal pode ser limpo."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran quer fazer lançasss de metal enferrujado."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Alguns painéis metálicos velhos cobertos de ferrugem."
+  }
+]

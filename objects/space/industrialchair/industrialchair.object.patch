@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Esta cadeira parece que é barato para produzir em massa, mas pode ser um pouco desconfortável."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Eu não acho que eu gostaria de descansar minhas penas por muito tempo nesta cadeira dura."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Cadeira parece pesada. Floran ainda pode jogá-la!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Desconfortável. Esta cadeira parece que foi feita para a produção eficiente, em vez de conforto."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Você pensaria que com toda essa tecnologia espacial, as pessoas descobririam como fazer cadeiras consistentemente confortáveis."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Uma cadeira tão desconfortável não poderia ter sido feita acidentalmente."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Não é o mais confortável de assentos, mas eu poderia relaxar nisso se eu tentar bastante."
+  }
+]

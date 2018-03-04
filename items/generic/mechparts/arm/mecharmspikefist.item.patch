@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma arma de mecha que dispara um punho de auto-retorno com espinhos de durasteel."
+  }
+]

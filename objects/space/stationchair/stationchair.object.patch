@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma cadeira de metal curvada e formal."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Uma cadeira simples, inteiramente feita de ligas metálicas."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Uma cadeira de prata brilhante."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran não tem tempo para sssentar."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Impressionado. Esta cadeira parece ser significativamente mais forte do que a maioria das cadeiras no universo."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Já vi muitas cadeiras no meu tempo, mas esta... Não é a minha favorita."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Uma cadeira decorada com faixas de cor que se encaixam bem."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Sim senhor, isso é uma boa cadeira."
+  }
+]

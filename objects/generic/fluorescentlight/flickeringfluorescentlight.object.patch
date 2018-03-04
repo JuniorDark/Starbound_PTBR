@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Esta luz fluorescente já viu dias melhores."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Esta luz tem apenas o menor pisca de energia. Talvez possa ser reparada."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Esta luz está quase completamente quebrada."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Luz cintilante."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Descontente. Esta luz fluorescente é quase não funcional."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Uma luz quebrada que cintila fracamente."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Esta luz parece não estar funcionando corretamente."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Esta luz quebrada não está piscando mais do que uma vela."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Este farol de orientação marca a posição de uma baía de atracagem."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Isto marca a posição de uma baía de atracar mecha."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Este marcador significa uma baía espacial feita para atracar mechas."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Farol mostra onde os mechas podem atracar."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Informado. Este tipo de farol é útil para rastrear onde os veículos mecha podem atracar."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Um marcador para dizer aos pilotos onde atracar seus mechas."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Este farol é para marcar baías de entrada para mechas."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Este marcador está aqui para marcar onde atracar o seu mecha."
+  }
+]

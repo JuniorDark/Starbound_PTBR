@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma flor com pétalas vermelhas brilhantes. Útil para fazer tintura."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Uma flor vermelha, usada para fazer tintura vermelha. A melhor cor!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "As pétalas desta flor podem ser usadas para fazer tintura vermelha, uma cor versátil e poderosa."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Esta flor é um vermelho escuro. Lembra Floran de um amigo."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Respeitoso. As pétalas vermelhas da flor são usadas na fabricação da tintura vermelha, uma cor real."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Desta flor minúscula eu posso fazer uma tintura vermelha rica."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Uma flor vermelha. Vibrante, rica, bonita."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Uma flor vermelha, eu sempre quero parar e cheirá-las. Eu quero saber porque?"
+  }
+]

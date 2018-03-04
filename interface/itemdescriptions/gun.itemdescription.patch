@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/energyPerShotTitleLabel/value", "value": "Energia Gasta Por Tiro:"}, {"op": "replace", "path": "/speedTitleLabel/value", "value": "Cadência de Tiro:"}, {"op": "replace", "path": "/damagePerShotTitleLabel/value", "value": "Dano por Tiro:"}]

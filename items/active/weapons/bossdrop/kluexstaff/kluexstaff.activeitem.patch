@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Kluex Staff ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Este poderoso cajado fortalece o guerreiro que o empunha."}, {"op": "replace", "path": "/shortdescription", "value": "Kluex Staff"}]

@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um grande gerador rotativo, ou um radar, ou talvez um motor..."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Esta parece ser uma peça de maquinaria incrivelmente complexa. Eu me pergunto o que realmente faz?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Que máquina deliciosa! No entanto, não consigo identificar o seu propósito."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran não sssabe o que coisa girante é."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Confuso. Esta máquina parece ser muito importante, mas não consigo identificar seu propósito."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Esta peça de maquinaria é muito grande e importante. Será que... realmente faz alguma coisa?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Esta máquina descomprometida não parece fazer nada imediatamente útil."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Isso certamente parece uma aparência mais complexa do que uma máquina a vapor, com certeza..."
+  }
+]

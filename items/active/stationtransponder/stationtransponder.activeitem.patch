@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Configure sua própria sonda de implantação de estação."
+  }
+]

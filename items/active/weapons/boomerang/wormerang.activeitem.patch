@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Giant Worm ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Um verme gigante aterrorizante, jogue em alguém."}, {"op": "replace", "path": "/shortdescription", "value": " Giant Worm "}]

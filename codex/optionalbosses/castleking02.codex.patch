@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "value": "O novo rei Glitch se auto-denominava Dreadwing, e governou severamente; seus súditos deveriam trabalhar dia e noite. Isto logo causou dano em seus circuitos, e causou estragos a suas articulações.\n\nPara a fúria de Dreadwing, esses problemas não se resolveram, e em sua raiva, ele exigiu a construção de mais Glitchs para aumentar seus recursos.\n\nOs Glitch estavam desconfortáveis com isso. Afinal ter filhos é uma grande decisão de vida."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um conto folclórico Glitch."
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "O Que Queria Ser Rei Parte 2"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/1",
+    "value": "Enquanto eles puderem, eles adiaram esta tarefa e tentaram acalmar o seu rei de outros modos, até que um dia Dreadwing teve um ataque de raiva tão feroz que os Glitch sabiam que eles não podiam para-lo mais."
+  }
+]

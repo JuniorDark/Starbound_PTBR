@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um passo abaixo de um sharknado."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Fishaxe"
+  }
+]

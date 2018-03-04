@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um armário montado na parede, completo com listras de perigo e uma luz vermelha."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Isso parece um recipiente seguro para bens valiosos."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Um armário de parede de metal, para guardar coisas dentro."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran poderia guardar troféusss aqui."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Intrigado. Me pergunto por que existem listras de perigo neste armário?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Um armário de parede, para guardar coisas dentro."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Um armário um pouco grosseiro para armazenar coisas."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Eu acho que eu poderia colocar alguns pertences aqui, se eu quisesse."
+  }
+]

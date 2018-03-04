@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "O diário de um explorador que se tornou um senhorio."
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "Como Me Tornei Um Senhorio 4"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "value": "Para um Floran, Ambiri parece gostar muito de água. Ele sempre está abrindo as portas quando chove e fica correndo lá fora. \n\nOntem eu cheguei em casa com uma inundação no porão onde Ambiri decidiu se secar ao lado da minha fornalha depois de ficar particularmente encharcado. Bom trabalho reforçando as paredes com tijolos de pedra de túmulo.\n\nTalvez ele goste de um aquário?"
+  }
+]

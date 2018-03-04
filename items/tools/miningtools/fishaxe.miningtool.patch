@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "tool"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "AGORA você minera peixe."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Fishaxe"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma elegante porta automatizada, feita a partir dos mesmos materiais encontrados no exterior das estações espaciais."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Uma elegante porta de metal. Eu aprecio seu design pontudo."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Esta é uma porta de metal bem fabricada!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Porta parece afiada. Floran consssiderando porta como arma potencial."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Remanescente. O design angular desta porta me lembra os tradicionais estandartes Glitch."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Esta porta provavelmente poderia levar alguns golpes, para dizer o mínimo."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Uma porta bastante impressionante. Surpreendentemente, eu me encontro aprovando isso."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Esta porta aqui parece que pode durar uma tempestade ou duas."
+  }
+]

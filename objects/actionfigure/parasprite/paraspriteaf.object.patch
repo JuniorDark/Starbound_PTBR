@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A etiqueta diz, \"Uma arma biológica criada por cientistas humanos irresponsáveis.\""
+  }
+]

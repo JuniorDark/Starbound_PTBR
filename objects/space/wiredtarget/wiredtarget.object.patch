@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Este alvo emite um sinal de fiação até ser quebrado."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Este alvo transmite sinal de fiação até ser quebrado."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Alvos como este pode ser conectados a objetos com fiação."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Alvo brilhante esta apenas implorando para ser quebrado."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Interessado. Isso parece ser um alvo, que pode ser conectado a algo."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Este alvo pode passar um sinal de fiação até que seja quebrado."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Este alvo é hipnotizante, quebrando pode desencadear algo."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Apenas o que eu preciso para a prática de tiro. Pergunto se quebrar esse alvo faz alguma coisa."
+  }
+]

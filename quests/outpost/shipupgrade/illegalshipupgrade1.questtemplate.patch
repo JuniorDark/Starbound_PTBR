@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "Esta licença é definitivamente legítima. ^green;Visite Pinguim Pete^reset; com ^orange;2 Upgrade Modules^reset; para atualizar a sua nave."
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "Vou atualizar a sua nave agora. Tenho certeza que você estará satisfeito com o nível de habilidade."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/portraits/questComplete/title",
+    "value": "Pinguim Pete"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "^green;Atualização de Nave Shady Sparrow"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "value": "Entregue ^orange;Upgrade Modules^reset; para ^orange;Penguin Pete^reset; no ^orange;posto avançado^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/conditions/0/description",
+    "value": "Ache ^orange;<itemName>^reset;: ^green;<current> / <required>^reset;"
+  }
+]

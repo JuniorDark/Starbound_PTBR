@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/speciesText/default/selectSpeech/text", "value": "O proprietário do Break Easy requer assistência. Derrote Dreadwing."}, {"op": "replace", "path": "/speciesText/default/buttonText", "value": "Dreadwing"}, {"op": "replace", "path": "/speciesText/default/repeatButtonText", "value": "Desafie Dreadwing novamente"}]

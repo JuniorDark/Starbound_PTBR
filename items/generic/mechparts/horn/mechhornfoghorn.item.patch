@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um chifre tradicionalmente usado para avisar os outros de perigos próximos."
+  }
+]

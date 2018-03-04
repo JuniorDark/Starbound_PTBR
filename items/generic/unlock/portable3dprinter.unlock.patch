@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/unlockMessage", "value": "Agora você pode imprimir pequenos itens de alta tecnologia sem uma mesa de fabricação."}, {"op": "replace", "path": "/description", "value": "Desbloqueia a capacidade de criar pequenos itens de alta tecnologia."}, {"op": "replace", "path": "/shortdescription", "value": "^orange;Portable Pixel Printer^white;"}]

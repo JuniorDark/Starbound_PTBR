@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um testemunho lendário das primeiras viagens espaciais."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Eu acho que isso pode ser uma réplica, aterrissadores como este não tem sido usado a um longo tempo."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Um lembrete de que cada viagem começa com um pequeno passo..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Esste aterrissador não é maior do que uma cabana."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Surpreendido. Os seres uma vez confiaram nessas cápsulas primitivas no espaço."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Eles não os fazem como costumavam fazer."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Olhar para isso pode servir como uma lembrança de quão longe chegamos na exploração espacial."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Já vi casas com mais espaço no interior do que este velho aterrissador."
+  }
+]

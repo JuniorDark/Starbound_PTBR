@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Este componente poderia ser útil para criar peças de mecha de alta tecnologia."
+  }
+]

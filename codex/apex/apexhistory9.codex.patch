@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "value": "ESTE É UM ANÚNCIO DE SERVIÇO PÚBLICO DA MINIKNOG \n\nTodas as fontes de água foram descobertas conter um patógeno letal // \nOs médicos da Miniknog já descobriram uma cura // \nA vacinação inclui a matrícula gratuita no Processo Vestigi-Evo. Isso não é opcional // \nOs cidadãos devem se apresentar imediatamente à sua prefeitura local para vacinação //"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "Aversão à Crise Miniknog"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma transcrição de um ASP da Miniknog."
+  }
+]

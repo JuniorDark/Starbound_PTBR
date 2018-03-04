@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um braço que dispara cartuchos que explodem em todas as direções."
+  }
+]

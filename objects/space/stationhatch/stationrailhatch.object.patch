@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma grande escotilha elegante que possui um conector de trilho incorporado para uso com elevadores."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Uma escotilha metálica lustrosa. Eu aprecio seu design pontudo."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Esta é uma escotilha de metal bastante bem feita!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Esscotilha parece afiada. Floran consssiderando escotilha como arma potencial."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Remanescente. O design angular desta escotilha me lembra os tradicionais estandartes Glitch."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Esta escotilha provavelmente poderia levar alguns golpes, para dizer o mínimo."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Uma escotilha bastante impressionante. Surpreendentemente, eu me encontro aprovando isso."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Esta escotilha aqui parece que pode durar uma tempestade ou duas."
+  }
+]

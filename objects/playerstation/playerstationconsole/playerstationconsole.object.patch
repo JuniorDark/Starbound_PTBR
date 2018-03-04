@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um console para monitorar as condições dentro de uma estação em órbita."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Este console avançado pode monitorar todas as áreas de uma estação."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Um terminal para monitorar as condições dentro de uma estação."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Terminal de computador chique da esstação essspacial."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Interessado. Este terminal é capaz de se interligar através de uma estação de muitos componentes."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Este terminal avançado foi projetado para acompanhar as condições da estação espacial."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Este terminal é feito para controlar sistemas dentro de uma estação espacial."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Um computador sofisticado para ajustar sistemas dentro de uma estação."
+  }
+]

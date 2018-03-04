@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma exibição holográfica cintilante de um planeta não identificado."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Um holograma de um planeta e uma lua. A qualidade da projeção é questionável."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Um holograma de um planeta - uma imagem tridimensional feita de luz!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran não pode jogar bola azul, bola não é real."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Curioso. Me pergunto que planeta esse holograma está retratando?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ainda me pergunto por que todos os hologramas são obrigados a ser azul. É uma escolha estilística?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "O azul é realmente a melhor cor para as projeções holográficas."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Uma imagem flutuante de um mundo de céu azul."
+  }
+]

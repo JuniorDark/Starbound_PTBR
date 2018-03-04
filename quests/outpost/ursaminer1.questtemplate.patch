@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "Meu Ursa Menor perdeu seu amado ^orange;teddy bear^white;. Eu não posso terminar a criação da loja com ele assim - você pode me ajudar a ^green;conseguir um novo teddy bear^white; para ele, por favor?"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "Ursa Menor está feliz agora! Obrigado, agora eu posso terminar a abertura da loja."
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "^green;O Ursinho Perdido"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/failConditions/0/failureText",
+    "value": "Ursa Menor já obteve o seu ursinho de outra pessoa!"
+  }
+]

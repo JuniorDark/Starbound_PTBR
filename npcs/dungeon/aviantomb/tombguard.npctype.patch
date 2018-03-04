@@ -1,0 +1,72 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "value": "Intruso! Deixe este solo sagrado!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/1",
+    "value": "Pare bem ai onde você está!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/2",
+    "value": "Você desonra Kluex!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/3",
+    "value": "Você não é bem-vindo, estranho!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/4",
+    "value": "Hoje, Kluex reivindica outra alma!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/5",
+    "value": "A ira de Kluex caíra sobre você!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/6",
+    "value": "O poder de Kluex me obriga a matar você!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/0",
+    "value": "Intruso! Deixe este solo sagrado!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/1",
+    "value": "Pare bem ai onde você está!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/2",
+    "value": "Você desonra Kluex!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/3",
+    "value": "Você não é bem-vindo, estranho!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/4",
+    "value": "Hoje, Kluex reivindica outra alma!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/5",
+    "value": "A ira de Kluex caíra sobre você!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/6",
+    "value": "O poder de Kluex me obriga a matar você!"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um banco de metal elegante."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "As listras de cores neste banco são decoradas com bom gosto."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Bancos são melhores compartilhados com os amigos."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Banco fornece cobertura tática."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Observador. Um banco longo para sentar-se com aliados."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "É um banco, ou é simplesmente uma cadeira ampla?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Um banco agradável."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Eu poderia deitar sobre isso, mas pode não ser tão educado..."
+  }
+]

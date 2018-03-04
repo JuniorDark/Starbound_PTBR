@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "tool"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Wooden Watering Can"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Gentilmente e eficiente rega suas plantações."
+  }
+]

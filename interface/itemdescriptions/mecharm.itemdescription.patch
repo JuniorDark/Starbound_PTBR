@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/powerStatLabel/value",
+    "value": "Força"
+  },
+  {
+    "op": "replace",
+    "path": "/energyDrainLabelLabel/value",
+    "value": "Uso de Energia"
+  }
+]

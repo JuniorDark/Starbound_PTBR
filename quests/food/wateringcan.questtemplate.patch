@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/title", "value": "^green;Sim eu Posso!"}, {"op": "replace", "path": "/completionText", "value": "Ótimo! Com este regador e uma enxada eu devo estar pronto para começar a agricultura."}, {"op": "replace", "path": "/text", "value": "Para cultivar plantas vou precisar manter o solo úmido. Eu deveria ^orange;criar um wooden watering can^white;."}]

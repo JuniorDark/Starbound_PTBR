@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma flor com pétalas amarelas brilhantes. Útil para fazer tintura."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Com esta flor eu posso finalmente deixar todas as minhas roupas amarelas."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "A tintura de flores amarelas é bastante usado na cultura Avian."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Flor amarela sssimboliza a juventude na cultura Floran."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Entusiasmado. Uma flor amarela vibrante."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Por que você me animou, flor amarela de espécie desconhecida?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Uma flor amarela encantadora."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Uma simples flor amarela."
+  }
+]

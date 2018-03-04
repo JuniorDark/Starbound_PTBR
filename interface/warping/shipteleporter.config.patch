@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/destinations/0/name","value":"Descer"},{"op":"replace","path":"/destinations/0/planetName","value":"mundo orbitado atualmente"},{"op":"replace","path":"/destinations/1/name","value":"Lançar Mecha"},{"op":"replace","path":"/destinations/1/planetName","value":"mundo orbitado atualmente"}]

@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Equipe e personalize seu mecha pessoal!"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Com esta estação eu poderia montar componentes em um mecha funcional."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Esta estação é feita para montar grandes veículos mecha."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran poderia fazer grande mecha com esta estação."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Atônito. Esta estação de montagem avançada foi projetada para fazer mechas."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Esta estação é usada para construir e equipar mechas."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Este terminal é usado para customizar e equipar veículos mecha."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Esta estação vai me deixar montar um mecha do jeito que eu quiser."
+  }
+]

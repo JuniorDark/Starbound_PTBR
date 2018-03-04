@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma porta roxa com um olho, apta para um culto maligno."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Este grande olho... Parece que estou sendo observado."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "O olho desta porta é claramente um simbolismo cultista."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran não gossta dessa porta de olho grande."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Inquieto. O símbolo de olho grande nesta porta parece olhar ao redor."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Esta porta tem um grande olho estampado nela."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "O grande símbolo de olho nesta porta é muito perturbador."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Tenho a sensação de que algo não está certo sobre esta porta."
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um braço de mecha que lança um drone torreta ofensivo."
+  }
+]

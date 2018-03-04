@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Propulsores veloz de mecha de alcance médio que são moldados como a letra z."
+  }
+]

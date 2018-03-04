@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Usada para produzir componentes modulares de mecha."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Esta mesa pode ser usada para produzir componentes modulares de mecha."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Com esta mesa posso montar componentes modulares de mecha."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Uma essstação de fabricação para fazer peças de mecha."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Animado. Esta estação foi projetada para montar componentes modulares de mecha."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Posso montar componentes modulares de mecha nesta estação."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Esta mesa industrial produz componentes modulares de mecha."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Com esta mesa aqui eu poderia construir algumas peças de mecha."
+  }
+]

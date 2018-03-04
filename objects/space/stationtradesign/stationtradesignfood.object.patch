@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma placa com uma imagem de utensílios de comida, indicando uma estação de comida."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Esta placa destina-se a indicar uma estação de comida."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Esta placa indica uma estação de comida."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran não precisa de ferramentas extravagantes para alimentosss."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Informado. A imagem deste símbolo pretende indicar uma estação de alimentos."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Uma placa que marca uma estação de comida."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Placas como esta geralmente significam que há uma estação de comida próxima."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Acho que esta placa significa que deve haver uma estação de comida por aqui."
+  }
+]

@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/serverAssetsMismatchMessage","value":"Esse servidor não permite conexões de clientes com ativos incompatíveis"},{"op":"replace","path":"/clientAssetsMismatchMessage","value":"Incompatibilidade de ativos entre cliente e servidor, e a opção de substituição não esta definida"}]

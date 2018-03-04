@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "tool"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Platinum Pickaxe"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Esta ferramenta não vai durar muito, mas eu vou ser capaz de cavar muito rápido com ela."
+  }
+]

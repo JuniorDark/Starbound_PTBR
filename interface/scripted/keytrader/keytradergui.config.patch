@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": "Comerciante Misterioso"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": "Troque itens por uma chave misteriosa"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblOfferedTradeLabel/value",
+    "value": "Troca atualmente oferecida:"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/btnTrade/caption",
+    "value": "Trocar"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma folha de metal com um alvo pintado. Perfeito para praticar sua mira."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Um alvo padrão para a prática de mira."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Um alvo de tiro em forma de pessoa."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran não precissa praticar tiro ao alvo. Floran tem melhor pontaria."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Confiante. Estou certo de que poderia atingir o centro desse alvo a uma excelente distância."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Treino de tiro ao alvo! Agora eu posso mostrar a todos o quão bem eu posso apontar... O que é muito bom."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Eu não sinto a necessidade de aprimorar minhas habilidades de mira - Eu sou bom o suficiente."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Treino de tiro? Bem, isso é inutil - eu já sou um bom atirador!"
+  }
+]

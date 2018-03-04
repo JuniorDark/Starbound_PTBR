@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma flor de primavera docemente perfumada."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Uma flor de primavera."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Uma flor de primavera bonita."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran pode usssar esta flor para fazer roupas de coress diferentes."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Alegre. Uma flor de primavera bonita."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Uma flor de primavera, o clima deve ser temperado para ela crescer."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Uma flor de primavera graciosa."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Um punhado das pétalas desta flor é tudo que eu preciso de fazer uma tintura!!"
+  }
+]

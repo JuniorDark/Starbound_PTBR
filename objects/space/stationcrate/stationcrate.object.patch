@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma caixa de transporte, projetada para transportar mercadorias espaciais."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Esta caixa parece muito resistente, e tem uma quantidade razoável de espaço de armazenamento dentro."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Esta caixa de metal poderia manter os produtos com bastante segurança."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Essta caixa de metal foi projetada para transportar suprimentosss espaciais."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Observador. Esta caixa industrial simples é projetada para o transporte espacial."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Uma caixa de transporte de aparência industrial, eu vi estas dentro de naves e estações."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Não tenho certeza o que essas marcas significam, mas é claro que esta caixa foi projetada para transportar mercadorias espaciais."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Uma caixa de metal, feita para guardar suprimentos espaciais."
+  }
+]

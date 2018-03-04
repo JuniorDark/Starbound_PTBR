@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "Esta licença é... Boa, provavelmente. ^green;Traga ^orange;10 Upgrade Modules^green; para Pinguim Pete^white; para atualizar sua nave."
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "Eu disse para os pinguins terminar sua nave com a atualização final. Te agradeço pela preferência."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/portraits/questComplete/title",
+    "value": "Pinguim Pete"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "^green;Atualização de Nave Crooked Condor"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "value": "Entregue ^orange;Upgrade Modules^reset; para ^orange;Penguin Pete^reset; no ^orange;posto avançado^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/conditions/0/description",
+    "value": "Ache ^orange;<itemName>^reset;: ^green;<current> / <required>^reset;"
+  }
+]

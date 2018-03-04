@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "path": "/identity/name",
+    "value": "Papai Noel"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "value": "Comerciante Festivo"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "value": "É a temporada!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+    "value": "Você foi malcriado ou bom este ano, <entityname>?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+    "value": "E para todos, uma boa noite!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
+    "value": "Vem comigo, e ajude a espalhar a alegria festiva!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+    "value": "Você foi malcriado ou bom este ano, <entityname>?"
+  }
+]

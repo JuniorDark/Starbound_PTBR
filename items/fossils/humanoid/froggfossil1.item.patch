@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/completeSetDescriptions/description", "value": "Um excelente exemplo de um Frogg fossilizado."}, {"op": "replace", "path": "/shortdescription", "value": "Frogg Skull"}, {"op": "replace", "path": "/description", "value": "Um crânio de Frogg fossilizado."}, {"op": "replace", "path": "/completeSetDescriptions/shortdescription", "value": "Frogg Fossil"}]

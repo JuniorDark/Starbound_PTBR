@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um guia para traduzir as runas anciãs."
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "O Alfabeto Ancião"
+  }
+]

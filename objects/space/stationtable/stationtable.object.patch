@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma mesa redonda de metal pesado."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Esta mesa de aparência industrial parece muito sólida."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "É uma mesa simples, mas da pro gasto."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Esta mesa de metal é pequena e redonda."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Não impressionado. Esta pequena mesa de metal não é normal."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "É uma pequena mesa de metal."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Esta simples mesa de metal parece bastante robusta."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Esta mesa redonda parece exatamente com a usada em jogo de cartas."
+  }
+]

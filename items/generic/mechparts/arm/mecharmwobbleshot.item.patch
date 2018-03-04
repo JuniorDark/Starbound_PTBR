@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Este braço de mecha dispara estranhas roscas de plasma oscilantes."
+  }
+]

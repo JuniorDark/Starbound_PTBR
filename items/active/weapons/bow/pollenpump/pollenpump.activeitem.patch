@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Controle de pragas perfeito."}, {"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Pollen Pump ^yellow;^reset;"}, {"op": "replace", "path": "/shortdescription", "value": "Pollen Pump"}]

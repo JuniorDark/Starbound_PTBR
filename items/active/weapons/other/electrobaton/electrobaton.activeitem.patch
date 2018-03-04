@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Originalmente desenvolvido para a polícia de choque da Miniknog. É chocantemente eficaz."
+  }
+]

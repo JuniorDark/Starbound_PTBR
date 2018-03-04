@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma broca de mineração básica que pode servir como uma arma em uma pinça."
+  }
+]

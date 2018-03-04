@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "value": "  Comerciante Espacial"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "value": " Vende itens... do ESPAAAAAAÇO!"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um recipiente de metal selado, que pode ser usado para armazenar líquidos perigosos."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Este recipiente parece ideal para o transporte de substâncias voláteis."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Que recipiente curiosa - eu me pergunto o que está dentro?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Tubo amarelo. Poderia ter coisasss dentro."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Observador. Uma breve análise conclui que esta lata é construída para armazenar com segurança líquidos valiosos."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "O som que este recipiente faz quando aberto é bastante satisfatório."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Que recipiente de armazenamento curioso. Talvez seja construído para armazenar combustível?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Isso é um barril de óleo grande? Um barril muito estranho se eu diga."
+  }
+]

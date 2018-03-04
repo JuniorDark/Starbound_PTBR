@@ -1,0 +1,28 @@
+{
+  "id" : "hylotlmission7",
+  "species" : "hylotl",
+  "title" : "Liberdade",
+  "description" : "Um trecho do Livro de Poesia de Beefjeff por Peelz",
+  "icon" : "beefjeffcover.png",
+  "contentPages" : [
+    "A nave está preparada, eu a ouço zumbir,
+O pulso está batendo, o coração está batendo.
+Os guardas da Miniknog estão por perto,
+Medo e pânico inundam minha mente.
+Luz brilha em verde, eu não perco tempo-
+socar o regulador de pressão, cometer um crime.
+Os sinais de néon estão passando rapidamente:
+\"Obedeça Big Ape ou seja exilado!\"
+Eu sei que nunca poderei retornar,
+Mas como o motor de dobra começa a queimar",
+"Eu juro libertar o meu povo
+De sua vida de escravidão.
+Não posso deixá-los atrás das grades
+Enquanto estou livre, vinculado as estrelas."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

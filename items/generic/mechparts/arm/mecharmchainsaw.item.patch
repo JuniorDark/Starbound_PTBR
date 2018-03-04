@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma motosserra energizada originalmente desenvolvida para cortar gelo."
+  }
+]

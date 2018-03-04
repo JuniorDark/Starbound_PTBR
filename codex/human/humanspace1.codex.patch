@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "Relatório Anual da USCM"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um relatório empoeirado da agora dissolvida organização USCM."
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "value": "^yellow;//VISÃO GERAL^white;\n\nA ^orange;Universal Space Corporate Military^white; Enfrentou um ciclo fiscal tributário. Nosso objetivo - espalhar a força e a influência da humanidade para além da Terra - permanece à vista como sempre. \n\nO Protetorado Terreno ainda denota-nos como uma nota de rodapé desonesta na história da Terra, mas estamos confiantes de que a sua inacção insistente deixa-os vulneráveis. Não vamos cometer os mesmos erros que os nossos primos na Terra."
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/1",
+    "value": "^yellow;//EMPREGO^white;\n\nEm ciclos anteriores, nosso projeto de prisão privada mostrou aumentar a conformidade geral do pessoal. No entanto, os últimos seis termos foram difíceis nos nossos cargueiros da classe mercante, o que levou a um aumento do pessoal confinado à prisão no mundo. \n\nAs projeções futuras mostram que as prisões, se deixadas com falta de pessoal, arriscam cada uma a desenvolver suas próprias hierarquias de poder internas. É recomendável uma observação adicional."
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/2",
+    "value": "^yellow;//PROJETOS^white;\n\nNosso futuro financeiro atual pode parecer incerto para muitos, mas avanços em nossos laboratórios de manipulação genética - com a ajuda de nossos aliados na Miniknog - pode nos dar uma base forte no campo de arma biológica. \n\nPesquisa sobre o ^orange;Projeto: PARASPRITE^white; está sendo conduzido simultaneamente através de muitos de nossos cargueiros da classe de pesquisa. Talvez o próximo ciclo seja o início de um novo futuro para a USCM!"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Equipamento de comunicação típico para trabalhar em naves de carga industriais."
+  }
+]

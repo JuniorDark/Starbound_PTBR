@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Coloque o seu chapéu de maestro e entre na pista para se divertir!"
+  }
+]

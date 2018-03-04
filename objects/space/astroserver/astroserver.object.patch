@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma grande rack de servidor de computador, com suportes para montagem no chão."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Este rack de servidor está carregado com equipamentos de informática."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Um rack de servidor elegante."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Gabinete de sservidor chique cheio de computadoresss."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Divertido. A maior parte da tecnologia dentro deste servidor agora pode ser contida dentro de um dispositivo portátil."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Este servidor parece ser configurado para algo importante."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Parece que este servidor é refrigerado a líquido, isso é inteligente."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Computador grande. Do tamanho de uma casa."
+  }
+]

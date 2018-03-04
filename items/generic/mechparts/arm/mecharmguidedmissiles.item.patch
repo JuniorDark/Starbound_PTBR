@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Um braço de mecha pesado que lança um trio de mísseis guiados remotamente."
+  }
+]

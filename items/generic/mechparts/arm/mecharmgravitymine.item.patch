@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Dispara uma mina remota que cria uma pequena singularidade gravitacional."
+  }
+]

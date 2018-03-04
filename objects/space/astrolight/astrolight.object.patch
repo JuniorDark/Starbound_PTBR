@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma luz de utilidade montada no teto."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Esta lanterna não é chamativa, mas é funcional."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Esta lâmpada elétrica lança uma leve luz amarela."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Luz esspacial lança pouca luz."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Curioso. Esta fonte de luz é auto-sustentável de alguma forma."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Esta fonte de luz é auto-sustentável de alguma forma."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Esta lâmpada parece ser fechada a ar, imagino que funcionaria bem debaixo d'água."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Esta lâmpada elétrica é mais brilhante do que uma fogueira."
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "tool"
+  },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "Uma lanterna vermelha! Tudo parece quente e cheio de raiva."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "Flashlight"
+    }
+]

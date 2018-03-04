@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Uma porta de escape do sistema atmosférico artificial."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Uma tubulação de exaustão."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Isto parece ser algum tipo de porta de exaustão."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Tubo é pequeno para Floran sse essconder dentro."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Observador. Respiradouros de exaustão como estes são encontrados geralmente em naves e em estações no espaço."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Parece ser um respiradouro de exaustão."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Este é um respiradouro de algum tipo, eu acredito."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Enfie algumas armas naquele respiradouro e provavelmente faria um canhão decente."
+  }
+]

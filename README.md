@@ -18,10 +18,10 @@ Este mod é uma tradução para o jogo Starbound http://store.steampowered.com/a
 - Textos de missões obtidas antes da instalação desta tradução estarão em Inglês.
 - Mods que modificam os textos do jogo podem não funcionar corretamente com esta tradução.
 - Instalar e desinstalar mods pode corromper seus saves, você pode querer fazer um backup da pasta 'storage' dentro da pasta do starbound antes de instalar qualquer mod.
-- Se você estiver jogando em um servidor é preciso ser instalado tanto no servidor e no cliente.
+- Se você estiver jogando em um servidor é preciso ser instalado tanto no servidor e no cliente, desde que modifica arquivos lua.
  
 ### Agradecimentos Especiais:
 
-- Flori, Administrador do translator.vorlif.org - pela ferramenta de tradução Web! 
+Flori, Administrador do  https://translator.vorlif.org Starbound Translator - Pela ferramenta Web de tradução.
 
-- Kawa's Starbound JSON Lab, pelas ferramentas de modding - http://helmet.kafuka.org/sbmods/json/
+Kawa's Starbound JSON Lab  http://helmet.kafuka.org/sbmods/json/ - Pelas ferramentas de modding.

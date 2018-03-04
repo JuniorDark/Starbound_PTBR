@@ -7,7 +7,8 @@ Este mod é uma tradução para o jogo Starbound http://store.steampowered.com/a
 ### Progresso da tradução:
 - Finalizada
 
-### Instalação:
+### Download e Instalação:
+- https://github.com/JuniorDark/Starbound_PTBR/releases
 - Coloque o arquivo 'Starbound_PTBR.pak' dentro da pasta 'mods' dentro da pasta do starbound.
 
 ### INFORMAÇÕES IMPORTANTES:

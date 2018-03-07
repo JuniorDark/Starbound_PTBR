@@ -1,1 +1,1 @@
-[{"op": "replace", "path": "/description", "value": "Um pulo adicional que pode ser usado enquanto no ar!"}]
+[{"op":"replace","path":"/description","value":"Um pulo adicional que pode ser usado enquanto no ar!"},{"op":"replace","path":"/shortDescription","value":"Pulo de Pulso"}]

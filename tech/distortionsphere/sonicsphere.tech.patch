@@ -1,1 +1,1 @@
-[{"op": "replace", "path": "/description", "value": "Realiza uma esquiva em esfera ao segurar ^green;[F] ^white;para transformar!"}]
+[{"op":"replace","path":"/description","value":"Realiza uma arrancada de esfera ao segurar ^green;[F] ^white;para transformar!"},{"op":"replace","path":"/shortDescription","value":"Esfera Sônica"}]

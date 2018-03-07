@@ -1,1 +1,1 @@
-[{"op": "replace", "path": "/description", "value": "Substitui a esquiva por uma corrida que custa energia!"}]
+[{"op":"replace","path":"/description","value":"Substitui a arrancada por uma corrida que custa energia!"},{"op":"replace","path":"/shortDescription","value":"Corrida"}]

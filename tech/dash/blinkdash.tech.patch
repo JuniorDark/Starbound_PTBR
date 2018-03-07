@@ -1,1 +1,1 @@
-[{"op": "replace", "path": "/description", "value": "Uma esquiva que teleporta por armadilhas e inimigos! Recarga: 2.5s"}]
+[{"op":"replace","path":"/description","value":"Uma arrancada que teleporta por armadilhas e inimigos! Recarga: 2.5s"},{"op":"replace","path":"/shortDescription","value":"Arrancada Piscante"}]

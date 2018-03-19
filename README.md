@@ -1,14 +1,14 @@
 ### Sobre:
-Este mod é uma tradução para o jogo Starbound http://store.steampowered.com/app/211820/Starbound/. 
+Este mod é uma tradução para o jogo [Starbound](http://store.steampowered.com/app/211820/Starbound/)
 
 ### Tradução no steam workshop:
 - http://steamcommunity.com/sharedfiles/filedetails/?id=754883881
 
-### Progresso da tradução:
+### [Progresso da tradução:](https://juniordark.github.io/Starbound/)
 - Finalizada
 
 ### Download e Instalação:
-- https://github.com/JuniorDark/Starbound_PTBR/releases
+- [Download da ultima versão] (https://github.com/JuniorDark/Starbound_PTBR/releases)
 - Coloque o arquivo 'Starbound_PTBR.pak' dentro da pasta 'mods' dentro da pasta do starbound.
 
 ### INFORMAÇÕES IMPORTANTES:
@@ -22,6 +22,6 @@ Este mod é uma tradução para o jogo Starbound http://store.steampowered.com/a
  
 ### Agradecimentos Especiais:
 
-Flori, Administrador do  https://translator.vorlif.org Starbound Translator - Pela ferramenta Web de tradução.
+Flori, Administrador do [Starbound Translator] (https://translator.vorlif.org) - Pela ferramenta Web de tradução.
 
-Kawa's Starbound JSON Lab  http://helmet.kafuka.org/sbmods/json/ - Pelas ferramentas de modding.
+[Kawa's Starbound JSON Lab] (http://helmet.kafuka.org/sbmods/json/) - Pelas ferramentas de modding.

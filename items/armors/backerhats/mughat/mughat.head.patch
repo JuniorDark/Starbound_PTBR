@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um chapéu de caneca enchido com algo misterioso!"}, {"op": "replace", "path": "/shortdescription", "value": "Mug Hat"}]
+[
+  {
+    "op": "replace",
+    "value": "Um chapéu de caneca enchido com algo misterioso!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Mug Hat",
+    "path": "/shortdescription"
+  }
+]

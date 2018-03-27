@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Esta pintura de uma onda gigante é impressionante."}, {"op": "replace", "path": "/floranDescription", "value": "Floran não se importa com pintura de onda boba."}, {"op": "replace", "path": "/glitchDescription", "value": "Invejoso. O artista foi capaz de capturar a onda perfeitamente."}, {"op": "replace", "path": "/humanDescription", "value": "Tenho quase a certeza que tínhamos esta mesma pintura na Terra."}, {"op": "replace", "path": "/hylotlDescription", "value": "Cada pincelada pinga com emoção, a beleza das ondas capturadas por toda a eternidade."}, {"op": "replace", "path": "/description", "value": "É uma pintura de uma grande onda."}, {"op": "replace", "path": "/shortdescription", "value": "Traditional Wave Painting"}, {"op": "replace", "path": "/apexDescription", "value": "Esta pintura é muito agradável."}, {"op": "replace", "path": "/avianDescription", "value": "Nada mau! As pinceladas são um pouco desleixadas, no entanto."}]
+[
+  {
+    "op": "replace",
+    "value": "Cada pincelada pinga com emoção, a beleza das ondas capturadas por toda a eternidade.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Invejoso. O artista foi capaz de capturar a onda perfeitamente.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não se importa com pintura de onda boba.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma pintura de uma grande onda.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta pintura de uma onda gigante é impressionante.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Traditional Wave Painting",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tenho quase a certeza que tínhamos esta mesma pintura na Terra.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nada mau! As pinceladas são um pouco desleixadas, no entanto.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta pintura é muito agradável.",
+    "path": "/apexDescription"
+  }
+]

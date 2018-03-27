@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um koto. Para aquele som oriental."}, {"op": "replace", "path": "/shortdescription", "value": "Koto"}]
+[
+  {
+    "op": "replace",
+    "value": "Um koto. Para aquele som oriental.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Koto",
+    "path": "/shortdescription"
+  }
+]

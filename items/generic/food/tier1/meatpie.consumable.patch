@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Shepherd's Pie"}, {"op": "replace", "path": "/description", "value": "Carne picada em um molho rico, coberto com purê cremoso."}]
+[
+  {
+    "op": "replace",
+    "value": "Carne picada em um molho rico, coberto com purê cremoso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Shepherd's Pie",
+    "path": "/shortdescription"
+  }
+]

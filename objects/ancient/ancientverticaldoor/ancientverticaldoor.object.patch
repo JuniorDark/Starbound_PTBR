@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Uma escotilha no chão. Parece bastante antiga."}, {"op": "replace", "path": "/floranDescription", "value": "Parece como uma porta no chão."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Essa escotilha é antiga."}, {"op": "replace", "path": "/apexDescription", "value": "Uma porta vertical antiga."}, {"op": "replace", "path": "/humanDescription", "value": "A escotilha para quando ir apenas na horizontal não é suficiente."}, {"op": "replace", "path": "/avianDescription", "value": "Uma escotilha antiga."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma escotilha antiga, uma relíquia em si."}, {"op": "replace", "path": "/description", "value": "Uma antiga escotilha vertical."}, {"op": "replace", "path": "/shortdescription", "value": "Ancient Hatch"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma escotilha no chão. Parece bastante antiga.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma escotilha antiga.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma escotilha antiga, uma relíquia em si.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta vertical antiga.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma antiga escotilha vertical.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ancient Hatch",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Essa escotilha é antiga.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma escotilha para quando ir horizontal não é suficiente.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece uma porta no chão.",
+    "path": "/floranDescription"
+  }
+]

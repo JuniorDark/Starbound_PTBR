@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um capacete de durasteel usado por viajantes espaciais Avians. Ele não vai proteger os usuários contra o vácuo do espaço, só pra você saber."}, {"op": "replace", "path": "/shortdescription", "value": "Owl Helm"}]
+[
+  {
+    "op": "replace",
+    "value": "Um capacete de durasteel usado por viajantes espaciais Avians. Ele não vai proteger os usuários contra o vácuo do espaço, só pra você saber.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Owl Helm",
+    "path": "/shortdescription"
+  }
+]

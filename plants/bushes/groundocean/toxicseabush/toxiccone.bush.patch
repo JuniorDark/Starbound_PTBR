@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Relatório. Um arbusto do mar."}, {"op": "replace", "path": "/description", "value": "Um Arbusto Conífero Tóxico."}, {"op": "replace", "path": "/shortdescription", "value": "Um arbusto conífero tóxico."}, {"op": "replace", "path": "/floranDescription", "value": "Ervas daninhas viscosas."}]
+[
+  {
+    "op": "replace",
+    "value": "Afirmação. Arbusto do mar.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um Arbusto Conífero Tóxico.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um arbusto conífero tóxico.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ervas viscosasss",
+    "path": "/floranDescription"
+  }
+]

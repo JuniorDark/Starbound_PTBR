@@ -1,7 +1,7 @@
 [
   {
     "op": "replace",
-    "path": "/ability/name",
-    "value": "Lâmina Giratória"
+    "value": "Lâmina Giratória",
+    "path": "/ability/name"
   }
 ]

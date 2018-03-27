@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Pile of Books"}, {"op": "replace", "path": "/description", "value": "Uma pilha de livros velhos empoeirados, eles estão cheios de contos de dragões e cavaleiros."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pilha de livros velhos empoeirados, eles estão cheios de contos de dragões e cavaleiros.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Entretido. Há histórias maravilhosas registradas dentro desses livros.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grandeza não é encontrada em livross.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pile of Books",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns livros empoeirados. Quem não gosta de ouvir uma boa história?",
+    "path": "/novakiddescription"
+  }
+]

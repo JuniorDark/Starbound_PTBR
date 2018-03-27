@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Deve ter sido um scorcher para derreter esses relógios."}, {"op": "replace", "path": "/apexDescription", "value": "Uma pintura estranha. Parece que retrata a morte do tempo em si."}, {"op": "replace", "path": "/avianDescription", "value": "Parece representar uma seleção de leitores de tempo Glitch derretendo."}, {"op": "replace", "path": "/glitchDescription", "value": "Dedutivo. Eu acredito que os Glitch estão cientes de sua situação de forma subconsciente. Talvez essa consciência seja como essa pintura veio a ser."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma obra de arte surreal. Se alguém pudesse questionar o artista."}, {"op": "replace", "path": "/description", "value": "Um pouco de surrealismo Glitch."}, {"op": "replace", "path": "/shortdescription", "value": "Persistence of Pixels"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não entende pintura estranha."}, {"op": "replace", "path": "/humanDescription", "value": "Relógios derretendo. Por que os Glitch pintariam isso?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um pouco de surrealismo Glitch.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pintura estranha. Parece que retrata a morte do tempo em si.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma obra de arte surreal. Se alguém pudesse questionar o artista.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dedutivo. Eu acredito que os Glitch estão cientes de sua situação de forma subconsciente. Talvez essa consciência seja como essa pintura veio a ser.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não entende pintura estranha.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece representar uma seleção de leitores de tempo Glitch derretendo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relógios derretendo. Por que os Glitch pintariam isso?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Deve ter sido um scorcher para derreter esses relógios.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Persistence of Pixels",
+    "path": "/shortdescription"
+  }
+]

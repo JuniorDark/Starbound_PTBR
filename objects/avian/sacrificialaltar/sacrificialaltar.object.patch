@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Sacrifício é comum entre os Avians. É por isso que muitos optam por se tornar grounded."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. O altar parece salpicado de sangue."}, {"op": "replace", "path": "/floranDescription", "value": "Sssangue sssaboroso. Floran quer provar."}, {"op": "replace", "path": "/shortdescription", "value": "Sacrificial Altar"}, {"op": "replace", "path": "/apexDescription", "value": "Que ações sombrias foram cometidas neste altar?"}, {"op": "replace", "path": "/humanDescription", "value": "Sangue e penas. Sombrio."}, {"op": "replace", "path": "/hylotlDescription", "value": "Quem escolheria seguir um deus que exige que seus seguidores sacrifiquem suas vidas?"}, {"op": "replace", "path": "/description", "value": "Um altar pegajoso com sangue velho e penas."}, {"op": "replace", "path": "/novakidDescription", "value": "Este altar está coberto de salpicos de sangue. Horripilante."}]
+[
+  {
+    "op": "replace",
+    "value": "Um altar pegajoso com sangue velho e penas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Sangue e penas. Sombrio.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. O altar parece salpicado de sangue.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sacrifício é comum entre os Avians. É por isso que muitos optam por se tornar grounded.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sacrificial Altar",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sssangue sssaboroso. Floran quer provar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este altar está coberto de salpicos de sangue. Horripilante.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que ações sombrias foram cometidas neste altar?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quem escolheria seguir um deus que exige que seus seguidores sacrifiquem suas vidas?",
+    "path": "/hylotlDescription"
+  }
+]

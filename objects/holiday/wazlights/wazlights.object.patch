@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Eu não sei o que fazer com essas luzes...'waz'?"}, {"op": "replace", "path": "/description", "value": "Pisca-piscas que soletram 'waz', o que quer que isso signifique."}, {"op": "replace", "path": "/shortdescription", "value": "Waz Lights"}, {"op": "replace", "path": "/floranDescription", "value": "Waaaazzzz?"}, {"op": "replace", "path": "/glitchDescription", "value": "Confuso. O que é um 'waz'?"}, {"op": "replace", "path": "/humanDescription", "value": "Waaaaaaaz."}, {"op": "replace", "path": "/avianDescription", "value": "O que é um 'waz'?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Esse \"waz\" tem algum significado mais profundo?"}]
+[
+  {
+    "op": "replace",
+    "value": "Confuso. O que é um 'waz'?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse \"waz\" tem algum significado mais profundo?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pisca-piscas que soletram 'waz', o que quer que isso signifique.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não sei o que fazer com essas luzes...'waz'?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Waaaaaaaz.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Waaaazzzz?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Waz Lights",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que é um 'waz'?",
+    "path": "/avianDescription"
+  }
+]

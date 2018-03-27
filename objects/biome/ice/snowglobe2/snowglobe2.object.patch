@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um globo de neve com um pinguim dentro. O pássaro parece irritado."}, {"op": "replace", "path": "/shortdescription", "value": "Penguin Snowglobe"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de vidro com lanche dentro."}, {"op": "replace", "path": "/glitchDescription", "value": "Alarme. Há sinais de vida fracos vindo de dentro deste globo de neve."}, {"op": "replace", "path": "/apexDescription", "value": "Um pinguim adorável dentro de um globo de neve."}, {"op": "replace", "path": "/humanDescription", "value": "Ah, um pinguim bonitinho. Quero abraçá-lo."}, {"op": "replace", "path": "/avianDescription", "value": "Ah, o pinguim. Sinto por você, meu parente que não voa."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um pinguim minúsculo preso dentro de uma prisão de vidro. Bárbaro."}, {"op": "replace", "path": "/novakidDescription", "value": "Pinguins com certeza são fofos, mas não me enganam. Eles são malandros, todos eles!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um globo de neve com um pinguim dentro. O pássaro parece irritado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um pinguim minúsculo preso dentro de uma prisão de vidro. Bárbaro.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ah, o pinguim. Sinto por você, meu parente que não voa.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alarme. Há sinais de vida fracos vindo de dentro deste globo de neve.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pinguim adorável dentro de um globo de neve.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ah, um pinguim bonitinho. Quero abraçá-lo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de vidro com lanche dentro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Penguin Snowglobe",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pinguins com certeza são fofos, mas não me enganam. Eles são malandros, todos eles!",
+    "path": "/novakidDescription"
+  }
+]

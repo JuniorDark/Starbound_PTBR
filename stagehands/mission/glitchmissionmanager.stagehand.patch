@@ -1,1 +1,92 @@
-[{"op":"replace","path":"/radioMessages/firstBallista/0","value":"Indignado. Os bandidos estão trazendo uma máquina de guerra! Eu não vou ter meu forte destruído, você deve destruir aquela balista!"},{"op":"replace","path":"/radioMessages/wallAttacked/0","value":"Em pânico. A balista! Minhas belas paredes! Proteja as minhas belas paredes!"},{"op":"replace","path":"/radioMessages/additionalBallista/0","value":"Desesperado. Nem mais uma balista! Salve meu forte!"},{"op":"replace","path":"/radioMessages/firstAirforce/0","value":"Agitado. Estamos cercados por outra onda! Eles já enviaram mais infantaria, e mais arqueiros, e... Não! Eles estão nos céus! Esses canalhas roxos tomaram o céu!"},{"op":"replace","path":"/radioMessages/reinforcements/0","value":"Olá? Sou eu. Sinto muito, mas - há mais cultistas vindo. Por favor, não se preocupe, vamos ajudar! Eu tinha acabado de chegar, mas os outros estão descendo!"},{"op":"replace","path":"/radioMessages/finalWaveComplete/0","value":"Alegre. Ha ha! Isso é bem feito para eles! Nós acabamos com cada um desses vermes miseráveis! Eu poderia cantar! Vem cá, quero falar com você..."},{"op":"replace","path":"/radioMessages/noxGreeting/0","value":"Oh bom, é você... Então \"mamãe\" te enviou em outra missão. Vamos acabar com isto."},{"op":"replace","path":"/radioMessages/noxBeamout/0","value":"Nós terminamos aqui! Isso é inútil de qualquer maneira. Vocês não conseguiram parar nada. Tudo Isso desaparecerá em breve."},{"op":"replace","path":"/radioMessages/bossDefeated/0","value":"Cauteloso. Ele se foi? Você está intacto? Se ele se foi eu preciso falar com você."}]
+[
+  {
+    "op": "replace",
+    "value": "Baron",
+    "path": "/radioMessages/additionalBallista/2"
+  },
+  {
+    "op": "replace",
+    "value": "Baron",
+    "path": "/radioMessages/bossDefeated/2"
+  },
+  {
+    "op": "replace",
+    "value": "Baron",
+    "path": "/radioMessages/finalWaveComplete/2"
+  },
+  {
+    "op": "replace",
+    "value": "Baron",
+    "path": "/radioMessages/firstAirforce/2"
+  },
+  {
+    "op": "replace",
+    "value": "Baron",
+    "path": "/radioMessages/firstBallista/2"
+  },
+  {
+    "op": "replace",
+    "value": "Baron",
+    "path": "/radioMessages/wallAttacked/2"
+  },
+  {
+    "op": "replace",
+    "value": "Koichi",
+    "path": "/radioMessages/reinforcements/2"
+  },
+  {
+    "op": "replace",
+    "value": "Agitado. Estamos cercados por outra onda! Eles já enviaram mais infantaria, e mais arqueiros, e... Não! Eles estão nos céus! Esses canalhas roxos tomaram o céu!",
+    "path": "/radioMessages/firstAirforce/0"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. Ele se foi? Você está intacto? Se ele se foi eu preciso falar com você.",
+    "path": "/radioMessages/bossDefeated/0"
+  },
+  {
+    "op": "replace",
+    "value": "Desesperado. Outra balista não! Salve meu forte!",
+    "path": "/radioMessages/additionalBallista/0"
+  },
+  {
+    "op": "replace",
+    "value": "Olá? Sou eu. Sinto muito, mas - há mais cultistas vindo. Por favor, não se preocupe, vamos ajudar! Eu acabei de chegar, mas os outros estão descendo!",
+    "path": "/radioMessages/reinforcements/0"
+  },
+  {
+    "op": "replace",
+    "value": "Alegre. Ha ha! Isso é bem feito para eles! Nós acabamos com cada um desses vermes miseráveis! Eu poderia cantar! Vem cá, quero falar com você...",
+    "path": "/radioMessages/finalWaveComplete/0"
+  },
+  {
+    "op": "replace",
+    "value": "Nox",
+    "path": "/radioMessages/noxBeamout/2"
+  },
+  {
+    "op": "replace",
+    "value": "Nox",
+    "path": "/radioMessages/noxGreeting/2"
+  },
+  {
+    "op": "replace",
+    "value": "Oh bom, é você... Então \"mamãe\" te enviou em outra missão. Vamos acabar com isto.",
+    "path": "/radioMessages/noxGreeting/0"
+  },
+  {
+    "op": "replace",
+    "value": "Indignado. Os bandidos estão trazendo uma máquina de guerra! Eu não vou ter meu forte destruído, você deve destruir aquela balista!",
+    "path": "/radioMessages/firstBallista/0"
+  },
+  {
+    "op": "replace",
+    "value": "Em pânico. A balista! Minhas belas paredes! Proteja as minhas belas paredes!",
+    "path": "/radioMessages/wallAttacked/0"
+  },
+  {
+    "op": "replace",
+    "value": "Nós terminamos aqui! Isso é inútil de qualquer maneira. Vocês não conseguiram parar nada. Tudo Isso desaparecerá em breve.",
+    "path": "/radioMessages/noxBeamout/0"
+  }
+]

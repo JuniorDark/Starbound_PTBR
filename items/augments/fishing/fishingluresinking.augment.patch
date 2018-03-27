@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma isca pesada que afunda rapidamente."}, {"op": "replace", "path": "/shortdescription", "value": "Sinking Lure"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma isca pesada que afunda rapidamente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Sinking Lure",
+    "path": "/shortdescription"
+  }
+]

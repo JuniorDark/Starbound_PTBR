@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Assustador."}, {"op": "replace", "path": "/shortdescription", "value": "Boneboo"}]
+[
+  {
+    "op": "replace",
+    "value": "Boneboo",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Assustador.",
+    "path": "/description"
+  }
+]

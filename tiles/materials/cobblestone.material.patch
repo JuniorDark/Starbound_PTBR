@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Fascinado. Essas pedras são naturalmente lisas."}, {"op": "replace", "path": "/shortdescription", "value": "Cobblestone"}, {"op": "replace", "path": "/novakidDescription", "value": "Não é incomum correr sobre rochas de pedregulho como esta."}, {"op": "replace", "path": "/floranDescription", "value": "Pedrass de pedregulho lisa."}, {"op": "replace", "path": "/description", "value": "Pedregulho duro, liso ao toque."}]
+[
+  {
+    "op": "replace",
+    "value": "Não é incomum correr sobre rochas de pedregulho como esta.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cobblestone",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fascinado. Essas pedras são naturalmente lisas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedregulho duro, liso ao toque.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pedrass de pedregulho lisa.",
+    "path": "/floranDescription"
+  }
+]

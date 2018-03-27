@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Esta protótipo de máscara é inspirado pelos Glitch."}, {"op": "replace", "path": "/shortdescription", "value": "Adventurer's Mask"}]
+[
+  {
+    "op": "replace",
+    "value": "Adventurer's Mask",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta protótipo de máscara é inspirado pelos Glitch.",
+    "path": "/description"
+  }
+]

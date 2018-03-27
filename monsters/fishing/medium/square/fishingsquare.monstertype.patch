@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "É surpreendentemente capaz de nadar apesar de sua forma."}, {"op": "replace", "path": "/shortdescription", "value": "Squareboy"}]
+[
+  {
+    "op": "replace",
+    "value": "É surpreendentemente capaz de nadar apesar de sua forma.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Squareboy",
+    "path": "/shortdescription"
+  }
+]

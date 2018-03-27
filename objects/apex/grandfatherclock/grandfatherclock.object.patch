@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Eu não sabia que os relógios eram capazes de reprodução."}, {"op": "replace", "path": "/shortdescription", "value": "Grandfather Clock"}, {"op": "replace", "path": "/floranDescription", "value": "Floran ainda vai pelo pôr do sol e do nascer do sol para contar a hora."}, {"op": "replace", "path": "/apexDescription", "value": "Todos os relógios Apex são ajustados automaticamente através do rádio."}, {"op": "replace", "path": "/humanDescription", "value": "O som que este relógio faz pode ser sinistro e calmante."}, {"op": "replace", "path": "/avianDescription", "value": "A hora Avian é baseada em ler a direção das sombras."}, {"op": "replace", "path": "/hylotlDescription", "value": "O som do metrônomo é perfeito para a meditação."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Este relógio parece ser preciso dentro de 1 milésimo de segundo."}, {"op": "replace", "path": "/novakidDescription", "value": "Tic, tac, tic, tac. Você não pode ignorar o som de um relógio."}]
+[
+  {
+    "op": "replace",
+    "value": "Todos os relógios Apex são ajustados automaticamente através do rádio.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A hora Avian é baseada em ler a direção das sombras.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ainda vai pelo pôr do sol e do nascer do sol para contar a hora.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grandfather Clock",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não sabia que os relógios eram capazes de reprodução.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Este relógio parece ser preciso dentro de 1 milésimo de segundo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O som do metrônomo é perfeito para a meditação.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O som que este relógio faz pode ser sinistro e calmante.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tic, tac, tic, tac. Você não pode ignorar o som de um relógio.",
+    "path": "/novakidDescription"
+  }
+]

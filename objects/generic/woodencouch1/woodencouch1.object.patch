@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Não muito macia, não muito firme. Um bom lugar para meditação."}, {"op": "replace", "path": "/avianDescription", "value": "As almofadas fazem este sofá confortável."}, {"op": "replace", "path": "/description", "value": "Um sofá de madeira confortável, as listras ajudam a ir mais rápido."}, {"op": "replace", "path": "/shortdescription", "value": "Wooden Couch"}, {"op": "replace", "path": "/floranDescription", "value": "Sofá listrado. Almofadas maciasss."}, {"op": "replace", "path": "/glitchDescription", "value": "Inspirado. Talvez eu devesse me decorar com listras."}, {"op": "replace", "path": "/apexDescription", "value": "Um sofá de madeira simples com almofadas listradas."}, {"op": "replace", "path": "/humanDescription", "value": "Um banco de madeira com belos travesseiros listrados."}, {"op": "replace", "path": "/novakidDescription", "value": "Um bom lugar para se sentar e ver um sol se pôr."}]
+[
+  {
+    "op": "replace",
+    "value": "Um sofá de madeira confortável, as listras ajudam a ir mais rápido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um bom lugar para se sentar e ver um sol se pôr.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um sofá de madeira simples com almofadas listradas.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um banco de madeira com belos travesseiros listrados.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inspirado. Talvez eu devesse me decorar com listras.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não muito macia, não muito firme. Um bom lugar para meditação.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sofá listrado. Almofadas maciasss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "As almofadas fazem este sofá confortável.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wooden Couch",
+    "path": "/shortdescription"
+  }
+]

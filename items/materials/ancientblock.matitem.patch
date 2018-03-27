@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Estes tijolos certamente sobreviveram ao teste do tempo."}, {"op": "replace", "path": "/shortdescription", "value": "Ancient Block"}]
+[
+  {
+    "op": "replace",
+    "value": "Maravilhado. Estes blocos são evidentemente muito velhos.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ancient Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Blocosss antigosss.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes blocos são velhos e sujos.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes tijolos certamente sobreviveram ao teste do tempo.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Este rodapé completa o visual de casa clássica."}, {"op": "replace", "path": "/shortdescription", "value": "Classic Baseboard"}]
+[
+  {
+    "op": "replace",
+    "value": "Classic Baseboard",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Rodapés não são normalmentes encontrados em construções Glitch.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tábuasss de parede chique.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rodapé chique.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este rodapé completa o visual de casa clássica.",
+    "path": "/description"
+  }
+]

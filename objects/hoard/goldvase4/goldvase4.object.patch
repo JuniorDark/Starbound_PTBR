@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Um vaso fino dourado pode fazer um objeto decorativo atraente."}, {"op": "replace", "path": "/apexDescription", "value": "Um vaso fino dourado. Parece exagerado."}, {"op": "replace", "path": "/description", "value": "Um vaso fino de ouro."}, {"op": "replace", "path": "/shortdescription", "value": "Gold Slim Vase"}, {"op": "replace", "path": "/floranDescription", "value": "Vaso fino é feito de ouro!"}, {"op": "replace", "path": "/glitchDescription", "value": "Confiança. Este é um vaso fino dourado."}, {"op": "replace", "path": "/humanDescription", "value": "Um vaso fino de ouro. Talvez seja valioso."}, {"op": "replace", "path": "/avianDescription", "value": "Um vaso fino de ouro."}, {"op": "replace", "path": "/novakidDescription", "value": "Este vaso fino de ouro ficaria muito bem em minha nave."}]
+[
+  {
+    "op": "replace",
+    "value": "Um vaso fino de ouro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um vaso fino dourado pode fazer um objeto decorativo atraente.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um vaso fino de ouro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um vaso fino de ouro. Talvez seja valioso.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um vaso fino dourado. Parece exagerado.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Confiança. Este é um vaso fino dourado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vaso fino é feito de ouro!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este vaso fino de ouro ficaria muito bem em minha nave.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gold Slim Vase",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Toxic Flower Backpack"}, {"op": "replace", "path": "/description", "value": "Uma grande flor tóxica que converte a luz em energia. Por que não usá-la em seu corpo?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma grande flor tóxica que converte a luz em energia. Por que não usá-la em seu corpo?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Toxic Flower Backpack",
+    "path": "/shortdescription"
+  }
+]

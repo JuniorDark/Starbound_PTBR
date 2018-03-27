@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "Starbound",
+    "path": "/windowTitle"
+  }
+]

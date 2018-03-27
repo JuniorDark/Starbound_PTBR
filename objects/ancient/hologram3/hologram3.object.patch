@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma antiga representação holográfica de uma cena mitológica."}, {"op": "replace", "path": "/shortdescription", "value": "Ancient Hologram"}, {"op": "replace", "path": "/floranDescription", "value": "Imagem antiga de uma luta! Precisssa de mais esfaqueamento."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. O ser da direita esta sendo empurrado para um vórtice?"}, {"op": "replace", "path": "/apexDescription", "value": "Esta cena parece mostrar uma figura empurrando um monstro para um vórtice."}, {"op": "replace", "path": "/humanDescription", "value": "O enredo é emocionante. O suspense esta me matando."}, {"op": "replace", "path": "/avianDescription", "value": "Isso mostra algum tipo de batalha catastrófica entre duas forças poderosas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Me pergunto se este é um conto histórico ou uma história mítica?"}, {"op": "replace", "path": "/novakidDescription", "value": "Isso mostra alguém discutindo com o monstro-olho desagradável."}]
+[
+  {
+    "op": "replace",
+    "value": "Me pergunto se este é um conto histórico ou uma história mítica?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. O ser da direita esta sendo empurrado para um vórtice?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Imagem antiga de uma luta! Precisssa de mais esfaqueamento.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O enredo é emocionante. O suspense esta me matando.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso mostra alguém discutindo com o monstro-olho desagradável.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cena parece mostrar uma figura empurrando um monstro para um vórtice.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso mostra algum tipo de batalha catastrófica entre duas forças poderosas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma antiga representação holográfica de uma cena mitológica.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ancient Hologram",
+    "path": "/shortdescription"
+  }
+]

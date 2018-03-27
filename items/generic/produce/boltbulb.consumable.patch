@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Boltbulb"}, {"op": "replace", "path": "/description", "value": "Boltbulb! Surpreendentemente suave."}]
+[
+  {
+    "op": "replace",
+    "value": "Cresce boltbulb! Surpreendentemente macio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Boltbulb",
+    "path": "/shortdescription"
+  }
+]

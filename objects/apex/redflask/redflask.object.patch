@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um frasco cheio de líquido vermelho."}, {"op": "replace", "path": "/shortdescription", "value": "Red Flask"}, {"op": "replace", "path": "/floranDescription", "value": "Líquido com cheiro doce. Floran prefere alimento salgado."}, {"op": "replace", "path": "/glitchDescription", "value": "Cético. Não consigo detectar nenhum ingrediente ativo. Talvez isto seja um placebo."}, {"op": "replace", "path": "/apexDescription", "value": "Essa mistura cheira doce."}, {"op": "replace", "path": "/humanDescription", "value": "Isso cheira a cola de laranja."}, {"op": "replace", "path": "/avianDescription", "value": "Esta mistura cheira delicioso, mas o cheiro sozinho não me tentará."}, {"op": "replace", "path": "/hylotlDescription", "value": "Que cheiro doce, é intoxicante."}, {"op": "replace", "path": "/novakidDescription", "value": "Sabor vermelho."}]
+[
+  {
+    "op": "replace",
+    "value": "Um frasco cheio de líquido vermelho.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Red Flask",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sabor vermelho.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cético. Não consigo detectar nenhum ingrediente ativo. Talvez isto seja um placebo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Líquido com cheiro doce. Floran prefere alimento salgado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que cheiro doce, é intoxicante.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa mistura cheira doce.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mistura cheira delicioso, mas o cheiro sozinho não me tentará.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso cheira a cola de laranja.",
+    "path": "/humanDescription"
+  }
+]

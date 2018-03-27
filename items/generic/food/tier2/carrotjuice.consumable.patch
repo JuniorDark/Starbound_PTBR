@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Carrot Juice"}, {"op": "replace", "path": "/description", "value": "Cenouras na forma líquida. Doce e nutritivo."}]
+[
+  {
+    "op": "replace",
+    "value": "Carrot Juice",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cenouras na forma líquida. Doce e nutritivo.",
+    "path": "/description"
+  }
+]

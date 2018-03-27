@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Um pouco atrasado, não é <entityname>?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/1", "value": "Eu amo este lugar. Tão confortável e com uma vista excelente."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/3", "value": "Parabéns pela formatura, meu amigo. Você merece."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/2", "value": "A maioria das pessoas são educadas o suficiente para desocupar um assento se você pedir educadamente, mas esta cadeira é muito confortável pra desistir."}]
+[
+  {
+    "op": "replace",
+    "value": "Parabéns pela formatura, meu amigo. Você merece.",
+    "path": "/scriptConfig/dialog/converse/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Eu amo este lugar. Tão confortável e com uma vista excelente.",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "A maioria das pessoas são educadas o suficiente para desocupar um assento se você pedir educadamente, mas esta cadeira é muito confortável pra desistir.",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Um pouco atrasado, não é <entityname>?",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

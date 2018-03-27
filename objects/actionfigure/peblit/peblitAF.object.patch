@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Peblit Figurine"}, {"op": "replace", "path": "/description", "value": "A etiqueta diz, \"Por causa do tamanho de sua cabeça em proporção ao seu corpo, ele não pode correr longas distâncias.\""}]
+[
+  {
+    "op": "replace",
+    "value": "Peblit Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"Por causa do tamanho de sua cabeça em proporção ao seu corpo, ele não pode correr longas distâncias.\"",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Solid Metal Table"}, {"op": "replace", "path": "/apexDescription", "value": "Uma mesa simples."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma mesa. Básica."}, {"op": "replace", "path": "/description", "value": "Uma mesa de metal sólido."}, {"op": "replace", "path": "/floranDescription", "value": "Mesa bássica."}, {"op": "replace", "path": "/humanDescription", "value": "Esta é a terceira mesa mais genérica que já vi."}, {"op": "replace", "path": "/avianDescription", "value": "É só uma mesa."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu não sou um juiz de mesa profissional, mas esta é uma mesa bastante chata."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Uma mesa simples."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma mesa de metal sólido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não sou um juiz de mesa profissional, mas esta é uma mesa bastante chata.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É só uma mesa.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Uma mesa simples.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Solid Metal Table",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mesa bássica.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é a terceira mesa mais genérica que já vi.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa simples.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa. Básica.",
+    "path": "/hylotlDescription"
+  }
+]

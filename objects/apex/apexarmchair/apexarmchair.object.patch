@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "O estofamento são bananas."}, {"op": "replace", "path": "/shortdescription", "value": "Standard Issue Armchair"}, {"op": "replace", "path": "/glitchDescription", "value": "Descontente. Esta cadeira ofende a minha visão."}, {"op": "replace", "path": "/humanDescription", "value": "Uma poltrona deprimente. Embora confortável!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Que efeito deve dar essa... deselegância na mente? "}, {"op": "replace", "path": "/avianDescription", "value": "Um assento confortável. Isso é um ninho de Apex?"}, {"op": "replace", "path": "/floranDescription", "value": "Repugnante."}, {"op": "replace", "path": "/apexDescription", "value": "A moda Apex evoluiu desde que esta cadeira foi feita, infelizmente, a liberdade dos Apex não."}, {"op": "replace", "path": "/novakidDescription", "value": "Não é bonita, mas é confortável."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma poltrona deprimente. Embora confortável!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A moda Apex evoluiu desde que esta cadeira foi feita, infelizmente, a liberdade dos Apex não.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Descontente. Esta cadeira ofende a minha visão.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não é bonita, mas é confortável.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Repugnante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Standard Issue Armchair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um assento confortável. Isso é um ninho de Apex?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O estofamento são bananas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Que efeito deve dar essa... deselegância na mente? ",
+    "path": "/hylotlDescription"
+  }
+]

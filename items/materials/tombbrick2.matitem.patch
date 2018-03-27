@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Unmarked Tomb Brick"}, {"op": "replace", "path": "/description", "value": "Estes tijolos foram se desgastando com o tempo."}]
+[
+  {
+    "op": "replace",
+    "value": "Alguns tijolos de aparência suave.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de tijolos lisos.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Estes tijolos mantiveram-se bem considerando sua idade.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes tijolos ficaram lisos com o tempo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Unmarked Tomb Brick",
+    "path": "/shortdescription"
+  }
+]

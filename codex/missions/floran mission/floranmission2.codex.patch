@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/contentPages/0", "value": "A Caçada foi estabelecida pela primeira vez há muito tempo por um Greenfinger chamado Idamta.\n\nIdamta criou A Caçada como um teste de determinação, destreza e habilidade. uma grande prova em que um Floran poderia competir para provar ser o caçador mais forte e poderoso.\n\nE, diz a lenda, como uma forma de \"parar-los de brigar sobre quem é o melhor\"."}, {"op": "replace", "path": "/description", "value": "Um trecho do diário de um cientista humano observando uma tribo Floran."}, {"op": "replace", "path": "/title", "value": "História da Caçada"}]
+[
+  {
+    "op": "replace",
+    "value": "Um trecho do diário de um cientista humano observando uma tribo Floran.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "História da Caçada",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "A Caçada foi estabelecida pela primeira vez há muito tempo por um Greenfinger chamado Idamta.\n\nIdamta criou A Caçada como um teste de determinação, destreza e habilidade. uma grande prova em que um Floran poderia competir para provar ser o caçador mais forte e poderoso.\n\nE, diz a lenda, como uma forma de \"parar-los de brigar sobre quem é o melhor\".",
+    "path": "/contentPages/0"
+  }
+]

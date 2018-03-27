@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um baú grande feito de galhos. Sua segurança é questionável."}, {"op": "replace", "path": "/novakidDescription", "value": "Nem sequer tem um mecanismo de bloqueio real. Isso não é seguro em tudo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este baú pode apodrecer ao longo do tempo, expondo o seu conteúdo."}, {"op": "replace", "path": "/humanDescription", "value": "Um baú perfeitamente trabalhado feito de galhos e algum tipo de vinhas secas."}, {"op": "replace", "path": "/apexDescription", "value": "Este baú parece ser feito de galhos ligados."}, {"op": "replace", "path": "/glitchDescription", "value": "Não impressionado. Pode ser mais rápido partir esse baú do que abri-lo."}, {"op": "replace", "path": "/floranDescription", "value": "Floran armazena muitas coisass interessantes no baú."}, {"op": "replace", "path": "/shortdescription", "value": "Large Primitive Chest"}, {"op": "replace", "path": "/avianDescription", "value": "Este baú parece ser mais para armazenamento do que segurança. Eu poderia praticamente parti-lo em pedaços."}]
+[
+  {
+    "op": "replace",
+    "value": "Um baú grande feito de galhos. Sua segurança é questionável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Large Primitive Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú perfeitamente trabalhado feito de galhos e algum tipo de vinhas secas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran armazena muitas coisass interessantes no baú.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nem sequer tem um mecanismo de bloqueio real. Isso não é seguro em tudo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este baú parece ser feito de galhos ligados.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este baú parece ser mais para armazenamento do que segurança. Eu poderia praticamente parti-lo em pedaços.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este baú pode apodrecer ao longo do tempo, expondo o seu conteúdo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não impressionado. Pode ser mais rápido partir esse baú do que abri-lo.",
+    "path": "/glitchDescription"
+  }
+]

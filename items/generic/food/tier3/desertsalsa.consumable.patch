@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A salsa refrescante feita a partir de frutas do deserto."}, {"op": "replace", "path": "/shortdescription", "value": "Desert Salsa"}]
+[
+  {
+    "op": "replace",
+    "value": "A salsa refrescante feita a partir de frutas do deserto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Desert Salsa",
+    "path": "/shortdescription"
+  }
+]

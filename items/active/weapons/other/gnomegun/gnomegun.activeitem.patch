@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Gnome Gun ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Diga olá para meu pequeno amigo!"}, {"op": "replace", "path": "/shortdescription", "value": "Gnome Gun"}]
+[
+  {
+    "op": "replace",
+    "value": "Gnome Gun",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gnome Gun ^yellow;^reset;",
+    "path": "/upgradeParameters/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Diga olá para meu amiguinho!",
+    "path": "/description"
+  }
+]

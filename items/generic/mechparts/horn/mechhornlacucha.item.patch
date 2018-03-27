@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A barata, a barata, não pode andar!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Melody Mech Horn",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "ugh.."}, {"op": "replace", "path": "/hylotlDescription", "value": "ugh.."}, {"op": "replace", "path": "/avianDescription", "value": "ugh.."}, {"op": "replace", "path": "/humanDescription", "value": "ugh.."}, {"op": "replace", "path": "/apexDescription", "value": "ugh.."}, {"op": "replace", "path": "/glitchDescription", "value": "Nojo. ugh.."}, {"op": "replace", "path": "/floranDescription", "value": "Desagradável."}, {"op": "replace", "path": "/shortdescription", "value": "Blood Drop Source"}, {"op": "replace", "path": "/description", "value": "Sangue está pingando deste lugar."}]
+[
+  {
+    "op": "replace",
+    "value": "Blood Drop Source",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sangue está pingando deste lugar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Nojo. ugh..",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desagradável.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "ugh..",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "ugh..",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "ugh..",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "ugh..",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "ugh..",
+    "path": "/novakidDescription"
+  }
+]

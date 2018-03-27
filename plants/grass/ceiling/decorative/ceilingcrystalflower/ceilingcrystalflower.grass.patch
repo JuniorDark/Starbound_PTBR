@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Uma flor de cristal."}, {"op": "replace", "path": "/shortdescription", "value": "Uma flor de cristal."}, {"op": "replace", "path": "/floranDescription", "value": "flor brilhante'sss."}, {"op": "replace", "path": "/glitchDescription", "value": "Declaração. Uma flor de cristal."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma flor de cristal.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma flor de cristal.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Flor brilhante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Declaração. Uma flor de cristal.",
+    "path": "/glitchDescription"
+  }
+]

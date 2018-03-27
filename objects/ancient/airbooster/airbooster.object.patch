@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "A exposição a esta aberturas de fluxo de ar vai permitir conservar energia."}, {"op": "replace", "path": "/description", "value": "O gás liberado dessas calhas faz você se sentir leve como uma pluma."}, {"op": "replace", "path": "/shortdescription", "value": "Air Booster"}, {"op": "replace", "path": "/floranDescription", "value": "Vento faz Floran voar!"}, {"op": "replace", "path": "/glitchDescription", "value": "Interrogativo. Um respiradouro de ar, parece bastante seguro."}, {"op": "replace", "path": "/apexDescription", "value": "O fluxo de ar deste respiradouro é de baixo estímulo gravitacional."}, {"op": "replace", "path": "/humanDescription", "value": "Me da um impulso gravitacional!"}, {"op": "replace", "path": "/avianDescription", "value": "Esta respiradouro simula a sensação de voar!"}, {"op": "replace", "path": "/novakidDescription", "value": "Às vezes você só precisa de um pouco de impulso na vida."}]
+[
+  {
+    "op": "replace",
+    "value": "Air Booster",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A exposição a esta aberturas de fluxo de ar vai permitir conservar energia.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me da um impulso gravitacional!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interrogativo. Um respiradouro de ar, parece bastante seguro.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Às vezes você só precisa de um pouco de impulso na vida.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O fluxo de ar deste respiradouro é de baixo estímulo gravitacional.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O gás liberado dessas calhas faz você se sentir leve como uma pluma.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta respiradouro simula a sensação de voar!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vento faz Floran voar!",
+    "path": "/floranDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma cadeira congelada. Desconfortável depois de um tempo."}, {"op": "replace", "path": "/shortdescription", "value": "Ice Chair"}, {"op": "replace", "path": "/floranDescription", "value": "Cadeira faz Floran sentir-se engraçado."}, {"op": "replace", "path": "/glitchDescription", "value": "Considerando. Essas cadeiras não seriam ideais para festas ao ar livre."}, {"op": "replace", "path": "/apexDescription", "value": "Estou preocupado em ficar grudado na cadeira se eu me sentar."}, {"op": "replace", "path": "/humanDescription", "value": "Uma idéia incomum para uma cadeira. Minha pele gruda nela."}, {"op": "replace", "path": "/avianDescription", "value": "Esta cadeira faz as minhas penas congelarem."}, {"op": "replace", "path": "/hylotlDescription", "value": "Acho que consigo ver um peixe congelado aqui. Pobre criatura."}, {"op": "replace", "path": "/novakidDescription", "value": "Como regra geral, eu provavelmente deveria ficar longe de móveis de gelo."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira congelada. Desconfortável depois de um tempo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma idéia incomum para uma cadeira. Minha pele gruda nela.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cadeira faz Floran sentir-se engraçado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Considerando. Essas cadeiras não seriam ideais para festas ao ar livre.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Acho que consigo ver um peixe congelado aqui. Pobre criatura.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estou preocupado em ficar grudado na cadeira se eu me sentar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ice Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cadeira faz as minhas penas congelarem.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Como regra geral, eu provavelmente deveria ficar longe de móveis de gelo.",
+    "path": "/novakidDescription"
+  }
+]

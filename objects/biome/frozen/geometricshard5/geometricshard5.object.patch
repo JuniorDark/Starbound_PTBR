@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um grande pedaço de gelo."}, {"op": "replace", "path": "/shortdescription", "value": "Chunk of Ice"}, {"op": "replace", "path": "/floranDescription", "value": "Gelo gelado. Floran sente gelado também."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Água congelada."}, {"op": "replace", "path": "/apexDescription", "value": "Um pedaço de gelo."}, {"op": "replace", "path": "/humanDescription", "value": "Gelo frio! Se eu lamber, minha língua vai grudar."}, {"op": "replace", "path": "/avianDescription", "value": "Um pedaço pontudo de gelo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um pedaço pontudo de gelo."}, {"op": "replace", "path": "/novakidDescription", "value": "Um fragmento de gelo. A arma de assassinato perfeita."}]
+[
+  {
+    "op": "replace",
+    "value": "Um grande pedaço de gelo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Chunk of Ice",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pedaço de gelo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pedaço pontudo de gelo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pedaço pontudo de gelo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um fragmento de gelo. A arma de assassinato perfeita.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gelo gelado. Floran sente gelado também.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gelo frio! Se eu lamber, minha língua vai grudar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Água congelada.",
+    "path": "/glitchDescription"
+  }
+]

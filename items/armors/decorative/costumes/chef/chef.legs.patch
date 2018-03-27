@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Chef Apron"}, {"op": "replace", "path": "/description", "value": "Um avental para proteger as pernas de derramamento de óleo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um avental para proteger as pernas de derramamento de óleo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Chef Apron",
+    "path": "/shortdescription"
+  }
+]

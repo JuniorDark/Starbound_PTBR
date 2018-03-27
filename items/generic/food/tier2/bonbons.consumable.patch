@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Perfeição confeitaria."}, {"op": "replace", "path": "/shortdescription", "value": "Bon Bons"}]
+[
+  {
+    "op": "replace",
+    "value": "Bon Bons",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perfeição confeitaria.",
+    "path": "/description"
+  }
+]

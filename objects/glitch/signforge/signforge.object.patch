@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Forge Sign"}, {"op": "replace", "path": "/description", "value": "Um indicador claro de uma forja."}, {"op": "replace", "path": "/floranDescription", "value": "Esta é loja de metal?"}, {"op": "replace", "path": "/glitchDescription", "value": "Contente. Uma placa para a forja de um ferreiro."}, {"op": "replace", "path": "/apexDescription", "value": "Uma placa de madeira que significa que este edifício provavelmente é uma forja."}, {"op": "replace", "path": "/avianDescription", "value": "Uma placa com uma bigorna nela."}, {"op": "replace", "path": "/novakidDescription", "value": "Este edifício deve ser uma forja com uma placa assim."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma placa que indica uma forja."}, {"op": "replace", "path": "/humanDescription", "value": "Uma placa de loja para uma forja de ferreiro."}]
+[
+  {
+    "op": "replace",
+    "value": "Um indicador claro de uma forja.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa de loja para uma forja de ferreiro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa que indica uma forja.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa com uma bigorna nela.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa de madeira que significa que este edifício provavelmente é uma forja.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Contente. Uma placa para a forja de um ferreiro.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Forge Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este edifício deve ser uma forja com uma placa assim.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é loja de metal?",
+    "path": "/floranDescription"
+  }
+]

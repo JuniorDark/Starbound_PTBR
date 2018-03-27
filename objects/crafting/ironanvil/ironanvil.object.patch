@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Orgulhoso. Os Glitch criam todos os tipos de armas nessas bigornas. Eles até mesmo criam bigornas nestas bigornas."}, {"op": "replace", "path": "/description", "value": "Pode ser usada para produzir armas e armaduras."}, {"op": "replace", "path": "/shortdescription", "value": "^orange;Iron Anvil^white;"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Bigorna de Ferro"}, {"op": "replace", "path": "/floranDescription", "value": "Muito pessada, útil em uma armadilha."}, {"op": "replace", "path": "/apexDescription", "value": "Uma bigorna. Os Apex não tem usado isto para metalurgia por um longo, longo tempo."}, {"op": "replace", "path": "/humanDescription", "value": "Uma bigorna. Os humanos não têm utilizado isto desde o início de sua história."}, {"op": "replace", "path": "/avianDescription", "value": "Um grande laje de ferro com uma superfície plana."}, {"op": "replace", "path": "/hylotlDescription", "value": "Provavelmente usada em metalurgia."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "^#b9b5b2;Armadura e armas"}, {"op": "replace", "path": "/novakidDescription", "value": "Uma bigorna. Eu não sou um estranho para isso."}]
+[
+  {
+    "op": "replace",
+    "value": "Um grande laje de ferro com uma superfície plana.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bigorna. Os humanos não têm utilizado isto desde o início de sua história.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Provavelmente usada em metalurgia.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Muito pesada, útil em uma armadilha.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Armadura e armas",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bigorna. Eu não sou um estranho para isso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bigorna. Os Apex não tem usado isto para metalurgia por um longo, longo tempo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Orgulhoso. Os Glitch criam todos os tipos de armas nessas bigornas. Eles até mesmo criam bigornas sobre estas bigornas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bigorna de Ferro",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Pode ser usada para produzir armas e armaduras.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Iron Anvil^white;",
+    "path": "/shortdescription"
+  }
+]

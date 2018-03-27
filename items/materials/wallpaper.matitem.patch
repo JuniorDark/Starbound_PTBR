@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Classic Wallpaper"}, {"op": "replace", "path": "/description", "value": "Um papel de parede clássico, o toque final perfeito."}]
+[
+  {
+    "op": "replace",
+    "value": "Classic Wallpaper",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Os Glitch nunca entendem o conceito de colar a parede com papel.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Papel de parede elegante, o toque final perfeito.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Papel estranho cobre paredess.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Papel de parede. Perfeito para dar classe ao lugar.",
+    "path": "/novakiddescription"
+  }
+]

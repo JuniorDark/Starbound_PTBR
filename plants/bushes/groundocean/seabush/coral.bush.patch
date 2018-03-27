@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Coral."}, {"op": "replace", "path": "/shortdescription", "value": "Coral"}, {"op": "replace", "path": "/floranDescription", "value": "Ervas daninhas viscosas."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Um arbusto do mar."}]
+[
+  {
+    "op": "replace",
+    "value": "Coral",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Afirmação. Arbusto do mar.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ervas viscosasss",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Coral.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Throwing Dart"}, {"op": "replace", "path": "/description", "value": "Um dardo arremessável, mire no alvo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um dardo arremessável, mire no alvo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Throwing Dart",
+    "path": "/shortdescription"
+  }
+]

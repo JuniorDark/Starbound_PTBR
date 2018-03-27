@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma pistola pequena totalmente automática."}, {"op": "replace", "path": "/shortdescription", "value": "Uncommon Machine Pistol"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pistola pequena totalmente automática.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uncommon Machine Pistol",
+    "path": "/shortdescription"
+  }
+]

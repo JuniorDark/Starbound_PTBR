@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma pintura de uma mulher loira de pé em uma concha."}, {"op": "replace", "path": "/shortdescription", "value": "Beautiful Ape Painting"}, {"op": "replace", "path": "/floranDescription", "value": "Floran desestressado pela pintura..."}, {"op": "replace", "path": "/glitchDescription", "value": "Horrorizado. Eu não precisava ver isso."}, {"op": "replace", "path": "/apexDescription", "value": "De alguma forma, sinto que esta não é a versão original desta pintura."}, {"op": "replace", "path": "/humanDescription", "value": "Bem, isso é horripilante."}, {"op": "replace", "path": "/avianDescription", "value": "Por que é que este Apex em uma concha de molusco. O que é isto?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Isso foi quase lindo, mas falha horrivelmente."}, {"op": "replace", "path": "/novakidDescription", "value": "Uou, eu poderia ter ficado sem ver isso."}]
+[
+  {
+    "op": "replace",
+    "value": "Beautiful Ape Painting",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran desestressado pela pintura...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Horrorizado. Eu não precisava ver isso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "De alguma forma, sinto que esta não é a versão original desta pintura.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso foi quase lindo, mas falha horrivelmente.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bem, isso é horripilante.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uou, eu poderia ter ficado sem ver isso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Por que é que este Apex em uma concha de molusco. O que é isto?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pintura de uma mulher loira de pé em uma concha.",
+    "path": "/description"
+  }
+]

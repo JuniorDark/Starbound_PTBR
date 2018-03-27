@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "É um lança-chamas construído para se parecer com uma espada."}, {"op": "replace", "path": "/shortdescription", "value": "Flamethrower Blade"}]
+[
+  {
+    "op": "replace",
+    "value": "Flamethrower Blade",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um lança-chamas construído para se parecer com uma espada.",
+    "path": "/description"
+  }
+]

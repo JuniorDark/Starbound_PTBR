@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Caretaker Hood"}, {"op": "replace", "path": "/description", "value": "Um capuz de cuidador de aparência misteriosa."}]
+[
+  {
+    "op": "replace",
+    "value": "Um capuz de cuidador de aparência misteriosa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Caretaker Hood",
+    "path": "/shortdescription"
+  }
+]

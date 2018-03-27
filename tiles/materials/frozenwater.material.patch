@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Gelo que é naturalmente liso."}, {"op": "replace", "path": "/shortdescription", "value": "Smooth Ice"}, {"op": "replace", "path": "/floranDescription", "value": "Água congelada escorregadia."}, {"op": "replace", "path": "/glitchDescription", "value": "Cauteloso. A forma como este gelo congelou tornou extraordinariamente liso."}, {"op": "replace", "path": "/novakidDescription", "value": "Este gelo é muito liso."}]
+[
+  {
+    "op": "replace",
+    "value": "Cauteloso. A forma como este gelo congelou tornou extraordinariamente liso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Smooth Ice",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gelo que é naturalmente liso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Água congelada escorregadia.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este gelo é muito liso.",
+    "path": "/novakidDescription"
+  }
+]

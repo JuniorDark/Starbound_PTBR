@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Não consigo imaginar um Floran escrevendo um livro."}, {"op": "replace", "path": "/apexDescription", "value": "Existe alguma coisa que os Floran não decoram com ossos?"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não lê livross. Só Greenfinger usa estante."}, {"op": "replace", "path": "/shortdescription", "value": "Primitive Bookcase"}, {"op": "replace", "path": "/description", "value": "Uma estante feita de restos de presa Floran."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Esta estante não foi tocada em muito tempo."}, {"op": "replace", "path": "/humanDescription", "value": "Os Floran não parecem ser leitores pesados."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os Floran parecem incorporar a morte em cada item, até mesmo nesta estante."}, {"op": "replace", "path": "/novakidDescription", "value": "Nunca pensei nos Floran como grandes leitores. Estou surpreso que eles precisam de uma estante."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estante feita de restos de presa Floran.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não lê livross. Só Greenfinger usa estante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não consigo imaginar um Floran escrevendo um livro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nunca pensei nos Floran como grandes leitores. Estou surpreso que eles precisam de uma estante.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Existe alguma coisa que os Floran não decoram com ossos?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Esta estante não foi tocada em muito tempo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Primitive Bookcase",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Floran não parecem ser leitores pesados.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Floran parecem incorporar a morte em cada item, até mesmo nesta estante.",
+    "path": "/hylotlDescription"
+  }
+]

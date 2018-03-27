@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma cama de cristal, para quando você quiser sonhar em ser rico."}, {"op": "replace", "path": "/shortdescription", "value": "Crystal Bed"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de cama de crissstal afiado."}, {"op": "replace", "path": "/glitchDescription", "value": "Não impressionado. Estes cristais são realmente bastante comuns, e valem muito pouco."}, {"op": "replace", "path": "/apexDescription", "value": "Uma cama de cristal, atraente, mas sólida, para dizer o mínimo."}, {"op": "replace", "path": "/humanDescription", "value": "Aposto que esta cama é a coisa mais valiosa do universo!"}, {"op": "replace", "path": "/avianDescription", "value": "Uma cama deslumbrante e reluzente."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta cama é uma reminiscência de formações de corais naturais debaixo d'água."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma cama de cristal frio."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cama de cristal frio.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama de cristal, atraente, mas sólida, para dizer o mínimo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama de cristal, para quando você quiser sonhar em ser rico.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama deslumbrante e reluzente.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Crystal Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de cama de crissstal afiado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aposto que esta cama é a coisa mais valiosa do universo!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama é uma reminiscência de formações de corais naturais debaixo d'água.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não impressionado. Estes cristais são realmente bastante comuns, e valem muito pouco.",
+    "path": "/glitchDescription"
+  }
+]

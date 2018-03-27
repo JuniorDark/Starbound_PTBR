@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Uma mesa estranha... os objetos em cima estão presos nela."}, {"op": "replace", "path": "/shortdescription", "value": "Standard Issue Desk"}, {"op": "replace", "path": "/hylotlDescription", "value": "Um conjunto de objetos falsos estão fundidos nesta escrivaninha. Que mal é isso?"}, {"op": "replace", "path": "/humanDescription", "value": "Mas o que... a caneca e a lâmpada estão presas na escrivaninha? É apenas para mostrar?"}, {"op": "replace", "path": "/apexDescription", "value": "A caneca de café e a lâmpada são apenas para mostrar. Estão presos na superfície."}, {"op": "replace", "path": "/description", "value": "Cada um dessas escrivaninhas tem uma caneca de café e uma lâmpada presa em sua superfície."}, {"op": "replace", "path": "/floranDescription", "value": "Por que Apex colaram objetosss na mesa?"}, {"op": "replace", "path": "/glitchDescription", "value": "Confuso. Objetos parecem presos na superfície da escrivaninha. Não podem ser removidos."}, {"op": "replace", "path": "/novakidDescription", "value": "Essa caneca de café esta pregado na mesa. Que bom é isso?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um conjunto de objetos falsos estão fundidos nesta escrivaninha. Que mal é isso?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa estranha... os objetos em cima estão presos nela.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Objetos parecem presos na superfície da escrivaninha. Não podem ser removidos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cada um dessas escrivaninhas tem uma caneca de café e uma lâmpada presa em sua superfície.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Standard Issue Desk",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A caneca de café e a lâmpada são apenas para mostrar. Estão presos na superfície.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa caneca de café esta pregado na mesa. Que bom é isso?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mas o que... a caneca e a lâmpada estão presas na escrivaninha? É apenas para mostrar?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Por que Apex colaram objetosss na mesa?",
+    "path": "/floranDescription"
+  }
+]

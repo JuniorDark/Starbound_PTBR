@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Se eu quebrar esta rocha devo ser capaz de recolher o minério de platina dentro dela."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma rocha rica em platina. Eu deveria quebrá-la."}, {"op": "replace", "path": "/humanDescription", "value": "Uma rocha cheia de platina! Talvez eu possa quebrá-la."}, {"op": "replace", "path": "/apexDescription", "value": "Parece haver platina dentro desta frágil rocha."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Esta rocha contém platina e está coberta de rachaduras."}, {"op": "replace", "path": "/floranDescription", "value": "Rocha reluzente. Esssmagá-la!"}, {"op": "replace", "path": "/shortdescription", "value": "Small Platinum Rock"}, {"op": "replace", "path": "/hylotlDescription", "value": "Um golpe rápido nesta pedra liberaria a platina dentro."}, {"op": "replace", "path": "/description", "value": "Uma rocha rachada cheia de platina."}]
+[
+  {
+    "op": "replace",
+    "value": "Small Platinum Rock",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma rocha rachada cheia de platina.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma rocha cheia de platina! Talvez eu possa quebrá-la.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma rocha rica em platina. Eu deveria quebrá-la.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um golpe rápido nesta pedra liberaria a platina dentro.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se eu quebrar esta rocha devo ser capaz de recolher o minério de platina dentro dela.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Esta rocha contém platina e está coberta de rachaduras.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece haver platina dentro desta frágil rocha.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rocha reluzente. Esssmagá-la!",
+    "path": "/floranDescription"
+  }
+]

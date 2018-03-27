@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Macaw Headdress"}, {"op": "replace", "path": "/description", "value": "Dura como um prego, esta chapelaria defende contra todo o tipo de perigos."}]
+[
+  {
+    "op": "replace",
+    "value": "Dura como um prego, esta chapelaria defende contra todo o tipo de perigos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Macaw Headdress",
+    "path": "/shortdescription"
+  }
+]

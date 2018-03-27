@@ -1,7 +1,7 @@
 [
   {
     "op": "replace",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Ei, amigo! Eu sou apenas um humilde velho fazendeiro de Poptop. Eu podia ouvir seus assobios durante todo o dia... Na verdade, era eu!"
+    "value": "Ei, amigo! Eu sou apenas um humilde velho fazendeiro de Poptop. Eu podia ouvir seus assobios durante todo o dia... Na verdade, era eu!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
   }
 ]

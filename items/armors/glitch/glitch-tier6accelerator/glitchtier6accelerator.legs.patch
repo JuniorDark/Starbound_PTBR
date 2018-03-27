@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Legionnaire's Greaves"}, {"op": "replace", "path": "/description", "value": "Calças do legionário - insiste que as pessoas chamem a sua tanga um demi-kilt."}]
+[
+  {
+    "op": "replace",
+    "value": "Legionnaire's Greaves",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Calças do legionário - insiste que as pessoas chamem a sua tanga um demi-kilt.",
+    "path": "/description"
+  }
+]

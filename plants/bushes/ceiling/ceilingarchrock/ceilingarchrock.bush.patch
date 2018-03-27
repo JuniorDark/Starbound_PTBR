@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Uma rocha arqueada."}, {"op": "replace", "path": "/shortdescription", "value": "Uma rocha arqueada."}, {"op": "replace", "path": "/floranDescription", "value": "Rochas Curvy."}, {"op": "replace", "path": "/glitchDescription", "value": "Declaração. Uma rocha arqueada."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma rocha arqueada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma rocha arqueada.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rochas Curvy.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Declaração. Uma rocha arqueada.",
+    "path": "/glitchDescription"
+  }
+]

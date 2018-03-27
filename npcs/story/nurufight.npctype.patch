@@ -1,1 +1,37 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/3", "value": "Prove minha lança!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/0", "value": "Eu te vejo!"}, {"op": "replace", "path": "/scriptConfig/dialog/leave/default/default/0", "value": "Estou caindo fora, te vejo mais tarde!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/1", "value": "Este é o meu tipo de festa!"}, {"op": "replace", "path": "/scriptConfig/dialog/start/default/default/0", "value": "Estes caçadoresss querem lutar. Vamos mostrar a eles uma péssima hora!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/2", "value": "Você não pode esperar derrotar um caçador como eu!"}]
+[
+  {
+    "op": "replace",
+    "value": "Nuru",
+    "path": "/npcname"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vejo você!",
+    "path": "/scriptConfig/dialog/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Estou caindo fora, te vejo mais tarde!",
+    "path": "/scriptConfig/dialog/leave/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Prove minha lança!",
+    "path": "/scriptConfig/dialog/attack/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Estes caçadoresss querem lutar. Vamos mostrar a eles uma péssima hora!",
+    "path": "/scriptConfig/dialog/start/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este é o meu tipo de festa!",
+    "path": "/scriptConfig/dialog/attack/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você não pode esperar derrotar um caçador como eu!",
+    "path": "/scriptConfig/dialog/attack/default/default/2"
+  }
+]

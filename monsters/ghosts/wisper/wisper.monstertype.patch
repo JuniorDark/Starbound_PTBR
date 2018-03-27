@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Alguns acreditam que Wispers são espíritos perdidos. À noite, seu brilho pode fazer exploradores se perderem."}, {"op": "replace", "path": "/shortdescription", "value": "Wisper"}]
+[
+  {
+    "op": "replace",
+    "value": "Alguns acreditam que Wispers são espíritos perdidos. À noite, seu brilho pode fazer exploradores se perderem.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Wisper",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Uma massa de tentáculos retorcidos."}, {"op": "replace", "path": "/shortdescription", "value": "Tentacle Cluster"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma massa de tentáculos retorcidos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Monte de tentáculos assustadores todos triturados juntos.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perturbado. Esses tentáculos foram triturados juntos em uma massa sólida.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não gosta de tentáculoss franzindos.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tentacle Cluster",
+    "path": "/shortdescription"
+  }
+]

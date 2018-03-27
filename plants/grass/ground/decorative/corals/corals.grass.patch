@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Relatório. Coral."}, {"op": "replace", "path": "/floranDescription", "value": "Um coral afiado."}, {"op": "replace", "path": "/shortdescription", "value": "Coral."}, {"op": "replace", "path": "/description", "value": "Coral."}]
+[
+  {
+    "op": "replace",
+    "value": "Um coral afiado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Coral.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Coral.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Coral.",
+    "path": "/shortdescription"
+  }
+]

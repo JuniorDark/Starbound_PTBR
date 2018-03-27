@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Wooden Support"}, {"op": "replace", "path": "/avianDescription", "value": "Um suporte de madeira."}, {"op": "replace", "path": "/apexDescription", "value": "Um suporte de madeira."}, {"op": "replace", "path": "/floranDescription", "value": "Madeira transformada em sssuporte."}, {"op": "replace", "path": "/description", "value": "Um suporte de madeira desgastado."}, {"op": "replace", "path": "/humanDescription", "value": "Um suporte de madeira em mau estado."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este suporte não parece ser estruturalmente sólido."}, {"op": "replace", "path": "/glitchDescription", "value": "Perturbado. Eu acredito que esta madeira foi metade comida por cupins."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma viga de madeira podre velha."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma viga de madeira podre velha.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um suporte de madeira em mau estado.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um suporte de madeira.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um suporte de madeira.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um suporte de madeira desgastado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Perturbado. Eu acredito que esta madeira foi metade comida por cupins.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este suporte não parece ser estruturalmente sólido.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Madeira transformada em sssuporte.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wooden Support",
+    "path": "/shortdescription"
+  }
+]

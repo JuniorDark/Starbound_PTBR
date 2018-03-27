@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Ehh, um material de aparência carnuda!"}, {"op": "replace", "path": "/shortdescription", "value": "Flesh Pile"}]
+[
+  {
+    "op": "replace",
+    "value": "Alarmado. Isso parece ser carne pulsante.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eca, um material de aparência carnuda!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Flesh Pile",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Carne mole e visscosa.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta carne é bastante desagradável de olhar.",
+    "path": "/novakiddescription"
+  }
+]

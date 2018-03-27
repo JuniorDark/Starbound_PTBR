@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran não tem certeza se Floran gosta de beber. Talvezz cresça em Floran."}, {"op": "replace", "path": "/shortdescription", "value": "Teacup"}, {"op": "replace", "path": "/apexDescription", "value": "Um quente copo de chá."}, {"op": "replace", "path": "/humanDescription", "value": "Não há nada como uma boa xícara de chá e um assento."}, {"op": "replace", "path": "/avianDescription", "value": "Uma bebida quente."}, {"op": "replace", "path": "/hylotlDescription", "value": "O Hylotl produz bebidas similares da flora oceânica."}, {"op": "replace", "path": "/description", "value": "Um copo fumegante de Earl Grey."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. O chá é uma alegria para os sensores de sabor."}, {"op": "replace", "path": "/novakidDescription", "value": "Nunca entendi o que todos gostam tanto no chá."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma bebida quente.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um copo fumegante de Earl Grey.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um quente copo de chá.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. O chá é uma alegria para os sensores de sabor.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não tem certeza se Floran gosta de beber. Talvezz cresça em Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nunca entendi o que todos gostam tanto no chá.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Teacup",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O Hylotl produz bebidas similares da flora oceânica.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não há nada como uma boa xícara de chá e um assento.",
+    "path": "/humanDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Invejoso. Esta pintura pode ser uma cópia, mas é bem pintada."}, {"op": "replace", "path": "/shortdescription", "value": "Traditional Mount Painting"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não se importa com a pintura de montanha boba."}, {"op": "replace", "path": "/humanDescription", "value": "Tenho quase a certeza que tínhamos esta mesma pintura na terra."}, {"op": "replace", "path": "/description", "value": "É uma cópia de uma pintura antiga e famosa."}, {"op": "replace", "path": "/apexDescription", "value": "Esta pintura é muito agradável."}, {"op": "replace", "path": "/avianDescription", "value": "Nada mau! As pinceladas são um pouco desleixadas, no entanto."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma cavalgada deslumbrante de cor e emoção."}, {"op": "replace", "path": "/novakidDescription", "value": "Isto é um tipo de pintura clássica."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cavalgada deslumbrante de cor e emoção.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Invejoso. Esta pintura pode ser uma cópia, mas é bem pintada.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não se importa com a pintura de montanha boba.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma cópia de uma pintura antiga e famosa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Isto é um tipo de pintura clássica.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Traditional Mount Painting",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tenho quase a certeza que tínhamos esta mesma pintura na Terra.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nada mau! As pinceladas são um pouco desleixadas, no entanto.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta pintura é muito agradável.",
+    "path": "/apexDescription"
+  }
+]

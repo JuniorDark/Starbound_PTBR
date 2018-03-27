@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Cyclops Yeti Mask"}, {"op": "replace", "path": "/description", "value": "Isso nem pisca! Que aterrorizante."}]
+[
+  {
+    "op": "replace",
+    "value": "Cyclops Yeti Mask",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso nem pisca! Que aterrorizante.",
+    "path": "/description"
+  }
+]

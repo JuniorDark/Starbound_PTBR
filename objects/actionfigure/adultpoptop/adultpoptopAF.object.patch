@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Adult Poptop Figurine"}, {"op": "replace", "path": "/description", "value": "A etiqueta diz, \"É enorme...\""}]
+[
+  {
+    "op": "replace",
+    "value": "Adult Poptop Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"É enorme...\"",
+    "path": "/description"
+  }
+]

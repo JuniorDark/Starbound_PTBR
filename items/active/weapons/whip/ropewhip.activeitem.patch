@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Rope Whip ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Uma corda transformada em um chicote. Faça estralar!"}, {"op": "replace", "path": "/shortdescription", "value": "Rope Whip"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma corda transformada em um chicote. Faça estralar!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Rope Whip",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rope Whip ^yellow;^reset;",
+    "path": "/upgradeParameters/shortdescription"
+  }
+]

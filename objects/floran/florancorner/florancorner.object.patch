@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Parece um pedaço de couro esticado. Ele tem um cheiro típico de couro."}, {"op": "replace", "path": "/novakidDescription", "value": "Isso me parece um couro esticado, se não me engano."}, {"op": "replace", "path": "/description", "value": "Um pedaço de couro fino é esticado do teto."}, {"op": "replace", "path": "/shortdescription", "value": "Leather Support"}, {"op": "replace", "path": "/hylotlDescription", "value": "Pele decorativa..."}, {"op": "replace", "path": "/floranDescription", "value": "Floran pendura courosss para criar aroma agradável."}, {"op": "replace", "path": "/apexDescription", "value": "Um pedaço de couro esticado."}, {"op": "replace", "path": "/avianDescription", "value": "Parece couro esticado. Estou inseguro de seu propósito."}, {"op": "replace", "path": "/glitchDescription", "value": "Confuso. Couro esticado. É decorativo?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um pedaço de couro esticado.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pedaço de couro fino é esticado do teto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Couro esticado. É decorativo?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pele decorativa...",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran pendura courosss para criar aroma agradável.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece um pedaço de couro esticado. Ele tem um cheiro típico de couro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece couro esticado. Estou inseguro de seu propósito.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Leather Support",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso me parece um couro esticado, se não me engano.",
+    "path": "/novakidDescription"
+  }
+]

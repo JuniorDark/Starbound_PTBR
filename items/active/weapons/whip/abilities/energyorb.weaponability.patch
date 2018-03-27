@@ -1,7 +1,7 @@
 [
   {
     "op": "replace",
-    "path": "/ability/name",
-    "value": "Orbe de Lucaine"
+    "value": "Orbe de Lucaine",
+    "path": "/ability/name"
   }
 ]

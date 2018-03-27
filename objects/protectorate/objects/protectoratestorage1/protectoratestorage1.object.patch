@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "É um grande rack de capsulas de status."}, {"op": "replace", "path": "/shortdescription", "value": "Status Pod Storage Unit"}, {"op": "replace", "path": "/floranDescription", "value": "Capsulass brilhantess. Bom recurso, mas às vezess perigoso."}, {"op": "replace", "path": "/glitchDescription", "value": "Interessado. Estas capsulas são lançadas no espaço e aterrissam no mundo mais próximo."}, {"op": "replace", "path": "/apexDescription", "value": "O protetorado lança essas capsulas no cosmos. Eles tendem a dar defeito algumas vezes."}, {"op": "replace", "path": "/humanDescription", "value": "Estas capsulas são lançadas no espaço para colonizar mundos. Elas podem às vezes dar defeito."}, {"op": "replace", "path": "/avianDescription", "value": "Estas capsulas de status podem às vezes dar defeito depois de anos adormecendo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um método de colonização automatizada. Exploradores muitas vezes acham que foram derrotados por essas coisas."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma bela coleção de capsulas. Útil se você ignorar o mau funcionamento ocasional!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um método de colonização automatizada. Exploradores muitas vezes acham que foram derrotados por essas coisas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bela coleção de capsulas. Útil se você ignorar o mau funcionamento ocasional!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Estas capsulas são lançadas no espaço e aterrissam no mundo mais próximo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um grande rack de capsulas de status.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Capsulass brilhantess. Bom recurso, mas às vezess perigoso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Status Pod Storage Unit",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O protetorado lança essas capsulas no cosmos. Eles tendem a dar defeito algumas vezes.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas capsulas são lançadas no espaço para colonizar mundos. Elas podem às vezes dar defeito.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas capsulas de status podem às vezes dar defeito depois de anos adormecendo.",
+    "path": "/avianDescription"
+  }
+]

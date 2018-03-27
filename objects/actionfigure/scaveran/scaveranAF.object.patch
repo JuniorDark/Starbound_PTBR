@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A etiqueta diz, \"O interior do seu bico é uma visão verdadeiramente aterrorizante.\""}, {"op": "replace", "path": "/shortdescription", "value": "Scaveran Figurine"}]
+[
+  {
+    "op": "replace",
+    "value": "Scaveran Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"O interior do seu bico é uma visão verdadeiramente aterrorizante.\"",
+    "path": "/description"
+  }
+]

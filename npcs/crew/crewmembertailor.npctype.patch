@@ -1,1 +1,117 @@
-[{"op":"replace","path":"/scriptConfig/crew/role/name","value":"Alfaiate"},{"op":"replace","path":"/scriptConfig/crew/role/field","value":"Moda"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0","value":"Se você estiver querendo atualizar o uniforme da sua tripulação, venha dizer oi!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1","value":"Se você quiser mudar a roupa da sua tripulação, então eu sou seu alfaiate!"},{"op":"replace","path":"/scriptConfig/dialog/converse/novakid/default/0","value":"Você parece tão afiado como um estribo de aço, parceiro!"},{"op":"replace","path":"/scriptConfig/dialog/converse/novakid/default/1","value":"Este novo uniforme da tripulação é mais afiado do que um espinho de durasteel. Boa escolha, parceiro!"},{"op":"replace","path":"/scriptConfig/dialog/converse/novakid/default/2","value":"Esta é uma ótima escolha de roupa, parceiro!"},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/2","value":"Esta roupa vai fazer a sua tripulação realmente se destacar. Grande escolha, capitão!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/default/default/1","value":"Minhas habilidades de alfaiataria me deixa atualizar o uniforme de sua tripulação. Basta falar para mim quando você precisar de meus serviços!"},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/1","value":"Parece bom!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/default/default/0","value":"Venha até mim se você quiser atualizar o uniforme de sua tripulação!"},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":"Esse aparência é definitivamente desta estação!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/floran/default/1","value":"Floran pode atualizar o uniforme de sua tripulação sempre que quiser!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1","value":"Ansioso. Se você precisa atualizar o uniforme de sua tripulação, venha falar comigo!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/floran/default/0","value":"Venha falar com Floran quando quiser atualizar os uniformesss!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0","value":"Amável. Venha até mim sempre que você quiser atualizar uniforme de sua tripulação."},{"op":"replace","path":"/scriptConfig/dialog/converse/glitch/default/1","value":"Animado. Tenho certeza que as pessoas vão adorar seu uniforme!"},{"op":"replace","path":"/scriptConfig/dialog/converse/floran/default/1","value":"Floran impressionado com o seu senso de estilo!"},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/3","value":"Senso de moda incrível, capitão!"},{"op":"replace","path":"/scriptConfig/dialog/converse/floran/default/2","value":"Floran gostou da escolha de roupa, capitão."},{"op":"replace","path":"/scriptConfig/dialog/converse/glitch/default/0","value":"Impressionado. Este é uma opção de uniforme promissora, capitão!"},{"op":"replace","path":"/scriptConfig/dialog/converse/floran/default/0","value":"Floran acha que isso é um bom uniforme!"},{"op":"replace","path":"/scriptConfig/dialog/converse/glitch/default/2","value":"Ansioso. Eu mal posso esperar para ver o que as pessoas pensam do seu novo uniforme, capitão!"}]
+[
+  {
+    "op": "replace",
+    "value": "Amável. Venha até mim sempre que você quiser atualizar uniforme de sua tripulação.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Venha falar com Floran quando quiser atualizar os uniformesss!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Venha até mim se você quiser atualizar o uniforme de sua tripulação!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. Eu mal posso esperar para ver o que as pessoas pensam do seu novo uniforme, capitão!",
+    "path": "/scriptConfig/dialog/converse/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. Se você precisa atualizar o uniforme de sua tripulação, venha falar comigo!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. Tenho certeza que as pessoas vão adorar seu uniforme!",
+    "path": "/scriptConfig/dialog/converse/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Moda",
+    "path": "/scriptConfig/crew/role/field"
+  },
+  {
+    "op": "replace",
+    "value": "Floran pode atualizar o uniforme de sua tripulação sempre que quiser!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran impressionado com o seu senso de estilo!",
+    "path": "/scriptConfig/dialog/converse/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gostou da escolha de roupa, capitão.",
+    "path": "/scriptConfig/dialog/converse/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Floran acha que isso é um bom uniforme!",
+    "path": "/scriptConfig/dialog/converse/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Se você estiver querendo atualizar o uniforme da sua tripulação, venha dizer oi!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Se você quiser mudar a roupa da sua tripulação, então eu sou seu alfaiate!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Este é uma opção de uniforme promissora, capitão!",
+    "path": "/scriptConfig/dialog/converse/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Senso de moda incrível, capitão!",
+    "path": "/scriptConfig/dialog/converse/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Parece bom!",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Minhas habilidades de alfaiataria me deixa atualizar o uniforme de sua tripulação. Basta falar para mim quando você precisar de meus serviços!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Alfaiate",
+    "path": "/scriptConfig/crew/role/name"
+  },
+  {
+    "op": "replace",
+    "value": "Esse aparência é definitivamente desta estação!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é uma ótima escolha de roupa, parceiro!",
+    "path": "/scriptConfig/dialog/converse/novakid/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Este novo uniforme da tripulação é mais afiado do que um espinho de durasteel. Boa escolha, parceiro!",
+    "path": "/scriptConfig/dialog/converse/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Esta roupa vai fazer a sua tripulação realmente se destacar. Grande escolha, capitão!",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você parece tão afiado como um estribo de aço, parceiro!",
+    "path": "/scriptConfig/dialog/converse/novakid/default/0"
+  }
+]

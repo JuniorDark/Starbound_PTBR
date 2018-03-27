@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um conjunto de armários, perfeito para armazenar coisas."}, {"op": "replace", "path": "/shortdescription", "value": "Lunar Base Lockers"}, {"op": "replace", "path": "/floranDescription", "value": "Armários são para guardar coisass dentro."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Um conjunto metálico de seis armários."}, {"op": "replace", "path": "/apexDescription", "value": "Armários empilhados. Uma ótima maneira de economizar espaço."}, {"op": "replace", "path": "/humanDescription", "value": "Armários para organizar seus itens."}, {"op": "replace", "path": "/avianDescription", "value": "Um lugar onde você pode armazenar seus pertences."}, {"op": "replace", "path": "/hylotlDescription", "value": "Isso me faz lembrar de meus dias como estudante."}, {"op": "replace", "path": "/novakidDescription", "value": "Seis armários destrancados."}]
+[
+  {
+    "op": "replace",
+    "value": "Um lugar onde você pode armazenar seus pertences.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um conjunto de armários, perfeito para armazenar coisas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Armários para organizar seus itens.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Armários são para guardar coisass dentro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lunar Base Lockers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Um conjunto metálico de seis armários.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Seis armários destrancados.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Armários empilhados. Uma ótima maneira de economizar espaço.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso me faz lembrar de meus dias como estudante.",
+    "path": "/hylotlDescription"
+  }
+]

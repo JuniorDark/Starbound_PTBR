@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Um arbusto viscoso."}, {"op": "replace", "path": "/shortdescription", "value": "Um arbusto viscoso."}, {"op": "replace", "path": "/floranDescription", "value": "Um arbusto viscoso."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Um arbusto viscoso."}]
+[
+  {
+    "op": "replace",
+    "value": "Um arbusto viscoso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um arbusto viscoso.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um arbusto viscoso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Um arbusto viscoso.",
+    "path": "/glitchDescription"
+  }
+]

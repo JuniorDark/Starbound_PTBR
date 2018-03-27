@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/description", "value": "Usada para produzir componentes de fiação complexos."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Estação de Fiação"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "Para tudo a ver com fiação"}, {"op": "replace", "path": "/floranDescription", "value": "Floran pode fazer equipamento para coisasss de fiação."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Uma estação de trabalho para a fabricação de equipamentos relacionados com fiação. Muito útil."}, {"op": "replace", "path": "/apexDescription", "value": "Eu posso criar equipamento para utilizar com fiação aqui."}, {"op": "replace", "path": "/humanDescription", "value": "Equipamentos relacionados com fiação podem ser criados nesta estação de trabalho. Legal!"}, {"op": "replace", "path": "/avianDescription", "value": "É uma estação de trabalho para criar equipamento a ser usado para fiação."}, {"op": "replace", "path": "/hylotlDescription", "value": "Para ferramentas de fiação e acessórios, esta é a função para a estação de trabalho"}, {"op": "replace", "path": "/shortdescription", "value": "^orange;Wiring Station^white;"}, {"op": "replace", "path": "/novakidDescription", "value": "Uma estação de trabalho para todas as coisas relacionadas com fiação."}]
+[
+  {
+    "op": "replace",
+    "value": "Para tudo a ver com fiação",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Estação de Fiação",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estação de trabalho para todas as coisas relacionadas com fiação.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran pode fazer equipamento para coisasss de fiação.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para ferramentas de fiação e acessórios, esta é a função para a estação de trabalho",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso criar equipamento para utilizar com fiação aqui.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma estação de trabalho para criar equipamento a ser usado para fiação.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Uma estação de trabalho para a fabricação de equipamentos relacionados com fiação. Muito útil.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Usada para produzir componentes de fiação complexos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Equipamentos relacionados com fiação podem ser criados nesta estação de trabalho. Legal!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Wiring Station^white;",
+    "path": "/shortdescription"
+  }
+]

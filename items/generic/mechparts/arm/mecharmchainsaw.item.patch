@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma motosserra energizada originalmente desenvolvida para cortar gelo."
+    "value": "Uma motosserra energizada originalmente desenvolvida para cortar gelo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Neo Chainsaw Mech Arm",
+    "path": "/shortdescription"
   }
 ]

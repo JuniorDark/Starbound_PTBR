@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Preocupado. Este sapo não parece disposto a se comunicar."}, {"op": "replace", "path": "/apexDescription", "value": "Um sapo comerciante silencioso. Incomum."}, {"op": "replace", "path": "/humanDescription", "value": "Se eu beijá-lo, você acha que ele vai se transformar em um príncipe comerciante?"}, {"op": "replace", "path": "/avianDescription", "value": "Quem é este comerciante curioso?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta criatura silenciosa não é um de nós."}, {"op": "replace", "path": "/description", "value": "Um sapo comerciante. O que realmente é, ou o que ele quer, ninguém sabe."}, {"op": "replace", "path": "/shortdescription", "value": "Frog Merchant"}, {"op": "replace", "path": "/floranDescription", "value": "Floran um pouco assustado com sssapo sssilencioso."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Sapo Comerciante"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "Um estranho anfíbio vendedor "}, {"op": "replace", "path": "/novakidDescription", "value": "Não vejo muitos sapos comerciantes por estas bandas!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um estranho anfíbio vendedor ",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Sapo Comerciante",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Um sapo comerciante. O que realmente é, ou o que ele quer, ninguém sabe.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um sapo comerciante silencioso. Incomum.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Este sapo não parece disposto a se comunicar.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran um pouco assustado com sssapo sssilencioso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Frog Merchant",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se eu beijá-lo, você acha que ele vai se transformar em um príncipe comerciante?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta criatura silenciosa não é um de nós.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quem é este comerciante curioso?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não vejo muitos comerciantes sapo por essas bandas!",
+    "path": "/novakidDescription"
+  }
+]

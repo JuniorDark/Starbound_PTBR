@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma planta réplica, obviamente, é feita de plástico."}, {"op": "replace", "path": "/shortdescription", "value": "Plastic Fake Plant"}, {"op": "replace", "path": "/floranDescription", "value": "Floran odeia planta de plássstico!"}, {"op": "replace", "path": "/glitchDescription", "value": "Não Impressionado. Uma planta de plástico. Barata."}, {"op": "replace", "path": "/apexDescription", "value": "Por que alguém quer uma planta falsa?"}, {"op": "replace", "path": "/novakidDescription", "value": "Estas folhas são bem duras... Espere, é de plástico!"}, {"op": "replace", "path": "/humanDescription", "value": "Esta planta me faz lembrar de salas de espera."}, {"op": "replace", "path": "/avianDescription", "value": "Uma planta falsa. Agradável."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma planta de plástico falsa e nojenta."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma planta falsa. Agradável.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta réplica, obviamente, é feita de plástico.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran odeia planta de plássstico!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plastic Fake Plant",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas folhas são bem duras... Espere, é de plástico!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não Impressionado. Uma planta de plástico. Barata.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Por que alguém quer uma planta falsa?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta de plastico falsa, repugnante.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me lembra de salas de espera.",
+    "path": "/humanDescription"
+  }
+]

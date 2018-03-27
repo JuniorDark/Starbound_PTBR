@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um console para monitorar as condições dentro de uma estação em órbita."
+    "value": "Um console para monitorar as condições dentro de uma estação em órbita.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Este console avançado pode monitorar todas as áreas de uma estação."
+    "value": "Um computador sofisticado para ajustar sistemas dentro de uma estação.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Um terminal para monitorar as condições dentro de uma estação."
+    "value": "Um terminal para monitorar as condições dentro de uma estação.",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Terminal de computador chique da esstação essspacial."
+    "value": "Terminal de computador chique da esstação essspacial.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Interessado. Este terminal é capaz de se interligar através de uma estação de muitos componentes."
+    "value": "Interessado. Este terminal é capaz de se interconectar através de uma estação com muitos componentes.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Este terminal avançado foi projetado para acompanhar as condições da estação espacial."
+    "value": "Space Station Console",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Este terminal é feito para controlar sistemas dentro de uma estação espacial."
+    "value": "Este console avançado pode monitorar todas as áreas de uma estação.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Um computador sofisticado para ajustar sistemas dentro de uma estação."
+    "value": "Este terminal avançado foi projetado para acompanhar as condições da estação espacial.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este terminal é feito para controlar sistemas dentro de uma estação espacial.",
+    "path": "/hylotlDescription"
   }
 ]

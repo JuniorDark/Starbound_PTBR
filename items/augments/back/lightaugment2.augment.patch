@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um módulo de EPP que permite que um pacote de sobrevivência emita uma luz."}, {"op": "replace", "path": "/shortdescription", "value": "Light II Augment"}]
+[
+  {
+    "op": "replace",
+    "value": "Um módulo de EPP que permite que um pacote de sobrevivência emita uma luz.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Light II Augment",
+    "path": "/shortdescription"
+  }
+]

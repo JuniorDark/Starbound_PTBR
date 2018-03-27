@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Ninguém mais aprecia uma boa piada! Meu gênio cômico é desperdiçado nestes cretinos aqui."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/human/0", "value": "O que você ganha quando você raspa um Apex? Um humano!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/apex/0", "value": "O que um Apex apaixonado disse a sua esposa? Você me deixa bananas!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/avian/0", "value": "Fora de si? Acho que você realmente... pulou do galinheiro!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/default/0", "value": "Ninguém mais aprecia uma boa piada! Meu gênio cômico é desperdiçado nestes cretinos aqui."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/hylotl/0", "value": "Ninguém mais aprecia uma boa piada! Meu gênio cômico é desperdiçado nestes cretinos aqui."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/glitch/0", "value": "Qual é a dança favorita de um Glitch? A robôtica!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/floran/0", "value": "Do que você chama um amigo Floran? Um Botão de Flor!"}]
+[
+  {
+    "op": "replace",
+    "value": "Ninguém mais aprecia uma boa piada! Meu gênio cômico é desperdiçado nestes cretinos aqui.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ninguém mais aprecia uma boa piada! Meu gênio cômico é desperdiçado nestes cretinos aqui.",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ninguém mais aprecia uma boa piada! Meu gênio cômico é desperdiçado nestes cretinos aqui.",
+    "path": "/scriptConfig/dialog/converse/hylotl/hylotl/0"
+  },
+  {
+    "op": "replace",
+    "value": "Fora de si? Acho que você realmente... pulou do galinheiro!",
+    "path": "/scriptConfig/dialog/converse/hylotl/avian/0"
+  },
+  {
+    "op": "replace",
+    "value": "O que um Apex apaixonado disse a sua esposa? Você me deixa bananas!",
+    "path": "/scriptConfig/dialog/converse/hylotl/apex/0"
+  },
+  {
+    "op": "replace",
+    "value": "Do que você chama um amigo Floran? Um Botão de Flor!",
+    "path": "/scriptConfig/dialog/converse/hylotl/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "O que você ganha quando você raspa um Apex? Um humano!",
+    "path": "/scriptConfig/dialog/converse/hylotl/human/0"
+  },
+  {
+    "op": "replace",
+    "value": "Qual é a dança favorita de um Glitch? A robôtica!",
+    "path": "/scriptConfig/dialog/converse/hylotl/glitch/0"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op":"replace","path":"/message","value":"<name> gostaria de se juntar a sua tripulação como um <role>. Convidar <name> a bordo?^gray;\n\n^white;Trabalho:^gray; <role>\n^white;Rank:^gray; <rank>\n^white;Status:^gray; <status>"},{"op":"replace","path":"/subtitle","value":"Alguém quer se juntar a suas aventuras"},{"op":"replace","path":"/title","value":"Expandir Sua Tripulação"},{"op":"replace","path":"/okCaption","value":"Contratar"},{"op":"replace","path":"/cancelCaption","value":"Agora não"}]
+[
+  {
+    "op": "replace",
+    "value": "<name> gostaria de se juntar a sua tripulação como um <role>. Convidar <name> a bordo?^gray;\n\n^white;Trabalho:^gray; <role>\n^white;Rank:^gray; <rank>\n^white;Status:^gray; <status>",
+    "path": "/message"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém quer se juntar a suas aventuras",
+    "path": "/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Expandir Sua Tripulação",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Contratar",
+    "path": "/okCaption"
+  },
+  {
+    "op": "replace",
+    "value": "Agora não",
+    "path": "/cancelCaption"
+  }
+]

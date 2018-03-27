@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Graffiti"}, {"op": "replace", "path": "/glitchDescription", "value": "Desafiante. Não."}, {"op": "replace", "path": "/apexDescription", "value": "Eu vou voltar quando eu chegar a um beco sem saída."}, {"op": "replace", "path": "/humanDescription", "value": "Como é que este grafite sabe qual a direção que você veio?"}, {"op": "replace", "path": "/avianDescription", "value": "Este graffiti é tão insistente."}, {"op": "replace", "path": "/hylotlDescription", "value": "Exigente."}, {"op": "replace", "path": "/description", "value": "O graffiti diz \"volte\". As chances de que seja respeitado: zero."}, {"op": "replace", "path": "/floranDescription", "value": "Não diga a Floran o que fazer!"}, {"op": "replace", "path": "/novakidDescription", "value": "Não há como voltar atrás agora."}]
+[
+  {
+    "op": "replace",
+    "value": "Desafiante. Não.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Exigente.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não diga a Floran o que fazer!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O graffiti diz \"volte\". As chances de que seja respeitado: zero.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Como é que este grafite sabe qual a direção que você veio?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vou voltar quando eu chegar a um beco sem saída.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não há como voltar atrás agora.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este graffiti é tão insistente.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Graffiti",
+    "path": "/shortdescription"
+  }
+]

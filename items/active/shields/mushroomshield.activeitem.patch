@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um disco grosso de fungo endurecido."}, {"op": "replace", "path": "/shortdescription", "value": "Mushroom Shield"}]
+[
+  {
+    "op": "replace",
+    "value": "Um disco grosso de fungo endurecido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Mushroom Shield",
+    "path": "/shortdescription"
+  }
+]

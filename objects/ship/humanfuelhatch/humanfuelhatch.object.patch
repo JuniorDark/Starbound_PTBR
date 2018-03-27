@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Tanque de combustível para o motor FTL. Vamoss enche-lo!"}, {"op": "replace", "path": "/shortdescription", "value": "FTL Fuel Hatch"}, {"op": "replace", "path": "/novakidDescription", "value": "Combustível para o FTL vai aqui!"}, {"op": "replace", "path": "/glitchDescription", "value": "Animado. Este tanque alimenta a movimentação do motor FTL de modo que eu possa visitar planetas fora deste sistema."}, {"op": "replace", "path": "/apexDescription", "value": "O tanque de combustível do motor FTL. Converte combustível em liberdade."}, {"op": "replace", "path": "/humanDescription", "value": "O tanque de combustível da nave. Com combustível para o motor FTL posso explorar fora deste sistema."}, {"op": "replace", "path": "/avianDescription", "value": "O tanque de combustível do FTL. Vamos carregá-lo e ir para as estrelas!"}, {"op": "replace", "path": "/hylotlDescription", "value": "O humilde tanque de combustível do FTL. O combustível é a força vital da exploração."}, {"op": "replace", "path": "/description", "value": "Aceita Erchius líquido como combustível para fazer funcionar o motor FTL da nave."}]
+[
+  {
+    "op": "replace",
+    "value": "Aceita Erchius líquido como combustível para o motor FTL da nave.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. Este tanque alimenta a movimentação do motor FTL de modo que eu possa visitar planetas fora deste sistema.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "FTL Fuel Hatch",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Combustível para o FTL vai aqui!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tanque de combustível para o motor FTL. Vamoss enche-lo!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O tanque de combustível do motor FTL. Converte combustível em liberdade.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O tanque de combustível do FTL. Vamos carregá-lo e ir para as estrelas!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O humilde tanque de combustível do FTL. O combustível é a força vital da exploração.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O tanque de combustível da nave. Com combustível para o motor FTL posso explorar fora deste sistema.",
+    "path": "/humanDescription"
+  }
+]

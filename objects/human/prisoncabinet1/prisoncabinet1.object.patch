@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Broken Supply Cabinet"}, {"op": "replace", "path": "/apexDescription", "value": "Um armário de suprimentos quebrado. Alguém o saqueou."}, {"op": "replace", "path": "/description", "value": "Parece que costumava ser preenchido com suprimentos médicos - não mais."}, {"op": "replace", "path": "/avianDescription", "value": "Este armário costumava conter medicamentos, pelo que parece."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este armário deveria ter sido assegurado mais minuciosamente."}, {"op": "replace", "path": "/novakidDescription", "value": "Roubar remédios é muito baixo."}, {"op": "replace", "path": "/floranDescription", "value": "Armário quebrado e vazio."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. O menor vestígio de iodo pode ser detectado."}, {"op": "replace", "path": "/humanDescription", "value": "Há algo mais deprimente do que um armário médico saqueado? Na verdade, sim, ser destroçado por monstros de tentáculos."}]
+[
+  {
+    "op": "replace",
+    "value": "Um armário de suprimentos quebrado. Alguém o saqueou.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Broken Supply Cabinet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Armário quebrado e vazio.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há algo mais deprimente do que um armário médico saqueado? Na verdade, sim, ser destroçado por monstros de tentáculos.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que costumava ser preenchido com suprimentos médicos - não mais.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. O menor vestígio de iodo pode ser detectado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Roubar remédios é muito baixo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este armário deveria ter sido assegurado mais minuciosamente.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este armário costumava conter medicamentos, pelo que parece.",
+    "path": "/avianDescription"
+  }
+]

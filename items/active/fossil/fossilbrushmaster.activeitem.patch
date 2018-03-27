@@ -1,17 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/category",
-    "value": "tool"
+    "value": "Pode ser usado uma vez para escavar um fóssil, com chance maior de sucesso.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/shortdescription",
-    "value": "Master Fossil Brush"
-  },
-  {
-    "op": "replace",
-    "path": "/description",
-    "value": "Pode ser usado uma vez para escavar um fóssil, com chance maior de sucesso."
+    "value": "Master Fossil Brush",
+    "path": "/shortdescription"
   }
 ]

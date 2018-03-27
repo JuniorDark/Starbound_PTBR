@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/shortdescription", "value": "..."}, {"op": "replace", "path": "/description", "value": "..."}]
+[
+  {
+    "op": "replace",
+    "value": "...",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "...",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "...",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "...",
+    "path": "/shortdescription"
+  }
+]

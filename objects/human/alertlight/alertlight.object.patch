@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "A luz piscante destina-se a sinalizar que houve algum tipo de emergência..."}, {"op": "replace", "path": "/shortdescription", "value": "Alert Light"}, {"op": "replace", "path": "/floranDescription", "value": "Luz giratória. Como um vaga-lume em um frasssco."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma luz desajeitada dançante."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma luz desejando atenção."}, {"op": "replace", "path": "/apexDescription", "value": "Estes alarmes eram comuns na habitação Apex, sinalizando comportamento inaceitável."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Uma luz colorida."}, {"op": "replace", "path": "/humanDescription", "value": "Essas coisas gritam perigo."}, {"op": "replace", "path": "/avianDescription", "value": "A máquina, ela grita como um pássaro."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz desajeitada dançante.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz desejando atenção.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alert Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Uma luz colorida.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luz giratória. Como um vaga-lume em um frasssco.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A luz piscante destina-se a sinalizar que houve algum tipo de emergência...",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A máquina, ela grita como um pássaro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes alarmes eram comuns na habitação Apex, sinalizando comportamento inaceitável.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas coisas gritam perigo.",
+    "path": "/humanDescription"
+  }
+]

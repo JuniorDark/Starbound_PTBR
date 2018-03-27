@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Wooden Standing Lamp"}, {"op": "replace", "path": "/humanDescription", "value": "Uma bela lâmpada de pé."}, {"op": "replace", "path": "/apexDescription", "value": "Uma lâmpada de madeira alta."}, {"op": "replace", "path": "/description", "value": "Uma lâmpada de madeira alta com uma sensação caseira."}, {"op": "replace", "path": "/floranDescription", "value": "Lâmpada de madeira alta tem brilho quente."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Uma lâmpada de pé simples."}, {"op": "replace", "path": "/avianDescription", "value": "Uma luz de madeira alta alimentada por eletricidade."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma lâmpada de pé encantadora."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma bela lâmpada."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lâmpada de pé encantadora.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bela lâmpada.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bela lâmpada de pé.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada de madeira alta com uma sensação caseira.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada de madeira alta.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz de madeira alta alimentada por eletricidade.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Uma lâmpada de pé simples.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lâmpada de madeira alta tem brilho quente.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wooden Standing Lamp",
+    "path": "/shortdescription"
+  }
+]

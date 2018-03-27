@@ -1,1 +1,137 @@
-[{"op":"replace","path":"/scriptConfig/crew/role/name","value":"Médico(a)"},{"op":"replace","path":"/scriptConfig/crew/role/field","value":"Médico"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/fieldBenefit/default/default/3","value":"Ei, eu posso curá-lo! Apenas aguente firme!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/combatBenefit/default/default/0","value":"Parece que você precisa de um pouco de cura!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/0","value":"Preocupado. Parece que você precisa de cuidados médicos!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0","value":"Ansioso. Eu posso ajudá-lo!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/2","value":"Você parece estar machucado. Floran pode ajudá-lo!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/0","value":"Você parece estar ferido. Floran pode ajudar!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/combatBenefit/default/default/3","value":"Parece que você precisa de meu auxílio!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/combatBenefit/default/default/4","value":"Eu posso curar você! Venha até mim, rápido!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/default/default/0","value":"Eu vou curá-lo sempre que estivermos na nave!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/1","value":"Floran é médico! Confie em Floran!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/1","value":"Cuidadoso. Talvez você precise de cuidados médicos?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/2","value":"Prestativo. Parece que você poderia estar em melhor forma. Deixe-me ajudá-lo!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/floran/default/0","value":"Floran vai curá-lo sempre que estivermos na nave!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0","value":"Prestativo. Eu vou curá-lo sempre que estivermos na nave!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1","value":"Animado. Talvez você precise de cuidados medicos?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/fieldBenefit/default/default/0","value":"Você parece estar machucado. Floran pode ajudá-lo!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2","value":"Prestativo. Isso deve curá-lo!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/combatBenefit/floran/default/1","value":"Floran pode ajudar!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0","value":"Floran tem coisas que podem ajudar!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/combatBenefit/default/default/2","value":"Eu sou um médico de combate - deixe-me ajudá-lo!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/fieldBenefit/default/default/1","value":"Deixe-me ajudá-lo!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2","value":"Floran tem coisass para ajudar!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3","value":"Prestativo. Pegue isso, ele vai ajudar!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/combatBenefit/default/default/1","value":"Deixe-me ajudá-lo!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/fieldBenefit/default/default/2","value":"Parece que você não se importaria com uma cura. Aqui!"}]
+[
+  {
+    "op": "replace",
+    "value": "Cuidadoso. Talvez você precise de cuidados médicos?",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Parece que você precisa de cuidados médicos!",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. Talvez você precise de cuidados medicos?",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran tem coisas que podem ajudar!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran é médico! Confie em Floran!",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran vai curá-lo sempre que estivermos na nave!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Prestativo. Eu vou curá-lo sempre que estivermos na nave!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Prestativo. Isso deve curá-lo!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Prestativo. Parece que você poderia estar em melhor forma. Deixe-me ajudá-lo!",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Ei, eu posso curá-lo! Apenas aguente firme!",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso curar você! Venha até mim, rápido!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vou curá-lo sempre que estivermos na nave!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sou um médico de combate - deixe-me ajudá-lo!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Médico(a)",
+    "path": "/scriptConfig/crew/role/name"
+  },
+  {
+    "op": "replace",
+    "value": "Médico",
+    "path": "/scriptConfig/crew/role/field"
+  },
+  {
+    "op": "replace",
+    "value": "Você parece estar machucado. Floran pode ajudá-lo!",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você parece estar machucado. Floran pode ajudá-lo!",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que você precisa de um pouco de cura!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que você não se importaria com uma cura. Aqui!",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você parece estar ferido. Floran pode ajudar!",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. Eu posso ajudá-lo!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran pode ajudar!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran tem coisass para ajudar!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Prestativo. Pegue isso, ele vai ajudar!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Deixe-me ajudá-lo!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Deixe-me ajudá-lo!",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que você precisa de meu auxílio!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3"
+  }
+]

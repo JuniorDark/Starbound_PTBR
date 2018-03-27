@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Uma raiz."}, {"op": "replace", "path": "/shortdescription", "value": "Uma raiz."}, {"op": "replace", "path": "/floranDescription", "value": "Raízes!"}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Uma raiz."}]
+[
+  {
+    "op": "replace",
+    "value": "Raízes!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma raíz.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma raíz.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Uma raiz.",
+    "path": "/glitchDescription"
+  }
+]

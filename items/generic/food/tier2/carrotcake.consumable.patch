@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "É um delicioso bolo de cenoura! Tem um gosto melhor do que parece."}, {"op": "replace", "path": "/shortdescription", "value": "Carrot Cake"}]
+[
+  {
+    "op": "replace",
+    "value": "Carrot Cake",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um delicioso bolo de cenoura! Tem um gosto melhor do que parece.",
+    "path": "/description"
+  }
+]

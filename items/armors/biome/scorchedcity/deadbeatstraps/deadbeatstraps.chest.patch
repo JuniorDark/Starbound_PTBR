@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Tiras de couro, que oferecem pouca proteção real."}, {"op": "replace", "path": "/shortdescription", "value": "Deadbeat Straps"}]
+[
+  {
+    "op": "replace",
+    "value": "Deadbeat Straps",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tiras de couro, que oferecem pouca proteção real.",
+    "path": "/description"
+  }
+]

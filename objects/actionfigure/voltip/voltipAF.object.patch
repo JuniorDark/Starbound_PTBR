@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Voltip Figurine"}, {"op": "replace", "path": "/description", "value": "A etiqueta diz, \"O resultado de um experimento científico que deu errado.\""}]
+[
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"O resultado de um experimento científico que deu errado.\"",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Voltip Figurine",
+    "path": "/shortdescription"
+  }
+]

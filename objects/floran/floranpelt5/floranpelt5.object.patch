@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Esta pele parece que pertencia a um filhote."}, {"op": "replace", "path": "/description", "value": "A pele de um pequeno animal da neve."}, {"op": "replace", "path": "/humanDescription", "value": "Uma pele de animal padronizada. Parece que o animal era muito jovem."}, {"op": "replace", "path": "/novakidDescription", "value": "Um animal bonito. Ou era."}, {"op": "replace", "path": "/shortdescription", "value": "Small Snowy Pelt"}, {"op": "replace", "path": "/floranDescription", "value": "Pele de besta nova da neve é especial pra Floran."}, {"op": "replace", "path": "/glitchDescription", "value": "Alarmado. A pele de um animal novo, caçado por um Floran."}, {"op": "replace", "path": "/avianDescription", "value": "O pêlo de uma bela e jovem fera."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta pele Floran parece ser de uma criança. Mais alarmante ainda."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pele de animal padronizada. Parece que o animal era muito jovem.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um animal bonito. Ou era.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alarmado. A pele de um animal novo, caçado por um Floran.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pele de besta nova da neve é especial pra Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Small Snowy Pelt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O pêlo de uma bela e jovem fera.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A pele de um pequeno animal da neve.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta pele Floran parece ser de uma criança. Mais alarmante ainda.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta pele parece que pertencia a um filhote.",
+    "path": "/apexDescription"
+  }
+]

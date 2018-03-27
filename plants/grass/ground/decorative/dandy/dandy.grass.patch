@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Afirmação. Um dente-de-leão."}, {"op": "replace", "path": "/description", "value": "Um dente-de-leão. Faça um desejo."}, {"op": "replace", "path": "/shortdescription", "value": "Um dente-de-leão."}, {"op": "replace", "path": "/floranDescription", "value": "Floran deseja esssfaquear."}]
+[
+  {
+    "op": "replace",
+    "value": "Um dente-de-leão.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um dente-de-leão. Faça um desejo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran deseja esssfaquear.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Afirmação. Um dente-de-leão.",
+    "path": "/glitchDescription"
+  }
+]

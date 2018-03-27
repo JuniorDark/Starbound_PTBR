@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Sweet Punch"}, {"op": "replace", "path": "/description", "value": "Uma mistura de apenas as mais doces das frutas mais doces."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma mistura de apenas as mais doces das frutas mais doces.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Sweet Punch",
+    "path": "/shortdescription"
+  }
+]

@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma luz de parede metálica que emite um brilho laranja."
+    "value": "Uma luz de parede metálica que emite um brilho laranja.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Esta luz emite um brilho alaranjado. Parece ser bastante barata de ser produzida."
+    "value": "Uma luz laranja desagradável. Pergunto-me quanto tempo dura a lâmpada?",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Esta luz emite um brilho alaranjado, mas não é quente como um sol."
+    "value": "Analítico. Esta luz foi construída para poder se alimentar por muito tempo.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Floran quer esmagar luz, mas Floran será educado."
+    "value": "Floran quer esmagar luz, mas Floran será educado.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Analítico. Esta luz foi construída para poder se alimentar por muito tempo."
+    "value": "Industrial Light",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Uma luz laranja desagradável. Pergunto-me quanto tempo dura a lâmpada?"
+    "value": "O brilho laranja desta luz me lembra os corais de brasas comumente vistos no fundo do oceano.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "O brilho laranja desta luz me lembra os corais de brasas comumente vistos no fundo do oceano."
+    "value": "Esta luz não é tão brilhante quanto eu.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Esta luz não é tão brilhante quanto eu."
+    "value": "Esta luz emite um brilho alaranjado, mas não é quente como um sol.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz emite um brilho alaranjado. Parece ser bastante barata de ser produzida.",
+    "path": "/apexDescription"
   }
 ]

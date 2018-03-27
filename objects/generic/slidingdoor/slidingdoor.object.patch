@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Porta sobe... Porta desce... Porta sobe... Porta desce..."}, {"op": "replace", "path": "/shortdescription", "value": "Sliding Door"}, {"op": "replace", "path": "/floranDescription", "value": "Porta boba confunde Floran."}, {"op": "replace", "path": "/glitchDescription", "value": "Apreciação. O mecanismo por trás dessa porta é complicado."}, {"op": "replace", "path": "/hylotlDescription", "value": "Portas como esta são usadas para controlar o fluxo de água nas cidades Hylotl."}, {"op": "replace", "path": "/avianDescription", "value": "Esta porta se abre para cima."}, {"op": "replace", "path": "/humanDescription", "value": "Esta porta se move tão rapidamente que produz uma onda de ar."}, {"op": "replace", "path": "/novakidDescription", "value": "É uma porta deslizante."}, {"op": "replace", "path": "/apexDescription", "value": "Uma porta sem maçaneta. Ele parece deslizar para cima e para baixo."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta sem maçaneta. Ele parece deslizar para cima e para baixo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apreciação. O mecanismo por trás dessa porta é complicado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Porta sobe... Porta desce... Porta sobe... Porta desce...",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Portas como esta são usadas para controlar o fluxo de água nas cidades Hylotl.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma porta deslizante.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sliding Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Porta boba confunde Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta se move tão rapidamente que produz uma onda de ar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta se abre para cima.",
+    "path": "/avianDescription"
+  }
+]

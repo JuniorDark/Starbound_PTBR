@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Gold Chestpiece"}, {"op": "replace", "path": "/description", "value": "Este peitoral brilhante é feito de ouro maciço."}]
+[
+  {
+    "op": "replace",
+    "value": "Gold Chestpiece",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este peitoral brilhante é feito de ouro maciço.",
+    "path": "/description"
+  }
+]

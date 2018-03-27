@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um conto curioso por Michael \"KDraconis\" Kim."}, {"op": "replace", "path": "/title", "value": "O Slibbler"}, {"op": "replace", "path": "/contentPages/0", "value": "Há uma regra não escrita que afirma que para cada aventura, deve haver um monstro.\n\nSe for um dragão, um slimething, ou uma baleia espacial assassina, tais criaturas são presas necessárias para cada herói aspirante.\n\n Como tal, não é nenhuma surpresa que vários indivíduos têm trocado histórias de uma besta mítica que vagueia o oceano de estrelas: O misterioso Slibbler."}, {"op": "replace", "path": "/contentPages/1", "value": "Dito ter várias línguas que crescem aleatoriamente de sua pele, é atribuído com os recentes desaparecimentos de várias naves espaciais pessoais. Presumivelmente, a criatura trava em naves, as abre rachando-as, então \"slibbles\" as pessoas dentro, o que quer que isso signifique.\n\nPerpetuadores dessas histórias afirmam que as línguas do Slibbler são de fato as línguas de suas vítimas, pegas como uma espécie de troféu cômico."}, {"op": "replace", "path": "/contentPages/2", "value": "Um viajante espacial declarou ter visto um Slibbler. No entanto, ao contrário da crença comum, o Slibbler não era totalmente hostil.\n\nEle flutuou sobre uma nave espacial suja, limpou a nave com a língua, e depois partiu sem deixar vestígios.\n\nO viajante espacial também insistiu que o Slibbler fez um ruído semelhante ao de \"framboesas soprando\", mas todos sabem que no espaço ninguém pode ouvir você \"pbbbt\"."}]
+[
+  {
+    "op": "replace",
+    "value": "Um conto curioso por Michael \"KDraconis\" Kim.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um viajante espacial declarou ter visto um Slibbler. No entanto, ao contrário da crença comum, o Slibbler não era totalmente hostil.\n\nEle flutuou sobre uma nave espacial suja, limpou a nave com a língua, e depois partiu sem deixar vestígios.\n\nO viajante espacial também insistiu que o Slibbler fez um ruído semelhante ao de \"framboesas soprando\", mas todos sabem que no espaço ninguém pode ouvir você \"pbbbt\".",
+    "path": "/contentPages/2"
+  },
+  {
+    "op": "replace",
+    "value": "Dito ter várias línguas que crescem aleatoriamente de sua pele, é atribuído com os recentes desaparecimentos de várias naves espaciais pessoais. Presumivelmente, a criatura trava em naves, as abre rachando-as, então \"slibbles\" as pessoas dentro, o que quer que isso signifique.\n\nPerpetuadores dessas histórias afirmam que as línguas do Slibbler são de fato as línguas de suas vítimas, pegas como uma espécie de troféu cômico.",
+    "path": "/contentPages/1"
+  },
+  {
+    "op": "replace",
+    "value": "O Slibbler",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Há uma regra não escrita que afirma que para cada aventura, deve haver um monstro.\n\nSe for um dragão, um slimething, ou uma baleia espacial assassina, tais criaturas são presas necessárias para cada herói aspirante.\n\n Como tal, não é nenhuma surpresa que vários indivíduos têm trocado histórias de uma besta mítica que vagueia o oceano de estrelas: O misterioso Slibbler.",
+    "path": "/contentPages/0"
+  }
+]

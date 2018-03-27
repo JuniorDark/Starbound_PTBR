@@ -1,1 +1,2527 @@
-[{"op":"replace","path":"/statuses/generic/0","value":"Tem uma música presa em sua cabeça"},{"op":"replace","path":"/statuses/generic/1","value":"Tropeçou em uma pedra mais cedo"},{"op":"replace","path":"/statuses/generic/2","value":"Se sente como se estivesse preso em um video game"},{"op":"replace","path":"/statuses/generic/3","value":"Deseja que as coisas fossem diferentes"},{"op":"replace","path":"/statuses/generic/4","value":"Considerando ter um novo hobby"},{"op":"replace","path":"/statuses/generic/5","value":"Precisa de uma pausa"},{"op":"replace","path":"/statuses/generic/6","value":"Se sente dentro da musica"},{"op":"replace","path":"/statuses/generic/7","value":"Tentando lembrar sua idade"},{"op":"replace","path":"/statuses/generic/8","value":"Não tem idéia do que esta fazendo e espera que ninguém perceba"},{"op":"replace","path":"/statuses/generic/9","value":"Não acredita que é verdade"},{"op":"replace","path":"/statuses/generic/10","value":"Cansado após um longo dia de não fazer nada"},{"op":"replace","path":"/statuses/generic/11","value":"Não quer que ninguém descubra seu segredo"},{"op":"replace","path":"/statuses/generic/12","value":"Escondendo algo"},{"op":"replace","path":"/statuses/generic/13","value":"Quer tentar coisas novas"},{"op":"replace","path":"/statuses/generic/14","value":"Tem a sensação de que sua vida é uma mentira"},{"op":"replace","path":"/statuses/generic/15","value":"Não acredita que isso está acontecendo"},{"op":"replace","path":"/statuses/generic/16","value":"Recusando-se a desistir"},{"op":"replace","path":"/statuses/generic/17","value":"Contemplando a vastidão do universo"},{"op":"replace","path":"/statuses/generic/18","value":"Fora de si"},{"op":"replace","path":"/statuses/generic/19","value":"Quer saber o que tem para o almoço"},{"op":"replace","path":"/statuses/generic/20","value":"Quer escrever uma música"},{"op":"replace","path":"/statuses/generic/21","value":"Deseja que tivesse super poderes"},{"op":"replace","path":"/statuses/generic/22","value":"Sentindo saudades"},{"op":"replace","path":"/statuses/generic/23","value":"Não quer fazer parte do sistema"},{"op":"replace","path":"/statuses/generic/24","value":"Quer se libertar"},{"op":"replace","path":"/statuses/generic/25","value":"Secretamente sabe que deve se exercitar mais"},{"op":"replace","path":"/statuses/generic/26","value":"Desejando uma comida picante"},{"op":"replace","path":"/statuses/generic/27","value":"Olhando para o abismo"},{"op":"replace","path":"/statuses/generic/28","value":"Considerando viver no subsolo"},{"op":"replace","path":"/statuses/generic/29","value":"Não tem idéia do que esta fazendo e espera que ninguém perceba"},{"op":"replace","path":"/statuses/generic/30","value":"Tem uma coceira no dedo do pé"},{"op":"replace","path":"/statuses/generic/31","value":"Deseja que tivesse superpoderes"},{"op":"replace","path":"/statuses/generic/32","value":"Imaginando como iria lidar com um apocalipse zumbi"},{"op":"replace","path":"/statuses/generic/33","value":"Deseja que tivesse um livro de colorir"},{"op":"replace","path":"/statuses/generic/34","value":"Não pode ver a floresta através das árvores"},{"op":"replace","path":"/statuses/generic/35","value":"Tem uma grande idéia para um jogo"},{"op":"replace","path":"/statuses/generic/36","value":"Sistematicamente contando cada pixel"},{"op":"replace","path":"/statuses/generic/37","value":"Se pergunta se alguém está secretamente controlando sua vida"},{"op":"replace","path":"/statuses/generic/38","value":"Se sentindo sofisticado"},{"op":"replace","path":"/statuses/generic/39","value":"Pensando em se tornar vegetariano"},{"op":"replace","path":"/statuses/generic/40","value":"Se sentindo extravagante"},{"op":"replace","path":"/statuses/generic/41","value":"Considerando fazer uma viagem de caça"},{"op":"replace","path":"/statuses/generic/42","value":"Atento"},{"op":"replace","path":"/statuses/generic/43","value":"Tentando não vomitar"},{"op":"replace","path":"/statuses/generic/44","value":"Esta com calor e incomodado"},{"op":"replace","path":"/statuses/generic/45","value":"Querendo saber o que caracóis estão tentando fazer"},{"op":"replace","path":"/statuses/generic/46","value":"Querendo saber se escovar seus dentes está limpando seu esqueleto"},{"op":"replace","path":"/statuses/generic/47","value":"Pensando sobre seu animal de estimação perdido"},{"op":"replace","path":"/statuses/generic/48","value":"Encontrando inspiração para o seu blog"},{"op":"replace","path":"/statuses/generic/49","value":"Apostando num cavalo morto"},{"op":"replace","path":"/statuses/generic/50","value":"Se sente como um novo garoto no quarteirão"},{"op":"replace","path":"/statuses/generic/51","value":"Com dor"},{"op":"replace","path":"/statuses/generic/52","value":"Morto por dentro"},{"op":"replace","path":"/statuses/generic/53","value":"Se sentindo profundamente perturbado"},{"op":"replace","path":"/statuses/generic/54","value":"Reagindo mal"},{"op":"replace","path":"/statuses/generic/55","value":"Se sentindo confiante"},{"op":"replace","path":"/statuses/generic/56","value":"Querendo saber se insetos se importam de ser pegos"},{"op":"replace","path":"/statuses/generic/57","value":"Se sente como dançar pela noite a fora"},{"op":"replace","path":"/statuses/generic/58","value":"Não consegue parar de piscar"},{"op":"replace","path":"/statuses/generic/59","value":"Se sentindo bem"},{"op":"replace","path":"/statuses/generic/60","value":"Tem grandes expectativas"},{"op":"replace","path":"/statuses/generic/61","value":"Guardando rancor"},{"op":"replace","path":"/statuses/generic/62","value":"Se sentindo satisfeito"},{"op":"replace","path":"/statuses/generic/63","value":"Se sentindo bem"},{"op":"replace","path":"/statuses/generic/64","value":"Tomando seu tempo"},{"op":"replace","path":"/statuses/generic/65","value":"Balançando o barco"},{"op":"replace","path":"/statuses/generic/66","value":"Tentando sua sorte"},{"op":"replace","path":"/statuses/generic/67","value":"Aproveitando o momento"},{"op":"replace","path":"/statuses/generic/68","value":"Encontrando respostas"},{"op":"replace","path":"/statuses/generic/69","value":"Buscando distração"},{"op":"replace","path":"/statuses/cheerful/0","value":"Não poderia estar mais feliz"},{"op":"replace","path":"/statuses/cheerful/1","value":"Pensando que é um bom dia"},{"op":"replace","path":"/statuses/cheerful/2","value":"Não gostaria de estar em qualquer outro lugar"},{"op":"replace","path":"/statuses/cheerful/3","value":"As bochechas doem de sorrir"},{"op":"replace","path":"/statuses/cheerful/4","value":"Lembrando-se de não pular em público"},{"op":"replace","path":"/statuses/cheerful/5","value":"Apreciando a vida selvagem local"},{"op":"replace","path":"/statuses/cheerful/6","value":"Imune à solidão paralisante"},{"op":"replace","path":"/statuses/cheerful/7","value":"Fingindo que tudo está bem"},{"op":"replace","path":"/statuses/cheerful/8","value":"Tem fé"},{"op":"replace","path":"/statuses/cheerful/9","value":"Acredita que tudo está bem"},{"op":"replace","path":"/statuses/cheerful/10","value":"Aproveitando a vida simples"},{"op":"replace","path":"/statuses/cheerful/11","value":"Se sentindo motivado"},{"op":"replace","path":"/statuses/cheerful/12","value":"Se pergunta por que ele não pode parar de sorrir"},{"op":"replace","path":"/statuses/cheerful/13","value":"Apreciando a sensação de precisar fazer xixi"},{"op":"replace","path":"/statuses/cheerful/14","value":"Procurando alguém para fazer cócegas"},{"op":"replace","path":"/statuses/cheerful/15","value":"Pode sentir o cheiro de algo bom"},{"op":"replace","path":"/statuses/cheerful/16","value":"Calmo e alegre"},{"op":"replace","path":"/statuses/cheerful/17","value":"Lidando bem com a futilidade de sua existência"},{"op":"replace","path":"/statuses/cheerful/18","value":"Se sentindo em casa"},{"op":"replace","path":"/statuses/cheerful/19","value":"Em harmonia com o universo"},{"op":"replace","path":"/statuses/cheerful/20","value":"Não consigue parar de pensar em animais fofos"},{"op":"replace","path":"/statuses/cheerful/21","value":"Finalmente tem um lugar para chamar de lar"},{"op":"replace","path":"/statuses/cheerful/22","value":"Pensando que você é uma pessoa adorável"},{"op":"replace","path":"/statuses/cheerful/23","value":"Feliz apesar de tudo"},{"op":"replace","path":"/statuses/cheerful/24","value":"Gostaria de fazer uma boa ação"},{"op":"replace","path":"/statuses/cheerful/25","value":"Feliz com sua aparência"},{"op":"replace","path":"/statuses/cheerful/26","value":"Seguindo seus sonhos"},{"op":"replace","path":"/statuses/cheerful/27","value":"Tem um saboroso saco de doces"},{"op":"replace","path":"/statuses/cheerful/28","value":"Se sentindo positivo"},{"op":"replace","path":"/statuses/cheerful/29","value":"Feliz por estar vivo"},{"op":"replace","path":"/statuses/cheerful/30","value":"Poderia morrer feliz"},{"op":"replace","path":"/statuses/jerk/0","value":"Procurando alguém para irritar"},{"op":"replace","path":"/statuses/jerk/1","value":"Não para de fazer barulhos altos"},{"op":"replace","path":"/statuses/jerk/2","value":"Saiu do assento do vaso sanitário"},{"op":"replace","path":"/statuses/jerk/3","value":"Fingindo ter cleptomania"},{"op":"replace","path":"/statuses/jerk/4","value":"Chutou uma pequena criatura alienígena mais cedo"},{"op":"replace","path":"/statuses/jerk/5","value":"Procurando alguém para azucrinar"},{"op":"replace","path":"/statuses/jerk/6","value":"Falando inteiramente em trocadilhos"},{"op":"replace","path":"/statuses/jerk/7","value":"Jogando advogado do diabo"},{"op":"replace","path":"/statuses/jerk/8","value":"Não será persuadido"},{"op":"replace","path":"/statuses/jerk/9","value":"Ausência de alternativas de estilo de vida"},{"op":"replace","path":"/statuses/jerk/10","value":"Acha que todo mundo deve ouvi-lo"},{"op":"replace","path":"/statuses/jerk/11","value":"Deseja que ele estivesse no comando"},{"op":"replace","path":"/statuses/jerk/12","value":"Procurando por uma briga"},{"op":"replace","path":"/statuses/jerk/13","value":"Repetindo a mesma piada repetidamente"},{"op":"replace","path":"/statuses/jerk/14","value":"Abertamente discutindo spoilers hoje"},{"op":"replace","path":"/statuses/jerk/15","value":"Se sentindo desagradável"},{"op":"replace","path":"/statuses/jerk/16","value":"Se sentindo implacável"},{"op":"replace","path":"/statuses/jerk/17","value":"Quer espalhar rumores"},{"op":"replace","path":"/statuses/jerk/18","value":"Considerando destruir sua casa pelo seguro"},{"op":"replace","path":"/statuses/jerk/19","value":"Não consigue acreditar que ainda esta aqui"},{"op":"replace","path":"/statuses/jerk/20","value":"Deve dinheiro para pessoas"},{"op":"replace","path":"/statuses/jerk/21","value":"Contemplando quebrar promessas"},{"op":"replace","path":"/statuses/jerk/22","value":"Lamenta seu comportamento"},{"op":"replace","path":"/statuses/jerk/23","value":"Se sentindo mal-amado"},{"op":"replace","path":"/statuses/jerk/24","value":"Se sentindo excessivamente crítico"},{"op":"replace","path":"/statuses/jerk/25","value":"Se sentindo desprezível"},{"op":"replace","path":"/statuses/jerk/26","value":"Considerando começar um culto"},{"op":"replace","path":"/statuses/jerk/27","value":"Acreditando que eles são superiores"},{"op":"replace","path":"/statuses/jerk/28","value":"Intencionalmente perdendo o ponto"},{"op":"replace","path":"/statuses/jerk/29","value":"Além da crítica"},{"op":"replace","path":"/statuses/jerk/30","value":"Chamando às pessoas pelo seu segundo nome"},{"op":"replace","path":"/statuses/flirty/0","value":"Acha a flora local sedutora"},{"op":"replace","path":"/statuses/flirty/1","value":"Na esperança de encontrar seu par perfeito"},{"op":"replace","path":"/statuses/flirty/2","value":"Se sentindo infeliz"},{"op":"replace","path":"/statuses/flirty/3","value":"Gosta de você nessa roupa"},{"op":"replace","path":"/statuses/flirty/4","value":"Se sentindo hormonal"},{"op":"replace","path":"/statuses/flirty/5","value":"Nunca se sentiu assim antes"},{"op":"replace","path":"/statuses/flirty/6","value":"Nunca se sentiu assim antes"},{"op":"replace","path":"/statuses/flirty/7","value":"Tem lido literatura erótica"},{"op":"replace","path":"/statuses/flirty/8","value":"Envergonhado de seus pensamentos"},{"op":"replace","path":"/statuses/flirty/9","value":"Incapaz de se controlar"},{"op":"replace","path":"/statuses/flirty/10","value":"Saindo com varias pessoas ao mesmo tempo"},{"op":"replace","path":"/statuses/flirty/11","value":"Nervoso sobre um encontro"},{"op":"replace","path":"/statuses/flirty/12","value":"Acha difícil controlar seus desejos"},{"op":"replace","path":"/statuses/flirty/13","value":"Apenas tentando fazer amigos"},{"op":"replace","path":"/statuses/flirty/14","value":"Procurando algo a longo prazo"},{"op":"replace","path":"/statuses/flirty/15","value":"Considerando namorar on-line"},{"op":"replace","path":"/statuses/flirty/16","value":"Insaciável"},{"op":"replace","path":"/statuses/flirty/17","value":"Muito mente aberta"},{"op":"replace","path":"/statuses/flirty/18","value":"Paquerando alguem"},{"op":"replace","path":"/statuses/flirty/19","value":"Quer saber o que é o amor"},{"op":"replace","path":"/statuses/flirty/20","value":"Flertando"},{"op":"replace","path":"/statuses/flirty/21","value":"Desenvolvendo uma paixão"},{"op":"replace","path":"/statuses/flirty/22","value":"Procurando por um romance"},{"op":"replace","path":"/statuses/flirty/23","value":"Romanticamente frustrado"},{"op":"replace","path":"/statuses/flirty/24","value":"Precisa de uma massagem"},{"op":"replace","path":"/statuses/flirty/25","value":"Precisa de um banho frio"},{"op":"replace","path":"/statuses/flirty/26","value":"Tem uma arma no bolso"},{"op":"replace","path":"/statuses/flirty/27","value":"O desejo de flertar eram tão fáceis quanto lutar contra monstros"},{"op":"replace","path":"/statuses/flirty/28","value":"Dizendo a si mesmo que não é um stalker"},{"op":"replace","path":"/statuses/flirty/29","value":"Não consegue decidir se está quente ou não"},{"op":"replace","path":"/statuses/flirty/30","value":"Ama a maneira como você manuseia esse manipulador de matéria"},{"op":"replace","path":"/statuses/anxious/0","value":"Se sentindo inseguro de si mesmo"},{"op":"replace","path":"/statuses/anxious/1","value":"Preocupado"},{"op":"replace","path":"/statuses/anxious/2","value":"Se sente como se as paredes estão se fechando"},{"op":"replace","path":"/statuses/anxious/3","value":"Sente um ataque de pânico vindo"},{"op":"replace","path":"/statuses/anxious/4","value":"Preocupando-se por ter doenças não diagnosticadas"},{"op":"replace","path":"/statuses/anxious/5","value":"Quer evitar interações sociais por um tempo"},{"op":"replace","path":"/statuses/anxious/6","value":"Querendo saber o quão rápido ele podem correr"},{"op":"replace","path":"/statuses/anxious/7","value":"Deseja que fosse invisível"},{"op":"replace","path":"/statuses/anxious/8","value":"Com medo do fim do mundo"},{"op":"replace","path":"/statuses/anxious/9","value":"Nervoso"},{"op":"replace","path":"/statuses/anxious/10","value":"Muito nervoso"},{"op":"replace","path":"/statuses/anxious/11","value":"Segundo adivinhando seu gosto musical"},{"op":"replace","path":"/statuses/anxious/12","value":"Tremendo"},{"op":"replace","path":"/statuses/anxious/13","value":"Não se sente que serve para isso"},{"op":"replace","path":"/statuses/anxious/14","value":"Não confiante"},{"op":"replace","path":"/statuses/anxious/15","value":"Não tem certeza se essas roupas são legais depois de tudo"},{"op":"replace","path":"/statuses/anxious/16","value":"Se sentindo mais confortável na frente de um computador"},{"op":"replace","path":"/statuses/anxious/17","value":"Se sentindo socialmente desajeitado"},{"op":"replace","path":"/statuses/anxious/18","value":"Se sentindo pouco atraente"},{"op":"replace","path":"/statuses/anxious/19","value":"Criando silêncios constrangedores"},{"op":"replace","path":"/statuses/anxious/20","value":"Suando incontrolavelmente"},{"op":"replace","path":"/statuses/anxious/21","value":"Falando antes de pensar"},{"op":"replace","path":"/statuses/anxious/22","value":"Achando conversação difícil"},{"op":"replace","path":"/statuses/anxious/23","value":"Soluçando em momentos inapropriados"},{"op":"replace","path":"/statuses/anxious/24","value":"Sentindo uma intensa sensação de pressão"},{"op":"replace","path":"/statuses/anxious/25","value":"Sentindo medo"},{"op":"replace","path":"/statuses/anxious/26","value":"Compulsivamente roendo as unhas"},{"op":"replace","path":"/statuses/anxious/27","value":"Rindo nervosamente"},{"op":"replace","path":"/statuses/anxious/28","value":"Apenas quer estar em casa"},{"op":"replace","path":"/statuses/anxious/29","value":"Considerando terapia"},{"op":"replace","path":"/statuses/anxious/30","value":"Continua bufando"},{"op":"replace","path":"/statuses/easilyspooked/0","value":"Tem um mau pressentimento sobre isso..."},{"op":"replace","path":"/statuses/easilyspooked/1","value":"Imaginando esqueletos assustadores"},{"op":"replace","path":"/statuses/easilyspooked/2","value":"Se sentindo observado"},{"op":"replace","path":"/statuses/easilyspooked/3","value":"Preocupado com o morto que pôde estar se levantando"},{"op":"replace","path":"/statuses/easilyspooked/4","value":"Se sentindo no limite"},{"op":"replace","path":"/statuses/easilyspooked/5","value":"Se sentindo agudamente consciente de ruídos estranhos"},{"op":"replace","path":"/statuses/easilyspooked/6","value":"Se sentindo assustado"},{"op":"replace","path":"/statuses/easilyspooked/7","value":"Acabou de ouvir algo... Provavelmente"},{"op":"replace","path":"/statuses/easilyspooked/8","value":"Apenas se molhou um pouco"},{"op":"replace","path":"/statuses/easilyspooked/9","value":"Contando suas fobias"},{"op":"replace","path":"/statuses/easilyspooked/10","value":"Convencido de que algo está o caçando"},{"op":"replace","path":"/statuses/easilyspooked/11","value":"Se sentindo em pânico"},{"op":"replace","path":"/statuses/easilyspooked/12","value":"Considerando aprender uma arte marcial"},{"op":"replace","path":"/statuses/easilyspooked/13","value":"Se assustando com a propia sombra"},{"op":"replace","path":"/statuses/easilyspooked/14","value":"Lutando com a ansiedade"},{"op":"replace","path":"/statuses/easilyspooked/15","value":"Se sentindo com medo"},{"op":"replace","path":"/statuses/easilyspooked/16","value":"Se sentindo aterrorizado"},{"op":"replace","path":"/statuses/easilyspooked/17","value":"Sentindo medo de monstros"},{"op":"replace","path":"/statuses/easilyspooked/18","value":"Orando por proteção"},{"op":"replace","path":"/statuses/easilyspooked/19","value":"Se sentindo desamparado"},{"op":"replace","path":"/statuses/easilyspooked/20","value":"Tentando manter suas fobias sob controle"},{"op":"replace","path":"/statuses/easilyspooked/21","value":"De olhos arregalados"},{"op":"replace","path":"/statuses/easilyspooked/22","value":"Se sentindo tenso"},{"op":"replace","path":"/statuses/easilyspooked/23","value":"Se sentindo nervoso"},{"op":"replace","path":"/statuses/easilyspooked/24","value":"Acha que algo ruim está prestes a acontecer"},{"op":"replace","path":"/statuses/easilyspooked/25","value":"Preocupado com a pressão arterial"},{"op":"replace","path":"/statuses/easilyspooked/26","value":"Verificando para garantir que ele esta armado"},{"op":"replace","path":"/statuses/easilyspooked/27","value":"Não quer ficar sozinho"},{"op":"replace","path":"/statuses/easilyspooked/28","value":"Temendo por sua segurança"},{"op":"replace","path":"/statuses/easilyspooked/29","value":"Perdendo a cabeça"},{"op":"replace","path":"/statuses/easilyspooked/30","value":"Se perguntando o que está lá fora"},{"op":"replace","path":"/statuses/easilyspooked/31","value":"Pronto para atacar"},{"op":"replace","path":"/statuses/clumsy/0","value":"Desejando que alguém pudesse ajudar a abrir um jarro"},{"op":"replace","path":"/statuses/clumsy/1","value":"Quebrando tudo o que toca"},{"op":"replace","path":"/statuses/clumsy/2","value":"Continua tropeçando"},{"op":"replace","path":"/statuses/clumsy/3","value":"Continua insultando pessoas por engano"},{"op":"replace","path":"/statuses/clumsy/4","value":"Repetidamente derrubando bens caros"},{"op":"replace","path":"/statuses/clumsy/5","value":"Considerando aprender malabarismo"},{"op":"replace","path":"/statuses/clumsy/6","value":"Se sentindo propenso a erros"},{"op":"replace","path":"/statuses/clumsy/7","value":"Se sentindo desajeitado"},{"op":"replace","path":"/statuses/clumsy/8","value":"Se sentindo desajeitado"},{"op":"replace","path":"/statuses/clumsy/9","value":"Com medo de quebrar alguma coisa"},{"op":"replace","path":"/statuses/clumsy/10","value":"Perguntando-se se poderia operar uma nave espacial"},{"op":"replace","path":"/statuses/clumsy/11","value":"Amaldiçoando sua sorte"},{"op":"replace","path":"/statuses/clumsy/12","value":"Amaldiçoando sua destreza"},{"op":"replace","path":"/statuses/clumsy/13","value":"Considerando a compra de um seguro"},{"op":"replace","path":"/statuses/clumsy/14","value":"Jura que ele não fez isso"},{"op":"replace","path":"/statuses/clumsy/15","value":"Pensando que ele deixou algo para trás"},{"op":"replace","path":"/statuses/clumsy/16","value":"Se sentindo como ele perdeu alguma coisa"},{"op":"replace","path":"/statuses/clumsy/17","value":"Se sentindo perigoso"},{"op":"replace","path":"/statuses/clumsy/18","value":"Compulsivamente tremendo"},{"op":"replace","path":"/statuses/clumsy/19","value":"Sistematicamente arruinando tudo"},{"op":"replace","path":"/statuses/clumsy/20","value":"Infeliz com a física"},{"op":"replace","path":"/statuses/clumsy/21","value":"Com medo de cair"},{"op":"replace","path":"/statuses/clumsy/22","value":"As mãos são escorregadias"},{"op":"replace","path":"/statuses/clumsy/23","value":"Os dedos são amanteigados"},{"op":"replace","path":"/statuses/clumsy/24","value":"Balançando como geléia"},{"op":"replace","path":"/statuses/clumsy/25","value":"Se sentindo como não pode ser confiável"},{"op":"replace","path":"/statuses/clumsy/26","value":"Cometeu um erro"},{"op":"replace","path":"/statuses/clumsy/27","value":"Na falta de dignidade"},{"op":"replace","path":"/statuses/clumsy/28","value":"Esmagou seu dedo do pé"},{"op":"replace","path":"/statuses/clumsy/29","value":"Desengonçado"},{"op":"replace","path":"/statuses/clumsy/30","value":"Se sentindo desajeitado"},{"op":"replace","path":"/statuses/excited/0","value":"Sabe que vai ser ótimo"},{"op":"replace","path":"/statuses/excited/1","value":"Mal pode esperar"},{"op":"replace","path":"/statuses/excited/2","value":"Se sentindo animado"},{"op":"replace","path":"/statuses/excited/3","value":"Não consigue se acalmar"},{"op":"replace","path":"/statuses/excited/4","value":"Se sentindo hiperativo"},{"op":"replace","path":"/statuses/excited/5","value":"Não consigue acreditar"},{"op":"replace","path":"/statuses/excited/6","value":"Tremendo de emoção"},{"op":"replace","path":"/statuses/excited/7","value":"Se sentindo muito animado"},{"op":"replace","path":"/statuses/excited/8","value":"Tem vontade de dançar"},{"op":"replace","path":"/statuses/excited/9","value":"Não consegue ficar quieto"},{"op":"replace","path":"/statuses/excited/10","value":"Se sentindo impulsivo"},{"op":"replace","path":"/statuses/excited/11","value":"Agitado"},{"op":"replace","path":"/statuses/excited/12","value":"Respirando profundamente"},{"op":"replace","path":"/statuses/excited/13","value":"Agitado"},{"op":"replace","path":"/statuses/excited/14","value":"Não consigue parar de rir"},{"op":"replace","path":"/statuses/excited/15","value":"Cheio de energia"},{"op":"replace","path":"/statuses/excited/16","value":"Se sentindo espirituoso"},{"op":"replace","path":"/statuses/excited/17","value":"Questionando seus níveis de açúcar"},{"op":"replace","path":"/statuses/excited/18","value":"Esperando"},{"op":"replace","path":"/statuses/excited/19","value":"Incapaz de acalmar-se"},{"op":"replace","path":"/statuses/excited/20","value":"Jogando o jogo"},{"op":"replace","path":"/statuses/excited/21","value":"Aproveitando o momento"},{"op":"replace","path":"/statuses/excited/22","value":"Se sentindo agressivo"},{"op":"replace","path":"/statuses/excited/23","value":"Se sentindo influenciado"},{"op":"replace","path":"/statuses/excited/24","value":"Arriscando tudo"},{"op":"replace","path":"/statuses/excited/25","value":"Sentindo raiva"},{"op":"replace","path":"/statuses/excited/26","value":"Se sentindo furioso"},{"op":"replace","path":"/statuses/excited/27","value":"Incapaz de conter-se"},{"op":"replace","path":"/statuses/excited/28","value":"Fluindo"},{"op":"replace","path":"/statuses/excited/29","value":"Se sentindo energético"},{"op":"replace","path":"/statuses/excited/30","value":"Se sentindo energético"},{"op":"replace","path":"/statuses/intrusive/0","value":"Tem vontade de dar um abraço em alguém"},{"op":"replace","path":"/statuses/intrusive/1","value":"Quer saber como seu rosto se parece"},{"op":"replace","path":"/statuses/intrusive/2","value":"Está contemplando o conceito de espaço pessoal"},{"op":"replace","path":"/statuses/intrusive/3","value":"Apreciando o som que as pessoas fazem quando são cutucadas"},{"op":"replace","path":"/statuses/intrusive/4","value":"Querendo ouvir segredos"},{"op":"replace","path":"/statuses/intrusive/5","value":"Querendo cheirar as pessoas"},{"op":"replace","path":"/statuses/intrusive/6","value":"Querendo ser melhores amigos"},{"op":"replace","path":"/statuses/intrusive/7","value":"Pensando em letras para uma música sobre você"},{"op":"replace","path":"/statuses/intrusive/8","value":"Pensando em como todo mundo é ótimo"},{"op":"replace","path":"/statuses/intrusive/9","value":"Quebrando fronteiras sociais"},{"op":"replace","path":"/statuses/intrusive/10","value":"Rastejando"},{"op":"replace","path":"/statuses/intrusive/11","value":"Sentindo falta de pistas sociais"},{"op":"replace","path":"/statuses/intrusive/12","value":"Apenas querendo ser amado"},{"op":"replace","path":"/statuses/intrusive/13","value":"Pensando em letras para uma música sobre você"},{"op":"replace","path":"/statuses/intrusive/14","value":"Passando da linha"},{"op":"replace","path":"/statuses/intrusive/15","value":"Encarando"},{"op":"replace","path":"/statuses/intrusive/16","value":"Compulsivamente lambendo os lábios"},{"op":"replace","path":"/statuses/intrusive/17","value":"Se sentindo socialmente inaceitável"},{"op":"replace","path":"/statuses/intrusive/18","value":"Vestindo-se de forma inadequada"},{"op":"replace","path":"/statuses/intrusive/19","value":"Fazendo sons estranhos"},{"op":"replace","path":"/statuses/intrusive/20","value":"Cutucando seu nariz"},{"op":"replace","path":"/statuses/intrusive/21","value":"Fazendo suposições"},{"op":"replace","path":"/statuses/intrusive/22","value":"Fazendo inimigos"},{"op":"replace","path":"/statuses/intrusive/23","value":"Destruindo amizades"},{"op":"replace","path":"/statuses/intrusive/24","value":"Alienando"},{"op":"replace","path":"/statuses/intrusive/25","value":"Se sentindo alienado"},{"op":"replace","path":"/statuses/intrusive/26","value":"Sendo irritante"},{"op":"replace","path":"/statuses/intrusive/27","value":"Desrespeitando a propriedade pessoal"},{"op":"replace","path":"/statuses/intrusive/28","value":"Desrespeitando o espaço pessoal"},{"op":"replace","path":"/statuses/intrusive/29","value":"Se sentindo intrusivo"},{"op":"replace","path":"/statuses/intrusive/30","value":"Acariciando suas coxas"},{"op":"replace","path":"/statuses/dumb/2","value":"Não consigue lembrar o que estava fazendo"},{"op":"replace","path":"/statuses/dumb/3","value":"Não esta sentindo nada"},{"op":"replace","path":"/statuses/dumb/4","value":"Tentando descobrir coisas"},{"op":"replace","path":"/statuses/dumb/5","value":"Se sentindo inseguro"},{"op":"replace","path":"/statuses/dumb/6","value":"Se sentindo burro"},{"op":"replace","path":"/statuses/dumb/7","value":"Se sentindo estúpido"},{"op":"replace","path":"/statuses/dumb/8","value":"Quer aprender algo novo"},{"op":"replace","path":"/statuses/dumb/9","value":"Se sentindo confuso"},{"op":"replace","path":"/statuses/dumb/10","value":"Não tem certeza do que está acontecendo"},{"op":"replace","path":"/statuses/dumb/11","value":"Desejando que ele fosse mais esperto"},{"op":"replace","path":"/statuses/dumb/12","value":"Se sentindo incapaz de se expressar"},{"op":"replace","path":"/statuses/dumb/13","value":"Se sentindo cansado de pensar"},{"op":"replace","path":"/statuses/dumb/14","value":"Se sentindo mentalmente tributado"},{"op":"replace","path":"/statuses/dumb/15","value":"Operando mal"},{"op":"replace","path":"/statuses/dumb/16","value":"Confundindo-se"},{"op":"replace","path":"/statuses/dumb/17","value":"Calculando pi com 2 casas decimais"},{"op":"replace","path":"/statuses/dumb/18","value":"Se sentindo mentalmente sobrecarregado"},{"op":"replace","path":"/statuses/dumb/19","value":"Felizmente inconsciente"},{"op":"replace","path":"/statuses/dumb/20","value":"Se sentindo ignorante"},{"op":"replace","path":"/statuses/dumb/21","value":"Sem palavras"},{"op":"replace","path":"/statuses/dumb/22","value":"Cometendo erros"},{"op":"replace","path":"/statuses/dumb/23","value":"Esquecendo coisas"},{"op":"replace","path":"/statuses/dumb/24","value":"Mal entendido"},{"op":"replace","path":"/statuses/dumb/25","value":"Pensando muito"},{"op":"replace","path":"/statuses/dumb/26","value":"Desajeitado"},{"op":"replace","path":"/statuses/dumb/27","value":"Se sentindo incapaz"},{"op":"replace","path":"/statuses/dumb/28","value":"Desejando que ele fosse mais esperto"},{"op":"replace","path":"/statuses/dumb/29","value":"Envergonhado"},{"op":"replace","path":"/statuses/dumb/30","value":"Incontrolavelmente envergonhado"},{"op":"replace","path":"/statuses/dumb/31","value":"Se sentindo iludido"},{"op":"replace","path":"/statuses/emo/0","value":"Está cheio de arrependimento"},{"op":"replace","path":"/statuses/emo/1","value":"Derramando uma única lágrima"},{"op":"replace","path":"/statuses/emo/2","value":"Parece que ninguém o entende"},{"op":"replace","path":"/statuses/emo/3","value":"Se sentindo muito emocional"},{"op":"replace","path":"/statuses/emo/4","value":"Apenas quer ficar no escuro para sempre"},{"op":"replace","path":"/statuses/emo/5","value":"Tem muita tristeza em seu coração"},{"op":"replace","path":"/statuses/emo/6","value":"Se sentindo perdido"},{"op":"replace","path":"/statuses/emo/7","value":"Se sentindo sozinho"},{"op":"replace","path":"/statuses/emo/8","value":"Se sentindo para baixo"},{"op":"replace","path":"/statuses/emo/9","value":"Se sentindo incompreendido"},{"op":"replace","path":"/statuses/emo/10","value":"Considerando uma franja"},{"op":"replace","path":"/statuses/emo/11","value":"Se sentindo irritado com o mundo"},{"op":"replace","path":"/statuses/emo/12","value":"Se sentindo infeliz"},{"op":"replace","path":"/statuses/emo/13","value":"Se sentindo como um fracasso"},{"op":"replace","path":"/statuses/emo/14","value":"Sentindo sentimentos"},{"op":"replace","path":"/statuses/emo/15","value":"Se sentindo triste"},{"op":"replace","path":"/statuses/emo/16","value":"Se sentindo emocional"},{"op":"replace","path":"/statuses/emo/17","value":"Inventando um novo tipo de tristeza"},{"op":"replace","path":"/statuses/emo/18","value":"Tendo uma crise existencial"},{"op":"replace","path":"/statuses/emo/19","value":"Se sentindo excluído"},{"op":"replace","path":"/statuses/emo/20","value":"Questionando o ponto"},{"op":"replace","path":"/statuses/emo/21","value":"Tem vontade de soluçar"},{"op":"replace","path":"/statuses/emo/22","value":"Se sentindo deprimido"},{"op":"replace","path":"/statuses/emo/23","value":"Se sentindo introvertido"},{"op":"replace","path":"/statuses/emo/24","value":"Desistindo"},{"op":"replace","path":"/statuses/emo/25","value":"Cedendo"},{"op":"replace","path":"/statuses/emo/26","value":"Se sentindo excluído"},{"op":"replace","path":"/statuses/emo/27","value":"Tem vontade de soluçar"},{"op":"replace","path":"/statuses/emo/28","value":"Tentando reparar sua auto-estima"},{"op":"replace","path":"/statuses/emo/29","value":"Contemplando um piercing"},{"op":"replace","path":"/statuses/fast/0","value":"Sente que é importante ir rapidamente"},{"op":"replace","path":"/statuses/fast/1","value":"Sente o mundo se mover muito lentamente"},{"op":"replace","path":"/statuses/fast/2","value":"Com pressa"},{"op":"replace","path":"/statuses/fast/3","value":"Fazendo as coisas rapidamente"},{"op":"replace","path":"/statuses/fast/4","value":"Se esforçando para ir mais devagar"},{"op":"replace","path":"/statuses/fast/5","value":"Fazendo seu próprio ritmo"},{"op":"replace","path":"/statuses/fast/6","value":"Acelerando as coisas"},{"op":"replace","path":"/statuses/fast/7","value":"Sua mente está acelerada"},{"op":"replace","path":"/statuses/fast/8","value":"Pensando rápido"},{"op":"replace","path":"/statuses/fast/9","value":"Pensando rápido"},{"op":"replace","path":"/statuses/fast/10","value":"Envergonhado com a sua velocidade"},{"op":"replace","path":"/statuses/fast/11","value":"Desejando que ele podesse correr mais rápido"},{"op":"replace","path":"/statuses/fast/12","value":"Se sentindo entediado"},{"op":"replace","path":"/statuses/fast/13","value":"Se apressando"},{"op":"replace","path":"/statuses/fast/14","value":"Correndo"},{"op":"replace","path":"/statuses/fast/15","value":"Recusando-se a ir mais devagar"},{"op":"replace","path":"/statuses/fast/16","value":"Se esforçando para ir mais devagar"},{"op":"replace","path":"/statuses/fast/17","value":"Colocando a carroça na frente dos bois"},{"op":"replace","path":"/statuses/fast/18","value":"Trabalhando com força total"},{"op":"replace","path":"/statuses/fast/19","value":"Aumentando a produtividade"},{"op":"replace","path":"/statuses/fast/20","value":"Se sentimento eficiente"},{"op":"replace","path":"/statuses/fast/21","value":"Limpando os obstáculos"},{"op":"replace","path":"/statuses/fast/22","value":"Se sentindo no caminho certo"},{"op":"replace","path":"/statuses/fast/23","value":"Se sentimento eficiente"},{"op":"replace","path":"/statuses/fast/24","value":"Trabalhando com força total"},{"op":"replace","path":"/statuses/fast/25","value":"Colocando a carroça na frente dos bois"},{"op":"replace","path":"/statuses/fast/26","value":"Se Sentindo pontual"},{"op":"replace","path":"/statuses/fast/27","value":"Se Sentindo ocupado"},{"op":"replace","path":"/statuses/fast/28","value":"Procurando por algo"},{"op":"replace","path":"/statuses/fast/29","value":"Aumentando a resistencia"},{"op":"replace","path":"/statuses/fast/30","value":"Mantendo a forma"},{"op":"replace","path":"/statuses/nocturnal/0","value":"Se sentindo inquieto"},{"op":"replace","path":"/statuses/nocturnal/1","value":"Incapaz de dormir"},{"op":"replace","path":"/statuses/nocturnal/2","value":"Se sentindo cansado"},{"op":"replace","path":"/statuses/nocturnal/3","value":"Se sentindo esgotado"},{"op":"replace","path":"/statuses/nocturnal/4","value":"Deslizando na insanidade"},{"op":"replace","path":"/statuses/nocturnal/5","value":"Se sentindo acordado"},{"op":"replace","path":"/statuses/nocturnal/6","value":"Se sentindo sorrateiro"},{"op":"replace","path":"/statuses/nocturnal/7","value":"Esperando o momento certo"},{"op":"replace","path":"/statuses/nocturnal/8","value":"Se sentindo fora de sincronia"},{"op":"replace","path":"/statuses/nocturnal/9","value":"Lidando com a insônia"},{"op":"replace","path":"/statuses/nocturnal/10","value":"Sentindo como se ele têm uma deficiência de vitamina C"},{"op":"replace","path":"/statuses/nocturnal/11","value":"Sentindo que ele esta fora do sistema"},{"op":"replace","path":"/statuses/nocturnal/12","value":"Quer golpear o medo nos corações de seus inimigos"},{"op":"replace","path":"/statuses/nocturnal/13","value":"Precisa de um horário de sono melhor"},{"op":"replace","path":"/statuses/nocturnal/14","value":"Tem olhos vermelhos"},{"op":"replace","path":"/statuses/nocturnal/15","value":"Tentando acordar os mortos"},{"op":"replace","path":"/statuses/nocturnal/16","value":"Se sentindo insociável"},{"op":"replace","path":"/statuses/nocturnal/17","value":"Viciado em imagens de gato"},{"op":"replace","path":"/statuses/nocturnal/18","value":"Sentindo-se confuso"},{"op":"replace","path":"/statuses/nocturnal/19","value":"Sentindo-se meio adormecido"},{"op":"replace","path":"/statuses/nocturnal/20","value":"Lidando com a insônia"},{"op":"replace","path":"/statuses/nocturnal/21","value":"Lutando contra o sono"},{"op":"replace","path":"/statuses/nocturnal/22","value":"Desesperado por café"},{"op":"replace","path":"/statuses/nocturnal/23","value":"Em perigo de colapso"},{"op":"replace","path":"/statuses/nocturnal/24","value":"Arriscando insanidade"},{"op":"replace","path":"/statuses/nocturnal/25","value":"Desesperado por café"},{"op":"replace","path":"/statuses/nocturnal/26","value":"Se sentindo mal"},{"op":"replace","path":"/statuses/nocturnal/27","value":"Cantarolando uma canção de ninar"},{"op":"replace","path":"/statuses/nocturnal/28","value":"Sonambulando"},{"op":"replace","path":"/statuses/nocturnal/29","value":"Sonhando acordado"},{"op":"replace","path":"/statuses/nocturnal/30","value":"Com medo de se tornar um vampiro"},{"op":"replace","path":"/statuses/nocturnal/31","value":"Desconsiderando dormir"},{"op":"replace","path":"/statuses/socialite/0","value":"Precisando falar com todos hoje"},{"op":"replace","path":"/statuses/socialite/1","value":"Se sentindo tagarela"},{"op":"replace","path":"/statuses/socialite/2","value":"Precisando de companhia"},{"op":"replace","path":"/statuses/socialite/3","value":"Tem uma grande história para contar"},{"op":"replace","path":"/statuses/socialite/4","value":"Tem uma grande piada para contar"},{"op":"replace","path":"/statuses/socialite/5","value":"Tem uma grande anedota para compartilhar"},{"op":"replace","path":"/statuses/socialite/6","value":"Quer fazer uma festa"},{"op":"replace","path":"/statuses/socialite/7","value":"Querendo saber se ele têm amigos de verdade"},{"op":"replace","path":"/statuses/socialite/8","value":"Sentindo-se popular"},{"op":"replace","path":"/statuses/socialite/9","value":"Planejando uma festa"},{"op":"replace","path":"/statuses/socialite/10","value":"Querer formar uma banda"},{"op":"replace","path":"/statuses/socialite/11","value":"Reconsiderando seus membros do grupo"},{"op":"replace","path":"/statuses/socialite/12","value":"Se sentindo bem gostado"},{"op":"replace","path":"/statuses/socialite/13","value":"Se sentindo o centro das atenções"},{"op":"replace","path":"/statuses/socialite/14","value":"Buscando mais atenção"},{"op":"replace","path":"/statuses/socialite/15","value":"Fazer um falso embaraço"},{"op":"replace","path":"/statuses/socialite/16","value":"Despenteando penas"},{"op":"replace","path":"/statuses/socialite/17","value":"Se sentindo social"},{"op":"replace","path":"/statuses/socialite/18","value":"Planejando o que vestir"},{"op":"replace","path":"/statuses/socialite/19","value":"Classificando suas amizades"},{"op":"replace","path":"/statuses/socialite/20","value":"Começando um clube"},{"op":"replace","path":"/statuses/socialite/21","value":"Mantendo a paz"},{"op":"replace","path":"/statuses/socialite/22","value":"Fofocando"},{"op":"replace","path":"/statuses/socialite/23","value":"Sente vontade de rir"},{"op":"replace","path":"/statuses/socialite/24","value":"Fazendo a paz"},{"op":"replace","path":"/statuses/socialite/25","value":"Se sentindo atencioso"},{"op":"replace","path":"/statuses/socialite/26","value":"Inspecionando sua posição na sociedade"},{"op":"replace","path":"/statuses/socialite/27","value":"Considerando quem ele realmente confia"},{"op":"replace","path":"/statuses/socialite/28","value":"Se Sentindo aberto de espírito"},{"op":"replace","path":"/statuses/socialite/29","value":"Sentindo necessidade de afeto"},{"op":"replace","path":"/statuses/socialite/30","value":"Sente vontade de rir"},{"op":"replace","path":"/statuses/ambitious/0","value":"Quer governar a galáxia algum dia"},{"op":"replace","path":"/statuses/ambitious/1","value":"Quer se tornar prefeito"},{"op":"replace","path":"/statuses/ambitious/2","value":"Procurando algo para fazer"},{"op":"replace","path":"/statuses/ambitious/3","value":"Se sentindo ambicioso"},{"op":"replace","path":"/statuses/ambitious/4","value":"Se sentindo controlado"},{"op":"replace","path":"/statuses/ambitious/5","value":"Sentindo-se animado com seu futuro"},{"op":"replace","path":"/statuses/ambitious/6","value":"Considerando uma mudança positiva"},{"op":"replace","path":"/statuses/ambitious/7","value":"Querendo possuir sua própria nave"},{"op":"replace","path":"/statuses/ambitious/8","value":"Pensando em suas finanças"},{"op":"replace","path":"/statuses/ambitious/9","value":"Pensando em começar uma colônia própria"},{"op":"replace","path":"/statuses/ambitious/10","value":"Tendo grandes idéias"},{"op":"replace","path":"/statuses/ambitious/11","value":"Sente-se capaz de qualquer coisa"},{"op":"replace","path":"/statuses/ambitious/12","value":"Criando oportunidades"},{"op":"replace","path":"/statuses/ambitious/13","value":"Fazendo movimentos"},{"op":"replace","path":"/statuses/ambitious/14","value":"Sentindo-se capaz"},{"op":"replace","path":"/statuses/ambitious/15","value":"Quebrando recordes"},{"op":"replace","path":"/statuses/ambitious/16","value":"Sentindo-se competitivo"},{"op":"replace","path":"/statuses/ambitious/17","value":"Querendo mais"},{"op":"replace","path":"/statuses/ambitious/18","value":"Disposto a apostar"},{"op":"replace","path":"/statuses/ambitious/19","value":"Pronto para aproveitar o dia"},{"op":"replace","path":"/statuses/ambitious/20","value":"Pronto para aproveitar o dia"},{"op":"replace","path":"/statuses/ambitious/21","value":"Perigosamente motivado"},{"op":"replace","path":"/statuses/ambitious/22","value":"Tentando seu melhor"},{"op":"replace","path":"/statuses/ambitious/23","value":"Alto na vida"},{"op":"replace","path":"/statuses/ambitious/24","value":"Tentando seu melhor"},{"op":"replace","path":"/statuses/ambitious/25","value":"Visando uma promoção"},{"op":"replace","path":"/statuses/ambitious/26","value":"Querendo chegar ao topo"},{"op":"replace","path":"/statuses/ambitious/27","value":"Querendo chegar ao topo"},{"op":"replace","path":"/statuses/ambitious/28","value":"Quer governar a galáxia algum dia"},{"op":"replace","path":"/statuses/ambitious/29","value":"Visando uma promoção"}]
+[
+  {
+    "op": "replace",
+    "value": "Preocupado",
+    "path": "/statuses/anxious/1"
+  },
+  {
+    "op": "replace",
+    "value": "Com medo de se tornar um vampiro",
+    "path": "/statuses/nocturnal/30"
+  },
+  {
+    "op": "replace",
+    "value": "Com medo de quebrar alguma coisa",
+    "path": "/statuses/clumsy/9"
+  },
+  {
+    "op": "replace",
+    "value": "Com medo do fim do mundo",
+    "path": "/statuses/anxious/8"
+  },
+  {
+    "op": "replace",
+    "value": "Visando uma promoção",
+    "path": "/statuses/ambitious/29"
+  },
+  {
+    "op": "replace",
+    "value": "Alienando",
+    "path": "/statuses/intrusive/24"
+  },
+  {
+    "op": "replace",
+    "value": "Esperando",
+    "path": "/statuses/excited/18"
+  },
+  {
+    "op": "replace",
+    "value": "Envergonhado de seus pensamentos",
+    "path": "/statuses/flirty/8"
+  },
+  {
+    "op": "replace",
+    "value": "Tentando reparar sua auto-estima",
+    "path": "/statuses/emo/28"
+  },
+  {
+    "op": "replace",
+    "value": "Lutando contra o sono",
+    "path": "/statuses/nocturnal/21"
+  },
+  {
+    "op": "replace",
+    "value": "Apostando num cavalo morto",
+    "path": "/statuses/generic/49"
+  },
+  {
+    "op": "replace",
+    "value": "Sendo irritante",
+    "path": "/statuses/intrusive/26"
+  },
+  {
+    "op": "replace",
+    "value": "Acredita que tudo está bem",
+    "path": "/statuses/cheerful/9"
+  },
+  {
+    "op": "replace",
+    "value": "Acreditando que eles são superiores",
+    "path": "/statuses/jerk/27"
+  },
+  {
+    "op": "replace",
+    "value": "Visando uma promoção",
+    "path": "/statuses/ambitious/25"
+  },
+  {
+    "op": "replace",
+    "value": "Além da crítica",
+    "path": "/statuses/jerk/29"
+  },
+  {
+    "op": "replace",
+    "value": "Felizmente inconsciente",
+    "path": "/statuses/dumb/19"
+  },
+  {
+    "op": "replace",
+    "value": "Desajeitado",
+    "path": "/statuses/dumb/26"
+  },
+  {
+    "op": "replace",
+    "value": "Incontrolavelmente envergonhado",
+    "path": "/statuses/dumb/30"
+  },
+  {
+    "op": "replace",
+    "value": "Quebrando tudo o que toca",
+    "path": "/statuses/clumsy/1"
+  },
+  {
+    "op": "replace",
+    "value": "Quebrando recordes",
+    "path": "/statuses/ambitious/15"
+  },
+  {
+    "op": "replace",
+    "value": "Quebrando fronteiras sociais",
+    "path": "/statuses/intrusive/9"
+  },
+  {
+    "op": "replace",
+    "value": "Tentando seu melhor",
+    "path": "/statuses/ambitious/22"
+  },
+  {
+    "op": "replace",
+    "value": "Calculando pi com 2 casas decimais",
+    "path": "/statuses/dumb/17"
+  },
+  {
+    "op": "replace",
+    "value": "Calmo e alegre",
+    "path": "/statuses/cheerful/16"
+  },
+  {
+    "op": "replace",
+    "value": "Pode sentir o cheiro de algo bom",
+    "path": "/statuses/cheerful/15"
+  },
+  {
+    "op": "replace",
+    "value": "Não consigue acreditar",
+    "path": "/statuses/excited/5"
+  },
+  {
+    "op": "replace",
+    "value": "Não acredita que é verdade",
+    "path": "/statuses/generic/9"
+  },
+  {
+    "op": "replace",
+    "value": "Não consigue acreditar que ainda esta aqui",
+    "path": "/statuses/jerk/19"
+  },
+  {
+    "op": "replace",
+    "value": "Não acredita que isso está acontecendo",
+    "path": "/statuses/generic/15"
+  },
+  {
+    "op": "replace",
+    "value": "Não consigue se acalmar",
+    "path": "/statuses/excited/3"
+  },
+  {
+    "op": "replace",
+    "value": "Não consegue decidir se está quente ou não",
+    "path": "/statuses/flirty/29"
+  },
+  {
+    "op": "replace",
+    "value": "Não consigue lembrar o que estava fazendo",
+    "path": "/statuses/dumb/2"
+  },
+  {
+    "op": "replace",
+    "value": "Não pode ver a floresta através das árvores",
+    "path": "/statuses/generic/34"
+  },
+  {
+    "op": "replace",
+    "value": "Não consegue ficar quieto",
+    "path": "/statuses/excited/9"
+  },
+  {
+    "op": "replace",
+    "value": "Não consegue parar de piscar",
+    "path": "/statuses/generic/58"
+  },
+  {
+    "op": "replace",
+    "value": "Não consigue parar de rir",
+    "path": "/statuses/excited/14"
+  },
+  {
+    "op": "replace",
+    "value": "Não consigue parar de pensar em animais fofos",
+    "path": "/statuses/cheerful/20"
+  },
+  {
+    "op": "replace",
+    "value": "Desesperado por café",
+    "path": "/statuses/nocturnal/22"
+  },
+  {
+    "op": "replace",
+    "value": "Verificando para garantir que ele esta armado",
+    "path": "/statuses/easilyspooked/26"
+  },
+  {
+    "op": "replace",
+    "value": "As bochechas doem de sorrir",
+    "path": "/statuses/cheerful/3"
+  },
+  {
+    "op": "replace",
+    "value": "Limpando os obstáculos",
+    "path": "/statuses/fast/21"
+  },
+  {
+    "op": "replace",
+    "value": "Compulsivamente lambendo os lábios",
+    "path": "/statuses/intrusive/16"
+  },
+  {
+    "op": "replace",
+    "value": "Compulsivamente roendo as unhas",
+    "path": "/statuses/anxious/26"
+  },
+  {
+    "op": "replace",
+    "value": "Compulsivamente tremendo",
+    "path": "/statuses/clumsy/18"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado com a pressão arterial",
+    "path": "/statuses/easilyspooked/25"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado com o morto que pôde estar se levantando",
+    "path": "/statuses/easilyspooked/3"
+  },
+  {
+    "op": "replace",
+    "value": "Confundindo-se",
+    "path": "/statuses/dumb/16"
+  },
+  {
+    "op": "replace",
+    "value": "Considerando uma franja",
+    "path": "/statuses/emo/10"
+  },
+  {
+    "op": "replace",
+    "value": "Considerando fazer uma viagem de caça",
+    "path": "/statuses/generic/41"
+  },
+  {
+    "op": "replace",
+    "value": "Pensando em se tornar vegetariano",
+    "path": "/statuses/generic/39"
+  },
+  {
+    "op": "replace",
+    "value": "Considerando a compra de um seguro",
+    "path": "/statuses/clumsy/13"
+  },
+  {
+    "op": "replace",
+    "value": "Considerando destruir sua casa pelo seguro",
+    "path": "/statuses/jerk/18"
+  },
+  {
+    "op": "replace",
+    "value": "Considerando aprender uma arte marcial",
+    "path": "/statuses/easilyspooked/12"
+  },
+  {
+    "op": "replace",
+    "value": "Considerando aprender malabarismo",
+    "path": "/statuses/clumsy/5"
+  },
+  {
+    "op": "replace",
+    "value": "Considerando viver no subsolo",
+    "path": "/statuses/generic/28"
+  },
+  {
+    "op": "replace",
+    "value": "Considerando namorar on-line",
+    "path": "/statuses/flirty/15"
+  },
+  {
+    "op": "replace",
+    "value": "Considerando uma mudança positiva",
+    "path": "/statuses/ambitious/6"
+  },
+  {
+    "op": "replace",
+    "value": "Considerando começar um culto",
+    "path": "/statuses/jerk/26"
+  },
+  {
+    "op": "replace",
+    "value": "Considerando ter um novo hobby",
+    "path": "/statuses/generic/4"
+  },
+  {
+    "op": "replace",
+    "value": "Considerando terapia",
+    "path": "/statuses/anxious/29"
+  },
+  {
+    "op": "replace",
+    "value": "Considerando quem ele realmente confia",
+    "path": "/statuses/socialite/27"
+  },
+  {
+    "op": "replace",
+    "value": "Contemplando um piercing",
+    "path": "/statuses/emo/29"
+  },
+  {
+    "op": "replace",
+    "value": "Contemplando quebrar promessas",
+    "path": "/statuses/jerk/21"
+  },
+  {
+    "op": "replace",
+    "value": "Contemplando a vastidão do universo",
+    "path": "/statuses/generic/17"
+  },
+  {
+    "op": "replace",
+    "value": "Convencido de que algo está o caçando",
+    "path": "/statuses/easilyspooked/10"
+  },
+  {
+    "op": "replace",
+    "value": "Lidando com a insônia",
+    "path": "/statuses/nocturnal/9"
+  },
+  {
+    "op": "replace",
+    "value": "Poderia morrer feliz",
+    "path": "/statuses/cheerful/30"
+  },
+  {
+    "op": "replace",
+    "value": "Não poderia estar mais feliz",
+    "path": "/statuses/cheerful/0"
+  },
+  {
+    "op": "replace",
+    "value": "Contando suas fobias",
+    "path": "/statuses/easilyspooked/9"
+  },
+  {
+    "op": "replace",
+    "value": "Desejando uma comida picante",
+    "path": "/statuses/generic/26"
+  },
+  {
+    "op": "replace",
+    "value": "Criando silêncios constrangedores",
+    "path": "/statuses/anxious/19"
+  },
+  {
+    "op": "replace",
+    "value": "Criando oportunidades",
+    "path": "/statuses/ambitious/12"
+  },
+  {
+    "op": "replace",
+    "value": "Rastejando",
+    "path": "/statuses/intrusive/10"
+  },
+  {
+    "op": "replace",
+    "value": "Passando da linha",
+    "path": "/statuses/intrusive/14"
+  },
+  {
+    "op": "replace",
+    "value": "Amaldiçoando sua destreza",
+    "path": "/statuses/clumsy/12"
+  },
+  {
+    "op": "replace",
+    "value": "Amaldiçoando sua sorte",
+    "path": "/statuses/clumsy/11"
+  },
+  {
+    "op": "replace",
+    "value": "Colocando a carroça na frente dos bois",
+    "path": "/statuses/fast/17"
+  },
+  {
+    "op": "replace",
+    "value": "Perigosamente motivado",
+    "path": "/statuses/ambitious/21"
+  },
+  {
+    "op": "replace",
+    "value": "Sonhando acordado",
+    "path": "/statuses/nocturnal/29"
+  },
+  {
+    "op": "replace",
+    "value": "Morto por dentro",
+    "path": "/statuses/generic/52"
+  },
+  {
+    "op": "replace",
+    "value": "Lidando bem com a futilidade de sua existência",
+    "path": "/statuses/cheerful/17"
+  },
+  {
+    "op": "replace",
+    "value": "Desesperado por café",
+    "path": "/statuses/nocturnal/25"
+  },
+  {
+    "op": "replace",
+    "value": "Destruindo amizades",
+    "path": "/statuses/intrusive/23"
+  },
+  {
+    "op": "replace",
+    "value": "Desenvolvendo uma paixão",
+    "path": "/statuses/flirty/21"
+  },
+  {
+    "op": "replace",
+    "value": "Desconsiderando dormir",
+    "path": "/statuses/nocturnal/31"
+  },
+  {
+    "op": "replace",
+    "value": "Desrespeitando a propriedade pessoal",
+    "path": "/statuses/intrusive/27"
+  },
+  {
+    "op": "replace",
+    "value": "Desrespeitando o espaço pessoal",
+    "path": "/statuses/intrusive/28"
+  },
+  {
+    "op": "replace",
+    "value": "Não se sente que serve para isso",
+    "path": "/statuses/anxious/13"
+  },
+  {
+    "op": "replace",
+    "value": "Não quer que ninguém descubra seu segredo",
+    "path": "/statuses/generic/11"
+  },
+  {
+    "op": "replace",
+    "value": "Não quer ficar sozinho",
+    "path": "/statuses/easilyspooked/27"
+  },
+  {
+    "op": "replace",
+    "value": "Não quer fazer parte do sistema",
+    "path": "/statuses/generic/23"
+  },
+  {
+    "op": "replace",
+    "value": "Dorf",
+    "path": "/statuses/dumb/1"
+  },
+  {
+    "op": "replace",
+    "value": "Vestindo-se de forma inadequada",
+    "path": "/statuses/intrusive/18"
+  },
+  {
+    "op": "replace",
+    "value": "Cometeu um erro",
+    "path": "/statuses/clumsy/26"
+  },
+  {
+    "op": "replace",
+    "value": "Envergonhado com a sua velocidade",
+    "path": "/statuses/fast/10"
+  },
+  {
+    "op": "replace",
+    "value": "Apreciando a sensação de precisar fazer xixi",
+    "path": "/statuses/cheerful/13"
+  },
+  {
+    "op": "replace",
+    "value": "Apreciando a vida selvagem local",
+    "path": "/statuses/cheerful/5"
+  },
+  {
+    "op": "replace",
+    "value": "Aproveitando o momento",
+    "path": "/statuses/generic/67"
+  },
+  {
+    "op": "replace",
+    "value": "Aproveitando a vida simples",
+    "path": "/statuses/cheerful/10"
+  },
+  {
+    "op": "replace",
+    "value": "Apreciando o som que as pessoas fazem quando são cutucadas",
+    "path": "/statuses/intrusive/3"
+  },
+  {
+    "op": "replace",
+    "value": "Temendo por sua segurança",
+    "path": "/statuses/easilyspooked/28"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo agudamente consciente de ruídos estranhos",
+    "path": "/statuses/easilyspooked/5"
+  },
+  {
+    "op": "replace",
+    "value": "Viciado em imagens de gato",
+    "path": "/statuses/nocturnal/17"
+  },
+  {
+    "op": "replace",
+    "value": "Sentindo medo de monstros",
+    "path": "/statuses/easilyspooked/17"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo agressivo",
+    "path": "/statuses/excited/22"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo alienado",
+    "path": "/statuses/intrusive/25"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo sozinho",
+    "path": "/statuses/emo/7"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo ambicioso",
+    "path": "/statuses/ambitious/3"
+  },
+  {
+    "op": "replace",
+    "value": "Sentindo uma intensa sensação de pressão",
+    "path": "/statuses/anxious/24"
+  },
+  {
+    "op": "replace",
+    "value": "Sentindo raiva",
+    "path": "/statuses/excited/25"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo irritado com o mundo",
+    "path": "/statuses/emo/11"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo acordado",
+    "path": "/statuses/nocturnal/5"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo energético",
+    "path": "/statuses/excited/30"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo entediado",
+    "path": "/statuses/fast/12"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo infeliz",
+    "path": "/statuses/flirty/2"
+  },
+  {
+    "op": "replace",
+    "value": "Se Sentindo ocupado",
+    "path": "/statuses/fast/27"
+  },
+  {
+    "op": "replace",
+    "value": "Sentindo-se capaz",
+    "path": "/statuses/ambitious/14"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo tagarela",
+    "path": "/statuses/socialite/1"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo desajeitado",
+    "path": "/statuses/clumsy/8"
+  },
+  {
+    "op": "replace",
+    "value": "Sentindo-se competitivo",
+    "path": "/statuses/ambitious/16"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo confiante",
+    "path": "/statuses/generic/55"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo confuso",
+    "path": "/statuses/dumb/9"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo atencioso",
+    "path": "/statuses/socialite/25"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo satisfeito",
+    "path": "/statuses/generic/62"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo perigoso",
+    "path": "/statuses/clumsy/17"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo profundamente perturbado",
+    "path": "/statuses/generic/53"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo deprimido",
+    "path": "/statuses/emo/22"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo excluído",
+    "path": "/statuses/emo/26"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo desagradável",
+    "path": "/statuses/jerk/15"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo para baixo",
+    "path": "/statuses/emo/8"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo controlado",
+    "path": "/statuses/ambitious/4"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo burro",
+    "path": "/statuses/dumb/6"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentimento eficiente",
+    "path": "/statuses/fast/23"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo emocional",
+    "path": "/statuses/emo/16"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo animado",
+    "path": "/statuses/excited/2"
+  },
+  {
+    "op": "replace",
+    "value": "Sentindo-se animado com seu futuro",
+    "path": "/statuses/ambitious/5"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo excluído",
+    "path": "/statuses/emo/19"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo esgotado",
+    "path": "/statuses/nocturnal/3"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo muito animado",
+    "path": "/statuses/excited/7"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo extravagante",
+    "path": "/statuses/generic/40"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo com medo",
+    "path": "/statuses/easilyspooked/15"
+  },
+  {
+    "op": "replace",
+    "value": "Sentindo sentimentos",
+    "path": "/statuses/emo/14"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo bem",
+    "path": "/statuses/generic/59"
+  },
+  {
+    "op": "replace",
+    "value": "Paquerando alguem",
+    "path": "/statuses/flirty/18"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo energético",
+    "path": "/statuses/excited/29"
+  },
+  {
+    "op": "replace",
+    "value": "Cheio de energia",
+    "path": "/statuses/excited/15"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo furioso",
+    "path": "/statuses/excited/26"
+  },
+  {
+    "op": "replace",
+    "value": "Sentindo-se confuso",
+    "path": "/statuses/nocturnal/18"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo bem",
+    "path": "/statuses/generic/63"
+  },
+  {
+    "op": "replace",
+    "value": "Nunca se sentiu assim antes",
+    "path": "/statuses/flirty/6"
+  },
+  {
+    "op": "replace",
+    "value": "Sentindo-se meio adormecido",
+    "path": "/statuses/nocturnal/19"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo desamparado",
+    "path": "/statuses/easilyspooked/19"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo hormonal",
+    "path": "/statuses/flirty/4"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo hiperativo",
+    "path": "/statuses/excited/4"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo ignorante",
+    "path": "/statuses/dumb/20"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo impulsivo",
+    "path": "/statuses/excited/10"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo influenciado",
+    "path": "/statuses/excited/23"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo introvertido",
+    "path": "/statuses/emo/23"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo intrusivo",
+    "path": "/statuses/intrusive/29"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo nervoso",
+    "path": "/statuses/easilyspooked/23"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo como um fracasso",
+    "path": "/statuses/emo/13"
+  },
+  {
+    "op": "replace",
+    "value": "Tem vontade de soluçar",
+    "path": "/statuses/emo/21"
+  },
+  {
+    "op": "replace",
+    "value": "Tem vontade de soluçar",
+    "path": "/statuses/emo/27"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo o centro das atenções",
+    "path": "/statuses/socialite/13"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo como não pode ser confiável",
+    "path": "/statuses/clumsy/25"
+  },
+  {
+    "op": "replace",
+    "value": "Sentindo como se ele têm uma deficiência de vitamina C",
+    "path": "/statuses/nocturnal/10"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo como ele perdeu alguma coisa",
+    "path": "/statuses/clumsy/16"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo perdido",
+    "path": "/statuses/emo/6"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo desprezível",
+    "path": "/statuses/jerk/25"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo mentalmente sobrecarregado",
+    "path": "/statuses/dumb/18"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo mentalmente tributado",
+    "path": "/statuses/dumb/14"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo infeliz",
+    "path": "/statuses/emo/12"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo incompreendido",
+    "path": "/statuses/emo/9"
+  },
+  {
+    "op": "replace",
+    "value": "Lidando com a insônia",
+    "path": "/statuses/nocturnal/20"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo mais confortável na frente de um computador",
+    "path": "/statuses/anxious/16"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo motivado",
+    "path": "/statuses/cheerful/11"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo iludido",
+    "path": "/statuses/dumb/31"
+  },
+  {
+    "op": "replace",
+    "value": "Sentindo saudades",
+    "path": "/statuses/generic/22"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo no limite",
+    "path": "/statuses/easilyspooked/4"
+  },
+  {
+    "op": "replace",
+    "value": "Se Sentindo aberto de espírito",
+    "path": "/statuses/socialite/28"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo fora de sincronia",
+    "path": "/statuses/nocturnal/8"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo excessivamente crítico",
+    "path": "/statuses/jerk/24"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo em pânico",
+    "path": "/statuses/easilyspooked/11"
+  },
+  {
+    "op": "replace",
+    "value": "Sentindo-se popular",
+    "path": "/statuses/socialite/8"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo positivo",
+    "path": "/statuses/cheerful/28"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo propenso a erros",
+    "path": "/statuses/clumsy/6"
+  },
+  {
+    "op": "replace",
+    "value": "Se Sentindo pontual",
+    "path": "/statuses/fast/26"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo inquieto",
+    "path": "/statuses/nocturnal/0"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo em casa",
+    "path": "/statuses/cheerful/18"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo no caminho certo",
+    "path": "/statuses/fast/22"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo triste",
+    "path": "/statuses/emo/15"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo sorrateiro",
+    "path": "/statuses/nocturnal/6"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo social",
+    "path": "/statuses/socialite/17"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo socialmente desajeitado",
+    "path": "/statuses/anxious/17"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo socialmente inaceitável",
+    "path": "/statuses/intrusive/17"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo sofisticado",
+    "path": "/statuses/generic/38"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo espirituoso",
+    "path": "/statuses/excited/16"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo assustado",
+    "path": "/statuses/easilyspooked/6"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo estúpido",
+    "path": "/statuses/dumb/7"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo tenso",
+    "path": "/statuses/easilyspooked/22"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo aterrorizado",
+    "path": "/statuses/easilyspooked/16"
+  },
+  {
+    "op": "replace",
+    "value": "Sentindo necessidade de afeto",
+    "path": "/statuses/socialite/29"
+  },
+  {
+    "op": "replace",
+    "value": "Sentindo que ele esta fora do sistema",
+    "path": "/statuses/nocturnal/11"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo cansado",
+    "path": "/statuses/nocturnal/2"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo cansado de pensar",
+    "path": "/statuses/dumb/13"
+  },
+  {
+    "op": "replace",
+    "value": "Sem palavras",
+    "path": "/statuses/dumb/21"
+  },
+  {
+    "op": "replace",
+    "value": "Pensando em letras para uma música sobre você",
+    "path": "/statuses/intrusive/13"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo incapaz",
+    "path": "/statuses/dumb/27"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo incapaz de se expressar",
+    "path": "/statuses/dumb/12"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo pouco atraente",
+    "path": "/statuses/anxious/18"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo implacável",
+    "path": "/statuses/jerk/16"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo desajeitado",
+    "path": "/statuses/clumsy/30"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo mal-amado",
+    "path": "/statuses/jerk/23"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo insociável",
+    "path": "/statuses/nocturnal/16"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo inseguro",
+    "path": "/statuses/dumb/5"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo inseguro de si mesmo",
+    "path": "/statuses/anxious/0"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo mal",
+    "path": "/statuses/nocturnal/26"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo muito emocional",
+    "path": "/statuses/emo/3"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo observado",
+    "path": "/statuses/easilyspooked/2"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo bem gostado",
+    "path": "/statuses/socialite/12"
+  },
+  {
+    "op": "replace",
+    "value": "Sente um ataque de pânico vindo",
+    "path": "/statuses/anxious/3"
+  },
+  {
+    "op": "replace",
+    "value": "Sente-se capaz de qualquer coisa",
+    "path": "/statuses/ambitious/11"
+  },
+  {
+    "op": "replace",
+    "value": "Sente que é importante ir rapidamente",
+    "path": "/statuses/fast/0"
+  },
+  {
+    "op": "replace",
+    "value": "Se sente como um novo garoto no quarteirão",
+    "path": "/statuses/generic/50"
+  },
+  {
+    "op": "replace",
+    "value": "Se sente dentro da musica",
+    "path": "/statuses/generic/6"
+  },
+  {
+    "op": "replace",
+    "value": "Tem vontade de dançar",
+    "path": "/statuses/excited/8"
+  },
+  {
+    "op": "replace",
+    "value": "Se sente como dançar pela noite a fora",
+    "path": "/statuses/generic/57"
+  },
+  {
+    "op": "replace",
+    "value": "Tem vontade de dar um abraço em alguém",
+    "path": "/statuses/intrusive/0"
+  },
+  {
+    "op": "replace",
+    "value": "Sente vontade de rir",
+    "path": "/statuses/socialite/30"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que ninguém o entende",
+    "path": "/statuses/emo/2"
+  },
+  {
+    "op": "replace",
+    "value": "Deseja que tivesse super poderes",
+    "path": "/statuses/generic/21"
+  },
+  {
+    "op": "replace",
+    "value": "Se sente como se as paredes estão se fechando",
+    "path": "/statuses/anxious/2"
+  },
+  {
+    "op": "replace",
+    "value": "Se sente como se estivesse preso em um video game",
+    "path": "/statuses/generic/2"
+  },
+  {
+    "op": "replace",
+    "value": "Nervoso",
+    "path": "/statuses/anxious/9"
+  },
+  {
+    "op": "replace",
+    "value": "Sente o mundo se mover muito lentamente",
+    "path": "/statuses/fast/1"
+  },
+  {
+    "op": "replace",
+    "value": "Finalmente tem um lugar para chamar de lar",
+    "path": "/statuses/cheerful/21"
+  },
+  {
+    "op": "replace",
+    "value": "Pronto para aproveitar o dia",
+    "path": "/statuses/ambitious/20"
+  },
+  {
+    "op": "replace",
+    "value": "Encontrando respostas",
+    "path": "/statuses/generic/68"
+  },
+  {
+    "op": "replace",
+    "value": "Achando conversação difícil",
+    "path": "/statuses/anxious/22"
+  },
+  {
+    "op": "replace",
+    "value": "Encontrando inspiração para o seu blog",
+    "path": "/statuses/generic/48"
+  },
+  {
+    "op": "replace",
+    "value": "Acha difícil controlar seus desejos",
+    "path": "/statuses/flirty/12"
+  },
+  {
+    "op": "replace",
+    "value": "Acha a flora local sedutora",
+    "path": "/statuses/flirty/0"
+  },
+  {
+    "op": "replace",
+    "value": "Os dedos são amanteigados",
+    "path": "/statuses/clumsy/23"
+  },
+  {
+    "op": "replace",
+    "value": "Trabalhando com força total",
+    "path": "/statuses/fast/18"
+  },
+  {
+    "op": "replace",
+    "value": "Sente vontade de rir",
+    "path": "/statuses/socialite/23"
+  },
+  {
+    "op": "replace",
+    "value": "Flertando",
+    "path": "/statuses/flirty/20"
+  },
+  {
+    "op": "replace",
+    "value": "Fluindo",
+    "path": "/statuses/excited/28"
+  },
+  {
+    "op": "replace",
+    "value": "Seguindo seus sonhos",
+    "path": "/statuses/cheerful/26"
+  },
+  {
+    "op": "replace",
+    "value": "Esquecendo coisas",
+    "path": "/statuses/dumb/23"
+  },
+  {
+    "op": "replace",
+    "value": "Agitado",
+    "path": "/statuses/excited/11"
+  },
+  {
+    "op": "replace",
+    "value": "Desengonçado",
+    "path": "/statuses/clumsy/29"
+  },
+  {
+    "op": "replace",
+    "value": "Se esforçando para ir mais devagar",
+    "path": "/statuses/fast/16"
+  },
+  {
+    "op": "replace",
+    "value": "Fazendo as coisas rapidamente",
+    "path": "/statuses/fast/3"
+  },
+  {
+    "op": "replace",
+    "value": "Cedendo",
+    "path": "/statuses/emo/25"
+  },
+  {
+    "op": "replace",
+    "value": "Desistindo",
+    "path": "/statuses/emo/24"
+  },
+  {
+    "op": "replace",
+    "value": "Envergonhado",
+    "path": "/statuses/dumb/29"
+  },
+  {
+    "op": "replace",
+    "value": "As mãos são escorregadias",
+    "path": "/statuses/clumsy/22"
+  },
+  {
+    "op": "replace",
+    "value": "Feliz apesar de tudo",
+    "path": "/statuses/cheerful/23"
+  },
+  {
+    "op": "replace",
+    "value": "Feliz por estar vivo",
+    "path": "/statuses/cheerful/29"
+  },
+  {
+    "op": "replace",
+    "value": "Feliz com sua aparência",
+    "path": "/statuses/cheerful/25"
+  },
+  {
+    "op": "replace",
+    "value": "Tem um mau pressentimento sobre isso...",
+    "path": "/statuses/easilyspooked/0"
+  },
+  {
+    "op": "replace",
+    "value": "Tem a sensação de que sua vida é uma mentira",
+    "path": "/statuses/generic/14"
+  },
+  {
+    "op": "replace",
+    "value": "Tem uma grande anedota para compartilhar",
+    "path": "/statuses/socialite/5"
+  },
+  {
+    "op": "replace",
+    "value": "Tem uma grande idéia para um jogo",
+    "path": "/statuses/generic/35"
+  },
+  {
+    "op": "replace",
+    "value": "Tem uma grande piada para contar",
+    "path": "/statuses/socialite/4"
+  },
+  {
+    "op": "replace",
+    "value": "Tem uma grande história para contar",
+    "path": "/statuses/socialite/3"
+  },
+  {
+    "op": "replace",
+    "value": "Tem uma arma no bolso",
+    "path": "/statuses/flirty/26"
+  },
+  {
+    "op": "replace",
+    "value": "Tem uma música presa em sua cabeça",
+    "path": "/statuses/generic/0"
+  },
+  {
+    "op": "replace",
+    "value": "Tem um saboroso saco de doces",
+    "path": "/statuses/cheerful/27"
+  },
+  {
+    "op": "replace",
+    "value": "Tem uma coceira no dedo do pé",
+    "path": "/statuses/generic/30"
+  },
+  {
+    "op": "replace",
+    "value": "Tem lido literatura erótica",
+    "path": "/statuses/flirty/7"
+  },
+  {
+    "op": "replace",
+    "value": "Tem olhos vermelhos",
+    "path": "/statuses/nocturnal/14"
+  },
+  {
+    "op": "replace",
+    "value": "Agitado",
+    "path": "/statuses/excited/13"
+  },
+  {
+    "op": "replace",
+    "value": "Tem fé",
+    "path": "/statuses/cheerful/8"
+  },
+  {
+    "op": "replace",
+    "value": "Tem grandes expectativas",
+    "path": "/statuses/generic/60"
+  },
+  {
+    "op": "replace",
+    "value": "Tem muita tristeza em seu coração",
+    "path": "/statuses/emo/5"
+  },
+  {
+    "op": "replace",
+    "value": "Nunca se sentiu assim antes",
+    "path": "/statuses/flirty/5"
+  },
+  {
+    "op": "replace",
+    "value": "Não tem idéia do que esta fazendo e espera que ninguém perceba",
+    "path": "/statuses/generic/29"
+  },
+  {
+    "op": "replace",
+    "value": "Tendo uma crise existencial",
+    "path": "/statuses/emo/18"
+  },
+  {
+    "op": "replace",
+    "value": "Tendo grandes idéias",
+    "path": "/statuses/ambitious/10"
+  },
+  {
+    "op": "replace",
+    "value": "Herrr",
+    "path": "/statuses/dumb/0"
+  },
+  {
+    "op": "replace",
+    "value": "Soluçando em momentos inapropriados",
+    "path": "/statuses/anxious/23"
+  },
+  {
+    "op": "replace",
+    "value": "Escondendo algo",
+    "path": "/statuses/generic/12"
+  },
+  {
+    "op": "replace",
+    "value": "Alto na vida",
+    "path": "/statuses/ambitious/23"
+  },
+  {
+    "op": "replace",
+    "value": "Guardando rancor",
+    "path": "/statuses/generic/61"
+  },
+  {
+    "op": "replace",
+    "value": "Na esperança de encontrar seu par perfeito",
+    "path": "/statuses/flirty/1"
+  },
+  {
+    "op": "replace",
+    "value": "Cantarolando uma canção de ninar",
+    "path": "/statuses/nocturnal/27"
+  },
+  {
+    "op": "replace",
+    "value": "Se apressando",
+    "path": "/statuses/fast/13"
+  },
+  {
+    "op": "replace",
+    "value": "Respirando profundamente",
+    "path": "/statuses/excited/12"
+  },
+  {
+    "op": "replace",
+    "value": "Imune à solidão paralisante",
+    "path": "/statuses/cheerful/6"
+  },
+  {
+    "op": "replace",
+    "value": "Com pressa",
+    "path": "/statuses/fast/2"
+  },
+  {
+    "op": "replace",
+    "value": "Em perigo de colapso",
+    "path": "/statuses/nocturnal/23"
+  },
+  {
+    "op": "replace",
+    "value": "Com medo de cair",
+    "path": "/statuses/clumsy/21"
+  },
+  {
+    "op": "replace",
+    "value": "Precisando de companhia",
+    "path": "/statuses/socialite/2"
+  },
+  {
+    "op": "replace",
+    "value": "Com dor",
+    "path": "/statuses/generic/51"
+  },
+  {
+    "op": "replace",
+    "value": "Aumentando a resistencia",
+    "path": "/statuses/fast/29"
+  },
+  {
+    "op": "replace",
+    "value": "Aumentando a produtividade",
+    "path": "/statuses/fast/19"
+  },
+  {
+    "op": "replace",
+    "value": "Insaciável",
+    "path": "/statuses/flirty/16"
+  },
+  {
+    "op": "replace",
+    "value": "Inspecionando sua posição na sociedade",
+    "path": "/statuses/socialite/26"
+  },
+  {
+    "op": "replace",
+    "value": "Intencionalmente perdendo o ponto",
+    "path": "/statuses/jerk/28"
+  },
+  {
+    "op": "replace",
+    "value": "Inventando um novo tipo de tristeza",
+    "path": "/statuses/emo/17"
+  },
+  {
+    "op": "replace",
+    "value": "Está contemplando o conceito de espaço pessoal",
+    "path": "/statuses/intrusive/2"
+  },
+  {
+    "op": "replace",
+    "value": "Está cheio de arrependimento",
+    "path": "/statuses/emo/0"
+  },
+  {
+    "op": "replace",
+    "value": "Esta com calor e incomodado",
+    "path": "/statuses/generic/44"
+  },
+  {
+    "op": "replace",
+    "value": "Não tem certeza se essas roupas são legais depois de tudo",
+    "path": "/statuses/anxious/15"
+  },
+  {
+    "op": "replace",
+    "value": "Não tem certeza do que está acontecendo",
+    "path": "/statuses/dumb/10"
+  },
+  {
+    "op": "replace",
+    "value": "Se assustando com a propia sombra",
+    "path": "/statuses/easilyspooked/13"
+  },
+  {
+    "op": "replace",
+    "value": "Trabalhando com força total",
+    "path": "/statuses/fast/24"
+  },
+  {
+    "op": "replace",
+    "value": "Mal pode esperar",
+    "path": "/statuses/excited/1"
+  },
+  {
+    "op": "replace",
+    "value": "Acabou de ouvir algo... Provavelmente",
+    "path": "/statuses/easilyspooked/7"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas tentando fazer amigos",
+    "path": "/statuses/flirty/13"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas querendo ser amado",
+    "path": "/statuses/intrusive/12"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas quer estar em casa",
+    "path": "/statuses/anxious/28"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas quer ficar no escuro para sempre",
+    "path": "/statuses/emo/4"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas se molhou um pouco",
+    "path": "/statuses/easilyspooked/8"
+  },
+  {
+    "op": "replace",
+    "value": "Mantendo a forma",
+    "path": "/statuses/fast/30"
+  },
+  {
+    "op": "replace",
+    "value": "Mantendo a paz",
+    "path": "/statuses/socialite/21"
+  },
+  {
+    "op": "replace",
+    "value": "Continua insultando pessoas por engano",
+    "path": "/statuses/clumsy/3"
+  },
+  {
+    "op": "replace",
+    "value": "Continua bufando",
+    "path": "/statuses/anxious/30"
+  },
+  {
+    "op": "replace",
+    "value": "Continua tropeçando",
+    "path": "/statuses/clumsy/2"
+  },
+  {
+    "op": "replace",
+    "value": "Chutou uma pequena criatura alienígena mais cedo",
+    "path": "/statuses/jerk/4"
+  },
+  {
+    "op": "replace",
+    "value": "Sabe que vai ser ótimo",
+    "path": "/statuses/excited/0"
+  },
+  {
+    "op": "replace",
+    "value": "Não confiante",
+    "path": "/statuses/anxious/14"
+  },
+  {
+    "op": "replace",
+    "value": "Na falta de dignidade",
+    "path": "/statuses/clumsy/27"
+  },
+  {
+    "op": "replace",
+    "value": "Pensando rápido",
+    "path": "/statuses/fast/8"
+  },
+  {
+    "op": "replace",
+    "value": "Saiu do assento do vaso sanitário",
+    "path": "/statuses/jerk/2"
+  },
+  {
+    "op": "replace",
+    "value": "Gosta de você nessa roupa",
+    "path": "/statuses/flirty/3"
+  },
+  {
+    "op": "replace",
+    "value": "Procurando por uma briga",
+    "path": "/statuses/jerk/12"
+  },
+  {
+    "op": "replace",
+    "value": "Procurando por um romance",
+    "path": "/statuses/flirty/22"
+  },
+  {
+    "op": "replace",
+    "value": "Procurando alguém para irritar",
+    "path": "/statuses/jerk/0"
+  },
+  {
+    "op": "replace",
+    "value": "Procurando alguém para azucrinar",
+    "path": "/statuses/jerk/5"
+  },
+  {
+    "op": "replace",
+    "value": "Procurando alguém para fazer cócegas",
+    "path": "/statuses/cheerful/14"
+  },
+  {
+    "op": "replace",
+    "value": "Procurando por algo",
+    "path": "/statuses/fast/28"
+  },
+  {
+    "op": "replace",
+    "value": "Procurando algo a longo prazo",
+    "path": "/statuses/flirty/14"
+  },
+  {
+    "op": "replace",
+    "value": "Procurando algo para fazer",
+    "path": "/statuses/ambitious/2"
+  },
+  {
+    "op": "replace",
+    "value": "Perdendo a cabeça",
+    "path": "/statuses/easilyspooked/29"
+  },
+  {
+    "op": "replace",
+    "value": "Ama a maneira como você manuseia esse manipulador de matéria",
+    "path": "/statuses/flirty/30"
+  },
+  {
+    "op": "replace",
+    "value": "Fazer um falso embaraço",
+    "path": "/statuses/socialite/15"
+  },
+  {
+    "op": "replace",
+    "value": "Fazendo suposições",
+    "path": "/statuses/intrusive/21"
+  },
+  {
+    "op": "replace",
+    "value": "Fazendo inimigos",
+    "path": "/statuses/intrusive/22"
+  },
+  {
+    "op": "replace",
+    "value": "Cometendo erros",
+    "path": "/statuses/dumb/22"
+  },
+  {
+    "op": "replace",
+    "value": "Fazendo movimentos",
+    "path": "/statuses/ambitious/13"
+  },
+  {
+    "op": "replace",
+    "value": "Fazendo a paz",
+    "path": "/statuses/socialite/24"
+  },
+  {
+    "op": "replace",
+    "value": "Fazendo sons estranhos",
+    "path": "/statuses/intrusive/19"
+  },
+  {
+    "op": "replace",
+    "value": "Fazendo seu próprio ritmo",
+    "path": "/statuses/fast/5"
+  },
+  {
+    "op": "replace",
+    "value": "Sentindo falta de pistas sociais",
+    "path": "/statuses/intrusive/11"
+  },
+  {
+    "op": "replace",
+    "value": "Desejando que ele fosse mais esperto",
+    "path": "/statuses/dumb/28"
+  },
+  {
+    "op": "replace",
+    "value": "Mal entendido",
+    "path": "/statuses/dumb/24"
+  },
+  {
+    "op": "replace",
+    "value": "Não tem idéia do que esta fazendo e espera que ninguém perceba",
+    "path": "/statuses/generic/8"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentimento eficiente",
+    "path": "/statuses/fast/20"
+  },
+  {
+    "op": "replace",
+    "value": "Precisando falar com todos hoje",
+    "path": "/statuses/socialite/0"
+  },
+  {
+    "op": "replace",
+    "value": "Precisa de um horário de sono melhor",
+    "path": "/statuses/nocturnal/13"
+  },
+  {
+    "op": "replace",
+    "value": "Precisa de uma pausa",
+    "path": "/statuses/generic/5"
+  },
+  {
+    "op": "replace",
+    "value": "Precisa de um banho frio",
+    "path": "/statuses/flirty/25"
+  },
+  {
+    "op": "replace",
+    "value": "Precisa de uma massagem",
+    "path": "/statuses/flirty/24"
+  },
+  {
+    "op": "replace",
+    "value": "Nervoso sobre um encontro",
+    "path": "/statuses/flirty/11"
+  },
+  {
+    "op": "replace",
+    "value": "Muito nervoso",
+    "path": "/statuses/anxious/10"
+  },
+  {
+    "op": "replace",
+    "value": "Rindo nervosamente",
+    "path": "/statuses/anxious/27"
+  },
+  {
+    "op": "replace",
+    "value": "Não esta sentindo nada",
+    "path": "/statuses/dumb/3"
+  },
+  {
+    "op": "replace",
+    "value": "Atento",
+    "path": "/statuses/generic/42"
+  },
+  {
+    "op": "replace",
+    "value": "Em harmonia com o universo",
+    "path": "/statuses/cheerful/19"
+  },
+  {
+    "op": "replace",
+    "value": "Abertamente discutindo spoilers hoje",
+    "path": "/statuses/jerk/14"
+  },
+  {
+    "op": "replace",
+    "value": "Operando mal",
+    "path": "/statuses/dumb/15"
+  },
+  {
+    "op": "replace",
+    "value": "Fora de si",
+    "path": "/statuses/generic/18"
+  },
+  {
+    "op": "replace",
+    "value": "Deve dinheiro para pessoas",
+    "path": "/statuses/jerk/20"
+  },
+  {
+    "op": "replace",
+    "value": "Cutucando seu nariz",
+    "path": "/statuses/intrusive/20"
+  },
+  {
+    "op": "replace",
+    "value": "Imaginando esqueletos assustadores",
+    "path": "/statuses/easilyspooked/1"
+  },
+  {
+    "op": "replace",
+    "value": "Planejando uma festa",
+    "path": "/statuses/socialite/9"
+  },
+  {
+    "op": "replace",
+    "value": "Planejando o que vestir",
+    "path": "/statuses/socialite/18"
+  },
+  {
+    "op": "replace",
+    "value": "Jogando advogado do diabo",
+    "path": "/statuses/jerk/7"
+  },
+  {
+    "op": "replace",
+    "value": "Saindo com varias pessoas ao mesmo tempo",
+    "path": "/statuses/flirty/10"
+  },
+  {
+    "op": "replace",
+    "value": "Jogando o jogo",
+    "path": "/statuses/excited/20"
+  },
+  {
+    "op": "replace",
+    "value": "Orando por proteção",
+    "path": "/statuses/easilyspooked/18"
+  },
+  {
+    "op": "replace",
+    "value": "Fingindo que tudo está bem",
+    "path": "/statuses/cheerful/7"
+  },
+  {
+    "op": "replace",
+    "value": "Fingindo ter cleptomania",
+    "path": "/statuses/jerk/3"
+  },
+  {
+    "op": "replace",
+    "value": "Quer governar a galáxia algum dia",
+    "path": "/statuses/ambitious/28"
+  },
+  {
+    "op": "replace",
+    "value": "Colocando a carroça na frente dos bois",
+    "path": "/statuses/fast/25"
+  },
+  {
+    "op": "replace",
+    "value": "Questionando o ponto",
+    "path": "/statuses/emo/20"
+  },
+  {
+    "op": "replace",
+    "value": "Questionando seus níveis de açúcar",
+    "path": "/statuses/excited/17"
+  },
+  {
+    "op": "replace",
+    "value": "Classificando suas amizades",
+    "path": "/statuses/socialite/19"
+  },
+  {
+    "op": "replace",
+    "value": "Reagindo mal",
+    "path": "/statuses/generic/54"
+  },
+  {
+    "op": "replace",
+    "value": "Pronto para atacar",
+    "path": "/statuses/easilyspooked/31"
+  },
+  {
+    "op": "replace",
+    "value": "Pronto para aproveitar o dia",
+    "path": "/statuses/ambitious/19"
+  },
+  {
+    "op": "replace",
+    "value": "Reconsiderando seus membros do grupo",
+    "path": "/statuses/socialite/11"
+  },
+  {
+    "op": "replace",
+    "value": "Chamando às pessoas pelo seu segundo nome",
+    "path": "/statuses/jerk/30"
+  },
+  {
+    "op": "replace",
+    "value": "Recusando-se a ir mais devagar",
+    "path": "/statuses/fast/15"
+  },
+  {
+    "op": "replace",
+    "value": "Lamenta seu comportamento",
+    "path": "/statuses/jerk/22"
+  },
+  {
+    "op": "replace",
+    "value": "Lembrando-se de não pular em público",
+    "path": "/statuses/cheerful/4"
+  },
+  {
+    "op": "replace",
+    "value": "Repetidamente derrubando bens caros",
+    "path": "/statuses/clumsy/4"
+  },
+  {
+    "op": "replace",
+    "value": "Repetindo a mesma piada repetidamente",
+    "path": "/statuses/jerk/13"
+  },
+  {
+    "op": "replace",
+    "value": "Arriscando tudo",
+    "path": "/statuses/excited/24"
+  },
+  {
+    "op": "replace",
+    "value": "Arriscando insanidade",
+    "path": "/statuses/nocturnal/24"
+  },
+  {
+    "op": "replace",
+    "value": "Balançando o barco",
+    "path": "/statuses/generic/65"
+  },
+  {
+    "op": "replace",
+    "value": "Romanticamente frustrado",
+    "path": "/statuses/flirty/23"
+  },
+  {
+    "op": "replace",
+    "value": "Despenteando penas",
+    "path": "/statuses/socialite/16"
+  },
+  {
+    "op": "replace",
+    "value": "Correndo",
+    "path": "/statuses/fast/14"
+  },
+  {
+    "op": "replace",
+    "value": "Fofocando",
+    "path": "/statuses/socialite/22"
+  },
+  {
+    "op": "replace",
+    "value": "Segundo adivinhando seu gosto musical",
+    "path": "/statuses/anxious/11"
+  },
+  {
+    "op": "replace",
+    "value": "Secretamente sabe que deve se exercitar mais",
+    "path": "/statuses/generic/25"
+  },
+  {
+    "op": "replace",
+    "value": "Buscando distração",
+    "path": "/statuses/generic/69"
+  },
+  {
+    "op": "replace",
+    "value": "Buscando mais atenção",
+    "path": "/statuses/socialite/14"
+  },
+  {
+    "op": "replace",
+    "value": "Aproveitando o momento",
+    "path": "/statuses/excited/21"
+  },
+  {
+    "op": "replace",
+    "value": "Sentindo medo",
+    "path": "/statuses/anxious/25"
+  },
+  {
+    "op": "replace",
+    "value": "Derramando uma única lágrima",
+    "path": "/statuses/emo/1"
+  },
+  {
+    "op": "replace",
+    "value": "Sonambulando",
+    "path": "/statuses/nocturnal/28"
+  },
+  {
+    "op": "replace",
+    "value": "Deslizando na insanidade",
+    "path": "/statuses/nocturnal/4"
+  },
+  {
+    "op": "replace",
+    "value": "Se sentindo desajeitado",
+    "path": "/statuses/clumsy/7"
+  },
+  {
+    "op": "replace",
+    "value": "Falando antes de pensar",
+    "path": "/statuses/anxious/21"
+  },
+  {
+    "op": "replace",
+    "value": "Falando inteiramente em trocadilhos",
+    "path": "/statuses/jerk/6"
+  },
+  {
+    "op": "replace",
+    "value": "Acelerando as coisas",
+    "path": "/statuses/fast/6"
+  },
+  {
+    "op": "replace",
+    "value": "Encarando",
+    "path": "/statuses/intrusive/15"
+  },
+  {
+    "op": "replace",
+    "value": "Olhando para o abismo",
+    "path": "/statuses/generic/27"
+  },
+  {
+    "op": "replace",
+    "value": "Começando um clube",
+    "path": "/statuses/socialite/20"
+  },
+  {
+    "op": "replace",
+    "value": "Acariciando suas coxas",
+    "path": "/statuses/intrusive/30"
+  },
+  {
+    "op": "replace",
+    "value": "Se esforçando para ir mais devagar",
+    "path": "/statuses/fast/4"
+  },
+  {
+    "op": "replace",
+    "value": "Esmagou seu dedo do pé",
+    "path": "/statuses/clumsy/28"
+  },
+  {
+    "op": "replace",
+    "value": "Jura que ele não fez isso",
+    "path": "/statuses/clumsy/14"
+  },
+  {
+    "op": "replace",
+    "value": "Suando incontrolavelmente",
+    "path": "/statuses/anxious/20"
+  },
+  {
+    "op": "replace",
+    "value": "Sistematicamente contando cada pixel",
+    "path": "/statuses/generic/36"
+  },
+  {
+    "op": "replace",
+    "value": "Sistematicamente arruinando tudo",
+    "path": "/statuses/clumsy/19"
+  },
+  {
+    "op": "replace",
+    "value": "Tomando seu tempo",
+    "path": "/statuses/generic/64"
+  },
+  {
+    "op": "replace",
+    "value": "Dizendo a si mesmo que não é um stalker",
+    "path": "/statuses/flirty/28"
+  },
+  {
+    "op": "replace",
+    "value": "Sua mente está acelerada",
+    "path": "/statuses/fast/7"
+  },
+  {
+    "op": "replace",
+    "value": "Pensando em começar uma colônia própria",
+    "path": "/statuses/ambitious/9"
+  },
+  {
+    "op": "replace",
+    "value": "Pensando em suas finanças",
+    "path": "/statuses/ambitious/8"
+  },
+  {
+    "op": "replace",
+    "value": "Pensando sobre seu animal de estimação perdido",
+    "path": "/statuses/generic/47"
+  },
+  {
+    "op": "replace",
+    "value": "Pensando rápido",
+    "path": "/statuses/fast/9"
+  },
+  {
+    "op": "replace",
+    "value": "Pensando em como todo mundo é ótimo",
+    "path": "/statuses/intrusive/8"
+  },
+  {
+    "op": "replace",
+    "value": "Pensando que é um bom dia",
+    "path": "/statuses/cheerful/1"
+  },
+  {
+    "op": "replace",
+    "value": "Pensando em letras para uma música sobre você",
+    "path": "/statuses/intrusive/7"
+  },
+  {
+    "op": "replace",
+    "value": "Pensando que ele deixou algo para trás",
+    "path": "/statuses/clumsy/15"
+  },
+  {
+    "op": "replace",
+    "value": "Pensando muito",
+    "path": "/statuses/dumb/25"
+  },
+  {
+    "op": "replace",
+    "value": "Pensando que você é uma pessoa adorável",
+    "path": "/statuses/cheerful/22"
+  },
+  {
+    "op": "replace",
+    "value": "Acha que todo mundo deve ouvi-lo",
+    "path": "/statuses/jerk/10"
+  },
+  {
+    "op": "replace",
+    "value": "Acha que algo ruim está prestes a acontecer",
+    "path": "/statuses/easilyspooked/24"
+  },
+  {
+    "op": "replace",
+    "value": "Cansado após um longo dia de não fazer nada",
+    "path": "/statuses/generic/10"
+  },
+  {
+    "op": "replace",
+    "value": "Tremendo",
+    "path": "/statuses/anxious/12"
+  },
+  {
+    "op": "replace",
+    "value": "Tremendo de emoção",
+    "path": "/statuses/excited/6"
+  },
+  {
+    "op": "replace",
+    "value": "Tropeçou em uma pedra mais cedo",
+    "path": "/statuses/generic/1"
+  },
+  {
+    "op": "replace",
+    "value": "Tentando não vomitar",
+    "path": "/statuses/generic/43"
+  },
+  {
+    "op": "replace",
+    "value": "Tentando seu melhor",
+    "path": "/statuses/ambitious/24"
+  },
+  {
+    "op": "replace",
+    "value": "Tentando sua sorte",
+    "path": "/statuses/generic/66"
+  },
+  {
+    "op": "replace",
+    "value": "Tentando descobrir coisas",
+    "path": "/statuses/dumb/4"
+  },
+  {
+    "op": "replace",
+    "value": "Tentando manter suas fobias sob controle",
+    "path": "/statuses/easilyspooked/20"
+  },
+  {
+    "op": "replace",
+    "value": "Tentando lembrar sua idade",
+    "path": "/statuses/generic/7"
+  },
+  {
+    "op": "replace",
+    "value": "Tentando acordar os mortos",
+    "path": "/statuses/nocturnal/15"
+  },
+  {
+    "op": "replace",
+    "value": "Incapaz de acalmar-se",
+    "path": "/statuses/excited/19"
+  },
+  {
+    "op": "replace",
+    "value": "Incapaz de conter-se",
+    "path": "/statuses/excited/27"
+  },
+  {
+    "op": "replace",
+    "value": "Incapaz de se controlar",
+    "path": "/statuses/flirty/9"
+  },
+  {
+    "op": "replace",
+    "value": "Incapaz de dormir",
+    "path": "/statuses/nocturnal/1"
+  },
+  {
+    "op": "replace",
+    "value": "Ausência de alternativas de estilo de vida",
+    "path": "/statuses/jerk/9"
+  },
+  {
+    "op": "replace",
+    "value": "Infeliz com a física",
+    "path": "/statuses/clumsy/20"
+  },
+  {
+    "op": "replace",
+    "value": "Recusando-se a desistir",
+    "path": "/statuses/generic/16"
+  },
+  {
+    "op": "replace",
+    "value": "Muito mente aberta",
+    "path": "/statuses/flirty/17"
+  },
+  {
+    "op": "replace",
+    "value": "Esperando o momento certo",
+    "path": "/statuses/nocturnal/7"
+  },
+  {
+    "op": "replace",
+    "value": "Querendo mais",
+    "path": "/statuses/ambitious/17"
+  },
+  {
+    "op": "replace",
+    "value": "Querendo ser melhores amigos",
+    "path": "/statuses/intrusive/6"
+  },
+  {
+    "op": "replace",
+    "value": "Quer se tornar prefeito",
+    "path": "/statuses/ambitious/1"
+  },
+  {
+    "op": "replace",
+    "value": "Querer formar uma banda",
+    "path": "/statuses/socialite/10"
+  },
+  {
+    "op": "replace",
+    "value": "Querendo ouvir segredos",
+    "path": "/statuses/intrusive/4"
+  },
+  {
+    "op": "replace",
+    "value": "Quer saber como seu rosto se parece",
+    "path": "/statuses/intrusive/1"
+  },
+  {
+    "op": "replace",
+    "value": "Quer aprender algo novo",
+    "path": "/statuses/dumb/8"
+  },
+  {
+    "op": "replace",
+    "value": "Querendo possuir sua própria nave",
+    "path": "/statuses/ambitious/7"
+  },
+  {
+    "op": "replace",
+    "value": "Querendo chegar ao topo",
+    "path": "/statuses/ambitious/27"
+  },
+  {
+    "op": "replace",
+    "value": "Quer governar a galáxia algum dia",
+    "path": "/statuses/ambitious/0"
+  },
+  {
+    "op": "replace",
+    "value": "Querendo cheirar as pessoas",
+    "path": "/statuses/intrusive/5"
+  },
+  {
+    "op": "replace",
+    "value": "Quer evitar interações sociais por um tempo",
+    "path": "/statuses/anxious/5"
+  },
+  {
+    "op": "replace",
+    "value": "Quer se libertar",
+    "path": "/statuses/generic/24"
+  },
+  {
+    "op": "replace",
+    "value": "Quer saber o que é o amor",
+    "path": "/statuses/flirty/19"
+  },
+  {
+    "op": "replace",
+    "value": "Quer espalhar rumores",
+    "path": "/statuses/jerk/17"
+  },
+  {
+    "op": "replace",
+    "value": "Quer golpear o medo nos corações de seus inimigos",
+    "path": "/statuses/nocturnal/12"
+  },
+  {
+    "op": "replace",
+    "value": "Quer fazer uma festa",
+    "path": "/statuses/socialite/6"
+  },
+  {
+    "op": "replace",
+    "value": "Quer tentar coisas novas",
+    "path": "/statuses/generic/13"
+  },
+  {
+    "op": "replace",
+    "value": "Quer escrever uma música",
+    "path": "/statuses/generic/20"
+  },
+  {
+    "op": "replace",
+    "value": "Querendo chegar ao topo",
+    "path": "/statuses/ambitious/26"
+  },
+  {
+    "op": "replace",
+    "value": "De olhos arregalados",
+    "path": "/statuses/easilyspooked/21"
+  },
+  {
+    "op": "replace",
+    "value": "Disposto a apostar",
+    "path": "/statuses/ambitious/18"
+  },
+  {
+    "op": "replace",
+    "value": "O desejo de flertar eram tão fáceis quanto lutar contra monstros",
+    "path": "/statuses/flirty/27"
+  },
+  {
+    "op": "replace",
+    "value": "Deseja que tivesse um livro de colorir",
+    "path": "/statuses/generic/33"
+  },
+  {
+    "op": "replace",
+    "value": "Deseja que tivesse superpoderes",
+    "path": "/statuses/generic/31"
+  },
+  {
+    "op": "replace",
+    "value": "Deseja que ele estivesse no comando",
+    "path": "/statuses/jerk/11"
+  },
+  {
+    "op": "replace",
+    "value": "Deseja que fosse invisível",
+    "path": "/statuses/anxious/7"
+  },
+  {
+    "op": "replace",
+    "value": "Deseja que as coisas fossem diferentes",
+    "path": "/statuses/generic/3"
+  },
+  {
+    "op": "replace",
+    "value": "Desejando que alguém pudesse ajudar a abrir um jarro",
+    "path": "/statuses/clumsy/0"
+  },
+  {
+    "op": "replace",
+    "value": "Desejando que ele podesse correr mais rápido",
+    "path": "/statuses/fast/11"
+  },
+  {
+    "op": "replace",
+    "value": "Desejando que ele fosse mais esperto",
+    "path": "/statuses/dumb/11"
+  },
+  {
+    "op": "replace",
+    "value": "Balançando como geléia",
+    "path": "/statuses/clumsy/24"
+  },
+  {
+    "op": "replace",
+    "value": "Não será persuadido",
+    "path": "/statuses/jerk/8"
+  },
+  {
+    "op": "replace",
+    "value": "Não para de fazer barulhos altos",
+    "path": "/statuses/jerk/1"
+  },
+  {
+    "op": "replace",
+    "value": "Imaginando como iria lidar com um apocalipse zumbi",
+    "path": "/statuses/generic/32"
+  },
+  {
+    "op": "replace",
+    "value": "Querendo saber se escovar seus dentes está limpando seu esqueleto",
+    "path": "/statuses/generic/46"
+  },
+  {
+    "op": "replace",
+    "value": "Querendo saber se insetos se importam de ser pegos",
+    "path": "/statuses/generic/56"
+  },
+  {
+    "op": "replace",
+    "value": "Perguntando-se se poderia operar uma nave espacial",
+    "path": "/statuses/clumsy/10"
+  },
+  {
+    "op": "replace",
+    "value": "Querendo saber se ele têm amigos de verdade",
+    "path": "/statuses/socialite/7"
+  },
+  {
+    "op": "replace",
+    "value": "Querendo saber o quão rápido ele podem correr",
+    "path": "/statuses/anxious/6"
+  },
+  {
+    "op": "replace",
+    "value": "Querendo saber o que caracóis estão tentando fazer",
+    "path": "/statuses/generic/45"
+  },
+  {
+    "op": "replace",
+    "value": "Quer saber o que tem para o almoço",
+    "path": "/statuses/generic/19"
+  },
+  {
+    "op": "replace",
+    "value": "Se perguntando o que está lá fora",
+    "path": "/statuses/easilyspooked/30"
+  },
+  {
+    "op": "replace",
+    "value": "Se pergunta se alguém está secretamente controlando sua vida",
+    "path": "/statuses/generic/37"
+  },
+  {
+    "op": "replace",
+    "value": "Se pergunta por que ele não pode parar de sorrir",
+    "path": "/statuses/cheerful/12"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupando-se por ter doenças não diagnosticadas",
+    "path": "/statuses/anxious/4"
+  },
+  {
+    "op": "replace",
+    "value": "Gostaria de fazer uma boa ação",
+    "path": "/statuses/cheerful/24"
+  },
+  {
+    "op": "replace",
+    "value": "Não gostaria de estar em qualquer outro lugar",
+    "path": "/statuses/cheerful/2"
+  },
+  {
+    "op": "replace",
+    "value": "Lutando com a ansiedade",
+    "path": "/statuses/easilyspooked/14"
+  }
+]

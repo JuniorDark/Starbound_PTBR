@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Este componente poderia ser útil para a fabricação de corpos de mecha."
+    "value": "Salvaged Armor Plate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este componente poderia ser útil para a fabricação de corpos de mecha.",
+    "path": "/description"
   }
 ]

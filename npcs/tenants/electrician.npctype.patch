@@ -1,1 +1,92 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/0", "value": "Eu sou um eletricista! Estou aqui para manter todos estes circuitos funcionando corretamente."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/default/2", "value": "Eu estou aqui para consertar o circuito, mas tudo parece bem para mim."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/glitch/default/1", "value": "Ansioso. Eu amo manutenção de circuitos e eletrônica! É um trabalho e um hobby."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/1", "value": "Estes circuitos não estão indo para manter-se! É por isso que estou aqui."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/2", "value": "Sinto-me atraído para qualquer lugar com lotes de circuitos."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/default/0", "value": "Meu elmo de eletricista está fazendo minhas penas coçar."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/default/1", "value": "Este jumpsuit não fica tão bem em mim. Avians não devem se cobrir tanto!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/2", "value": "Estou aqui para manter esses circuitos nas melhores condições!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/2", "value": "Floran se pergunta se o chapéu de eletricista é bom para o combate."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/default/2", "value": "Eletricistas são nobres, assim como artistas e músicos. Eu não estou brincando!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/0", "value": "Floran é um eletricista, mas Floran não tem idéia de como a eletricidade funciona."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/1", "value": "Floran obtive este emprego de eletricista de alguma forma... preferiria estar essfaqueando."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/glitch/default/0", "value": "Surpresa. Vim para consertar estes circuitos, mas eles parecem bem para mim."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/0", "value": "Estou aqui para certificar-se que toda esse fiação não se degrade."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/default/1", "value": "Circuito elétrico é simplesmente fascinante."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/1", "value": "Estes circuitos são muito bem feitos. Eu não acho que eles vão degradar a qualquer momento em breve."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/glitch/default/2", "value": "Satisfeito. Estou feliz que eu aprendi como eletrônicos funcionam - Acho circuitos fascinantes."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/default/0", "value": "Consertar eletrônicos é uma arte complexa de complexidade. Felizmente, esses circuitos parecem bem."}]
+[
+  {
+    "op": "replace",
+    "value": "Ansioso. Eu amo manutenção de circuitos e eletrônica! É um trabalho e um hobby.",
+    "path": "/scriptConfig/dialog/converse/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Circuito elétrico é simplesmente fascinante.",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eletricistas são nobres, assim como artistas e músicos. Eu não estou brincando!",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Consertar eletrônicos é uma arte complexa de complexidade. Felizmente, esses circuitos parecem bem.",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran obtive este emprego de eletricista de alguma forma... preferiria estar essfaqueando.",
+    "path": "/scriptConfig/dialog/converse/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran é um eletricista, mas Floran não tem idéia de como a eletricidade funciona.",
+    "path": "/scriptConfig/dialog/converse/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran se pergunta se o chapéu de eletricista é bom para o combate.",
+    "path": "/scriptConfig/dialog/converse/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Sinto-me atraído para qualquer lugar com lotes de circuitos.",
+    "path": "/scriptConfig/dialog/converse/apex/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sou um eletricista! Estou aqui para manter todos estes circuitos funcionando corretamente.",
+    "path": "/scriptConfig/dialog/converse/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu estou aqui para consertar o circuito, mas tudo parece bem para mim.",
+    "path": "/scriptConfig/dialog/converse/avian/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Estou aqui para manter esses circuitos nas melhores condições!",
+    "path": "/scriptConfig/dialog/converse/human/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Estou aqui para certificar-se que toda esse fiação não se degrade.",
+    "path": "/scriptConfig/dialog/converse/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Meu elmo de eletricista está fazendo minhas penas coçar.",
+    "path": "/scriptConfig/dialog/converse/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Estou feliz que eu aprendi como eletrônicos funcionam - Acho circuitos fascinantes.",
+    "path": "/scriptConfig/dialog/converse/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Surpresa. Vim para consertar estes circuitos, mas eles parecem bem para mim.",
+    "path": "/scriptConfig/dialog/converse/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Estes circuitos são muito bem feitos. Eu não acho que eles vão degradar a qualquer momento em breve.",
+    "path": "/scriptConfig/dialog/converse/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Estes circuitos não estão indo para manter-se! É por isso que estou aqui.",
+    "path": "/scriptConfig/dialog/converse/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este jumpsuit não fica tão bem em mim. Avians não devem se cobrir tanto!",
+    "path": "/scriptConfig/dialog/converse/avian/default/1"
+  }
+]

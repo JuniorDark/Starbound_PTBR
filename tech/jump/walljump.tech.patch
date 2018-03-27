@@ -1,1 +1,12 @@
-[{"op":"replace","path":"/description","value":"Permite que você deslize e pule de paredes verticais!"},{"op":"replace","path":"/shortDescription","value":"Pulo na Parede"}]
+[
+  {
+    "op": "replace",
+    "value": "Permite que você deslize e pule de paredes verticais!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pulo na Parede",
+    "path": "/shortDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Coisas ruins são lançadas sobre aqueles que esperam."}, {"op": "replace", "path": "/shortdescription", "value": "Charge Gun"}]
+[
+  {
+    "op": "replace",
+    "value": "Coisas ruins são lançadas sobre aqueles que esperam.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Charge Gun",
+    "path": "/shortdescription"
+  }
+]

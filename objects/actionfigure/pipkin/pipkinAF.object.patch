@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A etiqueta diz, \"Apesar de parecer simpático, ele raramente é visto interagindo com outros Pipkin.\""}, {"op": "replace", "path": "/shortdescription", "value": "Pipkin Figurine"}]
+[
+  {
+    "op": "replace",
+    "value": "Pipkin Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"Apesar de parecer simpático, ele raramente é visto interagindo com outros Pipkin.\"",
+    "path": "/description"
+  }
+]

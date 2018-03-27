@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um pato dourado!"}, {"op": "replace", "path": "/shortdescription", "value": "Golden Ducky"}, {"op": "replace", "path": "/floranDescription", "value": "Patinho brilhante."}, {"op": "replace", "path": "/apexDescription", "value": "Um patinho dourado."}, {"op": "replace", "path": "/humanDescription", "value": "Um patinho adorável."}, {"op": "replace", "path": "/avianDescription", "value": "Essas coisas são realmente muito valiosas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um patinho, imortalizado em ouro."}, {"op": "replace", "path": "/glitchDescription", "value": "Apaixonado. É adorável."}, {"op": "replace", "path": "/novakidDescription", "value": "Um pato de ouro maciço."}]
+[
+  {
+    "op": "replace",
+    "value": "Um patinho, imortalizado em ouro.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pato dourado!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um patinho dourado.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pato de ouro maciço.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um patinho adorável.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apaixonado. É adorável.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Golden Ducky",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Patinho brilhante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas coisas são realmente muito valiosas.",
+    "path": "/avianDescription"
+  }
+]

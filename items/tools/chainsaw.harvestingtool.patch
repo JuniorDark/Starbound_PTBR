@@ -1,17 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/category",
-    "value": "tool"
+    "value": "Chainsaw",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Ótima para derrubar árvores. Tente evitar massacres."
-  },
-  {
-    "op": "replace",
-    "path": "/shortdescription",
-    "value": "Chainsaw"
+    "value": "Ótima para derrubar árvores. Tente evitar massacres.",
+    "path": "/description"
   }
 ]

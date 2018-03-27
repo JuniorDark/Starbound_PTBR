@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Mesa boa o suficiente para Floran fatiar carnesss."}, {"op": "replace", "path": "/shortdescription", "value": "Tungsten Table"}, {"op": "replace", "path": "/description", "value": "Uma mesa básica de tungstênio."}, {"op": "replace", "path": "/glitchDescription", "value": "Aprovação. Uma mesa de tungstênio bem feita."}, {"op": "replace", "path": "/apexDescription", "value": "Esta mesa de tungstênio serve para o seu propósito."}, {"op": "replace", "path": "/humanDescription", "value": "Uma bela mesa de tungstênio."}, {"op": "replace", "path": "/avianDescription", "value": "Uma mesa de tungstênio sólida."}, {"op": "replace", "path": "/hylotlDescription", "value": "No que diz respeito às mesas básicas de tungstênio, esta não é ruim."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma mesa de tungstênio boa."}]
+[
+  {
+    "op": "replace",
+    "value": "Mesa boa o suficiente para Floran fatiar carnesss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa básica de tungstênio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa de tungstênio boa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bela mesa de tungstênio.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa de tungstênio sólida.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aprovação. Uma mesa de tungstênio bem feita.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "No que diz respeito às mesas básicas de tungstênio, esta não é ruim.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa de tungstênio serve para o seu propósito.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tungsten Table",
+    "path": "/shortdescription"
+  }
+]

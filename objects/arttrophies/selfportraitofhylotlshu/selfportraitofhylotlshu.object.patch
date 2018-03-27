@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Ele parece familiar, mas de alguma forma... não."}, {"op": "replace", "path": "/avianDescription", "value": "A pintura neste retrato está quase aos padrões Avian"}, {"op": "replace", "path": "/hylotlDescription", "value": "Um auto-retrato de um famoso artista histórico do meu mundo natal."}, {"op": "replace", "path": "/novakidDescription", "value": "Não é uma pintura ruim. Parece que ele está jogando cartas."}, {"op": "replace", "path": "/description", "value": "Um auto-retrato muito famoso de um artista Hylotl muito famoso."}, {"op": "replace", "path": "/shortdescription", "value": "Self-Portrait of Hylotl-Shu"}, {"op": "replace", "path": "/floranDescription", "value": "Floran quer roubar pintura e vender no mercado negro."}, {"op": "replace", "path": "/glitchDescription", "value": "Agradável. Esse auto-retrato é uma ótima obra de arte."}, {"op": "replace", "path": "/apexDescription", "value": "Um clássico auto-retrato Hylotl. Feito de forma magistral."}]
+[
+  {
+    "op": "replace",
+    "value": "Floran quer roubar pintura e vender no mercado negro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um clássico auto-retrato Hylotl. Feito de forma magistral.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um auto-retrato de um famoso artista histórico do meu mundo natal.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um auto-retrato muito famoso de um artista Hylotl muito famoso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Agradável. Esse auto-retrato é uma ótima obra de arte.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ele parece familiar, mas de alguma forma... não.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não é uma pintura ruim. Parece que ele está jogando cartas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Self-Portrait of Hylotl-Shu",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A pintura neste retrato está quase aos padrões Avian",
+    "path": "/avianDescription"
+  }
+]

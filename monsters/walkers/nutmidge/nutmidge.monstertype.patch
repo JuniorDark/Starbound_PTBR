@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Nutmidgelings frequentemente se agrupam por segurança, empilhando dentro de um escudo protetor."}, {"op": "replace", "path": "/shortdescription", "value": "Nutmidge"}]
+[
+  {
+    "op": "replace",
+    "value": "Nutmidge",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nutmidgelings frequentemente se agrupam por segurança, empilhando dentro de um escudo protetor.",
+    "path": "/description"
+  }
+]

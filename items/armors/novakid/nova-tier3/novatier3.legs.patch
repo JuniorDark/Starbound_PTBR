@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Outlaw Pants"}, {"op": "replace", "path": "/description", "value": "Calças ideais para fugir da lei."}]
+[
+  {
+    "op": "replace",
+    "value": "Calças ideais para fugir da lei.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Outlaw Pants",
+    "path": "/shortdescription"
+  }
+]

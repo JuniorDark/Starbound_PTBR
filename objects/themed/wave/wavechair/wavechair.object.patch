@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Posso descansar um feitiço nesta cadeira."}, {"op": "replace", "path": "/description", "value": "Uma cadeira excepcionalmente confortável."}, {"op": "replace", "path": "/glitchDescription", "value": "Relaxado. Esta cadeira curvada é excepcionalmente confortável para os Glitch."}, {"op": "replace", "path": "/apexDescription", "value": "Uma cadeira muito confortável, um prazer para se sentar."}, {"op": "replace", "path": "/humanDescription", "value": "Uma cadeira em forma muito estranha. Mas é muito confortável."}, {"op": "replace", "path": "/avianDescription", "value": "Um lugar altamente decente para se sentar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Quase o luxo que os Hylotl estão acostumados. Há muita satisfação a ganhar aqui."}, {"op": "replace", "path": "/shortdescription", "value": "Wave Chair"}, {"op": "replace", "path": "/floranDescription", "value": "Floran sssente-se na cadeira e pensa sobre caça."}]
+[
+  {
+    "op": "replace",
+    "value": "Um lugar altamente decente para se sentar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ssenta na cadeira e pensa sobre caça.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quase o luxo que os Hylotl estão acostumados. Há muita satisfação a ganhar aqui.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira muito confortável, um prazer para se sentar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira em forma muito estranha. Mas é muito confortável.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira excepcionalmente confortável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Posso descansar um feitiço nesta cadeira.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relaxado. Esta cadeira curvada é excepcionalmente confortável para os Glitch.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wave Chair",
+    "path": "/shortdescription"
+  }
+]

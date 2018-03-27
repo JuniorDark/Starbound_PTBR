@@ -1,22 +1,37 @@
 [
   {
     "op": "replace",
-    "path": "/text",
-    "value": "Meu Ursa Menor perdeu seu amado ^orange;teddy bear^white;. Eu não posso terminar a criação da loja com ele assim - você pode me ajudar a ^green;conseguir um novo teddy bear^white; para ele, por favor?"
+    "value": "Bernard",
+    "path": "/scriptConfig/portraits/questComplete/title"
   },
   {
     "op": "replace",
-    "path": "/completionText",
-    "value": "Ursa Menor está feliz agora! Obrigado, agora eu posso terminar a abertura da loja."
+    "value": "Bernard",
+    "path": "/scriptConfig/portraits/questFailed/title"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "^green;O Ursinho Perdido"
+    "value": "Bernard",
+    "path": "/scriptConfig/portraits/questStarted/title"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/failConditions/0/failureText",
-    "value": "Ursa Menor já obteve o seu ursinho de outra pessoa!"
+    "value": "Ursa Menor já obteve o seu ursinho de outra pessoa!",
+    "path": "/scriptConfig/failConditions/0/failureText"
+  },
+  {
+    "op": "replace",
+    "value": "Ursa Menor está feliz agora! Obrigado, agora eu posso terminar a abertura da loja.",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "Meu Ursa Menor perdeu seu amado ^orange;teddy bear^white;. Eu não posso terminar a criação da loja com ele assim - você pode me ajudar a ^green;conseguir um novo teddy bear^white; para ele, por favor?",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "^green;O Ursinho Perdido",
+    "path": "/title"
   }
 ]

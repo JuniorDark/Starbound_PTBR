@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Peitoral do traje de Pinguim."}, {"op": "replace", "path": "/shortdescription", "value": "Penguin Suit Chest"}]
+[
+  {
+    "op": "replace",
+    "value": "Penguin Suit Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Peitoral do traje de Pinguim.",
+    "path": "/description"
+  }
+]

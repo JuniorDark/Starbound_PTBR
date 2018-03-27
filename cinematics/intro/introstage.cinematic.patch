@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/panels/26/text", "value": "Hoje, em nome da paz, nós damos as boas-vindas aos nossos mais novos compatriotas, e presenteamos eles com a nossa melhor ferramenta..."}, {"op": "replace", "path": "/panels/27/text", "value": "O ^orange;Manipulador de Matéria^white;."}, {"op": "replace", "path": "/panels/28/text", "value": "Hã? O que foi isso?"}, {"op": "replace", "path": "/panels/30/text", "value": "Ma- Mas que..."}, {"op": "replace", "path": "/panels/33/text", "value": "Você, Graduado! Pegue o Manipulador e corra! Vá para um lugar seguro!"}, {"op": "replace", "path": "/panels/23/text", "value": "Meus companheiros Protetores... Hoje nos reunimos para testemunhar o Protetorado crescer."}, {"op": "replace", "path": "/panels/24/text", "value": "Por mais de 500 anos aguentamos firmes aqui na Terra, reunindo raças de todos os tipos em nome da paz."}, {"op": "replace", "path": "/panels/25/text", "value": "Nossa tarefa: proteger os nossos semelhantes; apoiar, abrigar, e educar aqueles que procuram a nossa ajuda, e promover o acordo entre aqueles que aspiram a isso."}]
+[
+  {
+    "op": "replace",
+    "value": "Por mais de 500 anos aguentamos firmes aqui na Terra, reunindo raças de todos os tipos em nome da paz.",
+    "path": "/panels/24/text"
+  },
+  {
+    "op": "replace",
+    "value": "Hã? O que foi isso?",
+    "path": "/panels/28/text"
+  },
+  {
+    "op": "replace",
+    "value": "Meus companheiros Protetores... Hoje nos reunimos para testemunhar o Protetorado crescer.",
+    "path": "/panels/23/text"
+  },
+  {
+    "op": "replace",
+    "value": "Nossa tarefa: proteger os nossos semelhantes; apoiar, abrigar, e educar aqueles que procuram a nossa ajuda, e promover o acordo entre aqueles que aspiram a isso.",
+    "path": "/panels/25/text"
+  },
+  {
+    "op": "replace",
+    "value": "O ^orange;Manipulador de Matéria^white;.",
+    "path": "/panels/27/text"
+  },
+  {
+    "op": "replace",
+    "value": "Hoje, em nome da paz, nós damos as boas-vindas aos nossos mais novos compatriotas, e presenteamos eles com a nossa melhor ferramenta...",
+    "path": "/panels/26/text"
+  },
+  {
+    "op": "replace",
+    "value": "Ma- Mas que...",
+    "path": "/panels/30/text"
+  },
+  {
+    "op": "replace",
+    "value": "Você, Graduado! Pegue o Manipulador e corra! Vá para um lugar seguro!",
+    "path": "/panels/33/text"
+  }
+]

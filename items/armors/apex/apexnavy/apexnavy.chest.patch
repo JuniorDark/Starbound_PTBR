@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma jaqueta da marinha Apex edição padrão."}, {"op": "replace", "path": "/shortdescription", "value": "Navy Jacket"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma jaqueta da marinha Apex edição padrão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Navy Jacket",
+    "path": "/shortdescription"
+  }
+]

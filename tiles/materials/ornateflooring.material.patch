@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran se sente chique caminhando em chão ornamentado."}, {"op": "replace", "path": "/description", "value": "Piso ornamentado agradável."}, {"op": "replace", "path": "/shortdescription", "value": "Ornate Flooring"}, {"op": "replace", "path": "/novakidDescription", "value": "Alguns pisos ornamentados chique."}, {"op": "replace", "path": "/glitchDescription", "value": "Encantado. Um belo piso de madeira ornamentado."}]
+[
+  {
+    "op": "replace",
+    "value": "Encantado. Um belo piso de madeira ornamentado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Piso ornamentado agradável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran se sente chique caminhando em chão ornamentado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ornate Flooring",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns pisos ornamentados chique.",
+    "path": "/novakidDescription"
+  }
+]

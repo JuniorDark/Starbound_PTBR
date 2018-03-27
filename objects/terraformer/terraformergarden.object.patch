@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Lush Terraformer"}, {"op": "replace", "path": "/description", "value": "Transforma o clima de um planeta em um campo verdejante de prados abertos."}]
+[
+  {
+    "op": "replace",
+    "value": "Lush Terraformer",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Transforma o clima de um planeta em um campo verdejante de prados abertos.",
+    "path": "/description"
+  }
+]

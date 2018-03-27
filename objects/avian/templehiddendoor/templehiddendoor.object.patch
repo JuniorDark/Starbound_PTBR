@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Brick Hidden Door"}, {"op": "replace", "path": "/description", "value": "Algo não está certo com estes tijolos."}, {"op": "replace", "path": "/floranDescription", "value": "Tijoloss cheiram diferente de outros tijoloss."}, {"op": "replace", "path": "/glitchDescription", "value": "Suspeito. Algo está escondido aqui."}, {"op": "replace", "path": "/apexDescription", "value": "Alguns desses tijolos estão mal colocados."}, {"op": "replace", "path": "/humanDescription", "value": "Estes tijolos têm um brilho não natural."}, {"op": "replace", "path": "/avianDescription", "value": "Esses tijolos não parecem reais."}, {"op": "replace", "path": "/hylotlDescription", "value": "Algo sobre a forma como estes tijolos são criados é estranho."}, {"op": "replace", "path": "/novakidDescription", "value": "Não sou perito em tijolos, mas há algo suspeito nestes em particular."}]
+[
+  {
+    "op": "replace",
+    "value": "Brick Hidden Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não sou perito em tijolos, mas há algo suspeito nestes em particular.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Suspeito. Algo está escondido aqui.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns destes tijolos estão fora de lugar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algo sobre a forma como esses tijolos foram criados é estranho.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algo não está certo com estes tijolos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esses tijolos não parecem reais.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijoloss cheiram diferente de outros tijoloss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes tijolos têm um brilho não natural.",
+    "path": "/humanDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um barril que você pode vestir!"}, {"op": "replace", "path": "/shortdescription", "value": "Barrel"}]
+[
+  {
+    "op": "replace",
+    "value": "Um barril que você pode vestir!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Barrel",
+    "path": "/shortdescription"
+  }
+]

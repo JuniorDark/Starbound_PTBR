@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Roof Tiles"}, {"op": "replace", "path": "/floranDescription", "value": "Telhass de telhado."}, {"op": "replace", "path": "/glitchDescription", "value": "Atento. Estas telhas de telhado são inclinadas para permitir a chuva escorrer facilmente."}, {"op": "replace", "path": "/novakidDescription", "value": "Estas telhas são perfeitas para fazer um telhado."}, {"op": "replace", "path": "/description", "value": "Telhas resistentes. Sua forma me faz sentir desconfortável."}]
+[
+  {
+    "op": "replace",
+    "value": "Atento. Estas telhas de telhado são inclinadas para permitir a chuva escorrer facilmente.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Roof Tiles",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Telhass de telhado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas telhas são perfeitas para fazer um telhado.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Telhas resistentes. Sua forma me faz sentir desconfortável.",
+    "path": "/description"
+  }
+]

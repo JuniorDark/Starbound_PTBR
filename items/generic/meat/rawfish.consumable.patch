@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um filé de peixe cru... viscoso."}, {"op": "replace", "path": "/shortdescription", "value": "Raw Fish"}]
+[
+  {
+    "op": "replace",
+    "value": "Um filé de peixe cru... viscoso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Raw Fish",
+    "path": "/shortdescription"
+  }
+]

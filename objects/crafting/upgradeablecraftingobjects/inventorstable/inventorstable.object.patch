@@ -1,1 +1,212 @@
-[{"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription", "value": "Posso usar materiais que eu encontrei aqui para criar novas coisas."}, {"op": "replace", "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "^#b9b5b2;Estação de Inovação"}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/floranDescription", "value": "Floran usssa mesa. Faz coisass boass."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/description", "value": "A mesa do inventor é usada para produzir várias estações de fabricação."}, {"op": "replace", "path": "/upgradeStages/2/itemSpawnParameters/description", "value": "A mesa do arquiteto é usada para produzir várias estações de fabricação."}, {"op": "replace", "path": "/description", "value": "A mesa do inventor é utilizada para produzir diversas estações de fabricação."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/shortdescription", "value": "^orange;Inventor's Table^white;"}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/shortdescription", "value": "^orange;Engineer's Table^white;"}, {"op": "replace", "path": "/upgradeStages/2/itemSpawnParameters/shortdescription", "value": "^orange;Architect's Table^white;"}, {"op": "replace", "path": "/shortdescription", "value": "^orange;Inventor's Table^white;"}, {"op": "replace", "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title", "value": "Mesa do Inventor"}, {"op": "replace", "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title", "value": "Mesa do Engenheiro"}, {"op": "replace", "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title", "value": "Mesa do Arquiteto"}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/floranDescription", "value": "Floran usssa mesa. Faz coisass boass."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription", "value": "Inspirado. Módulo de fabricação ativado."}, {"op": "replace", "path": "/upgradeStages/2/itemSpawnParameters/floranDescription", "value": "Floran usssa mesa. Faz coisass boass."}, {"op": "replace", "path": "/floranDescription", "value": "Floran usssa mesa. Faz coisass boass."}, {"op": "replace", "path": "/glitchDescription", "value": "Inspirado. Módulo de fabricação ativado."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/apexDescription", "value": "Uma mesa com um monte de ferramentas de um artesão."}, {"op": "replace", "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription", "value": "Inspirado. Módulo de fabricação ativado."}, {"op": "replace", "path": "/apexDescription", "value": "Uma mesa com um monte de ferramentas de um artesão."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/humanDescription", "value": "Posso usar materiais que eu encontrei aqui para criar novas coisas."}, {"op": "replace", "path": "/upgradeStages/2/itemSpawnParameters/apexDescription", "value": "Uma mesa com um monte de ferramentas de um artesão."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription", "value": "Inspirado. Módulo de fabricação ativado."}, {"op": "replace", "path": "/upgradeStages/2/itemSpawnParameters/humanDescription", "value": "Posso usar materiais que eu encontrei aqui para criar novas coisas."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/apexDescription", "value": "Uma mesa com um monte de ferramentas de um artesão."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/humanDescription", "value": "Posso usar materiais que eu encontrei aqui para criar novas coisas."}, {"op": "replace", "path": "/humanDescription", "value": "Posso usar materiais que eu encontrei aqui para criar novas coisas."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/avianDescription", "value": "Uma chance para mostrar sua habilidade para criar."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription", "value": "Uma chance para criar."}, {"op": "replace", "path": "/upgradeStages/2/itemSpawnParameters/avianDescription", "value": "Uma chance para mostrar sua habilidade para criar."}, {"op": "replace", "path": "/avianDescription", "value": "Uma chance para mostrar sua habilidade para criar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma chance para criar."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/avianDescription", "value": "Uma chance para mostrar sua habilidade para criar."}, {"op": "replace", "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription", "value": "Uma chance para criar."}, {"op": "replace", "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "Estação de Inovação"}, {"op": "replace", "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "Estação de Inovação"}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription", "value": "Uma chance para criar."}, {"op": "replace", "path": "/novakidDescription", "value": "Posso usar materiais que eu encontrei aqui para criar novas coisas."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription", "value": "Posso usar materiais que eu encontrei aqui para criar novas coisas."}, {"op": "replace", "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription", "value": "Posso usar materiais que eu encontrei aqui para criar novas coisas."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/description", "value": "A mesa do engenheiro é usada para produzir várias estações de fabricação."}]
+[
+  {
+    "op": "replace",
+    "value": "Mesa do Inventor",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Estação de Inovação",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Inspirado. Módulo de fabricação ativado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inspirado. Módulo de fabricação ativado.",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inspirado. Módulo de fabricação ativado.",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inspirado. Módulo de fabricação ativado.",
+    "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma chance para criar.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma chance para criar.",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma chance para criar.",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma chance para criar.",
+    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma chance para mostrar sua habilidade para criar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma chance para mostrar sua habilidade para criar.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma chance para mostrar sua habilidade para criar.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma chance para mostrar sua habilidade para criar.",
+    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa com um monte de ferramentas de um artesão.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa com um monte de ferramentas de um artesão.",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa com um monte de ferramentas de um artesão.",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa com um monte de ferramentas de um artesão.",
+    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mesa do Arquiteto",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Mesa do Engenheiro",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Floran usssa mesa. Faz coisass boass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran usssa mesa. Faz coisass boass.",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran usssa mesa. Faz coisass boass.",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran usssa mesa. Faz coisass boass.",
+    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso usar materiais que eu encontrei aqui para criar novas coisas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso usar materiais que eu encontrei aqui para criar novas coisas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso usar materiais que eu encontrei aqui para criar novas coisas.",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso usar materiais que eu encontrei aqui para criar novas coisas.",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso usar materiais que eu encontrei aqui para criar novas coisas.",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso usar materiais que eu encontrei aqui para criar novas coisas.",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso usar materiais que eu encontrei aqui para criar novas coisas.",
+    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso usar materiais que eu encontrei aqui para criar novas coisas.",
+    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estação de Inovação",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Estação de Inovação",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "A mesa do arquiteto é usada para produzir várias estações de fabricação.",
+    "path": "/upgradeStages/2/itemSpawnParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "A mesa do engenheiro é usada para produzir várias estações de fabricação.",
+    "path": "/upgradeStages/1/itemSpawnParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "A mesa do inventor é utilizada para produzir diversas estações de fabricação.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A mesa do inventor é utilizada para produzir diversas estações de fabricação.",
+    "path": "/upgradeStages/0/itemSpawnParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Architect's Table^white;",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Engineer's Table^white;",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Inventor's Table^white;",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Inventor's Table^white;",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription"
+  }
+]

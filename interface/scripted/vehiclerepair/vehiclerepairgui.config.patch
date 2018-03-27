@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/gui/chipCostDescription/value", "value": "CHIPS NECESSÁRIOS"}, {"op": "replace", "path": "/gui/windowtitle/title", "value": "Rob Repairo"}, {"op": "replace", "path": "/gui/emptyLabel/value", "value": "Você não tem nenhum veiculo para reparar!"}, {"op": "replace", "path": "/gui/windowtitle/subtitle", "value": "Repare seus veículos aqui!"}, {"op": "replace", "path": "/gui/chipCost/value", "value": "0/ --"}, {"op": "replace", "path": "/gui/repairButton/caption", "value": "Reparar"}, {"op": "replace", "path": "/gui/cancel/caption", "value": "Cancelar"}]
+[
+  {
+    "op": "replace",
+    "value": "Cancelar",
+    "path": "/gui/cancel/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Replace Me",
+    "path": "/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value"
+  },
+  {
+    "op": "replace",
+    "value": "0 / --",
+    "path": "/gui/chipCost/value"
+  },
+  {
+    "op": "replace",
+    "value": "Repare seus veículos aqui!",
+    "path": "/gui/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Rob Repairo",
+    "path": "/gui/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "CHIPS NECESSÁRIOS",
+    "path": "/gui/chipCostDescription/value"
+  },
+  {
+    "op": "replace",
+    "value": "Reparar",
+    "path": "/gui/repairButton/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Você não tem nenhum veiculo para reparar!",
+    "path": "/gui/emptyLabel/value"
+  }
+]

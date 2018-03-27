@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um protótipo de corpo de mecha aberto, projetado para pilotos Novakid."
+    "value": "Um protótipo de corpo de mecha aberto, projetado para pilotos Novakid.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Marshal-00 Mech Body",
+    "path": "/shortdescription"
   }
 ]

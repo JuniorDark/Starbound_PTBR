@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Isto ilumina o quarto muito bem."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma fonte de luz útil."}, {"op": "replace", "path": "/avianDescription", "value": "Esta lanterna básica vai iluminar até mesmo o quarto mais escuro"}, {"op": "replace", "path": "/humanDescription", "value": "Uma lanterna arrumada e resistente."}, {"op": "replace", "path": "/apexDescription", "value": "Nada chique, mas serve ao seu propósito."}, {"op": "replace", "path": "/floranDescription", "value": "Lanterna sssegura para Floran."}, {"op": "replace", "path": "/shortdescription", "value": "Titanium Light"}, {"op": "replace", "path": "/description", "value": "Uma luz de titânio brilhante."}, {"op": "replace", "path": "/glitchDescription", "value": "Admiração. Uma lanterna robusta."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma fonte de luz útil.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fonte de luz bem feita.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lanterna arrumada e resistente.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Admiração. Uma lanterna robusta.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lanterna sssegura para Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto ilumina o quarto muito bem.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lanterna básica vai iluminar até mesmo o quarto mais escuro",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz de titânio brilhante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Titanium Light",
+    "path": "/shortdescription"
+  }
+]

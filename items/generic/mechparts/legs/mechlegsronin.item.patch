@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um conjunto de alta qualidade de pernas de mecha projetadas para altura máxima de pulo."
+    "value": "Um conjunto de pernas de mecha de alta qualidade projetadas para altura máxima de pulo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ronin Mech Legs",
+    "path": "/shortdescription"
   }
 ]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Apenas uma porta simples, serve ao seu proposito, eu acho."}, {"op": "replace", "path": "/description", "value": "Uma porta de tungstênio básica."}, {"op": "replace", "path": "/shortdescription", "value": "Tungsten Door"}, {"op": "replace", "path": "/floranDescription", "value": "Floran se esconde atrás da porta. Pula fora. Essfaqueia!"}, {"op": "replace", "path": "/glitchDescription", "value": "Aprovação. Uma porta útil e básica."}, {"op": "replace", "path": "/apexDescription", "value": "Esta porta é relativamente segura."}, {"op": "replace", "path": "/humanDescription", "value": "Uma porta de tungstênio resistente."}, {"op": "replace", "path": "/avianDescription", "value": "Bastante resistente para uma porta básica."}, {"op": "replace", "path": "/novakidDescription", "value": "Apenas uma porta, serve ao seu proposito, eu acho."}]
+[
+  {
+    "op": "replace",
+    "value": "Floran se esconde atrás de porta. Pular fora. Essfaqueia!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aprovação. Uma porta útil e básica.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bastante resistente para uma porta básica.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas uma porta simples, serve ao seu proposito, eu acho.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta é relativamente segura.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta de tungstênio básica.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta de tungstênio resistente.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas uma porta, serve ao seu proposito, eu acho.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tungsten Door",
+    "path": "/shortdescription"
+  }
+]

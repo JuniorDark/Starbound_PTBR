@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Uma peça de xadrez. A Miniknog não permite jogos de xadrez."}, {"op": "replace", "path": "/avianDescription", "value": "Algum tipo de estátua decorativa, talvez?"}, {"op": "replace", "path": "/floranDescription", "value": "Estátua estranha. O que é isso?"}, {"op": "replace", "path": "/description", "value": "Um cavalo branco de um conjunto de xadrez gigante."}, {"op": "replace", "path": "/shortdescription", "value": "White Stone Knight"}, {"op": "replace", "path": "/humanDescription", "value": "Uma peça de xadrez enorme."}, {"op": "replace", "path": "/hylotlDescription", "value": "Parece uma grande peça de jogo. Os Hylotl curtem muitos jogos de tabuleiro."}, {"op": "replace", "path": "/novakidDescription", "value": "Qualquer jogo que isso seja parece muito sem graça."}, {"op": "replace", "path": "/glitchDescription", "value": "Sentimental. A nobreza Glitch aprender a jogar xadrez desde novo. Eles jogam em grandes tabuleiros ao ar livre."}]
+[
+  {
+    "op": "replace",
+    "value": "Um cavalo branco de um conjunto de xadrez gigante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "White Stone Knight",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma peça de xadrez. A Miniknog não permite jogos de xadrez.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma peça de xadrez enorme.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece uma grande peça de jogo. Os Hylotl curtem muitos jogos de tabuleiro.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sentimental. A nobreza Glitch aprende a jogar xadrez desde novo. Eles jogam em grandes tabuleiros ao ar livre.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de estátua decorativa, talvez?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estátua estranha. O que é isso?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Qualquer jogo que isso seja parece muito sem graça.",
+    "path": "/novakidDescription"
+  }
+]

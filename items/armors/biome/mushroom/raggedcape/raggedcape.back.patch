@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma capa esfarrapada, perfeita para uma aventura!"}, {"op": "replace", "path": "/shortdescription", "value": "Ragged Cape"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma capa esfarrapada, perfeita para uma aventura!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ragged Cape",
+    "path": "/shortdescription"
+  }
+]

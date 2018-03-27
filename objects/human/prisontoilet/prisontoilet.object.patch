@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Parece que alguém teve uma noite difícil."}, {"op": "replace", "path": "/shortdescription", "value": "Dirty Toilet"}, {"op": "replace", "path": "/apexDescription", "value": "Nós Apex estamos acostumados a terríveis condições como esta."}, {"op": "replace", "path": "/humanDescription", "value": "Nada que um pouco de água sanitária e napalm não resolva."}, {"op": "replace", "path": "/avianDescription", "value": "Eu acho que irei em outro lugar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Nunca na minha vida vi um desprezo tão grotesco pela higiene básica."}, {"op": "replace", "path": "/floranDescription", "value": "Assento fedorento! Eca!"}, {"op": "replace", "path": "/glitchDescription", "value": "Com nojo. Não tenho palavras."}, {"op": "replace", "path": "/novakidDescription", "value": "Ninguém gosta de limpar, mas isso é além de razoável."}]
+[
+  {
+    "op": "replace",
+    "value": "Dirty Toilet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Com nojo. Não tenho palavras.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu acho que irei em outro lugar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que alguém teve uma noite difícil.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Nunca na minha vida vi um desprezo tão grotesco pela higiene básica.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ninguém gosta de limpar, mas isso é além de razoável.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nada que um pouco de água sanitária e napalm não resolva.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Assento fedorento! Eca!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nós Apex estamos acostumados a terríveis condições como esta.",
+    "path": "/apexDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um baú mole e carnudo. Para armazenar coisas dentro."}, {"op": "replace", "path": "/floranDescription", "value": "Floran essfaqueia baú abre."}, {"op": "replace", "path": "/shortdescription", "value": "Flesh Chest"}, {"op": "replace", "path": "/glitchDescription", "value": "Repulsado. Que baú vil."}, {"op": "replace", "path": "/apexDescription", "value": "A natureza repulsiva deste baú é um grande anti-roubo."}, {"op": "replace", "path": "/humanDescription", "value": "Nojento. Ah bem, vamos abrir."}, {"op": "replace", "path": "/avianDescription", "value": "Nem tenho certeza se quero abri-lo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um baú doentio."}, {"op": "replace", "path": "/novakidDescription", "value": "Até cheira a carne crua. Doentio, eu te digo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um baú doentio.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú mole e carnudo. Para armazenar coisas dentro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Flesh Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran essfaqueia baú abre.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nojento. Ah bem, vamos abrir.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Até cheira a carne crua. Doentio, eu te digo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nem tenho certeza se quero abri-lo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Repulsado. Que baú vil.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A natureza repulsiva deste baú é um grande anti-roubo.",
+    "path": "/apexDescription"
+  }
+]

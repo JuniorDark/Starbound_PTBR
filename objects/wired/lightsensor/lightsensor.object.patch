@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Ativa o nódulo inferior em luz fraca e o nódulo superior em luz brilhante."}, {"op": "replace", "path": "/shortdescription", "value": "Light Sensor"}, {"op": "replace", "path": "/glitchDescription", "value": "Pensativo. Ativa o nódulo inferior em luz fraca e o nódulo superior em luz brilhante."}, {"op": "replace", "path": "/floranDescription", "value": "Ativa o nódulo inferior em luz fraca e o nódulo superior em luz brilhante."}]
+[
+  {
+    "op": "replace",
+    "value": "Ativa o nódulo inferior em luz fraca e o nódulo superior em luz brilhante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ativa o nódulo inferior em luz fraca e o nódulo superior em luz brilhante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Light Sensor",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pensativo. Ativa o nódulo inferior em luz fraca e o nódulo superior em luz brilhante.",
+    "path": "/glitchDescription"
+  }
+]

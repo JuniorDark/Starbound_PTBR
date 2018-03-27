@@ -1,17 +1,17 @@
 [
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "Como estudiosos, nós obedecemos a este pacto: para reunir conhecimento e assumir o seu peso. Para estudar o que se passou, a fim de se lembrar. Para atuar como diretores, e como mordomos.\n\nEste é o nosso juramento solene, que nós não vamos desobedecer; pois o conhecimento é verdade, e a verdade é iluminação."
+    "value": "Um juramento feito por estudiosos Hylotl.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "O Juramento do Estudante"
+    "value": "Como estudiosos, nós obedecemos a este pacto: para reunir conhecimento e assumir o seu peso. Para estudar o que se passou, a fim de se lembrar. Para atuar como diretores, e como mordomos.\n\nEste é o nosso juramento solene, que nós não vamos desobedecer; pois o conhecimento é verdade, e a verdade é iluminação.",
+    "path": "/contentPages/0"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um juramento feito por estudiosos Hylotl."
+    "value": "O Juramento do Estudante",
+    "path": "/title"
   }
 ]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um pequeno urso de pelúcia fofo."}, {"op": "replace", "path": "/shortdescription", "value": "Teddy Bear"}, {"op": "replace", "path": "/floranDescription", "value": "Brinquedo macio está encarando Floran."}, {"op": "replace", "path": "/glitchDescription", "value": "Feliz. Este urso é tão suave e macio!"}, {"op": "replace", "path": "/apexDescription", "value": "Um adorável urso fofinho."}, {"op": "replace", "path": "/humanDescription", "value": "Eu só quero abraçar este urso para sempre."}, {"op": "replace", "path": "/avianDescription", "value": "Um urso de brinquedo bonitinho e fofinho."}, {"op": "replace", "path": "/hylotlDescription", "value": "Eeee! Um maravilhoso urso de pelúcia. Eu adoro!"}, {"op": "replace", "path": "/novakidDescription", "value": "Esse carinha é muito bonito, eu acho."}]
+[
+  {
+    "op": "replace",
+    "value": "Um urso de brinquedo bonitinho e fofinho.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pequeno urso de pelúcia fofo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Eeee! Um maravilhoso urso de pelúcia. Eu adoro!",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Feliz. Este urso é tão suave e macio!",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Teddy Bear",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um adorável urso fofinho.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Brinquedo macio está encarando Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu só quero abraçar este urso para sempre.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse carinha é muito fofo, eu acho.",
+    "path": "/novakidDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Luvas resistentes, feitas para fazer justiça."}, {"op": "replace", "path": "/shortdescription", "value": "Executioner's Gloves"}]
+[
+  {
+    "op": "replace",
+    "value": "Executioner's Gloves",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luvas resistentes, feitas para fazer justiça.",
+    "path": "/description"
+  }
+]

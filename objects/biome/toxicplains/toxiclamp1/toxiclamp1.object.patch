@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma flor que funciona como uma lâmpada. Como um girassol, mas não."}, {"op": "replace", "path": "/shortdescription", "value": "Toxic Lamp"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de planta. Planta faz fogo ssseguro."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Esta luz parece ser totalmente alimentada por energia solar."}, {"op": "replace", "path": "/apexDescription", "value": "Esta é uma idéia encantadora para uma lâmpada."}, {"op": "replace", "path": "/humanDescription", "value": "Uma flor alimentada. Heh."}, {"op": "replace", "path": "/avianDescription", "value": "Quando ligada, esta flor emite um brilho etéreo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma idéia interessante para uma lâmpada."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma lâmpada bonita."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma flor que funciona como uma lâmpada. Como um girassol, mas não.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma flor alimentada. Heh.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada bonita.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma idéia interessante para uma lâmpada.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de planta. Planta faz fogo ssseguro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Esta luz parece ser totalmente alimentada por energia solar.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é uma idéia encantadora para uma lâmpada.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quando ligada, esta flor emite um brilho etéreo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Toxic Lamp",
+    "path": "/shortdescription"
+  }
+]

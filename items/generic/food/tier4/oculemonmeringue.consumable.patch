@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma torta cheia de oculemon azedo com uma cobertura de merengue doce."}, {"op": "replace", "path": "/shortdescription", "value": "Oculemon Meringue"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma torta cheia de oculemon azedo com uma cobertura de merengue doce.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Oculemon Meringue",
+    "path": "/shortdescription"
+  }
+]

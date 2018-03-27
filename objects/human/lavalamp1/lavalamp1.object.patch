@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Esta lâmpada exige ser encarada."}, {"op": "replace", "path": "/shortdescription", "value": "Lava Lamp"}, {"op": "replace", "path": "/apexDescription", "value": "Uma lâmpada hipnotizante."}, {"op": "replace", "path": "/description", "value": "É fascinante. Não consigo desviar o olhar."}, {"op": "replace", "path": "/hylotlDescription", "value": "A forma como o líquido flui e o fluxo me deixa nostálgico."}, {"op": "replace", "path": "/floranDescription", "value": "Essa lâmpada está viva? Tem movimentos internos!"}, {"op": "replace", "path": "/glitchDescription", "value": "Calmo. Este líquido se move de forma hipnotizante."}, {"op": "replace", "path": "/humanDescription", "value": "Faz-me lembrar um pesadelo que tive."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta lâmpada parece como eu me sinto. Peculiar."}]
+[
+  {
+    "op": "replace",
+    "value": "É fascinante. Não posso desviar o olhar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada hipnotizante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Calmo. Este líquido se move de forma hipnotizante.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa lâmpada está viva? Tem movimentos internos!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Faz-me lembrar um pesadelo que tive.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A forma como o líquido flui e o fluxo me deixa nostálgico.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lâmpada exige ser encarada.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lâmpada parece como eu me sinto. Peculiar.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lava Lamp",
+    "path": "/shortdescription"
+  }
+]

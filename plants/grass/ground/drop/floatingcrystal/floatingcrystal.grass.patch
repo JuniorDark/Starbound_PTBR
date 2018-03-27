@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Um misterioso cristal flutuante."}, {"op": "replace", "path": "/shortdescription", "value": "Um misterioso cristal flutuante."}, {"op": "replace", "path": "/floranDescription", "value": "Um brilhante voador."}, {"op": "replace", "path": "/glitchDescription", "value": "Perplexidade. Um cristal flutuante."}]
+[
+  {
+    "op": "replace",
+    "value": "Um misterioso cristal flutuante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um misterioso cristal flutuante.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um brilhante voador.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perplexidade. Um cristal flutuante.",
+    "path": "/glitchDescription"
+  }
+]

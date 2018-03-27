@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "O seu movimento é determinado pelos níveis de temperatura na atmosfera."}, {"op": "replace", "path": "/shortdescription", "value": "Squeem"}]
+[
+  {
+    "op": "replace",
+    "value": "O seu movimento é determinado pelos níveis de temperatura na atmosfera.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Squeem",
+    "path": "/shortdescription"
+  }
+]

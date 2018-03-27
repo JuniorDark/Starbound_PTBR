@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Estas são tábuas de madeira bem trabalhadas."}, {"op": "replace", "path": "/description", "value": "Madeira que foi preparada para construção e fabricação."}, {"op": "replace", "path": "/shortdescription", "value": "Timber"}, {"op": "replace", "path": "/floranDescription", "value": "Tábuass de madeira lascada."}, {"op": "replace", "path": "/apexDescription", "value": "Algumas tábuas de madeira trabalhada."}, {"op": "replace", "path": "/humanDescription", "value": "Algumas tábuas simples feitas de madeira."}, {"op": "replace", "path": "/avianDescription", "value": "Madeira que foi transformada em tábuas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Tábuas de madeira básica."}, {"op": "replace", "path": "/novakidDescription", "value": "Apenas algumas tábuas de madeira básica."}]
+[
+  {
+    "op": "replace",
+    "value": "Tábuas de madeira básica.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas algumas tábuas de madeira básica.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Estas são tábuas de madeira bem trabalhadas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas tábuas de madeira trabalhada.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas tábuas simples feitas de madeira.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tábuass de madeira lascada.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Timber",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Madeira que foi preparada para construção e fabricação.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Madeira que foi transformada em tábuas.",
+    "path": "/avianDescription"
+  }
+]

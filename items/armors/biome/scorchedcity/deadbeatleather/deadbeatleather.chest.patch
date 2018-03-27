@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma jaqueta de couro desgastada, com ombreiras."}, {"op": "replace", "path": "/shortdescription", "value": "Deadbeat Leather Jacket"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma jaqueta de couro desgastada, com ombreiras.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Deadbeat Leather Jacket",
+    "path": "/shortdescription"
+  }
+]

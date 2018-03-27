@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A etiqueta diz, \"É desagradável olhar pra ele. Também é desagradável quando ele olha para você.\""}, {"op": "replace", "path": "/shortdescription", "value": "Oculob Figurine"}]
+[
+  {
+    "op": "replace",
+    "value": "Oculob Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"É desagradável olhar pra ele. Também é desagradável quando ele olha para você.\"",
+    "path": "/description"
+  }
+]

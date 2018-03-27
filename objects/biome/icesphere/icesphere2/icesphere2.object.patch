@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Uma esfera de gelo oco. Como uma bola de cristal."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma esfera, congelada no tempo."}, {"op": "replace", "path": "/description", "value": "Uma esfera gelada. Esmague-a antes que derreta!"}, {"op": "replace", "path": "/shortdescription", "value": "Ice Sphere"}, {"op": "replace", "path": "/floranDescription", "value": "Floran esmaga água redonda."}, {"op": "replace", "path": "/apexDescription", "value": "Uma bola de gelo perfeitamente redonda."}, {"op": "replace", "path": "/humanDescription", "value": "É como uma bolha congelada."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Uma esfera de gelo."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma esfera de gelo oco. Como uma bola de cristal.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bola de gelo perfeitamente redonda.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma esfera, congelada no tempo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma esfera gelada. Esmague-a antes que derreta!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran esmaga água redonda.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ice Sphere",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "É como uma bolha congelada.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Uma esfera de gelo.",
+    "path": "/glitchDescription"
+  }
+]

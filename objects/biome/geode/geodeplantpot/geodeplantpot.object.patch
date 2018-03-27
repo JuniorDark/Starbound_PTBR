@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Confuso. Esta planta desafia tudo o que sei sobre como geodes são formados."}, {"op": "replace", "path": "/shortdescription", "value": "Geode Plant Pot"}, {"op": "replace", "path": "/apexDescription", "value": "As folhas nesta planta são realmente cristais do geodo."}, {"op": "replace", "path": "/humanDescription", "value": "Esta planta esta coberta em pequenos cristais verdes."}, {"op": "replace", "path": "/avianDescription", "value": "Esta planta é tão forte como pedra."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta rocha incomum tem sido cultivada como uma planta."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta planta está brotando cristais por toda parte."}, {"op": "replace", "path": "/floranDescription", "value": "De alguma forma planta e de alguma forma rochass."}, {"op": "replace", "path": "/description", "value": "Uma planta de cristal de geodo em um vaso de flores."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma planta de cristal de geodo em um vaso de flores.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Esta planta desafia tudo o que sei sobre como geodes são formados.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Geode Plant Pot",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "De alguma forma planta e de alguma forma rochass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "As folhas nesta planta são realmente cristais do geodo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta planta é tão forte como pedra.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta planta esta coberta em pequenos cristais verdes.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta planta está brotando cristais por toda parte.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta rocha incomum tem sido cultivada como uma planta.",
+    "path": "/hylotlDescription"
+  }
+]

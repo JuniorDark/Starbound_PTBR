@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Bouncy Ball"}, {"op": "replace", "path": "/description", "value": "Esta bola salta quando jogada."}]
+[
+  {
+    "op": "replace",
+    "value": "Bouncy Ball",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta bola salta quando jogada.",
+    "path": "/description"
+  }
+]

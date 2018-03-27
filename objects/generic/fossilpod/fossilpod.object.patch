@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Fossil Pod"}, {"op": "replace", "path": "/description", "value": "Vamos descobrir o que era aquele fóssil! Coloque no chão e esmagá-lo para abrir!"}]
+[
+  {
+    "op": "replace",
+    "value": "-todo-",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "-todo-",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "-todo-",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "-todo-",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "-todo-",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "-todo-",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fossil Pod",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos descobrir o que era aquele fóssil! Coloque no chão e esmagá-lo para abrir!",
+    "path": "/description"
+  }
+]

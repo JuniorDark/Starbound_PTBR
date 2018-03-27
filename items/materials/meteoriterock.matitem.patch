@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Uma rocha extremamente dura encontrada apenas fora da atmosfera."}, {"op": "replace", "path": "/shortdescription", "value": "Meteorite Rock"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma rocha extremamente dura encontrada apenas fora da atmosfera.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de rochass do céu.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Meteorite Rock",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perceptivo. Esta rocha é de origem extraterrestre.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas rochas espaciais não são como as que estão no chão.",
+    "path": "/novakiddescription"
+  }
+]

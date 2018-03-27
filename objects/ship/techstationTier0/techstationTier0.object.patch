@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Angustiado. Eu preciso primeiro reiniciar esta estação para se comunicar com SAIL."}, {"op": "replace", "path": "/shortdescription", "value": "S.A.I.L"}, {"op": "replace", "path": "/description", "value": "Ship-based Artificial Intelligence Lattice, ou S.A.I.L abreviado."}, {"op": "replace", "path": "/floranDescription", "value": "Floran conserta esse painel para acordar a nave!"}, {"op": "replace", "path": "/apexDescription", "value": "Quando isso estiver funcionando, eu posso falar com SAIL através deste console."}, {"op": "replace", "path": "/humanDescription", "value": "Se eu puder reiniciar esta estação SAIL ela deve voltar a funcionar!"}, {"op": "replace", "path": "/avianDescription", "value": "Reiniciando esta estação deve me permitir falar com SAIL."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este console me permite se comunicar com SAIL. Eu preciso reiniciá-lo primeiro."}, {"op": "replace", "path": "/novakidDescription", "value": "Hora de reiniciar esta estação para que eu possa falar com SAIL."}]
+[
+  {
+    "op": "replace",
+    "value": "S.A.I.L",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ship-based Artificial Intelligence Lattice, ou S.A.I.L abreviado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Angustiado. Eu preciso primeiro reiniciar esta estação para se comunicar com SAIL.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran conserta esse painel para acordar a nave!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se eu puder reiniciar esta estação SAIL ela deve voltar a funcionar!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Reiniciando esta estação deve me permitir falar com SAIL.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este console me permite se comunicar com SAIL. Eu preciso reiniciá-lo primeiro.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hora de reiniciar esta estação para que eu possa falar com SAIL.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quando isso estiver funcionando, eu posso falar com SAIL através deste console.",
+    "path": "/apexDescription"
+  }
+]

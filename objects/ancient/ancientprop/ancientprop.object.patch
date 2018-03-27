@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/description", "value": "Um suporte temporário."}, {"op": "replace", "path": "/shortdescription", "value": "TODO - Ancient Prop"}, {"op": "replace", "path": "/floranDescription", "value": "Um suporte temporário."}, {"op": "replace", "path": "/glitchDescription", "value": "Um suporte temporário."}, {"op": "replace", "path": "/apexDescription", "value": "Um suporte temporário."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um suporte temporário."}, {"op": "replace", "path": "/humanDescription", "value": "Um suporte temporário."}, {"op": "replace", "path": "/avianDescription", "value": "Um suporte temporário."}]
+[
+  {
+    "op": "replace",
+    "value": "Um suporte temporário.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um suporte temporário.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um suporte temporário.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um suporte temporário.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um suporte temporário.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um suporte temporário.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um suporte temporário.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO - Ancient Prop",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Solarium Ore"}, {"op": "replace", "path": "/description", "value": "É solarium. É quente ao toque."}]
+[
+  {
+    "op": "replace",
+    "value": "É solarium. É quente ao toque.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Solarium Ore",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Parece com um alho-poró grande e robusto. Ele sangra quando você cortá-lo, entretanto."}, {"op": "replace", "path": "/shortdescription", "value": "Bulbop"}]
+[
+  {
+    "op": "replace",
+    "value": "Bulbop",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece com um alho-poró grande e robusto. Ele sangra quando você cortá-lo, entretanto.",
+    "path": "/description"
+  }
+]

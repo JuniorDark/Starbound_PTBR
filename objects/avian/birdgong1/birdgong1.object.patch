@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um grande gongo de metal. É tão tentador dar um tapa!"}, {"op": "replace", "path": "/glitchDescription", "value": "Divertido. Este tom deste gongo ecoa alto."}, {"op": "replace", "path": "/apexDescription", "value": "Golpear este gongo faz um som profundo."}, {"op": "replace", "path": "/humanDescription", "value": "É tão difícil resistir ao desejo de bater neste gongo."}, {"op": "replace", "path": "/avianDescription", "value": "Estes gongos são usados em templos para chamar Avians para rezar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Imagino que um gongo debaixo do oceano soaria bem diferente."}, {"op": "replace", "path": "/shortdescription", "value": "Large Gong"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não gosta do barulho do homem-pássaro."}, {"op": "replace", "path": "/novakidDescription", "value": "Aposto que bater nisso faz um sem e tanto."}]
+[
+  {
+    "op": "replace",
+    "value": "Um grande gongo de metal. É tão tentador dar um tapa!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Divertido. Este tom deste gongo ecoa alto.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não gosta do barulho do homem-pássaro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Imagino que um gongo debaixo do oceano soaria bem diferente.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aposto que bater nisso faz um sem e tanto.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É tão difícil resistir ao desejo de bater neste gongo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Large Gong",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Golpear este gongo faz um som profundo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes gongos são usados em templos para chamar Avians para rezar.",
+    "path": "/avianDescription"
+  }
+]

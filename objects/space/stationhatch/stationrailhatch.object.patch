@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma grande escotilha elegante que possui um conector de trilho incorporado para uso com elevadores."
+    "value": "Uma escotilha bastante impressionante. Surpreendentemente, eu me encontro aprovando isso.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Uma escotilha metálica lustrosa. Eu aprecio seu design pontudo."
+    "value": "Uma escotilha metálica lustrosa. Eu aprecio seu design pontudo.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Esta é uma escotilha de metal bastante bem feita!"
+    "value": "Esscotilha parece afiada. Floran consssiderando escotilha como arma potencial.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Esscotilha parece afiada. Floran consssiderando escotilha como arma potencial."
+    "value": "Remanescente. O design angular desta escotilha me lembra os tradicionais estandartes Glitch.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Remanescente. O design angular desta escotilha me lembra os tradicionais estandartes Glitch."
+    "value": "Esta escotilha provavelmente poderia levar alguns golpes, para dizer o mínimo.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Esta escotilha provavelmente poderia levar alguns golpes, para dizer o mínimo."
+    "value": "Esta escotilha aqui parece que pode durar uma tempestade ou duas.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Uma escotilha bastante impressionante. Surpreendentemente, eu me encontro aprovando isso."
+    "value": "Esta é uma escotilha de metal bastante bem feita!",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Esta escotilha aqui parece que pode durar uma tempestade ou duas."
+    "value": "Uma grande escotilha elegante que possui um conector de trilho incorporado para uso com elevadores.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Station Rail Hatch",
+    "path": "/shortdescription"
   }
 ]

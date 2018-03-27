@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma bomba hidráulica pressuriza a água nesta arma de plástico."}, {"op": "replace", "path": "/shortdescription", "value": "Squirt Gun"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma bomba hidráulica pressuriza a água nesta arma de plástico.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Squirt Gun",
+    "path": "/shortdescription"
+  }
+]

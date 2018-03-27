@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Tomb Brick"}, {"op": "replace", "path": "/description", "value": "Tijolos empoeirados e antigos."}]
+[
+  {
+    "op": "replace",
+    "value": "Tijoloss velhos empoeiradoss.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijolos empoeirados e antigos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas alguns tijolos empoeirados.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Uma inspeção mais próxima sugere que esses tijolos são bastante antigos.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tomb Brick",
+    "path": "/shortdescription"
+  }
+]

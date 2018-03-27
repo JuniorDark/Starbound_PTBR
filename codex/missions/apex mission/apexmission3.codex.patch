@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Um relatório interno da Miniknog sobre bases rebeldes."}, {"op": "replace", "path": "/title", "value": "Relatório Sobre Bases Rebeldes"}, {"op": "replace", "path": "/contentPages/0", "value": "Agora nós não temos sido capazes de determinar se existem colônias Apex que estão livres da atividade rebelde.\n\nHá rebeldes em todos os mundos ocupados pelos Apex, e o movimento é especialmente prevalente em nossas grandes cidades; a inteligência conseguiu estabelecer que existem várias zonas em cidades tem a sua própria base de operações rebeldes."}, {"op": "replace", "path": "/contentPages/1", "value": "Variações de atividade - algumas células se limitam a difusão subterrânea de propaganda ilegal, enquanto outros participam em atos de sabotagem agressiva e, como sabemos, tudo fora da guerra."}]
+[
+  {
+    "op": "replace",
+    "value": "Um relatório interno da Miniknog sobre bases rebeldes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Variações de atividade - algumas células se limitam a difusão subterrânea de propaganda ilegal, enquanto outros participam em atos de sabotagem agressiva e, como sabemos, tudo fora da guerra.",
+    "path": "/contentPages/1"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório Sobre Bases Rebeldes",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Agora nós não temos sido capazes de determinar se existem colônias Apex que estão livres da atividade rebelde.\n\nHá rebeldes em todos os mundos ocupados pelos Apex, e o movimento é especialmente prevalente em nossas grandes cidades; a inteligência conseguiu estabelecer que existem várias zonas em cidades tem a sua própria base de operações rebeldes.",
+    "path": "/contentPages/0"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Rock Bricks"}, {"op": "replace", "path": "/floranDescription", "value": "Pedrass empilhadass."}, {"op": "replace", "path": "/glitchDescription", "value": "Não impressionado. Estas são simplesmente pedras empilhadas como tijolos."}, {"op": "replace", "path": "/novakidDescription", "value": "Isso não é nada mais do que uma pilha de pedras."}, {"op": "replace", "path": "/description", "value": "Uma produção crua de tijolos de pedra."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma produção crua de tijolos de pedra.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Rock Bricks",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedrass empilhadass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso não é nada mais do que uma pilha de pedras.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não impressionado. Estas são simplesmente pedras empilhadas como tijolos.",
+    "path": "/glitchDescription"
+  }
+]

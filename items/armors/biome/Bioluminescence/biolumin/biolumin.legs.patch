@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma calça luminescente - não pise mais com cuidado!"}, {"op": "replace", "path": "/shortdescription", "value": "Glow Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Glow Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma calça luminescente - não pise mais com cuidado!",
+    "path": "/description"
+  }
+]

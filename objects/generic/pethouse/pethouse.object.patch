@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Grande o suficiente para um pequeno animal caber confortavelmente dentro."}, {"op": "replace", "path": "/shortdescription", "value": "Pet House"}, {"op": "replace", "path": "/floranDescription", "value": "Ssserpente de Floran vive geralmente na grama alta. Casa de pet não natural."}, {"op": "replace", "path": "/glitchDescription", "value": "Feliz. Este canil serviria para meu leitão premiado."}, {"op": "replace", "path": "/apexDescription", "value": "Lar doce lar para um animal de estimação amado."}, {"op": "replace", "path": "/humanDescription", "value": "Apenas um outro presente pensativo para meu companheiro felino ingrato ignorar."}, {"op": "replace", "path": "/avianDescription", "value": "Algum tipo de casa pequena para uma criatura. Aposto que meu coelho iria adorar!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta não é uma casa convencional para um crasberry, mas vai servir."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma casa de pet! Um pouco apertada, mas quem está reclamando?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma casa de pet! Um pouco apertada, mas quem está reclamando?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ssserpente de Floran vive geralmente na grama alta. Casa de pet não natural.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Feliz. Este canil serviria para meu leitão premiado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lar doce lar para um animal de estimação amado.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas um outro presente pensativo para meu companheiro felino ingrato ignorar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grande o suficiente para um pequeno animal caber confortavelmente dentro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pet House",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de casa pequena para uma criatura. Aposto que meu coelho iria adorar!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta não é uma casa convencional para um crasberry, mas vai servir.",
+    "path": "/hylotlDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um armário mórbido, para armazenar livros e outras coisas."}, {"op": "replace", "path": "/shortdescription", "value": "Gothic Bookcase"}, {"op": "replace", "path": "/floranDescription", "value": "Livrosss muito chatos. Desperdício de árvoresss."}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Me pergunto que coisas estão escritas nesses livros empoeirados?"}, {"op": "replace", "path": "/apexDescription", "value": "A natureza aberta desta estante significa que não é muito segura."}, {"op": "replace", "path": "/humanDescription", "value": "Isto parece estar cheio de romances de vampiros..."}, {"op": "replace", "path": "/avianDescription", "value": "Eu não posso dizer que eu gosto da aparência desta estante de livros triste."}, {"op": "replace", "path": "/novakidDescription", "value": "Sinto que isso seria mais puro sem o acabamento preto."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os livros são a fonte de todo o conhecimento! Talvez não esses livros de vampiros, no entanto."}]
+[
+  {
+    "op": "replace",
+    "value": "Um armário mórbido, para armazenar livros e outras coisas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Os livros são a fonte de todo o conhecimento! Talvez não esses livros de vampiros, no entanto.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Livrosss muito chatos. Desperdício de árvoresss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gothic Bookcase",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não posso dizer que eu gosto da aparência desta estante de livros triste.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sinto que isso seria mais puro sem o acabamento preto.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Me pergunto que coisas estão escritas nesses livros empoeirados?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A natureza aberta desta estante significa que não é muito segura.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto parece estar cheio de romances de vampiros...",
+    "path": "/humanDescription"
+  }
+]

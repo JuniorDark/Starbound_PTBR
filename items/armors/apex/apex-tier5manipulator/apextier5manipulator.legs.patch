@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Estas calças flexíveis são temperadas com ferozium, assim o utilizador será rápido, silencioso e seguro."}, {"op": "replace", "path": "/shortdescription", "value": "Spy's Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Spy's Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas calças flexíveis são temperadas com ferozium, assim o utilizador será rápido, silencioso e seguro.",
+    "path": "/description"
+  }
+]

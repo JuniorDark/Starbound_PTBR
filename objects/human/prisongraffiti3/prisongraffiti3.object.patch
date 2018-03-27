@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Oh, esses palhaços."}, {"op": "replace", "path": "/hylotlDescription", "value": "Talvez eu deva seguir o conselho."}, {"op": "replace", "path": "/description", "value": "Graffiti. Um aviso severo. Ignore isto."}, {"op": "replace", "path": "/shortdescription", "value": "Graffiti"}, {"op": "replace", "path": "/avianDescription", "value": "Tenho certeza que é só uma piada."}, {"op": "replace", "path": "/glitchDescription", "value": "Alarmado. Um aviso severo."}, {"op": "replace", "path": "/apexDescription", "value": "\"Saia enquanto você ainda pode\". Como eu sei quando isso expira?"}, {"op": "replace", "path": "/novakidDescription", "value": "Um aviso de alguém. Vou manter isso em mente."}, {"op": "replace", "path": "/floranDescription", "value": "Floran se pergunta se a pessoa que escreveu isto saiu?"}]
+[
+  {
+    "op": "replace",
+    "value": "\"Saia enquanto você ainda pode\". Como eu sei quando isso expira?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um aviso de alguém. Vou manter isso em mente.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alarmado. Um aviso severo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran se pergunta se a pessoa que escreveu isto saiu?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Graffiti. Um aviso severo. Ignore isto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Tenho certeza que é só uma piada.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Oh, esses palhaços.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez eu deva seguir o conselho.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Graffiti",
+    "path": "/shortdescription"
+  }
+]

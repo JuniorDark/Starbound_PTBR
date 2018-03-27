@@ -1,1 +1,37 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/attack/hylotl/default/2", "value": "Estes oceanos são nossos!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/hylotl/default/3", "value": "Eu espero que você esteja pronto para uma sepultura aquática!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/hylotl/default/1", "value": "Este é o nosso oceano - Você vai se arrepender de vir aqui!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/hylotl/default/0", "value": "Submarinistas rivais! Pegue eles!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/0", "value": "Ataque!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/hylotl/default/5", "value": "Você não pode nos derrotar! Nós governamos estes oceanos!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/hylotl/default/4", "value": "Você vai dormir com os peixes quando acabarmos com você!"}]
+[
+  {
+    "op": "replace",
+    "value": "Atacar!",
+    "path": "/scriptConfig/dialog/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu espero que você esteja pronto para uma sepultura aquática!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Submarinistas rivais! Pegue eles!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Estes oceanos são nossos!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Este é o nosso oceano - Você vai se arrepender de vir aqui!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você não pode nos derrotar! Nós governamos estes oceanos!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Você vai dormir com os peixes quando acabarmos com você!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/4"
+  }
+]

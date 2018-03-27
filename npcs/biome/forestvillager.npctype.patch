@@ -1,1 +1,72 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Eu não tenho nada a dizer para você"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/0", "value": "Coisa essstranha."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/avian/1", "value": "Voarrrrrrrr!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/apex/1", "value": "Floran ajuda homem macaco derrubar mini tora."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/floran/1", "value": "Floran é um grande caçador nesta aldeia."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/apex/0", "value": "Floran gosta de viver na floressta - conhece todas as plantas e todas as trilhas."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/human/1", "value": "Viver com a natureza é a vida para mim!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/hylotl/1", "value": "Vamoss ser amigos!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/avian/0", "value": "Floran gosta de viver na floressta - conhece todas as plantas e todas as trilhas."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/hylotl/0", "value": "Floran gosta de viver na floressta - conhece todas as plantas e todas as trilhas."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/floran/0", "value": "Floran gosta de viver na floressta - conhece todas as plantas e todas as trilhas."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/glitch/0", "value": "Floran gosta de viver na floressta - conhece todas as plantas e todas as trilhas."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/human/0", "value": "Floran gosta de viver na floressta - conhece todas as plantas e todas as trilhas."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/glitch/1", "value": "Você precisa que Floran esfaqueie alguma coisa?"}]
+[
+  {
+    "op": "replace",
+    "value": "Eu não tenho nada a dizer para você",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Coisa essstranha.",
+    "path": "/scriptConfig/dialog/converse/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ajuda homem macaco derrubar mini tora.",
+    "path": "/scriptConfig/dialog/converse/floran/apex/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de viver na floressta - conhece todas as plantas e todas as trilhas.",
+    "path": "/scriptConfig/dialog/converse/floran/apex/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de viver na floressta - conhece todas as plantas e todas as trilhas.",
+    "path": "/scriptConfig/dialog/converse/floran/avian/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de viver na floressta - conhece todas as plantas e todas as trilhas.",
+    "path": "/scriptConfig/dialog/converse/floran/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de viver na floressta - conhece todas as plantas e todas as trilhas.",
+    "path": "/scriptConfig/dialog/converse/floran/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de viver na floressta - conhece todas as plantas e todas as trilhas.",
+    "path": "/scriptConfig/dialog/converse/floran/human/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de viver na floressta - conhece todas as plantas e todas as trilhas.",
+    "path": "/scriptConfig/dialog/converse/floran/hylotl/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran é um grande caçador nesta aldeia.",
+    "path": "/scriptConfig/dialog/converse/floran/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Voarrrrrrrr!",
+    "path": "/scriptConfig/dialog/converse/floran/avian/1"
+  },
+  {
+    "op": "replace",
+    "value": "Vamoss ser amigos!",
+    "path": "/scriptConfig/dialog/converse/floran/hylotl/1"
+  },
+  {
+    "op": "replace",
+    "value": "Viver com a natureza é a vida para mim!",
+    "path": "/scriptConfig/dialog/converse/floran/human/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você precisa que Floran esfaqueie alguma coisa?",
+    "path": "/scriptConfig/dialog/converse/floran/glitch/1"
+  }
+]

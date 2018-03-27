@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/attack/glitch/default/0", "value": "Ameaçador. Eu vou te cortar em pedaços!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/0", "value": "Ataque!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/glitch/default/1", "value": "Agressivo. Você acabou de olhar pra mim rindo?"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/glitch/default/2", "value": "Animado. Estava esperando para experimentar o meu novo machado!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/glitch/default/3", "value": "Destemido. Eu já cortei muitos como você antes!"}]
+[
+  {
+    "op": "replace",
+    "value": "Agressivo. Você acabou de olhar pra mim rindo?",
+    "path": "/scriptConfig/dialog/attack/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Atacar!",
+    "path": "/scriptConfig/dialog/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. Estava esperando para experimentar o meu novo machado!",
+    "path": "/scriptConfig/dialog/attack/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Destemido. Eu já cortei muitos como você antes!",
+    "path": "/scriptConfig/dialog/attack/glitch/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Ameaçador. Eu vou te cortar em pedaços!",
+    "path": "/scriptConfig/dialog/attack/glitch/default/0"
+  }
+]

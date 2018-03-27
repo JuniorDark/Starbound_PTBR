@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Plant Matter"}, {"op": "replace", "path": "/description", "value": "Um bloco feito de matéria vegetal embalada."}]
+[
+  {
+    "op": "replace",
+    "value": "Um bloco feito de matéria vegetal embalada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Maço de plantas e folhas todos triturados juntos.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gossta de plantass.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Matéria vegetal que de alguma forma foi comprimido neste bloco.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plant Matter",
+    "path": "/shortdescription"
+  }
+]

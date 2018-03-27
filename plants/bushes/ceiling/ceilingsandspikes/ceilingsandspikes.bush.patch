@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Estacas amareladas."}, {"op": "replace", "path": "/shortdescription", "value": "Estacas amareladas."}, {"op": "replace", "path": "/floranDescription", "value": "Amarelada e pontuda."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Estacas amareladas."}]
+[
+  {
+    "op": "replace",
+    "value": "Estacas amareladas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estacas amareladas.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Amarelada e pontuda.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Estacas amareladas.",
+    "path": "/glitchDescription"
+  }
+]

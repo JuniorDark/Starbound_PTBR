@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma dessas algemas parece suspeita."}, {"op": "replace", "path": "/shortdescription", "value": "Wall Shackles"}, {"op": "replace", "path": "/apexDescription", "value": "Uma dessas correntes balança estranhamente."}, {"op": "replace", "path": "/humanDescription", "value": "Uma dessas correntes é uma fração menor que a outra."}, {"op": "replace", "path": "/avianDescription", "value": "Uma dessas correntes parece falsa."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma dessas correntes é uma fração maior que a outra."}, {"op": "replace", "path": "/floranDescription", "value": "Floran sssuspeita de corrente estranha!"}, {"op": "replace", "path": "/glitchDescription", "value": "Cético. Uma destas correntes não é feita de ferro."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma dessas correntes é estranha."}]
+[
+  {
+    "op": "replace",
+    "value": "Floran sssuspeita de corrente estranha!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma dessas correntes é uma fração maior que a outra.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma dessas correntes é uma fração menor que a outra.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma dessas correntes é estranha.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma dessas correntes parece falsa.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma dessas correntes balança estranhamente.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma dessas algemas parece suspeita.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cético. Uma destas correntes não é feita de ferro.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wall Shackles",
+    "path": "/shortdescription"
+  }
+]

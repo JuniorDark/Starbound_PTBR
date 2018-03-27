@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Mirror Block"}, {"op": "replace", "path": "/description", "value": "Um espelho que não reflete."}, {"op": "replace", "path": "/floranDescription", "value": "Ssuperfície brilhante."}, {"op": "replace", "path": "/novakidDescription", "value": "Há algo de errado com este espelho. Eu não estou vendo nada sendo refletido."}, {"op": "replace", "path": "/glitchDescription", "value": "Confuso. Embora pareça ser um espelho não há reflexo."}]
+[
+  {
+    "op": "replace",
+    "value": "Ssuperfície brilhante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um espelho que não reflete.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Embora pareça ser um espelho não há reflexo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mirror Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há algo de errado com este espelho. Eu não estou vendo nada sendo refletido.",
+    "path": "/novakidDescription"
+  }
+]

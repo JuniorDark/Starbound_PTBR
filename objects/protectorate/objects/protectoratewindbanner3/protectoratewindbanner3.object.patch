@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Um estandarte amarelo do Protetorado. Maravilhoso."}, {"op": "replace", "path": "/description", "value": "Um estandarte de parede do Protetorado da Academia do Protetorado."}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Wall Banner"}, {"op": "replace", "path": "/humanDescription", "value": "Um grande estandarte brilhante do protetorado! Eu gostaria de colocar um no meu dormitório."}, {"op": "replace", "path": "/avianDescription", "value": "Brilhante como o sol radiante. Esta cor representa bem o protetorado."}, {"op": "replace", "path": "/hylotlDescription", "value": "O estandarte do protetorado representa tanto. Significa muito para todos nós."}, {"op": "replace", "path": "/novakidDescription", "value": "Adoro a cor brilhante do estandarte do protetorado."}, {"op": "replace", "path": "/glitchDescription", "value": "Orgulhoso. O emblemático estandarte do Protetorado. Fico feliz em fazer parte disso."}, {"op": "replace", "path": "/floranDescription", "value": "Estandarte amarelo do Protetorado faz Floran se sentir feliz."}]
+[
+  {
+    "op": "replace",
+    "value": "Um estandarte de parede do Protetorado da Academia do Protetorado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um grande estandarte brilhante do protetorado! Eu gostaria de colocar um no meu dormitório.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um estandarte amarelo do Protetorado. Maravilhoso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Brilhante como o sol radiante. Esta cor representa bem o protetorado.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Adoro a cor brilhante do estandarte do protetorado.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Wall Banner",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Orgulhoso. O emblemático estandarte do Protetorado. Fico feliz em fazer parte disso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O estandarte do protetorado representa tanto. Significa muito para todos nós.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estandarte amarelo do Protetorado faz Floran se sentir feliz.",
+    "path": "/floranDescription"
+  }
+]

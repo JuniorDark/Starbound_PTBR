@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Parece que foi feito para guardar algo importante."}, {"op": "replace", "path": "/shortdescription", "value": "Avian Artifact Altar"}]
+[
+  {
+    "op": "replace",
+    "value": "Avian Artifact Altar",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que foi feito para segurar algo importante.",
+    "path": "/description"
+  }
+]

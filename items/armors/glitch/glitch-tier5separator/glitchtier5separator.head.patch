@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Paladin's Helm"}, {"op": "replace", "path": "/description", "value": "Um elmo para cobrir uma cabeça cavalheiresca e proteger uma mente pura."}]
+[
+  {
+    "op": "replace",
+    "value": "Um elmo para cobrir uma cabeça cavalheiresca e proteger uma mente pura.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Paladin's Helm",
+    "path": "/shortdescription"
+  }
+]

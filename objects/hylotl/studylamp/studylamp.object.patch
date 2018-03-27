@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Luz verde é agradável para ler perto."}, {"op": "replace", "path": "/description", "value": "Uma lâmpada de estudo para uma biblioteca ou mesa. Muito chique."}, {"op": "replace", "path": "/shortdescription", "value": "Study Lamp"}, {"op": "replace", "path": "/floranDescription", "value": "Luz verde deixa Floran com sono."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Esta lâmpada acende-se com um som de clique mecânico."}, {"op": "replace", "path": "/apexDescription", "value": "Esta lâmpada me lembra os meus dias de escola."}, {"op": "replace", "path": "/humanDescription", "value": "Tudo o que preciso agora é um bom livro."}, {"op": "replace", "path": "/avianDescription", "value": "Nunca vi uma lâmpada tão estranha."}, {"op": "replace", "path": "/hylotlDescription", "value": "Não é um design original Hylotl, mas ainda é agradável aos olhos."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lâmpada de estudo para uma biblioteca ou mesa. Muito chique.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Tudo o que preciso agora é um bom livro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luz verde é agradável para ler perto.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luz verde deixa Floran com sono.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nunca vi uma lâmpada tão estranha.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não é um design original Hylotl, mas ainda é agradável aos olhos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Esta lâmpada acende-se com um som de clique mecânico.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Study Lamp",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lâmpada me lembra os meus dias de escola.",
+    "path": "/apexDescription"
+  }
+]

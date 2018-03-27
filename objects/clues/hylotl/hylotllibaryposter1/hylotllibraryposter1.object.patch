@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um antigo cartaz de alguma antiga biblioteca Hylotl."}, {"op": "replace", "path": "/shortdescription", "value": "Vintage Library Poster"}, {"op": "replace", "path": "/floranDescription", "value": "Pôr do sssol. Hora ideal para Floran caçar."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Este cartaz é antigo e pintado à mão - Eu me pergunto para o que é?"}, {"op": "replace", "path": "/apexDescription", "value": "Este antigo cartaz pintado à mão anuncia o que parece ser uma biblioteca Hylotl."}, {"op": "replace", "path": "/humanDescription", "value": "Este velho cartaz pintado à mão descreve uma vasta biblioteca Hylotl. Deve ser importante para alguém terlevado o tempo para fazê-lo."}, {"op": "replace", "path": "/avianDescription", "value": "Um cartaz maravilhosamente pintado à mão de uma biblioteca contra um pôr-do-sol."}, {"op": "replace", "path": "/hylotlDescription", "value": "A arte neste cartaz pintado à mão de uma biblioteca é inegavelmente trabalho Hylotl."}, {"op": "replace", "path": "/novakidDescription", "value": "Esse pôr-do-sol me dá calafrios. É uma bela imagem."}]
+[
+  {
+    "op": "replace",
+    "value": "Um cartaz maravilhosamente pintado à mão de uma biblioteca contra um pôr-do-sol.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um antigo cartaz de alguma antiga biblioteca Hylotl.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Este cartaz é antigo e pintado à mão - Eu me pergunto para o que é?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pôr do sssol. Hora ideal para Floran caçar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse pôr-do-sol me dá calafrios. É uma bela imagem.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A arte neste cartaz pintado à mão de uma biblioteca é inegavelmente trabalho Hylotl.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este antigo cartaz pintado à mão anuncia o que parece ser uma biblioteca Hylotl.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este velho cartaz pintado à mão descreve uma vasta biblioteca Hylotl. Deve ser importante para alguém terlevado o tempo para fazê-lo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vintage Library Poster",
+    "path": "/shortdescription"
+  }
+]

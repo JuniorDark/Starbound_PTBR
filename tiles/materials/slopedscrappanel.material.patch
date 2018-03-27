@@ -1,22 +1,27 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Painel de sucata enferrujada em estado grave de abandono."
+    "value": "Metal tão enferrujado, Floran nem o usssaria.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Preocupado. Esta superfície metálica parece muito irregular e enferrujada."
+    "value": "Scrap Panel",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Metal tão enferrujado, Floran nem o usssaria."
+    "value": "Este painel de metal é apenas uma sucata enferrujada.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Este painel de metal é apenas uma sucata enferrujada."
+    "value": "Preocupado. Esta superfície metálica parece muito irregular e enferrujada.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Painel de sucata enferrujada em estado grave de abandono.",
+    "path": "/description"
   }
 ]

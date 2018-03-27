@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Estas calças são forradas dentro para fornecer proteção extra e calor."}, {"op": "replace", "path": "/shortdescription", "value": "Warm Grey Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Estas calças são forradas dentro para fornecer proteção extra e calor.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Warm Grey Trousers",
+    "path": "/shortdescription"
+  }
+]

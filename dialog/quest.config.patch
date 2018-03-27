@@ -1,1 +1,1857 @@
-[{"op":"replace","path":"/share_secret/pleaseTakeReply/default/default/0","value":"Por favor leve essa resposta de volta para <questGiver>."},{"op":"replace","path":"/share_secret/pleaseTakeReply/human/default/0","value":"Por favor leve essa resposta de volta para <questGiver>."},{"op":"replace","path":"/share_secret/pleaseTakeReply/apex/default/0","value":"Por favor leve essa resposta de volta para <questGiver>."},{"op":"replace","path":"/share_secret/pleaseTakeReply/avian/default/0","value":"Por favor leve essa resposta de volta para <questGiver> para mim."},{"op":"replace","path":"/share_secret/pleaseTakeReply/floran/default/0","value":"Leve esssa resposta para <questGiver>."},{"op":"replace","path":"/share_secret/pleaseTakeReply/glitch/default/0","value":"Agradecido. Por favor leve essa resposta de volta para <questGiver>."},{"op":"replace","path":"/share_secret/pleaseTakeReply/hylotl/default/0","value":"Você poderia gentilmente levar essa resposta para <questGiver>?"},{"op":"replace","path":"/intimidate/intimidated/default/default/0","value":"Não me machuque com esse <item>! Diga a <questGiver> que eu farei qualquer coisa!"},{"op":"replace","path":"/intimidate/intimidated/human/default/0","value":"Não aponte esse <item> para mim! Diga a <questGiver> que eu farei qualquer coisa!"},{"op":"replace","path":"/intimidate/intimidated/apex/default/0","value":"Não me machuque com esse <item>! Diga a <questGiver> que vou obedecer!"},{"op":"replace","path":"/intimidate/intimidated/avian/default/0","value":"Não me machuque com esse <item>! Diga a <questGiver> que eu farei qualquer coisa!"},{"op":"replace","path":"/intimidate/intimidated/floran/default/0","value":"Não machuque Floran com <item>! Diga a <questGiver> que Floran obedecerá!"},{"op":"replace","path":"/intimidate/intimidated/glitch/default/0","value":"Alarmado. Não me machuque com esse <item> - Diga a <questGiver> que eu farei qualquer coisa!"},{"op":"replace","path":"/intimidate/intimidated/hylotl/default/0","value":"Não me machuque com esse <item>! Diga a <questGiver> que eu farei qualquer coisa!"},{"op":"replace","path":"/intimidate/notIntimidated/default/default/0","value":"Por que eu deveria fazer o que <questGiver> quer?"},{"op":"replace","path":"/intimidate/notIntimidated/human/default/0","value":"Por que eu deveria fazer o que <questGiver> quer?"},{"op":"replace","path":"/intimidate/notIntimidated/human/default/1","value":"Você não me assusta, e nem <questGiver>!"},{"op":"replace","path":"/intimidate/notIntimidated/apex/default/0","value":"<questGiver> mandou você para me intimidar?"},{"op":"replace","path":"/intimidate/notIntimidated/apex/default/1","value":"<questGiver> mandou você para me intimidar?"},{"op":"replace","path":"/intimidate/notIntimidated/avian/default/0","value":"Por que eu deveria fazer o que <questGiver> quer?"},{"op":"replace","path":"/intimidate/notIntimidated/avian/default/1","value":"Eu não tenho medo de <questGiver>!"},{"op":"replace","path":"/intimidate/notIntimidated/floran/default/0","value":"Floran não tem medo de <questGiver>!"},{"op":"replace","path":"/intimidate/notIntimidated/floran/default/1","value":"Floran não tem medo de você, ou <questGiver>!"},{"op":"replace","path":"/intimidate/notIntimidated/glitch/default/0","value":"Destemido. Por que eu deveria fazer o que <questGiver> quer?"},{"op":"replace","path":"/intimidate/notIntimidated/glitch/default/1","value":"Confuso. Você está tentando me intimidar em nome de <questGiver>?"},{"op":"replace","path":"/intimidate/notIntimidated/hylotl/default/0","value":"<questGiver> não pode me perturbar, e nem você pode."},{"op":"replace","path":"/intimidate/notIntimidated/hylotl/default/1","value":"Por que eu deveria fazer o que <questGiver> quer?"},{"op":"replace","path":"/bribe/giftAccepted/default/default/0","value":"Isso é um suborno? Ah, quem se importa... Por favor, agradeça a <questGiver>."},{"op":"replace","path":"/bribe/giftAccepted/human/default/0","value":"Isso é um suborno? Ah, quem se importa... Por favor, agradeça a <questGiver>!"},{"op":"replace","path":"/bribe/giftAccepted/human/default/1","value":"Isto é suborno? Ah bem! Por favor, agradeça a <questGiver>!"},{"op":"replace","path":"/bribe/giftAccepted/human/default/2","value":"Ser subornado é muito bom! Por favor, agradeça a <questGiver>."},{"op":"replace","path":"/bribe/giftAccepted/apex/default/0","value":"Tenho certeza de que estou sendo subornado, mas agradeça a <questGiver>."},{"op":"replace","path":"/bribe/giftAccepted/apex/default/1","value":"Isto é um presente de <questGiver>? Ou é mais um suborno?"},{"op":"replace","path":"/bribe/giftAccepted/avian/default/0","value":"<questGiver> pode estar tentando me subornar, mas eu sou grato de qualquer maneira!"},{"op":"replace","path":"/bribe/giftAccepted/avian/default/1","value":"<questGiver> pode estar tentando ganhar minha confiança, mas isso ainda é um gesto simpático!"},{"op":"replace","path":"/bribe/giftAccepted/floran/default/0","value":"Floran não se importa com subornosss. Diga obrigado a <questGiver>!"},{"op":"replace","path":"/bribe/giftAccepted/floran/default/1","value":"Floran gosta de subornosss! Diga obrigado a <questGiver>."},{"op":"replace","path":"/bribe/giftAccepted/glitch/default/0","value":"Satisfeito. Um suborno! Diga obrigado a <questGiver>."},{"op":"replace","path":"/bribe/giftAccepted/glitch/default/1","value":"Impressionado. Agradeça <questGiver> por este presente em meu nome!"},{"op":"replace","path":"/bribe/giftAccepted/hylotl/default/0","value":"Minha lealdade é influenciada! Agradeça a <questGiver>."},{"op":"replace","path":"/bribe/giftAccepted/hylotl/default/1","value":"Presentes são uma forma potente de persuasão! Agradeça a <questGiver>."},{"op":"replace","path":"/bribe/giftAccepted2/default/default/0","value":"Eu me pergunto o que <questGiver> quer de mim entretanto..."},{"op":"replace","path":"/bribe/giftAccepted2/human/default/0","value":"Eu me pergunto o que <questGiver> quer de mim entretanto..."},{"op":"replace","path":"/bribe/giftAccepted2/apex/default/0","value":"Eu me pergunto o que <questGiver> quer de mim entretanto..."},{"op":"replace","path":"/bribe/giftAccepted2/avian/default/0","value":"Eu me pergunto o que <questGiver> quer de mim entretanto..."},{"op":"replace","path":"/bribe/giftAccepted2/floran/default/0","value":"Floran se pergunta o que <questGiver> quer..."},{"op":"replace","path":"/bribe/giftAccepted2/glitch/default/0","value":"Curioso. Eu me pergunto o que <questGiver> quer de mim?"},{"op":"replace","path":"/bribe/giftAccepted2/glitch/default/1","value":"Preocupado. Eu me pergunto por que <questGiver> queria me subornar?"},{"op":"replace","path":"/bribe/giftAccepted2/hylotl/default/0","value":"Eu me pergunto o que <questGiver> pode querer de mim..."},{"op":"replace","path":"/bribe/requestAdditionToHouse/default/default/0","value":"Este presente ficaria bem em minha casa. Você pode colocá-lo lá para mim?"},{"op":"replace","path":"/bribe/requestAdditionToHouse/human/default/0","value":"Este presente ficaria bem em minha casa. Você pode colocá-lo lá para mim?"},{"op":"replace","path":"/bribe/requestAdditionToHouse/human/default/1","value":"Que presente agradável! Poderia colocá-lo em minha casa, para que eu possa exibi-lo?"},{"op":"replace","path":"/bribe/requestAdditionToHouse/apex/default/0","value":"Este é um presente generoso - talvez ele deve estar em exibição na minha casa?"},{"op":"replace","path":"/bribe/requestAdditionToHouse/apex/default/1","value":"Este presente ficaria bom exibido em minha casa. Você vai colocá-lo lá para mim?"},{"op":"replace","path":"/bribe/requestAdditionToHouse/avian/default/0","value":"Que presente adorável! Você seria capaz de colocá-lo em minha casa, para que eu possa apreciá-lo o tempo todo?"},{"op":"replace","path":"/bribe/requestAdditionToHouse/avian/default/1","value":"Que presente agradável! Você seria capaz de colocá-lo em algum lugar em minha casa?"},{"op":"replace","path":"/bribe/requestAdditionToHouse/floran/default/0","value":"Floran gosssta de presente! Você pode colocá-lo na casa de Floran por favor?"},{"op":"replace","path":"/bribe/requestAdditionToHouse/floran/default/1","value":"O presente é perfeito para Floran! Você pode colocá-lo na casa de Floran?"},{"op":"replace","path":"/bribe/requestAdditionToHouse/glitch/default/0","value":"Encantado. Que presente maravilhoso! Talvez você poderia colocá-lo em minha casa para mim?"},{"op":"replace","path":"/bribe/requestAdditionToHouse/glitch/default/1","value":"Agradecido. Esse presente é tão bom, eu deveria mostrar isso. Você poderia colocá-lo em minha casa para mim?"},{"op":"replace","path":"/bribe/requestAdditionToHouse/hylotl/default/0","value":"Que gentil da sua parte entregar este presente! Você poderia colocá-lo em minha casa para mim?"},{"op":"replace","path":"/bribe/requestAdditionToHouse/hylotl/default/1","value":"Este presente é requintado. Você seria capaz de colocá-lo em algum lugar em minha casa para mim?"},{"op":"replace","path":"/bribe/requestAdditionToHouse/novakid/default/0","value":"Este presente é simplismente adorável! Poderia colocá-lo em minha casa para mim, parceiro?"},{"op":"replace","path":"/bribe/requestAdditionToHouse/novakid/default/1","value":"Que belo gesto este presente é! Você poderia colocá-lo em minha casa para mim?"},{"op":"replace","path":"/gift/giftAccepted/default/default/0","value":"Oh, uau! Por favor agradeça <questGiver> para mim!"},{"op":"replace","path":"/gift/giftAccepted/human/default/0","value":"Oh, uau! Por favor agradeça <questGiver> para mim!"},{"op":"replace","path":"/gift/giftAccepted/human/default/1","value":"Que bom! Por favor agradeça <questGiver> para mim!"},{"op":"replace","path":"/gift/giftAccepted/apex/default/0","value":"Que gentil da parte de <questGiver>. Por favor agradeça  por mim."},{"op":"replace","path":"/gift/giftAccepted/apex/default/1","value":"Por favor diga a <questGiver> o quão feliz este presente me deixou!"},{"op":"replace","path":"/gift/giftAccepted/avian/default/0","value":"Por favor agradeça a <questGiver> por este presente adoravel!"},{"op":"replace","path":"/gift/giftAccepted/avian/default/1","value":"Que gesto amável. Por favor, agradeça <questGiver> para mim."},{"op":"replace","path":"/gift/giftAccepted/floran/default/0","value":"Floran gosta de presentesss! Diga a <questGiver> para Floran!"},{"op":"replace","path":"/gift/giftAccepted/floran/default/1","value":"Um presente para Floran! Agradeça a <questGiver> para Floran!"},{"op":"replace","path":"/gift/giftAccepted/glitch/default/0","value":"Agradecido. Por favor agradeça <questGiver> em meu nome!"},{"op":"replace","path":"/gift/giftAccepted/glitch/default/1","value":"Feliz. Diga a <questGiver> Que eu gostei de seu presente!"},{"op":"replace","path":"/gift/giftAccepted/hylotl/default/0","value":"<questGiver> tem um espírito amável! Por favor, diga a eke para mim!"},{"op":"replace","path":"/gift/giftAccepted/hylotl/default/1","value":"Um presente! <questGiver> merece minha gratidão por tal gesto."},{"op":"replace","path":"/gift/giftAccepted/novakid/default/0","value":"<questGiver> é um bom amigo! Agradeça em meu nome a próxima vez que você poder, parceiro!"},{"op":"replace","path":"/gift/giftAccepted/novakid/default/1","value":"Este presente é muito poderoso! Você pode agradecer <questGiver> por mim?"},{"op":"replace","path":"/gift/giftAccepted2/default/default/0","value":"<questGiver> é um grande amigo."},{"op":"replace","path":"/gift/giftAccepted2/human/default/0","value":"<questGiver> é muito legal!"},{"op":"replace","path":"/gift/giftAccepted2/human/default/1","value":"<questGiver> é um bom amigo."},{"op":"replace","path":"/gift/giftAccepted2/apex/default/0","value":"<questGiver> é claramente alguém em quem posso confiar."},{"op":"replace","path":"/gift/giftAccepted2/apex/default/1","value":"<questGiver> é um bom amigo para mim."},{"op":"replace","path":"/gift/giftAccepted2/avian/default/0","value":"<questGiver> é um grande amigo."},{"op":"replace","path":"/gift/giftAccepted2/avian/default/1","value":"<questGiver> é um grande amigo."},{"op":"replace","path":"/gift/giftAccepted2/floran/default/0","value":"Floran gosssta de <questGiver>!"},{"op":"replace","path":"/gift/giftAccepted2/floran/default/1","value":"Floran decidiu que <questGiver> é um bom amigo."},{"op":"replace","path":"/gift/giftAccepted2/glitch/default/0","value":"Satisfeito. <questGiver> é um bom amigo."},{"op":"replace","path":"/gift/giftAccepted2/glitch/default/1","value":"Alegre. <questGiver> é uma pessoa amável."},{"op":"replace","path":"/gift/giftAccepted2/hylotl/default/0","value":"<questGiver> ganhou minha verdadeira amizade."},{"op":"replace","path":"/gift/giftAccepted2/hylotl/default/1","value":"<questGiver> tem minha confiança."},{"op":"replace","path":"/gift/giftAccepted2/novakid/default/0","value":"<questGiver> é um bom amigo(a)! Ele(a) ganhou meu respeito, isso é certo!"},{"op":"replace","path":"/gift/giftAccepted2/novakid/default/1","value":"Este presente é muito poderoso! <questGiver> certamente tem a minha confiança!"},{"op":"replace","path":"/gift/requestAdditionToHouse/default/default/0","value":"Este presente ficaria bem em minha casa. Você pode colocá-lo lá para mim?"},{"op":"replace","path":"/gift/requestAdditionToHouse/human/default/0","value":"Este presente ficaria bem na minha casa. Você pode colocá-lo lá para mim?"},{"op":"replace","path":"/gift/requestAdditionToHouse/human/default/1","value":"Que presente agradável! Poderia colocá-lo em minha casa, para que eu possa exibi-lo?"},{"op":"replace","path":"/gift/requestAdditionToHouse/apex/default/0","value":"Este é um presente generoso - talvez ele deve estar em exibição na minha casa."},{"op":"replace","path":"/gift/requestAdditionToHouse/apex/default/1","value":"Este presente ficaria bom exibido em minha casa. Você vai colocá-lo lá para mim?"},{"op":"replace","path":"/gift/requestAdditionToHouse/avian/default/0","value":"Que presente adorável! Você seria capaz de colocá-lo em minha casa, para que eu possa apreciá-lo o tempo todo?"},{"op":"replace","path":"/gift/requestAdditionToHouse/avian/default/1","value":"Que presente agradável! Você seria capaz de colocá-lo em algum lugar em minha casa?"},{"op":"replace","path":"/gift/requestAdditionToHouse/floran/default/0","value":"Floran gosssta de presente! Você pode colocá-lo na casa de Floran por favor?"},{"op":"replace","path":"/gift/requestAdditionToHouse/floran/default/1","value":"O presente é perfeito para Floran! Você pode colocá-lo na casa de Floran?"},{"op":"replace","path":"/gift/requestAdditionToHouse/glitch/default/0","value":"Encantado. Que presente maravilhoso! Talvez você poderia colocá-lo em minha casa para mim?"},{"op":"replace","path":"/gift/requestAdditionToHouse/glitch/default/1","value":"Agradecido. Esse presente é tão bom, eu deveria mostrar isso. Você poderia colocá-lo em minha casa para mim?"},{"op":"replace","path":"/gift/requestAdditionToHouse/hylotl/default/0","value":"Que gentil da sua parte entregar este presente! Você poderia colocá-lo em minha casa para mim?"},{"op":"replace","path":"/gift/requestAdditionToHouse/hylotl/default/1","value":"Este presente é requintado. Você seria capaz de colocá-lo em algum lugar em minha casa para mim?"},{"op":"replace","path":"/gift/requestAdditionToHouse/novakid/default/0","value":"Este presente é simplismente adorável! Poderia colocá-lo em minha casa para mim, parceiro?"},{"op":"replace","path":"/gift/requestAdditionToHouse/novakid/default/1","value":"Que belo gesto este presente é! Você poderia colocá-lo em minha casa para mim?"},{"op":"replace","path":"/return_stolen/objectTaken/default/default/0","value":"Eu te garanto, que <item> foi adquirido legalmente!"},{"op":"replace","path":"/return_stolen/objectTaken/human/default/0","value":"Eu te garanto, que <item> foi adquirido legalmente!"},{"op":"replace","path":"/return_stolen/objectTaken/human/default/1","value":"Tudo bem, pegue o <item> - eu não preciso dele de qualquer maneira!"},{"op":"replace","path":"/return_stolen/objectTaken/apex/default/0","value":"Tudo bem, pegue de volta o <item> - Só não me deixe em apuros!"},{"op":"replace","path":"/return_stolen/objectTaken/apex/default/1","value":"Esse <item> foi adquirido legitimamente - juro!"},{"op":"replace","path":"/return_stolen/objectTaken/avian/default/0","value":"Eu tinha permissão para emprestar esse <item>, não foi roubado!"},{"op":"replace","path":"/return_stolen/objectTaken/floran/default/0","value":"Você pode pegar esse <item> de volta, apenas não deixe Floran em apuros!"},{"op":"replace","path":"/return_stolen/objectTaken/glitch/default/0","value":"Nervoso. Eu não tenho idéia de como esse <item> chegou aqui!"},{"op":"replace","path":"/return_stolen/objectTaken/glitch/default/1","value":"Preocupado. Esse <item> não foi roubado, ele só parece ser!"},{"op":"replace","path":"/return_stolen/objectTaken/hylotl/default/0","value":"Eu não roubei esse <item>, eu estava simplesmente pedindo emprestado."},{"op":"replace","path":"/return_stolen/objectTaken/hylotl/default/1","value":"Esse <item> foi adquirido de forma justa, eu juro!"},{"op":"replace","path":"/return_stolen/objectTaken/novakid/default/0","value":"Só para que você saiba, eu não tenho idéia de onde esse <item> veio!"},{"op":"replace","path":"/return_stolen/objectTaken/novakid/default/1","value":"Ganhei esse <item> em um jogo de cartas, é meu! Honesto!"},{"op":"replace","path":"/collect_fine/fineCollected/default/default/0","value":"Tudo bem, vou pagar a multa. Não me julgue!"},{"op":"replace","path":"/collect_fine/fineCollected/human/default/0","value":"Tudo bem, vou pagar a multa. Não me julgue!"},{"op":"replace","path":"/collect_fine/fineCollected/human/default/1","value":"Você me pegou! Vou jogar limpo."},{"op":"replace","path":"/collect_fine/fineCollected/apex/default/0","value":"Tudo bem, vou pagar. Apenas não relate isto a Miniknog!"},{"op":"replace","path":"/collect_fine/fineCollected/apex/default/1","value":"Você me pegou - vou pagar a multa. Só não me deixe em maiores problemas."},{"op":"replace","path":"/collect_fine/fineCollected/avian/default/0","value":"Não há necessidade de continuar me incomodando, eu decidi pagar!"},{"op":"replace","path":"/collect_fine/fineCollected/floran/default/0","value":"Floran foi pego, então Floran vai pagar multa."},{"op":"replace","path":"/collect_fine/fineCollected/floran/default/1","value":"Você pegou Floran! Floran impressionado, aqui está a multa."},{"op":"replace","path":"/collect_fine/fineCollected/glitch/default/0","value":"Derrotado. Eu acho que eu deveria pagar a multa, eu não quero entrar em mais problemas!"},{"op":"replace","path":"/collect_fine/fineCollected/glitch/default/1","value":"Irritado. Eu vou pagar a multa - eu não quero mais problemas."},{"op":"replace","path":"/collect_fine/fineCollected/hylotl/default/0","value":"Vou pagar a multa! Não há necessidade de perturbar a paz ainda mais."},{"op":"replace","path":"/collect_fine/fineCollected/hylotl/default/1","value":"Fique calmo! Vou pagar a multa!"},{"op":"replace","path":"/collect_fine/fineCollected/novakid/default/0","value":"Eu não vou ser um malandro, eu vou te pagar multa."},{"op":"replace","path":"/collect_fine/fineCollected/novakid/default/1","value":"Tudo bem, vou pagar! Você me encurralou!"},{"op":"replace","path":"/collect_gift/giftProvided/default/default/0","value":"Aqui está! Um <item>, só para <questGiver>!"},{"op":"replace","path":"/collect_gift/giftProvided/human/default/0","value":"Aqui está! Um <item>, só para <questGiver>!"},{"op":"replace","path":"/collect_gift/giftProvided/human/default/1","value":"Aqui está o <item> que você precisa!"},{"op":"replace","path":"/collect_gift/giftProvided/apex/default/0","value":"Aqui está o <item> que você precisa. Espero que seja o que é necessário."},{"op":"replace","path":"/collect_gift/giftProvided/apex/default/1","value":"Aqui está o <item> que <questGiver> precisa."},{"op":"replace","path":"/collect_gift/giftProvided/avian/default/0","value":"Aqui está o <item>! Espero que sirva bem para <questGiver>."},{"op":"replace","path":"/collect_gift/giftProvided/avian/default/1","value":"Este <item> é o que <questGiver> precisa, correto?"},{"op":"replace","path":"/collect_gift/giftProvided/floran/default/0","value":"Aqui está o <item>, dê a <questGiver> para mim!"},{"op":"replace","path":"/collect_gift/giftProvided/floran/default/1","value":"Aqui está o <item> para <questGiver>!"},{"op":"replace","path":"/collect_gift/giftProvided/glitch/default/0","value":"Alegre. Espero que <questGiver> goste do seu novo <item>!"},{"op":"replace","path":"/collect_gift/giftProvided/glitch/default/1","value":"Amigável. Por favor, leve este <item> para <questGiver> - Espero que goste!"},{"op":"replace","path":"/collect_gift/giftProvided/hylotl/default/0","value":"Aqui está o <item> - Espero que traga felicidade a <questGiver>."},{"op":"replace","path":"/collect_gift/giftProvided/hylotl/default/1","value":"Espero que este <item> traga paz a você e <questGiver>."},{"op":"replace","path":"/collect_gift/giftProvided/novakid/default/0","value":"Aqui está o <item> - só para <questGiver>!"},{"op":"replace","path":"/collect_gift/giftProvided/novakid/default/1","value":"Aqui está o <item>. Corra entregar para <questGiver>, se você puder."},{"op":"replace","path":"/request_craft/giftProvided/default/default/0","value":"Aqui está um que eu fiz mais cedo!"},{"op":"replace","path":"/request_craft/giftProvided/human/default/0","value":"Aqui está o <item> que você precisava que eu fizesse!"},{"op":"replace","path":"/request_craft/giftProvided/human/default/1","value":"Aqui está um que eu fiz mais cedo!"},{"op":"replace","path":"/request_craft/giftProvided/apex/default/0","value":"Você precisa que eu faça alguma coisa? Um <item> a caminho."},{"op":"replace","path":"/request_craft/giftProvided/apex/default/1","value":"Aqui está o <item> que você precisava que eu fizesse para você."},{"op":"replace","path":"/request_craft/giftProvided/avian/default/0","value":"Aqui está o <item> que você precisava que eu fizesse!"},{"op":"replace","path":"/request_craft/giftProvided/avian/default/1","value":"<item>? Aqui, já fiz um. Sinta-se livre para levá-lo."},{"op":"replace","path":"/request_craft/giftProvided/floran/default/0","value":"Floran fez este <item> para você, como solicitado!"},{"op":"replace","path":"/request_craft/giftProvided/floran/default/1","value":"Aqui está o <item> que você queria que Floran fizesse!"},{"op":"replace","path":"/request_craft/giftProvided/glitch/default/0","value":"Generoso. Você está com sorte - eu fiz este <item> mais cedo. Pegue."},{"op":"replace","path":"/request_craft/giftProvided/glitch/default/1","value":"Eficiente. Já fiz o <item> - Por favor, pegue."},{"op":"replace","path":"/request_craft/giftProvided/hylotl/default/0","value":"Eu fiz para você o <item> que você precisa - Criado com habilidade Hylotl verdadeira."},{"op":"replace","path":"/request_craft/giftProvided/hylotl/default/1","value":"<item>? Eu posso fazer um desses para você. Aqui, para você."},{"op":"replace","path":"/request_craft/giftProvided/novakid/default/0","value":"Você queria este <item> que eu fiz? Aqui, pegue!"},{"op":"replace","path":"/request_craft/giftProvided/novakid/default/1","value":"Bem, você está com sorte! Eu fiz este <item> mais cedo, vá em frente e pegue."},{"op":"replace","path":"/borrow/giftProvided/default/default/0","value":"Tudo bem, <questGiver> pode pegar emprestado o meu <item>."},{"op":"replace","path":"/borrow/giftProvided/human/default/0","value":"Tudo bem, <questGiver> pode pegar emprestado o meu <item>. Você vai trazer de volta, eventualmente?"},{"op":"replace","path":"/borrow/giftProvided/human/default/1","value":"Claro, eu posso emprestar a <questGiver> meu <item>."},{"op":"replace","path":"/borrow/giftProvided/apex/default/0","value":"Aqui está o <item> que <questGiver> quer pedir emprestado. Eu suspeito que eu não vou receber de volta."},{"op":"replace","path":"/borrow/giftProvided/apex/default/1","value":"<questGiver> pode pegar emprestado meu <item>, só espero que seja devolvido..."},{"op":"replace","path":"/borrow/giftProvided/avian/default/0","value":"Eu não me importo que <questGiver> pegue emprestado meu <item> contanto que o traga de volta eventualmente!"},{"op":"replace","path":"/borrow/giftProvided/avian/default/1","value":"<questGiver> pode pegar emprestado meu <item>! Contanto que me devolva quando terminar."},{"op":"replace","path":"/borrow/giftProvided/floran/default/0","value":"Floran pode emprestar a <questGiver> o <item>, contanto que Floran receba de volta em breve."},{"op":"replace","path":"/borrow/giftProvided/floran/default/1","value":"Aqui está o <item> para <questGiver>, Floran não se importa de emprestar."},{"op":"replace","path":"/borrow/giftProvided/glitch/default/0","value":"Sensato Aqui está o meu <item> - Apenas diga a <questGiver> para devolvê-lo em breve."},{"op":"replace","path":"/borrow/giftProvided/glitch/default/1","value":"Amigável. <questGiver> pode pegar emprestado meu <item> se ele precisar!"},{"op":"replace","path":"/borrow/giftProvided/hylotl/default/0","value":"Terei prazer em emprestar a <questGiver> meu <item>."},{"op":"replace","path":"/borrow/giftProvided/hylotl/default/1","value":"<questGiver> pode pegar emprestado meu <item> se ele precisa dele!"},{"op":"replace","path":"/borrow/giftProvided/novakid/default/0","value":"Sim, eu posso deixar <questGiver> pegar emprestado meu <item>."},{"op":"replace","path":"/borrow/giftProvided/novakid/default/1","value":"<questGiver> pode pegar emprestado meu <item> se ele não pegar por muito tempo!"},{"op":"replace","path":"/extort/giftProvided/default/default/0","value":"A-aqui, pegue meu <item>. Só n-não me machuque!"},{"op":"replace","path":"/extort/giftProvided/human/default/0","value":"A-aqui, pegue meu <item>. Só n-não me machuque!"},{"op":"replace","path":"/extort/giftProvided/human/default/1","value":"<questGiver> pode pegar meu <item>, só não me machuque!"},{"op":"replace","path":"/extort/giftProvided/apex/default/0","value":"Extorsão não é novidade para mim. Pegue meu <item>..."},{"op":"replace","path":"/extort/giftProvided/apex/default/1","value":"Apenas pegue o <item> - Eu valorizo minha segurança."},{"op":"replace","path":"/extort/giftProvided/avian/default/0","value":"Não há necessidade de ser tão ameaçador! Apenas pegue meu <item>!"},{"op":"replace","path":"/extort/giftProvided/avian/default/1","value":"Pare de me atormentar e apenas pegue o <item>!"},{"op":"replace","path":"/extort/giftProvided/floran/default/0","value":"Floran não quer lutar agora! Leve o <item>."},{"op":"replace","path":"/extort/giftProvided/floran/default/1","value":"Tudo bem! Floran ajudará <questGiver>! Pegue o <item> de Floran!"},{"op":"replace","path":"/extort/giftProvided/glitch/default/0","value":"Aterrorizado. Eu não quero me machucar! Pegue o meu <item> se é isso que você precisa!"},{"op":"replace","path":"/extort/giftProvided/glitch/default/1","value":"Aterrorizado. Apenas pegue meu <item>! <questGiver> pode tê-lo!"},{"op":"replace","path":"/extort/giftProvided/hylotl/default/0","value":"Pegue meu <item>, e me deixe em paz, eu imploro a você!"},{"op":"replace","path":"/extort/giftProvided/hylotl/default/1","value":"Pare de me aterrorizar! Pegue o meu <item> se você precisa dele!"},{"op":"replace","path":"/extort/giftProvided/novakid/default/0","value":"Não há necessidade de causar uma cena! Basta pegar o meu <item> se isso significa muito para você!"},{"op":"replace","path":"/extort/giftProvided/novakid/default/1","value":"Isso é um assalto?! Tudo bem, Eu não quero lutar, só pegue meu <item>."},{"op":"replace","path":"/hat/crafting/default/default/0","value":"Oh, você tem os itens que precisamos? Espere um segundo..."},{"op":"replace","path":"/hat/crafting/human/default/0","value":"Oh, você tem os itens que precisamos? Espere um segundo..."},{"op":"replace","path":"/hat/crafting/human/default/1","value":"Trouxe os materiais? Ótimo, espere um momento então... "},{"op":"replace","path":"/hat/crafting/apex/default/0","value":"Você conseguiu os materiais? Espere um momento, eu só preciso fazer isso..."},{"op":"replace","path":"/hat/crafting/apex/default/1","value":"Obrigado por me trazer os materiais - Me dê um momento e eu posso fazer isso..."},{"op":"replace","path":"/hat/crafting/avian/default/0","value":"Você trouxe os itens? Ótimo, espere um momento..."},{"op":"replace","path":"/hat/crafting/avian/default/1","value":"Você trouxe os materiais? Só me deixe fazer isso, então, me dê um momento..."},{"op":"replace","path":"/hat/crafting/floran/default/0","value":"Você trouxe os materiais pra Floran! Floran vai criar agora, espere..."},{"op":"replace","path":"/hat/crafting/floran/default/1","value":"Obrigado pelas coisas! Floran só vai levar um momento para criar..."},{"op":"replace","path":"/hat/crafting/glitch/default/0","value":"Ansioso. Você me trouxe os materiais! Aguarde um momento..."},{"op":"replace","path":"/hat/crafting/glitch/default/1","value":"Satisfeito. Você me trouxe os itens que precisamos! Apenas me dê um momento para fazer isso..."},{"op":"replace","path":"/hat/crafting/hylotl/default/0","value":"Obrigado por me trazer os itens, vou só levar um tempinho para criar o que <questGiver> precisa."},{"op":"replace","path":"/hat/crafting/hylotl/default/1","value":"Muito obrigado por trazer os itens, estou ansioso para começar a fabricação. Aqui, me dê um momento..."},{"op":"replace","path":"/hat/crafting/novakid/default/0","value":"Você trouxe os suprimentos? Beleza! Agora aguarde um momento para que eu possa criar..."},{"op":"replace","path":"/hat/crafting/novakid/default/1","value":"Você tem os materiais, eu tenho as habilidades. Aguarde um momento para que eu possa fazer isso..."},{"op":"replace","path":"/hat/crafted/default/default/0","value":"Aqui está! Leve este pacote para <questGiver> para mim."},{"op":"replace","path":"/hat/crafted/human/default/0","value":"Aqui está! Você pode levar este pacote para <questGiver> para mim."},{"op":"replace","path":"/hat/crafted/human/default/1","value":"E... Terminou! Leve este pacote para <questGiver>."},{"op":"replace","path":"/hat/crafted/apex/default/0","value":"Obrigado por esperar. Aqui, leve isto para <questGiver>."},{"op":"replace","path":"/hat/crafted/apex/default/1","value":"Terminei! Obrigado por esperar. Agora, por favor, leve esta pacote para <questGiver>..."},{"op":"replace","path":"/hat/crafted/avian/default/0","value":"Obrigado por esperar! Você pode entregar o pacote de <questGiver> para ele para mim?"},{"op":"replace","path":"/hat/crafted/avian/default/1","value":"Aqui está! Por favor, leve este pacote para <questGiver>."},{"op":"replace","path":"/hat/crafted/floran/default/0","value":"Acabado! Por favor, leve o pacote para <questGiver> para Floran."},{"op":"replace","path":"/hat/crafted/floran/default/1","value":"Aqui está a coisa! Leve-o para <questGiver>."},{"op":"replace","path":"/hat/crafted/glitch/default/0","value":"Satisfeito. Eu terminei de fazer. Você pode entregar isto para <questGiver> para mim?"},{"op":"replace","path":"/hat/crafted/glitch/default/1","value":"Satisfeito. Acabei! Agora, por favor, leve este pacote para <questGiver> para mim."},{"op":"replace","path":"/hat/crafted/hylotl/default/0","value":"Um trabalho requintado, como eu diria! Você levaria este pacote para <questGiver> para mim?"},{"op":"replace","path":"/hat/crafted/hylotl/default/1","value":"Maravilhoso! Você não admira minha habilidade? Agora, você poderia levar o pacote para <questGiver>?"},{"op":"replace","path":"/hat/crafted/novakid/default/0","value":"Um bom trabalho, como eu diria! Você poderia levar este pacote para <questGiver> para mim, parceiro?"},{"op":"replace","path":"/hat/crafted/novakid/default/1","value":"Que belo trabalho de fabricação eu fiz aqui! Seja uma estrela e corra entregar isso para <questGiver> para mim?"},{"op":"replace","path":"/helmet/crafting/default/default/0","value":"Oh, você tem os itens que precisamos? Espere um segundo..."},{"op":"replace","path":"/helmet/crafting/human/default/0","value":"Oh, você tem os itens que precisamos? Espere um segundo..."},{"op":"replace","path":"/helmet/crafting/human/default/1","value":"Trouxe os materiais? Ótimo, espere um momento então... "},{"op":"replace","path":"/helmet/crafting/apex/default/0","value":"Você conseguiu os materiais? Boa. Espere um momento, eu só preciso fazer isso..."},{"op":"replace","path":"/helmet/crafting/apex/default/1","value":"Obrigado por me trazer os materiais - Me dê um momento e eu posso fazer isso..."},{"op":"replace","path":"/helmet/crafting/avian/default/0","value":"Você trouxe os itens? Ótimo, espere um momento..."},{"op":"replace","path":"/helmet/crafting/avian/default/1","value":"Você trouxe os materiais? Só me deixe fazer isso, então, me dê um momento..."},{"op":"replace","path":"/helmet/crafting/floran/default/0","value":"Você trouxe os materiais pra Floran! Floran vai criar agora, espere..."},{"op":"replace","path":"/helmet/crafting/floran/default/1","value":"Obrigado pelas coisas! Floran só vai levar um momento para criar..."},{"op":"replace","path":"/helmet/crafting/glitch/default/0","value":"Ansioso. Você me trouxe os materiais! Aguarde um momento..."},{"op":"replace","path":"/helmet/crafting/glitch/default/1","value":"Satisfeito. Você me trouxe os itens que precisamos! Apenas me dê um momento para fazer isso..."},{"op":"replace","path":"/helmet/crafting/hylotl/default/0","value":"Obrigado por me trazer os itens, vou só levar um tempinho para criar o que <questGiver> precisa."},{"op":"replace","path":"/helmet/crafting/hylotl/default/1","value":"Muito obrigado por trazer os itens, estou ansioso para começar a fabricação. Aqui, me dê um momento..."},{"op":"replace","path":"/helmet/crafting/novakid/default/0","value":"Você trouxe os suprimentos? Beleza! Agora aguarde um momento para que eu possa criar..."},{"op":"replace","path":"/helmet/crafting/novakid/default/1","value":"Você tem os materiais, eu tenho as habilidades. Aguarde um momento para que eu possa fazer isso..."},{"op":"replace","path":"/helmet/crafted/default/default/0","value":"Aqui está! Leve este pacote para <questGiver> para mim."},{"op":"replace","path":"/helmet/crafted/human/default/0","value":"Aqui está! Você pode levar este pacote para <questGiver> para mim."},{"op":"replace","path":"/helmet/crafted/human/default/1","value":"E... Terminou! Leve este pacote para <questGiver>."},{"op":"replace","path":"/helmet/crafted/apex/default/0","value":"Obrigado por esperar. Aqui, leve isto para <questGiver>."},{"op":"replace","path":"/helmet/crafted/apex/default/1","value":"Terminei! Obrigado por esperar. Agora, por favor, leve esta pacote para <questGiver>..."},{"op":"replace","path":"/helmet/crafted/avian/default/0","value":"Obrigado por esperar! Você pode entregar o pacote de <questGiver> para ele para mim?"},{"op":"replace","path":"/helmet/crafted/avian/default/1","value":"Aqui está! Por favor, leve este pacote para <questGiver>."},{"op":"replace","path":"/helmet/crafted/floran/default/0","value":"Acabado! Por favor, leve o pacote para <questGiver> para Floran."},{"op":"replace","path":"/helmet/crafted/floran/default/1","value":"Aqui está a coisa! Leve-o para <questGiver>."},{"op":"replace","path":"/helmet/crafted/glitch/default/0","value":"Satisfeito. Eu terminei de fazer. Você pode entregar isto para <questGiver> para mim?"},{"op":"replace","path":"/helmet/crafted/glitch/default/1","value":"Satisfeito. Acabei! Agora, por favor, leve este pacote para <questGiver> para mim."},{"op":"replace","path":"/helmet/crafted/hylotl/default/0","value":"Um trabalho requintado, como eu diria! Você levaria este pacote para <questGiver> para mim?"},{"op":"replace","path":"/helmet/crafted/hylotl/default/1","value":"Maravilhoso! Você não admira minha habilidade? Agora, você poderia levar o pacote para <questGiver>?"},{"op":"replace","path":"/helmet/crafted/novakid/default/0","value":"Um bom trabalho, como eu diria! Você poderia levar este pacote para <questGiver> para mim, parceiro?"},{"op":"replace","path":"/helmet/crafted/novakid/default/1","value":"Que belo trabalho de fabricação eu fiz aqui! Seja uma estrela e corra entregar isso para <questGiver> para mim?"},{"op":"replace","path":"/new_stock/trade/default/default/0","value":"Obrigado pela mercadoria, aqui está o pacote de <questGiver>. Transmita os meus cumprimentos!"},{"op":"replace","path":"/new_stock/trade/human/default/0","value":"Obrigado pela mercadoria, aqui está o pacote de <questGiver>. Transmita os meus cumprimentos!"},{"op":"replace","path":"/new_stock/trade/apex/default/0","value":"Você está aqui em nome de <questGiver>? Aqui está o pacote. Obrigado por estas mercadorias."},{"op":"replace","path":"/new_stock/trade/avian/default/0","value":"Obrigado por entregar isso. Aqui está a encomenda de <questGiver>!"},{"op":"replace","path":"/new_stock/trade/floran/default/0","value":"Obrigado pelas coisas. Aqui está o pacote de <questGiver>, não o perca!"},{"op":"replace","path":"/new_stock/trade/glitch/default/0","value":"Cuidadoso. Esta parece ser a coisa certa... Ok. Vamos negociar. Leve este pacote para <questgiver>."},{"op":"replace","path":"/new_stock/trade/hylotl/default/0","value":"Estou satisfeito por podermos realizar esta transação - meus agradecimentos pelas mercadorias. Por favor, leve este pacote para <questGiver>."},{"op":"replace","path":"/new_stock/trade/novakid/default/0","value":"Você está aqui para pegar o pacote de <questGiver>? Aqui está, obrigado pela mercadoria, parceiro!"},{"op":"replace","path":"/kidnapping/kidnappersDead/default/default/0","value":"Você me salvou! Você é meu herói!"},{"op":"replace","path":"/kidnapping/kidnappersDead/default/default/1","value":"Acabou? Minha vida estava piscando diante dos meus olhos!"},{"op":"replace","path":"/kidnapping/kidnappersDead/human/default/0","value":"Não me mate, eu tenho tanto para dar... Espere, você está me salvando? Obrigado!"},{"op":"replace","path":"/kidnapping/kidnappersDead/human/default/1","value":"Eu ainda estou vivo? Você salvou minha vida! Obrigado!"},{"op":"replace","path":"/kidnapping/kidnappersDead/apex/default/0","value":"Eu não sei como eu continuo me metendo em situações assim..."},{"op":"replace","path":"/kidnapping/kidnappersDead/apex/default/1","value":"Obrigado! Eu não sei onde eu estaria agora se você não tivesse vindo junto."},{"op":"replace","path":"/kidnapping/kidnappersDead/avian/default/0","value":"Obrigado, eu estava tão assustado! Meu coração está acelerando!"},{"op":"replace","path":"/kidnapping/kidnappersDead/avian/default/1","value":"Você me salvou! Muito obrigado!"},{"op":"replace","path":"/kidnapping/kidnappersDead/floran/default/0","value":"Você salvou Floran! Floran está aliviado!"},{"op":"replace","path":"/kidnapping/kidnappersDead/floran/default/1","value":"Floran poderia ter ganhado a luta se Floran tivesse uma lança, mas Floran ainda agradece a ajuda."},{"op":"replace","path":"/kidnapping/kidnappersDead/glitch/default/0","value":"Agradecido. Você me salvou! Meu heroi!"},{"op":"replace","path":"/kidnapping/kidnappersDead/glitch/default/1","value":"Aliviado. Graças a Deus você me salvou!"},{"op":"replace","path":"/kidnapping/kidnappersDead/hylotl/default/0","value":"Você me salvou! Sou eternamente grato!"},{"op":"replace","path":"/kidnapping/kidnappersDead/hylotl/default/1","value":"É... acabou? Oh, graças a Deus! Obrigado, obrigado, obrigado!"},{"op":"replace","path":"/kidnapping/kidnappersDead/novakid/default/0","value":"Eu pensei que era o fim da linha para mim!"},{"op":"replace","path":"/kidnapping/kidnappersDead/novakid/default/1","value":"E aqui eu estava, com minha vida piscando diante de mim! Eu pensei que eu era um caso perdido!"},{"op":"replace","path":"/kidnapping/followHome/default/default/0","value":"Ainda estou com medo. Você pode me levar para casa de <questGiver>?"},{"op":"replace","path":"/kidnapping/followHome/human/default/0","value":"Um. Ainda estou com medo. Você pode me levar para casa de <questGiver>?"},{"op":"replace","path":"/kidnapping/followHome/human/default/1","value":"Ainda estou bem chocado - você pode me levar para casa de <questGiver>?"},{"op":"replace","path":"/kidnapping/followHome/human/default/2","value":"Você pode me levar para casa pra <questGiver>? Só por precaução..."},{"op":"replace","path":"/kidnapping/followHome/apex/default/0","value":"Estou muito abalado - Por favor, você levaria de volta para <questGiver>?"},{"op":"replace","path":"/kidnapping/followHome/apex/default/1","value":"Isso foi mais aterrorizante. Você poderia me levar de volta para <questGiver>?"},{"op":"replace","path":"/kidnapping/followHome/avian/default/0","value":"Eu não me sinto seguro sozinho agora. Você pode me levar para casa de <questGiver>?"},{"op":"replace","path":"/kidnapping/followHome/avian/default/1","value":"Isso realmente arrepiou minhas penas... Você poderia me levar de volta para <questGiver>?"},{"op":"replace","path":"/kidnapping/followHome/floran/default/0","value":"Floran não quer ficar sozinho. Você pode levar Floran para casa pra <questGiver>?"},{"op":"replace","path":"/kidnapping/followHome/floran/default/1","value":"Você pode levar Floran para casa de <questGiver>? Floran não se sente ssseguro."},{"op":"replace","path":"/kidnapping/followHome/glitch/default/0","value":"Aterrorizado. Um, poderia me levar de volta a <questGiver>?"},{"op":"replace","path":"/kidnapping/followHome/glitch/default/1","value":"Preocupado. Talvez você poderia me escoltar de volta à <questGiver>?"},{"op":"replace","path":"/kidnapping/followHome/hylotl/default/0","value":"Não me deixe! Leve-me para a casa de <questGiver>."},{"op":"replace","path":"/kidnapping/followHome/hylotl/default/1","value":"Você pode me levar de volta para <questGiver>? Eu não me sinto confiante em mim mesmo agora..."},{"op":"replace","path":"/kidnapping/followHome/novakid/default/0","value":"Você poderia me acompanhar de volta para <questGiver>? Eu não estou me sentindo muito forte agora..."},{"op":"replace","path":"/kidnapping/followHome/novakid/default/1","value":"Ainda não sei se consigo voltar sozinho. Você pode me levar de volta para <questGiver>, parceiro?"},{"op":"replace","path":"/escort/found/default/default/0","value":"Estou tão perdido. Você pode me levar de volta para <questGiver>?"},{"op":"replace","path":"/escort/found/default/default/1","value":"Eu... Estou muito perdido agora. Você poderia me levar para <questGiver>?"},{"op":"replace","path":"/escort/found/default/default/2","value":"Eu não pretendia ficar completamente perdido! Você poderia me acompanhar até <questGiver>?"},{"op":"replace","path":"/escort/found/human/default/0","value":"Estou tão perdido. Você pode me levar de volta para <questGiver>?"},{"op":"replace","path":"/escort/found/human/default/1","value":"Estou incrivelmente perdido agora. Você se importaria de me levar a <questGiver>?"},{"op":"replace","path":"/escort/found/apex/default/0","value":"Não tenho idéia de onde estou. Por favor, leve-me de volta para <questGiver>."},{"op":"replace","path":"/escort/found/apex/default/1","value":"Estou tão perdido. Você pode me levar de volta para <questGiver>?"},{"op":"replace","path":"/escort/found/avian/default/0","value":"Eu sempre pensei que eu tinha um bom senso na direção... Eu acho que não. Você se importaria de me levar a <questGiver>?"},{"op":"replace","path":"/escort/found/avian/default/1","value":"Como eu fiquei tão perdido? Bem, eu estou feliz que você me encontrou. Você me levaria de volta para <questGiver>?"},{"op":"replace","path":"/escort/found/floran/default/0","value":"Floran está perdido. Você poderia ajudar Floran a encontrar <questGiver>?"},{"op":"replace","path":"/escort/found/floran/default/1","value":"Floran de alguma forma se perdeu... Por favor, leve Floran de volta para <questGiver>?"},{"op":"replace","path":"/escort/found/glitch/default/0","value":"Agitado. Eu pareço estar perdido. Ajude-me - leve-me de volta para <questGiver>?"},{"op":"replace","path":"/escort/found/glitch/default/1","value":"Confuso. Acho que posso estar perdido. Er, você pode me levar de volta para <questGiver>?"},{"op":"replace","path":"/escort/found/hylotl/default/0","value":"Oh, você poderia me levar de volta para <questGiver>? Estou irremediavelmente perdido."},{"op":"replace","path":"/escort/found/hylotl/default/1","value":"Acho que posso estar perdido.... Por favor, me leve de volta para <questGiver>."},{"op":"replace","path":"/escort/found/novakid/default/0","value":"Olá! Você poderia me acompanhar na trilha de volta para <questGiver>? Eu esqueci o caminho."},{"op":"replace","path":"/escort/found/novakid/default/1","value":"Minha cabeça estava nas nuvens, e eu esqueci a trilha que eu vim aqui. Você poderia me levar para <questGiver>, parceiro?"},{"op":"replace","path":"/barter/trade/default/default/0","value":"Obrigado pela mercadoria, aqui está os <receivedItems> de <questGiver>."},{"op":"replace","path":"/barter/trade/human/default/0","value":"Obrigado pela mercadoria, aqui está os <receivedItems> de <questGiver>. Transmita os meus cumprimentos!"},{"op":"replace","path":"/barter/trade/apex/default/0","value":"Você está aqui em nome de <questGiver>? Aqui estão seus <receiveItems>. Obrigado por estas mercadorias."},{"op":"replace","path":"/barter/trade/avian/default/0","value":"Obrigado por entregar isso. Aqui está os <receivedItems> de <questGiver>."},{"op":"replace","path":"/barter/trade/floran/default/0","value":"Obrigado pelasss coisasss, aqui está os <receivedItems> de <questGiver>."},{"op":"replace","path":"/barter/trade/glitch/default/0","value":"Amigável. Obrigado pelas mercadorias, aqui está os <receivedItems> de <questGiver>."},{"op":"replace","path":"/barter/trade/hylotl/default/0","value":"Estou satisfeito por podermos realizar esta transação - meus agradecimentos pelas mercadorias. Aqui está os <receivedItems> de <questGiver>."},{"op":"replace","path":"/barter/trade/novakid/default/0","value":"Muito obrigado pela mercadoria - Aqui está os <receivedItems> de <questGiver>."},{"op":"replace","path":"/escort_trade/collectDelivery/default/default/0","value":"Você tem uma entrega para mim?"},{"op":"replace","path":"/escort_trade/collectDelivery/default/default/1","value":"Ei, você tem a entrega?"},{"op":"replace","path":"/escort_trade/collectDelivery/floran/default/0","value":"Você tem uma entrega para Floran?"},{"op":"replace","path":"/escort_trade/collectDelivery/glitch/default/0","value":"Interessado. Você tem uma entrega para mim?"},{"op":"replace","path":"/escort_trade/collectDelivery/novakid/default/0","value":"Olá! Eu suponho que você tem uma entrega para mim?"},{"op":"replace","path":"/escort_trade/provideDelivery/default/default/0","value":"Aqui está a sua mercadoria. Aproveite!"},{"op":"replace","path":"/escort_trade/provideDelivery/human/default/0","value":"Aqui está a sua mercadoria. Aproveite!"},{"op":"replace","path":"/escort_trade/provideDelivery/apex/default/0","value":"Isso é seu."},{"op":"replace","path":"/escort_trade/provideDelivery/avian/default/0","value":"Aqui está a sua mercadoria. Aproveite!"},{"op":"replace","path":"/escort_trade/provideDelivery/floran/default/0","value":"Aqui está sua coisa. Aproveite!"},{"op":"replace","path":"/escort_trade/provideDelivery/glitch/default/0","value":"Alegre. Aqui estão as suas mercadorias! Aproveite!"},{"op":"replace","path":"/escort_trade/provideDelivery/hylotl/default/0","value":"Aqui estão as suas mercadorias, para que você possa aproveitar."},{"op":"replace","path":"/escort_trade/provideDelivery/novakid/default/0","value":"Aqui estão as suas mercadorias, parceiro."},{"op":"replace","path":"/kill_npcs/assistantIntro/default/default/0","value":"Oi! <questGiver> me contratou para ajudá-lo a lutar contra o <enemy>."},{"op":"replace","path":"/kill_npcs/assistantIntro/human/default/0","value":"Oi! <questGiver> me contratou para ajudá-lo a lutar contra o <enemy>."},{"op":"replace","path":"/kill_npcs/assistantIntro/human/default/1","value":"Olá! <questGiver> é um amigo meu, e queria que eu te ajudasse a lutar contra o <enemy>."},{"op":"replace","path":"/kill_npcs/assistantIntro/apex/default/0","value":"Olá. <questGiver> me contratou para ajudá-lo a lutar contra o <enemy>."},{"op":"replace","path":"/kill_npcs/assistantIntro/apex/default/1","value":"Saudações. <questGiver> me contratou para ajudá-lo a lutar contra o <enemy>."},{"op":"replace","path":"/kill_npcs/assistantIntro/avian/default/0","value":"Oi! <questGiver> me contratou para ajudá-lo a lutar contra o <enemy>."},{"op":"replace","path":"/kill_npcs/assistantIntro/avian/default/1","value":"Olá! <questGiver> me contratou para ajudá-lo a lutar contra o <enemy>."},{"op":"replace","path":"/kill_npcs/assistantIntro/floran/default/0","value":"<questGiver> contratou Floran para ajudá-lo a esssfaquear <enemy>."},{"op":"replace","path":"/kill_npcs/assistantIntro/floran/default/1","value":"Floran é amigo de <questGiver>, estou aqui para ajudá-lo a lutar contra o <enemy>."},{"op":"replace","path":"/kill_npcs/assistantIntro/glitch/default/0","value":"Amigável. <questGiver> me contratou para ajudá-lo em sua batalha com o <enemy>!"},{"op":"replace","path":"/kill_npcs/assistantIntro/glitch/default/1","value":"Amigável. Eu fui contratado por <questGiver> para ajudá-lo em sua missão."},{"op":"replace","path":"/kill_npcs/assistantIntro/hylotl/default/0","value":"Saudações. <questGiver> me contratou para ajudá-lo contra o <enemy>."},{"op":"replace","path":"/kill_npcs/assistantIntro/hylotl/default/1","value":"Olá - nós estamos a batalhar lado a lado, como <questGiver> pediu que eu te ajude em sua missão."},{"op":"replace","path":"/kill_npcs/assistantIntro/novakid/default/0","value":"Olá! <questGiver> me pediu para encontrá-lo aqui para ajudar a combater o <enemy>."},{"op":"replace","path":"/kill_npcs/assistantIntro/novakid/default/1","value":"Olá! Meu velho amigo <questGiver> me pediu para vir e ajudá-lo a lutar contra o <enemy>."},{"op":"replace","path":"/kill_npc/surrender/default/default/0","value":"Eu me rendo! Guarde sua arma!"},{"op":"replace","path":"/kill_npc/surrender/default/default/1","value":"Eu sei quando eu fui derrotado! Abaixe sua arma, por favor!"},{"op":"replace","path":"/kill_npc/surrender/default/default/2","value":"Ok, ok, eu me rendo! Por favor, abaixe sua arma!"},{"op":"replace","path":"/kill_npc/surrender/floran/default/0","value":"Floran se rende! Abaixe sua arma!"},{"op":"replace","path":"/kill_npc/surrender/floran/default/1","value":"Floran admite derrota! Abaixe sua arma!"},{"op":"replace","path":"/kill_npc/surrender/glitch/default/0","value":"Judicioso. Eu me rendo, guarda sua arma."},{"op":"replace","path":"/kill_npc/surrender/glitch/default/1","value":"Receoso. Eu me rendo! Por favor, guarda sua arma."},{"op":"replace","path":"/kill_npc/betray/default/default/0","value":"Seu tolo!"},{"op":"replace","path":"/kill_npc/betray/default/default/1","value":"Minha rede de mentiras te enlaçou!"},{"op":"replace","path":"/kill_npc/betray/default/default/2","value":"Haha, eu enganei você!"},{"op":"replace","path":"/kill_npc/betray/default/default/3","value":"Eu enganei você!"},{"op":"replace","path":"/kill_npc/betray/apex/default/0","value":"Seu tolo!"},{"op":"replace","path":"/kill_npc/betray/apex/default/1","value":"Você é um tolo!"},{"op":"replace","path":"/kill_npc/betray/avian/default/0","value":"Haha, você foi enganado!"},{"op":"replace","path":"/kill_npc/betray/floran/default/0","value":"Floran enganou você!"},{"op":"replace","path":"/kill_npc/betray/floran/default/1","value":"Floran te enganou!"},{"op":"replace","path":"/kill_npc/betray/floran/default/2","value":"Por que faria o que Floran pediu?"},{"op":"replace","path":"/kill_npc/betray/glitch/default/0","value":"Travesso. Seu tolo!"},{"op":"replace","path":"/kill_npc/betray/glitch/default/1","value":"Surpreso. Você realmente caiu nisso?"},{"op":"replace","path":"/kill_npc/betray/glitch/default/2","value":"Chocado. Você realmente caiu nisso?"},{"op":"replace","path":"/kill_npc/betray/hylotl/default/0","value":"É um erro confiar em seu inimigo!"},{"op":"replace","path":"/kill_npc/betray/hylotl/default/1","value":"Você é muito rápido em confiar em seu inimigo!"}]
+[
+  {
+    "op": "replace",
+    "value": "<item>? Aqui, já fiz um. Sinta-se livre para levá-lo.",
+    "path": "/request_craft/giftProvided/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "<item>? Eu posso fazer um desses para você. Aqui, para você.",
+    "path": "/request_craft/giftProvided/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> pode pegar emprestado meu <item> se ele não pegar por muito tempo!",
+    "path": "/borrow/giftProvided/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> pode pegar emprestado meu <item> se ele precisa dele!",
+    "path": "/borrow/giftProvided/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> pode pegar emprestado meu <item>! Contanto que me devolva quando terminar.",
+    "path": "/borrow/giftProvided/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> pode pegar emprestado meu <item>, só espero que seja devolvido...",
+    "path": "/borrow/giftProvided/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> pode pegar meu <item>, só não me machuque!",
+    "path": "/extort/giftProvided/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> não pode me perturbar, e nem você pode.",
+    "path": "/intimidate/notIntimidated/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> contratou Floran para ajudá-lo a esssfaquear <enemy>.",
+    "path": "/kill_npcs/assistantIntro/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> tem um espírito amável! Por favor, diga a eke para mim!",
+    "path": "/gift/giftAccepted/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> ganhou minha verdadeira amizade.",
+    "path": "/gift/giftAccepted2/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> tem minha confiança.",
+    "path": "/gift/giftAccepted2/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> é um bom amigo para mim.",
+    "path": "/gift/giftAccepted2/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> é um bom amigo.",
+    "path": "/gift/giftAccepted2/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> é um grande amigo.",
+    "path": "/gift/giftAccepted2/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> é um grande amigo.",
+    "path": "/gift/giftAccepted2/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> é um grande amigo.",
+    "path": "/gift/giftAccepted2/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> é um bom amigo! Agradeça em meu nome a próxima vez que você poder, parceiro!",
+    "path": "/gift/giftAccepted/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> é um bom amigo(a)! Ele(a) ganhou meu respeito, isso é certo!",
+    "path": "/gift/giftAccepted2/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> é claramente alguém em quem posso confiar.",
+    "path": "/gift/giftAccepted2/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> é muito legal!",
+    "path": "/gift/giftAccepted2/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> pode estar tentando me subornar, mas eu sou grato de qualquer maneira!",
+    "path": "/bribe/giftAccepted/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> pode estar tentando ganhar minha confiança, mas isso ainda é um gesto simpático!",
+    "path": "/bribe/giftAccepted/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um presente! <questGiver> merece minha gratidão por tal gesto.",
+    "path": "/gift/giftAccepted/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um presente para Floran! Agradeça a <questGiver> para Floran!",
+    "path": "/gift/giftAccepted/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Receoso. Eu me rendo! Por favor, guarda sua arma.",
+    "path": "/kill_npc/surrender/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Alarmado. Não me machuque com esse <item> - Diga a <questGiver> que eu farei qualquer coisa!",
+    "path": "/intimidate/intimidated/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Tudo bem, vou pagar! Você me encurralou!",
+    "path": "/collect_fine/fineCollected/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Amigável. <questGiver> me contratou para ajudá-lo em sua batalha com o <enemy>!",
+    "path": "/kill_npcs/assistantIntro/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Amigável. Obrigado pelas mercadorias, aqui está os <receivedItems> de <questGiver>.",
+    "path": "/barter/trade/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um bom trabalho, como eu diria! Você poderia levar este pacote para <questGiver> para mim, parceiro?",
+    "path": "/hat/crafted/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um bom trabalho, como eu diria! Você poderia levar este pacote para <questGiver> para mim, parceiro?",
+    "path": "/helmet/crafted/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um trabalho requintado, como eu diria! Você levaria este pacote para <questGiver> para mim?",
+    "path": "/hat/crafted/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um trabalho requintado, como eu diria! Você levaria este pacote para <questGiver> para mim?",
+    "path": "/helmet/crafted/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "E aqui eu estava, com minha vida piscando diante de mim! Eu pensei que eu era um caso perdido!",
+    "path": "/kidnapping/kidnappersDead/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "E... Terminou! Leve este pacote para <questGiver>.",
+    "path": "/hat/crafted/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "E... Terminou! Leve este pacote para <questGiver>.",
+    "path": "/helmet/crafted/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Irritado. Eu vou pagar a multa - eu não quero mais problemas.",
+    "path": "/collect_fine/fineCollected/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Agradecido. Por favor agradeça <questGiver> em meu nome!",
+    "path": "/gift/giftAccepted/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Agradecido. Esse presente é tão bom, eu deveria mostrar isso. Você poderia colocá-lo em minha casa para mim?",
+    "path": "/bribe/requestAdditionToHouse/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Agradecido. Esse presente é tão bom, eu deveria mostrar isso. Você poderia colocá-lo em minha casa para mim?",
+    "path": "/gift/requestAdditionToHouse/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você está aqui em nome de <questGiver>? Aqui estão seus <receiveItems>. Obrigado por estas mercadorias.",
+    "path": "/barter/trade/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você está aqui em nome de <questGiver>? Aqui está o pacote. Obrigado por estas mercadorias.",
+    "path": "/new_stock/trade/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ser subornado é muito bom! Por favor, agradeça a <questGiver>.",
+    "path": "/bribe/giftAccepted/human/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você pode levar Floran para casa de <questGiver>? Floran não se sente ssseguro.",
+    "path": "/kidnapping/followHome/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você pode me levar de volta para <questGiver>? Eu não me sinto confiante em mim mesmo agora...",
+    "path": "/kidnapping/followHome/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você pode me levar para casa pra <questGiver>? Só por precaução...",
+    "path": "/kidnapping/followHome/human/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Alegre. <questGiver> é uma pessoa amável.",
+    "path": "/gift/giftAccepted2/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Alegre. Aqui estão as suas mercadorias! Aproveite!",
+    "path": "/escort_trade/provideDelivery/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Alegre. Espero que <questGiver> goste do seu novo <item>!",
+    "path": "/collect_gift/giftProvided/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Eu me pergunto por que <questGiver> queria me subornar?",
+    "path": "/bribe/giftAccepted2/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Você está tentando me intimidar em nome de <questGiver>?",
+    "path": "/intimidate/notIntimidated/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Acho que posso estar perdido. Er, você pode me levar de volta para <questGiver>?",
+    "path": "/escort/found/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você poderia me acompanhar de volta para <questGiver>? Eu não estou me sentindo muito forte agora...",
+    "path": "/kidnapping/followHome/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Eu me pergunto o que <questGiver> quer de mim?",
+    "path": "/bribe/giftAccepted2/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Derrotado. Eu acho que eu deveria pagar a multa, eu não quero entrar em mais problemas!",
+    "path": "/collect_fine/fineCollected/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Que presente maravilhoso! Talvez você poderia colocá-lo em minha casa para mim?",
+    "path": "/bribe/requestAdditionToHouse/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Que presente maravilhoso! Talvez você poderia colocá-lo em minha casa para mim?",
+    "path": "/gift/requestAdditionToHouse/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você tem uma entrega para Floran?",
+    "path": "/escort_trade/collectDelivery/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você tem uma entrega para mim?",
+    "path": "/escort_trade/collectDelivery/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Não machuque Floran com <item>! Diga a <questGiver> que Floran obedecerá!",
+    "path": "/intimidate/intimidated/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Não me machuque com esse <item>! Diga a <questGiver> que vou obedecer!",
+    "path": "/intimidate/intimidated/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Não me machuque com esse <item>! Diga a <questGiver> que eu farei qualquer coisa!",
+    "path": "/intimidate/intimidated/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Não me machuque com esse <item>! Diga a <questGiver> que eu farei qualquer coisa!",
+    "path": "/intimidate/intimidated/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Não me machuque com esse <item>! Diga a <questGiver> que eu farei qualquer coisa!",
+    "path": "/intimidate/intimidated/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Não me mate, eu tenho tanto para dar... Espere, você está me salvando? Obrigado!",
+    "path": "/kidnapping/kidnappersDead/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Não me deixe! Leve-me para a casa de <questGiver>.",
+    "path": "/kidnapping/followHome/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Não aponte esse <item> para mim! Diga a <questGiver> que eu farei qualquer coisa!",
+    "path": "/intimidate/intimidated/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. Você me trouxe os materiais! Aguarde um momento...",
+    "path": "/hat/crafting/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. Você me trouxe os materiais! Aguarde um momento...",
+    "path": "/helmet/crafting/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eficiente. Já fiz o <item> - Por favor, pegue.",
+    "path": "/request_craft/giftProvided/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Extorsão não é novidade para mim. Pegue meu <item>...",
+    "path": "/extort/giftProvided/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Tudo bem! Floran ajudará <questGiver>! Pegue o <item> de Floran!",
+    "path": "/extort/giftProvided/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Tudo bem, <questGiver> pode pegar emprestado o meu <item>.",
+    "path": "/borrow/giftProvided/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Tudo bem, <questGiver> pode pegar emprestado o meu <item>. Você vai trazer de volta, eventualmente?",
+    "path": "/borrow/giftProvided/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Tudo bem, vou pagar. Apenas não relate isto a Miniknog!",
+    "path": "/collect_fine/fineCollected/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Tudo bem, vou pagar a multa. Não me julgue!",
+    "path": "/collect_fine/fineCollected/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Tudo bem, vou pagar a multa. Não me julgue!",
+    "path": "/collect_fine/fineCollected/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Tudo bem, pegue de volta o <item> - Só não me deixe em apuros!",
+    "path": "/return_stolen/objectTaken/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Tudo bem, pegue o <item> - eu não preciso dele de qualquer maneira!",
+    "path": "/return_stolen/objectTaken/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Acabado! Por favor, leve o pacote para <questGiver> para Floran.",
+    "path": "/hat/crafted/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Acabado! Por favor, leve o pacote para <questGiver> para Floran.",
+    "path": "/helmet/crafted/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran admite derrota! Abaixe sua arma!",
+    "path": "/kill_npc/surrender/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran pode emprestar a <questGiver> o <item>, contanto que Floran receba de volta em breve.",
+    "path": "/borrow/giftProvided/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran poderia ter ganhado a luta se Floran tivesse uma lança, mas Floran ainda agradece a ajuda.",
+    "path": "/kidnapping/kidnappersDead/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não se importa com subornosss. Diga obrigado a <questGiver>!",
+    "path": "/bribe/giftAccepted/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não quer lutar agora! Leve o <item>.",
+    "path": "/extort/giftProvided/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não quer ficar sozinho. Você pode levar Floran para casa pra <questGiver>?",
+    "path": "/kidnapping/followHome/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran é amigo de <questGiver>, estou aqui para ajudá-lo a lutar contra o <enemy>.",
+    "path": "/kill_npcs/assistantIntro/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran foi pego, então Floran vai pagar multa.",
+    "path": "/collect_fine/fineCollected/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran decidiu que <questGiver> é um bom amigo.",
+    "path": "/gift/giftAccepted2/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran enganou você!",
+    "path": "/kill_npc/betray/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran está perdido. Você poderia ajudar Floran a encontrar <questGiver>?",
+    "path": "/escort/found/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de subornosss! Diga obrigado a <questGiver>.",
+    "path": "/bribe/giftAccepted/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosssta de <questGiver>!",
+    "path": "/gift/giftAccepted2/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosssta de presente! Você pode colocá-lo na casa de Floran por favor?",
+    "path": "/bribe/requestAdditionToHouse/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosssta de presente! Você pode colocá-lo na casa de Floran por favor?",
+    "path": "/gift/requestAdditionToHouse/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de presentesss! Diga a <questGiver> para Floran!",
+    "path": "/gift/giftAccepted/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran fez este <item> para você, como solicitado!",
+    "path": "/request_craft/giftProvided/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não tem medo de <questGiver>!",
+    "path": "/intimidate/notIntimidated/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não tem medo de você, ou <questGiver>!",
+    "path": "/intimidate/notIntimidated/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran de alguma forma se perdeu... Por favor, leve Floran de volta para <questGiver>?",
+    "path": "/escort/found/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran se rende! Abaixe sua arma!",
+    "path": "/kill_npc/surrender/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran te enganou!",
+    "path": "/kill_npc/betray/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran se pergunta o que <questGiver> quer...",
+    "path": "/bribe/giftAccepted2/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Agitado. Eu pareço estar perdido. Ajude-me - leve-me de volta para <questGiver>?",
+    "path": "/escort/found/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Amigável. <questGiver> pode pegar emprestado meu <item> se ele precisar!",
+    "path": "/borrow/giftProvided/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Amigável. Eu fui contratado por <questGiver> para ajudá-lo em sua missão.",
+    "path": "/kill_npcs/assistantIntro/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Amigável. Por favor, leve este <item> para <questGiver> - Espero que goste!",
+    "path": "/collect_gift/giftProvided/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Generoso. Você está com sorte - eu fiz este <item> mais cedo. Pegue.",
+    "path": "/request_craft/giftProvided/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "O presente é perfeito para Floran! Você pode colocá-lo na casa de Floran?",
+    "path": "/bribe/requestAdditionToHouse/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "O presente é perfeito para Floran! Você pode colocá-lo na casa de Floran?",
+    "path": "/gift/requestAdditionToHouse/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Presentes são uma forma potente de persuasão! Agradeça a <questGiver>.",
+    "path": "/bribe/giftAccepted/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Agradecido. Por favor leve essa resposta de volta para <questGiver>.",
+    "path": "/share_secret/pleaseTakeReply/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Agradecido. Você me salvou! Meu heroi!",
+    "path": "/kidnapping/kidnappersDead/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Saudações. <questGiver> me contratou para ajudá-lo contra o <enemy>.",
+    "path": "/kill_npcs/assistantIntro/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Saudações. <questGiver> me contratou para ajudá-lo a lutar contra o <enemy>.",
+    "path": "/kill_npcs/assistantIntro/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "A-aqui, pegue meu <item>. Só n-não me machuque!",
+    "path": "/extort/giftProvided/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "A-aqui, pegue meu <item>. Só n-não me machuque!",
+    "path": "/extort/giftProvided/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Haha, eu enganei você!",
+    "path": "/kill_npc/betray/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Haha, você foi enganado!",
+    "path": "/kill_npc/betray/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Feliz. Diga a <questGiver> Que eu gostei de seu presente!",
+    "path": "/gift/giftAccepted/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> mandou você para me intimidar?",
+    "path": "/intimidate/notIntimidated/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<questGiver> mandou você para me intimidar?",
+    "path": "/intimidate/notIntimidated/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Olá - nós estamos a batalhar lado a lado, como <questGiver> pediu que eu te ajude em sua missão.",
+    "path": "/kill_npcs/assistantIntro/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Olá! <questGiver> me contratou para ajudá-lo a lutar contra o <enemy>.",
+    "path": "/kill_npcs/assistantIntro/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Olá. <questGiver> me contratou para ajudá-lo a lutar contra o <enemy>.",
+    "path": "/kill_npcs/assistantIntro/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui estão as suas mercadorias, para que você possa aproveitar.",
+    "path": "/escort_trade/provideDelivery/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui estão as suas mercadorias, parceiro.",
+    "path": "/escort_trade/provideDelivery/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está o <item> - Espero que traga felicidade a <questGiver>.",
+    "path": "/collect_gift/giftProvided/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está o <item> que <questGiver> quer pedir emprestado. Eu suspeito que eu não vou receber de volta.",
+    "path": "/borrow/giftProvided/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está o <item> que <questGiver> precisa.",
+    "path": "/collect_gift/giftProvided/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está o <item> que você precisa. Espero que seja o que é necessário.",
+    "path": "/collect_gift/giftProvided/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está o <item>! Espero que sirva bem para <questGiver>.",
+    "path": "/collect_gift/giftProvided/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está o <item> para <questGiver>, Floran não se importa de emprestar.",
+    "path": "/borrow/giftProvided/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está a coisa! Leve-o para <questGiver>.",
+    "path": "/hat/crafted/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está a coisa! Leve-o para <questGiver>.",
+    "path": "/helmet/crafted/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está o <item> para <questGiver>!",
+    "path": "/collect_gift/giftProvided/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está o <item> que você queria que Floran fizesse!",
+    "path": "/request_craft/giftProvided/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está o <item>, dê a <questGiver> para mim!",
+    "path": "/collect_gift/giftProvided/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está! Por favor, leve este pacote para <questGiver>.",
+    "path": "/hat/crafted/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está! Por favor, leve este pacote para <questGiver>.",
+    "path": "/helmet/crafted/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está! Um <item>, só para <questGiver>!",
+    "path": "/collect_gift/giftProvided/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está! Um <item>, só para <questGiver>!",
+    "path": "/collect_gift/giftProvided/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está! Leve este pacote para <questGiver> para mim.",
+    "path": "/hat/crafted/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está! Leve este pacote para <questGiver> para mim.",
+    "path": "/helmet/crafted/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está! Você pode levar este pacote para <questGiver> para mim.",
+    "path": "/hat/crafted/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está! Você pode levar este pacote para <questGiver> para mim.",
+    "path": "/helmet/crafted/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está um que eu fiz mais cedo!",
+    "path": "/request_craft/giftProvided/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está um que eu fiz mais cedo!",
+    "path": "/request_craft/giftProvided/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está o <item> que você precisa!",
+    "path": "/collect_gift/giftProvided/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está o <item> que você precisava que eu fizesse para você.",
+    "path": "/request_craft/giftProvided/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está o <item> que você precisava que eu fizesse!",
+    "path": "/request_craft/giftProvided/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está o <item> que você precisava que eu fizesse!",
+    "path": "/request_craft/giftProvided/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está o <item>. Corra entregar para <questGiver>, se você puder.",
+    "path": "/collect_gift/giftProvided/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está o <item> - só para <questGiver>!",
+    "path": "/collect_gift/giftProvided/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está a sua mercadoria. Aproveite!",
+    "path": "/escort_trade/provideDelivery/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está a sua mercadoria. Aproveite!",
+    "path": "/escort_trade/provideDelivery/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está a sua mercadoria. Aproveite!",
+    "path": "/escort_trade/provideDelivery/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está sua coisa. Aproveite!",
+    "path": "/escort_trade/provideDelivery/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Olá! <questGiver> é um amigo meu, e queria que eu te ajudasse a lutar contra o <enemy>.",
+    "path": "/kill_npcs/assistantIntro/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Ei, você tem a entrega?",
+    "path": "/escort_trade/collectDelivery/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Oi! <questGiver> me contratou para ajudá-lo a lutar contra o <enemy>.",
+    "path": "/kill_npcs/assistantIntro/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Oi! <questGiver> me contratou para ajudá-lo a lutar contra o <enemy>.",
+    "path": "/kill_npcs/assistantIntro/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Oi! <questGiver> me contratou para ajudá-lo a lutar contra o <enemy>.",
+    "path": "/kill_npcs/assistantIntro/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Como eu fiquei tão perdido? Bem, eu estou feliz que você me encontrou. Você me levaria de volta para <questGiver>?",
+    "path": "/escort/found/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Que gentil da parte de <questGiver>. Por favor agradeça  por mim.",
+    "path": "/gift/giftAccepted/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Que gentil da sua parte entregar este presente! Você poderia colocá-lo em minha casa para mim?",
+    "path": "/bribe/requestAdditionToHouse/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Que gentil da sua parte entregar este presente! Você poderia colocá-lo em minha casa para mim?",
+    "path": "/gift/requestAdditionToHouse/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Que bom! Por favor agradeça <questGiver> para mim!",
+    "path": "/gift/giftAccepted/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Olá! Você poderia me acompanhar na trilha de volta para <questGiver>? Eu esqueci o caminho.",
+    "path": "/escort/found/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Olá! <questGiver> me pediu para encontrá-lo aqui para ajudar a combater o <enemy>.",
+    "path": "/kill_npcs/assistantIntro/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Olá! Eu suponho que você tem uma entrega para mim?",
+    "path": "/escort_trade/collectDelivery/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Olá! Meu velho amigo <questGiver> me pediu para vir e ajudá-lo a lutar contra o <enemy>.",
+    "path": "/kill_npcs/assistantIntro/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sempre pensei que eu tinha um bom senso na direção... Eu acho que não. Você se importaria de me levar a <questGiver>?",
+    "path": "/escort/found/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Terminei! Obrigado por esperar. Agora, por favor, leve esta pacote para <questGiver>...",
+    "path": "/hat/crafted/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Terminei! Obrigado por esperar. Agora, por favor, leve esta pacote para <questGiver>...",
+    "path": "/helmet/crafted/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Tenho certeza de que estou sendo subornado, mas agradeça a <questGiver>.",
+    "path": "/bribe/giftAccepted/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Estou incrivelmente perdido agora. Você se importaria de me levar a <questGiver>?",
+    "path": "/escort/found/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Estou tão perdido. Você pode me levar de volta para <questGiver>?",
+    "path": "/escort/found/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Estou muito abalado - Por favor, você levaria de volta para <questGiver>?",
+    "path": "/kidnapping/followHome/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu te garanto, que <item> foi adquirido legalmente!",
+    "path": "/return_stolen/objectTaken/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu te garanto, que <item> foi adquirido legalmente!",
+    "path": "/return_stolen/objectTaken/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não pretendia ficar completamente perdido! Você poderia me acompanhar até <questGiver>?",
+    "path": "/escort/found/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não roubei esse <item>, eu estava simplesmente pedindo emprestado.",
+    "path": "/return_stolen/objectTaken/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não me sinto seguro sozinho agora. Você pode me levar para casa de <questGiver>?",
+    "path": "/kidnapping/followHome/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não sei como eu continuo me metendo em situações assim...",
+    "path": "/kidnapping/kidnappersDead/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não me importo que <questGiver> pegue emprestado meu <item> contanto que o traga de volta eventualmente!",
+    "path": "/borrow/giftProvided/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu tinha permissão para emprestar esse <item>, não foi roubado!",
+    "path": "/return_stolen/objectTaken/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Não tenho idéia de onde estou. Por favor, leve-me de volta para <questGiver>.",
+    "path": "/escort/found/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que este <item> traga paz a você e <questGiver>.",
+    "path": "/collect_gift/giftProvided/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sei quando eu fui derrotado! Abaixe sua arma, por favor!",
+    "path": "/kill_npc/surrender/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Ainda não sei se consigo voltar sozinho. Você pode me levar de volta para <questGiver>, parceiro?",
+    "path": "/kidnapping/followHome/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me rendo! Guarde sua arma!",
+    "path": "/kill_npc/surrender/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu pensei que era o fim da linha para mim!",
+    "path": "/kidnapping/kidnappersDead/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Terei prazer em emprestar a <questGiver> meu <item>.",
+    "path": "/borrow/giftProvided/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ganhei esse <item> em um jogo de cartas, é meu! Honesto!",
+    "path": "/return_stolen/objectTaken/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não vou ser um malandro, eu vou te pagar multa.",
+    "path": "/collect_fine/fineCollected/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto o que <questGiver> pode querer de mim...",
+    "path": "/bribe/giftAccepted2/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto o que <questGiver> quer de mim entretanto...",
+    "path": "/bribe/giftAccepted2/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto o que <questGiver> quer de mim entretanto...",
+    "path": "/bribe/giftAccepted2/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto o que <questGiver> quer de mim entretanto...",
+    "path": "/bribe/giftAccepted2/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto o que <questGiver> quer de mim entretanto...",
+    "path": "/bribe/giftAccepted2/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Acho que posso estar perdido.... Por favor, me leve de volta para <questGiver>.",
+    "path": "/escort/found/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Vou pagar a multa! Não há necessidade de perturbar a paz ainda mais.",
+    "path": "/collect_fine/fineCollected/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não tenho medo de <questGiver>!",
+    "path": "/intimidate/notIntimidated/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Estou satisfeito por podermos realizar esta transação - meus agradecimentos pelas mercadorias. Aqui está os <receivedItems> de <questGiver>.",
+    "path": "/barter/trade/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Estou satisfeito por podermos realizar esta transação - meus agradecimentos pelas mercadorias. Por favor, leve este pacote para <questGiver>.",
+    "path": "/new_stock/trade/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Estou tão perdido. Você pode me levar de volta para <questGiver>?",
+    "path": "/escort/found/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Estou tão perdido. Você pode me levar de volta para <questGiver>?",
+    "path": "/escort/found/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu ainda estou vivo? Você salvou minha vida! Obrigado!",
+    "path": "/kidnapping/kidnappersDead/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Ainda estou com medo. Você pode me levar para casa de <questGiver>?",
+    "path": "/kidnapping/followHome/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ainda estou bem chocado - você pode me levar para casa de <questGiver>?",
+    "path": "/kidnapping/followHome/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu fiz para você o <item> que você precisa - Criado com habilidade Hylotl verdadeira.",
+    "path": "/request_craft/giftProvided/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu enganei você!",
+    "path": "/kill_npc/betray/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Eu... Estou muito perdido agora. Você poderia me levar para <questGiver>?",
+    "path": "/escort/found/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Agradeça <questGiver> por este presente em meu nome!",
+    "path": "/bribe/giftAccepted/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Você tem uma entrega para mim?",
+    "path": "/escort_trade/collectDelivery/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Acabou? Minha vida estava piscando diante dos meus olhos!",
+    "path": "/kidnapping/kidnappersDead/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "É... acabou? Oh, graças a Deus! Obrigado, obrigado, obrigado!",
+    "path": "/kidnapping/kidnappersDead/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é um suborno? Ah, quem se importa... Por favor, agradeça a <questGiver>!",
+    "path": "/bribe/giftAccepted/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é um suborno? Ah, quem se importa... Por favor, agradeça a <questGiver>.",
+    "path": "/bribe/giftAccepted/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Isto é um presente de <questGiver>? Ou é mais um suborno?",
+    "path": "/bribe/giftAccepted/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é um assalto?! Tudo bem, Eu não quero lutar, só pegue meu <item>.",
+    "path": "/extort/giftProvided/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Isto é suborno? Ah bem! Por favor, agradeça a <questGiver>!",
+    "path": "/bribe/giftAccepted/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "É um erro confiar em seu inimigo!",
+    "path": "/kill_npc/betray/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Judicioso. Eu me rendo, guarda sua arma.",
+    "path": "/kill_npc/surrender/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Só para que você saiba, eu não tenho idéia de onde esse <item> veio!",
+    "path": "/return_stolen/objectTaken/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas pegue o <item> - Eu valorizo minha segurança.",
+    "path": "/extort/giftProvided/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Muito obrigado pela mercadoria - Aqui está os <receivedItems> de <questGiver>.",
+    "path": "/barter/trade/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Travesso. Seu tolo!",
+    "path": "/kill_npc/betray/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Minha cabeça estava nas nuvens, e eu esqueci a trilha que eu vim aqui. Você poderia me levar para <questGiver>, parceiro?",
+    "path": "/escort/found/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Minha lealdade é influenciada! Agradeça a <questGiver>.",
+    "path": "/bribe/giftAccepted/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Minha rede de mentiras te enlaçou!",
+    "path": "/kill_npc/betray/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Nervoso. Eu não tenho idéia de como esse <item> chegou aqui!",
+    "path": "/return_stolen/objectTaken/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Não há necessidade de ser tão ameaçador! Apenas pegue meu <item>!",
+    "path": "/extort/giftProvided/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Não há necessidade de causar uma cena! Basta pegar o meu <item> se isso significa muito para você!",
+    "path": "/extort/giftProvided/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Oh, você poderia me levar de volta para <questGiver>? Estou irremediavelmente perdido.",
+    "path": "/escort/found/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Oh, uau! Por favor agradeça <questGiver> para mim!",
+    "path": "/gift/giftAccepted/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Oh, uau! Por favor agradeça <questGiver> para mim!",
+    "path": "/gift/giftAccepted/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Oh, você tem os itens que precisamos? Espere um segundo...",
+    "path": "/hat/crafting/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Oh, você tem os itens que precisamos? Espere um segundo...",
+    "path": "/hat/crafting/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Oh, você tem os itens que precisamos? Espere um segundo...",
+    "path": "/helmet/crafting/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Oh, você tem os itens que precisamos? Espere um segundo...",
+    "path": "/helmet/crafting/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ok, ok, eu me rendo! Por favor, abaixe sua arma!",
+    "path": "/kill_npc/surrender/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Aterrorizado. Eu não quero me machucar! Pegue o meu <item> se é isso que você precisa!",
+    "path": "/extort/giftProvided/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Por favor leve essa resposta de volta para <questGiver> para mim.",
+    "path": "/share_secret/pleaseTakeReply/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Por favor leve essa resposta de volta para <questGiver>.",
+    "path": "/share_secret/pleaseTakeReply/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Por favor leve essa resposta de volta para <questGiver>.",
+    "path": "/share_secret/pleaseTakeReply/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Por favor leve essa resposta de volta para <questGiver>.",
+    "path": "/share_secret/pleaseTakeReply/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Por favor diga a <questGiver> o quão feliz este presente me deixou!",
+    "path": "/gift/giftAccepted/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Por favor agradeça a <questGiver> por este presente adoravel!",
+    "path": "/gift/giftAccepted/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. <questGiver> é um bom amigo.",
+    "path": "/gift/giftAccepted2/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Um suborno! Diga obrigado a <questGiver>.",
+    "path": "/bribe/giftAccepted/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Eu terminei de fazer. Você pode entregar isto para <questGiver> para mim?",
+    "path": "/hat/crafted/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Eu terminei de fazer. Você pode entregar isto para <questGiver> para mim?",
+    "path": "/helmet/crafted/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Você me trouxe os itens que precisamos! Apenas me dê um momento para fazer isso...",
+    "path": "/hat/crafting/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Você me trouxe os itens que precisamos! Apenas me dê um momento para fazer isso...",
+    "path": "/helmet/crafting/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Sensato Aqui está o meu <item> - Apenas diga a <questGiver> para devolvê-lo em breve.",
+    "path": "/borrow/giftProvided/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aliviado. Graças a Deus você me salvou!",
+    "path": "/kidnapping/kidnappersDead/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Acabei! Agora, por favor, leve este pacote para <questGiver> para mim.",
+    "path": "/hat/crafted/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Acabei! Agora, por favor, leve este pacote para <questGiver> para mim.",
+    "path": "/helmet/crafted/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Chocado. Você realmente caiu nisso?",
+    "path": "/kill_npc/betray/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Fique calmo! Vou pagar a multa!",
+    "path": "/collect_fine/fineCollected/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Pare de me aterrorizar! Pegue o meu <item> se você precisa dele!",
+    "path": "/extort/giftProvided/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Pare de me atormentar e apenas pegue o <item>!",
+    "path": "/extort/giftProvided/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Claro, eu posso emprestar a <questGiver> meu <item>.",
+    "path": "/borrow/giftProvided/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Você realmente caiu nisso?",
+    "path": "/kill_npc/betray/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Pegue meu <item>, e me deixe em paz, eu imploro a você!",
+    "path": "/extort/giftProvided/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Leve esssa resposta para <questGiver>.",
+    "path": "/share_secret/pleaseTakeReply/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aterrorizado. Apenas pegue meu <item>! <questGiver> pode tê-lo!",
+    "path": "/extort/giftProvided/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Aterrorizado. Um, poderia me levar de volta a <questGiver>?",
+    "path": "/kidnapping/followHome/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado por me trazer os itens, vou só levar um tempinho para criar o que <questGiver> precisa.",
+    "path": "/hat/crafting/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado por me trazer os itens, vou só levar um tempinho para criar o que <questGiver> precisa.",
+    "path": "/helmet/crafting/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado por me trazer os materiais - Me dê um momento e eu posso fazer isso...",
+    "path": "/hat/crafting/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado por me trazer os materiais - Me dê um momento e eu posso fazer isso...",
+    "path": "/helmet/crafting/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado por entregar isso. Aqui está os <receivedItems> de <questGiver>.",
+    "path": "/barter/trade/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado por entregar isso. Aqui está a encomenda de <questGiver>!",
+    "path": "/new_stock/trade/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado pelas coisas. Aqui está o pacote de <questGiver>, não o perca!",
+    "path": "/new_stock/trade/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado pelas coisas! Floran só vai levar um momento para criar...",
+    "path": "/hat/crafting/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado pelas coisas! Floran só vai levar um momento para criar...",
+    "path": "/helmet/crafting/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado por esperar! Você pode entregar o pacote de <questGiver> para ele para mim?",
+    "path": "/hat/crafted/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado por esperar! Você pode entregar o pacote de <questGiver> para ele para mim?",
+    "path": "/helmet/crafted/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado por esperar. Aqui, leve isto para <questGiver>.",
+    "path": "/hat/crafted/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado por esperar. Aqui, leve isto para <questGiver>.",
+    "path": "/helmet/crafted/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Muito obrigado por trazer os itens, estou ansioso para começar a fabricação. Aqui, me dê um momento...",
+    "path": "/hat/crafting/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Muito obrigado por trazer os itens, estou ansioso para começar a fabricação. Aqui, me dê um momento...",
+    "path": "/helmet/crafting/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado! Eu não sei onde eu estaria agora se você não tivesse vindo junto.",
+    "path": "/kidnapping/kidnappersDead/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado, eu estava tão assustado! Meu coração está acelerando!",
+    "path": "/kidnapping/kidnappersDead/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado pela mercadoria, aqui está os <receivedItems> de <questGiver>.",
+    "path": "/barter/trade/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado pela mercadoria, aqui está os <receivedItems> de <questGiver>. Transmita os meus cumprimentos!",
+    "path": "/barter/trade/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado pela mercadoria, aqui está o pacote de <questGiver>. Transmita os meus cumprimentos!",
+    "path": "/new_stock/trade/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado pela mercadoria, aqui está o pacote de <questGiver>. Transmita os meus cumprimentos!",
+    "path": "/new_stock/trade/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado pelasss coisasss, aqui está os <receivedItems> de <questGiver>.",
+    "path": "/barter/trade/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Esse <item> foi adquirido de forma justa, eu juro!",
+    "path": "/return_stolen/objectTaken/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Esse <item> foi adquirido legitimamente - juro!",
+    "path": "/return_stolen/objectTaken/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Isso realmente arrepiou minhas penas... Você poderia me levar de volta para <questGiver>?",
+    "path": "/kidnapping/followHome/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Isso foi mais aterrorizante. Você poderia me levar de volta para <questGiver>?",
+    "path": "/kidnapping/followHome/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Não há necessidade de continuar me incomodando, eu decidi pagar!",
+    "path": "/collect_fine/fineCollected/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este <item> é o que <questGiver> precisa, correto?",
+    "path": "/collect_gift/giftProvided/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este presente é requintado. Você seria capaz de colocá-lo em algum lugar em minha casa para mim?",
+    "path": "/bribe/requestAdditionToHouse/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este presente é requintado. Você seria capaz de colocá-lo em algum lugar em minha casa para mim?",
+    "path": "/gift/requestAdditionToHouse/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este presente é muito poderoso! <questGiver> certamente tem a minha confiança!",
+    "path": "/gift/giftAccepted2/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este presente é muito poderoso! Você pode agradecer <questGiver> por mim?",
+    "path": "/gift/giftAccepted/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este presente ficaria bom exibido em minha casa. Você vai colocá-lo lá para mim?",
+    "path": "/bribe/requestAdditionToHouse/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este presente ficaria bom exibido em minha casa. Você vai colocá-lo lá para mim?",
+    "path": "/gift/requestAdditionToHouse/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este presente ficaria bem em minha casa. Você pode colocá-lo lá para mim?",
+    "path": "/bribe/requestAdditionToHouse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este presente ficaria bem em minha casa. Você pode colocá-lo lá para mim?",
+    "path": "/bribe/requestAdditionToHouse/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este presente ficaria bem em minha casa. Você pode colocá-lo lá para mim?",
+    "path": "/gift/requestAdditionToHouse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este presente ficaria bem na minha casa. Você pode colocá-lo lá para mim?",
+    "path": "/gift/requestAdditionToHouse/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este é um presente generoso - talvez ele deve estar em exibição na minha casa.",
+    "path": "/gift/requestAdditionToHouse/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este é um presente generoso - talvez ele deve estar em exibição na minha casa?",
+    "path": "/bribe/requestAdditionToHouse/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é seu.",
+    "path": "/escort_trade/provideDelivery/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um. Ainda estou com medo. Você pode me levar para casa de <questGiver>?",
+    "path": "/kidnapping/followHome/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Destemido. Por que eu deveria fazer o que <questGiver> quer?",
+    "path": "/intimidate/notIntimidated/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Cuidadoso. Esta parece ser a coisa certa... Ok. Vamos negociar. Leve este pacote para <questgiver>.",
+    "path": "/new_stock/trade/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Bem, você está com sorte! Eu fiz este <item> mais cedo, vá em frente e pegue.",
+    "path": "/request_craft/giftProvided/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este presente é simplismente adorável! Poderia colocá-lo em minha casa para mim, parceiro?",
+    "path": "/bribe/requestAdditionToHouse/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este presente é simplismente adorável! Poderia colocá-lo em minha casa para mim, parceiro?",
+    "path": "/gift/requestAdditionToHouse/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Que gesto amável. Por favor, agradeça <questGiver> para mim.",
+    "path": "/gift/giftAccepted/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Que presente adorável! Você seria capaz de colocá-lo em minha casa, para que eu possa apreciá-lo o tempo todo?",
+    "path": "/bribe/requestAdditionToHouse/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Que presente adorável! Você seria capaz de colocá-lo em minha casa, para que eu possa apreciá-lo o tempo todo?",
+    "path": "/gift/requestAdditionToHouse/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Que belo trabalho de fabricação eu fiz aqui! Seja uma estrela e corra entregar isso para <questGiver> para mim?",
+    "path": "/hat/crafted/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Que belo trabalho de fabricação eu fiz aqui! Seja uma estrela e corra entregar isso para <questGiver> para mim?",
+    "path": "/helmet/crafted/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Que belo gesto este presente é! Você poderia colocá-lo em minha casa para mim?",
+    "path": "/bribe/requestAdditionToHouse/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Que belo gesto este presente é! Você poderia colocá-lo em minha casa para mim?",
+    "path": "/gift/requestAdditionToHouse/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Que presente agradável! Poderia colocá-lo em minha casa, para que eu possa exibi-lo?",
+    "path": "/bribe/requestAdditionToHouse/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Que presente agradável! Poderia colocá-lo em minha casa, para que eu possa exibi-lo?",
+    "path": "/gift/requestAdditionToHouse/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Que presente agradável! Você seria capaz de colocá-lo em algum lugar em minha casa?",
+    "path": "/bribe/requestAdditionToHouse/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Que presente agradável! Você seria capaz de colocá-lo em algum lugar em minha casa?",
+    "path": "/gift/requestAdditionToHouse/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Por que eu deveria fazer o que <questGiver> quer?",
+    "path": "/intimidate/notIntimidated/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Por que eu deveria fazer o que <questGiver> quer?",
+    "path": "/intimidate/notIntimidated/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Por que eu deveria fazer o que <questGiver> quer?",
+    "path": "/intimidate/notIntimidated/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Por que eu deveria fazer o que <questGiver> quer?",
+    "path": "/intimidate/notIntimidated/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Por que faria o que Floran pediu?",
+    "path": "/kill_npc/betray/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Maravilhoso! Você não admira minha habilidade? Agora, você poderia levar o pacote para <questGiver>?",
+    "path": "/hat/crafted/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Maravilhoso! Você não admira minha habilidade? Agora, você poderia levar o pacote para <questGiver>?",
+    "path": "/helmet/crafted/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Talvez você poderia me escoltar de volta à <questGiver>?",
+    "path": "/kidnapping/followHome/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Esse <item> não foi roubado, ele só parece ser!",
+    "path": "/return_stolen/objectTaken/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você poderia gentilmente levar essa resposta para <questGiver>?",
+    "path": "/share_secret/pleaseTakeReply/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você queria este <item> que eu fiz? Aqui, pegue!",
+    "path": "/request_craft/giftProvided/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Sim, eu posso deixar <questGiver> pegar emprestado meu <item>.",
+    "path": "/borrow/giftProvided/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você é muito rápido em confiar em seu inimigo!",
+    "path": "/kill_npc/betray/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você trouxe os materiais pra Floran! Floran vai criar agora, espere...",
+    "path": "/hat/crafting/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você trouxe os materiais pra Floran! Floran vai criar agora, espere...",
+    "path": "/helmet/crafting/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você trouxe os itens? Ótimo, espere um momento...",
+    "path": "/hat/crafting/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você trouxe os itens? Ótimo, espere um momento...",
+    "path": "/helmet/crafting/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Trouxe os materiais? Ótimo, espere um momento então... ",
+    "path": "/hat/crafting/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Trouxe os materiais? Ótimo, espere um momento então... ",
+    "path": "/helmet/crafting/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você trouxe os materiais? Só me deixe fazer isso, então, me dê um momento...",
+    "path": "/hat/crafting/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você trouxe os materiais? Só me deixe fazer isso, então, me dê um momento...",
+    "path": "/helmet/crafting/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você trouxe os suprimentos? Beleza! Agora aguarde um momento para que eu possa criar...",
+    "path": "/hat/crafting/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você trouxe os suprimentos? Beleza! Agora aguarde um momento para que eu possa criar...",
+    "path": "/helmet/crafting/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você pode pegar esse <item> de volta, apenas não deixe Floran em apuros!",
+    "path": "/return_stolen/objectTaken/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você pegou Floran! Floran impressionado, aqui está a multa.",
+    "path": "/collect_fine/fineCollected/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você me pegou - vou pagar a multa. Só não me deixe em maiores problemas.",
+    "path": "/collect_fine/fineCollected/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você me pegou! Vou jogar limpo.",
+    "path": "/collect_fine/fineCollected/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você não me assusta, e nem <questGiver>!",
+    "path": "/intimidate/notIntimidated/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Seu tolo!",
+    "path": "/kill_npc/betray/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Seu tolo!",
+    "path": "/kill_npc/betray/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você tem os materiais, eu tenho as habilidades. Aguarde um momento para que eu possa fazer isso...",
+    "path": "/hat/crafting/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você tem os materiais, eu tenho as habilidades. Aguarde um momento para que eu possa fazer isso...",
+    "path": "/helmet/crafting/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você está aqui para pegar o pacote de <questGiver>? Aqui está, obrigado pela mercadoria, parceiro!",
+    "path": "/new_stock/trade/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você precisa que eu faça alguma coisa? Um <item> a caminho.",
+    "path": "/request_craft/giftProvided/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você salvou Floran! Floran está aliviado!",
+    "path": "/kidnapping/kidnappersDead/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você me salvou! Sou eternamente grato!",
+    "path": "/kidnapping/kidnappersDead/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você me salvou! Muito obrigado!",
+    "path": "/kidnapping/kidnappersDead/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você me salvou! Você é meu herói!",
+    "path": "/kidnapping/kidnappersDead/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você é um tolo!",
+    "path": "/kill_npc/betray/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você conseguiu os materiais? Boa. Espere um momento, eu só preciso fazer isso...",
+    "path": "/helmet/crafting/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você conseguiu os materiais? Espere um momento, eu só preciso fazer isso...",
+    "path": "/hat/crafting/apex/default/0"
+  }
+]

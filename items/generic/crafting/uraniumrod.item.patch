@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "É uma vara de de urânio."}, {"op": "replace", "path": "/shortdescription", "value": "Uranium Rod"}]
+[
+  {
+    "op": "replace",
+    "value": "É uma vara de de urânio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uranium Rod",
+    "path": "/shortdescription"
+  }
+]

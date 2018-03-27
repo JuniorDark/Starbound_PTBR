@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "AA Battery Pack"}, {"op": "replace", "path": "/description", "value": "Para que você sempre pareça energizado!"}]
+[
+  {
+    "op": "replace",
+    "value": "AA Battery Pack",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para que você sempre pareça energizado!",
+    "path": "/description"
+  }
+]

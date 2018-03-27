@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Eu gostaria de ter um pouco de detergente para derramar dentro."}, {"op": "replace", "path": "/avianDescription", "value": "Uma fonte."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma fonte encantadora."}, {"op": "replace", "path": "/description", "value": "Uma fonte aleatória. A mais imprevisível das fontes."}, {"op": "replace", "path": "/shortdescription", "value": "Random Fountain"}, {"op": "replace", "path": "/floranDescription", "value": "Uma fonte!"}, {"op": "replace", "path": "/glitchDescription", "value": "Hesitante. Uma fonte."}, {"op": "replace", "path": "/apexDescription", "value": "Uma fonte!"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma fonte encantadora.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fonte!",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fonte.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fonte aleatória. A mais imprevisível das fontes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fonte!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hesitante. Uma fonte.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu gostaria de ter um pouco de detergente para derramar dentro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Random Fountain",
+    "path": "/shortdescription"
+  }
+]

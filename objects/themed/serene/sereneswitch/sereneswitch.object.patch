@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um console sereno. Usá-lo é calmante."}, {"op": "replace", "path": "/shortdescription", "value": "Serene Console"}, {"op": "replace", "path": "/floranDescription", "value": "Floran aperta botões. Faz coisasss acontecerem!"}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Um único console pode controlar tantos mecanismos diferentes ao mesmo tempo."}, {"op": "replace", "path": "/apexDescription", "value": "Este console oferece um grande controle."}, {"op": "replace", "path": "/humanDescription", "value": "Um console de controle."}, {"op": "replace", "path": "/avianDescription", "value": "Um console útil."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um console de controle."}, {"op": "replace", "path": "/novakidDescription", "value": "Quero apertar todos os botões!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um console de controle.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran aperta botões. Faz coisasss acontecerem!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um console de controle.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um console útil.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Um único console pode controlar muitos mecanismos diferentes ao mesmo tempo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este console oferece um grande grau de controle.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um console sereno. Usá-lo é calmante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Serene Console",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu quero pressionar todos os botões!",
+    "path": "/novakidDescription"
+  }
+]

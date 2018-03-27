@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Lunarang ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Isso não é lua."}, {"op": "replace", "path": "/shortdescription", "value": "Lunarang"}]
+[
+  {
+    "op": "replace",
+    "value": "Lunarang",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lunarang ^yellow;^reset;",
+    "path": "/upgradeParameters/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso não é lua.",
+    "path": "/description"
+  }
+]

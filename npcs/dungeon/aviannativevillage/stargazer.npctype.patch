@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/dialog/converse/avian/avian/1", "value": "Eu sou um Stargazer, arauto de Kluex! Mas, com aquele olhar em seu olho, eu acho que você já sabia disso!"}, {"op": "replace", "path": "/dialog/converse/avian/avian/3", "value": "Um Avian além das estrelas! Diga-me, você tem espalhando a boa palavra de Kluex para ganhar suas asas?"}, {"op": "replace", "path": "/dialog/converse/avian/default/5", "value": "O povo Avian em breve subira ao nosso lugar no céu. Não sinta nossa falta quando estivermos indo embora, estranho."}, {"op": "replace", "path": "/dialog/converse/avian/avian/4", "value": "Se formos bom para Kluex, todos nós vamos ganhar um lugar nos céus. Outras raças não chegam a se juntar a nós, embora."}, {"op": "replace", "path": "/dialog/converse/avian/default/0", "value": "Ouça, estranho, à palavra de Kluex! Trema diante de sua força alada! Maravilhe-se com a sua compaixão garrada!"}, {"op": "replace", "path": "/dialog/converse/avian/avian/0", "value": "Ouça, companheiro Avian, à palavra de Kluex! Trema diante de sua força alada! Maravilhe-se com a sua compaixão garrada!"}, {"op": "replace", "path": "/dialog/converse/avian/default/1", "value": "Eu sou um Stargazer, arauto de Kluex! Quando falo, falo as palavras de nosso deus alado!"}, {"op": "replace", "path": "/dialog/converse/avian/avian/2", "value": "Toda vez que algo de bom acontece com você é por causa de Kluex. Mas, como uma Avian, eu tenho certeza que você já sabe disso!"}, {"op": "replace", "path": "/dialog/converse/avian/default/2", "value": "Toda vez que algo de bom acontece com você, estranho, é por causa de Kluex. Tudo de ruim é apenas culpa sua."}, {"op": "replace", "path": "/dialog/converse/avian/default/3", "value": "Você não se parece com um verdadeiro seguidor de Kluex. Seja educado, estranho, e não vamos ter que te machucar."}, {"op": "replace", "path": "/dialog/converse/avian/default/4", "value": "Você não é daqui. Contanto que você respeite as leis de Kluex então não temos nenhuma briga com você."}]
+[
+  {
+    "op": "replace",
+    "value": "Um Avian além das estrelas! Diga-me, você tem espalhando a boa palavra de Kluex para ganhar suas asas?",
+    "path": "/dialog/converse/avian/avian/3"
+  },
+  {
+    "op": "replace",
+    "value": "Toda vez que algo de bom acontece com você é por causa de Kluex. Mas, como uma Avian, eu tenho certeza que você já sabe disso!",
+    "path": "/dialog/converse/avian/avian/2"
+  },
+  {
+    "op": "replace",
+    "value": "Toda vez que algo de bom acontece com você, estranho, é por causa de Kluex. Tudo de ruim é apenas culpa sua.",
+    "path": "/dialog/converse/avian/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sou um Stargazer, arauto de Kluex! Mas, com aquele olhar em seu olho, eu acho que você já sabia disso!",
+    "path": "/dialog/converse/avian/avian/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sou um Stargazer, arauto de Kluex! Quando falo, falo as palavras de nosso deus alado!",
+    "path": "/dialog/converse/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Se formos bom para Kluex, todos nós vamos ganhar um lugar nos céus. Outras raças não chegam a se juntar a nós, embora.",
+    "path": "/dialog/converse/avian/avian/4"
+  },
+  {
+    "op": "replace",
+    "value": "Ouça, companheiro Avian, à palavra de Kluex! Trema diante de sua força alada! Maravilhe-se com a sua compaixão garrada!",
+    "path": "/dialog/converse/avian/avian/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ouça, estranho, à palavra de Kluex! Trema diante de sua força alada! Maravilhe-se com a sua compaixão garrada!",
+    "path": "/dialog/converse/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "O povo Avian em breve subira ao nosso lugar no céu. Não sinta nossa falta quando estivermos indo embora, estranho.",
+    "path": "/dialog/converse/avian/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Você não é daqui. Contanto que você respeite as leis de Kluex então não temos nenhuma briga com você.",
+    "path": "/dialog/converse/avian/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Você não se parece com um verdadeiro seguidor de Kluex. Seja educado, estranho, e não vamos ter que te machucar.",
+    "path": "/dialog/converse/avian/default/3"
+  }
+]

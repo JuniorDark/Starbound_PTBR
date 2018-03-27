@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Planetas orbitando um sol. Qual sistema solar poderia ser?"}, {"op": "replace", "path": "/shortdescription", "value": "Ancient Hologram"}, {"op": "replace", "path": "/hylotlDescription", "value": "Eu me pergunto como esse holograma das estrelas foi feito?"}, {"op": "replace", "path": "/floranDescription", "value": "Imagem de planetasss! Planetasss para ssaquear!"}, {"op": "replace", "path": "/glitchDescription", "value": "Inspirado. Este holograma me faz querer viajar pelas estrelas."}, {"op": "replace", "path": "/apexDescription", "value": "Este holograma parece descrever uma espécie de galáxia."}, {"op": "replace", "path": "/humanDescription", "value": "O espaço é bonito!"}, {"op": "replace", "path": "/description", "value": "Uma antiga representação holográfica de uma galáxia."}, {"op": "replace", "path": "/novakidDescription", "value": "As estrelas - Meu tipo estão muito familiarizados com elas..."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma antiga representação holográfica de uma galáxia.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto como esse holograma das estrelas foi feito?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inspirado. Este holograma me faz querer viajar pelas estrelas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Imagem de planetasss! Planetasss para ssaquear!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Planetas orbitando um sol. Qual sistema solar poderia ser?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O espaço é bonito!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "As estrelas - Meu tipo estão muito familiarizados com elas...",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este holograma parece descrever uma espécie de galáxia.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ancient Hologram",
+    "path": "/shortdescription"
+  }
+]

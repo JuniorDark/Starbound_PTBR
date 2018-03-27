@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Os espinhos afiados podem penetrar qualquer bota espacial."}, {"op": "replace", "path": "/shortdescription", "value": "Crustoise"}]
+[
+  {
+    "op": "replace",
+    "value": "Os espinhos afiados podem penetrar qualquer bota espacial.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Crustoise",
+    "path": "/shortdescription"
+  }
+]

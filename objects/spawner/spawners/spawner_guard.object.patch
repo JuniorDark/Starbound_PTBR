@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/description", "value": "Gere o seu próprio guarda!"}, {"op": "replace", "path": "/shortdescription", "value": "Guard Spawner"}, {"op": "replace", "path": "/floranDescription", "value": "Floran pode proteger a sssi mesmo! Mas mais guardas não machucam."}, {"op": "replace", "path": "/glitchDescription", "value": "Contente. A união faz a força."}, {"op": "replace", "path": "/apexDescription", "value": "Eu poderia ter alguma proteção extra da Miniknog."}, {"op": "replace", "path": "/humanDescription", "value": "Eu sempre quis uma comitiva."}, {"op": "replace", "path": "/avianDescription", "value": "Com um guarda, Kluex não ousaria me tocar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Guardas poderiam me ajudar a espalhar a paz."}]
+[
+  {
+    "op": "replace",
+    "value": "Contente. A união faz a força.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran pode proteger a sssi mesmo! Mas mais guardas não machucam.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Guard Spawner",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Guardas poderiam me ajudar a espalhar a paz.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu poderia ter alguma proteção extra da Miniknog.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sempre quis uma comitiva.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gere o seu próprio guarda!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Com um guarda, Kluex não ousaria me tocar.",
+    "path": "/avianDescription"
+  }
+]

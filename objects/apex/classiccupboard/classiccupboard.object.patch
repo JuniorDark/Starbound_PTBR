@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um grande armário de armazenamento elegante."}, {"op": "replace", "path": "/shortdescription", "value": "Classic Cupboard"}, {"op": "replace", "path": "/floranDescription", "value": "Vamoss dar uma olhada dentro."}, {"op": "replace", "path": "/glitchDescription", "value": "Esperançoso. Talvez haja algo útil dentro."}, {"op": "replace", "path": "/humanDescription", "value": "Vamos ver o que está guardado aqui dentro."}, {"op": "replace", "path": "/avianDescription", "value": "Um armário de tal magnificência que pode talvez conter algo igualmente valioso dentro."}, {"op": "replace", "path": "/hylotlDescription", "value": "O que há por trás dessas portas luxuosas?"}, {"op": "replace", "path": "/apexDescription", "value": "Um armário de aparência cara, talvez usado para guardar segredos."}, {"op": "replace", "path": "/novakidDescription", "value": "Parece um grande armário elegante."}]
+[
+  {
+    "op": "replace",
+    "value": "Um armário de tal magnificência que pode talvez conter algo igualmente valioso dentro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um grande armário de armazenamento elegante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário de aparência cara, talvez usado para guardar segredos.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Classic Cupboard",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esperançoso. Talvez haja algo útil dentro.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos ver o que está guardado aqui dentro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vamoss dar uma olhada dentro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece um grande armário elegante.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que há por trás dessas portas luxuosas?",
+    "path": "/hylotlDescription"
+  }
+]

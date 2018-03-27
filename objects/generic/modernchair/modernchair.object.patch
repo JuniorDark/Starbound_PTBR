@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma cadeira contemporânea."}, {"op": "replace", "path": "/shortdescription", "value": "Modern Chair"}, {"op": "replace", "path": "/floranDescription", "value": "Cadeira rodada boba."}, {"op": "replace", "path": "/apexDescription", "value": "Um assento suave."}, {"op": "replace", "path": "/avianDescription", "value": "Um copo de ovo gigante."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma cadeira atrativa em forma, se um pouco clínico."}, {"op": "replace", "path": "/novakidDescription", "value": "Cadeira de aparência engraçada. Eu gosto disso!"}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Projetada para o máximo conforto."}, {"op": "replace", "path": "/humanDescription", "value": "Esta cadeira parece estar te abraçando."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira contemporânea.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um copo de ovo gigante.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um assento suave.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira atrativa em forma, se um pouco clínico.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cadeira de aparência engraçada. Eu gosto disso!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Modern Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Projetada para o máximo conforto.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cadeira rodada boba.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cadeira parece estar te abraçando.",
+    "path": "/humanDescription"
+  }
+]

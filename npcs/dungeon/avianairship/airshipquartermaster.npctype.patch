@@ -1,1 +1,132 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/5", "value": "Acho que tenho algo de útil para você."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/avian/default/1", "value": "Se precisar de mais alguma coisa, venha me ver!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/avian/default/4", "value": "Nada além do melhor."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/tout/default/default/0", "value": "Precisa de umas mercadorias? Eu posso te ajudar com isso!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/avian/default/2", "value": "Vamos negociar!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/avian/default/3", "value": "Dê uma olhada!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/avian/default/1", "value": "Algo lhe chamando atenção?"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/0", "value": "Então, do que você precisa?"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/1", "value": "Algo lhe chamando atenção?"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/avian/default/2", "value": "Se você tiver pixels, nós temos as mercadorias."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/2", "value": "Vamos negociar!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/tout/default/default/1", "value": "Se estiver procurando por mercadorias, eu cuido das negociações por aqui!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/4", "value": "Nada além do melhor."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/welcome/default/default/1", "value": "Agora, está á procura de algo?"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/3", "value": "Dê uma olhada."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/welcome/default/default/0", "value": "Aqui estamos!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/welcome/default/default/2", "value": "Isso mesmo!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/avian/default/0", "value": "Venha até nós se precisar de mais coisas!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/avian/default/0", "value": "Então, do que você precisa?"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/2", "value": "Se você tiver pixels, nós temos mercadorias."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/follow/default/default/0", "value": "Querendo negociar? Siga-me."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/0", "value": "Venha até nós se precisar de mais mercadorias!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/1", "value": "Se precisar de algo mais, venha me ver!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/follow/default/default/2", "value": "Ah, precisa de mercadorias? Por aqui!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/avian/default/5", "value": "Acho que tenho algo de útil para você."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/follow/default/default/1", "value": "Á procura de mercadorias? Eu posso te ajudar com isso! Me siga."}]
+[
+  {
+    "op": "replace",
+    "value": "Agora, então, o que você estava procurando?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Á procura de mercadorias? Eu posso te ajudar com isso! Me siga.",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Ah, precisa de mercadorias? Por aqui!",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Algo lhe chamando atenção?",
+    "path": "/scriptConfig/dialog/merchant/start/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Algo lhe chamando atenção?",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Se precisar de algo mais, venha me ver!",
+    "path": "/scriptConfig/dialog/merchant/end/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Se precisar de algo mais, venha me ver!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Venha até nós se precisar de mais mercadorias!",
+    "path": "/scriptConfig/dialog/merchant/end/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Venha até nós se precisar de mais mercadorias!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui estamos!",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Acho que tenho algo de útil para você.",
+    "path": "/scriptConfig/dialog/merchant/start/avian/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Acho que tenho algo de útil para você.",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Se estiver procurando por mercadorias, eu cuido das negociações por aqui!",
+    "path": "/scriptConfig/dialog/merchant/tout/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Se você tiver pixels, nós temos mercadorias.",
+    "path": "/scriptConfig/dialog/merchant/end/avian/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Se você tiver pixels, nós temos mercadorias.",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos negociar!",
+    "path": "/scriptConfig/dialog/merchant/start/avian/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos negociar!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Querendo negociar? Siga-me.",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Precisa de umas mercadorias? Eu posso te ajudar com isso!",
+    "path": "/scriptConfig/dialog/merchant/tout/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Nada além do melhor.",
+    "path": "/scriptConfig/dialog/merchant/start/avian/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Nada além do melhor.",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Então, do que você precisa?",
+    "path": "/scriptConfig/dialog/merchant/start/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Então, do que você precisa?",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Dê uma olhada.",
+    "path": "/scriptConfig/dialog/merchant/start/avian/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Dê uma olhada.",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Isso mesmo!",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/2"
+  }
+]

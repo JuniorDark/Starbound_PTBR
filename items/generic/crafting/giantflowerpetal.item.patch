@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Giant Flower Petal"}, {"op": "replace", "path": "/description", "value": "Uma pétala de flor gigante. Macia!"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pétala de flor gigante. Macia!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Giant Flower Petal",
+    "path": "/shortdescription"
+  }
+]

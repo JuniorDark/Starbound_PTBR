@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Tijoloss pequenoss empoeiradoss."}, {"op": "replace", "path": "/glitchDescription", "value": "Surpreso. Estes pequenos blocos exibem um alto nível de artesanato."}, {"op": "replace", "path": "/novakidDescription", "value": "Alguns tijolos empoeirados."}, {"op": "replace", "path": "/description", "value": "Tijolos empoeirados mas finamente trabalhados."}, {"op": "replace", "path": "/shortdescription", "value": "Small Temple Bricks"}]
+[
+  {
+    "op": "replace",
+    "value": "Surpreso. Estes pequenos blocos exibem um alto nível de artesanato.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijoloss pequenoss empoeiradoss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijolos empoeirados mas finamente trabalhados.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Small Temple Bricks",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns tijolos empoeirados.",
+    "path": "/novakidDescription"
+  }
+]

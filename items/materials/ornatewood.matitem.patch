@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Ornate Wood"}, {"op": "replace", "path": "/description", "value": "Madeira ornamentada habilmente tratada."}]
+[
+  {
+    "op": "replace",
+    "value": "Surpreso. Esta madeira foi tratada especialmente por um mestre artesão.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Madeira ornamentada habilmente tratada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de madeira tratada especial.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ornate Wood",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa madeira parece ter sido tratada com alguma coisa.",
+    "path": "/novakiddescription"
+  }
+]

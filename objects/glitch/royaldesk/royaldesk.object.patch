@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma mesa real chique."}, {"op": "replace", "path": "/shortdescription", "value": "Royal Desk"}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Uma escrivaninha. Normalmente, tripulada pelo rei."}, {"op": "replace", "path": "/apexDescription", "value": "Talvez esta mesa contenha algo de notavel."}, {"op": "replace", "path": "/humanDescription", "value": "Parece uma escrivaninha, mas não há uma mancha de tinta na superfície."}, {"op": "replace", "path": "/avianDescription", "value": "Uma escrivaninha da qual um rei governa seu reino."}, {"op": "replace", "path": "/hylotlDescription", "value": "O ouro é uma adição supérflua a esta mesa."}, {"op": "replace", "path": "/floranDescription", "value": "Escrivaninha brilhante para homem de metal importante."}, {"op": "replace", "path": "/novakidDescription", "value": "Não tenho tanta certeza de que esta escrivaninha seja realmente utilizada para o trabalho de um rei."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma escrivaninha da qual um rei governa seu reino.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa real chique.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Não tenho tanta certeza de que esta escrivaninha seja realmente utilizada para o trabalho de um rei.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece uma escrivaninha, mas não há uma mancha de tinta na superfície.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Uma escrivaninha. Normalmente, tripulada pelo rei.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez esta mesa contenha algo de notavel.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Royal Desk",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Escrivaninha brilhante para homem de metal importante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O ouro é uma adição supérflua a esta mesa.",
+    "path": "/hylotlDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Confuso. Os Apex retratados nestas pratos parece ter evoluído. Por que essas imagens existem em platos antigos."}, {"op": "replace", "path": "/shortdescription", "value": "Classic China Cabinet"}, {"op": "replace", "path": "/hylotlDescription", "value": "Julgando pelas imagens nestas peças, os Apex já foram uma raça bonita."}, {"op": "replace", "path": "/floranDescription", "value": "Macacos bobosss, por que prender pratoss? Eles não vão fugir."}, {"op": "replace", "path": "/apexDescription", "value": "A porcelana retrata os Apex antes da corrupção de nosso DNA. Muitos de nós querem ser o que nós já fomos uma vez."}, {"op": "replace", "path": "/humanDescription", "value": "A porcelana aqui está coberta com imagens de Apex sem qualquer pelagem."}, {"op": "replace", "path": "/avianDescription", "value": "Os Apex nisto não tem cabelo. Estou assumindo, é claro, que eles são Apex."}, {"op": "replace", "path": "/description", "value": "A razão pela qual você não joga bola dento de casa."}, {"op": "replace", "path": "/novakidDescription", "value": "Um bando de platos em exposição, eu não sei como tira-los de lá."}]
+[
+  {
+    "op": "replace",
+    "value": "Um bando de platos em exposição, eu não sei como tira-los de lá.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Classic China Cabinet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Os Apex retratados nestas pratos parece ter evoluído. Por que essas imagens existem em platos antigos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Julgando pelas imagens nestas peças, os Apex já foram uma raça bonita.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Macacos bobosss, por que prender pratoss? Eles não vão fugir.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Apex nisto não tem cabelo. Estou assumindo, é claro, que eles são Apex.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A porcelana retrata os Apex antes da corrupção de nosso DNA. Muitos de nós querem ser o que nós já fomos uma vez.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A porcelana aqui está coberta com imagens de Apex sem qualquer pelagem.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A razão pela qual você não joga bola dento de casa.",
+    "path": "/description"
+  }
+]

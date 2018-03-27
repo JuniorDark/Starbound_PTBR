@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um protótipo de corpo de mecha aberto, projetado pela Corporação Letheia."
+    "value": "Um protótipo de corpo de mecha aberto, projetado pela Corporação Letheia.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Venturer-00 Mech Body",
+    "path": "/shortdescription"
   }
 ]

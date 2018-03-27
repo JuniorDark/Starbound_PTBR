@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Esta lâmpada estranha emite uma luz verde fraca."}, {"op": "replace", "path": "/shortdescription", "value": "Green Lamp Pod"}, {"op": "replace", "path": "/floranDescription", "value": "Luzes verdesss lembram Floran da aldeia natal."}, {"op": "replace", "path": "/glitchDescription", "value": "Atento. Parece que este objeto está obtendo dados biométricos das formas de vida orgânicas próximas."}, {"op": "replace", "path": "/apexDescription", "value": "Estas lâmpadas foram entregues pela Miniknog na minha juventude. Elas estão em muitas casas Apex."}, {"op": "replace", "path": "/humanDescription", "value": "Este dispositivo é pesado demais para uma lâmpada."}, {"op": "replace", "path": "/avianDescription", "value": "Este dispositivo emite um brilho verde não natural."}, {"op": "replace", "path": "/hylotlDescription", "value": "Acredito que a iluminação não é o verdadeiro propósito deste dispositivo."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma luz verde estranha."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz verde estranha.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Green Lamp Pod",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luzes verdesss lembram Floran da aldeia natal.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Acredito que a iluminação não é o verdadeiro propósito deste dispositivo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Parece que este objeto está obtendo dados biométricos das formas de vida orgânicas próximas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas lâmpadas foram entregues pela Miniknog na minha juventude. Elas estão em muitas casas Apex.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este dispositivo é pesado demais para uma lâmpada.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este dispositivo emite um brilho verde não natural.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lâmpada estranha emite uma luz verde fraca.",
+    "path": "/description"
+  }
+]

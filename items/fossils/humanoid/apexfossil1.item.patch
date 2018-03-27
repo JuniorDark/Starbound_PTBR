@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/completeSetDescriptions/description", "value": "Os restos fossilizados de um Apex. Observe os dentes poderosos e cumes da testa nítidos."}, {"op": "replace", "path": "/shortdescription", "value": "Apex Skull"}, {"op": "replace", "path": "/completeSetDescriptions/shortdescription", "value": "Apex Fossil"}, {"op": "replace", "path": "/description", "value": "Um crânio de Apex fossilizado."}]
+[
+  {
+    "op": "replace",
+    "value": "Apex Fossil",
+    "path": "/completeSetDescriptions/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os restos fossilizados de um Apex. Observe os dentes poderosos e cumes da testa nítidos.",
+    "path": "/completeSetDescriptions/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um crânio de Apex fossilizado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Apex Skull",
+    "path": "/shortdescription"
+  }
+]

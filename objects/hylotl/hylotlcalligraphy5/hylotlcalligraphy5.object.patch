@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Parece que aconteceu um acidente nesta tela."}, {"op": "replace", "path": "/avianDescription", "value": "Não é inspirador para todos, exceto os Hylotl."}, {"op": "replace", "path": "/glitchDescription", "value": "Crítico. Talvez os Hylotl devem emoldurar a palavra 'arrogância' em vez disso."}, {"op": "replace", "path": "/floranDescription", "value": "Parece padrão de facadasss."}, {"op": "replace", "path": "/shortdescription", "value": "Hylotl \"Pond\" Calligraphy"}, {"op": "replace", "path": "/description", "value": "Caligrafia emoldurada para 'lagoa'."}, {"op": "replace", "path": "/hylotlDescription", "value": "A beleza estranha traz lágrimas aos meus olhos."}, {"op": "replace", "path": "/humanDescription", "value": "Isto é como uma daquelas peças de arte modernas. Eu não sou um fã."}, {"op": "replace", "path": "/apexDescription", "value": "Os Hylotl parecem valorizar sua linguagem o suficiente para tratá-la como arte."}]
+[
+  {
+    "op": "replace",
+    "value": "Caligrafia emoldurada para 'lagoa'.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Hylotl \"Pond\" Calligraphy",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Crítico. Talvez os Hylotl devem emoldurar a palavra 'arrogância' em vez disso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que aconteceu um acidente nesta tela.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece padrão de facadasss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Hylotl parecem valorizar sua linguagem o suficiente para tratá-la como arte.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A beleza estranha traz lágrimas aos meus olhos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto é como uma daquelas peças de arte modernas. Eu não sou um fã.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não é inspirador para todos, exceto os Hylotl.",
+    "path": "/avianDescription"
+  }
+]

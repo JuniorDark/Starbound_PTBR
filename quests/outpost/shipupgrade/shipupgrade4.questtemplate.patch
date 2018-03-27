@@ -1,32 +1,32 @@
 [
   {
     "op": "replace",
-    "path": "/text",
-    "value": "Oito tripulantes! Parabéns - agora você se qualifica para a Eagle License! ^green; Visite Pinguim Pete^reset; com ^orange;8 Upgrade Modules^reset; para atualizar sua nave."
+    "value": "Penguin Pete",
+    "path": "/scriptConfig/portraits/questComplete/title"
   },
   {
     "op": "replace",
-    "path": "/completionText",
-    "value": "Sorte que há muito espaço no espaço! Sua nave vai ter espaço de sobra depois desta atualização."
+    "value": "Entregue ^orange;Upgrade Modules^reset; para ^orange;Penguin Pete^reset; no ^orange;posto avançado^reset;.",
+    "path": "/scriptConfig/turnInDescription"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/portraits/questComplete/title",
-    "value": "Pinguim Pete"
+    "value": "Encontre ^orange;<itemName>^reset;: ^green;<current> / <required>^reset;",
+    "path": "/scriptConfig/conditions/0/description"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "^green;Atualização de Nave Eagle"
+    "value": "Sorte que há muito espaço no espaço! Sua nave vai ter espaço de sobra depois desta atualização.",
+    "path": "/completionText"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/turnInDescription",
-    "value": "Entregue ^orange;Upgrade Modules^reset; para ^orange;Penguin Pete^reset; no ^orange;posto avançado^reset;."
+    "value": "Oito tripulantes! Parabéns - agora você se qualifica para a Eagle License! ^green; Visite Pinguim Pete^reset; com ^orange;8 Upgrade Modules^reset; para atualizar sua nave.",
+    "path": "/text"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/conditions/0/description",
-    "value": "Encontre ^orange;<itemName>^reset;: ^green;<current> / <required>^reset;"
+    "value": "^green;Atualização de Nave Eagle",
+    "path": "/title"
   }
 ]

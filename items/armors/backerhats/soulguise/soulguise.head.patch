@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um elmo de extraordinário poder sombrio, ele chama pelo seu verdadeiro mestre."}, {"op": "replace", "path": "/shortdescription", "value": "Soul Guise Helmet"}]
+[
+  {
+    "op": "replace",
+    "value": "Um elmo de extraordinário poder sombrio, ele chama pelo seu verdadeiro mestre.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Soul Guise Helmet",
+    "path": "/shortdescription"
+  }
+]

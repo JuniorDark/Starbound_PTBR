@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Timber"}, {"op": "replace", "path": "/description", "value": "Madeira que foi preparada para construção e fabricação."}]
+[
+  {
+    "op": "replace",
+    "value": "Tábuas de madeira básica.",
+    "path": "/hylotldescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas algumas tábuas de madeira básica.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Estas são tábuas de madeira bem trabalhadas.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas tábuas de madeira trabalhada.",
+    "path": "/apexdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas tábuas simples feitas de madeira.",
+    "path": "/humandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tábuass de madeira lascada.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Timber",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Madeira que foi preparada para construção e fabricação.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Madeira que foi transformada em tábuas.",
+    "path": "/aviandescription"
+  }
+]

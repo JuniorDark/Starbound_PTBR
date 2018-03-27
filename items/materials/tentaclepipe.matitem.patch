@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Large Tentacle"}, {"op": "replace", "path": "/description", "value": "Um grande tentáculo"}, {"op": "replace", "path": "/floranDescription", "value": "Grandess tentáculoss fortess."}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. Este tentáculo é certamente de algo bastante grande."}, {"op": "replace", "path": "/novakidDescription", "value": "Parece que eu sou um tipo de tentáculo"}]
+[
+  {
+    "op": "replace",
+    "value": "Um grande tentáculo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Grandess tentáculoss fortess.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Este tentáculo é certamente de algo bastante grande.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Large Tentacle",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pra mim parece algum tipo de tentáculo.",
+    "path": "/novakidDescription"
+  }
+]

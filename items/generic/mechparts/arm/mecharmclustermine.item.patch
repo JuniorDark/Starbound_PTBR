@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um braço de mecha que dispara um conjunto de pequenas minas remotas."
+    "value": "Um braço de mecha que dispara um conjunto de pequenas minas remotas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cluster Mine Mech Arm",
+    "path": "/shortdescription"
   }
 ]

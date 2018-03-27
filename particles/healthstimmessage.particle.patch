@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/definition/text", "value": "^shadow;Regeneração"}]
+[
+  {
+    "op": "replace",
+    "value": "^shadow;Regeneração",
+    "path": "/definition/text"
+  }
+]

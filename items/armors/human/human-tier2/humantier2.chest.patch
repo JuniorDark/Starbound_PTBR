@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Scavenger's Breastplate"}, {"op": "replace", "path": "/description", "value": "Este peitoral oferece uma camada resistente de proteção."}]
+[
+  {
+    "op": "replace",
+    "value": "Scavenger's Breastplate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este peitoral oferece uma camada resistente de proteção.",
+    "path": "/description"
+  }
+]

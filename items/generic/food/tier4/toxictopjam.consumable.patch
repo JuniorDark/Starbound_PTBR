@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Toxictop Jam"}, {"op": "replace", "path": "/description", "value": "Geléia feita de fruta toxictop. Mas é realmente tóxica para comer? Só há uma maneira de descobrir!"}]
+[
+  {
+    "op": "replace",
+    "value": "Geléia feita de fruta toxictop. Mas é realmente tóxica para comer? Só há uma maneira de descobrir!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Toxictop Jam",
+    "path": "/shortdescription"
+  }
+]

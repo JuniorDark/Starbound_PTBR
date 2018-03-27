@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Este componente poderia ser útil para a fabricação de impulsionadores de mecha."
+    "value": "Salvaged Thruster Nozzle",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este componente poderia ser útil para a fabricação de propulsores de mecha.",
+    "path": "/description"
   }
 ]

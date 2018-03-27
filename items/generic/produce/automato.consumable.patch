@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Automato"}, {"op": "replace", "path": "/description", "value": "Automates! Certifique-se de cuspir os parafusos."}]
+[
+  {
+    "op": "replace",
+    "value": "Automates! Certifique-se de cuspir os parafusos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Automato",
+    "path": "/shortdescription"
+  }
+]

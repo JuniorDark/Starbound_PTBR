@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Molten Boomerang ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Um bumerangue escaldante com um núcleo fundido."}, {"op": "replace", "path": "/shortdescription", "value": "Molten Boomerang"}]
+[
+  {
+    "op": "replace",
+    "value": "Um bumerangue escaldante com um núcleo fundido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Molten Boomerang",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Molten Boomerang ^yellow;^reset;",
+    "path": "/upgradeParameters/shortdescription"
+  }
+]

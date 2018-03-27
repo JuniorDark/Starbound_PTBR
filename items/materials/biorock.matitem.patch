@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Esta rocha está brilhando com bioluminescência."}, {"op": "replace", "path": "/shortdescription", "value": "Yellow Glow Rock"}]
+[
+  {
+    "op": "replace",
+    "value": "Curioso. Bactérias microscópicas nesta rocha estão brilhando com um amarelo fraco.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de pedrass amarelas brilhantess. ",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta rocha está brilhando amarelo, mas não esta emitindo qualquer calor.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta rocha esta brilhando com bioluminescência.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Yellow Glow Rock",
+    "path": "/shortdescription"
+  }
+]

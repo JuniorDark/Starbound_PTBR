@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um bastião de ordem em um mundo incerto."}, {"op": "replace", "path": "/shortdescription", "value": "Riot Shield"}]
+[
+  {
+    "op": "replace",
+    "value": "Um bastião de ordem em um mundo incerto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Riot Shield",
+    "path": "/shortdescription"
+  }
+]

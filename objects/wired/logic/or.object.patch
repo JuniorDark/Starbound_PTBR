@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Um interruptor /'OR'/ . Permite que você tenha várias entradas individuais."}, {"op": "replace", "path": "/description", "value": "Um interruptor /'OR'/ . Permite que você tenha várias entradas individuais."}, {"op": "replace", "path": "/shortdescription", "value": "OR Switch"}, {"op": "replace", "path": "/floranDescription", "value": "Um interruptor /'OR'/ . Permite que você tenha várias entradas individuais."}]
+[
+  {
+    "op": "replace",
+    "value": "Um interruptor /'OR'/ . Permite que você tenha várias entradas individuais.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um interruptor /'OR'/ . Permite que você tenha várias entradas individuais.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "OR Switch",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Um interruptor /'OR'/ . Permite que você tenha várias entradas individuais.",
+    "path": "/glitchDescription"
+  }
+]

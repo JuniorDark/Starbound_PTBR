@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Marcando este teletransportador posso teleportar direto de volta aqui quando eu encontrar um outro teletransportador."}, {"op": "replace", "path": "/shortdescription", "value": "2 Stop Teleshop Teleporter"}, {"op": "replace", "path": "/glitchDescription", "value": "Ansioso. Marcando este teletransportador eu deveria ser capaz de voltar a este ponto de qualquer outro teletransportador!"}, {"op": "replace", "path": "/apexDescription", "value": "Se eu marcar este teletransportador eu posso voltar aqui de um teletransportador diferente a qualquer ponto."}, {"op": "replace", "path": "/humanDescription", "value": "É um teletransportador! Se eu marcá-lo eu deveria ser capaz de voltar aqui de um teletransportador diferente sempre que eu quiser."}, {"op": "replace", "path": "/avianDescription", "value": "Um teletransportador funcionando! Se eu marcá-lo eu possa voltar aqui de um teletransportador diferente de qualquer ponto."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um teletransportador. Se eu marcá-lo eu deveria ser capaz de voltar a este ponto a partir de um teletransportador diferente."}, {"op": "replace", "path": "/floranDescription", "value": "Se Floran marcar este teletransportador Floran pode retornar aqui a partir de outrass máquinass de teletransporte!"}, {"op": "replace", "path": "/description", "value": "Este teletransportador se faz uma grande demonstração e um ponto de retorno útil!"}]
+[
+  {
+    "op": "replace",
+    "value": "2 Stop Teleshop Teleporter",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um teletransportador funcionando! Se eu marcá-lo eu possa voltar aqui de um teletransportador diferente de qualquer ponto.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um teletransportador. Se eu marcá-lo eu deveria ser capaz de voltar a este ponto a partir de um teletransportador diferente.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Marcando este teletransportador posso teleportar direto de volta aqui quando eu encontrar um outro teletransportador.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. Marcando este teletransportador eu deveria ser capaz de voltar a este ponto de qualquer outro teletransportador!",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se Floran marcar este teletransportador Floran pode retornar aqui a partir de outrass máquinass de teletransporte!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se eu marcar este teletransportador eu posso voltar aqui de um teletransportador diferente a qualquer ponto.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um teletransportador! Se eu marcá-lo eu deveria ser capaz de voltar aqui de um teletransportador diferente sempre que eu quiser.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este teletransportador se faz uma grande demonstração e um ponto de retorno útil!",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um biombo de couro, usado na preparação de alimentos Floran."}, {"op": "replace", "path": "/glitchDescription", "value": "Enojado. As manchas de sangue neste biombo sugerem que esconde a preparação de alimentos."}, {"op": "replace", "path": "/apexDescription", "value": "Biombos são proibidos sob a norma da Miniknog, como a privacidade de qualquer tipo."}, {"op": "replace", "path": "/humanDescription", "value": "Há restos de animais armazenados em bolsas atrás deste biombo."}, {"op": "replace", "path": "/novakidDescription", "value": "Há um cheiro forte de sangue e tripas pendurado sobre este biombo."}, {"op": "replace", "path": "/shortdescription", "value": "Leather Dressing Screen"}, {"op": "replace", "path": "/avianDescription", "value": "O couro deste biombo parece ter absorvido muito sangue."}, {"op": "replace", "path": "/hylotlDescription", "value": "Que carnificina se passa por trás desses biombos de couro?"}, {"op": "replace", "path": "/floranDescription", "value": "Floran ssurpreende outros Floran com comida preparada atrás de biombo. Grande ssurpresa significa mais amigos."}]
+[
+  {
+    "op": "replace",
+    "value": "Um biombo de couro, usado na preparação de alimentos Floran.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Enojado. As manchas de sangue neste biombo sugerem que esconde a preparação de alimentos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ssurpreende outros Floran com comida preparada atrás de biombo. Grande ssurpresa significa mais amigos.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Leather Dressing Screen",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Biombos são proibidos sob a norma da Miniknog, como a privacidade de qualquer tipo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O couro deste biombo parece ter absorvido muito sangue.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há restos de animais armazenados em bolsas atrás deste biombo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há um cheiro forte de sangue e tripas pendurado sobre este biombo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que carnificina se passa por trás desses biombos de couro?",
+    "path": "/hylotlDescription"
+  }
+]

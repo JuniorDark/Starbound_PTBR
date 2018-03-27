@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Plataformas feitas de tungstênio."}, {"op": "replace", "path": "/shortdescription", "value": "Tungsten Platform"}, {"op": "replace", "path": "/floranDescription", "value": "Plataformass de metal forte."}, {"op": "replace", "path": "/description", "value": "Plataformas fortes feitas de tungstênio."}, {"op": "replace", "path": "/glitchDescription", "value": "Aprovação. Tungstênio pode ser transformado em plataformas extremamente sólidas."}]
+[
+  {
+    "op": "replace",
+    "value": "Aprovação. Tungstênio pode ser transformado em plataformas extremamente sólidas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plataformas feitas de tungstênio.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plataformass de metal forte.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plataformas fortes feitas de tungstênio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Tungsten Platform",
+    "path": "/shortdescription"
+  }
+]

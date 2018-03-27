@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Esse teletransportador me levaria para terras desconhecidas, se funcionasse."}, {"op": "replace", "path": "/apexDescription", "value": "Este antigo teletransportador já não parece funcionar."}, {"op": "replace", "path": "/floranDescription", "value": "Teletransportador está quieto."}, {"op": "replace", "path": "/shortdescription", "value": "Broken Ark Teleporter"}, {"op": "replace", "path": "/avianDescription", "value": "Este velho e empoeirado teletransportador não parece funcionar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este teletransportador parece estar quebrado a algum tempo."}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Este teletransportador quebrado parece antigo... Que idade poderia ter?"}, {"op": "replace", "path": "/novakidDescription", "value": "Este velho teletransportador não parece estar funcionando."}, {"op": "replace", "path": "/description", "value": "Este teletransportador antigo não funciona mais."}]
+[
+  {
+    "op": "replace",
+    "value": "Broken Ark Teleporter",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Este teletransportador quebrado parece antigo... Que idade poderia ter?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Teletransportador está quieto.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este antigo teletransportador já não parece funcionar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este teletransportador antigo não funciona mais.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Este velho e empoeirado teletransportador não parece funcionar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este velho teletransportador não parece estar funcionando.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este teletransportador parece estar quebrado a algum tempo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse teletransportador me levaria para terras desconhecidas, se funcionasse.",
+    "path": "/humanDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Pixel Hero Pants"}, {"op": "replace", "path": "/description", "value": "Só pode ser usado por aqueles dignos o suficiente."}]
+[
+  {
+    "op": "replace",
+    "value": "Só pode ser usado por aqueles dignos o suficiente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pixel Hero Pants",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Hora de cozinhar um pouco!"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "^#b9b5b2;Prepare e cozinhe alimentos"}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma mesa simples, para ser usada para a preparação de alimentos."}, {"op": "replace", "path": "/avianDescription", "value": "Posso usar isso para fazer comida deliciosa."}, {"op": "replace", "path": "/humanDescription", "value": "Uma mesa de cozinhar, prática!"}, {"op": "replace", "path": "/apexDescription", "value": "Uma mesa de cozinhar."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Uma mesa de cozinhar."}, {"op": "replace", "path": "/floranDescription", "value": "Floran pode usar isso para fazer comida saborosa!"}, {"op": "replace", "path": "/description", "value": "Este balcão parece ideal para a preparação de alimentos."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Mesa de Cozinhar Chique"}, {"op": "replace", "path": "/shortdescription", "value": "Chic Cooking Table"}]
+[
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Prepare e cozinhe alimentos",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Mesa de Cozinhar Chique",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa de cozinhar, prática!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa de cozinhar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa simples, para ser usada para a preparação de alimentos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Chic Cooking Table",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Uma mesa de cozinhar.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran pode usar isso para fazer comida saborosa!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso usar isso para fazer comida deliciosa.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este balcão parece ideal para a preparação de alimentos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Hora de cozinhar um pouco!",
+    "path": "/novakidDescription"
+  }
+]

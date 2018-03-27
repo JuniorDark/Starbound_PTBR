@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Sheriff's Slacks"}, {"op": "replace", "path": "/description", "value": "Eles respeitarão a sua autoridade quando estiver usando as calças do xerife."}]
+[
+  {
+    "op": "replace",
+    "value": "Sheriff's Slacks",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eles respeitarão a sua autoridade quando estiver usando as calças do xerife.",
+    "path": "/description"
+  }
+]

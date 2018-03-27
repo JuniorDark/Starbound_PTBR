@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma cadeira de saloon de aparência desconfortável."}, {"op": "replace", "path": "/shortdescription", "value": "Saloon Chair"}, {"op": "replace", "path": "/floranDescription", "value": "Cadeira tem travesseiro. Floran pode sssentar."}, {"op": "replace", "path": "/glitchDescription", "value": "Opinativo. Objetivamente desconfortável."}, {"op": "replace", "path": "/apexDescription", "value": "Uma cadeira de madeira do tipo saloon."}, {"op": "replace", "path": "/humanDescription", "value": "Muito desconfortável, mas pelo menos há uma almofada."}, {"op": "replace", "path": "/avianDescription", "value": "Uma cadeira de saloon áspera com almofada vermelha fino."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um pequeno esforço foi feito para tornar isso confortável."}, {"op": "replace", "path": "/novakidDescription", "value": "Não é uma sela, mas sim um assento."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira de saloon áspera com almofada vermelha fino.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pequeno esforço foi feito para tornar isso confortável.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira de madeira do tipo saloon.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira de saloon de aparência desconfortável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cadeira tem travesseiro. Floran pode sssentar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não é uma sela, mas sim um assento.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Opinativo. Objetivamente desconfortável.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Muito desconfortável, mas pelo menos há uma almofada.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Saloon Chair",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um capuz assustador, apto para um Cultista assustador."}, {"op": "replace", "path": "/shortdescription", "value": "Cultist Hood"}]
+[
+  {
+    "op": "replace",
+    "value": "Um capuz assustador, apto para um Cultista assustador.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cultist Hood",
+    "path": "/shortdescription"
+  }
+]

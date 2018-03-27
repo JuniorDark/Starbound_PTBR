@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Pedras afiadas produzidas por explosões de calor enorme."}, {"op": "replace", "path": "/shortdescription", "value": "Blaststone"}]
+[
+  {
+    "op": "replace",
+    "value": "Blaststone",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espantado. O calor intenso fundiu minerais dentro deste pedra explosiva",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedras afiadas produzidas por explosões de calor enorme.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pedrass afiadass ssão fortess.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas rochas duras são fortemente afiadas.",
+    "path": "/novakiddescription"
+  }
+]

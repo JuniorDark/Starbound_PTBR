@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um corpo de mecha apto para um Floran, feito de vinhas e peças de mecha reciclado."
+    "value": "Um corpo de mecha apto para um Floran, feito de vinhas e peças recicladas de mecha.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Golem Mech Body",
+    "path": "/shortdescription"
   }
 ]

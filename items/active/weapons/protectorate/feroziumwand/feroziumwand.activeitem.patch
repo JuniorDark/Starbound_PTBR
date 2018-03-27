@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "O que é isso, um cajado para formigas?"}, {"op": "replace", "path": "/shortdescription", "value": "Ferozium Wand"}]
+[
+  {
+    "op": "replace",
+    "value": "Ferozium Wand",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que é isso, um cajado para formigas?",
+    "path": "/description"
+  }
+]

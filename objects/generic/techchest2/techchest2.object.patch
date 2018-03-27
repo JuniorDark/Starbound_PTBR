@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um baú com marcas brilhantes por toda parte."}, {"op": "replace", "path": "/humanDescription", "value": "Quem fez isso? O que está nele?"}, {"op": "replace", "path": "/avianDescription", "value": "Um baú que parece que armazena algo valioso."}, {"op": "replace", "path": "/hylotlDescription", "value": "Há incrível tecnologia construída no próprio baú."}, {"op": "replace", "path": "/glitchDescription", "value": "Sem compromisso. Este baú é de origem desconhecida."}, {"op": "replace", "path": "/shortdescription", "value": "Hi-Tech Chest"}, {"op": "replace", "path": "/floranDescription", "value": "Baú brilhante especial."}, {"op": "replace", "path": "/apexDescription", "value": "Um baú de alta tecnologia. Parece que ele pode conter algo valioso."}, {"op": "replace", "path": "/novakidDescription", "value": "Ooh, aposto que esta repleto de tecnologia valiosa."}]
+[
+  {
+    "op": "replace",
+    "value": "Um baú que parece que armazena algo valioso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú com marcas brilhantes por toda parte.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú de alta tecnologia. Parece que ele pode conter algo valioso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hi-Tech Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sem compromisso. Este baú é de origem desconhecida.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ooh, aposto que esta repleto de tecnologia valiosa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Baú brilhante especial.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há incrível tecnologia construída no próprio baú.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quem fez isso? O que está nele?",
+    "path": "/humanDescription"
+  }
+]

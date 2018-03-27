@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um bloco inteiro de prata."}, {"op": "replace", "path": "/shortdescription", "value": "Silver Block"}]
+[
+  {
+    "op": "replace",
+    "value": "Um bloco inteiro de prata.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Este bloco é prata inteiramente sólida.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Blocos brilhantes feitos de prata pura.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Silver Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Prata, tão brilhante.",
+    "path": "/florandescription"
+  }
+]

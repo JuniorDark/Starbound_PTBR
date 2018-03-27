@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Um servidor seguro. Inacessível."}, {"op": "replace", "path": "/description", "value": "Parece um servidor. Gostaria de saber que tipo de jogos poderia ser hospedado nisso."}, {"op": "replace", "path": "/shortdescription", "value": "Cool Server"}, {"op": "replace", "path": "/floranDescription", "value": "Caixa de luzes faz ssom de clique."}, {"op": "replace", "path": "/humanDescription", "value": "Parece um servidor de dados. Não vamos conseguir nada com isso."}, {"op": "replace", "path": "/avianDescription", "value": "Há muitas luzes piscando."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esse servidor conteria dados suficientes para preencher mil bibliotecas Hylotl."}, {"op": "replace", "path": "/glitchDescription", "value": "Envergonhado. Um servidor protegido por segurança, mesmo eu não posso ignorar."}, {"op": "replace", "path": "/novakidDescription", "value": "Este pedaço de tecnologia armazena informações."}]
+[
+  {
+    "op": "replace",
+    "value": "Um servidor seguro. Inacessível.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Envergonhado. Um servidor protegido por segurança, mesmo eu não posso ignorar.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Caixa de luzes faz ssom de clique.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cool Server",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece um servidor de dados. Não vamos conseguir nada com isso.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece um servidor. Gostaria de saber que tipo de jogos poderia ser hospedado nisso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Há muitas luzes piscando.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este pedaço de tecnologia armazena informações.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse servidor conteria dados suficientes para preencher mil bibliotecas Hylotl.",
+    "path": "/hylotlDescription"
+  }
+]

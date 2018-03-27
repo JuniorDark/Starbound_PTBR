@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Uma coleção de ossos bem embalados juntos."}, {"op": "replace", "path": "/shortdescription", "value": "Packed Bones"}, {"op": "replace", "path": "/floranDescription", "value": "Ossosss!"}, {"op": "replace", "path": "/glitchDescription", "value": "Horrorizado. Ossos de uma variedade de fontes embalados juntos."}, {"op": "replace", "path": "/novakidDescription", "value": "Punhado de ossos. Quem precisa deles!"}]
+[
+  {
+    "op": "replace",
+    "value": "Ossosss!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma coleção de ossos bem embalados juntos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Punhado de ossos. Quem precisa deles!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Horrorizado. Ossos de uma variedade de fontes embalados juntos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Packed Bones",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Esta mesa é elegante, parece sólida."}, {"op": "replace", "path": "/shortdescription", "value": "Cool Desk"}, {"op": "replace", "path": "/glitchDescription", "value": "Indiferente. Uma escrivaninha."}, {"op": "replace", "path": "/apexDescription", "value": "Gostaria de saber quem trabalhou aqui..."}, {"op": "replace", "path": "/humanDescription", "value": "Uma mesa de aparência profissional."}, {"op": "replace", "path": "/avianDescription", "value": "Uma mesa de metal - clínica na aparência."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma fina mesa de metal."}, {"op": "replace", "path": "/floranDescription", "value": "Esscrivaninha é fria ao toque."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma mesa de metal - clínica na aparência.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa de aparência profissional.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa de aparência brilhante feita de metal.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fina mesa de metal.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cool Desk",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esscrivaninha é fria ao toque.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gostaria de saber quem trabalhou aqui...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Indiferente. Uma escrivaninha.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa é elegante, parece sólida.",
+    "path": "/description"
+  }
+]

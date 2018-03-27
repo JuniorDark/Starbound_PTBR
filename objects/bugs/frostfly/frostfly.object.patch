@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Frostfly"}, {"op": "replace", "path": "/description", "value": "Onde houver frio intenso, há frostflies."}]
+[
+  {
+    "op": "replace",
+    "value": "Frostfly",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Onde houver frio intenso, há frostflies.",
+    "path": "/description"
+  }
+]

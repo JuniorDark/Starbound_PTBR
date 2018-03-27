@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "edras antigas com entalhes de criaturas riscadas na superfície."}, {"op": "replace", "path": "/shortdescription", "value": "Temple Rock"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de figurass na pedra."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Estas gravuras de pedra retratam uma língua desconhecida."}, {"op": "replace", "path": "/novakidDescription", "value": "Bloco velho com algum tipo de gravura."}]
+[
+  {
+    "op": "replace",
+    "value": "Curioso. Estas gravuras de pedra retratam uma língua desconhecida.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de figurass na pedra.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bloco velho com algum tipo de gravura.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Temple Rock",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "edras antigas com entalhes de criaturas riscadas na superfície.",
+    "path": "/description"
+  }
+]

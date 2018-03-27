@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um capacete forte projetado para proteger o usuário nas profundezas mais escuras do oceano, cobiçado pelos terrestres."}, {"op": "replace", "path": "/shortdescription", "value": "Aphotic Fin"}]
+[
+  {
+    "op": "replace",
+    "value": "Um capacete forte projetado para proteger o usuário nas profundezas mais escuras do oceano, cobiçado pelos terrestres.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Aphotic Fin",
+    "path": "/shortdescription"
+  }
+]

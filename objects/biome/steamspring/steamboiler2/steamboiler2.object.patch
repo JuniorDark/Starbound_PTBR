@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran sssurpreso em como isso é quente."}, {"op": "replace", "path": "/humanDescription", "value": "Esta caldeira a vapor parece muito ultrapassada pelos padrões modernos, para dizer o mínimo..."}, {"op": "replace", "path": "/avianDescription", "value": "Eu acho que está produzindo vapor para alguma finalidade."}, {"op": "replace", "path": "/hylotlDescription", "value": "Eu não acho que um Hylotl teria feito algo tão desagradável."}, {"op": "replace", "path": "/description", "value": "Uma caldeira longa amassada, para transformar a água gelada em vapor."}, {"op": "replace", "path": "/shortdescription", "value": "Medium Steam Boiler"}, {"op": "replace", "path": "/apexDescription", "value": "Parece quase um enorme tubo de ensaio."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Ela consegue ficar de pé apesar de parecer pesada."}, {"op": "replace", "path": "/novakidDescription", "value": "Enfie uma dessas em um trem e teremos muita diversão."}]
+[
+  {
+    "op": "replace",
+    "value": "Eu não acho que um Hylotl teria feito algo tão desagradável.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caldeira longa amassada, para transformar a água gelada em vapor.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran sssurpreso em como isso é quente.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu acho que está produzindo vapor para alguma finalidade.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Ela consegue ficar de pé apesar de parecer pesada.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece quase um enorme tubo de ensaio.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Medium Steam Boiler",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Enfie uma dessas em um trem e teremos muita diversão.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta caldeira a vapor parece muito ultrapassada pelos padrões modernos, para dizer o mínimo...",
+    "path": "/humanDescription"
+  }
+]

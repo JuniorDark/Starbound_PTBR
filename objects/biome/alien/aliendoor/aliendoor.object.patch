@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Esta porta tem uma presença."}, {"op": "replace", "path": "/avianDescription", "value": "Parece que a porta está olhando para mim."}, {"op": "replace", "path": "/humanDescription", "value": "Quem pensou que uma porta como essa era uma boa ideia?"}, {"op": "replace", "path": "/novakidDescription", "value": "Uma porta com aparência muito estranha de fato..."}, {"op": "replace", "path": "/description", "value": "Uma porta de planta alienígena."}, {"op": "replace", "path": "/shortdescription", "value": "Alien Door"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de porta de planta."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Esta porta esta viva?"}, {"op": "replace", "path": "/apexDescription", "value": "Eu me pergunto como isso foi construído?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta com aparência muito estranha de fato...",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alien Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta de planta alienígena.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Esta porta esta viva?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de porta de planta.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto como isso foi construído?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que a porta está olhando para mim.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta tem uma presença.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quem pensou que uma porta como essa era uma boa ideia?",
+    "path": "/humanDescription"
+  }
+]

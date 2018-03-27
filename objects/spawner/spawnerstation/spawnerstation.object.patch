@@ -1,1 +1,52 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Um sistema justo. Sem senhores e senhoras, sem camponeses miseráveis."}, {"op": "replace", "path": "/description", "value": "Uma estação utilizada para obter employment beacons que chamam todos os tipos de ajudantes."}, {"op": "replace", "path": "/floranDescription", "value": "Comida Rápida?"}, {"op": "replace", "path": "/shortdescription", "value": "^orange;Employer's Station^white;"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Estação do Empregador"}, {"op": "replace", "path": "/apexDescription", "value": "Eu me pergunto se eu posso pedir um combatente da liberdade."}, {"op": "replace", "path": "/humanDescription", "value": "Esta é a última evolução de anúncios classificados online."}, {"op": "replace", "path": "/avianDescription", "value": "Essa tecnologia é polêmica em Avos."}, {"op": "replace", "path": "/hylotlDescription", "value": "Para ajudar outro ser trazer paz interior."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "Use employment beacons para pedir ajuda"}]
+[
+  {
+    "op": "replace",
+    "value": "Estação do Empregador",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Use employment beacons para pedir ajuda",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estação utilizada para obter employment beacons que chamam todos os tipos de ajudantes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Comida Rápida?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto se eu posso pedir um combatente da liberdade.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Um sistema justo. Sem senhores e senhoras, sem camponeses miseráveis.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa tecnologia é polêmica em Avos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é a última evolução de anúncios classificados online.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para ajudar outro ser trazer paz interior.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Employer's Station^white;",
+    "path": "/shortdescription"
+  }
+]

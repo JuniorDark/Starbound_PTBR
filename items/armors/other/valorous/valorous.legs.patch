@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Valorous Greaves"}, {"op": "replace", "path": "/description", "value": "Armadura Hylotl, enferrujada de muitos anos de desuso, mas ainda lindamente trabalhada."}]
+[
+  {
+    "op": "replace",
+    "value": "Armadura Hylotl, enferrujada de muitos anos de desuso, mas ainda lindamente trabalhada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Valorous Greaves",
+    "path": "/shortdescription"
+  }
+]

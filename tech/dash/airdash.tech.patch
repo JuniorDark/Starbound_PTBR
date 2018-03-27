@@ -1,1 +1,12 @@
-[{"op":"replace","path":"/description","value":"Uma arrancada que pode ser usada no ar! Recarga: 0.8s"},{"op":"replace","path":"/shortDescription","value":"Arrancada Aérea"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma arrancada que pode ser usada no ar! Recarga: 0.8s",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Arrancada Aérea",
+    "path": "/shortDescription"
+  }
+]

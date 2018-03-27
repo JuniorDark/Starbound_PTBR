@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/0", "value": "Prepare-se para ser esmagado!"}, {"op": "replace", "path": "/scriptConfig/dialog/killedTarget/default/default/0", "value": "Você era fraco, Eu sou forte!"}, {"op": "replace", "path": "/scriptConfig/dialog/cantReach/default/default/0", "value": "Chegue mais perto!"}, {"op": "replace", "path": "/scriptConfig/dialog/reattack/default/default/0", "value": "Desta vez eu vou acabar com você!"}, {"op": "replace", "path": "/scriptConfig/dialog/cheerOn/default/default/0", "value": "Eles não são páreos para o nosso poder combinado!"}, {"op": "replace", "path": "/scriptConfig/dialog/cantReach/default/default/1", "value": "Vou pegar você!"}, {"op": "replace", "path": "/scriptConfig/dialog/killedTarget/default/default/1", "value": "Você não é páreo para nós!"}, {"op": "replace", "path": "/scriptConfig/dialog/outOfSight/default/default/0", "value": "Não há escapatória!"}, {"op": "replace", "path": "/scriptConfig/dialog/lostTarget/default/default/0", "value": "Você não pode se esconder de mim!"}]
+[
+  {
+    "op": "replace",
+    "value": "Você não é páreo para nós!",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você era fraco, Eu sou forte!",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Chegue mais perto!",
+    "path": "/scriptConfig/dialog/cantReach/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vou te pegar!",
+    "path": "/scriptConfig/dialog/cantReach/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Prepare-se para ser esmagado!",
+    "path": "/scriptConfig/dialog/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Não há escapatória!",
+    "path": "/scriptConfig/dialog/outOfSight/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eles não são páreo para nosso poder combinado!",
+    "path": "/scriptConfig/dialog/cheerOn/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Desta vez vou acabar com você!",
+    "path": "/scriptConfig/dialog/reattack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você não pode se esconder de mim!",
+    "path": "/scriptConfig/dialog/lostTarget/default/default/0"
+  }
+]

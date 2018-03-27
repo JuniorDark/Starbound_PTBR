@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Mutant High-Vis Jacket"}, {"op": "replace", "path": "/description", "value": "Uma jaqueta de alta visibilidade - bem, exceto que você está ficando rosa..."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma jaqueta de alta visibilidade - bem, exceto que você está ficando rosa...",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Mutant High-Vis Jacket",
+    "path": "/shortdescription"
+  }
+]

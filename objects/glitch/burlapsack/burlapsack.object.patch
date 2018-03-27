@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um saco de estopa comum."}, {"op": "replace", "path": "/shortdescription", "value": "Burlap Sack"}, {"op": "replace", "path": "/floranDescription", "value": "Sssaco de fibras ássperas."}, {"op": "replace", "path": "/humanDescription", "value": "Um saco de estopa."}, {"op": "replace", "path": "/avianDescription", "value": "Um saco."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um saco tecido."}, {"op": "replace", "path": "/novakidDescription", "value": "Um saco cheio de algo."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Isso parece estar cheio de farinha."}, {"op": "replace", "path": "/apexDescription", "value": "Um saco."}]
+[
+  {
+    "op": "replace",
+    "value": "Um saco de estopa.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um saco cheio de algo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um saco.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um saco.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um saco tecido.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um saco de estopa comum.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Burlap Sack",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Isso parece estar cheio de farinha.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sssaco de fibras ássperas.",
+    "path": "/floranDescription"
+  }
+]

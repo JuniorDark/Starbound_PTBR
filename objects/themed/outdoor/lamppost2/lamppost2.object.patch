@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Ótimo para becos escuros."}, {"op": "replace", "path": "/apexDescription", "value": "Um poste de luz magnífico."}, {"op": "replace", "path": "/humanDescription", "value": "São três lâmpadas realmente necessárias?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Três lâmpadas, que relembram as três cabeças da mítica hidra."}, {"op": "replace", "path": "/shortdescription", "value": "Triple Lamp Post"}, {"op": "replace", "path": "/glitchDescription", "value": "Grato. Agradeço a iluminação adicional."}, {"op": "replace", "path": "/description", "value": "Um poste de luz, com três luzes."}, {"op": "replace", "path": "/novakidDescription", "value": "Numero três sortudo."}, {"op": "replace", "path": "/floranDescription", "value": "Brilhante como três luasss no céu."}]
+[
+  {
+    "op": "replace",
+    "value": "Um poste de luz, com três luzes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um poste de luz magnífico.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grato. Agradeço a iluminação adicional.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "São três lâmpadas realmente necessárias?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Brilhante como três luasss no céu.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ótimo para becos escuros.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Numero três sortudo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Três lâmpadas, que relembram as três cabeças da mítica hidra.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Triple Lamp Post",
+    "path": "/shortdescription"
+  }
+]

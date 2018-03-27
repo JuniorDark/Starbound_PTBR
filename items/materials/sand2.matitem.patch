@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Uma fina areia cintilante. Provavelmente poderia ser transformada em vidro!"}, {"op": "replace", "path": "/shortdescription", "value": "Sand"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma fina areia cintilante. Provavelmente poderia ser transformada em vidro!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Esta areia é tão fina que parece suave ao toque.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Areia empoeirada.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sand",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Areia de aparência muita macia.",
+    "path": "/novakiddescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Alguém esculpiu uma flecha nesta rocha."}, {"op": "replace", "path": "/description", "value": "Pedras muito úteis. Ou a flecha pode ser um truque?"}, {"op": "replace", "path": "/shortdescription", "value": "Arrow Etched Rocks"}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Por que uma flecha foi esculpida nesta pedra?"}, {"op": "replace", "path": "/avianDescription", "value": "Uma pedra com uma flecha esculpida."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma rocha grosseiramente esculpida."}, {"op": "replace", "path": "/floranDescription", "value": "Este caminho para esssfaquear."}, {"op": "replace", "path": "/apexDescription", "value": "Uma pedra com uma flecha nela."}, {"op": "replace", "path": "/humanDescription", "value": "Vamos seguir a flecha nesta rocha."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma rocha grosseiramente esculpida.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pedra com uma flecha esculpida.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pedra com uma flecha nela.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Arrow Etched Rocks",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Por que uma flecha foi esculpida nesta pedra?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos seguir a flecha nesta rocha.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém esculpiu uma flecha nesta rocha.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este caminho para esssfaquear.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedras muito úteis. Ou a flecha pode ser um truque?",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um par de asas de inseto. Vestindo isso não te permite voar, infelizmente."}, {"op": "replace", "path": "/shortdescription", "value": "Buzzy Wings"}]
+[
+  {
+    "op": "replace",
+    "value": "Um par de asas de inseto. Vestindo isso não te permite voar, infelizmente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Buzzy Wings",
+    "path": "/shortdescription"
+  }
+]

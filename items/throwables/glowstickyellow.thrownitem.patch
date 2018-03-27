@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Yellow Glowstick"}, {"op": "replace", "path": "/description", "value": "Cria um brilho bioluminescente amarelo quando jogado!"}]
+[
+  {
+    "op": "replace",
+    "value": "Cria um brilho bioluminescente amarelo quando jogado!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Yellow Glowstick",
+    "path": "/shortdescription"
+  }
+]

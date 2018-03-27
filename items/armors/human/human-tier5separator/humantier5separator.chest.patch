@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Violium torna este peitoral incrivelmente forte."}, {"op": "replace", "path": "/shortdescription", "value": "Adventurer's Chestguard"}]
+[
+  {
+    "op": "replace",
+    "value": "Adventurer's Chestguard",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Violium torna este peitoral incrivelmente forte.",
+    "path": "/description"
+  }
+]

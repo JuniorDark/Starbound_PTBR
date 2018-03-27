@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Esta máquina pode transformar pixels em quase qualquer forma."}, {"op": "replace", "path": "/shortdescription", "value": "^orange;Pixel Printer^white;"}, {"op": "replace", "path": "/floranDescription", "value": "Pixelsss bonitos imprimem coisass bonitass para Floran."}, {"op": "replace", "path": "/glitchDescription", "value": "Apaixonado. Essa tecnologia é arte."}, {"op": "replace", "path": "/apexDescription", "value": "Uma impressora de pixels... Poucas pessoas têm acesso a isso."}, {"op": "replace", "path": "/humanDescription", "value": "Impressão de pixel... Poder quase divino."}, {"op": "replace", "path": "/avianDescription", "value": "Impressão de pixel... A tecnologia que mudou o universo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Impressão de pixel, o poder do pixel na ponta dos dedos... A 'partícula de deus'."}, {"op": "replace", "path": "/novakidDescription", "value": "Impressão de pixel é muito extravagante."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma impressora de pixels... Poucas pessoas têm acesso a isso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apaixonado. Essa tecnologia é arte.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressão de pixel é muito extravagante.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressão de pixel, o poder do pixel na ponta dos dedos... A 'partícula de deus'.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressão de pixel... Poder quase divino.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressão de pixel... A tecnologia que mudou o universo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pixelsss bonitos imprimem coisass bonitass para Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta máquina pode transformar pixels em quase qualquer forma.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Pixel Printer^white;",
+    "path": "/shortdescription"
+  }
+]

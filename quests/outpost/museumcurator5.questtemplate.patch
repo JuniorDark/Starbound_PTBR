@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/text", "value": "Meu museu esta quase completo! E eu acho que Nuru pode estar realmente pegando à idéia. Ouvi falar de um objeto interessante chamado de \"^orange;Old Television^white;\" que se encaixaria bem na exposição humana. ^green;Você poderia me trazer um^white;? Eles são comuns em acampamentos humanos, mas podem ser encontrados em outras áreas também."}, {"op": "replace", "path": "/title", "value": "^green;Sintonias Frescas"}, {"op": "replace", "path": "/completionText", "value": "Maravilhoso! É muito gentil da sua parte estar recolhendo essas coisas para mim. Só resta mais uma exposição agora!"}]
+[
+  {
+    "op": "replace",
+    "value": "Meu museu esta quase completo! E eu acho que Nuru pode estar realmente pegando à idéia. Ouvi falar de um objeto interessante chamado de \"^orange;Old Television^white;\" que se encaixaria bem na exposição humana. ^green;Você poderia me trazer um^white;? Eles são comuns em acampamentos humanos, mas podem ser encontrados em outras áreas também.",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "Maravilhoso! É muito gentil da sua parte estar recolhendo essas coisas para mim. Só resta mais uma exposição agora!",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Sintonias Frescas",
+    "path": "/title"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um avião de papel! Será que vai voar?"}, {"op": "replace", "path": "/shortdescription", "value": "Paper Plane"}]
+[
+  {
+    "op": "replace",
+    "value": "Um avião de papel! Será que vai voar?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Paper Plane",
+    "path": "/shortdescription"
+  }
+]

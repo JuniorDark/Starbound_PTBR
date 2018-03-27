@@ -1,1 +1,947 @@
-[{"op":"replace","path":"/displayConfig/subtitle","value":"Encontre um grande amor no passado distante"},{"op":"replace","path":"/entryScene","value":"nota_traducao"},{"op":"add","path":"/scenes/nota_traducao","value":{"background":"bg_black","foreground":"title","text":"[Nota de traducao: O texto neste jogo nao suporta acentuacao.]","continue":"pre_credits"}},{"op":"replace","path":"/scenes/pre_credits/text","value":"[Esta historia foi escrita por uma equipe diversificada de talentosos estudiosos Hylotl. A equipe criativa nao sao responsaveis por qualquer coracao partido ou paixao por personagens ficticios que podem se desenvolver ao jogar este jogo.]"},{"op":"replace","path":"/scenes/intro0/text","value":"A vida e tranquila para mim, um Hylotl adolescente despretensioso que trabalha duro no colegio interno. Como um saco plastico descartado flutuando rio abaixo, as vezes eu sinto como se eu simplesmente derivasse atraves da vida."},{"op":"replace","path":"/scenes/intro1/text","value":"Meu unico consolo e a minha incrivel e inabalavel sutileza no Air Hockey. Claro, nao e exatamente o jogo mais popular no universo, mas que me permite esculpir uma habilidade de nicho."},{"op":"replace","path":"/scenes/intro2/text","value":"Atualmente estou no dormitorio da minha escola, estudando. Estou lentamente trabalhando em um livro intitulado 'A Arte da Agressividade Passiva Hylotl'."},{"op":"replace","path":"/scenes/intro3/text","value":"No entanto, os pensamentos sobre Air Hockey me agarraram mais uma vez. Mas meus estudos nao podem ser ignorados..."},{"op":"replace","path":"/scenes/intro3/options/0/0","value":"Continuar Estudando"},{"op":"replace","path":"/scenes/intro3/options/1/0","value":"Praticar Air Hockey"},{"op":"replace","path":"/scenes/intro3a/text","value":"O conhecimento e importante, claro, mas a habilidade em um jogo competitivo pouco conhecido e algo que ficara comigo para sempre."},{"op":"replace","path":"/scenes/intro3b/text","value":"Eu volto aos meus estudos novamente, mas logo os tentaculos escorregadios do desejo agarram meu subconsciente, e eu sou atraido para a mesa como se estivesse possuido por um espirito de aspiracao crua."},{"op":"replace","path":"/scenes/intro4/text","value":"Deixo meu dormitorio em silencio, tomando cuidado para nao deixar a minha emocao me oprimir e me causar involuntariamente gritar 'air hockey!', como na ultima vez que eu escapei."},{"op":"replace","path":"/scenes/intro5/text","value":"Eu me encontro no fliperama do campus, meus tres olhos olhando para a beleza que vejo diante de mim. Nos encontramos de novo, amigo."},{"op":"replace","path":"/scenes/intro6/text","value":"A mesa de hoquei... Uma bela superficie lisa, perfurada e envernizada. e a mesa de pedra sobre a qual eu inscrevo minha vontade, e a raquete de hoquei, mas um cinzel de carisma bonito!"},{"op":"replace","path":"/scenes/intro7/text","value":"Coloco o disco na mesa, saboreando o momento. Meu coracao salta uma batida... Mas algo parece errado."},{"op":"replace","path":"/scenes/intro8/text","value":"Meu coracao acelera e eu sinto o mundo girando. Estendi a mao, mas minhas maos nao encontram consolo. Eu me sinto como uma baleia encalhada, exceto que a praia em que estou esta viajando... Viajando pelo tempo!"},{"op":"replace","path":"/scenes/intro9/text","value":"A sensacao que sinto e dificil de descrever - como despertar lentamente de um sonho, exceto que o sonho envolve todos os que ja viveram gritando em voz alta para voce."},{"op":"replace","path":"/scenes/intro10/text","value":"Minha visao lentamente retorna para mim, e eu sinto areia quente nas minhas maos e pes. Estou na superficie de um planeta? e o sol que eu sinto sobre mim, ou talvez eu estou apenas em chamas?"},{"op":"replace","path":"/scenes/intro11/text","value":"Eu nao estou em chamas, mas isso nao me da muita tranquilidade. O lugar onde eu estou e quase completamente desconhecido."},{"op":"replace","path":"/scenes/intro12/text","value":"Estou na margem de uma pequena ilha, no centro da qual esta um grande pagode. Um sol se poe acima de mim. e claro para mim que devo planejar minha proxima jogada com muito cuidado..."},{"op":"replace","path":"/scenes/intro12/options/0/0","value":"Andar as escondidas."},{"op":"replace","path":"/scenes/intro12/options/1/0","value":"Gritar por ajuda"},{"op":"replace","path":"/scenes/sneak1/text","value":"Uma terra desconhecida, uma dor de cabeca batendo... Eu decido abordar esta situacao com discricao. Eu me agacho, atravessando a praia em direcao ao pagode."},{"op":"replace","path":"/scenes/sneak2/text","value":"O ar e silencioso, com excecao da ondulacao macia das ondas nesta praia misteriosa. O oceano parece ser agua e nao acido ou magma. Esse fato me acalma um pouco."},{"op":"replace","path":"/scenes/sneak3/text","value":"Ouco vozes! Eu me escondo atras de um poste proximo. A arquitectura e toda Hylotl, pelo menos as minhas hipoteses de estar em territorio Floran parecem baixas."},{"op":"replace","path":"/scenes/sneak4/text","value":"Do lado de fora da entrada do pagode, vejo uma garota ajoelhada na areia. Eu suspiro, incapaz de me levantar, e ela se vira para me ver!"},{"op":"replace","path":"/scenes/yell1/text","value":"Entro em panico e comeco a gritar. Tenho certeza que vou chamar a atencao de uma figura de autoridade util que vai me ajudar na minha situacao."},{"op":"replace","path":"/scenes/yell2/text","value":"No entanto, quem me cumprimenta e uma linda garota, vestida com estranhas roupas cerimoniais. Agarrado em suas maos esta um cajado cor-de-rosa."},{"op":"replace","path":"/scenes/kasumi1a/text","value":"\"Quem e voce, e por que voce esta se esgueirando?\" diz a garota, com uma luz dancando sobre sua pele linda e umida."},{"op":"replace","path":"/scenes/kasumi1a/options/0/0","value":"Onde estou?"},{"op":"replace","path":"/scenes/kasumi1a/options/1/0","value":"Quem e voce?"},{"op":"replace","path":"/scenes/kasumi1b/text","value":"\"Quem e voce, e por que voce esta gritando como um nerd?\" diz a garota, com uma luz dancando sobre sua pele linda e umida."},{"op":"replace","path":"/scenes/kasumi1b/options/0/0","value":"Onde estou?"},{"op":"replace","path":"/scenes/kasumi1b/options/1/0","value":"Quem e voce?"},{"op":"replace","path":"/scenes/explanation1a/text","value":"\"Voce esta na Grande Biblioteca Hylotl, que esta abrindo uma semana a partir de hoje.\" Ela explica."},{"op":"replace","path":"/scenes/explanation2a/text","value":"\"Ninguem mais deveria estar aqui enquanto eu abencoo a ilha! Por que voce veio aqui?\""},{"op":"replace","path":"/scenes/explanation2a/options/0/0","value":"Para conhecer garotas bonitas!"},{"op":"replace","path":"/scenes/explanation2a/options/1/0","value":"Eu fui enviado atraves do tempo!"},{"op":"replace","path":"/scenes/explanation1b/text","value":"\"Eu sou Kasumi, uma donzela do santuario enviada para abencoar a Grande Biblioteca Hylotl antes de sua abertura na proxima semana.\" Ela explica."},{"op":"replace","path":"/scenes/explanation2b/text","value":"\"Ninguem mais deveria estar aqui! Por que voce veio aqui?\""},{"op":"replace","path":"/scenes/explanation2b/options/0/0","value":"Para conhecer garotas bonitas!"},{"op":"replace","path":"/scenes/explanation2b/options/1/0","value":"Eu fui enviado atraves do tempo!"},{"op":"replace","path":"/scenes/question_beauty1/text","value":"Ela ficou surpresa com a brusquidao da minha afirmacao. Eu entro em panico, me perguntando por que essa seria uma das primeiras coisas que eu diria a uma garota."},{"op":"replace","path":"/scenes/question_beauty2/text","value":"Ela responde, \"Bem, temo que voce tenha chegado ao lugar errado, porque a Grande Biblioteca Hylotl ainda nao esta aberta ao publico.\""},{"op":"replace","path":"/scenes/question_beauty3/text","value":" Presumo que ela entendeu mal a implicacao da minha observacao, mas nao posso deixar de olhar um pouco demais para seus olhos vermelhos de rubi."},{"op":"replace","path":"/scenes/question_beauty4a/text","value":"\"Onde estao minhas maneiras,\" ela acrescenta de repente, \"Eu esqueci de perguntar seu nome. Quem e voce?\""},{"op":"replace","path":"/scenes/question_beauty4a/options/0/0","value":"Dizer a ela seu nome"},{"op":"replace","path":"/scenes/question_beauty4a/options/1/0","value":"Dizer a ela um nome falso romantico"},{"op":"replace","path":"/scenes/question_beauty4b/text","value":"\"Onde estao minhas maneiras,\" ela acrescenta de repente, \"Meu nome e Kasumi. E quem seria voce?\""},{"op":"replace","path":"/scenes/question_beauty4b/options/0/0","value":"Dizer a ela seu nome"},{"op":"replace","path":"/scenes/question_beauty4b/options/1/0","value":"Dizer a ela um nome falso romantico"},{"op":"replace","path":"/scenes/question_beauty5a/text","value":"\"...Esse e um nome estranho,\" Ela diz categoricamente. \"Por que seus pais te chamariam assim?\""},{"op":"replace","path":"/scenes/question_beauty5b/text","value":"\"e um prazer conhecer voce, Vaughn St. Lovecastle!\" ela diz com um sorriso agradavel. \"Por que voce esta interessado nesta biblioteca fechada, a proposito?\""},{"op":"replace","path":"/scenes/question_beauty6a/text","value":"Eu laconicamente evito o assunto de origem embaracosa de meu nome."},{"op":"replace","path":"/scenes/question_beauty6b/text","value":"\"Entao me conte,\" ela comeca, \" Por que voce esta interessado nesta biblioteca fechada, a proposito?\""},{"op":"replace","path":"/scenes/question_time1/text","value":"\"Viajou... Atraves do tempo?\" Ela repete, confusa. \"Mas nao e todo mundo que viaja pelo tempo?\""},{"op":"replace","path":"/scenes/question_time2/text","value":"Pergunto a ela o que ela quer dizer."},{"op":"replace","path":"/scenes/question_time3/text","value":"\"Estamos todos nos movendo atraves do tempo, a uma taxa de cerca de 1 segundo por segundo.\" ela elabora."},{"op":"replace","path":"/scenes/question_time4/text","value":"Nao posso dizer se essa linda garota e um genio ou louca."},{"op":"replace","path":"/scenes/pagoda1/text","value":"A biblioteca... A Grande Biblioteca Hylotl!"},{"op":"replace","path":"/scenes/pagoda2/text","value":"e claro que eu ouvi falar dela, e um local historico famoso, mas agora ela ainda nao abriu! e POR isso que eu sabia que tinha sido enviado para o passado!"},{"op":"replace","path":"/scenes/pagoda3/text","value":"Eu explico rapidamente a Kasumi que na minha epoca, a biblioteca esta aberta."},{"op":"replace","path":"/scenes/pagoda4a/text","value":"\"Sua historia e exagerada, Sr. Lovecastle,\" ela comeca, \"Mas voce nao parece ou fala como qualquer um que eu ja conheci. Talvez a sua historia seja verdadeira.\""},{"op":"replace","path":"/scenes/pagoda4b/text","value":"\"Sua historia parece loucura.,\" ela comeca, \"Mas voce nao parece ou fala como qualquer um que eu ja conheci. Talvez a sua historia seja verdadeira.\""},{"op":"replace","path":"/scenes/pagoda5/text","value":"\"Se voce foi enviado atraves do tempo e do espaco a uma taxa incomum, o que voce acha que o fez vir parar aqui?\""},{"op":"replace","path":"/scenes/pagoda5/options/0/0","value":"Seu ritual cerimonial"},{"op":"replace","path":"/scenes/pagoda5/options/1/0","value":"O poder do Air Hockey"},{"op":"replace","path":"/scenes/hockey1/text","value":"\"Air Hockey? O que e esse 'Air Hockey'? de que voce fala?\""},{"op":"replace","path":"/scenes/hockey3/text","value":"Ela nao sabe o que e Air Hockey."},{"op":"replace","path":"/scenes/hockey4/text","value":"Provavelmente nao ha mesmo nenhum Air Hockey NESTA epoca."},{"op":"replace","path":"/scenes/hockey5/text","value":"De repente, sinto o peso esmagador de quao serio as minhas circunstancias se tornaram."},{"op":"replace","path":"/scenes/hockey6/text","value":"\"Sera que esse 'Air Hockey' de voces costumam enviar pessoas atraves do tempo?\""},{"op":"replace","path":"/scenes/hockey6/options/0/0","value":"Nao, realmente nao"},{"op":"replace","path":"/scenes/hockey6/options/1/0","value":"Tenho certeza que nao"},{"op":"replace","path":"/scenes/hockey7/text","value":"\"Talvez fosse outra coisa?\" ela diz pensativamente.."},{"op":"replace","path":"/scenes/hockey7/options/0/0","value":"Seu ritual cerimonial"},{"op":"replace","path":"/scenes/hockey7/options/1/0","value":"Nao e Air Hockey"},{"op":"replace","path":"/scenes/hockey8/text","value":"Ela me ignora inteiramente, contemplando por um momento antes que seu rosto se acender."},{"op":"replace","path":"/scenes/hockey8/options/0/0","value":"O que e isso?"},{"op":"replace","path":"/scenes/ritual1/text","value":"\"A cerimonia!\" ela exclama. \"Mas e uma cerimonia de tradicao, nao de poder divino. E nem sequer esta terminada.\""},{"op":"replace","path":"/scenes/ritual2a/text","value":"Perguntei a ela por que a cerimonia nao estava completa."},{"op":"replace","path":"/scenes/ritual3a/text","value":"\"Bem, e claro que nao foi - eu fui interrompida por voce mexendo e gritando por ajuda.\""},{"op":"replace","path":"/scenes/ritual2b/text","value":"Pergunto a ela por que sua cerimonia nao foi completa."},{"op":"replace","path":"/scenes/ritual3b/text","value":"\"Bem, e claro que nao foi - eu fui interrompida por voce mexendo e gritando por ajuda.\""},{"op":"replace","path":"/scenes/ritual4/text","value":"\"Mas talvez...\" ela diz enquanto olha atentamente para o cajado na sua mao, \"Talvez terminar a cerimonia vai ajudar envia-lo de volta?\""},{"op":"replace","path":"/scenes/ritual4/options/0/0","value":"O que voce precisa fazer?"},{"op":"replace","path":"/scenes/ritual5/text","value":"\"Bem, primeiro foi o 'tributo da oracao' - em seguida vem o 'tributo do talento', e entao o 'tributo da cancao'.\""},{"op":"replace","path":"/scenes/ritual5/options/0/0","value":"Qual e o talento?"},{"op":"replace","path":"/scenes/ritual6/text","value":"Ela sorri, dizendo, \"Eu sou uma artista. Eu devo pintar para o ritual!\""},{"op":"replace","path":"/scenes/ritual6/options/0/0","value":"Pintar?"},{"op":"replace","path":"/scenes/art1/text","value":"\"e isso mesmo!\" ela diz. \"Espere aqui, e quando eu terminar, voce pode julgar se minha arte e digna.\""},{"op":"replace","path":"/scenes/art2/text","value":"Kasumi sai para a praia, abrindo um bau de pinceis. Sento-me desajeitadamente nos degraus da entrada do pagode, observando-a de uma curta distancia."},{"op":"replace","path":"/scenes/art3/text","value":"Tenho pouco tempo para reunir meus pensamentos."},{"op":"replace","path":"/scenes/art4/text","value":"Pensar que ela nao so e linda, mas tambem e uma artista talentosa? Certamente eu devo estar em um sonho, ou talvez um coma fantasioso elaborado."},{"op":"replace","path":"/scenes/art5a/text","value":"Ela acha que meu nome e Vaughn St. Lovecastle. Se estamos realmente destinado a um outro, sera que ela iria apreciar o meu nome verdadeiro?"},{"op":"replace","path":"/scenes/art5b/text","value":"Ela poderia me amar de verdade? Ela sera capaz de vir ao presente comigo? Isso vai causar uma ruptura no continuum espaco-tempo?"},{"op":"replace","path":"/scenes/art6/text","value":"Eu considero meu sofrimento ate agora, mas ao fazer isso, Kasumi retorna com um pergaminho enrolado."},{"op":"replace","path":"/scenes/art7/text","value":"\"Acabei!\" ela anuncia. Seu sorriso brilha no por do sol como a isca de um peixe bonito pescado."},{"op":"replace","path":"/scenes/art7/options/0/0","value":"Posso ver?"},{"op":"replace","path":"/scenes/art7/options/1/0","value":"O que voce pintou?"},{"op":"replace","path":"/scenes/art8a/text","value":"\"Sim! Aqui esta!\""},{"op":"replace","path":"/scenes/art8b/text","value":"\"Voce podera ver quando eu lhe mostrar, agoooora mesmo!\"."},{"op":"replace","path":"/scenes/art9/text","value":"Ela mostra o pergaminho para mim"},{"op":"replace","path":"/scenes/art12/text","value":"\"Pode dizer o que e?\" ela pergunta com entusiasmo."},{"op":"replace","path":"/scenes/art12/options/0/0","value":"Algum tipo de cachorro?"},{"op":"replace","path":"/scenes/art12/options/1/0","value":"Algum tipo de alienigena?"},{"op":"replace","path":"/scenes/art13/text","value":"Ela ri. \"Nao, bobo, e um pato!\""},{"op":"replace","path":"/scenes/art15/text","value":"Eu pergunto se Kasumi literalmente ja viu um pato, ou mesmo ouviu uma descricao em segunda mao de um."},{"op":"replace","path":"/scenes/art16/text","value":"Eu volto para ela. \"Bem?\" ela pergunta. \"O que voce acha?\""},{"op":"replace","path":"/scenes/art16/options/0/0","value":"Isso e uma piada?"},{"op":"replace","path":"/scenes/art16/options/1/0","value":"e lindo!"},{"op":"replace","path":"/scenes/art17a/text","value":"\"...Eu acho que o padrao de arte e diferente no seu tempo, hein?\" ela diz sem graca. Presumo que a imagem nao era, de fato, uma piada."},{"op":"replace","path":"/scenes/art18/text","value":"Eu acho que eu posso ter chateado ela, e desesperadamente penso em uma maneira de mover a conversa para a frente."},{"op":"replace","path":"/scenes/art18/options/0/0","value":"Entao o 'Tributo da cancao' e o proximo?"},{"op":"replace","path":"/scenes/art17b/text","value":"\"Obrigado!\" ela diz com um sorriso radiante. "},{"op":"replace","path":"/scenes/art17b/options/0/0","value":"Entao o 'Tributo da cancao' e o proximo?"},{"op":"replace","path":"/scenes/song1/text","value":"Ela balanca a cabeca. \"Eu tenho que inventar uma musica que vai limpar a terra da incivilidade. Mas eu vou precisar de ajuda com ideias...\""},{"op":"replace","path":"/scenes/song1/options/0/0","value":"Eu posso ajudar!"},{"op":"replace","path":"/scenes/song2/text","value":"\"Isso parece bom! Que tipo de musica deveria ser?\""},{"op":"replace","path":"/scenes/song2/options/0/0","value":"Uma cancao divertida!"},{"op":"replace","path":"/scenes/song2/options/1/0","value":"Uma cancao romantica!"},{"op":"replace","path":"/scenes/song3a/text","value":"\"Uma cancao divertida? Isso parece... Bem. Que tipo de personagens ela teria?\""},{"op":"replace","path":"/scenes/song3a/options/0/0","value":"Um peixe falante!"},{"op":"replace","path":"/scenes/song3a/options/1/0","value":"Um urso triste!"},{"op":"replace","path":"/scenes/song4a/text","value":"\"Um peixe falante parece divertido. O que o peixe deveria estar fazendo?\""},{"op":"replace","path":"/scenes/song4a/options/0/0","value":"Procurando por ouro!"},{"op":"replace","path":"/scenes/song4a/options/1/0","value":"Apenas gritando com todo mundo!"},{"op":"replace","path":"/scenes/song5a/text","value":"\"Ok, acho que tenho algo...\" ela diz."},{"op":"replace","path":"/scenes/song6a/text","value":"\"Peixe falante, de extrema saude, o que faz voce viajar, por tal riqueza?\""},{"op":"replace","path":"/scenes/song6a/options/0/0","value":"Isso e tudo?"},{"op":"replace","path":"/scenes/song5b/text","value":"\"Gritante? Certo. Na verdade, acho que tenho algo...\" ela diz."},{"op":"replace","path":"/scenes/song6b/text","value":"\"Peixe falante, direto dos meus sonhos, como podemos evitar seus gritos?\""},{"op":"replace","path":"/scenes/song6b/options/0/0","value":"Isso e tudo?"},{"op":"replace","path":"/scenes/song4b/text","value":"\"Um urso triste? Hum, ok. Por que o urso esta triste?\""},{"op":"replace","path":"/scenes/song4b/options/0/0","value":"A casa dele esta sendo hipotecada!"},{"op":"replace","path":"/scenes/song4b/options/1/0","value":"Ele nao existe!"},{"op":"replace","path":"/scenes/song5c/text","value":"\"Ele esta perdendo sua casa? Que triste! Eu tenho uma ideia de cancao, mas nao e muito engracada.\" ela diz."},{"op":"replace","path":"/scenes/song6c/text","value":"\"Urso triste e velho, destinado a vagar, depois dos bancos, devolver sua casa.\""},{"op":"replace","path":"/scenes/song6c/options/0/0","value":"Isso e tudo?"},{"op":"replace","path":"/scenes/song5d/text","value":"\"Ele esta perdendo sua casa? Que triste! Eu tenho uma ideia de cancao, mas nao e muito engracada.\" ela diz."},{"op":"replace","path":"/scenes/song6d/text","value":"\"Velho urso triste, tudo deu errado, desde que voce percebeu, voce e apenas uma cancao.\""},{"op":"replace","path":"/scenes/song6d/options/0/0","value":"Isso e tudo?"},{"op":"replace","path":"/scenes/song3b/text","value":"\"Uma cancao romantica! Que maravilha! Sobre o que deveria ser?\""},{"op":"replace","path":"/scenes/song3b/options/0/0","value":"Estrela do mar, apaixonada!"},{"op":"replace","path":"/scenes/song3b/options/1/0","value":"Um polvo apaixonado!"},{"op":"replace","path":"/scenes/song4c/text","value":"\"Que gracinha! Onde eles se conheceram?\""},{"op":"replace","path":"/scenes/song4c/options/0/0","value":"Um clube juvenil!"},{"op":"replace","path":"/scenes/song4c/options/1/0","value":"A danca da aldeia!"},{"op":"replace","path":"/scenes/song5e/text","value":"\"Que saudavel! Acho que posso cantar sobre isso.\" ela diz."},{"op":"replace","path":"/scenes/song6e/text","value":"\"Estrelas do mar apaixonadas, coracoes unidos, se encontraram no clube juvenil, jogando dardos.\""},{"op":"replace","path":"/scenes/song6e/options/0/0","value":"Isso e tudo?"},{"op":"replace","path":"/scenes/song5f/text","value":"\"Que adoravel! Eu acho que posso cantar sobre isso.\" ela diz."},{"op":"replace","path":"/scenes/song6f/text","value":"\"Estrelas do mar apaixonadas, Oh tao doce, como voce danca, sem alguns pes?\""},{"op":"replace","path":"/scenes/song6f/options/0/0","value":"Isso e tudo?"},{"op":"replace","path":"/scenes/song4d/text","value":"\"Posso imaginar isso agora! Por que ele esta tao apaixonado?\""},{"op":"replace","path":"/scenes/song4d/options/0/0","value":"Ele ama uma Hylotl!"},{"op":"replace","path":"/scenes/song4d/options/1/0","value":"Ele nao pode ter um encontro!"},{"op":"replace","path":"/scenes/song5g/text","value":"\"Isso e muito tragico! Tenho uma cancao em mente so para isso.\" ela diz."},{"op":"replace","path":"/scenes/song6g/text","value":"\"Polvo solitario, ele canta cansado, porque sua paixao, esta fora de alcance.\""},{"op":"replace","path":"/scenes/song6g/options/0/0","value":"Isso e tudo?"},{"op":"replace","path":"/scenes/song5h/text","value":"\"Pobre polvo solitario! Tenho uma cancao em mente so para isso.\" ela diz."},{"op":"replace","path":"/scenes/song6h/text","value":"\"Polvo solitario, voce nao pode apenas esperar, coloque algum esforco, se voce quiser namorar.\""},{"op":"replace","path":"/scenes/song6h/options/0/0","value":"Isso e tudo?"},{"op":"replace","path":"/scenes/finale1/text","value":"Uma luz eterea enche de repente a area enquanto suas palavras de poder deixam seus labios. Meu estomago se agita como uma maquina de lavar roupa deixada ao sol."},{"op":"replace","path":"/scenes/finale1/options/0/0","value":"O que esta acontecendo?!"},{"op":"replace","path":"/scenes/finale2/text","value":"\"Eu nao sei!\" Ela grita. Eu sinto algo me puxando. Uma mao invisivel do destino. De repente percebo que o meu tempo aqui pode acabar em breve."},{"op":"replace","path":"/scenes/finale3/text","value":"Restam-me poucos segundos preciosos. Eu posso falhar em ganhar o seu amor, mas eu tenho que fazer uma tentativa! UMA TENTATIVA BONITA!"},{"op":"replace","path":"/scenes/finale3/options/0/0","value":"Nunca me esqueca!"},{"op":"replace","path":"/scenes/finale3/options/1/0","value":"Eu te amo!"},{"op":"replace","path":"/scenes/finale4a/text","value":"Eu nunca ouvi sua resposta, como o tempo me puxa para dentro do vazio escuro de nada mais uma vez."},{"op":"replace","path":"/scenes/finale4b/text","value":"\"Isso e um pouco estranho, nos nao conhecemos um ao outro tao bem!\" ela responde. Eu mal tenho tempo para processar a minha rejeicao como eu sentir o puxao familiar de tempo, e tudo desaparece."},{"op":"replace","path":"/scenes/goodEnding/text","value":"O poema de Kasumi ecoa na minha cabeca, guiando-me atraves da escuridao. Eu me sinto como um peixe na lideranca. No escuro."},{"op":"replace","path":"/scenes/goodEnding1/text","value":"Depois do que parece ser um milenio, mas tambem so talvez cinco ou seis minutos, eu acordo onde eu comecei."},{"op":"replace","path":"/scenes/goodEnding2/text","value":"A mesa de hoquei... O dia de hoje... Kasumi! Sinto que o destino foi arrancado de mim."},{"op":"replace","path":"/scenes/goodEnding3/text","value":"Eu grito com uma raiva dramatica e chorosa. Esta mesa de hoquei nao e nada comparada ao amor. Na minha raiva, eu viro a mesa, enviando-a para o chao."},{"op":"replace","path":"/scenes/goodEnding4/text","value":"Eu cai no chao solucando, ao lado da mesa destruida. Era muito real - Kasumi nao pode ser apenas um sonho, pode?"},{"op":"replace","path":"/scenes/goodEnding5/text","value":"Curiosamente, eu vejo uma carta, saindo dos escombros. Parece velha, muito velha. Isso sempre esteve aqui?"},{"op":"replace","path":"/scenes/goodEnding5/options/0/0","value":"Abrir a carta"},{"op":"replace","path":"/scenes/goodEnding6/text","value":"Ainda de joelhos, eu ansiosamente tiro o selo de cera, cuidado para nao rasgar o papel. Sera essa uma carta de Kasumi, confessando o seu amor?"},{"op":"replace","path":"/scenes/goodEnding7/text","value":"Abro o envelope, o meu coracao acelera. Talvez a carta de Kasumi vai me instruir como voltar ao seu tempo para que possamos continuar nosso amor predestinado?"},{"op":"replace","path":"/scenes/goodEnding8/text","value":"Eu retiro a carta. Tudo se resume a isso."},{"op":"replace","path":"/scenes/badEnding/text","value":"O poema de Kasumi ecoa na minha cabeca, guiando-me atraves da escuridao. Eu me sinto como um peixe na lideranca. No escuro."},{"op":"replace","path":"/scenes/badEnding1/text","value":"Depois do que parece ser um milenio, mas tambem so talvez cinco ou seis minutos, eu acordo onde eu comecei."},{"op":"replace","path":"/scenes/badEnding2/text","value":"A mesa de hoquei... O dia de hoje... Kasumi! Sinto que o destino foi arrancado de mim."},{"op":"replace","path":"/scenes/badEnding3/text","value":"Eu grito com uma raiva dramatica e chorosa. Esta mesa de hoquei nao e nada comparada ao amor. Na minha raiva, eu tento virar a mesa, mas meus bracos fracos falham comigo."},{"op":"replace","path":"/scenes/badEnding4/text","value":"Eu nunca poderia destruir esta mesa de hoquei. Lindas donzelas do santuario podem ir e vir..."},{"op":"replace","path":"/scenes/badEnding5/text","value":"Mas pelo menos eu vou ter meus jogos."}]
+[
+  {
+    "op": "replace",
+    "path": "/displayConfig/subtitle",
+    "value": "Encontre um grande amor no passado distante"
+  },
+  {
+    "op": "replace",
+    "path": "/entryScene",
+    "value": "notatraducao"
+  },
+  {
+    "op": "add",
+    "path": "/scenes/notatraducao",
+    "value": {
+      "background": "bg_black",
+      "foreground": "title",
+      "text": "[Nota de traducao: O texto neste jogo nao suporta acentuacao.]",
+      "continue": "pre_credits"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pre_credits/text",
+    "value": "[Esta historia foi escrita por uma equipe diversificada de talentosos estudiosos Hylotl. A equipe criativa nao sao responsaveis por qualquer coracao partido ou paixao por personagens ficticios que podem se desenvolver ao jogar este jogo.]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro0/text",
+    "value": "A vida e tranquila para mim, um Hylotl adolescente despretensioso que trabalha duro no colegio interno. Como um saco plastico descartado flutuando rio abaixo, as vezes eu sinto como se eu simplesmente derivasse atraves da vida."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro1/text",
+    "value": "Meu unico consolo e a minha incrivel e inabalavel sutileza no Air Hockey. Claro, nao e exatamente o jogo mais popular no universo, mas que me permite esculpir uma habilidade de nicho."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro2/text",
+    "value": "Atualmente estou no dormitorio da minha escola, estudando. Estou lentamente trabalhando em um livro intitulado 'A Arte da Agressividade Passiva Hylotl'."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro3/text",
+    "value": "No entanto, os pensamentos sobre Air Hockey me agarraram mais uma vez. Mas meus estudos nao podem ser ignorados..."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro3/options/0/0",
+    "value": "Continuar Estudando"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro3/options/1/0",
+    "value": "Praticar Air Hockey"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro3a/text",
+    "value": "O conhecimento e importante, claro, mas a habilidade em um jogo competitivo pouco conhecido e algo que ficara comigo para sempre."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro3b/text",
+    "value": "Eu volto aos meus estudos novamente, mas logo os tentaculos escorregadios do desejo agarram meu subconsciente, e eu sou atraido para a mesa como se estivesse possuido por um espirito de aspiracao crua."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro4/text",
+    "value": "Deixo meu dormitorio em silencio, tomando cuidado para nao deixar a minha emocao me oprimir e me causar involuntariamente gritar 'air hockey!', como na ultima vez que eu escapei."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro5/text",
+    "value": "Eu me encontro no fliperama do campus, meus tres olhos olhando para a beleza que vejo diante de mim. Nos encontramos de novo, amigo."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro6/text",
+    "value": "A mesa de hoquei... Uma bela superficie lisa, perfurada e envernizada. e a mesa de pedra sobre a qual eu inscrevo minha vontade, e a raquete de hoquei, mas um cinzel de carisma bonito!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro7/text",
+    "value": "Coloco o disco na mesa, saboreando o momento. Meu coracao salta uma batida... Mas algo parece errado."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro8/text",
+    "value": "Meu coracao acelera e eu sinto o mundo girando. Estendi a mao, mas minhas maos nao encontram consolo. Eu me sinto como uma baleia encalhada, exceto que a praia em que estou esta viajando... Viajando pelo tempo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro9/text",
+    "value": "A sensacao que sinto e dificil de descrever - como despertar lentamente de um sonho, exceto que o sonho envolve todos os que ja viveram gritando em voz alta para voce."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro10/text",
+    "value": "Minha visao lentamente retorna para mim, e eu sinto areia quente nas minhas maos e pes. Estou na superficie de um planeta? e o sol que eu sinto sobre mim, ou talvez eu estou apenas em chamas?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro11/text",
+    "value": "Eu nao estou em chamas, mas isso nao me da muita tranquilidade. O lugar onde eu estou e quase completamente desconhecido."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro12/text",
+    "value": "Estou na margem de uma pequena ilha, no centro da qual esta um grande pagode. Um sol se poe acima de mim. e claro para mim que devo planejar minha proxima jogada com muito cuidado..."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro12/options/0/0",
+    "value": "Andar as escondidas."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro12/options/1/0",
+    "value": "Gritar por ajuda"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/sneak1/text",
+    "value": "Uma terra desconhecida, uma dor de cabeca batendo... Eu decido abordar esta situacao com discricao. Eu me agacho, atravessando a praia em direcao ao pagode."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/sneak2/text",
+    "value": "O ar e silencioso, com excecao da ondulacao macia das ondas nesta praia misteriosa. O oceano parece ser agua e nao acido ou magma. Esse fato me acalma um pouco."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/sneak3/text",
+    "value": "Ouco vozes! Eu me escondo atras de um poste proximo. A arquitectura e toda Hylotl, pelo menos as minhas hipoteses de estar em territorio Floran parecem baixas."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/sneak4/text",
+    "value": "Do lado de fora da entrada do pagode, vejo uma garota ajoelhada na areia. Eu suspiro, incapaz de me levantar, e ela se vira para me ver!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/yell1/text",
+    "value": "Entro em panico e comeco a gritar. Tenho certeza que vou chamar a atencao de uma figura de autoridade util que vai me ajudar na minha situacao."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/yell2/text",
+    "value": "No entanto, quem me cumprimenta e uma linda garota, vestida com estranhas roupas cerimoniais. Agarrado em suas maos esta um cajado cor-de-rosa."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/kasumi1a/text",
+    "value": "\"Quem e voce, e por que voce esta se esgueirando?\" diz a garota, com uma luz dancando sobre sua pele linda e umida."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/kasumi1a/options/0/0",
+    "value": "Onde estou?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/kasumi1a/options/1/0",
+    "value": "Quem e voce?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/kasumi1b/text",
+    "value": "\"Quem e voce, e por que voce esta gritando como um nerd?\" diz a garota, com uma luz dancando sobre sua pele linda e umida."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/kasumi1b/options/0/0",
+    "value": "Onde estou?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/kasumi1b/options/1/0",
+    "value": "Quem e voce?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/explanation1a/text",
+    "value": "\"Voce esta na Grande Biblioteca Hylotl, que esta abrindo uma semana a partir de hoje.\" Ela explica."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/explanation2a/text",
+    "value": "\"Ninguem mais deveria estar aqui enquanto eu abencoo a ilha! Por que voce veio aqui?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/explanation2a/options/0/0",
+    "value": "Para conhecer garotas bonitas!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/explanation2a/options/1/0",
+    "value": "Eu fui enviado atraves do tempo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/explanation1b/text",
+    "value": "\"Eu sou Kasumi, uma donzela do santuario enviada para abencoar a Grande Biblioteca Hylotl antes de sua abertura na proxima semana.\" Ela explica."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/explanation2b/text",
+    "value": "\"Ninguem mais deveria estar aqui! Por que voce veio aqui?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/explanation2b/options/0/0",
+    "value": "Para conhecer garotas bonitas!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/explanation2b/options/1/0",
+    "value": "Eu fui enviado atraves do tempo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty1/text",
+    "value": "Ela ficou surpresa com a brusquidao da minha afirmacao. Eu entro em panico, me perguntando por que essa seria uma das primeiras coisas que eu diria a uma garota."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty2/text",
+    "value": "Ela responde, \"Bem, temo que voce tenha chegado ao lugar errado, porque a Grande Biblioteca Hylotl ainda nao esta aberta ao publico.\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty3/text",
+    "value": " Presumo que ela entendeu mal a implicacao da minha observacao, mas nao posso deixar de olhar um pouco demais para seus olhos vermelhos de rubi."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty4a/text",
+    "value": "\"Onde estao minhas maneiras,\" ela acrescenta de repente, \"Eu esqueci de perguntar seu nome. Quem e voce?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty4a/options/0/0",
+    "value": "Dizer a ela seu nome"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty4a/options/1/0",
+    "value": "Dizer a ela um nome falso romantico"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty4b/text",
+    "value": "\"Onde estao minhas maneiras,\" ela acrescenta de repente, \"Meu nome e Kasumi. E quem seria voce?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty4b/options/0/0",
+    "value": "Dizer a ela seu nome"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty4b/options/1/0",
+    "value": "Dizer a ela um nome falso romantico"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty5a/text",
+    "value": "\"...Esse e um nome estranho,\" Ela diz categoricamente. \"Por que seus pais te chamariam assim?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty5b/text",
+    "value": "\"e um prazer conhecer voce, Vaughn St. Lovecastle!\" ela diz com um sorriso agradavel. \"Por que voce esta interessado nesta biblioteca fechada, a proposito?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty6a/text",
+    "value": "Eu laconicamente evito o assunto de origem embaracosa de meu nome."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty6b/text",
+    "value": "\"Entao me conte,\" ela comeca, \" Por que voce esta interessado nesta biblioteca fechada, a proposito?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_time1/text",
+    "value": "\"Viajou... Atraves do tempo?\" Ela repete, confusa. \"Mas nao e todo mundo que viaja pelo tempo?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_time2/text",
+    "value": "Pergunto a ela o que ela quer dizer."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_time3/text",
+    "value": "\"Estamos todos nos movendo atraves do tempo, a uma taxa de cerca de 1 segundo por segundo.\" ela elabora."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_time4/text",
+    "value": "Nao posso dizer se essa linda garota e um genio ou louca."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pagoda1/text",
+    "value": "A biblioteca... A Grande Biblioteca Hylotl!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pagoda2/text",
+    "value": "e claro que eu ouvi falar dela, e um local historico famoso, mas agora ela ainda nao abriu! e POR isso que eu sabia que tinha sido enviado para o passado!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pagoda3/text",
+    "value": "Eu explico rapidamente a Kasumi que na minha epoca, a biblioteca esta aberta."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pagoda4a/text",
+    "value": "\"Sua historia e exagerada, Sr. Lovecastle,\" ela comeca, \"Mas voce nao parece ou fala como qualquer um que eu ja conheci. Talvez a sua historia seja verdadeira.\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pagoda4b/text",
+    "value": "\"Sua historia parece loucura.,\" ela comeca, \"Mas voce nao parece ou fala como qualquer um que eu ja conheci. Talvez a sua historia seja verdadeira.\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pagoda5/text",
+    "value": "\"Se voce foi enviado atraves do tempo e do espaco a uma taxa incomum, o que voce acha que o fez vir parar aqui?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pagoda5/options/0/0",
+    "value": "Seu ritual cerimonial"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pagoda5/options/1/0",
+    "value": "O poder do Air Hockey"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey1/text",
+    "value": "\"Air Hockey? O que e esse 'Air Hockey'? de que voce fala?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey3/text",
+    "value": "Ela nao sabe o que e Air Hockey."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey4/text",
+    "value": "Provavelmente nao ha mesmo nenhum Air Hockey NESTA epoca."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey5/text",
+    "value": "De repente, sinto o peso esmagador de quao serio as minhas circunstancias se tornaram."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey6/text",
+    "value": "\"Sera que esse 'Air Hockey' de voces costumam enviar pessoas atraves do tempo?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey6/options/0/0",
+    "value": "Nao, realmente nao"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey6/options/1/0",
+    "value": "Tenho certeza que nao"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey7/text",
+    "value": "\"Talvez fosse outra coisa?\" ela diz pensativamente.."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey7/options/0/0",
+    "value": "Seu ritual cerimonial"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey7/options/1/0",
+    "value": "Nao e Air Hockey"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey8/text",
+    "value": "Ela me ignora inteiramente, contemplando por um momento antes que seu rosto se acender."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey8/options/0/0",
+    "value": "O que e isso?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual1/text",
+    "value": "\"A cerimonia!\" ela exclama. \"Mas e uma cerimonia de tradicao, nao de poder divino. E nem sequer esta terminada.\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual2a/text",
+    "value": "Perguntei a ela por que a cerimonia nao estava completa."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual3a/text",
+    "value": "\"Bem, e claro que nao foi - eu fui interrompida por voce mexendo e gritando por ajuda.\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual2b/text",
+    "value": "Pergunto a ela por que sua cerimonia nao foi completa."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual3b/text",
+    "value": "\"Bem, e claro que nao foi - eu fui interrompida por voce mexendo e gritando por ajuda.\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual4/text",
+    "value": "\"Mas talvez...\" ela diz enquanto olha atentamente para o cajado na sua mao, \"Talvez terminar a cerimonia vai ajudar envia-lo de volta?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual4/options/0/0",
+    "value": "O que voce precisa fazer?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual5/text",
+    "value": "\"Bem, primeiro foi o 'tributo da oracao' - em seguida vem o 'tributo do talento', e entao o 'tributo da cancao'.\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual5/options/0/0",
+    "value": "Qual e o talento?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual6/text",
+    "value": "Ela sorri, dizendo, \"Eu sou uma artista. Eu devo pintar para o ritual!\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual6/options/0/0",
+    "value": "Pintar?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art1/text",
+    "value": "\"e isso mesmo!\" ela diz. \"Espere aqui, e quando eu terminar, voce pode julgar se minha arte e digna.\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art2/text",
+    "value": "Kasumi sai para a praia, abrindo um bau de pinceis. Sento-me desajeitadamente nos degraus da entrada do pagode, observando-a de uma curta distancia."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art3/text",
+    "value": "Tenho pouco tempo para reunir meus pensamentos."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art4/text",
+    "value": "Pensar que ela nao so e linda, mas tambem e uma artista talentosa? Certamente eu devo estar em um sonho, ou talvez um coma fantasioso elaborado."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art5a/text",
+    "value": "Ela acha que meu nome e Vaughn St. Lovecastle. Se estamos realmente destinado a um outro, sera que ela iria apreciar o meu nome verdadeiro?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art5b/text",
+    "value": "Ela poderia me amar de verdade? Ela sera capaz de vir ao presente comigo? Isso vai causar uma ruptura no continuum espaco-tempo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art6/text",
+    "value": "Eu considero meu sofrimento ate agora, mas ao fazer isso, Kasumi retorna com um pergaminho enrolado."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art7/text",
+    "value": "\"Acabei!\" ela anuncia. Seu sorriso brilha no por do sol como a isca de um peixe bonito pescado."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art7/options/0/0",
+    "value": "Posso ver?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art7/options/1/0",
+    "value": "O que voce pintou?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art8a/text",
+    "value": "\"Sim! Aqui esta!\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art8b/text",
+    "value": "\"Voce podera ver quando eu lhe mostrar, agoooora mesmo!\"."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art9/text",
+    "value": "Ela mostra o pergaminho para mim"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art12/text",
+    "value": "\"Pode dizer o que e?\" ela pergunta com entusiasmo."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art12/options/0/0",
+    "value": "Algum tipo de cachorro?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art12/options/1/0",
+    "value": "Algum tipo de alienigena?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art13/text",
+    "value": "Ela ri. \"Nao, bobo, e um pato!\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art15/text",
+    "value": "Eu pergunto se Kasumi literalmente ja viu um pato, ou mesmo ouviu uma descricao em segunda mao de um."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art16/text",
+    "value": "Eu volto para ela. \"Bem?\" ela pergunta. \"O que voce acha?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art16/options/0/0",
+    "value": "Isso e uma piada?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art16/options/1/0",
+    "value": "e lindo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art17a/text",
+    "value": "\"...Eu acho que o padrao de arte e diferente no seu tempo, hein?\" ela diz sem graca. Presumo que a imagem nao era, de fato, uma piada."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art18/text",
+    "value": "Eu acho que eu posso ter chateado ela, e desesperadamente penso em uma maneira de mover a conversa para a frente."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art18/options/0/0",
+    "value": "Entao o 'Tributo da cancao' e o proximo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art17b/text",
+    "value": "\"Obrigado!\" ela diz com um sorriso radiante. "
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art17b/options/0/0",
+    "value": "Entao o 'Tributo da cancao' e o proximo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song1/text",
+    "value": "Ela balanca a cabeca. \"Eu tenho que inventar uma musica que vai limpar a terra da incivilidade. Mas eu vou precisar de ajuda com ideias...\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song1/options/0/0",
+    "value": "Eu posso ajudar!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song2/text",
+    "value": "\"Isso parece bom! Que tipo de musica deveria ser?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song2/options/0/0",
+    "value": "Uma cancao divertida!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song2/options/1/0",
+    "value": "Uma cancao romantica!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song3a/text",
+    "value": "\"Uma cancao divertida? Isso parece... Bem. Que tipo de personagens ela teria?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song3a/options/0/0",
+    "value": "Um peixe falante!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song3a/options/1/0",
+    "value": "Um urso triste!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4a/text",
+    "value": "\"Um peixe falante parece divertido. O que o peixe deveria estar fazendo?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4a/options/0/0",
+    "value": "Procurando por ouro!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4a/options/1/0",
+    "value": "Apenas gritando com todo mundo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song5a/text",
+    "value": "\"Ok, acho que tenho algo...\" ela diz."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6a/text",
+    "value": "\"Peixe falante, de extrema saude, o que faz voce viajar, por tal riqueza?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6a/options/0/0",
+    "value": "Isso e tudo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song5b/text",
+    "value": "\"Gritante? Certo. Na verdade, acho que tenho algo...\" ela diz."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6b/text",
+    "value": "\"Peixe falante, direto dos meus sonhos, como podemos evitar seus gritos?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6b/options/0/0",
+    "value": "Isso e tudo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4b/text",
+    "value": "\"Um urso triste? Hum, ok. Por que o urso esta triste?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4b/options/0/0",
+    "value": "A casa dele esta sendo hipotecada!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4b/options/1/0",
+    "value": "Ele nao existe!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song5c/text",
+    "value": "\"Ele esta perdendo sua casa? Que triste! Eu tenho uma ideia de cancao, mas nao e muito engracada.\" ela diz."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6c/text",
+    "value": "\"Urso triste e velho, destinado a vagar, depois dos bancos, devolver sua casa.\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6c/options/0/0",
+    "value": "Isso e tudo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song5d/text",
+    "value": "\"Ele esta perdendo sua casa? Que triste! Eu tenho uma ideia de cancao, mas nao e muito engracada.\" ela diz."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6d/text",
+    "value": "\"Velho urso triste, tudo deu errado, desde que voce percebeu, voce e apenas uma cancao.\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6d/options/0/0",
+    "value": "Isso e tudo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song3b/text",
+    "value": "\"Uma cancao romantica! Que maravilha! Sobre o que deveria ser?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song3b/options/0/0",
+    "value": "Estrela do mar, apaixonada!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song3b/options/1/0",
+    "value": "Um polvo apaixonado!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4c/text",
+    "value": "\"Que gracinha! Onde eles se conheceram?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4c/options/0/0",
+    "value": "Um clube juvenil!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4c/options/1/0",
+    "value": "A danca da aldeia!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song5e/text",
+    "value": "\"Que saudavel! Acho que posso cantar sobre isso.\" ela diz."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6e/text",
+    "value": "\"Estrelas do mar apaixonadas, coracoes unidos, se encontraram no clube juvenil, jogando dardos.\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6e/options/0/0",
+    "value": "Isso e tudo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song5f/text",
+    "value": "\"Que adoravel! Eu acho que posso cantar sobre isso.\" ela diz."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6f/text",
+    "value": "\"Estrelas do mar apaixonadas, Oh tao doce, como voce danca, sem alguns pes?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6f/options/0/0",
+    "value": "Isso e tudo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4d/text",
+    "value": "\"Posso imaginar isso agora! Por que ele esta tao apaixonado?\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4d/options/0/0",
+    "value": "Ele ama uma Hylotl!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4d/options/1/0",
+    "value": "Ele nao pode ter um encontro!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song5g/text",
+    "value": "\"Isso e muito tragico! Tenho uma cancao em mente so para isso.\" ela diz."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6g/text",
+    "value": "\"Polvo solitario, ele canta cansado, porque sua paixao, esta fora de alcance.\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6g/options/0/0",
+    "value": "Isso e tudo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song5h/text",
+    "value": "\"Pobre polvo solitario! Tenho uma cancao em mente so para isso.\" ela diz."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6h/text",
+    "value": "\"Polvo solitario, voce nao pode apenas esperar, coloque algum esforco, se voce quiser namorar.\""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6h/options/0/0",
+    "value": "Isso e tudo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/finale1/text",
+    "value": "Uma luz eterea enche de repente a area enquanto suas palavras de poder deixam seus labios. Meu estomago se agita como uma maquina de lavar roupa deixada ao sol."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/finale1/options/0/0",
+    "value": "O que esta acontecendo?!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/finale2/text",
+    "value": "\"Eu nao sei!\" Ela grita. Eu sinto algo me puxando. Uma mao invisivel do destino. De repente percebo que o meu tempo aqui pode acabar em breve."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/finale3/text",
+    "value": "Restam-me poucos segundos preciosos. Eu posso falhar em ganhar o seu amor, mas eu tenho que fazer uma tentativa! UMA TENTATIVA BONITA!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/finale3/options/0/0",
+    "value": "Nunca me esqueca!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/finale3/options/1/0",
+    "value": "Eu te amo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/finale4a/text",
+    "value": "Eu nunca ouvi sua resposta, como o tempo me puxa para dentro do vazio escuro de nada mais uma vez."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/finale4b/text",
+    "value": "\"Isso e um pouco estranho, nos nao conhecemos um ao outro tao bem!\" ela responde. Eu mal tenho tempo para processar a minha rejeicao como eu sentir o puxao familiar de tempo, e tudo desaparece."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/goodEnding/text",
+    "value": "O poema de Kasumi ecoa na minha cabeca, guiando-me atraves da escuridao. Eu me sinto como um peixe na lideranca. No escuro."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/goodEnding1/text",
+    "value": "Depois do que parece ser um milenio, mas tambem so talvez cinco ou seis minutos, eu acordo onde eu comecei."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/goodEnding2/text",
+    "value": "A mesa de hoquei... O dia de hoje... Kasumi! Sinto que o destino foi arrancado de mim."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/goodEnding3/text",
+    "value": "Eu grito com uma raiva dramatica e chorosa. Esta mesa de hoquei nao e nada comparada ao amor. Na minha raiva, eu viro a mesa, enviando-a para o chao."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/goodEnding4/text",
+    "value": "Eu cai no chao solucando, ao lado da mesa destruida. Era muito real - Kasumi nao pode ser apenas um sonho, pode?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/goodEnding5/text",
+    "value": "Curiosamente, eu vejo uma carta, saindo dos escombros. Parece velha, muito velha. Isso sempre esteve aqui?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/goodEnding5/options/0/0",
+    "value": "Abrir a carta"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/goodEnding6/text",
+    "value": "Ainda de joelhos, eu ansiosamente tiro o selo de cera, cuidado para nao rasgar o papel. Sera essa uma carta de Kasumi, confessando o seu amor?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/goodEnding7/text",
+    "value": "Abro o envelope, o meu coracao acelera. Talvez a carta de Kasumi vai me instruir como voltar ao seu tempo para que possamos continuar nosso amor predestinado?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/goodEnding8/text",
+    "value": "Eu retiro a carta. Tudo se resume a isso."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/badEnding/text",
+    "value": "O poema de Kasumi ecoa na minha cabeca, guiando-me atraves da escuridao. Eu me sinto como um peixe na lideranca. No escuro."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/badEnding1/text",
+    "value": "Depois do que parece ser um milenio, mas tambem so talvez cinco ou seis minutos, eu acordo onde eu comecei."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/badEnding2/text",
+    "value": "A mesa de hoquei... O dia de hoje... Kasumi! Sinto que o destino foi arrancado de mim."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/badEnding3/text",
+    "value": "Eu grito com uma raiva dramatica e chorosa. Esta mesa de hoquei nao e nada comparada ao amor. Na minha raiva, eu tento virar a mesa, mas meus bracos fracos falham comigo."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/badEnding4/text",
+    "value": "Eu nunca poderia destruir esta mesa de hoquei. Lindas donzelas do santuario podem ir e vir..."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/badEnding5/text",
+    "value": "Mas pelo menos eu vou ter meus jogos."
+  }
+]

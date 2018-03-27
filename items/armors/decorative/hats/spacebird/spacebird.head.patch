@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um capacete decorativo, apto para guerreiros espaciais prontos para a batalha."
+    "value": "Um capacete decorativo, apto para guerreiros espaciais prontos para a batalha.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Spacebird Helmet",
+    "path": "/shortdescription"
   }
 ]

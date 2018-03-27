@@ -1,17 +1,22 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Essa arma contém uma massa de vermes alienígenas mutantes se contorcendo."
+    "value": "Alien Worm Gun",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/shortdescription",
-    "value": "Alien Worm Gun"
+    "value": "Alien Worm Gun ^yellow;^reset;",
+    "path": "/upgradeParameters/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/altAbility/name",
-    "value": " Explosão de Tentáculo"
+    "value": " Explosão de Tentáculo",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "Essa arma contém uma massa de vermes alienígenas mutantes se contorcendo.",
+    "path": "/description"
   }
 ]

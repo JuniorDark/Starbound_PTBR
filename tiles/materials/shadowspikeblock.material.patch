@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Interessado. Este bloco é feito de um material desconhecido."}, {"op": "replace", "path": "/description", "value": "Um bloco espinhento formado de material sombrio."}, {"op": "replace", "path": "/floranDescription", "value": "Blocoss escuros são pretos como a noite."}, {"op": "replace", "path": "/novakidDescription", "value": "Estes blocos são mais escuros que uma noite sem lua."}, {"op": "replace", "path": "/shortdescription", "value": "Shadow Spike Block"}]
+[
+  {
+    "op": "replace",
+    "value": "Um bloco espinhento formado de material sombrio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Blocoss escuros são pretos como a noite.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Este bloco é feito de um material desconhecido.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Shadow Spike Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes blocos são mais escuros que uma noite sem lua.",
+    "path": "/novakidDescription"
+  }
+]

@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Chama e para rail trams."
+    "value": "Chama e para rail trams.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Rail Tram Stop",
+    "path": "/shortdescription"
   }
 ]

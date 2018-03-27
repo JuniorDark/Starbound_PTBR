@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Otimista. Uma runa antiga que representa a virtude da vida."}, {"op": "replace", "path": "/humanDescription", "value": "Essa é uma runa antiga que significa vida, aparentemente."}, {"op": "replace", "path": "/avianDescription", "value": "Essa runa é cogitada para representar a essência da vida."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma antiga marcação para representar toda a vida em um único símbolo."}, {"op": "replace", "path": "/description", "value": "Uma runa antiga que é o símbolo da vida."}, {"op": "replace", "path": "/shortdescription", "value": "Life Rune"}, {"op": "replace", "path": "/floranDescription", "value": "Um símbolo antigo, que significa vida."}, {"op": "replace", "path": "/apexDescription", "value": "É uma runa antiga pela própria vida."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma runa para simbolizar toda a vida, uma tarefa difícil para uma pequena runa."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma runa para simbolizar toda a vida, uma tarefa difícil para uma pequena runa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma antiga marcação para representar toda a vida em um único símbolo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma runa antiga que é o símbolo da vida.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um símbolo antigo, que significa vida.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma runa antiga pela própria vida.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Life Rune",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Otimista. Uma runa antiga que representa a virtude da vida.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa é uma runa antiga que significa vida, aparentemente.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa runa é cogitada para representar a essência da vida.",
+    "path": "/avianDescription"
+  }
+]

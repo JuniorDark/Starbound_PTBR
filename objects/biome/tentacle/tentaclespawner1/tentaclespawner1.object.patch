@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Esta substância verde cheira absolutamente horrenda."}, {"op": "replace", "path": "/humanDescription", "value": "Juro que vi algo se mexer dentro disso."}, {"op": "replace", "path": "/avianDescription", "value": "Uma coisa... verde. Espere, eu acabei de ver algo se movendo dentro disso?"}, {"op": "replace", "path": "/description", "value": "Esta substância verde tem algo se movendo dentro dela..."}, {"op": "replace", "path": "/shortdescription", "value": "Tentacle Egg"}, {"op": "replace", "path": "/floranDescription", "value": "Parece interessante... Mas cheira engraçado!"}, {"op": "replace", "path": "/glitchDescription", "value": "Estressado. Eu provavelmente deveria ficar longe desta gosma verde!"}, {"op": "replace", "path": "/apexDescription", "value": "O que é isso se movendo dentro...?"}, {"op": "replace", "path": "/novakidDescription", "value": "Algum tipo de gel verde. Não tenho certeza disso."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma coisa... verde. Espere, eu acabei de ver algo se movendo dentro disso?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Juro que vi algo se mexer dentro disso.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece interessante... Mas cheira engraçado!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de gel verde. Não tenho certeza disso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estressado. Eu provavelmente deveria ficar longe desta gosma verde!",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tentacle Egg",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta substância verde tem algo se movendo dentro dela...",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta substância verde cheira absolutamente horrenda.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que é isso se movendo dentro...?",
+    "path": "/apexDescription"
+  }
+]

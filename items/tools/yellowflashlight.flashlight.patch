@@ -1,17 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/category",
-    "value": "tool"
+    "value": "Flashlight",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um lanterna amarela! Não tenha medo. "
-  },
-  {
-    "op": "replace",
-    "path": "/shortdescription",
-    "value": "Flashlight"
+    "value": "Um lanterna amarela! Não tenha medo. ",
+    "path": "/description"
   }
 ]

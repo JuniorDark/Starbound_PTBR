@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Frio, duro, concreto."}, {"op": "replace", "path": "/shortdescription", "value": "Concrete Block"}]
+[
+  {
+    "op": "replace",
+    "value": "Familiarizado. Concreto é um material de construção comum.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Concreto frio e duro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Concrete Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Concreto faz um bloco muito resistente.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não gossta de concreto frio.",
+    "path": "/florandescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Acho que isso é um assento."}, {"op": "replace", "path": "/avianDescription", "value": "Este assento é simples. Não há necessidade de extravagância."}, {"op": "replace", "path": "/hylotlDescription", "value": "Isso não é feito com muita delicadeza."}, {"op": "replace", "path": "/description", "value": "Um pequeno assento feito de folhas e raízes."}, {"op": "replace", "path": "/shortdescription", "value": "Swamp Chair"}, {"op": "replace", "path": "/floranDescription", "value": "Cadeira cheira a pântanosss. Floran gosta."}, {"op": "replace", "path": "/novakidDescription", "value": "É uma cadeira, eu acho."}, {"op": "replace", "path": "/glitchDescription", "value": "Desconfortável. Sentado aqui seria estranho."}, {"op": "replace", "path": "/apexDescription", "value": "Presumo que isso seja para se sentar. Não parece muito confortável."}]
+[
+  {
+    "op": "replace",
+    "value": "Um pequeno assento feito de folhas e raízes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cadeira cheira a pântanosss. Floran gosta.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Acho que isso é um assento.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Presumo que isso seja para se sentar. Não parece muito confortável.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma cadeira, eu acho.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Swamp Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso não é feito com muita delicadeza.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este assento é simples. Não há necessidade de extravagância.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desconfortável. Sentado aqui seria estranho.",
+    "path": "/glitchDescription"
+  }
+]

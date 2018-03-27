@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Estas caixas de capsulas são lançadas para mundos próximos, onde agem como uma corda de salvamento para exploradores do protetorado."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Essas caixas de capsulas são enviadas para mundos próximos, onde ficam dormentes."}, {"op": "replace", "path": "/humanDescription", "value": "Eu posso ver algumas caixas de capsulas neste rack. Elas geralmente estão cheias de suprimentos!"}, {"op": "replace", "path": "/avianDescription", "value": "Estas caixas de capsulas podem permanecer dormentes por décadas, mas os suprimentos geralmente mantêm-se."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os exploradores que vagueiam em mundos não explorados às vezes podem tropeçar nessas caixas de capsulas."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu espio algumas caixas de capsulas neste rack. Normalmente cheia de bons suprimentos!"}, {"op": "replace", "path": "/description", "value": "É um grande rack de capsulas de status e caixas de capsulas."}, {"op": "replace", "path": "/shortdescription", "value": "Pod Chest Storage Unit"}, {"op": "replace", "path": "/floranDescription", "value": "Caixasss de capsulass. Bom recurso para exploradores e aventureiros."}]
+[
+  {
+    "op": "replace",
+    "value": "Curioso. Essas caixas de capsulas são enviadas para mundos próximos, onde ficam dormentes.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os exploradores que vagueiam em mundos não explorados às vezes podem tropeçar nessas caixas de capsulas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso ver algumas caixas de capsulas neste rack. Elas geralmente estão cheias de suprimentos!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu espio algumas caixas de capsulas neste rack. Normalmente cheia de bons suprimentos!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um grande rack de capsulas de status e caixas de capsulas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pod Chest Storage Unit",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Caixasss de capsulass. Bom recurso para exploradores e aventureiros.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas caixas de capsulas podem permanecer dormentes por décadas, mas os suprimentos geralmente mantêm-se.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas caixas de capsulas são lançadas para mundos próximos, onde agem como uma corda de salvamento para exploradores do protetorado.",
+    "path": "/apexDescription"
+  }
+]

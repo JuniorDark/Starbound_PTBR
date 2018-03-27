@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/description", "value": "Spawne seu próprio aldeão Apex!"}, {"op": "replace", "path": "/shortdescription", "value": "Apex Spawner"}, {"op": "replace", "path": "/floranDescription", "value": "Homem macaco mágico fora do ar!"}, {"op": "replace", "path": "/glitchDescription", "value": "Filosófico. Esses seres gerados têm almas?"}, {"op": "replace", "path": "/apexDescription", "value": "Isso me permitirá chamar um dos meus."}, {"op": "replace", "path": "/humanDescription", "value": "Legal, uma máquina de macaco."}, {"op": "replace", "path": "/avianDescription", "value": "Um dispensador Apex. Incomum."}, {"op": "replace", "path": "/hylotlDescription", "value": "Por que eu gostaria de gerar um Apex?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um dispensador Apex. Incomum.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apex Spawner",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Legal, uma máquina de macaco.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Homem macaco mágico fora do ar!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Filosófico. Esses seres gerados têm almas?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Spawne seu próprio aldeão Apex!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Isso me permitirá chamar um dos meus.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Por que eu gostaria de gerar um Apex?",
+    "path": "/hylotlDescription"
+  }
+]

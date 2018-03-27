@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Não sei porque alguém guardaria essa coisa. As marcações sobre ela dizem algo sobre uma caçada."}, {"op": "replace", "path": "/glitchDescription", "value": "Perturbado. As marcas neste osso contam a história de uma caçada. Parece que um Floran foi morto."}, {"op": "replace", "path": "/hylotlDescription", "value": "As marcas sugerem que pelo menos um Floran foi morto durante a caça desta pobre criatura."}, {"op": "replace", "path": "/description", "value": "Há contos Floran bárbaros gravados no osso."}, {"op": "replace", "path": "/floranDescription", "value": "Quando Floran morre em caça, história de sua batalha final é esculpida em osso de presa."}, {"op": "replace", "path": "/apexDescription", "value": "Há contos de caçadas Floran gravadas no osso."}, {"op": "replace", "path": "/humanDescription", "value": "As marcações sugerem que uma caça épica aconteceu. Este osso veio da presa?"}, {"op": "replace", "path": "/avianDescription", "value": "As marcas neste osso sugerem uma história de caça heróica."}, {"op": "replace", "path": "/shortdescription", "value": "Bone Carving"}]
+[
+  {
+    "op": "replace",
+    "value": "Bone Carving",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perturbado. As marcas neste osso contam a história de uma caçada. Parece que um Floran foi morto.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não sei porque alguém guardaria essa coisa. As marcações sobre ela dizem algo sobre uma caçada.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "As marcas neste osso sugerem uma história de caça heróica.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "As marcações sugerem que uma caça épica aconteceu. Este osso veio da presa?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "As marcas sugerem que pelo menos um Floran foi morto durante a caça desta pobre criatura.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há contos Floran bárbaros gravados no osso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Há contos de caçadas Floran gravadas no osso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quando Floran morre em caça, história de sua batalha final é esculpida em osso de presa.",
+    "path": "/floranDescription"
+  }
+]

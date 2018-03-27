@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Superior Brain"}, {"op": "replace", "path": "/description", "value": "Este cérebro parece ser perfeito para experimentação."}]
+[
+  {
+    "op": "replace",
+    "value": "Superior Brain",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este cérebro parece ser perfeito para experimentação.",
+    "path": "/description"
+  }
+]

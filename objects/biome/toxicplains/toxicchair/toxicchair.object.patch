@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Cadeira lembra casa de Floran. Floran sssenta."}, {"op": "replace", "path": "/apexDescription", "value": "Esta cadeira tem uma sensação desconfortavelmente turva."}, {"op": "replace", "path": "/humanDescription", "value": "Os espinhos nesta cadeira parecem venenosos."}, {"op": "replace", "path": "/avianDescription", "value": "Sentar aqui faz minhas penas formigar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma manipulação maravilhosa da natureza. Também, bastante pontiaguda."}, {"op": "replace", "path": "/description", "value": "Uma cadeira feita de vinhas. Esses espinhos parecem venenosos."}, {"op": "replace", "path": "/shortdescription", "value": "Toxic Chair"}, {"op": "replace", "path": "/novakidDescription", "value": "Uma cadeira de aspecto espinhoso. Francamente, eu prefiro não me sentar nisso."}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. Os espinhos nesta cadeira são venenosos para pelo menos quarenta e três espécies diferentes."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira feita de vinhas. Esses espinhos parecem venenosos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira de aspecto espinhoso. Francamente, eu prefiro não me sentar nisso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma manipulação maravilhosa da natureza. Também, bastante pontiaguda.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cadeira lembra casa de Floran. Floran sssenta.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sentar aqui faz minhas penas formigar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os espinhos nesta cadeira parecem venenosos.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cadeira tem uma sensação desconfortavelmente turva.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Toxic Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Os espinhos nesta cadeira são venenosos para pelo menos quarenta e três espécies diferentes.",
+    "path": "/glitchDescription"
+  }
+]

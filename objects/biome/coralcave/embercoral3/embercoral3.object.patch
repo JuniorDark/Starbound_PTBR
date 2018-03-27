@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Me pergunto se este coral está quente para ser brilhante assim."}, {"op": "replace", "path": "/shortdescription", "value": "Ember Coral"}, {"op": "replace", "path": "/description", "value": "Um arbusto de coral crocante."}, {"op": "replace", "path": "/floranDescription", "value": "Crocante."}, {"op": "replace", "path": "/apexDescription", "value": "Coral com um brilho dourado."}, {"op": "replace", "path": "/avianDescription", "value": "Um pedaço de coral brilhante e encantador."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma das muitas belas espécies de corais."}, {"op": "replace", "path": "/glitchDescription", "value": "Ganancioso. Um arbusto de coral dourado."}, {"op": "replace", "path": "/novakidDescription", "value": "Um arbusto de coral com um brilho dourado."}]
+[
+  {
+    "op": "replace",
+    "value": "Ondulada.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pedaço de coral brilhante e encantador.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um arbusto de coral crocante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Coral com um brilho dourado.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ember Coral",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ganancioso. Um arbusto de coral dourado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me pergunto se este coral está quente para ser brilhante assim.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma das muitas belas espécies de corais.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um arbusto de coral com um brilho dourado.",
+    "path": "/novakidDescription"
+  }
+]

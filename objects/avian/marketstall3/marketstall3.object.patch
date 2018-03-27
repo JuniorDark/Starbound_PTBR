@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Poucos dos grounded são guerreiros. Este armamento é mal feito."}, {"op": "replace", "path": "/apexDescription", "value": "Essa armamento é grosseiro."}, {"op": "replace", "path": "/shortdescription", "value": "Market Weapon Stall"}, {"op": "replace", "path": "/description", "value": "Uma variedade de coisas pontudas."}, {"op": "replace", "path": "/floranDescription", "value": "Armas de homem-pássaro imperfeita. Estala como um galho."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Este armamento precisa ser afiado."}, {"op": "replace", "path": "/humanDescription", "value": "As armas nesta barraca parecem ser boas apenas para um uso."}, {"op": "replace", "path": "/novakidDescription", "value": "Estas armas são simplesmente ruins."}, {"op": "replace", "path": "/hylotlDescription", "value": "A julgar por esta barraca, estas pobres pessoas mal podem se defender."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma variedade de coisas pontudas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Armas de homem-pássaro imperfeita. Estala como um galho.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Poucos dos grounded são guerreiros. Este armamento é mal feito.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A julgar por esta barraca, estas pobres pessoas mal podem se defender.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Market Weapon Stall",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Este armamento precisa ser afiado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "As armas nesta barraca parecem ser boas apenas para um uso.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas armas são simplesmente ruins.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa armamento é grosseiro.",
+    "path": "/apexDescription"
+  }
+]

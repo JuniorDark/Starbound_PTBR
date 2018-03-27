@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Arte de caverna que descreve alguma figura grande."}, {"op": "replace", "path": "/shortdescription", "value": "Figure Cave Art"}, {"op": "replace", "path": "/floranDescription", "value": "Até mesmo Floran não sssabe o que isso sssignifica."}, {"op": "replace", "path": "/glitchDescription", "value": "Temeroso. Algo sobre esse desenho parece impossivelmente antigo."}, {"op": "replace", "path": "/humanDescription", "value": "Esta pintura parece como uma pessoa gigante, brilhando como o sol."}, {"op": "replace", "path": "/avianDescription", "value": "Quem é essa figura gigante? Eles brilham como o próprio sol."}, {"op": "replace", "path": "/hylotlDescription", "value": "Talvez o artista quisesse inspirar o espectador através deste desenho."}, {"op": "replace", "path": "/novakidDescription", "value": "O que diabos estão acontecendo aqui?"}, {"op": "replace", "path": "/apexDescription", "value": "Uma representação de algum tipo de ritual ou cerimônia?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma representação de algum tipo de ritual ou cerimônia?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Arte de caverna que descreve alguma figura grande.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Até mesmo Floran não sssabe o que isso sssignifica.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Temeroso. Algo sobre esse desenho parece impossivelmente antigo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Figure Cave Art",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez o artista quisesse inspirar o espectador através deste desenho.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta pintura parece como uma pessoa gigante, brilhando como o sol.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que diabos estão acontecendo aqui?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quem é essa figura gigante? Eles brilham como o próprio sol.",
+    "path": "/avianDescription"
+  }
+]

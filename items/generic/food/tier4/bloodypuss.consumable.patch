@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma bebida grossa tipo shake, feita de carne e pussplum."}, {"op": "replace", "path": "/shortdescription", "value": "Bloody Puss"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma bebida grossa tipo shake, feita de carne e pussplum.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bloody Puss",
+    "path": "/shortdescription"
+  }
+]

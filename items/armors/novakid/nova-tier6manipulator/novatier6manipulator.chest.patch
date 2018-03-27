@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "O colarinho alto esconde seu rosto enquanto você encena atos criminosos."}, {"op": "replace", "path": "/shortdescription", "value": "Clockwork Jacket"}]
+[
+  {
+    "op": "replace",
+    "value": "Clockwork Jacket",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O colarinho alto esconde seu rosto enquanto você encena atos criminosos.",
+    "path": "/description"
+  }
+]

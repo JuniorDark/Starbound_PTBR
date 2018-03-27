@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Brewmaster Hat"}, {"op": "replace", "path": "/description", "value": "Chapelaria que é ao mesmo tempo conveniente E engorda!"}]
+[
+  {
+    "op": "replace",
+    "value": "Brewmaster Hat",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Chapelaria que é ao mesmo tempo conveniente E engorda!",
+    "path": "/description"
+  }
+]

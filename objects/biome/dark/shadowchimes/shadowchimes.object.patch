@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Este estranho sino de vento produz um som etéreo."}, {"op": "replace", "path": "/humanDescription", "value": "Algo sobre esse sino de vento me dá arrepios."}, {"op": "replace", "path": "/shortdescription", "value": "Wind Chimes"}, {"op": "replace", "path": "/floranDescription", "value": "Vento ssopra sino sombrio para fazer sssons agradáveis."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Este sino agradável certamente cria uma atmosfera."}, {"op": "replace", "path": "/apexDescription", "value": "Esse sino de vento certamente cria uma atmosfera."}, {"op": "replace", "path": "/novakidDescription", "value": "Um belo sino de vento de som agradavel."}, {"op": "replace", "path": "/description", "value": "Muitos acham o toque gentil de sinos de vento como esses bastante calmantes."}, {"op": "replace", "path": "/avianDescription", "value": "Um sino de vento que soa bem."}]
+[
+  {
+    "op": "replace",
+    "value": "Um belo sino de vento de som agradavel.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um sino de vento que soa bem.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Muitos acham o toque gentil de sinos de vento como esses bastante calmantes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Este sino agradável certamente cria uma atmosfera.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algo sobre esse sino de vento me dá arrepios.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este estranho sino de vento produz um som etéreo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse sino de vento certamente cria uma atmosfera.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wind Chimes",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vento ssopra sino sombrio para fazer sssons agradáveis.",
+    "path": "/floranDescription"
+  }
+]

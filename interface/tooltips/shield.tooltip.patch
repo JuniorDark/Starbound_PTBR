@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/cooldownTitleLabel/value", "value": "Tempo de Recarga:"}, {"op": "replace", "path": "/healthTitleLabel/value", "value": "Vida do Escudo:"}]
+[
+  {
+    "op": "replace",
+    "value": "tree",
+    "path": "/priceLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Tempo de Recarga:",
+    "path": "/cooldownTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Vida do Escudo:",
+    "path": "/healthTitleLabel/value"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um favorito das crianças e brincalhões em toda parte."}, {"op": "replace", "path": "/shortdescription", "value": "Water Balloon"}]
+[
+  {
+    "op": "replace",
+    "value": "Um favorito das crianças e brincalhões em toda parte.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Water Balloon",
+    "path": "/shortdescription"
+  }
+]

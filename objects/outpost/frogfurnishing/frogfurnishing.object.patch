@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/apexDescription", "value": "É um daqueles comerciantes sapo. Este tráfica móveis."}, {"op": "replace", "path": "/shortdescription", "value": "Frögg Furnishing"}, {"op": "replace", "path": "/humanDescription", "value": "Este estranho anfíbio tem uns móveis bem legais."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta criatura tem uma coleção de móveis impressionante."}, {"op": "replace", "path": "/description", "value": "As melhores mobílias de todo o universo."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Frögg furnishing"}, {"op": "replace", "path": "/floranDescription", "value": "Floran um pouco assustado com sapo silencioso."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Este sapo tem algumas mercadorias de aparência confortável."}, {"op": "replace", "path": "/avianDescription", "value": "Quem é este curioso comerciante? Seus móveis são adoráveis."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "Mobiliá temática, um conjunto diferente em destaque todo dia!"}, {"op": "replace", "path": "/novakidDescription", "value": "Não vejo muitos comerciantes sapo por essas bandas!"}]
+[
+  {
+    "op": "replace",
+    "value": "Floran um pouco assustado com sapo silencioso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Frögg Furnishing",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Frögg furnishing",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Este sapo tem algumas mercadorias de aparência confortável.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um daqueles comerciantes sapo. Este tráfica móveis.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "As melhores mobílias de todo o universo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Mobiliá temática, um conjunto diferente em destaque todo dia!",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Esta criatura tem uma coleção de móveis impressionante.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este estranho anfíbio tem uns móveis bem legais.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quem é este curioso comerciante? Seus móveis são adoráveis.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não vejo muitos comerciantes sapo por essas bandas!",
+    "path": "/novakidDescription"
+  }
+]

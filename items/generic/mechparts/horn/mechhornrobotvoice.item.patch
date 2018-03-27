@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Dê a seu mecha um vozeirão para intimidar seus inimigos."
+    "value": "Dê a seu mecha um vozeirão para intimidar seus inimigos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Robot Voice Mech Horn",
+    "path": "/shortdescription"
   }
 ]

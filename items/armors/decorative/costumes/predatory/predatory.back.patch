@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Galhos pontudos, talvez para fazer você parecer como uma besta feroz?"}, {"op": "replace", "path": "/shortdescription", "value": "Predatory Back"}]
+[
+  {
+    "op": "replace",
+    "value": "Predatory Back",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Galhos pontudos, talvez para fazer você parecer como uma besta feroz?",
+    "path": "/description"
+  }
+]

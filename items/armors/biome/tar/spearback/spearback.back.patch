@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Back Spear"}, {"op": "replace", "path": "/description", "value": "Uma lança decorativa para usar em suas costas."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lança decorativa para usar em suas costas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Back Spear",
+    "path": "/shortdescription"
+  }
+]

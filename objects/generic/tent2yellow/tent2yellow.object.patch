@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Yellow Basic Tent"}, {"op": "replace", "path": "/floranDescription", "value": "Pequena casssa amarela."}, {"op": "replace", "path": "/glitchDescription", "value": "Irritado. Não há muito espaço."}, {"op": "replace", "path": "/apexDescription", "value": "Uma barraca simples. Boa o suficiente."}, {"op": "replace", "path": "/description", "value": "Uma barraca básica. Cuidado com os ursos espaciais!"}, {"op": "replace", "path": "/humanDescription", "value": "Eu gostava de acampar quando criança."}, {"op": "replace", "path": "/avianDescription", "value": "Uma casa temporária."}, {"op": "replace", "path": "/hylotlDescription", "value": "Não estou muito orgulhoso de dormir em uma barraca."}, {"op": "replace", "path": "/novakidDescription", "value": "Não é muito espaçoso, mas vai servir."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma barraca básica. Cuidado com os ursos espaciais!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma barraca simples. Boa o suficiente.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma casa temporária.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não estou muito orgulhoso de dormir em uma barraca.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu gostava de acampar quando criança.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não é muito espaçoso, mas vai servir.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pequena casssa verde.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Yellow Basic Tent",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Irritado. Não há muito espaço.",
+    "path": "/glitchDescription"
+  }
+]

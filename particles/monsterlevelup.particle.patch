@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/definition/text", "value": "^shadow;Subiu de nível"}]
+[
+  {
+    "op": "replace",
+    "value": "^shadow;Subiu de nível",
+    "path": "/definition/text"
+  }
+]

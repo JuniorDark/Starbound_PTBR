@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um aquário vazio. Que solitário."}, {"op": "replace", "path": "/shortdescription", "value": "Empty Wooden Aquarium"}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Um tanque vazio."}, {"op": "replace", "path": "/avianDescription", "value": "Este peixe voou do ninho."}, {"op": "replace", "path": "/hylotlDescription", "value": "Memórias de casa vem até mim."}, {"op": "replace", "path": "/humanDescription", "value": "Me pergunto o que aconteceu com o peixe..."}, {"op": "replace", "path": "/floranDescription", "value": "Alguém chegou aqui primeiro."}, {"op": "replace", "path": "/novakidDescription", "value": "É para observar os peixes. Mas não há nenhum peixe nele."}, {"op": "replace", "path": "/apexDescription", "value": "Um Apex só pode substituir o seu peixe uma vez a cada 3 anos."}]
+[
+  {
+    "op": "replace",
+    "value": "Um Apex só pode substituir o seu peixe uma vez a cada 3 anos.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um aquário vazio. Que solitário.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Empty Wooden Aquarium",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me pergunto o que aconteceu com o peixe...",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É para observar os peixes. Mas não há nenhum peixe nele.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Memórias de casa vem até mim.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Um tanque vazio.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém chegou aqui primeiro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este peixe voou do ninho.",
+    "path": "/avianDescription"
+  }
+]

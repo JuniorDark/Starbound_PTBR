@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Stone Rubble"}, {"op": "replace", "path": "/description", "value": "Escombros de pedra que parece ser detritos de uma antiga estrutura."}]
+[
+  {
+    "op": "replace",
+    "value": "Monteo de pedras esmagadas.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Parece que as peças neste entulho faziam parte de uma estrutura.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Escombross de pedra feitoss de construçõess antigoss.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Stone Rubble",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedra de escombros que parece ser detritos de uma antiga estrutura.",
+    "path": "/description"
+  }
+]

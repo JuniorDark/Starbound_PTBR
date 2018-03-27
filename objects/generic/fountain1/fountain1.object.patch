@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma fonte de pedra bonita. A água parece refrescante."}, {"op": "replace", "path": "/shortdescription", "value": "Tiered Stone Fountain"}, {"op": "replace", "path": "/floranDescription", "value": "Água é o trazente da vida para Floran."}, {"op": "replace", "path": "/glitchDescription", "value": "Relaxado. Os sons desta água é calmante."}, {"op": "replace", "path": "/apexDescription", "value": "Uma fonte bonita. O som da água é calmante."}, {"op": "replace", "path": "/humanDescription", "value": "Se eu tivesse um centavo, eu o jogaria nela."}, {"op": "replace", "path": "/avianDescription", "value": "Uma grande fonte. Me lembra um bebedouro."}, {"op": "replace", "path": "/hylotlDescription", "value": "Bela água clara. Às vezes eu sinto falta do oceano."}, {"op": "replace", "path": "/novakidDescription", "value": "Algum tipo de estátua jorrando água."}]
+[
+  {
+    "op": "replace",
+    "value": "Se eu tivesse um centavo eu iria jogá-lo dentro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fonte de pedra bonita. A água parece refrescante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma grande fonte. Me lembra um bebedouro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fonte bonita. O som da água é calmante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bela água clara. Às vezes eu sinto falta do oceano.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relaxado. Os sons desta água é calmante.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tiered Stone Fountain",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Água é o trazente da vida para Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de estátua jorrando água.",
+    "path": "/novakidDescription"
+  }
+]

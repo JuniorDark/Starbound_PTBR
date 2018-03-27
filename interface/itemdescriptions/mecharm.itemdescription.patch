@@ -1,12 +1,17 @@
 [
   {
     "op": "replace",
-    "path": "/powerStatLabel/value",
-    "value": "Força"
+    "value": "0",
+    "path": "/priceLabel/value"
   },
   {
     "op": "replace",
-    "path": "/energyDrainLabelLabel/value",
-    "value": "Uso de Energia"
+    "value": "Uso de Energia",
+    "path": "/energyDrainLabelLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Força",
+    "path": "/powerStatLabel/value"
   }
 ]

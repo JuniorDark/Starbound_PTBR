@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Throwing Bones"}, {"op": "replace", "path": "/description", "value": "Jogar ossos em seus inimigos é primitivo, mas eficaz."}]
+[
+  {
+    "op": "replace",
+    "value": "Throwing Bones",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Jogar ossos em seus inimigos é primitivo, mas eficaz.",
+    "path": "/description"
+  }
+]

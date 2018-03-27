@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um tesouro cintilante de tesouro valioso."}, {"op": "replace", "path": "/shortdescription", "value": "Treasure Hoard"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cintilante acumulação de tesouro valioso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de ouro brilhante!",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ouro! Eu mal consigo conter a minha excitação!",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Possessivo. Eu não posso tirar meus olhos deste tesouro.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Treasure Hoard",
+    "path": "/shortdescription"
+  }
+]

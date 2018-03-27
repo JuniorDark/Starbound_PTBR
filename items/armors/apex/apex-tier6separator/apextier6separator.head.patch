@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Frontliner's Helm"}, {"op": "replace", "path": "/description", "value": "Um capacete extremamente durável que é absolutamente aterrorizante para todos os que se atrevem a se opor a você."}]
+[
+  {
+    "op": "replace",
+    "value": "Um capacete extremamente durável que é absolutamente aterrorizante para todos os que se atrevem a se opor a você.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Frontliner's Helm",
+    "path": "/shortdescription"
+  }
+]

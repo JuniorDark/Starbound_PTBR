@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma poderosa espada de duas mãos."}, {"op": "replace", "path": "/shortdescription", "value": "NPC Macuahuitl"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma poderosa espada de duas mãos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "NPC Macuahuitl",
+    "path": "/shortdescription"
+  }
+]

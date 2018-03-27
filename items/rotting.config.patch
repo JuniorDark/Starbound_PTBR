@@ -1,1 +1,27 @@
-[{"op":"replace","path":"/rotTimeDescriptions/0/1","value":"^red;Quase muito podre para comer^reset;"},{"op":"replace","path":"/rotTimeDescriptions/1/1","value":"^orange;Começando a cheirar podre^reset;"},{"op":"replace","path":"/rotTimeDescriptions/2/1","value":"^yellow;Provavelmente vai estragar em breve^reset;"},{"op":"replace","path":"/rotTimeDescriptions/3/1","value":"^green;Deve ficar fresca por um tempo^reset;"},{"op":"replace","path":"/rotTimeDescriptions/4/1","value":"^green;Extremamente bem preservada^reset;"}]
+[
+  {
+    "op": "replace",
+    "value": "^green;Extremamente bem preservada^reset;",
+    "path": "/rotTimeDescriptions/4/1"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Deve ficar fresca por um tempo^reset;",
+    "path": "/rotTimeDescriptions/3/1"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Começando a cheirar podre^reset;",
+    "path": "/rotTimeDescriptions/1/1"
+  },
+  {
+    "op": "replace",
+    "value": "^red;Quase muito podre para comer^reset;",
+    "path": "/rotTimeDescriptions/0/1"
+  },
+  {
+    "op": "replace",
+    "value": "^yellow;Provavelmente vai estragar em breve^reset;",
+    "path": "/rotTimeDescriptions/2/1"
+  }
+]

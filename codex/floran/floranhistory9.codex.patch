@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "O diário de um Greenfinger que descreve a vida diária em uma tribo Floran."}, {"op": "replace", "path": "/title", "value": "O Diário de um Greenfinger"}, {"op": "replace", "path": "/contentPages/0", "value": "Continuando a trabalhar no novo teletransportador hoje. Na esperança de conseguir terminar no pôr do sol, se eu conseguir evitar interrupções.\n\nO velho Bell ainda está em pé de guerra sobre o mais recente onda de pintura de parede do Aurada, mas é difícil para mim corrigir Aurada para o que é entusiasmo essencialmente alegre.\n\nNinguém se importa com as pinturas... às vezes você apenas tem que aceitar que você não pode agradar a todos."}, {"op": "replace", "path": "/contentPages/1", "value": "De qualquer forma, pelo menos, o trabalho sobre o teletransporte está indo bem.\n\nDe qualquer forma, pelo menos, o trabalho sobre o teletransporte está indo bem.\n\n Há threadroots prontos, e eu estou recebendo um monte de feedback dos pelos radiculares.\n\nEu também enviei um monte de tentáculos de vinhas para dentro o revestimento do telhado ontem, e eu tenho esse elemento completamente descoberto agora..\n\nComo de costume, é complexo, mas claro."}, {"op": "replace", "path": "/contentPages/2", "value": "É um sentimento muito satisfatório - esse caminho desde a investigação inicial para a compreensão plena; guiando uma planta para inspecionar esses mecanismos aparentemente hostis; encontrar um terreno comum, cultivando a compreensão...\n\nGosto de ajudar o outro Floran e oferecendo-lhes orientação, estou orgulhoso de que esse é o meu objetivo, mas é este trabalho, este presente, que me faz sentir completo."}]
+[
+  {
+    "op": "replace",
+    "value": "O Diário de um Greenfinger",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "De qualquer forma, pelo menos, o trabalho sobre o teletransporte está indo bem.\n\nDe qualquer forma, pelo menos, o trabalho sobre o teletransporte está indo bem.\n\n Há threadroots prontos, e eu estou recebendo um monte de feedback dos pelos radiculares.\n\nEu também enviei um monte de tentáculos de vinhas para dentro o revestimento do telhado ontem, e eu tenho esse elemento completamente descoberto agora..\n\nComo de costume, é complexo, mas claro.",
+    "path": "/contentPages/1"
+  },
+  {
+    "op": "replace",
+    "value": "Continuando a trabalhar no novo teletransportador hoje. Na esperança de conseguir terminar no pôr do sol, se eu conseguir evitar interrupções.\n\nO velho Bell ainda está em pé de guerra sobre o mais recente onda de pintura de parede do Aurada, mas é difícil para mim corrigir Aurada para o que é entusiasmo essencialmente alegre.\n\nNinguém se importa com as pinturas... às vezes você apenas tem que aceitar que você não pode agradar a todos.",
+    "path": "/contentPages/0"
+  },
+  {
+    "op": "replace",
+    "value": "É um sentimento muito satisfatório - esse caminho desde a investigação inicial para a compreensão plena; guiando uma planta para inspecionar esses mecanismos aparentemente hostis; encontrar um terreno comum, cultivando a compreensão...\n\nGosto de ajudar o outro Floran e oferecendo-lhes orientação, estou orgulhoso de que esse é o meu objetivo, mas é este trabalho, este presente, que me faz sentir completo.",
+    "path": "/contentPages/2"
+  },
+  {
+    "op": "replace",
+    "value": "O diário de um Greenfinger que descreve a vida diária em uma tribo Floran.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma mistura de elementos naturais, proporciona propriedades curativas."}, {"op": "replace", "path": "/shortdescription", "value": "Grass Remedy"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma mistura de elementos naturais, proporciona propriedades curativas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Grass Remedy",
+    "path": "/shortdescription"
+  }
+]

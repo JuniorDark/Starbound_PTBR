@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Metal Coated Wood"}, {"op": "replace", "path": "/description", "value": "Um revestimento de metal sobre um material tipo madeira."}]
+[
+  {
+    "op": "replace",
+    "value": "Um revestimento de metal sobre um material tipo madeira.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Metal Coated Wood",
+    "path": "/shortdescription"
+  }
+]

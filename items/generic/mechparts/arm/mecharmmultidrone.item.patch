@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um braço de mecha avançado que pode lançar múltiplos drones de ataque."
+    "value": "Um braço de mecha avançado que pode lançar múltiplos drones de ataque.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Swarm Drone Mech Arm",
+    "path": "/shortdescription"
   }
 ]

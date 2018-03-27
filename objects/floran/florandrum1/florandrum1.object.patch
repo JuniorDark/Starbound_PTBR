@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um bongô feito de couro e madeira."}, {"op": "replace", "path": "/shortdescription", "value": "Medium Bongo"}, {"op": "replace", "path": "/glitchDescription", "value": "Não impressionado. Um instrumento básico. Parece produzir um único som."}, {"op": "replace", "path": "/avianDescription", "value": "Os Avian preferem o som de um gongo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Música Floran parece ser cru pelo aspecto este tambor."}, {"op": "replace", "path": "/novakidDescription", "value": "Um bongô. Bongôs são divertidos!"}, {"op": "replace", "path": "/floranDescription", "value": "Floran melhoress bateristass em todo o universso."}, {"op": "replace", "path": "/apexDescription", "value": "Um bongô. Os Apex gostam de percussão."}, {"op": "replace", "path": "/humanDescription", "value": "Um bongô!"}]
+[
+  {
+    "op": "replace",
+    "value": "Medium Bongo",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um bongô feito de couro e madeira.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um bongô!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um bongô. Bongôs são divertidos!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um bongô. Os Apex gostam de percussão.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran melhoress bateristass em todo o universso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Música Floran parece ser cru pelo aspecto este tambor.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Avian preferem o som de um gongo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não impressionado. Um instrumento básico. Parece produzir um único som.",
+    "path": "/glitchDescription"
+  }
+]

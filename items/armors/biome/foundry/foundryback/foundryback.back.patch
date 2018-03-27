@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Foundry Gear Pack"}, {"op": "replace", "path": "/description", "value": "Uma mochila espetada."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma mochila espetada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Foundry Gear Pack",
+    "path": "/shortdescription"
+  }
+]

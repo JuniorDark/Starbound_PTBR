@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Desinteressado. Uma luz grande e feia."}, {"op": "replace", "path": "/apexDescription", "value": "O que tem vindo a fornecer a energia desta luz por tantos anos?"}, {"op": "replace", "path": "/humanDescription", "value": "Esta luz provavelmente esta ligada por milênios."}, {"op": "replace", "path": "/avianDescription", "value": "Eu esperava que uma luz de parede deste tamanho iluminasse mais."}, {"op": "replace", "path": "/hylotlDescription", "value": "Não há nada extraordinário sobre esta luz."}, {"op": "replace", "path": "/description", "value": "Uma luz de parede."}, {"op": "replace", "path": "/shortdescription", "value": "Ancient Wall Light"}, {"op": "replace", "path": "/floranDescription", "value": "Grande luz feia e velha."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta luz emite um brilho quente."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz de parede.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ancient Wall Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desinteressado. Uma luz grande e desagradável.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu esperaria uma lâmpada de parede tão grande para dar mais luz.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grande luz velha feia.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não há nada de extraordinário sobre esta luz.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz emite um brilho quente.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz esta provavelmente ligada por milênios.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que vem fornecendo a energia dessa luz há tantos anos?",
+    "path": "/apexDescription"
+  }
+]

@@ -1,1 +1,107 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/18", "value": "Você está aqui para participar da Caçada? É melhor ir andando!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/7", "value": "Quais são as chancesss de que você é melhor que Nuru, esstranho?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/4", "value": "Caçadoresss! Você está atrasado!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Não tenho nada a dizer para você"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/3", "value": "Mais caçadoress, mais emoção!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/1", "value": "Um novo caçador para disputar com Nuru nas cavernasss!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/0", "value": "Qual o sentido? Nuru ganha cada ano!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/2", "value": "Talvez Nuru não ganhe este ano?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/5", "value": "Nuru deixa o resto dos caçadores com vergonha."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/10", "value": "Talvez alguém vai ganhar este ano?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/19", "value": "É melhor você se apressar se você quiser acompanhar A Caçada!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/11", "value": "Floran tem a certeza que Nuru vai ganhar mais uma vez!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/12", "value": "Eu estaria caçando também, mas Nuru está participa de novo..."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/13", "value": "Por que se incomodar caçando, esstranho? Nuru é imbatível!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/14", "value": "Você está na esperança de caçar nas cavernas?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/15", "value": "Um essstranho? Você está aqui para entrar nas cavernas e competir?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/6", "value": "Quem vai ganhar A Caçada este ano? Aposto que será Nuru!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/16", "value": "Você está aqui para participar da Caçada?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/8", "value": "Floran está tão cansado de ver Nuru vencer A Caçada todo ano!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/9", "value": "Você pode ser rápido, mas Nuru é mais rápida!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/17", "value": "Se você está aqui para A Caçada, forasteiro, então você está atrasado!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um novo caçador para disputar com Nuru nas cavernasss!",
+    "path": "/scriptConfig/dialog/converse/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um essstranho? Você está aqui para entrar nas cavernas e competir?",
+    "path": "/scriptConfig/dialog/converse/floran/default/15"
+  },
+  {
+    "op": "replace",
+    "value": "Você está aqui para participar da Caçada? É melhor ir andando!",
+    "path": "/scriptConfig/dialog/converse/floran/default/18"
+  },
+  {
+    "op": "replace",
+    "value": "Você está aqui para participar da Caçada?",
+    "path": "/scriptConfig/dialog/converse/floran/default/16"
+  },
+  {
+    "op": "replace",
+    "value": "Você está na esperança de caçar nas cavernas?",
+    "path": "/scriptConfig/dialog/converse/floran/default/14"
+  },
+  {
+    "op": "replace",
+    "value": "Floran tem a certeza que Nuru vai ganhar mais uma vez!",
+    "path": "/scriptConfig/dialog/converse/floran/default/11"
+  },
+  {
+    "op": "replace",
+    "value": "Floran está tão cansado de ver Nuru vencer A Caçada todo ano!",
+    "path": "/scriptConfig/dialog/converse/floran/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Caçadoresss! Você está atrasado!",
+    "path": "/scriptConfig/dialog/converse/floran/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Não tenho nada a dizer para você",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu estaria caçando também, mas Nuru está participa de novo...",
+    "path": "/scriptConfig/dialog/converse/floran/default/12"
+  },
+  {
+    "op": "replace",
+    "value": "Se você está aqui para A Caçada, forasteiro, então você está atrasado!",
+    "path": "/scriptConfig/dialog/converse/floran/default/17"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez Nuru não ganhe este ano?",
+    "path": "/scriptConfig/dialog/converse/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez alguém vai ganhar este ano?",
+    "path": "/scriptConfig/dialog/converse/floran/default/10"
+  },
+  {
+    "op": "replace",
+    "value": "Mais caçadoress, mais emoção!",
+    "path": "/scriptConfig/dialog/converse/floran/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Nuru deixa o resto dos caçadores com vergonha.",
+    "path": "/scriptConfig/dialog/converse/floran/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Quais são as chancesss de que você é melhor que Nuru, esstranho?",
+    "path": "/scriptConfig/dialog/converse/floran/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Qual o sentido? Nuru ganha cada ano!",
+    "path": "/scriptConfig/dialog/converse/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Quem vai ganhar A Caçada este ano? Aposto que será Nuru!",
+    "path": "/scriptConfig/dialog/converse/floran/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Por que se incomodar caçando, esstranho? Nuru é imbatível!",
+    "path": "/scriptConfig/dialog/converse/floran/default/13"
+  },
+  {
+    "op": "replace",
+    "value": "É melhor você se apressar se você quiser acompanhar A Caçada!",
+    "path": "/scriptConfig/dialog/converse/floran/default/19"
+  },
+  {
+    "op": "replace",
+    "value": "Você pode ser rápido, mas Nuru é mais rápida!",
+    "path": "/scriptConfig/dialog/converse/floran/default/9"
+  }
+]

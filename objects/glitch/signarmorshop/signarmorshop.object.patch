@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Armadura! Obtenha sua armadura aqui!"}, {"op": "replace", "path": "/shortdescription", "value": "Armour Shop Sign"}, {"op": "replace", "path": "/apexDescription", "value": "Uma placa de madeira. Parece que pertence a uma loja de armaduras."}, {"op": "replace", "path": "/humanDescription", "value": "Parece uma placa que fica do lado de fora de uma loja de armaduras."}, {"op": "replace", "path": "/avianDescription", "value": "Uma placa de madeira. Ele retrata um escudo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta placa sugere uma loja de armaduras."}, {"op": "replace", "path": "/floranDescription", "value": "Loja de escudos esta perto?"}, {"op": "replace", "path": "/glitchDescription", "value": "Alegre. Uma placa que marca uma loja de armaduras."}, {"op": "replace", "path": "/novakidDescription", "value": "A placa para uma loja de armaduras."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma placa de madeira. Ele retrata um escudo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa de madeira. Parece que pertence a uma loja de armaduras.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Armour Shop Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Armadura! Obtenha sua armadura aqui!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Alegre. Uma placa que marca uma loja de armaduras.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece uma placa que fica do lado de fora de uma loja de armaduras.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Loja de escudos esta perto?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A placa para uma loja de armaduras.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta placa sugere uma loja de armaduras.",
+    "path": "/hylotlDescription"
+  }
+]

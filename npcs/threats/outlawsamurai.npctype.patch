@@ -1,1 +1,32 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/attack/hylotl/default/0", "value": "Você quer lutar até a morte? Que assim seja!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/hylotl/default/3", "value": "Venha, teste suas habilidades!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/hylotl/default/1", "value": "Você não sabe o que terá de enfrentar!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/0", "value": "Ataque!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/hylotl/default/4", "value": "Se devemos lutar, então você deve morrer!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/hylotl/default/2", "value": "Você veio para me parar? Que assim seja!"}]
+[
+  {
+    "op": "replace",
+    "value": "Atacar!",
+    "path": "/scriptConfig/dialog/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Venha, teste suas habilidades!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Se devemos lutar, então você deve morrer!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Você não sabe o que terá de enfrentar!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você quer lutar até a morte? Que assim seja!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você veio para me parar? Que assim seja!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/2"
+  }
+]

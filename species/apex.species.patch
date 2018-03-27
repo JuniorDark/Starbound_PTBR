@@ -1,1 +1,67 @@
-[{"op": "replace", "path": "/charGenTextLabels/2", "value": "Camisa"}, {"op": "replace", "path": "/charGenTextLabels/3", "value": "Calça"}, {"op": "replace", "path": "/charGenTextLabels/5", "value": "Estilo da barba"}, {"op": "replace", "path": "/charGenTextLabels/6", "value": "Cor da camisa"}, {"op": "replace", "path": "/charCreationTooltip/description", "value": "Uma raça de primatas altamente inteligentes. Por milênios, os Apex tinham uma aparência semelhante a humana até que uma descoberta científica permitiu que trocassem devolução física por evolução intelectual."}, {"op": "replace", "path": "/charGenTextLabels/0", "value": "Cor do pelo"}, {"op": "replace", "path": "/charGenTextLabels/1", "value": "Estilo de cabelo"}, {"op": "replace", "path": "/charGenTextLabels/4", "value": "Cor da pele"}, {"op": "replace", "path": "/charGenTextLabels/7", "value": "Cor da calça"}, {"op": "replace", "path": "/charGenTextLabels/8", "value": "APEX"}, {"op": "replace", "path": "/charGenTextLabels/9", "value": "Personalidade"}, {"op": "replace", "path": "/charCreationTooltip/title", "value": "Apex"}]
+[
+  {
+    "op": "replace",
+    "value": "Calça",
+    "path": "/charGenTextLabels/3"
+  },
+  {
+    "op": "replace",
+    "value": "Uma raça de primatas altamente inteligentes. Por milênios, os Apex tinham uma aparência semelhante a humana até que uma descoberta científica permitiu que trocassem devolução física por evolução intelectual.",
+    "path": "/charCreationTooltip/description"
+  },
+  {
+    "op": "replace",
+    "value": "APEX",
+    "path": "/charGenTextLabels/8"
+  },
+  {
+    "op": "replace",
+    "value": "Apex",
+    "path": "/charCreationTooltip/title"
+  },
+  {
+    "op": "replace",
+    "value": "Estilo da barba",
+    "path": "/charGenTextLabels/5"
+  },
+  {
+    "op": "replace",
+    "value": "Cor do pelo",
+    "path": "/charGenTextLabels/0"
+  },
+  {
+    "op": "replace",
+    "value": "U",
+    "path": "/charCreationTooltip/subTitle"
+  },
+  {
+    "op": "replace",
+    "value": "Estilo do cabelo",
+    "path": "/charGenTextLabels/1"
+  },
+  {
+    "op": "replace",
+    "value": "Cor da calça",
+    "path": "/charGenTextLabels/7"
+  },
+  {
+    "op": "replace",
+    "value": "Personalidade",
+    "path": "/charGenTextLabels/9"
+  },
+  {
+    "op": "replace",
+    "value": "Camisa",
+    "path": "/charGenTextLabels/2"
+  },
+  {
+    "op": "replace",
+    "value": "Cor da camisa",
+    "path": "/charGenTextLabels/6"
+  },
+  {
+    "op": "replace",
+    "value": "Cor da pele",
+    "path": "/charGenTextLabels/4"
+  }
+]

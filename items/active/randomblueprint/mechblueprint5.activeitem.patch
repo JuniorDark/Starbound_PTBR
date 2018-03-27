@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um projeto para uma peça de alta tecnologia de mecha."
+    "value": "Um projeto para uma peça de mecha de alta tecnologia.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "High-Tech Mech Blueprint",
+    "path": "/shortdescription"
   }
 ]

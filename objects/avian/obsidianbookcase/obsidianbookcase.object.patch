@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma estante de obsidiana ornamentada."}, {"op": "replace", "path": "/shortdescription", "value": "Large Obsidian Bookcase"}, {"op": "replace", "path": "/floranDescription", "value": "Estante forte. Floran não vê ponto.vvvvvvv"}, {"op": "replace", "path": "/hylotlDescription", "value": "Todos os livros merecem proteção."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta é uma estante robusta. Estou impressionado."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. os Avians parecem valorizar muito os seus livros."}, {"op": "replace", "path": "/apexDescription", "value": "A estante parece construída para proteger seu conteúdo."}, {"op": "replace", "path": "/humanDescription", "value": "Esta estante é construída como um tanque."}, {"op": "replace", "path": "/avianDescription", "value": "Os Avians não coletam muitos livros. Os livros que eles têm são sagrados."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estante de obsidiana ornamentada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Todos os livros merecem proteção.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Large Obsidian Bookcase",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. os Avians parecem valorizar muito os seus livros.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estante forte. Floran não vê ponto.vvvvvvv",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Avians não coletam muitos livros. Os livros que eles têm são sagrados.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A estante parece construída para proteger seu conteúdo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta estante é construída como um tanque.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é uma estante robusta. Estou impressionado.",
+    "path": "/novakidDescription"
+  }
+]

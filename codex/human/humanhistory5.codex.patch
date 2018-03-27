@@ -1,17 +1,17 @@
 [
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "S.O.S. - SALVE NOSSA ESPÉCIE  // \nA TERRA ESTÁ SENDO ATACADA POR UM ORGANISMO NÃO IDENTIFICADO. A DESTRUIÇÃO É IMINENTE  // \nA EVACUAÇÃO É IMPOSSÍVEL SEM NENHUM ASSENTAMENTO PRINCIPAL FORA DO PLANETA  // \nSE VOCÊ É UM HUMANO RECEBENDO ESTA TRANSMISSÃO, NÓS SOMOS AGORA UMA ESPÉCIE EM EXTINÇÃO  // \nO FUTURO DO PROTETORADO TERRENO ESTÁ NAS SUAS MÃOS  //"
+    "value": "Transmissão de Emergência da Terra",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "Transmissão de Emergência da Terra"
+    "value": "S.O.S. - SALVE NOSSA ESPÉCIE  // \nA TERRA ESTÁ SENDO ATACADA POR UM ORGANISMO NÃO IDENTIFICADO. A DESTRUIÇÃO É IMINENTE  // \nA EVACUAÇÃO É IMPOSSÍVEL SEM NENHUM ASSENTAMENTO PRINCIPAL FORA DO PLANETA  // \nSE VOCÊ É UM HUMANO RECEBENDO ESTA TRANSMISSÃO, NÓS SOMOS AGORA UMA ESPÉCIE EM EXTINÇÃO  // \nO FUTURO DO PROTETORADO TERRENO ESTÁ NAS SUAS MÃOS  //",
+    "path": "/contentPages/0"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "A última mensagem desesperada enviada da Terra qunado o desastre aconteceu."
+    "value": "A última mensagem desesperada enviada da Terra qunado o desastre aconteceu.",
+    "path": "/description"
   }
 ]

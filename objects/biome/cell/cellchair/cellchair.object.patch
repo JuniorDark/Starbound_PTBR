@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Parece um pouco desconfortável..."}, {"op": "replace", "path": "/description", "value": "Uma cadeira brilhante e moderna."}, {"op": "replace", "path": "/shortdescription", "value": "Cell Chair"}, {"op": "replace", "path": "/floranDescription", "value": "Floran prefere algo mais sssimples."}, {"op": "replace", "path": "/glitchDescription", "value": "Não impressionado. Brilhante, básica e feita de células."}, {"op": "replace", "path": "/apexDescription", "value": "Uma cadeira construída a partir de grandes células... Muito chocante."}, {"op": "replace", "path": "/humanDescription", "value": "Uma cadeira feita de bobagens científicas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Que ostentosa, essa cadeira não tem elegância."}, {"op": "replace", "path": "/novakidDescription", "value": "Se eu tivesse uma escolha entre sentar-se sobre isso, ou sentar no chão, eu escolheria o chão."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira brilhante e moderna.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira construída a partir de grandes células... Muito chocante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira feita de bobagens científicas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cell Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran prefere algo mais sssimples.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que ostentosa, essa cadeira não tem elegância.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se eu tivesse uma escolha entre sentar-se sobre isso, ou sentar no chão, eu escolheria o chão.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece um pouco desconfortável...",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não impressionado. Brilhante, básica e feita de células.",
+    "path": "/glitchDescription"
+  }
+]

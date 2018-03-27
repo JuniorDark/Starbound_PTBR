@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma lâmina forjada a partir de durasteel sólida. Alguns metais são mais fortes."}, {"op": "replace", "path": "/shortdescription", "value": "Durasteel Broadsword"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lâmina forjada a partir de durasteel sólida. Alguns metais são mais fortes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Durasteel Broadsword",
+    "path": "/shortdescription"
+  }
+]

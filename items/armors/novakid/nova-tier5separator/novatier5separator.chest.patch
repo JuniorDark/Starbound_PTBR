@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Varmint's Plate"}, {"op": "replace", "path": "/description", "value": "Um peitoral meio que faz você querer amarrar uma donzela a uma ferrovia."}]
+[
+  {
+    "op": "replace",
+    "value": "Um peitoral meio que faz você querer amarrar uma donzela a uma ferrovia.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Varmint's Plate",
+    "path": "/shortdescription"
+  }
+]

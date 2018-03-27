@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Cardboard Hobo Hat"}, {"op": "replace", "path": "/description", "value": "+1% de resistência à chuva quando seco."}]
+[
+  {
+    "op": "replace",
+    "value": "+1% de resistência à chuva quando seco.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cardboard Hobo Hat",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma tela circulando através de informações sobre fortalezas da Miniknog."}, {"op": "replace", "path": "/floranDescription", "value": "Vidro mostra palavrass e imagensss."}, {"op": "replace", "path": "/glitchDescription", "value": "Fascinado. Esta tela esta circulando através de informações sobre os locais militares Apex."}, {"op": "replace", "path": "/apexDescription", "value": "Esta tela parece mostrar informações sobre várias fortalezas da Miniknog."}, {"op": "replace", "path": "/avianDescription", "value": "Esta tela mostra algumas informações sobre as fortalezas políticas Apex. Esse é o rosto de Big Ape?"}, {"op": "replace", "path": "/humanDescription", "value": "Esta tela parece circular através de muita inteligência da Miniknog - também tem uma foto do grande rosto do Big Ape!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta tela encapsula palavras azuis e frias descrevendo informações valiosas sobre a Miniknog."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta tela parece ter um monte de inteligência militar e um planeta."}, {"op": "replace", "path": "/shortdescription", "value": "Miniknog Intel Display"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma tela circulando através de informações sobre fortalezas da Miniknog.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Fascinado. Esta tela esta circulando através de informações sobre os locais militares Apex.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vidro mostra palavrass e imagensss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Miniknog Intel Display",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta tela parece mostrar informações sobre várias fortalezas da Miniknog.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta tela parece ter um monte de inteligência militar e um planeta.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta tela parece circular através de muita inteligência da Miniknog - também tem uma foto do grande rosto do Big Ape!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta tela encapsula palavras azuis e frias descrevendo informações valiosas sobre a Miniknog.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta tela mostra algumas informações sobre as fortalezas políticas Apex. Esse é o rosto de Big Ape?",
+    "path": "/avianDescription"
+  }
+]

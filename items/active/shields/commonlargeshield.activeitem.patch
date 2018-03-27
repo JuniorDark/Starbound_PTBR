@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Há algo especial entre nós."}, {"op": "replace", "path": "/shortdescription", "value": "Large Shield"}]
+[
+  {
+    "op": "replace",
+    "value": "Large Shield",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há algo especial entre nós.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Um armário de livros. Você pode emprestar livros gratuitamente."}, {"op": "replace", "path": "/floranDescription", "value": "Livros com palavras e palavras e palavrasss."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Estes livros são comunais."}, {"op": "replace", "path": "/apexDescription", "value": "Algumas leituras leves."}, {"op": "replace", "path": "/avianDescription", "value": "Podemos emprestar livros daqui."}, {"op": "replace", "path": "/hylotlDescription", "value": "Tantos livros, tão pouco tempo!"}, {"op": "replace", "path": "/novakidDescription", "value": "Um armário de livros."}, {"op": "replace", "path": "/description", "value": "Tantos livros, tão pouco tempo!"}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Book Cabinet"}]
+[
+  {
+    "op": "replace",
+    "value": "Um armário de livros.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário de livros. Você pode emprestar livros gratuitamente.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Estes livros são comunais.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Book Cabinet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tantos livros, tão pouco tempo!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Tantos livros, tão pouco tempo!",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Podemos emprestar livros daqui.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Livros com palavras e palavras e palavrasss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas leituras leves.",
+    "path": "/apexDescription"
+  }
+]

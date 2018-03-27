@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma flor ardente em um pote."}, {"op": "replace", "path": "/shortdescription", "value": "Fiery Flower"}, {"op": "replace", "path": "/floranDescription", "value": "Flor feia se parece com chamasss."}, {"op": "replace", "path": "/glitchDescription", "value": "Espantado. A cor e a forma desta flor assemelham-se a fogo."}, {"op": "replace", "path": "/apexDescription", "value": "As pétalas desta flor parecem línguas de fogo."}, {"op": "replace", "path": "/humanDescription", "value": "Uma flor macia bonita, que poder ela possui?"}, {"op": "replace", "path": "/avianDescription", "value": "O movimento desta flor na brisa parece fogo."}, {"op": "replace", "path": "/hylotlDescription", "value": "As flores na superfície são tão vibrantes."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma flor chique que está crescendo em um pote."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma flor macia bonita, que poder ela possui?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma flor chique que está crescendo em um pote.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma flor ardente em um pote.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Espantado. A cor e a forma desta flor assemelham-se a fogo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fiery Flower",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "As flores na superfície são tão vibrantes.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O movimento desta flor na brisa parece fogo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "As pétalas desta flor parecem línguas de fogo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Flor feia se parece com chamasss.",
+    "path": "/floranDescription"
+  }
+]

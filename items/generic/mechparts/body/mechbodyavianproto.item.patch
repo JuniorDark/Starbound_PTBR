@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um protótipo de corpo de mecha aberto, projetado para pilotos Avian."
+    "value": "Um protótipo de corpo de mecha aberto, projetado para pilotos Avian.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Champion-00 Mech Body",
+    "path": "/shortdescription"
   }
 ]

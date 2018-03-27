@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma cama que é projetada para realizar exames médicos."
+    "value": "Uma cama que é projetada para realizar exames médicos.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Esta cama médica parece um lugar que eu poderia descansar um minuto."
+    "value": "Curioso. Eu me pergunto se esta cama médica pode explicar a anatomia Glitch.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Deitar nesta cama cercada por esses scanners me deixaria desconfortável."
+    "value": "Luzesss chiques ao redor desta cama de metal.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Luzesss chiques ao redor desta cama de metal."
+    "value": "Deitar nesta cama cercada por esses scanners me deixaria desconfortável.",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Curioso. Eu me pergunto se esta cama médica pode explicar a anatomia Glitch."
+    "value": "Parece um tipo de cama de scanner médico, mas acho que ainda é um lugar para se deitar.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Parece um tipo de cama de scanner médico, mas acho que ainda é um lugar para se deitar."
+    "value": "Uma cama chique cercada por luzes brilhantes.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Esta cama médica provavelmente foi projetada para ajudar médicos ou pesquisadores."
+    "value": "Station Medical Scanner",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Uma cama chique cercada por luzes brilhantes."
+    "value": "Esta cama médica parece um lugar que eu poderia descansar um minuto.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama médica provavelmente foi projetada para ajudar médicos ou pesquisadores.",
+    "path": "/hylotlDescription"
   }
 ]

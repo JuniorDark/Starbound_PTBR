@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Prateleiras preenchidas com livros sobre tópicos Hylotl. Posso pensar em várias coisas que eu prefiro fazer do que ler isso."}, {"op": "replace", "path": "/floranDescription", "value": "Homem-peixe gosta de ler. Homem-peixe estúpido e chato."}, {"op": "replace", "path": "/description", "value": "A obra-prima do artesanato. Bonita."}, {"op": "replace", "path": "/apexDescription", "value": "Uma série de livros Hylotl. Eu vou lê-los mais tarde."}, {"op": "replace", "path": "/humanDescription", "value": "Adormeci só de ler os títulos."}, {"op": "replace", "path": "/shortdescription", "value": "Traditional Bookcase"}, {"op": "replace", "path": "/glitchDescription", "value": "Crítico. Todo livro é sobre o quão maravilhoso os Hylotl são. Que tedioso."}, {"op": "replace", "path": "/avianDescription", "value": "Há muitos livros sobre a história dos Hylotl aqui."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma estante rica em história Hylotl. Outras espécies reunem-se às nossas grandes bibliotecas."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estante rica em história Hylotl. Outras espécies reunem-se às nossas grandes bibliotecas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A obra-prima do artesanato. Bonita.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma série de livros Hylotl. Eu vou lê-los mais tarde.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Crítico. Todo livro é sobre o quão maravilhoso os Hylotl são. Que tedioso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Homem-peixe gosta de ler. Homem-peixe estúpido e chato.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Prateleiras preenchidas com livros sobre tópicos Hylotl. Posso pensar em várias coisas que eu prefiro fazer do que ler isso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há muitos livros sobre a história dos Hylotl aqui.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Traditional Bookcase",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Adormeci só de ler os títulos.",
+    "path": "/humanDescription"
+  }
+]

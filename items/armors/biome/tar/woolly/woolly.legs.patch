@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Prehistoric Woolly Pants"}, {"op": "replace", "path": "/description", "value": "Estas manterão uma quantidade muito pequena do usuário quente."}]
+[
+  {
+    "op": "replace",
+    "value": "Prehistoric Woolly Pants",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas manterão uma quantidade muito pequena do usuário quente.",
+    "path": "/description"
+  }
+]

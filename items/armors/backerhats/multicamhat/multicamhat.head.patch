@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Multicam Operator Cap"}, {"op": "replace", "path": "/description", "value": "Este chapéu é decorado com camuflagem."}]
+[
+  {
+    "op": "replace",
+    "value": "Multicam Operator Cap",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este chapéu é decorado com camuflagem.",
+    "path": "/description"
+  }
+]

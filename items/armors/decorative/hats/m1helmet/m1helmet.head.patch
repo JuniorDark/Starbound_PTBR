@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "M1 Helmet"}, {"op": "replace", "path": "/description", "value": "Um capacete militar de edição padrão."}]
+[
+  {
+    "op": "replace",
+    "value": "Um capacete militar de edição padrão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "M1 Helmet",
+    "path": "/shortdescription"
+  }
+]

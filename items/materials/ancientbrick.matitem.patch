@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Ancient Brick"}, {"op": "replace", "path": "/description", "value": "Este tijolo esculpido é imensamente velho."}]
+[
+  {
+    "op": "replace",
+    "value": "Ancient Brick",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijoloss esculpidos antigos.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Estes tijolos antigos resistiram à devastação do tempo.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este tijolo esculpido é incomensuravelmente velho.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns tijolos de aparência velha.",
+    "path": "/novakiddescription"
+  }
+]

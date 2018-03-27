@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A etiqueta diz, \"Um poderoso guardião alado construído à imagem do deus Avian Kluex.\""}, {"op": "replace", "path": "/shortdescription", "value": "Kluex Avatar Figurine"}]
+[
+  {
+    "op": "replace",
+    "value": "Kluex Avatar Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"Um poderoso guardião alado construído à imagem do deus Avian Kluex.\"",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Auto Drive"}, {"op": "replace", "path": "/description", "value": "Uma auto drive. No futuro eu posso usar isso para fortalecer veículos."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma auto drive. No futuro eu posso usar isso para fortalecer veículos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Auto Drive",
+    "path": "/shortdescription"
+  }
+]

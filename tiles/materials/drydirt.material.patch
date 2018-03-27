@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Terra, secada contínua ao sol."}, {"op": "replace", "path": "/shortdescription", "value": "Dry Dirt"}, {"op": "replace", "path": "/floranDescription", "value": "Terra que está seca."}, {"op": "replace", "path": "/novakidDescription", "value": "Apenas um pouco de terra seca e empoeirada."}, {"op": "replace", "path": "/glitchDescription", "value": "Perceptivo. Esta terra esta muito seca."}]
+[
+  {
+    "op": "replace",
+    "value": "Terra que está seca.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Terra, secada contínua ao sol.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Dry Dirt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas um pouco de terra seca e empoeirada.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perceptivo. Esta terra esta muito seca.",
+    "path": "/glitchDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um órgão de pedra. Um verdadeiro preenchedor de estádios."}, {"op": "replace", "path": "/shortdescription", "value": "Rock Organ"}]
+[
+  {
+    "op": "replace",
+    "value": "Um órgão de pedra. Um verdadeiro preenchedor de estádios.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Rock Organ",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Tijolos esculpidos de rocha sombria."}, {"op": "replace", "path": "/shortdescription", "value": "Shadow Bricks"}, {"op": "replace", "path": "/floranDescription", "value": "Tijoloss pretoss resistentess."}, {"op": "replace", "path": "/glitchDescription", "value": "Perceptivo. Estes tijolos são feitos de um material muito durável."}, {"op": "replace", "path": "/novakidDescription", "value": "Alguns tijolos feitos de rocha escura."}]
+[
+  {
+    "op": "replace",
+    "value": "Tijolos esculpidos de rocha sombria.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Perceptivo. Estes tijolos são feitos de um material muito durável.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Shadow Bricks",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns tijolos feitos de rocha escura.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijoloss pretoss resistentess.",
+    "path": "/floranDescription"
+  }
+]

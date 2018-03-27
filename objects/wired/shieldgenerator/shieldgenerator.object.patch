@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Eu posso virar este interruptor aqui para ativar o gerador de escudos."}, {"op": "replace", "path": "/humanDescription", "value": "Se eu virar este interruptor, ele ativará e desativará o gerador de escudos."}, {"op": "replace", "path": "/avianDescription", "value": "Este interruptor gera o escudo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um interruptor básico. Pode ser usado para ativar o gerador do escudos."}, {"op": "replace", "path": "/glitchDescription", "value": "Surpreso. Este pequeno interruptor não parece tão poderoso."}, {"op": "replace", "path": "/description", "value": "Com certeza não parece que isso pode gerar um escudo."}, {"op": "replace", "path": "/shortdescription", "value": "Shield Generator"}, {"op": "replace", "path": "/floranDescription", "value": "Interruptor!"}, {"op": "replace", "path": "/apexDescription", "value": "Um interruptor. Ele ativa o gerador de escudos."}]
+[
+  {
+    "op": "replace",
+    "value": "Shield Generator",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interruptor!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Este pequeno interruptor não parece tão poderoso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um interruptor básico. Pode ser usado para ativar o gerador do escudos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um interruptor. Ele ativa o gerador de escudos.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso virar este interruptor aqui para ativar o gerador de escudos.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se eu virar este interruptor, ele ativará e desativará o gerador de escudos.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Com certeza não parece que isso pode gerar um escudo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Este interruptor gera o escudo.",
+    "path": "/avianDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Sempre no limite. Ele anda de lado e entra em erupção ao menor confronto."}, {"op": "replace", "path": "/shortdescription", "value": "Crabcano"}]
+[
+  {
+    "op": "replace",
+    "value": "Crabcano",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sempre no limite. Ele anda de lado e entra em erupção ao menor confronto.",
+    "path": "/description"
+  }
+]

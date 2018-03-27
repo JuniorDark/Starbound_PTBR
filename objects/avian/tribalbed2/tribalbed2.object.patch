@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma cama Avian lindamente esculpida."}, {"op": "replace", "path": "/humanDescription", "value": "Esta cama parece maravilhosamente confortável."}, {"op": "replace", "path": "/shortdescription", "value": "Avian Bed"}, {"op": "replace", "path": "/floranDescription", "value": "Cama macia. Floran poderia descansssar aqui."}, {"op": "replace", "path": "/glitchDescription", "value": "Sentimental. Isso não é diferente da cama em que eu costumava descansar."}, {"op": "replace", "path": "/apexDescription", "value": "Um conjunto colorido de lençóis quentes em uma cama confortável."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um conjunto fino de lençóis quentes."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma cama muito bonita, devo dizer."}, {"op": "replace", "path": "/avianDescription", "value": "Mesmo com os olhos fechados os grounded desfrutam de cores brilhantes em torno deles."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cama Avian lindamente esculpida.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um conjunto colorido de lençóis quentes em uma cama confortável.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um conjunto fino de lençóis quentes.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama muito bonita, devo dizer.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avian Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mesmo com os olhos fechados os grounded desfrutam de cores brilhantes em torno deles.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sentimental. Isso não é diferente da cama em que eu costumava descansar.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cama macia. Floran poderia descansssar aqui.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama parece maravilhosamente confortável.",
+    "path": "/humanDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "A qualidade de reflexão deste espelho é terrível."}, {"op": "replace", "path": "/avianDescription", "value": "O reflexo neste espelho é turvo, isso guarda mistérios?"}, {"op": "replace", "path": "/humanDescription", "value": "O reflexo neste espelho é turvo, como olhar através da água. Ou sopa."}, {"op": "replace", "path": "/hylotlDescription", "value": "Enquanto eu aprecio a qualidade decorativa, o espelho ficou embaçado."}, {"op": "replace", "path": "/novakidDescription", "value": "O reflexo neste espelho é tão turvo como um dia quente no deserto."}, {"op": "replace", "path": "/description", "value": "Um espelho de parede colocado em uma moldura de coral."}, {"op": "replace", "path": "/shortdescription", "value": "Coral Mirror"}, {"op": "replace", "path": "/floranDescription", "value": "Olhar no espelho é como estar debaixo d'água."}, {"op": "replace", "path": "/glitchDescription", "value": "Insatisfeito. A qualidade do reflexo deste espelho é turvo como olhar através da água."}]
+[
+  {
+    "op": "replace",
+    "value": "Um espelho de parede colocado em uma moldura de coral.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Coral Mirror",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Olhar no espelho é como estar debaixo d'água.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O reflexo neste espelho é tão turvo como um dia quente no deserto.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O reflexo neste espelho é turvo, isso guarda mistérios?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O reflexo neste espelho é turvo, como olhar através da água. Ou sopa.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A qualidade de reflexão deste espelho é terrível.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Insatisfeito. A qualidade do reflexo deste espelho é turvo como olhar através da água.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Enquanto eu aprecio a qualidade decorativa, o espelho ficou embaçado.",
+    "path": "/hylotlDescription"
+  }
+]

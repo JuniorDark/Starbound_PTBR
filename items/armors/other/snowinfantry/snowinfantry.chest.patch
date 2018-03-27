@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Snow Infantry Chest"}, {"op": "replace", "path": "/description", "value": "Útil para quando um planeta está te desprezando."}]
+[
+  {
+    "op": "replace",
+    "value": "Snow Infantry Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Útil para quando um planeta está te desprezando.",
+    "path": "/description"
+  }
+]

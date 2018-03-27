@@ -1,1 +1,32 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/0", "value": "Esta roupa é para me proteger da contaminação local. Você provavelmente não deveria me tocar."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/1", "value": "Eu vi o tipo de doenças que a MiniKnog pesquisa. Coisas nojentas."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/2", "value": "O universo é cheio de bactérias mortais! Estou mais seguro nessa roupa."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/0", "value": "Eu estou fazendo uma pesquisa em bactérias alienígenas. Eu costumava estar posicionado em outro lugar."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/2", "value": "As bactérias estão em toda parte! Estou preocupado com a infecção."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/1", "value": "La na Terra, nós curamos a maioria das doenças. Espero que os dados não foram perdidos..."}]
+[
+  {
+    "op": "replace",
+    "value": "La na Terra, nós curamos a maioria das doenças. Espero que os dados não foram perdidos...",
+    "path": "/scriptConfig/dialog/converse/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "As bactérias estão em toda parte! Estou preocupado com a infecção.",
+    "path": "/scriptConfig/dialog/converse/human/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu estou fazendo uma pesquisa em bactérias alienígenas. Eu costumava estar posicionado em outro lugar.",
+    "path": "/scriptConfig/dialog/converse/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vi o tipo de doenças que a MiniKnog pesquisa. Coisas nojentas.",
+    "path": "/scriptConfig/dialog/converse/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "O universo é cheio de bactérias mortais! Estou mais seguro nessa roupa.",
+    "path": "/scriptConfig/dialog/converse/apex/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Esta roupa é para me proteger da contaminação local. Você provavelmente não deveria me tocar.",
+    "path": "/scriptConfig/dialog/converse/apex/default/0"
+  }
+]

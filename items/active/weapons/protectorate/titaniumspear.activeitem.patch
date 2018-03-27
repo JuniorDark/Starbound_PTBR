@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma lança feita para manter os inimigos à distância."}, {"op": "replace", "path": "/shortdescription", "value": "Titanium Spear"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lança feita para manter os inimigos à distância.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Titanium Spear",
+    "path": "/shortdescription"
+  }
+]

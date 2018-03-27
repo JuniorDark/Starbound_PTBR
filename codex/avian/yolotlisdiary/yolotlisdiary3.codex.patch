@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/contentPages/1", "value": "Enquanto tudo isso está sendo feito, óleo de pinheiro é aplicado às minhas penas, tão densamente que eles se sentem quase lacados pelo final dela. Óleo de pinheiro é um cheiro tão embriagante! Faz-me cheirar como o ar mais puro, bem acima das montanhas."}, {"op": "replace", "path": "/description", "value": "O diário pessoal de um Avian Ascendente."}, {"op": "replace", "path": "/title", "value": "Diário de Yolotli Entrada 3"}, {"op": "replace", "path": "/contentPages/0", "value": "Depois de decorridos nove dias, nós festejamos. Em cada um dos nove dias! Eu nunca comi tão bem na minha vida.\n\nA preparação é ainda mais gratificante do que a comida: os atendentes vêm e me ajudam a tomar banho, e então, uma vez que estou seco, minhas penas da crista são folheadas com ouro.\n\nMeu bico é limpo e polido também, de modo que ele brilha brilhantemente na luz do fogo.."}]
+[
+  {
+    "op": "replace",
+    "value": "O diário pessoal de um Avian Ascendente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Depois de decorridos nove dias, nós festejamos. Em cada um dos nove dias! Eu nunca comi tão bem na minha vida.\n\nA preparação é ainda mais gratificante do que a comida: os atendentes vêm e me ajudam a tomar banho, e então, uma vez que estou seco, minhas penas da crista são folheadas com ouro.\n\nMeu bico é limpo e polido também, de modo que ele brilha brilhantemente na luz do fogo..",
+    "path": "/contentPages/0"
+  },
+  {
+    "op": "replace",
+    "value": "Enquanto tudo isso está sendo feito, óleo de pinheiro é aplicado às minhas penas, tão densamente que eles se sentem quase lacados pelo final dela. Óleo de pinheiro é um cheiro tão embriagante! Faz-me cheirar como o ar mais puro, bem acima das montanhas.",
+    "path": "/contentPages/1"
+  },
+  {
+    "op": "replace",
+    "value": "Diário de Yolotli Entrada 3",
+    "path": "/title"
+  }
+]

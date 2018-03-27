@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "As lâminas dessas espadas perderam o fio com o tempo."}, {"op": "replace", "path": "/description", "value": "Uma prateleira cheia de espadas de ferro sem fio."}, {"op": "replace", "path": "/avianDescription", "value": "Uma seleção de espadas sem corte."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um conjunto de espadas sem corte. Tais coisas lamentáveis."}, {"op": "replace", "path": "/humanDescription", "value": "Mal afiada o suficiente para cortar queijo."}, {"op": "replace", "path": "/novakidDescription", "value": "Um conjunto de espadas sem corte."}, {"op": "replace", "path": "/shortdescription", "value": "Medieval Weapon Rack"}, {"op": "replace", "path": "/floranDescription", "value": "Espadasss não afiadas."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Estas espadas perderam o fio. Provavelmente foram esquecidas."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma seleção de espadas sem corte.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um conjunto de espadas sem corte. Tais coisas lamentáveis.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma prateleira cheia de espadas de ferro sem fio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Mal afiada o suficiente para cortar queijo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Medieval Weapon Rack",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Estas espadas perderam o fio. Provavelmente foram esquecidas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um conjunto de espadas sem corte.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espadasss não afiadas.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "As lâminas dessas espadas perderam o fio com o tempo.",
+    "path": "/apexDescription"
+  }
+]

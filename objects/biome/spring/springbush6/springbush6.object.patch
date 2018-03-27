@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Flores! Que bom."}, {"op": "replace", "path": "/description", "value": "Um arbusto florido."}, {"op": "replace", "path": "/shortdescription", "value": "Flowery Bush"}, {"op": "replace", "path": "/floranDescription", "value": "Floresss."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Um arbusto florido."}, {"op": "replace", "path": "/apexDescription", "value": "Um arbusto florido."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um arbusto florido bonito."}, {"op": "replace", "path": "/novakidDescription", "value": "Um arbusto com flores crescendo nele."}, {"op": "replace", "path": "/avianDescription", "value": "Um arbusto florido agradável. Maravilhoso."}]
+[
+  {
+    "op": "replace",
+    "value": "Floresss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um arbusto florido bonito.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um arbusto com flores crescendo nele.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um arbusto florido.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um arbusto florido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um arbusto florido agradável. Maravilhoso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Flores! Que bom.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Flowery Bush",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Um arbusto florido.",
+    "path": "/glitchDescription"
+  }
+]

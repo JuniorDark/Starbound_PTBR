@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Já vi camas piores que esta. Vi melhores também."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma cama tradicional requintada. Muitas espécies poderiam aprender com isso."}, {"op": "replace", "path": "/avianDescription", "value": "Uma cama simples, parece confortável."}, {"op": "replace", "path": "/humanDescription", "value": "Esta cama parece que tem um estilo tradicional que não precisa mudar."}, {"op": "replace", "path": "/apexDescription", "value": "Esta cama é simples sem ser básica."}, {"op": "replace", "path": "/glitchDescription", "value": "Crítico. Esta cama parece quase tão simples, mas seus materiais são de alta qualidade."}, {"op": "replace", "path": "/floranDescription", "value": "Cama plana. Entediante."}, {"op": "replace", "path": "/shortdescription", "value": "Comfy Traditional Bed"}, {"op": "replace", "path": "/description", "value": "A lenda diz que se você passar a noite nesta cama, você perderá a consciência."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cama simples, parece confortável.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama tradicional requintada. Muitas espécies poderiam aprender com isso.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Comfy Traditional Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Crítico. Esta cama parece quase tão simples, mas seus materiais são de alta qualidade.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cama plana. Entediante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A lenda diz que se você passar a noite nesta cama, você perderá a consciência.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Já vi camas piores que esta. Vi melhores também.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama é simples sem ser básica.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama parece que tem um estilo tradicional que não precisa mudar.",
+    "path": "/humanDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Pond Helm"}, {"op": "replace", "path": "/description", "value": "Um capacete de grande elegância, feito a partir de tungstênio."}]
+[
+  {
+    "op": "replace",
+    "value": "Um capacete de grande elegância, feito a partir de tungstênio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pond Helm",
+    "path": "/shortdescription"
+  }
+]

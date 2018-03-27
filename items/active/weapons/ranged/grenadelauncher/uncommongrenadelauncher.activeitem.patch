@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Para quando suas granadas precisam de alguma distância."}, {"op": "replace", "path": "/shortdescription", "value": "Uncommon Grenade Launcher"}]
+[
+  {
+    "op": "replace",
+    "value": "Para quando suas granadas precisam de alguma distância.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uncommon Grenade Launcher",
+    "path": "/shortdescription"
+  }
+]

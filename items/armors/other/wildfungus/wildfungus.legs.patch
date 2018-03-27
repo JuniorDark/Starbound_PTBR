@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Wild Fungus Skirt"}, {"op": "replace", "path": "/description", "value": "Essas botas são duráveis, mas farão com que seus pés cheirem mal."}]
+[
+  {
+    "op": "replace",
+    "value": "Essas botas são duráveis, mas farão com que seus pés cheirem mal.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Wild Fungus Skirt",
+    "path": "/shortdescription"
+  }
+]

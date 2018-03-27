@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma moldura rasgada."}, {"op": "replace", "path": "/shortdescription", "value": "Torn Protectorate Picture Frame"}, {"op": "replace", "path": "/floranDescription", "value": "Foto foi esssfaqueada."}, {"op": "replace", "path": "/glitchDescription", "value": "Chateado. Um retrato rasgado de um Grande Protetor passado."}, {"op": "replace", "path": "/apexDescription", "value": "Este retrato foi rasgado."}, {"op": "replace", "path": "/humanDescription", "value": "Este retrato está arruinado!"}, {"op": "replace", "path": "/avianDescription", "value": "Um retrato arruinado..."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um retrato rasgado de uma figura iconica."}, {"op": "replace", "path": "/novakidDescription", "value": "Este velho retrato já viu dias melhores."}]
+[
+  {
+    "op": "replace",
+    "value": "Um retrato arruinado...",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma moldura rasgada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um retrato rasgado de uma figura iconica.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Foto foi esssfaqueada.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este velho retrato já viu dias melhores.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este retrato foi rasgado.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este retrato está arruinado!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Torn Protectorate Picture Frame",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Chateado. Um retrato rasgado de um Grande Protetor passado.",
+    "path": "/glitchDescription"
+  }
+]

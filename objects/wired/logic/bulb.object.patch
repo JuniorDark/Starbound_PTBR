@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Bulb"}, {"op": "replace", "path": "/description", "value": "Uma luz de saída. Indica se algo está ligado ou desligado."}, {"op": "replace", "path": "/floranDescription", "value": "Uma luz de saída. Indica se algo está ligado ou desligado."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Uma luz de saída. Indica se algo está ligado ou desligado."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz de saída. Indica se algo está ligado ou desligado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz de saída. Indica se algo está ligado ou desligado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bulb",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Uma luz de saída. Indica se algo está ligado ou desligado.",
+    "path": "/glitchDescription"
+  }
+]

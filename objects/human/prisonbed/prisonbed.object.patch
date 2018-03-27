@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma chapa fria e dura de metal destinada a servir como uma cama."}, {"op": "replace", "path": "/shortdescription", "value": "Chained Metal Bed"}, {"op": "replace", "path": "/floranDescription", "value": "Esta é a cama? Floran se sente mal."}, {"op": "replace", "path": "/glitchDescription", "value": "Contente. Esta cama seria perfeitamente confortável para mim."}, {"op": "replace", "path": "/apexDescription", "value": "Uma cama de metal de aparência desconfortável."}, {"op": "replace", "path": "/humanDescription", "value": "Às vezes, a melhor maneira de punir alguém é fazê-los dormir em uma cama dessas."}, {"op": "replace", "path": "/avianDescription", "value": "Esta cama se beneficiaria de uma camada de feno."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma cama incrivelmente desconfortável. Eu não gostaria de acabar dormindo aqui."}, {"op": "replace", "path": "/novakidDescription", "value": "Alguns diriam que um lugar desconfortável para dormir é o pior castigo."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma chapa fria e dura de metal destinada a servir como uma cama.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama incrivelmente desconfortável. Eu não gostaria de acabar dormindo aqui.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama de metal de aparência desconfortável.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Chained Metal Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Contente. Esta cama seria perfeitamente confortável para mim.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns diriam que um lugar desconfortável para dormir é o pior castigo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Às vezes, a melhor maneira de punir alguém é fazê-los dormir em uma cama dessas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama se beneficiaria de uma camada de feno.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é a cama? Floran se sente mal.",
+    "path": "/floranDescription"
+  }
+]

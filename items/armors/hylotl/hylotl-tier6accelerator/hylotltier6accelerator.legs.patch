@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "As listras pálidas destas calças são uma reminiscência de deslocar raios de luz através da água."}, {"op": "replace", "path": "/shortdescription", "value": "Euphotic Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Euphotic Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "As listras pálidas destas calças são uma reminiscência de deslocar raios de luz através da água.",
+    "path": "/description"
+  }
+]

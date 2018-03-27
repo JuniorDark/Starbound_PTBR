@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "<Um interruptor /'Or'/ . Permite que você tenha várias entradas individuais.>"}, {"op": "replace", "path": "/shortdescription", "value": "Foundry Or Switch"}]
+[
+  {
+    "op": "replace",
+    "value": "<Um interruptor /'Or'/ . Permite que você tenha várias entradas individuais.>",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Foundry Or Switch",
+    "path": "/shortdescription"
+  }
+]

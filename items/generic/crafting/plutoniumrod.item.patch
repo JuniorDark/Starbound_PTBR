@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Plutonium Rod"}, {"op": "replace", "path": "/description", "value": "Ninguém vai querer isso. É altamente radioativo."}]
+[
+  {
+    "op": "replace",
+    "value": "Ninguém vai querer isso. É altamente radioativo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Plutonium Rod",
+    "path": "/shortdescription"
+  }
+]

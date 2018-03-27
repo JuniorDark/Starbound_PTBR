@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um design de cadeira moderno, comumente encontrado dentro de naves espaciais."
+    "value": "Um design de cadeira moderno, comumente encontrado dentro de naves espaciais.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Talvez sentar nisso ajudaria a manter minhas costas retas."
+    "value": "Astro Chair",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Esta cadeira tem um design muito familiar, embora nenhum Avian construa com materiais como estes."
+    "value": "Assento de metal firme parece dessconfortável.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Assento de metal firme parece dessconfortável."
+    "value": "Interessado. Este assento é projetado para suportar forças de lançamento para viajantes espaciais.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Interessado. Este assento é projetado para suportar forças de lançamento para viajantes espaciais."
+    "value": "Talvez sentar nisso ajudaria a manter minhas costas retas.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Esta cadeira é o tipo que você encontraria em uma nave espacial."
+    "value": "Esta cadeira tem um design muito familiar, embora nenhum Avian construa com materiais como estes.",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Esta cadeira resistente é construída para resistir às forças de lançamento."
+    "value": "Esta cadeira é o tipo que você encontraria em uma nave espacial.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Esta cadeira é bastante sólida, eu não consigo nem mesmo chutá-la."
+    "value": "Esta cadeira é bastante sólida, eu não consigo nem mesmo chutá-la.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cadeira resistente é construída para resistir às forças de lançamento.",
+    "path": "/hylotlDescription"
   }
 ]

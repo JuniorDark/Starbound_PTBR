@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A etiqueta diz, \"Devido às seus olhos sensíveis prefere ambientes escuros, como cavernas.\""}, {"op": "replace", "path": "/shortdescription", "value": "Agrobat Figurine"}]
+[
+  {
+    "op": "replace",
+    "value": "Agrobat Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"Devido às seus olhos sensíveis prefere ambientes escuros, como cavernas.\"",
+    "path": "/description"
+  }
+]

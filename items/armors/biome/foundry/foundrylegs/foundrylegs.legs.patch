@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Calças resistentes ao fogo para um trabalhador de fundição."}, {"op": "replace", "path": "/shortdescription", "value": "Foundry Legs"}]
+[
+  {
+    "op": "replace",
+    "value": "Foundry Legs",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Calças resistentes ao fogo para um trabalhador de fundição.",
+    "path": "/description"
+  }
+]

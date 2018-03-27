@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Wrecked Crate"}, {"op": "replace", "path": "/apexDescription", "value": "Um caixote espancado."}, {"op": "replace", "path": "/humanDescription", "value": "Uma caixa velha. Talvez ainda haja algo lá dentro."}, {"op": "replace", "path": "/description", "value": "Uma caixa antiga, eu me pergunto o que está dentro."}, {"op": "replace", "path": "/floranDescription", "value": "Armazenamento antigo destruído."}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Um antigo recipiente de armazenamento."}, {"op": "replace", "path": "/avianDescription", "value": "Poderia haver alguma coisa ainda aqui?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Poderia algum tesouro de valor ser escondido em uma caixa tão arruinada?"}, {"op": "replace", "path": "/novakidDescription", "value": "Até eu não tenho certeza se vale a pena investigar esta caixa."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma caixa antiga, eu me pergunto o que está dentro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um caixote espancado.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa velha. Talvez ainda haja algo lá dentro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Poderia algum tesouro de valor ser escondido em uma caixa tão arruinada?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Poderia haver alguma coisa ainda aqui?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Até eu não tenho certeza se vale a pena investigar esta caixa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Um antigo recipiente de armazenamento.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Armazenamento antigo destruído.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wrecked Crate",
+    "path": "/shortdescription"
+  }
+]

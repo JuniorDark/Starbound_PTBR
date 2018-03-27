@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Slime Bed"}, {"op": "replace", "path": "/apexDescription", "value": "Uma cama de slime. Parece suspeita."}, {"op": "replace", "path": "/description", "value": "Dormir agradavelmente, suspenso em slime."}, {"op": "replace", "path": "/floranDescription", "value": "É mole!."}, {"op": "replace", "path": "/glitchDescription", "value": "Cauteloso. Slime pode causar ferrugem."}, {"op": "replace", "path": "/humanDescription", "value": "É feitoa de slime. Espero poder respirar lá dentro."}, {"op": "replace", "path": "/avianDescription", "value": "Vou ter slime nas minhas penas?"}, {"op": "replace", "path": "/novakidDescription", "value": "Slime como uma cama? Vale a pena tentar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma cama de slime. Vai proporcionar um sono tranquilo?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cama de slime. Vai proporcionar um sono tranquilo?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama de slime. Parece suspeita.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. Slime pode causar ferrugem.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É mole!.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É feitoa de slime. Espero poder respirar lá dentro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dormir agradavelmente, suspenso em slime.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Slime Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Slime como uma cama? Vale a pena tentar.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vou ter slime nas minhas penas?",
+    "path": "/avianDescription"
+  }
+]

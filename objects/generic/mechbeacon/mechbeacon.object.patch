@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Este farol de orientação marca a posição de uma baía de atracagem."
+    "value": "Um marcador para dizer aos pilotos onde atracar seus mechas.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Isto marca a posição de uma baía de atracar mecha."
+    "value": "Farol mostra onde os mechas podem atracar.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Este marcador significa uma baía espacial feita para atracar mechas."
+    "value": "Informado. Este tipo de farol é útil para rastrear onde os veículos mecha podem atracar.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Farol mostra onde os mechas podem atracar."
+    "value": "Landing Beacon",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Informado. Este tipo de farol é útil para rastrear onde os veículos mecha podem atracar."
+    "value": "Este farol é para marcar baías de entrada para mechas.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Um marcador para dizer aos pilotos onde atracar seus mechas."
+    "value": "Este farol de orientação marca a posição de uma baía de atracagem.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Este farol é para marcar baías de entrada para mechas."
+    "value": "Este marcador está aqui para marcar onde atracar o seu mecha.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Este marcador está aqui para marcar onde atracar o seu mecha."
+    "value": "Este marcador significa uma baía espacial feita para atracar mechas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto marca a posição de uma baía de atracar mecha.",
+    "path": "/apexDescription"
   }
 ]

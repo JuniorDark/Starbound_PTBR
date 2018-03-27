@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "É uma cadeira."}, {"op": "replace", "path": "/shortdescription", "value": "Blue Chair"}, {"op": "replace", "path": "/floranDescription", "value": "Cadeira."}, {"op": "replace", "path": "/glitchDescription", "value": "Desinteressado. Não preciso me sentar..."}, {"op": "replace", "path": "/description", "value": "Uma cadeira verde-azulado."}, {"op": "replace", "path": "/apexDescription", "value": "É uma cadeira."}, {"op": "replace", "path": "/humanDescription", "value": "É uma cadeira."}, {"op": "replace", "path": "/avianDescription", "value": "Uma cadeira azul."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma simples cadeira verde-azulado."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira azul.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma simples cadeira verde-azulado.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira verde-azulado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Blue Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cadeira.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma cadeira.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma cadeira.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma cadeira.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desinteressado. Não preciso me sentar...",
+    "path": "/glitchDescription"
+  }
+]

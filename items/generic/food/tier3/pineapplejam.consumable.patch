@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma geléia super doce feita de abacaxis."}, {"op": "replace", "path": "/shortdescription", "value": "Pineapple Jam"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma geléia super doce feita de abacaxis.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pineapple Jam",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Battle Standard"}, {"op": "replace", "path": "/avianDescription", "value": "Uma bandeira colorida."}, {"op": "replace", "path": "/description", "value": "Uma bandeira axadrezada com um emblema."}, {"op": "replace", "path": "/floranDescription", "value": "Floran gossta de bandeira colorida. Parece ssofisticada."}, {"op": "replace", "path": "/glitchDescription", "value": "Informado. Uma estandarte de batalha Glitch padrão. Estes são colocados no campo durante uma batalha."}, {"op": "replace", "path": "/apexDescription", "value": "Me pergunto quantas guerras este estandarte presenciou."}, {"op": "replace", "path": "/humanDescription", "value": "Uma bandeira de campo de batalha. Elas raramente são usadas nos tempos modernos."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma bandeira que parece que pode ser carregada e plantada como um marcador."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta bandeira provavelmente significa algo para alguém."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma bandeira de campo de batalha. Elas raramente são usadas nos tempos modernos.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bandeira axadrezada com um emblema.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bandeira colorida.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bandeira que parece que pode ser carregada e plantada como um marcador.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Battle Standard",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gossta de bandeira colorida. Parece ssofisticada.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me pergunto quantas guerras este estandarte presenciou.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Informado. Uma estandarte de batalha Glitch padrão. Estes são colocados no campo durante uma batalha.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta bandeira provavelmente significa algo para alguém.",
+    "path": "/novakidDescription"
+  }
+]

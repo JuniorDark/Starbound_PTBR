@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "É um painel de entrada, mas está completamente morto."}, {"op": "replace", "path": "/shortdescription", "value": "Wrecked Panel"}, {"op": "replace", "path": "/apexDescription", "value": "Este painel de entrada não funciona."}, {"op": "replace", "path": "/description", "value": "Um painel de entrada antigo. Uma das chaves caiu."}, {"op": "replace", "path": "/floranDescription", "value": "Este painel está muito quebrado"}, {"op": "replace", "path": "/glitchDescription", "value": "Irritado. Este painel de entrada está completamente morto."}, {"op": "replace", "path": "/humanDescription", "value": "Um painel de entrada quebrado e sujo. Eu não acho que isso vai funcionar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este painel de entrada está completamente destruido."}, {"op": "replace", "path": "/novakidDescription", "value": "Essa coisa velha está além de inútil agora."}]
+[
+  {
+    "op": "replace",
+    "value": "Um painel de entrada quebrado e sujo. Eu não acho que isso vai funcionar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um painel de entrada, mas está completamente morto.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este painel de entrada não funciona.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este painel de entrada está completamente destruido.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa coisa velha está além de inútil agora.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este painel está muito quebrado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Irritado. Este painel de entrada está completamente morto.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um painel de entrada antigo. Uma das chaves caiu.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Wrecked Panel",
+    "path": "/shortdescription"
+  }
+]

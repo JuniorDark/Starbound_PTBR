@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um líquido viscoso."}, {"op": "replace", "path": "/shortdescription", "value": "Slime"}]
+[
+  {
+    "op": "replace",
+    "value": "Slime",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um líquido viscoso.",
+    "path": "/description"
+  }
+]

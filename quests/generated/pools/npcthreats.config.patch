@@ -1,1 +1,142 @@
-[{"op":"replace","path":"/0/1/0/1/name","value":"bandidos"},{"op":"replace","path":"/0/1/1/1/name","value":"cultistas"},{"op":"replace","path":"/0/1/2/1/name","value":"fugitivos"},{"op":"replace","path":"/0/1/3/1/name","value":"Cientistas da Miniknog"},{"op":"replace","path":"/0/1/5/1/name","value":"ladrões Glitch"},{"op":"replace","path":"/0/1/6/1/name","value":"caçadores Floran selvagens"},{"op":"replace","path":"/0/1/7/1/name","value":"Florans canibais"},{"op":"replace","path":"/0/1/9/1/name","value":"Fanáticos Kluex"},{"op":"replace","path":"/0/1/10/1/name","value":"Cientistas da Miniknog"},{"op":"replace","path":"/0/1/11/1/name","value":"escoteiros da Miniknog"},{"op":"replace","path":"/0/1/12/1/name","value":"assassinos da Miniknog"},{"op":"replace","path":"/0/1/13/1/name","value":"agentes da Miniknog"},{"op":"replace","path":"/0/1/15/1/name","value":"Fanaticos Kluex"},{"op":"replace","path":"/0/1/17/1/name","value":"arqueiros Glitch"},{"op":"replace","path":"/0/1/18/1/name","value":"ladrões Glitch"},{"op":"replace","path":"/0/1/19/1/name","value":"Cruzados que Tudo Vêm"},{"op":"replace","path":"/0/1/20/1/name","value":"caçadores Floran selvagens"},{"op":"replace","path":"/0/1/21/1/name","value":"snipers Floran"},{"op":"replace","path":"/0/1/22/1/name","value":"Florans canibais"},{"op":"replace","path":"/0/1/23/1/name","value":"bandidos"},{"op":"replace","path":"/0/1/24/1/name","value":"cultistas"},{"op":"replace","path":"/0/1/25/1/name","value":"fugitivos"},{"op":"replace","path":"/0/1/27/1/name","value":"mergulhadores de eliminação"}]
+[
+  {
+    "op": "replace",
+    "value": "bandidos",
+    "path": "/0/1/0/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "bandidos",
+    "path": "/0/1/23/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "Cruzados que Tudo Vêm",
+    "path": "/0/1/19/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "invasores Avian",
+    "path": "/0/1/14/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "Florans canibais",
+    "path": "/0/1/22/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "Florans canibais",
+    "path": "/0/1/7/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "snipers Floran",
+    "path": "/0/1/21/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "arqueiros Glitch",
+    "path": "/0/1/17/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "ladrões Glitch",
+    "path": "/0/1/18/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "ladrões Glitch",
+    "path": "/0/1/5/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "Fanáticos do Kluex",
+    "path": "/0/1/15/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "Fanáticos do Kluex",
+    "path": "/0/1/9/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "Cientistas da Miniknog",
+    "path": "/0/1/10/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "Cientistas da Miniknog",
+    "path": "/0/1/3/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "agentes da Miniknog",
+    "path": "/0/1/13/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "assassinos da Miniknog",
+    "path": "/0/1/12/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "escoteiros da Miniknog",
+    "path": "/0/1/11/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "cultistas",
+    "path": "/0/1/1/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "cultistas",
+    "path": "/0/1/24/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "cavaleiros negros",
+    "path": "/0/1/16/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "cavaleiros negros",
+    "path": "/0/1/4/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "fugitivos",
+    "path": "/0/1/2/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "fugitivos",
+    "path": "/0/1/25/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "Samurai ladino",
+    "path": "/0/1/26/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "Samurai ladino",
+    "path": "/0/1/8/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "mergulhadores de eliminação",
+    "path": "/0/1/27/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "caçadores Floran selvagens",
+    "path": "/0/1/20/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "caçadores Floran selvagens",
+    "path": "/0/1/6/1/name"
+  }
+]

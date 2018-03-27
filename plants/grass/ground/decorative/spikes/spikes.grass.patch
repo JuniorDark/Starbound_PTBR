@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Estacas naturais."}, {"op": "replace", "path": "/shortdescription", "value": "Estacas naturais."}, {"op": "replace", "path": "/floranDescription", "value": "Pontudo."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Estacas naturais."}]
+[
+  {
+    "op": "replace",
+    "value": "Pontudo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estacas naturais.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estacas naturais.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Estacas naturais.",
+    "path": "/glitchDescription"
+  }
+]

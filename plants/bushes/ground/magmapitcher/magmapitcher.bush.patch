@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Coníferos enchidos com magma."}, {"op": "replace", "path": "/shortdescription", "value": "Coníferos enchidos com magma."}, {"op": "replace", "path": "/floranDescription", "value": "Líquidos quentes."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Coníferos de magma."}]
+[
+  {
+    "op": "replace",
+    "value": "Líquidos quentes.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Coníferos enchidos com magma.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Coníferos enchidos com magma.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Coníferos de magma.",
+    "path": "/glitchDescription"
+  }
+]

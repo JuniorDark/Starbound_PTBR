@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/completeSetDescriptions/description", "value": "Uma criatura que deixou muitos cientistas perplexos, sua origem e idade não pode ser determinada."}, {"op": "replace", "path": "/description", "value": "Um crânio fossilizado de uma criatura desconhecida."}, {"op": "replace", "path": "/completeSetDescriptions/shortdescription", "value": "Unidentified Fossil"}, {"op": "replace", "path": "/shortdescription", "value": "Unidentified Skull"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma criatura que deixou muitos cientistas perplexos, sua origem e idade não pode ser determinada.",
+    "path": "/completeSetDescriptions/description"
+  },
+  {
+    "op": "replace",
+    "value": "Unidentified Fossil",
+    "path": "/completeSetDescriptions/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um crânio fossilizado de uma criatura desconhecida.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Unidentified Skull",
+    "path": "/shortdescription"
+  }
+]

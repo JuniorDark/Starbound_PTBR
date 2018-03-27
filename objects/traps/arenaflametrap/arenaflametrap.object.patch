@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Melhor se afastar dessas chamas, elas tornam os inimigos mais fortes."}, {"op": "replace", "path": "/description", "value": "Esta armadilha solta uma chama que fortalece inimigos."}, {"op": "replace", "path": "/shortdescription", "value": "Arena Flame Trap"}, {"op": "replace", "path": "/floranDescription", "value": "Estass chamass tornam inimigoss mais fortes!"}, {"op": "replace", "path": "/glitchDescription", "value": "Aterrorizado. Essas chamas aumentarão o poder de ataque inimigo."}]
+[
+  {
+    "op": "replace",
+    "value": "Arena Flame Trap",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Melhor se afastar dessas chamas, elas tornam os inimigos mais fortes.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aterrorizado. Essas chamas aumentarão o poder de ataque inimigo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estass chamass tornam inimigoss mais fortes!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta armadilha solta uma chama que fortalece inimigos.",
+    "path": "/description"
+  }
+]

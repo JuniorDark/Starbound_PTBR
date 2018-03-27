@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma fita caída."}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Ruined Ribbon"}, {"op": "replace", "path": "/floranDescription", "value": "Cerca de fita vermelha está quebrada..."}, {"op": "replace", "path": "/glitchDescription", "value": "Triste. Coisas quebradas espalhadas no chão..."}, {"op": "replace", "path": "/apexDescription", "value": "Uma fita. Caiu."}, {"op": "replace", "path": "/humanDescription", "value": "Esta fita caiu."}, {"op": "replace", "path": "/avianDescription", "value": "Esta fita vermelha caiu."}, {"op": "replace", "path": "/hylotlDescription", "value": "Que triste. Essa fita deve ter caído na turbulência."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta corda não está mais em pé."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma fita caída.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fita. Caiu.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que triste. Essa fita deve ter caído na turbulência.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Ruined Ribbon",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cerca de fita vermelha está quebrada...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Triste. Coisas quebradas espalhadas no chão...",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta fita vermelha caiu.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta fita caiu.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta corda não está mais em pé.",
+    "path": "/novakidDescription"
+  }
+]

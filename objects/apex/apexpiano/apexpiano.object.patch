@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Há algumas partituras aqui."}, {"op": "replace", "path": "/shortdescription", "value": "Standard Issue Piano"}, {"op": "replace", "path": "/glitchDescription", "value": "Atento. A matemática por trás desta máquina é relativamente simples."}, {"op": "replace", "path": "/humanDescription", "value": "Um piano... Eu posso tocar Chopsticks."}, {"op": "replace", "path": "/avianDescription", "value": "As teclas produzem sons agradáveis."}, {"op": "replace", "path": "/hylotlDescription", "value": "Ah música. Ela tem o poder de iluminar até mesmo nossas horas mais sombrias."}, {"op": "replace", "path": "/floranDescription", "value": "Floran faz música com pele e osso, mestre do tambor. Não com máquina de som boba."}, {"op": "replace", "path": "/apexDescription", "value": "Todos os Apex aprendem a tocar. No entanto, somente músicas permitidas podem ser tocadas."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu não diria não a algumas melodias de piano calmantes. Pena que ninguém está tocando."}]
+[
+  {
+    "op": "replace",
+    "value": "Um piano... Eu posso tocar Chopsticks.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ah música. Ela tem o poder de iluminar até mesmo nossas horas mais sombrias.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Todos os Apex aprendem a tocar. No entanto, somente músicas permitidas podem ser tocadas.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran faz música com pele e osso, mestre do tambor. Não com máquina de som boba.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não diria não a algumas melodias de piano calmantes. Pena que ninguém está tocando.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. A matemática por trás desta máquina é relativamente simples.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Standard Issue Piano",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há algumas partituras aqui.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Os botões produzem sons agradáveis.",
+    "path": "/avianDescription"
+  }
+]

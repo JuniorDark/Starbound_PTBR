@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/1", "value": "Eu estive esperando aqui por horas..."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/2", "value": "Certamente minha dedicação a pontualidade serão reconhecidas."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Eu vim aqui mais cedo para ter certeza que eu não iria perder a cerimônia."}]
+[
+  {
+    "op": "replace",
+    "value": "Eu vim aqui mais cedo para ter certeza que eu não iria perder a cerimônia.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu estive esperando aqui por horas...",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Certamente minha dedicação a pontualidade serão reconhecidas.",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  }
+]

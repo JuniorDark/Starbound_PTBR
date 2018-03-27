@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/description", "value": "Um oceano de lava mortal."}]
+[
+  {
+    "op": "replace",
+    "value": "Um oceano de lava mortal.",
+    "path": "/description"
+  }
+]

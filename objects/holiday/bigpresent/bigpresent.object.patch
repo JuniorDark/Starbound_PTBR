@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Big Present"}, {"op": "replace", "path": "/floranDescription", "value": "Caixa!"}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Há alguma coisa dentro?"}, {"op": "replace", "path": "/apexDescription", "value": "É uma grande caixa de presente."}, {"op": "replace", "path": "/humanDescription", "value": "Uma caixa de presente. É muito grande!"}, {"op": "replace", "path": "/avianDescription", "value": "Uma caixa de presente muito rosa."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma caixa impecavelmente embrulhada."}, {"op": "replace", "path": "/novakidDescription", "value": "Um presente que esta bem embrulhado deve ter algo bom lá dentro."}, {"op": "replace", "path": "/description", "value": "Uma caixa rosa festiva com um laço na parte superior."}]
+[
+  {
+    "op": "replace",
+    "value": "Caixa!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Há alguma coisa dentro?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de presente rosa bonita.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa impecavelmente embrulhada.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma grande caixa de presente.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa rosa festiva com um laço na parte superior.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de presente. É muito grande!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um presente que esta bem embrulhado deve ter algo bom lá dentro.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Big Present",
+    "path": "/shortdescription"
+  }
+]

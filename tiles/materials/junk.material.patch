@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Uma pilha de lixo aleatório."}, {"op": "replace", "path": "/shortdescription", "value": "Junk Pile"}, {"op": "replace", "path": "/floranDescription", "value": "Muito lixo."}, {"op": "replace", "path": "/novakidDescription", "value": "Um velho monte de lixo."}, {"op": "replace", "path": "/glitchDescription", "value": "Atento. Eu posso ver muitos tipos diferentes de detritos retorcidos quebrados nesta pilha."}]
+[
+  {
+    "op": "replace",
+    "value": "Um velho monte de lixo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Junk Pile",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Eu posso ver muitos tipos diferentes de detritos retorcidos quebrados nesta pilha.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Muito lixo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pilha de lixo aleatório.",
+    "path": "/description"
+  }
+]

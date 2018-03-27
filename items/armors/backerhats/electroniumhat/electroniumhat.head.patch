@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Eu me sinto mais inteligente apenas vestindo esta coisa"}, {"op": "replace", "path": "/shortdescription", "value": "Electronium Hat"}]
+[
+  {
+    "op": "replace",
+    "value": "Electronium Hat",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me sinto mais inteligente apenas vestindo esta coisa",
+    "path": "/description"
+  }
+]

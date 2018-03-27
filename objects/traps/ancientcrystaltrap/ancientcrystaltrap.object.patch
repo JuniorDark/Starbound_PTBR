@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Se eu memorizar o padrão dos feixe do cristal eu posso agir em conformidade."}, {"op": "replace", "path": "/description", "value": "Uma armadilha de cristal feita para deter intrusos."}, {"op": "replace", "path": "/floranDescription", "value": "Feixe de cristal machuca Floran."}, {"op": "replace", "path": "/apexDescription", "value": "Este cristal forma um feixe de luz mortal."}, {"op": "replace", "path": "/humanDescription", "value": "Este feixe parece que feriria."}, {"op": "replace", "path": "/avianDescription", "value": "Eu não quero ser pego neste feixe."}, {"op": "replace", "path": "/novakidDescription", "value": "Cristal louco atirando luz direitamente em mim!"}, {"op": "replace", "path": "/shortdescription", "value": "Ancient Crystal Trap"}, {"op": "replace", "path": "/glitchDescription", "value": "Irritado. Um cristal que projeta raios mortais de luz! Agora eu vi tudo."}]
+[
+  {
+    "op": "replace",
+    "value": "Ancient Crystal Trap",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cristal louco atirando luz direitamente em mim!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Irritado. Um cristal que projeta raios mortais de luz! Agora eu vi tudo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não quero ser pego neste feixe.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma armadilha de cristal projetada para deter invasores.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Feixe de cristal machuca Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se eu memorizar o padrão do feixe do cristal, posso agir em conformidade.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse feixe parece que pode machucar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este cristal forma um feixe de luz mortal.",
+    "path": "/apexDescription"
+  }
+]

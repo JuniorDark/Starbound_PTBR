@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/title", "value": "^green;O Rosto de um Caçador"}, {"op": "replace", "path": "/completionText", "value": "Ela tem até uma lança - Nuru vai amar isso! Eu não posso te agradecer o suficiente!"}, {"op": "replace", "path": "/text", "value": "Hum, parece que os Florans não estão muito interessados em museus; Eu estava falando sobre meus planos mais cedo e Nuru me perguntou o que um \"mesuam\" era... ^green;Talvez se você me trouxer uma ^orange;Floran Statue^white; de uma aldeia Floran ou campo de caça, ela poderia fazer o museu parecer mais atraente?"}]
+[
+  {
+    "op": "replace",
+    "value": "Ela tem até uma lança - Nuru vai amar isso! Eu não posso te agradecer o suficiente!",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "Hum, parece que os Florans não estão muito interessados em museus; Eu estava falando sobre meus planos mais cedo e Nuru me perguntou o que um \"mesuam\" era... ^green;Talvez se você me trouxer uma ^orange;Floran Statue^white; de uma aldeia Floran ou campo de caça, ela poderia fazer o museu parecer mais atraente?",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "^green;O Rosto de um Caçador",
+    "path": "/title"
+  }
+]

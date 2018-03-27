@@ -1,1 +1,12 @@
-[{"op":"replace","path":"/description","value":"Aperte duas vezes ^green;[A]^white; ou ^green;[D] ^white;para arrancar rapidamente! Recarga: 0.8s"},{"op":"replace","path":"/shortDescription","value":"Arrancada"}]
+[
+  {
+    "op": "replace",
+    "value": "Arrancada",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aperte duas vezes ^green;[A]^white; ou ^green;[D] ^white;para arrancar rapidamente! Recarga: 0.8s",
+    "path": "/description"
+  }
+]

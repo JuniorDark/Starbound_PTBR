@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Este servidor Avian deve conter uma grande quantidade de dados."}, {"op": "replace", "path": "/hylotlDescription", "value": "Há tantos dados aqui. Se eu pudesse exportá-los..."}, {"op": "replace", "path": "/shortdescription", "value": "Avian Server"}, {"op": "replace", "path": "/floranDescription", "value": "Ssservidor com mais informações do que o cérebro de Floran."}, {"op": "replace", "path": "/glitchDescription", "value": "Intimidado. A quantidade de dados armazenados aqui é vasta."}, {"op": "replace", "path": "/apexDescription", "value": "Parece ser algum tipo de servidor."}, {"op": "replace", "path": "/humanDescription", "value": "Parece um servidor."}, {"op": "replace", "path": "/avianDescription", "value": "Os cristais Avian coletam dados e os armazenam nessas máquinas."}, {"op": "replace", "path": "/novakidDescription", "value": "Deve ser um servidor para armazenar dados."}]
+[
+  {
+    "op": "replace",
+    "value": "Avian Server",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os cristais Avian coletam dados e os armazenam nessas máquinas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intimidado. A quantidade de dados armazenados aqui é vasta.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece ser algum tipo de servidor.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece um servidor.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Deve ser um servidor para armazenar dados.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ssservidor com mais informações do que o cérebro de Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há tantos dados aqui. Se eu pudesse exportá-los...",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este servidor Avian deve conter uma grande quantidade de dados.",
+    "path": "/description"
+  }
+]

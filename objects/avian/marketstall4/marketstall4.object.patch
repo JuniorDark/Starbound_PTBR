@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Small Empty Market Stall"}, {"op": "replace", "path": "/description", "value": "Uma pequena barraca vazia. Parece triste."}, {"op": "replace", "path": "/floranDescription", "value": "Barraca vazia."}, {"op": "replace", "path": "/glitchDescription", "value": "Decepcionado. Esta barraca está vazia."}, {"op": "replace", "path": "/apexDescription", "value": "Uma barraca vazia."}, {"op": "replace", "path": "/humanDescription", "value": "Barracas vazias são sempre meio tristes."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta barraca precisa de estoque."}, {"op": "replace", "path": "/avianDescription", "value": "Esta barraca está vazia. Os grounded pode encontrar produtos difíceis de serem encontrados."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma barraca vazia. Nada para comprar aqui."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pequena barraca vazia. Parece triste.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Small Empty Market Stall",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma barraca vazia.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma barraca vazia. Nada para comprar aqui.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Decepcionado. Esta barraca está vazia.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Barraca vazia.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "As barracas vazias são sempre meio tristes.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta barraca está vazia. Os grounded pode encontrar produtos difíceis de serem encontrados.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta barraca precisa de estoque.",
+    "path": "/hylotlDescription"
+  }
+]

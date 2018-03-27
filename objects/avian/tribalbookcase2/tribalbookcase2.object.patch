@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Esta estante foi construída para armazenar a história Avian."}, {"op": "replace", "path": "/floranDescription", "value": "Floran sente formigamento estranho quando Floran absorve luz vermelha."}, {"op": "replace", "path": "/apexDescription", "value": "O cristal na parte superior banha a estante em um brilho vermelho."}, {"op": "replace", "path": "/humanDescription", "value": "O cristal nessa estante parece ter um propósito."}, {"op": "replace", "path": "/hylotlDescription", "value": "A luz deste cristal formiga."}, {"op": "replace", "path": "/shortdescription", "value": "Small Avian Bookcase"}, {"op": "replace", "path": "/avianDescription", "value": "Esta é uma estante construída para livros importantes. O brilho do cristal impede que os livros se deteriorem."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. O cristal parece ter um efeito restaurador nos livros colocados dentro."}, {"op": "replace", "path": "/novakidDescription", "value": "A estante parece antiga, mas os livros não parecem ter envelhecido muito."}]
+[
+  {
+    "op": "replace",
+    "value": "Floran sente formigamento estranho quando Floran absorve luz vermelha.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. O cristal parece ter um efeito restaurador nos livros colocados dentro.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Small Avian Bookcase",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A estante parece antiga, mas os livros não parecem ter envelhecido muito.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O cristal na parte superior banha a estante em um brilho vermelho.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O cristal nessa estante parece ter um propósito.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A luz deste cristal formiga.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta estante foi construída para armazenar a história Avian.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é uma estante construída para livros importantes. O brilho do cristal impede que os livros se deteriorem.",
+    "path": "/avianDescription"
+  }
+]

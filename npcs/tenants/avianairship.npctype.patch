@@ -1,1 +1,52 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/avian/avian/2", "value": "Entrei para um equipe de dirigível quando parei de acreditar em Kluex. Bons tempos dirigindo o vento."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/avian/1", "value": "Yo-ho-ho, é a vida de castigado pra mim!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/default/1", "value": "Yo-ho-ho, é a vida de castigado pra mim!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/avian/4", "value": "Esqueça o que te disseram, ser castigado é libertador."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/avian/0", "value": "Eu costumava ser parte de uma grande tripulação! É mais calmo aqui."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/default/3", "value": "Ar fresco e liberdade, essa é a vida para mim!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/default/4", "value": "Não me julgue pela minha aparência! Eu sou tão refinado."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/avian/3", "value": "Ar fresco e liberdade, essa é a vida para mim!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/default/2", "value": "Entrei para um equipe de dirigível quando parei de acreditar em Kluex. Boms tempos dirigindo o vento."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/default/0", "value": "Eu costumava ser parte de uma grande equipe! É mais calmo aqui."}]
+[
+  {
+    "op": "replace",
+    "value": "Ar fresco e liberdade, essa é a vida para mim!",
+    "path": "/scriptConfig/dialog/converse/avian/avian/3"
+  },
+  {
+    "op": "replace",
+    "value": "Ar fresco e liberdade, essa é a vida para mim!",
+    "path": "/scriptConfig/dialog/converse/avian/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Entrei para um equipe de dirigível quando parei de acreditar em Kluex. Boms tempos dirigindo o vento.",
+    "path": "/scriptConfig/dialog/converse/avian/avian/2"
+  },
+  {
+    "op": "replace",
+    "value": "Entrei para um equipe de dirigível quando parei de acreditar em Kluex. Boms tempos dirigindo o vento.",
+    "path": "/scriptConfig/dialog/converse/avian/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Yo-ho-ho, é a vida de Grounded pra mim!",
+    "path": "/scriptConfig/dialog/converse/avian/avian/1"
+  },
+  {
+    "op": "replace",
+    "value": "Yo-ho-ho, é a vida de Grounded pra mim!",
+    "path": "/scriptConfig/dialog/converse/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Não me julgue pela minha aparência! Eu sou tão refinado.",
+    "path": "/scriptConfig/dialog/converse/avian/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Esqueça o que te disseram, ser castigado é libertador.",
+    "path": "/scriptConfig/dialog/converse/avian/avian/4"
+  },
+  {
+    "op": "replace",
+    "value": "Eu costumava ser parte de uma grande tripulação! É mais calmo aqui.",
+    "path": "/scriptConfig/dialog/converse/avian/avian/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu costumava ser parte de uma grande tripulação! É mais calmo aqui.",
+    "path": "/scriptConfig/dialog/converse/avian/default/0"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma grade de parede. Legal."}, {"op": "replace", "path": "/shortdescription", "value": "Sewer Wall Grate"}, {"op": "replace", "path": "/apexDescription", "value": "Uma grade de parede."}, {"op": "replace", "path": "/floranDescription", "value": "Barrass na parede. Floran não consegue passar!"}, {"op": "replace", "path": "/glitchDescription", "value": "Pensativo. Alguma coisa se esconde atrás destas barras?"}, {"op": "replace", "path": "/humanDescription", "value": "Bem, isso é apenas uma grade."}, {"op": "replace", "path": "/avianDescription", "value": "Uma grade na parede."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta grade é simples, mas impede qualquer coisa inesperada de passar."}, {"op": "replace", "path": "/novakidDescription", "value": "Espero que não tenha criaturas escondidas atrás desta grade."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma grade na parede.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma grade de parede.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma grade de parede. Legal.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Barrass na parede. Floran não consegue passar!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sewer Wall Grate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que não tenha criaturas escondidas atrás desta grade.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta grade é simples, mas impede qualquer coisa inesperada de passar.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pensativo. Alguma coisa se esconde atrás destas barras?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bem, isso é apenas uma grade.",
+    "path": "/humanDescription"
+  }
+]

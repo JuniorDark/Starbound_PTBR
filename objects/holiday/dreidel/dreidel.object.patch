@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Eu me pergunto se esses símbolos são algo como minha marca?"}, {"op": "replace", "path": "/description", "value": "Um pião de quatro lados. Existem símbolos curiosos de cada lado."}, {"op": "replace", "path": "/shortdescription", "value": "Dreidel"}, {"op": "replace", "path": "/floranDescription", "value": "Brinquedo giratório!"}, {"op": "replace", "path": "/avianDescription", "value": "Este brinquedo giratório é muito divertido."}, {"op": "replace", "path": "/glitchDescription", "value": "Alegre. Um pião."}, {"op": "replace", "path": "/apexDescription", "value": "Um pião divertido."}, {"op": "replace", "path": "/humanDescription", "value": "Legal, um dreidel, no espaço!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Este pião bruto de alguma forma me enche de alegria."}]
+[
+  {
+    "op": "replace",
+    "value": "Um pião de quatro lados. Existem símbolos curiosos de cada lado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um pião divertido.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Legal, um dreidel, no espaço!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dreidel",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto se esses símbolos são algo como minha marca?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alegre. Um pião.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Brinquedo giratório!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este pião bruto de alguma forma me enche de alegria.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este brinquedo giratório é muito divertido.",
+    "path": "/avianDescription"
+  }
+]

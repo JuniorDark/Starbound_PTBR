@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Este seria um excelente local para uma loja."}, {"op": "replace", "path": "/shortdescription", "value": "Closed Biggy's Reputable Weapons"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não tem certeza do tipo de loja que será."}, {"op": "replace", "path": "/glitchDescription", "value": "Decepcionado. Este posto comercial está fechado."}, {"op": "replace", "path": "/apexDescription", "value": "Isso parece ser algum tipo de posto comercial."}, {"op": "replace", "path": "/humanDescription", "value": "Provavelmente um posto comercial, ainda por ser ocupado."}, {"op": "replace", "path": "/avianDescription", "value": "Um posto comercial de algum tipo. Está fechado agora."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma barraca onde bens ou serviços serão vendidos."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma loja vazia é uma visão lamentável de se contemplar."}]
+[
+  {
+    "op": "replace",
+    "value": "Este seria um excelente local para uma loja.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma barraca onde bens ou serviços serão vendidos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um posto comercial de algum tipo. Está fechado agora.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma loja vazia é uma visão lamentável de se contemplar.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Closed Biggy's Reputable Weapons",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Decepcionado. Este posto comercial está fechado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não tem certeza do tipo de loja que será.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Provavelmente um posto comercial, ainda por ser ocupado.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso parece ser algum tipo de posto comercial.",
+    "path": "/apexDescription"
+  }
+]

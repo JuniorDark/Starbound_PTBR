@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um secador de mão acessível. "}, {"op": "replace", "path": "/shortdescription", "value": "Bathroom Hand Dryer"}, {"op": "replace", "path": "/floranDescription", "value": "Floran seca mãos."}, {"op": "replace", "path": "/humanDescription", "value": "É um pouco básico."}, {"op": "replace", "path": "/avianDescription", "value": "Isto é certo de amarrotar algumas penas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os Hylotl não precisam secar as mãos."}, {"op": "replace", "path": "/apexDescription", "value": "Um secador de mão. Gostaria de saber se ele funciona em cabelos densos Apex."}, {"op": "replace", "path": "/novakidDescription", "value": "Um dispositivo para secar as mãos molhadas."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Um secador de mão - útil para prevenir a ferrugem."}]
+[
+  {
+    "op": "replace",
+    "value": "Um dispositivo para secar as mãos molhadas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um secador de mão. Gostaria de saber se ele funciona em cabelos densos Apex.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um secador de mão acessível. ",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bathroom Hand Dryer",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran seca mãos.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um pouco básico.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Um secador de mão - útil para prevenir a ferrugem.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Hylotl não precisam secar as mãos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto é certo de amarrotar algumas penas.",
+    "path": "/avianDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Essas cortinas não são muito largas. Você não poderia cobrir uma janela com elas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este é um tecido de cores maçantes e sensação áspera."}, {"op": "replace", "path": "/description", "value": "Um conjunto fino de cortinas curtas."}, {"op": "replace", "path": "/glitchDescription", "value": "Confuso. Cortinas muito curtas de propósito."}, {"op": "replace", "path": "/avianDescription", "value": "Folhas finas de tecido. Eles são pequenos demais para cobrir qualquer janela."}, {"op": "replace", "path": "/shortdescription", "value": "Standard Issue Curtain"}, {"op": "replace", "path": "/floranDescription", "value": "Apex bobo, fazer cortina muito pequena para cobrir janela."}, {"op": "replace", "path": "/apexDescription", "value": "Essas cortinas não fecham. Privacidade não é a prioridade."}, {"op": "replace", "path": "/novakidDescription", "value": "Algumas cortinas. Elas parecem muito curtas para cobrir a janela."}]
+[
+  {
+    "op": "replace",
+    "value": "Um conjunto fino de cortinas curtas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Cortinas muito curtas de propósito.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas cortinas. Elas parecem muito curtas para cobrir a janela.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apex bobo, fazer cortina muito pequena para cobrir janela.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Standard Issue Curtain",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas cortinas não são muito largas. Você não poderia cobrir uma janela com elas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas cortinas não fecham. Privacidade não é a prioridade.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Folhas finas de tecido. Eles são pequenos demais para cobrir qualquer janela.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este é um tecido de cores maçantes e sensação áspera.",
+    "path": "/hylotlDescription"
+  }
+]

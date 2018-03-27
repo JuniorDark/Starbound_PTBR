@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Phase Matter"}, {"op": "replace", "path": "/description", "value": "Uma substância que parece ser quase intangível. Pode ser usada para fabricação."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma substância que parece ser quase intangível. Pode ser usada para fabricação.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Phase Matter",
+    "path": "/shortdescription"
+  }
+]

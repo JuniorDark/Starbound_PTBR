@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran não pode se esconder atrás da mesa, mesa é muito distrativa!"}, {"op": "replace", "path": "/description", "value": "Uma mesa lisa cortada de um vidro refractário."}, {"op": "replace", "path": "/shortdescription", "value": "Prism Table"}, {"op": "replace", "path": "/glitchDescription", "value": "Animado. Eu poderia colocar alguns enfeites agradáveis sobre isso!"}, {"op": "replace", "path": "/apexDescription", "value": "Eu teria medo de derramar algo nesta mesa limpa."}, {"op": "replace", "path": "/humanDescription", "value": "Esta é uma mesa muito elegante para jantar."}, {"op": "replace", "path": "/avianDescription", "value": "Um pedaço de artesanato fino, de fato."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta mesa brilha com um espectro inteiro de cores dentro."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu poderia tomar café da manhã fora disso, eu lhe digo que muito."}]
+[
+  {
+    "op": "replace",
+    "value": "Um pedaço de artesanato fino, de fato.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa lisa cortada de um vidro refractário.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. Eu poderia colocar alguns enfeites agradáveis sobre isso!",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não pode se esconder atrás da mesa, mesa é muito distrativa!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu poderia tomar café da manhã fora disso, eu lhe digo que muito.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu teria medo de derramar algo nesta mesa limpa.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Prism Table",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é uma mesa muito elegante para jantar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa brilha com um espectro inteiro de cores dentro.",
+    "path": "/hylotlDescription"
+  }
+]

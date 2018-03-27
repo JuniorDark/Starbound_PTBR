@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran gosssta da cadeira de planta. Cadeira de planta é amiga."}, {"op": "replace", "path": "/shortdescription", "value": "Alien Chair"}, {"op": "replace", "path": "/description", "value": "Uma cadeira alienígena. Parece estar viva."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. A cadeira é feita a partir de material orgânico alienígena."}, {"op": "replace", "path": "/apexDescription", "value": "Eu preferiria algo menos orgânico."}, {"op": "replace", "path": "/humanDescription", "value": "Isso é uma cadeira alienígena? Eu não quero colocar meu traseiro nela."}, {"op": "replace", "path": "/avianDescription", "value": "Uma cadeira fora do comum."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma cadeira feita de plantas alienígenas."}, {"op": "replace", "path": "/novakidDescription", "value": "Essa cadeira é feita de plantas alienígenas?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira feita de plantas alienígenas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alien Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira alienígena. Parece estar viva.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira fora do comum.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosssta da cadeira de planta. Cadeira de planta é amiga.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu preferiria algo menos orgânico.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é uma cadeira alienígena? Eu não quero colocar meu traseiro nela.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa cadeira é feita de plantas alienígenas?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. A cadeira é feita a partir de material orgânico alienígena.",
+    "path": "/glitchDescription"
+  }
+]

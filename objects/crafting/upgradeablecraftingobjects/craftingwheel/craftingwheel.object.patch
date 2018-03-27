@@ -1,1 +1,157 @@
-[{"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/floranDescription", "value": "Floran costura com máquina, trabalho com fios."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/description", "value": "A roda de fiar é usada para produzir vestuário, tecidos e outros ingredientes de fabricação."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/description", "value": "A máquina de costura é usada para produzir vestuário, tecidos e outros ingredientes de fabricação."}, {"op": "replace", "path": "/description", "value": "A roda de fiar é usada para produzir vestuário, tecidos e outros ingredientes de fabricação."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/shortdescription", "value": "^orange;Spinning Wheel^white;"}, {"op": "replace", "path": "/shortdescription", "value": "^orange;Spinning Wheel^white;"}, {"op": "replace", "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title", "value": "Roda de Fiar"}, {"op": "replace", "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title", "value": "Máquina de Costura"}, {"op": "replace", "path": "/floranDescription", "value": "Floran costura com máquina, trabalho com fios."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/shortdescription", "value": "^orange;Sewing Machine^white;"}, {"op": "replace", "path": "/glitchDescription", "value": "Atento. Uma roda de fiar."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/avianDescription", "value": "Uma ferramenta para trabalhar com fios."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/avianDescription", "value": "Uma ferramenta para trabalhar com fios."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/floranDescription", "value": "Floran costura com máquina, trabalho com fios."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription", "value": "Atento. Uma roda de fiar."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription", "value": "Atento. Uma ferramenta de alfaiataria avançada."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/apexDescription", "value": "Uma roda de fiar. Uma ferramenta para alfaiates."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/apexDescription", "value": "Uma roda de fiar. Uma ferramenta para alfaiates."}, {"op": "replace", "path": "/apexDescription", "value": "Uma roda de fiar. Uma ferramenta para alfaiates."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/humanDescription", "value": "Uma roda de fiar de madeira. Então, à moda antiga é quase pitoresca."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/humanDescription", "value": "Uma máquina de costura. Bastante padrão."}, {"op": "replace", "path": "/humanDescription", "value": "Uma roda de fiar de madeira. Então, à moda antiga é quase pitoresca."}, {"op": "replace", "path": "/avianDescription", "value": "Uma ferramenta para trabalhar com fios."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription", "value": "Os Hylotl consideram fiação uma forma de arte."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription", "value": "Pode não ser tão tradicional, mas uma máquina de costura é certamente muito mais eficiente."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os Hylotl consideram fiação uma forma de arte."}, {"op": "replace", "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "^#b9b5b2;Têxteis e tinturas"}, {"op": "replace", "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "^#b9b5b2;Têxteis e tinturas"}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription", "value": "Talvez eu possa fazer uma camisa nova pra mim nisso."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription", "value": "Talvez eu possa fazer uma camisa nova pra mim nisso."}, {"op": "replace", "path": "/novakidDescription", "value": "Talvez eu possa fazer uma camisa nova pra mim nisso."}]
+[
+  {
+    "op": "replace",
+    "value": "Máquina de Costura",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Roda de Fiar",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Têxteis e tinturas",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Têxteis e tinturas",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Uma roda de fiar. Uma ferramenta para alfaiates.",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma máquina de costura. Bastante padrão.",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma roda de fiar. Uma ferramenta para alfaiates.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma roda de fiar. Uma ferramenta para alfaiates.",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma ferramenta para trabalhar com fios.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma ferramenta para trabalhar com fios.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma ferramenta para trabalhar com fios.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma roda de fiar de madeira. Então, à moda antiga é quase pitoresca.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma roda de fiar de madeira. Então, à moda antiga é quase pitoresca.",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran costura com máquina, trabalho com fios.",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran costura com máquina, trabalho com fios.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran costura com máquina, trabalho com fios.",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pode não ser tão tradicional, mas uma máquina de costura é certamente muito mais eficiente.",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez eu possa fazer uma camisa nova pra mim nisso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez eu possa fazer uma camisa nova pra mim nisso.",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez eu possa fazer uma camisa nova pra mim nisso.",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Uma roda de fiar.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Uma roda de fiar.",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Uma ferramenta de alfaiataria avançada.",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Hylotl consideram fiação uma forma de arte.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Hylotl consideram fiação uma forma de arte.",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A máquina de costura é usada para produzir vestuário, tecidos e outros ingredientes de fabricação.",
+    "path": "/upgradeStages/1/itemSpawnParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "A roda de fiar é usada para produzir vestuário, tecidos e outros ingredientes de fabricação.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A roda de fiar é usada para produzir vestuário, tecidos e outros ingredientes de fabricação.",
+    "path": "/upgradeStages/0/itemSpawnParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Sewing Machine^white;",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Spinning Wheel^white;",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Spinning Wheel^white;",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription"
+  }
+]

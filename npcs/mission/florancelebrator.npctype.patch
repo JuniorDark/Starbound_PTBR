@@ -1,1 +1,102 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/16", "value": "Sucessso!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/14", "value": "Nuru é a vencedora! ...Novamente."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Não tenho nada a dizer para você"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/0", "value": "A Caçada esstá ganha!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/1", "value": "Nuru retornou! Mas quem é o essstranho?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/2", "value": "Acabou!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/3", "value": "Será que esse essstranho ganhou!?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/4", "value": "A carne fresca ganhou!?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/5", "value": "Nuru tem um parceiro agora?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/6", "value": "É um empate!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/15", "value": "Uma celebração é devida!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/17", "value": "Para os vencedores, os despojos!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/7", "value": "Espere, A Caçada empatou?!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/8", "value": "O esstranho sobreviveu?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/9", "value": "Nós temosss um vencedor!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/18", "value": "Saude os caçadores sssupremos!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/10", "value": "A Caçada acabou!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/11", "value": "Nuru venceu novamente!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/12", "value": "Os vencedoresss!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/13", "value": "A presa foi morta!"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma celebração é devida!",
+    "path": "/scriptConfig/dialog/converse/floran/default/15"
+  },
+  {
+    "op": "replace",
+    "value": "Será que esse essstranho ganhou!?",
+    "path": "/scriptConfig/dialog/converse/floran/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Saude os caçadores sssupremos!",
+    "path": "/scriptConfig/dialog/converse/floran/default/18"
+  },
+  {
+    "op": "replace",
+    "value": "Não tenho nada a dizer para você",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Acabou!",
+    "path": "/scriptConfig/dialog/converse/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "É um empate!",
+    "path": "/scriptConfig/dialog/converse/floran/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Nuru tem um parceiro agora?",
+    "path": "/scriptConfig/dialog/converse/floran/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Nuru é a vencedora! ...Novamente.",
+    "path": "/scriptConfig/dialog/converse/floran/default/14"
+  },
+  {
+    "op": "replace",
+    "value": "Nuru retornou! Mas quem é o essstranho?",
+    "path": "/scriptConfig/dialog/converse/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Nuru venceu novamente!",
+    "path": "/scriptConfig/dialog/converse/floran/default/11"
+  },
+  {
+    "op": "replace",
+    "value": "Sucessso!",
+    "path": "/scriptConfig/dialog/converse/floran/default/16"
+  },
+  {
+    "op": "replace",
+    "value": "A Caçada acabou!",
+    "path": "/scriptConfig/dialog/converse/floran/default/10"
+  },
+  {
+    "op": "replace",
+    "value": "A Caçada esstá ganha!",
+    "path": "/scriptConfig/dialog/converse/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "A carne fresca ganhou!?",
+    "path": "/scriptConfig/dialog/converse/floran/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "A presa foi morta!",
+    "path": "/scriptConfig/dialog/converse/floran/default/13"
+  },
+  {
+    "op": "replace",
+    "value": "O esstranho sobreviveu?",
+    "path": "/scriptConfig/dialog/converse/floran/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Os vencedoresss!",
+    "path": "/scriptConfig/dialog/converse/floran/default/12"
+  },
+  {
+    "op": "replace",
+    "value": "Para os vencedores, os despojos!",
+    "path": "/scriptConfig/dialog/converse/floran/default/17"
+  },
+  {
+    "op": "replace",
+    "value": "Espere, A Caçada empatou?!",
+    "path": "/scriptConfig/dialog/converse/floran/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Nós temosss um vencedor!",
+    "path": "/scriptConfig/dialog/converse/floran/default/9"
+  }
+]

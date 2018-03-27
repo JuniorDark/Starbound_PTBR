@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Yarr! Eu perdi meu olho em um acidente infeliz durante a abertura de um jarro."}, {"op": "replace", "path": "/shortdescription", "value": "Pirate Bandana"}]
+[
+  {
+    "op": "replace",
+    "value": "Pirate Bandana",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Yarr! Eu perdi meu olho em um acidente infeliz durante a abertura de um jarro.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Este livro está cheio de ilustrações estranhas."}, {"op": "replace", "path": "/shortdescription", "value": "Medieval Codex"}, {"op": "replace", "path": "/floranDescription", "value": "Está cheio de fotoss."}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Um compêndio de ilustrações antigas."}, {"op": "replace", "path": "/apexDescription", "value": "Um livro. Está inteiramente cheio de retratos."}, {"op": "replace", "path": "/avianDescription", "value": "Há fotos de muitas pessoas diferentes neste livro."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este livro parece ser importante. Cada página contém retratos de pessoas desconhecidas."}, {"op": "replace", "path": "/novakidDescription", "value": "Um livro de fotos."}, {"op": "replace", "path": "/humanDescription", "value": "Parece ser algum tipo de almanaque. Há ilustrações aqui de muitas pessoas diferentes."}]
+[
+  {
+    "op": "replace",
+    "value": "Um livro. Está inteiramente cheio de retratos.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um livro de fotos.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Um compêndio de ilustrações antigas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece ser algum tipo de almanaque. Há ilustrações aqui de muitas pessoas diferentes.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Está cheio de fotoss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Medieval Codex",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há fotos de muitas pessoas diferentes neste livro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este livro está cheio de ilustrações estranhas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Este livro parece ser importante. Cada página contém retratos de pessoas desconhecidas.",
+    "path": "/hylotlDescription"
+  }
+]

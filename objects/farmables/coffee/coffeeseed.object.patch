@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Coffee Seed"}, {"op": "replace", "path": "/avianDescription", "value": "Grãos de café são um convite tentador, mas são extremamente amargos."}, {"op": "replace", "path": "/humanDescription", "value": "Café, a planta mais adorada conhecida pelo homem."}, {"op": "replace", "path": "/apexDescription", "value": "Café é procurado por suas propriedades estimulantes."}, {"op": "replace", "path": "/hylotlDescription", "value": "Vendo além de seu sabor amargo o café é um recurso útil."}, {"op": "replace", "path": "/novakidDescription", "value": "Café tem um cheiro bom, mas nunca notei qualquer efeitos colaterais benéficos por beber."}, {"op": "replace", "path": "/description", "value": "Os grãos de café podem ser fervidos para fazer uma bebida saborosa."}, {"op": "replace", "path": "/floranDescription", "value": "Café mantém Floran acordado."}, {"op": "replace", "path": "/glitchDescription", "value": "Ponderoso. Glitchs não vem nenhuma utilidade para estes grãos amargos."}]
+[
+  {
+    "op": "replace",
+    "value": "Ponderoso. Glitchs não vem nenhuma utilidade para estes grãos amargos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Café é procurado por suas propriedades estimulantes.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Coffee Seed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os grãos de café podem ser fervidos para fazer uma bebida saborosa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Grãos de café são um convite tentador, mas são extremamente amargos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Café mantém Floran acordado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Café tem um cheiro bom, mas nunca notei qualquer efeitos colaterais benéficos por beber.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Café, a planta mais adorada conhecida pelo homem.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vendo além de seu sabor amargo o café é um recurso útil.",
+    "path": "/hylotlDescription"
+  }
+]

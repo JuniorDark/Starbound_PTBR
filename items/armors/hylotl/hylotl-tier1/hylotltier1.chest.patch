@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Este peitoral é produzido com uma antiga técnica Hylotl que tece ferro como palha."}, {"op": "replace", "path": "/shortdescription", "value": "Puddle Chestguard"}]
+[
+  {
+    "op": "replace",
+    "value": "Puddle Chestguard",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este peitoral é produzido com uma antiga técnica Hylotl que tece ferro como palha.",
+    "path": "/description"
+  }
+]

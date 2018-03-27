@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Uma planta afiada."}, {"op": "replace", "path": "/shortdescription", "value": "Uma planta afiada."}, {"op": "replace", "path": "/floranDescription", "value": "Uma flor afiada e molhada."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Uma planta afiada."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma planta afiada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta afiada.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma flor afiada e molhada.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Uma planta afiada.",
+    "path": "/glitchDescription"
+  }
+]

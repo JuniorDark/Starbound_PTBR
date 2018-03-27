@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Neutro. Algumas pedras cobertas de musgo."}, {"op": "replace", "path": "/humanDescription", "value": "Algumas pedras cobertas de musgo."}, {"op": "replace", "path": "/avianDescription", "value": "Apenas algumas pedras cobertas de musgo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um grupo de pedras cobertas de musgo."}, {"op": "replace", "path": "/description", "value": "Uma pilha de pedras cobertas de musgo."}, {"op": "replace", "path": "/shortdescription", "value": "Pile of Mossy Stones"}, {"op": "replace", "path": "/floranDescription", "value": "Pedrass."}, {"op": "replace", "path": "/apexDescription", "value": "Algumas pedras."}, {"op": "replace", "path": "/novakidDescription", "value": "Apenas algumas pedras."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pilha de pedras cobertas de musgo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pedrasss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um grupo de pedras cobertas de musgo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas algumas pedras cobertas de musgo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas algumas pedras.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Algumas pedras cobertas de musgo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pile of Mossy Stones",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas pedras cobertas de musgo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas pedras.",
+    "path": "/apexDescription"
+  }
+]

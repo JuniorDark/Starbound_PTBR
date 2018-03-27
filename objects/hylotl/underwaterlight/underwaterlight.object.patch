@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Esta luz parece ser à prova d'água para que possa funcionar na água."}, {"op": "replace", "path": "/description", "value": "Uma luz protegida por uma gaiola de vidro."}, {"op": "replace", "path": "/humanDescription", "value": "É uma luz projetada para funcionar quando exposta à água."}, {"op": "replace", "path": "/shortdescription", "value": "Waterproof Light"}, {"op": "replace", "path": "/floranDescription", "value": "Lâmpada."}, {"op": "replace", "path": "/glitchDescription", "value": "Normal. Uma luz à prova d' água."}, {"op": "replace", "path": "/apexDescription", "value": "Uma lâmpada normal, protegida para que possa funcionar debaixo d'água."}, {"op": "replace", "path": "/hylotlDescription", "value": "É uma simples lâmpada resistente à água."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma lâmpada embaixo de um vidro."}]
+[
+  {
+    "op": "replace",
+    "value": "É uma luz projetada para funcionar quando exposta à água.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lâmpada.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz parece ser à prova d'água para que possa funcionar na água.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz protegida por uma gaiola de vidro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada embaixo de um vidro.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada normal, protegida para que possa funcionar debaixo d'água.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma simples lâmpada resistente à água.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Normal. Uma luz à prova d' água.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Waterproof Light",
+    "path": "/shortdescription"
+  }
+]

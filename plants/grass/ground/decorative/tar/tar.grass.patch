@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Piche grosso e grudento"}, {"op": "replace", "path": "/shortdescription", "value": "Piche grudento."}, {"op": "replace", "path": "/floranDescription", "value": "Grudento."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Piche útil."}]
+[
+  {
+    "op": "replace",
+    "value": "Grudento.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Piche grosso e grudento",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Piche útil.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Piche grudento.",
+    "path": "/shortdescription"
+  }
+]

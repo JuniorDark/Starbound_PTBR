@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Quem colocou esta coroa de flores aqui queria que as pessoas se sentissem bem-vindas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta porta é projetada para ser acolhedora."}, {"op": "replace", "path": "/description", "value": "Uma porta com uma coroa de flores alegre nela."}, {"op": "replace", "path": "/shortdescription", "value": "Giant Flower Door"}, {"op": "replace", "path": "/floranDescription", "value": "Floran usa coroa de flores como placa para clube de caça sssecreto."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Uma porta com uma coroa de flores nela."}, {"op": "replace", "path": "/apexDescription", "value": "Uma porta de madeira enfeitada com uma coroa de flores acolhedora."}, {"op": "replace", "path": "/humanDescription", "value": "Que porta alegre."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma porta agradável para uma casa acolhedora. Como um sorriso agradável em uma cara amigável."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta com uma coroa de flores alegre nela.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta agradável para uma casa acolhedora. Como um sorriso agradável em uma cara amigável.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta de madeira enfeitada com uma coroa de flores acolhedora.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran usa coroa de flores como placa para clube de caça sssecreto.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Giant Flower Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Uma porta com uma coroa de flores nela.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta é projetada para ser acolhedora.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que porta alegre.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quem colocou esta coroa de flores aqui queria que as pessoas se sentissem bem-vindas.",
+    "path": "/avianDescription"
+  }
+]

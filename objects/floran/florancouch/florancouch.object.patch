@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um sofá feito de peles de couro e ossos grandes."}, {"op": "replace", "path": "/floranDescription", "value": "Floran com grande matança faz sofá de osso. Outros Floran sentam no sofá. Admiram a matança de Floran."}, {"op": "replace", "path": "/glitchDescription", "value": "Com nojo. Há manchas de sangue no couro."}, {"op": "replace", "path": "/humanDescription", "value": "Este sofá parece que pertenceria a um Floran particularmente sanguinário."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu simplesmente não consigo ver como alguém pode relaxar em um sofá tão pontudo."}, {"op": "replace", "path": "/avianDescription", "value": "Estes ossos são tão suaves como eles são afiados."}, {"op": "replace", "path": "/shortdescription", "value": "Primitive Couch"}, {"op": "replace", "path": "/hylotlDescription", "value": "Imaginar Florans sentados sobre os ossos de uma coisa viva me enche de desgosto."}, {"op": "replace", "path": "/apexDescription", "value": "Um sofá construído de ossos e couro."}]
+[
+  {
+    "op": "replace",
+    "value": "Um sofá construído de ossos e couro.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um sofá feito de peles de couro e ossos grandes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Com nojo. Há manchas de sangue no couro.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran com grande matança faz sofá de osso. Outros Floran sentam no sofá. Admiram a matança de Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu simplesmente não consigo ver como alguém pode relaxar em um sofá tão pontudo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Primitive Couch",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes ossos são tão suaves como eles são afiados.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este sofá parece que pertenceria a um Floran particularmente sanguinário.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Imaginar Florans sentados sobre os ossos de uma coisa viva me enche de desgosto.",
+    "path": "/hylotlDescription"
+  }
+]

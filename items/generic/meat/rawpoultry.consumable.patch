@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Carne de ave crua. Talvez queira cozinhar isso primeiro..."}, {"op": "replace", "path": "/shortdescription", "value": "Raw Poultry"}]
+[
+  {
+    "op": "replace",
+    "value": "Raw Poultry",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Carne de ave crua. Talvez queira cozinhar isso primeiro...",
+    "path": "/description"
+  }
+]

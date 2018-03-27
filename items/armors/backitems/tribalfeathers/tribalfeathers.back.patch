@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Tribal Feathers"}, {"op": "replace", "path": "/description", "value": "Penas decorativas para enfeitar seu traseiro."}]
+[
+  {
+    "op": "replace",
+    "value": "Penas decorativas para enfeitar seu traseiro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Tribal Feathers",
+    "path": "/shortdescription"
+  }
+]

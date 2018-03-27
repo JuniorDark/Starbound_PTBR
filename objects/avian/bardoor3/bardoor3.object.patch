@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Isso é uma porta de aparência fortíssima."}, {"op": "replace", "path": "/shortdescription", "value": "Large Portcullis"}, {"op": "replace", "path": "/floranDescription", "value": "Porta de metal forte."}, {"op": "replace", "path": "/glitchDescription", "value": "Melancólico. Este rastrilho me lembra do lugar onde eu fui montado."}, {"op": "replace", "path": "/apexDescription", "value": "Estou farto de barras e correntes."}, {"op": "replace", "path": "/humanDescription", "value": "Um rastrilho, é como voltar no tempo! Muito autêntico."}, {"op": "replace", "path": "/avianDescription", "value": "Um portão sólido, muito capaz de repelir invasores."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta porta é muito hostil."}, {"op": "replace", "path": "/description", "value": "Este rastrilho de ferro maciço fecha com um som sombrio."}]
+[
+  {
+    "op": "replace",
+    "value": "Um rastrilho, é como voltar no tempo! Muito autêntico.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um portão sólido, muito capaz de repelir invasores.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estou farto de barras e correntes.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Large Portcullis",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Porta de metal forte.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é uma porta de aparência fortíssima.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta é muito hostil.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este rastrilho de ferro maciço fecha com um som sombrio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Melancólico. Este rastrilho me lembra do lugar onde eu fui montado.",
+    "path": "/glitchDescription"
+  }
+]

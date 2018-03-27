@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Vine Fist ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Liberte o poder da natureza!"}, {"op": "replace", "path": "/shortdescription", "value": "Vine Fist"}]
+[
+  {
+    "op": "replace",
+    "value": "Liberte o poder da natureza!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Vine Fist",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vine Fist ^yellow;^reset;",
+    "path": "/upgradeParameters/shortdescription"
+  }
+]

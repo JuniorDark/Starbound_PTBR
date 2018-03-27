@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A etiqueta diz, \"Quando ele fecha os olhos torna-se imune a ataques ao entrar em um plano diferente de existência.\""}, {"op": "replace", "path": "/shortdescription", "value": "Spookit Figurine"}]
+[
+  {
+    "op": "replace",
+    "value": "Spookit Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"Quando ele fecha os olhos torna-se imune a ataques ao entrar em um plano diferente de existência.\"",
+    "path": "/description"
+  }
+]

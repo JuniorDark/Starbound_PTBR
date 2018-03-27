@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Uma consciência coletiva de parasitas tipo verme entrelaçados em um antigo canhão de energia.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Omnicannon",
+    "path": "/shortdescription"
+  }
+]

@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma tela exibindo uma série de fotografias com temas espaciais."
+    "value": "Uma tela exibindo uma série de fotografias com temas espaciais.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Esta grande tela mostra imagens de espaço profundo."
+    "value": "Curioso. Essas imagens são de locais específicos no espaço, eles estão de alguma forma conectados?",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "A resolução dessas fotos é incrível."
+    "value": "Apenas a maior televisão que eu já vi, só tem um canal embora.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Imagens ssserenas de locais espaciais."
+    "value": "Space Slideshow",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Curioso. Essas imagens são de locais específicos no espaço, eles estão de alguma forma conectados?"
+    "value": "Imagens ssserenas de locais espaciais.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Com esta tela eu poderia ver o espaço da segurança de um sofá"
+    "value": "A resolução dessas fotos é incrível.",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Esta tela exibe fotografias de alta resolução do espaço."
+    "value": "Esta grande tela mostra imagens de espaço profundo.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Apenas a maior televisão que eu já vi, só tem um canal embora."
+    "value": "Esta tela exibe fotografias de alta resolução do espaço.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Com esta tela eu poderia ver o espaço da segurança de um sofá",
+    "path": "/humanDescription"
   }
 ]

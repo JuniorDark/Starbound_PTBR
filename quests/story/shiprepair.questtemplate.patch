@@ -1,1 +1,32 @@
-[{"op": "replace", "path": "/text", "value": "Em primeiro lugar, querido(a), você precisa de uma ^orange;nave em boas condições de funcionamento^reset;. Quem sabe o quão longe você vai ter que viajar antes de acabarmos. Acho que você deveria voltar para o ^green;Posto Avançado e falar com ^orange;Penguin Pete o capitão do estaleiro.^reset;"}, {"op": "replace", "path": "/scriptConfig/descriptions/repairShip", "value": "^green;Conserte sua ^orange;nave^reset;."}, {"op": "replace", "path": "/scriptConfig/descriptions/findEsther", "value": "^green;Fale com ^orange;Esther Bright^white; no ^orange;Ark^white;"}, {"op": "replace", "path": "/scriptConfig/descriptions/findMechanic", "value": "^green;Encontre ^orange;Penguin Pete^white; no ^orange;posto avançado^white;"}, {"op": "replace", "path": "/title", "value": "Torne-se Digno do Espaço "}, {"op": "replace", "path": "/completionText", "value": "Isso não foi uma tarefa fácil - bem feito, querido(a). Agora que sua nave está em pleno funcionamento, podemos começar a fazer a tarefa em questão."}]
+[
+  {
+    "op": "replace",
+    "value": "Torne-se Digno do Espaço ",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Em primeiro lugar, querido(a), você precisa de uma ^orange;nave em boas condições de funcionamento^reset;. Quem sabe o quão longe você vai ter que viajar antes de acabarmos. Acho que você deveria voltar para o ^green;Posto Avançado e falar com ^orange;Penguin Pete o capitão do estaleiro.^reset;",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "Isso não foi uma tarefa fácil - bem feito, querido(a). Agora que sua nave está em pleno funcionamento, podemos começar a fazer a tarefa em questão.",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Encontre ^orange;Penguin Pete^white; no ^orange;posto avançado^white;",
+    "path": "/scriptConfig/descriptions/findMechanic"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Conserte sua ^orange;nave^reset;.",
+    "path": "/scriptConfig/descriptions/repairShip"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Fale com ^orange;Esther Bright^white; no ^orange;Ark^white;",
+    "path": "/scriptConfig/descriptions/findEsther"
+  }
+]

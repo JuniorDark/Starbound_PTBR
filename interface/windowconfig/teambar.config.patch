@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/paneLayout/name/value", "value": "Beefjeff"}]
+[
+  {
+    "op": "replace",
+    "value": "Beefjeff",
+    "path": "/paneLayout/name/value"
+  }
+]

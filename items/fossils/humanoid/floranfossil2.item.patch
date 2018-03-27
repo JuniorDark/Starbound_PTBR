@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um torso de Floran fossilizado"}, {"op": "replace", "path": "/shortdescription", "value": "Floran Torso"}]
+[
+  {
+    "op": "replace",
+    "value": "Um torso de Floran fossilizado",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran Torso",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Acho que tenho algo em comum com os gases brilhantes nesta velha lâmpada."}, {"op": "replace", "path": "/description", "value": "Uma lâmpada de parede elétrica, cheia de um gás fluido e brilhante."}, {"op": "replace", "path": "/shortdescription", "value": "Steampunk Lamp"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não consssegue parar de olhar lâmpada."}, {"op": "replace", "path": "/glitchDescription", "value": "Hipnotizado. As substâncias que fluem dentro desta lâmpada são fascinantes."}, {"op": "replace", "path": "/apexDescription", "value": "Eu suspeito que a lâmpada funciona através de gases de xenônio ionizante com uma carga elétrica."}, {"op": "replace", "path": "/humanDescription", "value": "Os gases grossos dentro movem-se à medida que brilham. É quase hipnótico."}, {"op": "replace", "path": "/avianDescription", "value": "Que lâmpada curiosa. Pergunto-me como é feita?"}, {"op": "replace", "path": "/hylotlDescription", "value": "A ondulação dentro desta lâmpada é bastante calmante."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lâmpada de parede elétrica, cheia de um gás fluido e brilhante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não consssegue parar de olhar lâmpada.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Acho que tenho algo em comum com os gases brilhantes nesta velha lâmpada.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu suspeito que a lâmpada funciona através de gases de xenônio ionizante com uma carga elétrica.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hipnotizado. As substâncias que fluem dentro desta lâmpada são fascinantes.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Steampunk Lamp",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A ondulação dentro desta lâmpada é bastante calmante.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os gases grossos dentro movem-se à medida que brilham. É quase hipnótico.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que lâmpada curiosa. Pergunto-me como é feita?",
+    "path": "/avianDescription"
+  }
+]

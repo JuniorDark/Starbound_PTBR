@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/description", "value": "Um Anúncio de Serviço Público da Miniknog para a população Apex."}, {"op": "replace", "path": "/title", "value": "Divergência em nosso Meio!"}, {"op": "replace", "path": "/contentPages/0", "value": "^red;DENUNCIE AS MENTIRAS DOS REBELDES!^white;\n\nA presença insidiosa da Rebelião Anti-Miniknog significa ^red;DESTRUIR O NOSSO CAMINHO NA VIDA!^white;\n\nSe você suspeita que um colega, amigo ou membro da família seja um rebelde, ^red;INFORME O SEU REPRESENTANTE LOCAL DA MINIKNOG AGORA!^white;\n\nRebelião é ^red;PUNÍVEL COM A MORTE!^white;\n\nSempre se lembre: ^red;BIG APE ESTÁ TE VIGIANDO!^white;."}]
+[
+  {
+    "op": "replace",
+    "value": "Um Anúncio de Serviço Público da Miniknog para a população Apex.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Divergência em nosso Meio!",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "^red;DENUNCIE AS MENTIRAS DOS REBELDES!^white;\n\nA presença insidiosa da Rebelião Anti-Miniknog significa ^red;DESTRUIR O NOSSO CAMINHO NA VIDA!^white;\n\nSe você suspeita que um colega, amigo ou membro da família seja um rebelde, ^red;INFORME O SEU REPRESENTANTE LOCAL DA MINIKNOG AGORA!^white;\n\nRebelião é ^red;PUNÍVEL COM A MORTE!^white;\n\nSempre se lembre: ^red;BIG APE ESTÁ TE VIGIANDO!^white;.",
+    "path": "/contentPages/0"
+  }
+]

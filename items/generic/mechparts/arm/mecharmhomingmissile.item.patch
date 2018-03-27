@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um braço de mecha militar que dispara um míssil teleguiado com sistemas de orientação a bordo."
+    "value": "Um braço de mecha militar que dispara um míssil teleguiado com sistemas de orientação a bordo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Homing Missile Mech Arm",
+    "path": "/shortdescription"
   }
 ]

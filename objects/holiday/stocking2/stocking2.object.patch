@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Meia felpuda essstúpida. Algo dentro?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma meia berrante. Por que está pendurada na parede? Há alguma coisa dentro?"}, {"op": "replace", "path": "/novakidDescription", "value": "Meias não são boas em uma parede, o que vai manter seus pés aquecidos?"}, {"op": "replace", "path": "/description", "value": "Uma meia vermelha felpuda. Um pouco grande para o pé de qualquer um."}, {"op": "replace", "path": "/shortdescription", "value": "Crooked Stocking"}, {"op": "replace", "path": "/apexDescription", "value": "Uma tradição estranha. Por que pendurar meias na parede? Há alguma coisa dentro dela?"}, {"op": "replace", "path": "/humanDescription", "value": "O Pai Noel me deixou alguma coisa este ano? Um pedaço de carvão, talvez?"}, {"op": "replace", "path": "/avianDescription", "value": "Eu nunca usaria isso. Há alguma coisa dentro dela?"}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Por que uma meia foi pendurada na parede? Há algo dentro?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma meia vermelha felpuda. Um pouco grande para o pé de qualquer um.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma meia berrante. Por que está pendurada na parede? Há alguma coisa dentro?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tradição estranha. Por que pendurar meias na parede? Há alguma coisa dentro dela?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Por que uma meia foi pendurada na parede? Há algo dentro?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O Pai Noel me deixou alguma coisa este ano? Um pedaço de carvão, talvez?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu nunca usaria isso. Há alguma coisa dentro dela?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Meias não são boas em uma parede, o que vai manter seus pés aquecidos?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Meia felpuda essstúpida. Algo dentro?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Crooked Stocking",
+    "path": "/shortdescription"
+  }
+]

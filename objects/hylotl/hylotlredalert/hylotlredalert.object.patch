@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Um alerta azul é diferente de um alerta de emergência vermelho?"}, {"op": "replace", "path": "/floranDescription", "value": "Sirene azul piscante é alta."}, {"op": "replace", "path": "/glitchDescription", "value": "Nervoso. Uma sirene que anuncia uma emergência."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma luz de advertência para quando o perigo está próximo."}, {"op": "replace", "path": "/description", "value": "Um alarme azul brilhante."}, {"op": "replace", "path": "/shortdescription", "value": "Blue Alert"}, {"op": "replace", "path": "/avianDescription", "value": "Uma luz piscante e sirene que sinalizam uma emergência."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma luz que sinaliza uma emergência."}, {"op": "replace", "path": "/apexDescription", "value": "Esta luz piscará e um alarme soará quando houver uma emergência."}]
+[
+  {
+    "op": "replace",
+    "value": "Um alarme azul brilhante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz piscante e sirene que sinalizam uma emergência.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz que sinaliza uma emergência.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz de advertência para quando o perigo está próximo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Blue Alert",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sirene azul piscante é alta.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um alerta azul é diferente de um alerta de emergência vermelho?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nervoso. Uma sirene que anuncia uma emergência.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz piscará e um alarme soará quando houver uma emergência.",
+    "path": "/apexDescription"
+  }
+]

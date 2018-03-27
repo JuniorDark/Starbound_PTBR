@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Esta massa carnuda parece ser parte do estômago de alguma criatura."}, {"op": "replace", "path": "/shortdescription", "value": "Stomach Lining"}]
+[
+  {
+    "op": "replace",
+    "value": "Algum tipo de carne viscosa.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Carne viscosa.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Stomach Lining",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta massa carnuda parece ser parte do estômago de alguma criatura.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Desconfortável. Esta massa viscosa olha e cheira terrível.",
+    "path": "/glitchdescription"
+  }
+]

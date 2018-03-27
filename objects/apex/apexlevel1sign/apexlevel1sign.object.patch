@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Nível um, quantos níveis existem?"}, {"op": "replace", "path": "/description", "value": "Vai Macaco!"}, {"op": "replace", "path": "/shortdescription", "value": "Apex Level 01 Sign"}, {"op": "replace", "path": "/floranDescription", "value": "Posso pular o nível um?"}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Atualmente, estou no nível um."}, {"op": "replace", "path": "/apexDescription", "value": "Acho que estou no nível um."}, {"op": "replace", "path": "/avianDescription", "value": "Quantos níveis existem?"}, {"op": "replace", "path": "/hylotlDescription", "value": "É preciso começar no início."}, {"op": "replace", "path": "/novakidDescription", "value": "Parece que eu cheguei ao nível um."}]
+[
+  {
+    "op": "replace",
+    "value": "Apex Level 01 Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso pular o nível um?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vai Macaco!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Quantos níveis existem?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Acho que estou no nível um.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que eu cheguei ao nível um.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nível um, quantos níveis existem?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Atualmente, estou no nível um.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É preciso começar no início.",
+    "path": "/hylotlDescription"
+  }
+]

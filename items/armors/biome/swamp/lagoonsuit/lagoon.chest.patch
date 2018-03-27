@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Este peitoral pantanoso está coberto de escamas."}, {"op": "replace", "path": "/shortdescription", "value": "Lagoon Chestpiece"}]
+[
+  {
+    "op": "replace",
+    "value": "Lagoon Chestpiece",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este peitoral pantanoso está coberto de escamas.",
+    "path": "/description"
+  }
+]

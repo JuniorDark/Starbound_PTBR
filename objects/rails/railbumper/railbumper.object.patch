@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Limita o ponto final do trilho para enviar rail riders para o caminho que eles vieram"}, {"op": "replace", "path": "/shortdescription", "value": "Rail Bumper"}]
+[
+  {
+    "op": "replace",
+    "value": "Limita o ponto final do trilho para enviar rail riders para o caminho que eles vieram",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Rail Bumper",
+    "path": "/shortdescription"
+  }
+]

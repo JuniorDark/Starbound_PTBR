@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/paneLayout/cancel/caption", "value": "Cancelar"}, {"op": "replace", "path": "/paneLayout/windowtitle/title", "value": "Confirmação"}, {"op": "replace", "path": "/paneLayout/ok/caption", "value": "Ok"}]
+[
+  {
+    "op": "replace",
+    "value": "Cancelar",
+    "path": "/paneLayout/cancel/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Confirmação",
+    "path": "/paneLayout/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Ok",
+    "path": "/paneLayout/ok/caption"
+  }
+]

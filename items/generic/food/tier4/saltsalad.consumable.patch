@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Salt Salad"}, {"op": "replace", "path": "/description", "value": "Coralcreep, reefpod e pearlpea faz uma salada salgada e crocante."}]
+[
+  {
+    "op": "replace",
+    "value": "Coralcreep, reefpod e pearlpea faz uma salada salgada e crocante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Salt Salad",
+    "path": "/shortdescription"
+  }
+]

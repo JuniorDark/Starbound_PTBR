@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Ele não infla quando ele está com medo, mas sim quando ele está entediado. Ele sempre esta entediado."}, {"op": "replace", "path": "/shortdescription", "value": "Scarlet Swellpurl"}]
+[
+  {
+    "op": "replace",
+    "value": "Ele não infla quando ele está com medo, mas sim quando ele está entediado. Ele sempre esta entediado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Scarlet Swellpurl",
+    "path": "/shortdescription"
+  }
+]

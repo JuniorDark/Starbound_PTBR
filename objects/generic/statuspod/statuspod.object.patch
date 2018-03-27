@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma cápsula de status. Arrisque-se..."}, {"op": "replace", "path": "/shortdescription", "value": "Status Pod"}, {"op": "replace", "path": "/apexDescription", "value": "Uma cápsula de status. Terei sorte?"}, {"op": "replace", "path": "/avianDescription", "value": "Uma cápsula de status. Espero ter sorte."}, {"op": "replace", "path": "/hylotlDescription", "value": "Aposto que algo ruim acontece."}, {"op": "replace", "path": "/floranDescription", "value": "Floran ativa pequena capsula com abandono imprudente."}, {"op": "replace", "path": "/glitchDescription", "value": "Cauteloso. Os efeitos desta capsula de status não podem ser analisados."}, {"op": "replace", "path": "/humanDescription", "value": "É uma cápsula de status! Devo tentar a sorte ao acioná-la?"}, {"op": "replace", "path": "/novakidDescription", "value": "Uma cápsula de status! Espero que hoje seja meu dia de sorte!"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cápsula de status! Espero que hoje seja meu dia de sorte!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cápsula de status. Espero ter sorte.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cápsula de status. Arrisque-se...",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cápsula de status. Terei sorte?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. Os efeitos desta capsula de status não podem ser analisados.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ativa pequena capsula com abandono imprudente.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aposto que algo ruim acontece.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma cápsula de status! Devo tentar a sorte ao acioná-la?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Status Pod",
+    "path": "/shortdescription"
+  }
+]

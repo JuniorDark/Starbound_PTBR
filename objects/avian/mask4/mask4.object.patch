@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Esta máscara Avian não é muito precisa. Uma grande conquista."}, {"op": "replace", "path": "/description", "value": "Um pássaro bastante sério."}, {"op": "replace", "path": "/shortdescription", "value": "Decorative Bird Mask"}, {"op": "replace", "path": "/floranDescription", "value": "Homem-pássaro faz se parecer com raiva."}, {"op": "replace", "path": "/glitchDescription", "value": "Pensativo. Provavelmente esta máscara é suposto ser um Avian."}, {"op": "replace", "path": "/apexDescription", "value": "Parece uma máscara Avian."}, {"op": "replace", "path": "/humanDescription", "value": "Acho que é um Avian."}, {"op": "replace", "path": "/avianDescription", "value": "Esta máscara é um aviso para os grounded."}, {"op": "replace", "path": "/novakidDescription", "value": "É um rosto Avian? Nunca vi uma Avian com esse aspecto."}]
+[
+  {
+    "op": "replace",
+    "value": "Um pássaro bastante sério.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Decorative Bird Mask",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta máscara Avian não é muito precisa. Uma grande conquista.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta máscara é um aviso para os grounded.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pensativo. Provavelmente esta máscara é suposto ser um Avian.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Homem-pássaro faz se parecer com raiva.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Acho que é um Avian.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um rosto Avian? Nunca vi uma Avian com esse aspecto.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece uma máscara Avian.",
+    "path": "/apexDescription"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Small Tomb Brick"}, {"op": "replace", "path": "/description", "value": "Estes pequenos tijolos são magistralmente fabricados."}, {"op": "replace", "path": "/floranDescription", "value": "Tijoloss pequenoss."}, {"op": "replace", "path": "/glitchDescription", "value": "Espantado. Este trabalho de pedra é o mais impressionante."}, {"op": "replace", "path": "/novakidDescription", "value": "Parece para mim como alguns tijolos pequenos."}]
+[
+  {
+    "op": "replace",
+    "value": "Espantado. Este trabalho de pedra é o mais impressionante.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece para mim como alguns tijolos pequenos.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Small Tomb Brick",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijoloss pequenoss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes pequenos tijolos são magistralmente fabricados.",
+    "path": "/description"
+  }
+]

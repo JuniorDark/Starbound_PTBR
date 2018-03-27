@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Pedra de magma inclinada."}, {"op": "replace", "path": "/floranDescription", "value": "Rochas quentes."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Pedra de magma inclinada."}, {"op": "replace", "path": "/description", "value": "Pedra de magma inclinada."}]
+[
+  {
+    "op": "replace",
+    "value": "Rochas quentes.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedra de magma inclinada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pedra de magma inclinada.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Pedra de magma inclinada.",
+    "path": "/glitchDescription"
+  }
+]

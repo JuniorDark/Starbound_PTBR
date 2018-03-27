@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Spy's Hood"}, {"op": "replace", "path": "/description", "value": "Chapelaria que oculta o rosto do utilizador. Os óculos tingem o mundo de escarlate."}]
+[
+  {
+    "op": "replace",
+    "value": "Chapelaria que oculta o rosto do utilizador. Os óculos tingem o mundo de escarlate.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Spy's Hood",
+    "path": "/shortdescription"
+  }
+]

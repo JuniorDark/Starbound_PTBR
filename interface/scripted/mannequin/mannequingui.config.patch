@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/gui/swapGender/caption", "value": "Mudar Gênero"}, {"op": "replace", "path": "/gui/equipFunctional/caption", "value": "Equipar (Funcional)"}, {"op": "replace", "path": "/gui/equipCosmetic/caption", "value": "Equipar (Cosmético)"}]
+[
+  {
+    "op": "replace",
+    "value": "Equipar (Cosmético)",
+    "path": "/gui/equipCosmetic/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Equipar (Funcional)",
+    "path": "/gui/equipFunctional/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Mudar Gênero",
+    "path": "/gui/swapGender/caption"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "É uma peruca afro gigante."}, {"op": "replace", "path": "/shortdescription", "value": "The Captain's Fro"}]
+[
+  {
+    "op": "replace",
+    "value": "É uma peruca afro gigante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "The Captain's Fro",
+    "path": "/shortdescription"
+  }
+]

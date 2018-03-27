@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um armário de parede de metal."
+    "value": "Um armário de parede de metal.",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Um armário de armazenamento hermético."
+    "value": "Um armário de armazenamento de aparência simples.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Um armário de parede de metal."
+    "value": "Um armário de armazenamento montado na parede.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Armário de armazenamento bom para esconder coisass."
+    "value": "Um armário de armazenamento hermético.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Curioso. Armários como este muitas vezes têm grandes capacidades."
+    "value": "Um armário de parede de metal.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Um armário de armazenamento montado na parede."
+    "value": "Astro Storage Locker",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Um armário de armazenamento de aparência simples."
+    "value": "Curioso. Armários como este muitas vezes têm grandes capacidades.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Você poderia esconder um monte de coisa em um armário como este."
+    "value": "Armário de armazenamento bom para esconder coisass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Você poderia esconder um monte de coisa em um armário como este.",
+    "path": "/novakidDescription"
   }
 ]

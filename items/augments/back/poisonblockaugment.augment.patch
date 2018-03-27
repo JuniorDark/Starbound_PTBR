@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Poison Resist Augment"}, {"op": "replace", "path": "/description", "value": "Um módulo de EPP que faz você ser altamente resistente a veneno."}]
+[
+  {
+    "op": "replace",
+    "value": "Um módulo de EPP que faz você ser altamente resistente a veneno.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Poison Resist Augment",
+    "path": "/shortdescription"
+  }
+]

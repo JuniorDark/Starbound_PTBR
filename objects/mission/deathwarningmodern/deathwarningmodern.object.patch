@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Uma placa mal desenhada, feita para avisar os outros."}, {"op": "replace", "path": "/glitchDescription", "value": "Analítico. A placa é um aviso que eu deveria prestar atenção para que eu não queira encontrar perigo."}, {"op": "replace", "path": "/floranDescription", "value": "Placa Floran para excitação!"}, {"op": "replace", "path": "/novakidDescription", "value": "Um crânio, o tipo que você encontraria dentro da cabeça de uma forma de vida orgânica."}, {"op": "replace", "path": "/description", "value": "Esta placa parece estar me avisando de algum perigo."}, {"op": "replace", "path": "/shortdescription", "value": "Death Warning Sign"}, {"op": "replace", "path": "/apexDescription", "value": "Uma placa de perigo é mais ou menos universalmente reconhecível."}, {"op": "replace", "path": "/humanDescription", "value": "Um crânio ameaçador. Definitivamente um bom presságio."}, {"op": "replace", "path": "/avianDescription", "value": "Um crânio Avian não tem dentes, então esta placa parece estranha para mim."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma placa mal desenhada, feita para avisar os outros.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um crânio ameaçador. Definitivamente um bom presságio.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa de perigo é mais ou menos universalmente reconhecível.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um crânio, o tipo que você encontraria dentro da cabeça de uma forma de vida orgânica.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um crânio Avian não tem dentes, então esta placa parece estranha para mim.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analítico. A placa é um aviso que eu deveria prestar atenção para que eu não queira encontrar perigo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Death Warning Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Placa Floran para excitação!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta placa parece estar me avisando de algum perigo.",
+    "path": "/description"
+  }
+]

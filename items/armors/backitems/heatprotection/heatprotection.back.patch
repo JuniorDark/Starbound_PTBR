@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Esta melhoria adiciona geração de ar frio para as capacidades do seu EPP. Útil em planetas ^red;perigosamente quentes^reset;."}, {"op": "replace", "path": "/shortdescription", "value": "Cooling EPP Upgrade"}]
+[
+  {
+    "op": "replace",
+    "value": "Cooling EPP Upgrade",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta melhoria adiciona geração de ar frio para as capacidades do seu EPP. Útil em planetas ^red;perigosamente quentes^reset;.",
+    "path": "/description"
+  }
+]

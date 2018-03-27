@@ -1,12 +1,17 @@
 [
   {
     "op": "replace",
-    "path": "/speedStatLabel/value",
-    "value": "Velocidade no Solo"
+    "value": "0",
+    "path": "/priceLabel/value"
   },
   {
     "op": "replace",
-    "path": "/jumpStatLabel/value",
-    "value": "Poder de Pulo"
+    "value": "Velocidade no Solo",
+    "path": "/speedStatLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Poder de Pulo",
+    "path": "/jumpStatLabel/value"
   }
 ]

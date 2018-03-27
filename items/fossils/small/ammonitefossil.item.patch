@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/completeSetDescriptions/shortdescription", "value": "Ammonite"}, {"op": "replace", "path": "/completeSetDescriptions/description", "value": "Amonites são fósseis amplamente reconhecidos, com variações que aparecem na maioria dos planetas que sustentam a vida."}, {"op": "replace", "path": "/shortdescription", "value": "Ammonite"}, {"op": "replace", "path": "/description", "value": "Um amonite fossilizado."}]
+[
+  {
+    "op": "replace",
+    "value": "Ammonite",
+    "path": "/completeSetDescriptions/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ammonite",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Amonites são fósseis amplamente reconhecidos, com variações que aparecem na maioria dos planetas que sustentam a vida.",
+    "path": "/completeSetDescriptions/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um amonite fossilizado.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Inspirado. Este cartaz me faz querer aventurar-se no universo."}, {"op": "replace", "path": "/description", "value": "Um cartaz de um Manipulador de Matéria."}, {"op": "replace", "path": "/shortdescription", "value": "Poster"}, {"op": "replace", "path": "/floranDescription", "value": "Um cartaz da ferramenta mais importante dos Protetores!"}, {"op": "replace", "path": "/apexDescription", "value": "Um cartaz bastante dramático de um Manipulador de Matéria."}, {"op": "replace", "path": "/humanDescription", "value": "Este cartaz apresenta o Manipulador de Matéria, multi-ferramenta premiada do Protetorado."}, {"op": "replace", "path": "/avianDescription", "value": "O Manipulador de Matéria é o prêmio de um Graduado do Protetorado."}, {"op": "replace", "path": "/hylotlDescription", "value": "O Manipulador de Matéria, uma ferramenta de muitas capacidades. Que inspirador."}, {"op": "replace", "path": "/novakidDescription", "value": "Pessoas como eu poderiam fazer muitas coisas com uma ferramenta como o Manipulador de Matéria."}]
+[
+  {
+    "op": "replace",
+    "value": "Um cartaz de um Manipulador de Matéria.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um cartaz da ferramenta mais importante dos Protetores!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um cartaz bastante dramático de um Manipulador de Matéria.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pessoas como eu poderiam fazer muitas coisas com uma ferramenta como o Manipulador de Matéria.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inspirado. Este cartaz me faz querer aventurar-se no universo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O Manipulador de Matéria é o prêmio de um Graduado do Protetorado.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O Manipulador de Matéria, uma ferramenta de muitas capacidades. Que inspirador.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este cartaz apresenta o Manipulador de Matéria, multi-ferramenta premiada do Protetorado.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Poster",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Curioso. Este cartaz antigo ofereceu uma recompensa por pegar um criminoso - eu me pergunto se eles foram pegos?"}, {"op": "replace", "path": "/description", "value": "Um cartaz desbotado, oferecendo uma recompensa de muito tempo atrás."}, {"op": "replace", "path": "/shortdescription", "value": "Wanted Poster"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de foto de caçador impressionante."}, {"op": "replace", "path": "/apexDescription", "value": "Me pergunto se o tema deste cartaz de recompensa era um criminoso, ou talvez um rebelde heróico?"}, {"op": "replace", "path": "/humanDescription", "value": "Eu me pergunto se o criminoso desse velho cartaz já foi pego?"}, {"op": "replace", "path": "/avianDescription", "value": "Este cartaz de recompensa é muito antigo. Pergunto-me se o criminoso já foi capturado?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Este cartaz é muito antigo agora. Eu me pergunto se a recompensa oferecida sobre isso já foi reivindicada?"}, {"op": "replace", "path": "/novakidDescription", "value": "Um cartaz de \"procurado\"? Me pergunto se alguma vez apanharam o criminoso."}]
+[
+  {
+    "op": "replace",
+    "value": "Um cartaz de \"procurado\"? Me pergunto se alguma vez apanharam o criminoso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um cartaz desbotado, oferecendo uma recompensa de muito tempo atrás.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Este cartaz antigo ofereceu uma recompensa por pegar um criminoso - eu me pergunto se eles foram pegos?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de foto de caçador impressionante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto se o criminoso desse velho cartaz já foi pego?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me pergunto se o tema deste cartaz de recompensa era um criminoso, ou talvez um rebelde heróico?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este cartaz de recompensa é muito antigo. Pergunto-me se o criminoso já foi capturado?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este cartaz é muito antigo agora. Eu me pergunto se a recompensa oferecida sobre isso já foi reivindicada?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wanted Poster",
+    "path": "/shortdescription"
+  }
+]

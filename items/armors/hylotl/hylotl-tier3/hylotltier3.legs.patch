@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Forte e flexível, como as pernas flexíveis de seu portador."}, {"op": "replace", "path": "/shortdescription", "value": "River Leggings"}]
+[
+  {
+    "op": "replace",
+    "value": "River Leggings",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Forte e flexível, como as pernas flexíveis de seu portador.",
+    "path": "/description"
+  }
+]

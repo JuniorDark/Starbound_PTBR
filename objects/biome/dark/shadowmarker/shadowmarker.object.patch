@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um marcador de bandeira misterioso. Que tipo de couro é esse?"}, {"op": "replace", "path": "/shortdescription", "value": "Shadow Marker"}, {"op": "replace", "path": "/floranDescription", "value": "Ah, um marcador de advertência. Floran se pergunta o que está aqui."}, {"op": "replace", "path": "/glitchDescription", "value": "Alarmado. O meu desejo de sair desta área aumentou."}, {"op": "replace", "path": "/apexDescription", "value": "Assustador... Pode ser um marcador de advertência."}, {"op": "replace", "path": "/humanDescription", "value": "O que é isto? Algum tipo de marcador?"}, {"op": "replace", "path": "/avianDescription", "value": "Este marcador... é um aviso?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Este marcador é altamente inquietante..."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu acredito que é algum tipo de marcador usado para afastar estranhos."}]
+[
+  {
+    "op": "replace",
+    "value": "Um marcador de bandeira misterioso. Que tipo de couro é esse?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ah, um marcador de advertência. Floran se pergunta o que está aqui.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alarmado. O meu desejo de sair desta área aumentou.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Assustador... Pode ser um marcador de advertência.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu acredito que é algum tipo de marcador usado para afastar estranhos.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Shadow Marker",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este marcador é altamente inquietante...",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este marcador... é um aviso?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que é isto? Algum tipo de marcador?",
+    "path": "/humanDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "O oculemon me lembra Big Ape. Esse olho sempre vigilante."}, {"op": "replace", "path": "/humanDescription", "value": "De todos as frutas em todo o universo, o oculemon pode ser apenas o mais arrepiante."}, {"op": "replace", "path": "/avianDescription", "value": "Uma fruta azeda com um olhar penetrante."}, {"op": "replace", "path": "/shortdescription", "value": "Oculemon Seed"}, {"op": "replace", "path": "/description", "value": "A íris é a melhor parte desta estranha fruta."}, {"op": "replace", "path": "/floranDescription", "value": "Melhor coisa depois de globos ocularessss. Floran gosta deles, os outros são perturbadosss."}, {"op": "replace", "path": "/glitchDescription", "value": "Introspectivo. Essa fruta é talvez uma janela para sua própria alma?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Partes do oculemon são mortais, a menos que cuidadosamente preparado."}, {"op": "replace", "path": "/novakidDescription", "value": "Fruta deve olhar de volta para você? Não sei..."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma fruta azeda com um olhar penetrante.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Introspectivo. Essa fruta é talvez uma janela para sua própria alma?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Melhor coisa depois de globos ocularessss. Floran gosta deles, os outros são perturbadosss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Oculemon Seed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "De todos as frutas em todo o universo, o oculemon pode ser apenas o mais arrepiante.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Partes do oculemon são mortais, a menos que cuidadosamente preparado.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fruta deve olhar de volta para você? Não sei...",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A íris é a melhor parte desta estranha fruta.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "O oculemon me lembra Big Ape. Esse olho sempre vigilante.",
+    "path": "/apexDescription"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Alvenaria bem pintada."}, {"op": "replace", "path": "/shortdescription", "value": "Painted Brick"}]
+[
+  {
+    "op": "replace",
+    "value": "Encantado. Estes tijolos pintados são pitorescos.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijolos bem pintados.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Painted Brick",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijolosss pintados bonitos.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns tijolos pintados muito bonitos.",
+    "path": "/novakiddescription"
+  }
+]

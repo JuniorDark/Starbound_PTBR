@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Os Floran usam esta planta por sinais."}, {"op": "replace", "path": "/description", "value": "Uma planta estranha com uma marca nela."}, {"op": "replace", "path": "/shortdescription", "value": "Uma planta estranha."}, {"op": "replace", "path": "/glitchDescription", "value": "Confusa. Esta planta parece conter uma mensagem."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma planta estranha com uma marca nela.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta estranha.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Confusa. Esta planta parece conter uma mensagem.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Floran usam esta planta por sinais.",
+    "path": "/floranDescription"
+  }
+]

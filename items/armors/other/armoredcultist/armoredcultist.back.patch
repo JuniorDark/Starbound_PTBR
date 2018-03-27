@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um chicote de fios com tentáculos artificiais anexado."}, {"op": "replace", "path": "/shortdescription", "value": "Armoured Cultist Tentacles"}]
+[
+  {
+    "op": "replace",
+    "value": "Um chicote de fios com tentáculos artificiais anexado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Armoured Cultist Tentacles",
+    "path": "/shortdescription"
+  }
+]

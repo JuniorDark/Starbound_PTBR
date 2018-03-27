@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "A placa diz \"Concedido àqueles que podem passar através do fogo de combate sem se queimar.\"."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. O tamanho e o acabamento deste troféu são os mais impressionantes."}, {"op": "replace", "path": "/floranDescription", "value": "Este troféu brilhante é feito do ouro."}, {"op": "replace", "path": "/novakidDescription", "value": "Um troféu muito bonito."}, {"op": "replace", "path": "/shortdescription", "value": "Champion's Trophy"}]
+[
+  {
+    "op": "replace",
+    "value": "Um troféu muito bonito.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Champion's Trophy",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. O tamanho e o acabamento deste troféu são os mais impressionantes.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A placa diz \"Concedido àqueles que podem passar através do fogo de combate sem se queimar.\".",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Este troféu brilhante é feito do ouro.",
+    "path": "/floranDescription"
+  }
+]

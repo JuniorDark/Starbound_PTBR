@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "A garrafa está vazia, então o que resta fazer senão esmagá-la?"}, {"op": "replace", "path": "/description", "value": "Uma garrafa vazia de néctar de Oculemon."}, {"op": "replace", "path": "/humanDescription", "value": "A garrafa está vazia, então o que resta fazer senão esmagá-la?"}, {"op": "replace", "path": "/avianDescription", "value": "A garrafa está vazia, então o que resta fazer senão esmagá-la?"}, {"op": "replace", "path": "/shortdescription", "value": "Empty Nectar Bottle"}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma pequena parte de mim gostaria muito de esmagar esta garrafa..."}, {"op": "replace", "path": "/floranDescription", "value": "Esssmagar!"}, {"op": "replace", "path": "/glitchDescription", "value": "Travesso. Não sobrou nada na garrafa, então é tentador esmagá-la."}, {"op": "replace", "path": "/novakidDescription", "value": "Yeehaw! Treino de tiro ao alvo!"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pequena parte de mim gostaria muito de esmagar esta garrafa...",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Travesso. Não sobrou nada na garrafa, então é tentador esmagá-la.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esssmagar!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A garrafa está vazia, então o que resta fazer senão esmagá-la?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A garrafa está vazia, então o que resta fazer senão esmagá-la?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A garrafa está vazia, então o que resta fazer senão esmagá-la?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Yeehaw! Treino de tiro ao alvo!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma garrafa vazia de néctar de Oculemon.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Empty Nectar Bottle",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Modern Platform"}, {"op": "replace", "path": "/description", "value": "Feito de um material moderno, esta plataforma é suave ao toque."}]
+[
+  {
+    "op": "replace",
+    "value": "Modern Platform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Esta plataforma moderna lisa é atraente e robusta.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas plataformas de metal extravagantes.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plataformasss modernass lisass.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Feito de um material moderno, esta plataforma é suave ao toque.",
+    "path": "/description"
+  }
+]

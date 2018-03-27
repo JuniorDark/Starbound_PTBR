@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Time Pierce ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Esta lâmina pode penetrar através do tecido do próprio tempo."}, {"op": "replace", "path": "/shortdescription", "value": "Time Pierce"}, {"op": "replace", "path": "/altAbility/name", "value": "Parar o Tempo"}]
+[
+  {
+    "op": "replace",
+    "value": "Esta lâmina pode penetrar através do tecido do próprio tempo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Time Pierce",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Time Pierce ^yellow;^reset;",
+    "path": "/upgradeParameters/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parar o Tempo",
+    "path": "/altAbility/name"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Bananacon"}, {"op": "replace", "path": "/description", "value": "Com bacon, banana e alguma feitiçaria, você obtém uma bananacon."}]
+[
+  {
+    "op": "replace",
+    "value": "Bananacon",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Com bacon, banana e alguma feitiçaria, você obtém uma bananacon.",
+    "path": "/description"
+  }
+]

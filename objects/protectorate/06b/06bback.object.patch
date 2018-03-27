@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um pedaço set não foi concebido para ser usado como um objeto."}, {"op": "replace", "path": "/shortdescription", "value": "Plano de Fundo do Protetorado"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma peça não projetada para ser usada como um objeto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Background",
+    "path": "/shortdescription"
+  }
+]

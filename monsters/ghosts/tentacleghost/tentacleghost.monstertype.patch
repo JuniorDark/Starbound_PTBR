@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "tentacleghost"}]
+[
+  {
+    "op": "replace",
+    "value": "-todo-.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "tentacleghost",
+    "path": "/shortdescription"
+  }
+]

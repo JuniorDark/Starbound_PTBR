@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um torso fossilizado não identificado."}, {"op": "replace", "path": "/shortdescription", "value": "Unidentified Torso"}]
+[
+  {
+    "op": "replace",
+    "value": "Um torso fossilizado não identificado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Unidentified Torso",
+    "path": "/shortdescription"
+  }
+]

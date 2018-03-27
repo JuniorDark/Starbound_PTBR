@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Concreto escuro especialmente projetado para postos avançados."}, {"op": "replace", "path": "/shortdescription", "value": "Outpost Concrete"}]
+[
+  {
+    "op": "replace",
+    "value": "Concreto escuro especialmente projetado para postos avançados.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não gosssta de concreto duro frio.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Informado. Este concreto especialmente projetado tem secagem rápida.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Outpost Concrete",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este concreto parece muito resistente.",
+    "path": "/novakiddescription"
+  }
+]

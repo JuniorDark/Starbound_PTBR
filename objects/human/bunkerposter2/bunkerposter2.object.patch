@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Um Apex. Está me dizendo para não ficar chateado."}, {"op": "replace", "path": "/description", "value": "Não há necessidade de ficar chateado."}, {"op": "replace", "path": "/shortdescription", "value": "Calming Poster"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não tem certeza porque há um Apex neste cartaz. Ou talvez um humano cabeludo?"}, {"op": "replace", "path": "/glitchDescription", "value": "Desconfiado. Por que os humanos têm um cartaz de Big Ape, eu me pergunto?"}, {"op": "replace", "path": "/apexDescription", "value": "Big Ape? Aqui? Por que os humanos teriam tal cartaz? Isso é uma piada?"}, {"op": "replace", "path": "/humanDescription", "value": "Este personagem de desenho animado parece familiar. Espera... esse é Big Ape?"}, {"op": "replace", "path": "/avianDescription", "value": "Isso parece apresentar esse personagem Big Ape. Os humanos têm alguma ligação com os Apex?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Um poster humano, um vilão Apex. Curioso."}]
+[
+  {
+    "op": "replace",
+    "value": "Um poster humano, um vilão Apex. Curioso.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um Apex. Está me dizendo para não ficar chateado.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Big Ape? Aqui? Por que os humanos teriam tal cartaz? Isso é uma piada?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Calming Poster",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não tem certeza porque há um Apex neste cartaz. Ou talvez um humano cabeludo?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desconfiado. Por que os humanos têm um cartaz de Big Ape, eu me pergunto?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não há necessidade de ficar chateado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Isso parece apresentar esse personagem Big Ape. Os humanos têm alguma ligação com os Apex?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este personagem de desenho animado parece familiar. Espera... esse é Big Ape?",
+    "path": "/humanDescription"
+  }
+]

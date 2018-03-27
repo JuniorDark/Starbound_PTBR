@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Frogg Head"}, {"op": "replace", "path": "/description", "value": "De alguma forma esta máscara mantém sua cabeça molhada."}]
+[
+  {
+    "op": "replace",
+    "value": "Frogg Head",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "De alguma forma esta máscara mantém sua cabeça molhada.",
+    "path": "/description"
+  }
+]

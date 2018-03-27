@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma cama com uma grande lâmpada sobre ela, produzindo um calor considerável."}, {"op": "replace", "path": "/shortdescription", "value": "Foundry Bed"}, {"op": "replace", "path": "/floranDescription", "value": "Luz acima da cama é quente, fica agradável na pele de Floran."}, {"op": "replace", "path": "/apexDescription", "value": "Uma cama aquecida a lâmpada. Como se não fosse suficientemente quente em uma fundição."}, {"op": "replace", "path": "/humanDescription", "value": "É como uma câmara de bronzeamento, mas fica muito quente deitar ali."}, {"op": "replace", "path": "/avianDescription", "value": "Alguma espécie de cama iluminada artificialmente, deitar aqui parece que estou lá fora em pleno sol."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma cama aquecida a lâmpada. Como se deitar sob o sol no meio-dia."}, {"op": "replace", "path": "/glitchDescription", "value": "Ciumento. Uma cama aquecida não tem o mesmo efeito em Glitch como em seres orgânicos."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma cama aquecida. Trabalhadores de fundição devem prosperar no calor, para suportar isso seria tortura para um Hylotl."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cama com uma grande lâmpada sobre ela, produzindo um calor considerável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama aquecida. Trabalhadores de fundição devem prosperar no calor, para suportar isso seria tortura para um Hylotl.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama aquecida a lâmpada. Como se não fosse suficientemente quente em uma fundição.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama aquecida a lâmpada. Como se deitar sob o sol no meio-dia.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Foundry Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "É como uma câmara de bronzeamento, mas fica muito quente deitar ali.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ciumento. Uma cama aquecida não tem o mesmo efeito em Glitch como em seres orgânicos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luz acima da cama é quente, fica agradável na pele de Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguma espécie de cama iluminada artificialmente, deitar aqui parece que estou lá fora em pleno sol.",
+    "path": "/avianDescription"
+  }
+]

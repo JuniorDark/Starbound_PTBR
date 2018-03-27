@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Eu não me importo muito com o jeito que este baú está olhando pra mim."}, {"op": "replace", "path": "/hylotlDescription", "value": "Me ensinaram a ter cuidado com baús misteriosos."}, {"op": "replace", "path": "/avianDescription", "value": "Este baú parece muito velho e assustador."}, {"op": "replace", "path": "/humanDescription", "value": "Um velho baú assustador. Atrevo-me a abri-lo?"}, {"op": "replace", "path": "/apexDescription", "value": "Este baú parece muito velho e assustador."}, {"op": "replace", "path": "/glitchDescription", "value": "Perturbado. O olho que decora este baú parece estar me julgando."}, {"op": "replace", "path": "/floranDescription", "value": "Baú assustador deixa Floran nervoso."}, {"op": "replace", "path": "/shortdescription", "value": "Ancient Essence Chest"}, {"op": "replace", "path": "/description", "value": "Um temível baú antigo ornamentado com um olho sem pálpebra."}]
+[
+  {
+    "op": "replace",
+    "value": "Um velho baú assustador. Atrevo-me a abri-lo?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um temível baú antigo ornamentado com um olho sem pálpebra.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ancient Essence Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não me importo muito com o jeito que este baú está olhando pra mim.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me ensinaram a ter cuidado com baús misteriosos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Baú assustador deixa Floran nervoso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este baú parece muito velho e assustador.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este baú parece muito velho e assustador.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perturbado. O olho que decora este baú parece estar me julgando.",
+    "path": "/glitchDescription"
+  }
+]

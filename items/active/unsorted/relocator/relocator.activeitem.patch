@@ -1,17 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/category",
-    "value": "tool"
+    "value": "Armazena até 3 criaturas amigáveis para muda-los de lugar com segurança.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Armazena até 3 criaturas amigáveis para muda-los de lugar com segurança."
-  },
-  {
-    "op": "replace",
-    "path": "/shortdescription",
-    "value": "Relocator"
+    "value": "Relocator",
+    "path": "/shortdescription"
   }
 ]

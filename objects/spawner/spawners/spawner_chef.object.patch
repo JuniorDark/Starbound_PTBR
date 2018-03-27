@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Chef Spawner"}, {"op": "replace", "path": "/description", "value": "Gere seu próprio chefe!"}, {"op": "replace", "path": "/humanDescription", "value": "Isso vai ser melhor do que estar no McFlorans!"}, {"op": "replace", "path": "/avianDescription", "value": "invocar um chefe seria perfeito."}, {"op": "replace", "path": "/hylotlDescription", "value": "Espero que este chefe respeite meu paladar sensível."}, {"op": "replace", "path": "/floranDescription", "value": "Floran consegue pessoa para cozinhar carnesss!"}, {"op": "replace", "path": "/glitchDescription", "value": "Questionando. Um chefe sempre é realmente gratuito?"}, {"op": "replace", "path": "/apexDescription", "value": "Esse chefe será meu escravo?"}]
+[
+  {
+    "op": "replace",
+    "value": "Chef Spawner",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran consegue pessoa para cozinhar carnesss!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que este chefe respeite meu paladar sensível.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Questionando. Um chefe sempre é realmente gratuito?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gere seu próprio chefe!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "invocar um chefe seria perfeito.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso vai ser melhor do que estar no McFlorans!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse chefe será meu escravo?",
+    "path": "/apexDescription"
+  }
+]

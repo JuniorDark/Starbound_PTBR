@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "All-Seeing Cape"}, {"op": "replace", "path": "/description", "value": "Uma capa antiga feita a partir de um misterioso material cintilante."}]
+[
+  {
+    "op": "replace",
+    "value": "All-Seeing Cape",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma capa antiga feita a partir de um misterioso material cintilante.",
+    "path": "/description"
+  }
+]

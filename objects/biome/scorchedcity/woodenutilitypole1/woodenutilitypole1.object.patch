@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Me pergunto para o que isso poderia ter sido usado?"}, {"op": "replace", "path": "/floranDescription", "value": "Poste de madeira, talvez bom para escalar?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Um poste de madeira de algum tipo. Parece ter tido um uso uma vez."}, {"op": "replace", "path": "/glitchDescription", "value": "Confiante. Um poste de serviço de madeira."}, {"op": "replace", "path": "/description", "value": "Um poste de serviço de madeira."}, {"op": "replace", "path": "/shortdescription", "value": "Wooden Utility Pole"}, {"op": "replace", "path": "/apexDescription", "value": "Um poste de serviço de madeira, parece quase intacto."}, {"op": "replace", "path": "/humanDescription", "value": "Um poste de serviço de madeira, estes costumavam ser ligado com fios para transportar sinais."}, {"op": "replace", "path": "/avianDescription", "value": "Um poste de madeira, para que finalidade ele serve?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um poste de madeira de algum tipo. Parece ter tido um uso uma vez.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um poste de madeira, para que finalidade ele serve?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um poste de serviço de madeira.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Me pergunto para o que isso poderia ter sido usado?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Poste de madeira, talvez bom para escalar?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um poste de serviço de madeira, parece quase intacto.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um poste de serviço de madeira, estes costumavam ser ligado com fios para transportar sinais.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Confiante. Um poste de serviço de madeira.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wooden Utility Pole",
+    "path": "/shortdescription"
+  }
+]

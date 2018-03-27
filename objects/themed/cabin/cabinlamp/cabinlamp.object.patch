@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Cabin Lamp"}, {"op": "replace", "path": "/glitchDescription", "value": "Confuso. Se isso é madeira, como que isso ilumina?"}, {"op": "replace", "path": "/apexDescription", "value": "Eu acho que a forma curva desta lâmpada é destinada a ser atraente."}, {"op": "replace", "path": "/humanDescription", "value": "Acho que é uma lâmpada moderna que está fingindo ser velha."}, {"op": "replace", "path": "/hylotlDescription", "value": "Isso parece um desperdício de recursos naturais."}, {"op": "replace", "path": "/description", "value": "Uma luz elétrica com um suporte de madeira entalhado à mão."}, {"op": "replace", "path": "/floranDescription", "value": "Floran prefere plantasss brilhantes."}, {"op": "replace", "path": "/avianDescription", "value": "Uma lâmpada bastante agradável. Poderia ser melhor se tivesse a forma de um pássaro."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu prefiro luzes de gás, mas isso também funciona."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lâmpada bastante agradável. Poderia ser melhor se tivesse a forma de um pássaro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz elétrica com um suporte de madeira entalhado à mão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cabin Lamp",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Se isso é madeira, como que isso ilumina?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran prefere plantasss brilhantes.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu acho que a forma curva desta lâmpada é destinada a ser atraente.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Acho que é uma lâmpada moderna que está fingindo ser velha.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu prefiro luzes de gás, mas isso também funciona.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso parece um desperdício de recursos naturais.",
+    "path": "/hylotlDescription"
+  }
+]

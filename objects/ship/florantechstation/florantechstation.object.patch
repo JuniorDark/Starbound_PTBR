@@ -1,1 +1,157 @@
-[{"op": "replace", "path": "/dialog/wakeUp/1/0", "value": "Eu sou S.A.I.L, sua Ship-based Artificial Intelligence Lattice. Eu gerencio a manutenção da sua nave."}, {"op": "replace", "path": "/dialog/wakePlayer/0/0", "value": "Sistema desligado, favor reinicie."}, {"op": "replace", "path": "/dialog/wakePlayer/1/0", "value": "Por favor reinicie o sistema."}, {"op": "replace", "path": "/dialog/wakePlayer/2/0", "value": "Processo de reinicialização permanece não iniciado."}, {"op": "replace", "path": "/dialog/wakePlayer/3/0", "value": "Para fazer uso do seu S.A.I.L favor reinicie."}, {"op": "replace", "path": "/dialog/wakePlayer/4/0", "value": "A reinicialização tem demonstrado melhorar os níveis de satisfação de interação da nave em 73%."}, {"op": "replace", "path": "/dialog/wakePlayer/5/0", "value": "O reinício exige uma entidade consciente para interagir com o console S.A.I.L."}, {"op": "replace", "path": "/dialog/wakeUp/0/0", "value": "Reiniciando..."}, {"op": "replace", "path": "/dialog/wakeUp/2/0", "value": "Também sou programado para lhe oferecer informações e conselhos."}, {"op": "replace", "path": "/dialog/wakeUp/3/0", "value": "A Terra foi atacada por uma força desconhecida, e subsequentemente aniquilada."}, {"op": "replace", "path": "/dialog/wakeUp/4/0", "value": "Os sistemas de navegação da nave foram danificados em nossa fuga. A nossa localização é atualmente desconhecida."}, {"op": "replace", "path": "/description", "value": "Ship-based Artificial Intelligence Lattice, ou S.A.I.L abreviado."}, {"op": "replace", "path": "/shortdescription", "value": "S.A.I.L"}, {"op": "replace", "path": "/floranDescription", "value": "Floran usa este painel mágico para conversar com SAIL!"}, {"op": "replace", "path": "/glitchDescription", "value": "Feliz. Esta estação permite que eu fale com SAIL."}, {"op": "replace", "path": "/apexDescription", "value": "Eu posso falar com SAIL através deste console."}, {"op": "replace", "path": "/humanDescription", "value": "Esta estação permite que eu me comunique com SAIL."}, {"op": "replace", "path": "/avianDescription", "value": "Eu posso usar esta estação de falar com SAIL."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este console me permite se comunicar com SAIL."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta estação aqui me deixa falar com SAIL."}]
+[
+  {
+    "op": "replace",
+    "value": "/ai/portraits/floranportrait.png:talk.0",
+    "path": "/dialog/wakeUp/1/1"
+  },
+  {
+    "op": "replace",
+    "value": "/ai/portraits/floranportrait.png:talk.0",
+    "path": "/dialog/wakeUp/3/1"
+  },
+  {
+    "op": "replace",
+    "value": "/ai/portraits/floranportrait.png:talk.1",
+    "path": "/dialog/wakeUp/2/1"
+  },
+  {
+    "op": "replace",
+    "value": "/ai/portraits/floranportrait.png:talk.1",
+    "path": "/dialog/wakeUp/4/1"
+  },
+  {
+    "op": "replace",
+    "value": "/ai/portraits/floranportrait.png:unique.1",
+    "path": "/dialog/wakePlayer/0/1"
+  },
+  {
+    "op": "replace",
+    "value": "/ai/portraits/floranportrait.png:unique.1",
+    "path": "/dialog/wakePlayer/1/1"
+  },
+  {
+    "op": "replace",
+    "value": "/ai/portraits/floranportrait.png:unique.1",
+    "path": "/dialog/wakePlayer/2/1"
+  },
+  {
+    "op": "replace",
+    "value": "/ai/portraits/floranportrait.png:unique.1",
+    "path": "/dialog/wakePlayer/3/1"
+  },
+  {
+    "op": "replace",
+    "value": "/ai/portraits/floranportrait.png:unique.1",
+    "path": "/dialog/wakePlayer/4/1"
+  },
+  {
+    "op": "replace",
+    "value": "/ai/portraits/floranportrait.png:unique.1",
+    "path": "/dialog/wakePlayer/5/1"
+  },
+  {
+    "op": "replace",
+    "value": "/ai/portraits/floranportrait.png:unique.1",
+    "path": "/dialog/wakeUp/0/1"
+  },
+  {
+    "op": "replace",
+    "value": "S.A.I.L",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ship-based Artificial Intelligence Lattice, ou S.A.I.L abreviado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A Terra foi atacada por uma força desconhecida, e subsequentemente aniquilada.",
+    "path": "/dialog/wakeUp/3/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran usa este painel mágico para conversar com SAIL!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Feliz. Esta estação permite que eu fale com SAIL.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sou S.A.I.L, sua Ship-based Artificial Intelligence Lattice. Eu gerencio a manutenção da sua nave.",
+    "path": "/dialog/wakeUp/1/0"
+  },
+  {
+    "op": "replace",
+    "value": "Também sou programado para lhe oferecer informações e conselhos.",
+    "path": "/dialog/wakeUp/2/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso falar com SAIL através deste console.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso usar esta estação de falar com SAIL.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Por favor reinicie o sistema.",
+    "path": "/dialog/wakePlayer/1/0"
+  },
+  {
+    "op": "replace",
+    "value": "Processo de reinicialização permanece não iniciado.",
+    "path": "/dialog/wakePlayer/2/0"
+  },
+  {
+    "op": "replace",
+    "value": "A reinicialização tem demonstrado melhorar os níveis de satisfação de interação da nave em 73%.",
+    "path": "/dialog/wakePlayer/4/0"
+  },
+  {
+    "op": "replace",
+    "value": "O reinício exige uma entidade consciente para interagir com o console S.A.I.L.",
+    "path": "/dialog/wakePlayer/5/0"
+  },
+  {
+    "op": "replace",
+    "value": "Reiniciando...",
+    "path": "/dialog/wakeUp/0/0"
+  },
+  {
+    "op": "replace",
+    "value": "Por favor reinicie o sistema.",
+    "path": "/dialog/wakePlayer/0/0"
+  },
+  {
+    "op": "replace",
+    "value": "Os sistemas de navegação da nave foram danificados em nossa fuga. A nossa localização é atualmente desconhecida.",
+    "path": "/dialog/wakeUp/4/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este console me permite se comunicar com SAIL.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta estação aqui me deixa falar com SAIL.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta estação permite que eu me comunique com SAIL.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para fazer uso do seu S.A.I.L favor reinicie.",
+    "path": "/dialog/wakePlayer/3/0"
+  }
+]

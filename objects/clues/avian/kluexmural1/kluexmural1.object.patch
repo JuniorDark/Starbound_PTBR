@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Kluex World Mural"}, {"op": "replace", "path": "/floranDescription", "value": "Coisa de pedra parece importante."}, {"op": "replace", "path": "/apexDescription", "value": "Este mural parece descrever alguns grandes tesouros do povo Avian."}, {"op": "replace", "path": "/description", "value": "Um mural antigo do deus Kluex."}, {"op": "replace", "path": "/humanDescription", "value": "Este mural de pedra descreve um antigo templo Avian, cheio de tesouros. Hã."}, {"op": "replace", "path": "/avianDescription", "value": "Este mural de Kluex descreve a localização de grandes tesouros do meu povo..."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este mural curioso conta um conto de um antigo templo Avian, cheio de riquezas."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta coisa velha parece descrever algum tipo de templo."}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Este mural parece descrever um templo de tesouros antigos."}]
+[
+  {
+    "op": "replace",
+    "value": "Um mural antigo do deus Kluex.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Este mural parece descrever um templo de tesouros antigos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex World Mural",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Coisa de pedra parece importante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este mural curioso conta um conto de um antigo templo Avian, cheio de riquezas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este mural parece descrever alguns grandes tesouros do povo Avian.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este mural de Kluex descreve a localização de grandes tesouros do meu povo...",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta coisa velha parece descrever algum tipo de templo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este mural de pedra descreve um antigo templo Avian, cheio de tesouros. Hã.",
+    "path": "/humanDescription"
+  }
+]

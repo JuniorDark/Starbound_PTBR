@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran treme de medo ao ver isso."}, {"op": "replace", "path": "/description", "value": "Um dispositivo de tortura arcano. É melhor não perguntar como é usado."}, {"op": "replace", "path": "/shortdescription", "value": "Torture Device"}, {"op": "replace", "path": "/glitchDescription", "value": "Descontentamento. Um método particularmente desagradável de tortura, especialmente para os Glitch."}, {"op": "replace", "path": "/apexDescription", "value": "Este é um dispositivo de tortura ou uma fonte?"}, {"op": "replace", "path": "/avianDescription", "value": "Uma forma cruel e incomum de punição."}, {"op": "replace", "path": "/novakidDescription", "value": "O que é isso, algum tipo de fonte?"}, {"op": "replace", "path": "/hylotlDescription", "value": "O único dispositivo de tortura Floran que simplesmente não funcionará nos Hylotl. Uma pequena vitória."}, {"op": "replace", "path": "/humanDescription", "value": "Legal, um recurso de água relaxante."}]
+[
+  {
+    "op": "replace",
+    "value": "Um dispositivo de tortura arcano. É melhor não perguntar como é usado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Legal, um recurso de água relaxante.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Descontentamento. Um método particularmente desagradável de tortura, especialmente para os Glitch.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran treme de medo ao ver isso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este é um dispositivo de tortura ou uma fonte?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma forma cruel e incomum de punição.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O único dispositivo de tortura Floran que simplesmente não funcionará nos Hylotl. Uma pequena vitória.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Torture Device",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que é isso, algum tipo de fonte?",
+    "path": "/novakidDescription"
+  }
+]

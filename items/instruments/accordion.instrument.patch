@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Accordion"}, {"op": "replace", "path": "/description", "value": "Uma sanfona. Faça esses braços trabalhar!"}]
+[
+  {
+    "op": "replace",
+    "value": "Accordion",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma sanfona. Faça esses braços trabalhar!",
+    "path": "/description"
+  }
+]

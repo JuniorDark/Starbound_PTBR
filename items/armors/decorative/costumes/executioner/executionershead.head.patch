@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um capuz de carrasco tradicional."}, {"op": "replace", "path": "/shortdescription", "value": "Executioner's Mask"}]
+[
+  {
+    "op": "replace",
+    "value": "Um capuz de carrasco tradicional.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Executioner's Mask",
+    "path": "/shortdescription"
+  }
+]

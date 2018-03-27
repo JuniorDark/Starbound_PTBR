@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Pantanosa."}, {"op": "replace", "path": "/description", "value": "Uma planta pantanosa."}, {"op": "replace", "path": "/shortdescription", "value": "Uma planta pantanosa."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Uma planta pantanosa."}]
+[
+  {
+    "op": "replace",
+    "value": "Pantanoso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta pantanosa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta pantanosa.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Uma planta pantanosa.",
+    "path": "/glitchDescription"
+  }
+]

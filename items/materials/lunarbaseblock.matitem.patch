@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Esta liga parece incrivelmente durável."}, {"op": "replace", "path": "/shortdescription", "value": "Lunar Base Block"}]
+[
+  {
+    "op": "replace",
+    "value": "Interessado. Esta liga durável não é familiar.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lunar Base Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de metal resistente.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Blocoss de metal forte.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta liga parece incrivelmente durável.",
+    "path": "/description"
+  }
+]

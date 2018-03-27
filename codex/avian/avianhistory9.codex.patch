@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/contentPages/0", "value": "Centros da sociedade Avian em torno de nossa inabalável devoção ao único e verdadeiro Deus, Kluex, e portanto os nossos sacerdotes, os Stargazers, são o mais alto escalão da nossa estrutura de decisão. Por eras os nossos antepassados lutaram entre si em facções fragmentadas até que os Stargazers nos uniu, trazendo um fim para o conflito. Sob seu governo encontramos a força debaixo das asas de Kluex."}, {"op": "replace", "path": "/description", "value": "Um livro de ensino Avian sobre suas tradições e cultura."}, {"op": "replace", "path": "/title", "value": "A História dos Stargazers"}]
+[
+  {
+    "op": "replace",
+    "value": "Um livro de ensino Avian sobre suas tradições e cultura.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Centros da sociedade Avian em torno de nossa inabalável devoção ao único e verdadeiro Deus, Kluex, e portanto os nossos sacerdotes, os Stargazers, são o mais alto escalão da nossa estrutura de decisão. Por eras os nossos antepassados lutaram entre si em facções fragmentadas até que os Stargazers nos uniu, trazendo um fim para o conflito. Sob seu governo encontramos a força debaixo das asas de Kluex.",
+    "path": "/contentPages/0"
+  },
+  {
+    "op": "replace",
+    "value": "A História dos Stargazers",
+    "path": "/title"
+  }
+]

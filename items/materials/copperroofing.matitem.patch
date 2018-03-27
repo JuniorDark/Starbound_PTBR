@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Copper Roofing"}, {"op": "replace", "path": "/description", "value": "Blocos de telhado feitos de cobre."}]
+[
+  {
+    "op": "replace",
+    "value": "Telhas feitas inteiramente de cobre.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Copper Roofing",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gossta de telhado de cobre brilhante.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Telhas feitas de cobre.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Estas telhas são feitas inteiramente de cobre.",
+    "path": "/glitchdescription"
+  }
+]

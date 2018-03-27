@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Sandstone"}, {"op": "replace", "path": "/description", "value": "Arenito natural resistente."}]
+[
+  {
+    "op": "replace",
+    "value": "Sandstone",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Este arenito é feito de partículas finas de rocha.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas rochas de areia.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedrass de arenito.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Arenito natural resistente.",
+    "path": "/description"
+  }
+]

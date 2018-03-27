@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Coconut Block"}, {"op": "replace", "path": "/description", "value": "Tijolos feitos de coco e argamassa."}]
+[
+  {
+    "op": "replace",
+    "value": "Tijolos feitos de coco e argamassa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Coconut Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cocoss são tijoloss fortess.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu acho que esses tijolos de coco são fortíssimos.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. O componente principal desses tijolos são cocos.",
+    "path": "/glitchdescription"
+  }
+]

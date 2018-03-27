@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "A música humana carece da Nuance tonal de sua contraparte Hylotl."}, {"op": "replace", "path": "/novakidDescription", "value": "Essas músicas não são familiares, mas não é ruim, devo admitir."}, {"op": "replace", "path": "/description", "value": "Essa jukebox parece ótima! Pena que só parece haver uma faixa."}, {"op": "replace", "path": "/shortdescription", "value": "Jukebox"}, {"op": "replace", "path": "/floranDescription", "value": "Caixa barulhenta. Floran não vê o ponto!"}, {"op": "replace", "path": "/glitchDescription", "value": "Alegre. A música afeta meus circuitos de tal maneira que não posso deixar de dançar."}, {"op": "replace", "path": "/apexDescription", "value": "Uma caixa de música alegre. Há apenas uma banda, no entanto."}, {"op": "replace", "path": "/humanDescription", "value": "Oh boy, eles têm o meu álbum favorito! O espaço acabou de ficar mais divertido."}, {"op": "replace", "path": "/avianDescription", "value": "Esta jukebox pode iluminar até os espíritos mais sombrios."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma caixa de música alegre. Há apenas uma banda, no entanto.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alegre. A música afeta meus circuitos de tal maneira que não posso deixar de dançar.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A música humana carece da Nuance tonal de sua contraparte Hylotl.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Jukebox",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Caixa barulhenta. Floran não vê o ponto!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Oh boy, eles têm o meu álbum favorito! O espaço acabou de ficar mais divertido.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas músicas não são familiares, mas não é ruim, devo admitir.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta jukebox pode iluminar até os espíritos mais sombrios.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa jukebox parece ótima! Pena que só parece haver uma faixa.",
+    "path": "/description"
+  }
+]

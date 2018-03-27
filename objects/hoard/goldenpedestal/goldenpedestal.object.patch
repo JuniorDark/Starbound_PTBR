@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Nada deixa um lugar tão importante como um pedestal dourado."}, {"op": "replace", "path": "/description", "value": "Um pedestal de ouro para algo especial."}, {"op": "replace", "path": "/shortdescription", "value": "Golden Pedestal"}, {"op": "replace", "path": "/apexDescription", "value": "Um pedestal dourado. Bonito."}, {"op": "replace", "path": "/humanDescription", "value": "Eu poderia exibir meu antigo certificado de natação aqui."}, {"op": "replace", "path": "/floranDescription", "value": "Floran coloca cabeça cortada favorita no pedestal."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um suporte de exibição básico."}, {"op": "replace", "path": "/glitchDescription", "value": "Admirando. Um pedestal notável."}, {"op": "replace", "path": "/novakidDescription", "value": "Parece muito chique para um suporte de exibição."}]
+[
+  {
+    "op": "replace",
+    "value": "Admirando. Um pedestal notável.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um suporte de exibição básico.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pedestal de ouro para algo especial.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um pedestal dourado. Bonito.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran coloca cabeça cortada favorita no pedestal.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Golden Pedestal",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu poderia exibir meu antigo certificado de natação aqui.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece muito chique para um suporte de exibição.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nada deixa um lugar tão importante como um pedestal dourado.",
+    "path": "/avianDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Parece não haver nada para interagir com neste dispositivo."}, {"op": "replace", "path": "/description", "value": "Não há nada passando. Cada canal apenas exibe uma imagem de Big Ape."}, {"op": "replace", "path": "/shortdescription", "value": "Big Ape TV"}, {"op": "replace", "path": "/floranDescription", "value": "Máquina inútil."}, {"op": "replace", "path": "/glitchDescription", "value": "Atento. O dispositivo está recebendo milhares de transmissões diferentes, mas todas parecem ser as mesmas."}, {"op": "replace", "path": "/apexDescription", "value": "Big Ape nunca apareceu na TV Big Ape."}, {"op": "replace", "path": "/humanDescription", "value": "Seus olhos se mexeram?"}, {"op": "replace", "path": "/hylotlDescription", "value": "As únicas imagens de Big Ape parecem ser artificiais."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma criatura está olhando para mim da tela."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma criatura está olhando para mim da tela.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Big Ape TV",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Big Ape nunca apareceu na TV Big Ape.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Seus olhos se mexeram?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. O dispositivo está recebendo milhares de transmissões diferentes, mas todas parecem ser as mesmas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "As únicas imagens de Big Ape parecem ser artificiais.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece não haver nada para interagir com neste dispositivo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não há nada passando. Cada canal apenas exibe uma imagem de Big Ape.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Máquina inútil.",
+    "path": "/floranDescription"
+  }
+]

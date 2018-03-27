@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/contentPages/0", "value": "É a maior Ixodoom que eu já vi, envolta em folhas de osso tão espessa como tronco de árvore.\n\nKish e eu estávamos no fundo da montanha no momento em que a encontramos, escondida na escuridão. Deve ter 200 anos de idade.\n\nKish está certo de que ela está prestes a se reproduzir. Eu não tenho nenhuma razão para duvidar disso - é certamente madura o suficiente, e Kish é a autoridade sobre Ixodoom."}, {"op": "replace", "path": "/description", "value": "Uma análise de um Greenfinger sobre a Ixodoom."}, {"op": "replace", "path": "/contentPages/1", "value": "Sera preciso uma equipe de 20 para trazê-la em segurança. Já falei para Maper, que pensa que é possível - embora Maper é sempre muito otimista...\n\nVou levar todos os Wranglers para o seu ninho amanhã. Temos dois dias para chegar as Cavernas Cerimoniais de Caça antes dela começar a desovar."}, {"op": "replace", "path": "/title", "value": "A Ixodoom, uma Análise"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma análise de um Greenfinger sobre a Ixodoom.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Sera preciso uma equipe de 20 para trazê-la em segurança. Já falei para Maper, que pensa que é possível - embora Maper é sempre muito otimista...\n\nVou levar todos os Wranglers para o seu ninho amanhã. Temos dois dias para chegar as Cavernas Cerimoniais de Caça antes dela começar a desovar.",
+    "path": "/contentPages/1"
+  },
+  {
+    "op": "replace",
+    "value": "É a maior Ixodoom que eu já vi, envolta em folhas de osso tão espessa como tronco de árvore.\n\nKish e eu estávamos no fundo da montanha no momento em que a encontramos, escondida na escuridão. Deve ter 200 anos de idade.\n\nKish está certo de que ela está prestes a se reproduzir. Eu não tenho nenhuma razão para duvidar disso - é certamente madura o suficiente, e Kish é a autoridade sobre Ixodoom.",
+    "path": "/contentPages/0"
+  },
+  {
+    "op": "replace",
+    "value": "A Ixodoom, uma Análise",
+    "path": "/title"
+  }
+]

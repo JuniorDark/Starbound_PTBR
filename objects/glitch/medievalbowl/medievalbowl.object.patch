@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma tigela. Não parece muito limpa."}, {"op": "replace", "path": "/floranDescription", "value": "Tigela muito pequena para o apetite de Floran."}, {"op": "replace", "path": "/apexDescription", "value": "Uma tigela simples e suja."}, {"op": "replace", "path": "/shortdescription", "value": "Medieval Bowl"}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Uma tigela simples. Provavelmente feita de argila."}, {"op": "replace", "path": "/humanDescription", "value": "Uma tigela pequena, parece argila."}, {"op": "replace", "path": "/avianDescription", "value": "Parece que comida é comido disso."}, {"op": "replace", "path": "/hylotlDescription", "value": "O que é comido nesta tigela, eu me pergunto..."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma tigela simples para uma refeição simples."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma tigela. Não parece muito limpa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tigela pequena, parece argila.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tigela simples para uma refeição simples.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tigela simples e suja.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tigela muito pequena para o apetite de Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que comida é comido disso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Medieval Bowl",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Uma tigela simples. Provavelmente feita de argila.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que é comido nesta tigela, eu me pergunto...",
+    "path": "/hylotlDescription"
+  }
+]

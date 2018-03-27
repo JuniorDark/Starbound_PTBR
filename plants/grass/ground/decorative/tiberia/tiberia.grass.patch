@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Um aumento natural estranho."}, {"op": "replace", "path": "/shortdescription", "value": "Um aumento estranho."}, {"op": "replace", "path": "/floranDescription", "value": "Os Floran não sabem o que isso é."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Uma formação natural desconhecida."}]
+[
+  {
+    "op": "replace",
+    "value": "Um aumento natural estranho.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Os Floran não sabem o que isso é.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Uma formação natural desconhecida.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um aumento estranho.",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/completeSetDescriptions/shortdescription", "value": "Hylotl Fossil"}, {"op": "replace", "path": "/completeSetDescriptions/description", "value": "Este esqueleto fossilizado de Hylotl apresenta sinais precoces de adaptação à vida aquática."}, {"op": "replace", "path": "/description", "value": "Um crânio de Hylotl fossilizado."}, {"op": "replace", "path": "/shortdescription", "value": "Hylotl Skull"}]
+[
+  {
+    "op": "replace",
+    "value": "Hylotl Fossil",
+    "path": "/completeSetDescriptions/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este esqueleto fossilizado de Hylotl apresenta sinais precoces de adaptação à vida aquática.",
+    "path": "/completeSetDescriptions/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um crânio de Hylotl fossilizado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Hylotl Skull",
+    "path": "/shortdescription"
+  }
+]

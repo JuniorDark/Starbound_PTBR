@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma ocarina. Certifique-se de que você tem tempo para praticar."}, {"op": "replace", "path": "/shortdescription", "value": "Ocarina"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma ocarina. Certifique-se de que você tem tempo para praticar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ocarina",
+    "path": "/shortdescription"
+  }
+]

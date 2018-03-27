@@ -1,27 +1,27 @@
 [
   {
     "op": "replace",
-    "path": "/contentPages/2",
-    "value": "Para facilitar a solução de problemas, cada colony deed é equipado com uma tela a cores que irá mantê-lo informado de cada necessidade dos seus inquilinos, e lembrá-lo para recolher o seu aluguel assim que ele se torna disponível.\n\nInquilinos felizes podem tornar-se amigos para a vida toda! É sua responsabilidade como um senhorio proteger seus inquilinos do perigo. Se você escolher ajudá-los com tarefas você pode ser bem recompensado.\n\nFeliz Colonização!"
+    "value": "Um Guia Para Construir Uma Colonia",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/contentPages/1",
-    "value": "Ajude os seus colonos se sentir em casa! Pode parecer materialista, mas os inquilinos escolhem a sua casa com base em seu conteúdo. Estoque-se em objetos que irá apelar para o seu público-alvo. Atenha-se um tema coerente e você pode ser capaz de atrair a clientela mais favorável. \n\nUma vez que a casa está decorada por toda parte, é hora de colocar o Colony Deed em algum lugar dentro da casa, já disponível na sua loja de móveis local."
+    "value": "Você é um desenvolvedor de propriedades? Você tem uma propriedade vaga que poderia ganhar pixels extras?\n\nNão fique parado, se torne um senhorio intergaláctico hoje!\n\nPara iniciar uma colônia, renove uma antiga, ou comece do zero com uma nova construção. Assegure-se que todas as paredes e tetos são fortemente fechados de elementos externos. Instale, pelo menos uma fonte de luz e uma porta completamente operável.",
+    "path": "/contentPages/0"
   },
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "Você é um desenvolvedor de propriedades? Você tem uma propriedade vaga que poderia ganhar pixels extras?\n\nNão fique parado, se torne um senhorio intergaláctico hoje!\n\nPara iniciar uma colônia, renove uma antiga, ou comece do zero com uma nova construção. Assegure-se que todas as paredes e tetos são fortemente fechados de elementos externos. Instale, pelo menos uma fonte de luz e uma porta completamente operável."
+    "value": "Para facilitar a solução de problemas, cada colony deed é equipado com uma tela a cores que irá mantê-lo informado de cada necessidade dos seus inquilinos, e lembrá-lo para recolher o seu aluguel assim que ele se torna disponível.\n\nInquilinos felizes podem tornar-se amigos para a vida toda! É sua responsabilidade como um senhorio proteger seus inquilinos do perigo. Se você escolher ajudá-los com tarefas você pode ser bem recompensado.\n\nFeliz Colonização!",
+    "path": "/contentPages/2"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "O manual para o Colony Deed, produzido pela Colony Company."
+    "value": "Ajude os seus colonos se sentir em casa! Pode parecer materialista, mas os inquilinos escolhem a sua casa com base em seu conteúdo. Estoque-se em objetos que irá apelar para o seu público-alvo. Atenha-se um tema coerente e você pode ser capaz de atrair a clientela mais favorável. \n\nUma vez que a casa está decorada por toda parte, é hora de colocar o Colony Deed em algum lugar dentro da casa, já disponível na sua loja de móveis local.",
+    "path": "/contentPages/1"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "Um Guia Para Construir Uma Colonia"
+    "value": "O manual para o Colony Deed, produzido pela Colony Company.",
+    "path": "/description"
   }
 ]

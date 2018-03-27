@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Preocupação. Ouvi dizer que os seres humanos são supersticiosos sobre esse tipo de coisa."}, {"op": "replace", "path": "/description", "value": "Spawne seu próprio aldeão humano!"}, {"op": "replace", "path": "/shortdescription", "value": "Human Spawner"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não tem certeza se quer chamar pessoas de carne."}, {"op": "replace", "path": "/apexDescription", "value": "Uma fonte sem fim de macacos sem pêlos."}, {"op": "replace", "path": "/humanDescription", "value": "Que diabo sinistro é esse! Clones humanos ?! Impressionante."}, {"op": "replace", "path": "/avianDescription", "value": "O que eu poderia querer com humanos?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Um spawner humano. Como deliciosamente inútil."}]
+[
+  {
+    "op": "replace",
+    "value": "Um spawner humano. Como deliciosamente inútil.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fonte sem fim de macacos sem pêlos.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupação. Ouvi dizer que os seres humanos são supersticiosos sobre esse tipo de coisa.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não tem certeza se quer chamar pessoas de carne.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Human Spawner",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Spawne seu próprio aldeão humano!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "O que eu poderia querer com humanos?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que diabo sinistro é esse! Clones humanos ?! Impressionante.",
+    "path": "/humanDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Assustado. A coloração sugere que este animal se originou de um ambiente frio. Nada parece conter a sede de sangue dos Floran."}, {"op": "replace", "path": "/description", "value": "A pele de um grande animal da neve."}, {"op": "replace", "path": "/shortdescription", "value": "Large Snowy Pelt"}, {"op": "replace", "path": "/humanDescription", "value": "Lembra-me de um tigre branco. Eles foram extintos alguns séculos atrás."}, {"op": "replace", "path": "/novakidDescription", "value": "É uma pele fina e padronizada."}, {"op": "replace", "path": "/hylotlDescription", "value": "Caçar uma criatura tão bonita. Isto é bárbaro."}, {"op": "replace", "path": "/avianDescription", "value": "O pêlo de alguma fera listrada preto e branco."}, {"op": "replace", "path": "/floranDescription", "value": "Pele de cor e padrõess raros. Valiosa para Floran."}, {"op": "replace", "path": "/apexDescription", "value": "Uma pele padronizada bonita. Eu aposto que a criatura era uma visão para contemplar."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pele padronizada bonita. Eu aposto que a criatura era uma visão para contemplar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pele de cor e padrõess raros. Valiosa para Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Large Snowy Pelt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lembra-me de um tigre branco. Eles foram extintos alguns séculos atrás.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Assustado. A coloração sugere que este animal se originou de um ambiente frio. Nada parece conter a sede de sangue dos Floran.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma pele fina e padronizada.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O pêlo de alguma fera listrada preto e branco.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A pele de um grande animal da neve.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Caçar uma criatura tão bonita. Isto é bárbaro.",
+    "path": "/hylotlDescription"
+  }
+]

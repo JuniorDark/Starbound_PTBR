@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um gerador de energia útil."}, {"op": "replace", "path": "/shortdescription", "value": "Power Generator"}, {"op": "replace", "path": "/apexDescription", "value": "Um gerador de energia."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um gerador de energia."}, {"op": "replace", "path": "/avianDescription", "value": "É um gerador de energia."}, {"op": "replace", "path": "/floranDescription", "value": "Isso faz energia."}, {"op": "replace", "path": "/glitchDescription", "value": "Alegre. Isto gera energia suficiente para todos."}, {"op": "replace", "path": "/humanDescription", "value": "Um gerador. Espero que haja um de reserva também."}, {"op": "replace", "path": "/novakidDescription", "value": "Essa coisa gera energia."}]
+[
+  {
+    "op": "replace",
+    "value": "Um gerador de energia.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um gerador. Espero que haja um de reserva também.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um gerador de energia útil.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um gerador de energia.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alegre. Isto gera energia suficiente para todos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um gerador de energia.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Power Generator",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso faz energia.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa coisa gera energia.",
+    "path": "/novakidDescription"
+  }
+]

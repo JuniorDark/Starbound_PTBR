@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Uma massa carnuda com um pouco de pele resistente e espessa."}, {"op": "replace", "path": "/shortdescription", "value": "Ruin Dermis"}, {"op": "replace", "path": "/floranDescription", "value": "Pele forte é boa proteção."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. A espessura desta pele torna isso incrivelmente forte."}, {"op": "replace", "path": "/novakidDescription", "value": "Essa pele parece mais dura que uma bota de couro."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma massa carnuda com um pouco de pele resistente e espessa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. A espessura desta pele torna isso incrivelmente forte.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ruin Dermis",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pele forte é boa proteção.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa pele parece mais dura que uma bota de couro.",
+    "path": "/novakidDescription"
+  }
+]

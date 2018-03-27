@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/paneLayout/titleLabel/value", "value": "CONVITE DE GRUPO"}, {"op": "replace", "path": "/paneLayout/inviteLabel/value", "value": "Você gostaria de se juntar ao grupo?"}, {"op": "replace", "path": "/paneLayout/inviterName/text", "value": "Lider Vermelho"}, {"op": "replace", "path": "/paneLayout/close/caption", "value": "Recusar"}, {"op": "replace", "path": "/paneLayout/ok/caption", "value": "Aceitar"}]
+[
+  {
+    "op": "replace",
+    "value": "Aceitar",
+    "path": "/paneLayout/ok/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Recusar",
+    "path": "/paneLayout/close/caption"
+  },
+  {
+    "op": "replace",
+    "value": "CONVITE DE GRUPO",
+    "path": "/paneLayout/titleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Lider Vermelho",
+    "path": "/paneLayout/inviterName/text"
+  },
+  {
+    "op": "replace",
+    "value": "Você gostaria de se juntar ao grupo?",
+    "path": "/paneLayout/inviteLabel/value"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Frogg Chest"}, {"op": "replace", "path": "/description", "value": "Um peitoral viscoso."}]
+[
+  {
+    "op": "replace",
+    "value": "Um peitoral viscoso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Frogg Chest",
+    "path": "/shortdescription"
+  }
+]

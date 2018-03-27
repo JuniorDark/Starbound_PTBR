@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um chapéu alto extravagante com monóculo e bigode."}, {"op": "replace", "path": "/shortdescription", "value": "Moneybags Hat"}]
+[
+  {
+    "op": "replace",
+    "value": "Um chapéu alto extravagante com monóculo e bigode.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Moneybags Hat",
+    "path": "/shortdescription"
+  }
+]

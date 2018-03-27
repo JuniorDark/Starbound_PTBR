@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma estátua de um grande herói Avian."}, {"op": "replace", "path": "/shortdescription", "value": "Avian Hero Statue"}, {"op": "replace", "path": "/floranDescription", "value": "Muitosss homem-pássaros mortos. Que desssperdício."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Este Avian tem asas. Elas não parecem reais."}, {"op": "replace", "path": "/apexDescription", "value": "Para marcar o túmulo de um guerreiro Avian, talvez."}, {"op": "replace", "path": "/humanDescription", "value": "Um guerreiro Avian. Ele parece temível."}, {"op": "replace", "path": "/avianDescription", "value": "Um guardião Avian que deu a vida defendendo um templo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Talvez este guerreiro Avian tenha morrido com glória."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma estátua de um Avian orgulhoso."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estátua de um grande herói Avian.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estátua de um Avian orgulhoso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um guardião Avian que deu a vida defendendo um templo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um guerreiro Avian. Ele parece temível.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avian Hero Statue",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Este Avian tem asas. Elas não parecem reais.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez este guerreiro Avian tenha morrido com glória.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Muitosss homem-pássaros mortos. Que desssperdício.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para marcar o túmulo de um guerreiro Avian, talvez.",
+    "path": "/apexDescription"
+  }
+]

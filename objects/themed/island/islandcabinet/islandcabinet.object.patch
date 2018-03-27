@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Island Cabinet"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de coisa com árvore."}, {"op": "replace", "path": "/glitchDescription", "value": "Divertido. Há uma pequena árvore no topo deste armário."}, {"op": "replace", "path": "/avianDescription", "value": "Esta árvore é um pouco pequena para se empoleirar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este armário lembra-me de uma ilha no topo das ondas."}, {"op": "replace", "path": "/apexDescription", "value": "Este armário é muito expressivo para casas Apex."}, {"op": "replace", "path": "/humanDescription", "value": "Um armário com uma pequena árvore no topo. Que adorável!"}, {"op": "replace", "path": "/novakidDescription", "value": "Se aquela árvore fosse um pouco maior, eu poderia me deitar na sombra debaixo dela."}, {"op": "replace", "path": "/description", "value": "Um armário de aparência tropical, completo com uma pequena árvore."}]
+[
+  {
+    "op": "replace",
+    "value": "Divertido. Há uma pequena árvore no topo deste armário.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário com uma pequena árvore no topo. Que adorável!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário de aparência tropical, completo com uma pequena árvore.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de coisa com árvore.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se aquela árvore fosse um pouco maior, eu poderia me deitar na sombra debaixo dela.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Island Cabinet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este armário é muito expressivo para casas Apex.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este armário lembra-me de uma ilha no topo das ondas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta árvore é um pouco pequena para se empoleirar.",
+    "path": "/avianDescription"
+  }
+]

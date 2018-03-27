@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Certamente um mago poderia apenas se teletransportar aqui."}, {"op": "replace", "path": "/description", "value": "Spawne seu próprio mago!\r\n"}, {"op": "replace", "path": "/shortdescription", "value": "Wizard Spawner\r\n"}, {"op": "replace", "path": "/floranDescription", "value": "Floran quer o feiticeiro na festa!"}, {"op": "replace", "path": "/glitchDescription", "value": "Desconfiança. O Glitch não gosta de magia."}, {"op": "replace", "path": "/avianDescription", "value": "Mágica e ciência. Que bela união."}, {"op": "replace", "path": "/hylotlDescription", "value": "Será que isso gerará um feiticeiro, ou outro charlatão?\r\n"}, {"op": "replace", "path": "/humanDescription", "value": "Talvez eu possa me tornar o aprendiz de feiticeiro."}]
+[
+  {
+    "op": "replace",
+    "value": "Floran quer o feiticeiro na festa!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mágica e ciência. Que bela união.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez eu possa me tornar o aprendiz de feiticeiro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desconfiança. O Glitch não gosta de magia.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Spawne seu próprio mago!\r\n",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Certamente um mago poderia apenas se teletransportar aqui.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Será que isso gerará um feiticeiro, ou outro charlatão?\r\n",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wizard Spawner\r\n",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Piodia Slice"}, {"op": "replace", "path": "/description", "value": "Uma variação da pizzap, ela tem mais do que um cheiro de cobre nela."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma variação da pizzap, ela tem mais do que um cheiro de cobre nela.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Piodia Slice",
+    "path": "/shortdescription"
+  }
+]

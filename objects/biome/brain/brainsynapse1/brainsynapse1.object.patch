@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma terminação nervosa do tentáculo"}, {"op": "replace", "path": "/shortdescription", "value": "Synapse"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma terminação nervosa do tentáculo",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Synapse",
+    "path": "/shortdescription"
+  }
+]

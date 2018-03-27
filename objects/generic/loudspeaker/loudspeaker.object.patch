@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "É um conjunto de alto-falantes através dos quais as pessoas falam alto."}, {"op": "replace", "path": "/shortdescription", "value": "Loudspeakers"}, {"op": "replace", "path": "/floranDescription", "value": "Algum tipo de máquina de ssom?"}, {"op": "replace", "path": "/glitchDescription", "value": "Teste. Este dispositivo é capaz de receber sinais em várias freqüências."}, {"op": "replace", "path": "/apexDescription", "value": "Um alto-falante. Os Apex estão acostumados a ver estes em suas casas."}, {"op": "replace", "path": "/humanDescription", "value": "Um conjunto de alto-falantes. Provavelmente são muito altos."}, {"op": "replace", "path": "/avianDescription", "value": "Um estalo vem deste dispositivo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um dispositivo para projetar som."}, {"op": "replace", "path": "/novakidDescription", "value": "Este alto-falante aqui esta crepitando."}]
+[
+  {
+    "op": "replace",
+    "value": "Um estalo vem deste dispositivo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um dispositivo para projetar som.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um conjunto de alto-falantes. Provavelmente são muito altos.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um alto-falante. Os Apex estão acostumados a ver estes em suas casas.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um conjunto de alto-falantes através dos quais as pessoas falam alto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Loudspeakers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de máquina de ssom?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Teste. Este dispositivo é capaz de receber sinais em várias freqüências.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este alto-falante aqui esta crepitando.",
+    "path": "/novakidDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Templar's Breastplate"}, {"op": "replace", "path": "/description", "value": "Um peitoral construído para proteger o soldado vigilante."}]
+[
+  {
+    "op": "replace",
+    "value": "Um peitoral construído para proteger o soldado vigilante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Templar's Breastplate",
+    "path": "/shortdescription"
+  }
+]

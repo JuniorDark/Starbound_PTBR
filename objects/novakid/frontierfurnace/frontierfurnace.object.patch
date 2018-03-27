@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/description", "value": "Uma antiga fornalha de cobre e latão."}, {"op": "replace", "path": "/shortdescription", "value": "Fornalha"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Frontier Furnace"}, {"op": "replace", "path": "/floranDescription", "value": "Essa coissa parece quente. Floran ligeiramente preocupado."}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Gostaria de saber se todos esses tubos realmente tem um propósito?"}, {"op": "replace", "path": "/apexDescription", "value": "Uma fornalha de cobre bastante arcaica."}, {"op": "replace", "path": "/humanDescription", "value": "Esta velha fornalha de metal é realmente muito quente ao toque."}, {"op": "replace", "path": "/avianDescription", "value": "Eu sinto que se eu chegar muito perto disto, vai chamuscar minhas penas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta fornalha velha é muito ineficiente de energia. Eu posso pensar em várias maneiras de melhorar, se eu quisesse."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "Fundição a moda antiga."}, {"op": "replace", "path": "/novakidDescription", "value": "Esse cheiro de carvão queimando... Não há nada como ele."}]
+[
+  {
+    "op": "replace",
+    "value": "Frontier Furnace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Fundição a moda antiga.",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fornalha de cobre bastante arcaica.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma antiga fornalha de cobre e latão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Fornalha",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sinto que se eu chegar muito perto disto, vai chamuscar minhas penas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Gostaria de saber se todos esses tubos realmente tem um propósito?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse cheiro de carvão queimando... Não há nada como ele.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa coissa parece quente. Floran ligeiramente preocupado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta fornalha velha é muito ineficiente de energia. Eu posso pensar em várias maneiras de melhorar, se eu quisesse.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta velha fornalha de metal é realmente muito quente ao toque.",
+    "path": "/humanDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Buzzy Hat"}, {"op": "replace", "path": "/description", "value": "Um chapéu de inseto bonito com pequenas antenas! Que adorável."}]
+[
+  {
+    "op": "replace",
+    "value": "Um chapéu de inseto bonito com pequenas antenas! Que adorável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Buzzy Hat",
+    "path": "/shortdescription"
+  }
+]

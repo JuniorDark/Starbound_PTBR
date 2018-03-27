@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Esta runa foi criada por uma raça que se espalhou entre as estrelas antes mesmo do Hylotl?"}, {"op": "replace", "path": "/floranDescription", "value": "Runasss antigasss... esta significa partículasss de vida."}, {"op": "replace", "path": "/apexDescription", "value": "Esta runa é claramente antiga, mas indica algum apego à compreensão científica."}, {"op": "replace", "path": "/humanDescription", "value": "Este é um símbolo avançado para uma runa tão velha. Parecido com um átomo."}, {"op": "replace", "path": "/avianDescription", "value": "Não há nenhuma chance de esta runa ser de origem Avian, muito científica."}, {"op": "replace", "path": "/glitchDescription", "value": "Respeitoso. Uma runa que representa o elemento mais básico da vida orgânica."}, {"op": "replace", "path": "/description", "value": "Uma runa antiga que simboliza o componente básico de vida."}, {"op": "replace", "path": "/shortdescription", "value": "Component Rune"}, {"op": "replace", "path": "/novakidDescription", "value": "Uma rna velha, que mostra os blocos de construção da vida."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma runa antiga que simboliza o componente básico de vida.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma rna velha, que mostra os blocos de construção da vida.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Runasss antigasss... esta significa partículasss de vida.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Component Rune",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Respeitoso. Uma runa que representa o elemento mais básico da vida orgânica.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não há nenhuma chance de esta runa ser de origem Avian, muito científica.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este é um símbolo avançado para uma runa tão velha. Parecido com um átomo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta runa é claramente antiga, mas indica algum apego à compreensão científica.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta runa foi criada por uma raça que se espalhou entre as estrelas antes mesmo do Hylotl?",
+    "path": "/hylotlDescription"
+  }
+]

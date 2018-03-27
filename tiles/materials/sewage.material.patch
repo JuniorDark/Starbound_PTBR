@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Uma pilha nojenta de esgoto. Adorável."}, {"op": "replace", "path": "/shortdescription", "value": "Raw Sewage"}, {"op": "replace", "path": "/floranDescription", "value": "Floran repugnado por esgoto fedido."}, {"op": "replace", "path": "/glitchDescription", "value": "Repulsado. O fedor desse esgoto é esmagador."}, {"op": "replace", "path": "/novakidDescription", "value": "Parece algum tipo de esgoto. Cheira como um banheiro no sol."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pilha nojenta de esgoto. Adorável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran repugnado por esgoto fedido.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece algum tipo de esgoto. Cheira como um banheiro no sol.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Raw Sewage",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Repulsado. O fedor desse esgoto é esmagador.",
+    "path": "/glitchDescription"
+  }
+]

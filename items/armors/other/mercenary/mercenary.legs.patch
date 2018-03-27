@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um mercenário pouco se importa com a moda."}, {"op": "replace", "path": "/shortdescription", "value": "Mercenary's Greaves"}]
+[
+  {
+    "op": "replace",
+    "value": "Um mercenário pouco se importa com a moda.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Mercenary's Greaves",
+    "path": "/shortdescription"
+  }
+]

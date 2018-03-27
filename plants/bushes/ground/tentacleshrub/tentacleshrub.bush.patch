@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Um braço de peixe."}, {"op": "replace", "path": "/glitchDescription", "value": "Horrorizado. Um grotesco tentáculo."}, {"op": "replace", "path": "/description", "value": "Um grotesco tentáculo."}, {"op": "replace", "path": "/shortdescription", "value": "Um grotesco tentáculo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um grotesco tentáculo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um grotesco tentáculo.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um braço de peixe.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Horrorizado. Um grotesco tentáculo.",
+    "path": "/glitchDescription"
+  }
+]

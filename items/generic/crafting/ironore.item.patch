@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Minério de ferro. Pode ser derretido e transformado em barras."}, {"op": "replace", "path": "/shortdescription", "value": "Iron Ore"}]
+[
+  {
+    "op": "replace",
+    "value": "Iron Ore",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Minério de ferro. Pode ser derretido e transformado em barras.",
+    "path": "/description"
+  }
+]

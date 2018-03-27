@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Uma barril de metal. Está selado."}, {"op": "replace", "path": "/description", "value": "Um barril de metal genérico. Está selado."}, {"op": "replace", "path": "/shortdescription", "value": "Metal Barrel"}, {"op": "replace", "path": "/floranDescription", "value": "Cubo redondo de metal. Sem porta."}, {"op": "replace", "path": "/humanDescription", "value": "Um tambor de metal. Não consigo entrar."}, {"op": "replace", "path": "/glitchDescription", "value": "Frustrado. Um barril de metal, não consigo abri-lo."}, {"op": "replace", "path": "/avianDescription", "value": "Recipiente de metal. Não consigo entrar nisso."}, {"op": "replace", "path": "/hylotlDescription", "value": "Recipiente de metal. Está fechado."}, {"op": "replace", "path": "/novakidDescription", "value": "Um barril de metal selado."}]
+[
+  {
+    "op": "replace",
+    "value": "Um barril de metal genérico. Está selado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma barril de metal. Está selado.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um tambor de metal. Não consigo entrar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um barril de metal selado.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Frustrado. Um barril de metal, não consigo abri-lo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Metal Barrel",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Recipiente de metal. Não consigo entrar nisso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Recipiente de metal. Está fechado.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cubo redondo de metal. Sem porta.",
+    "path": "/floranDescription"
+  }
+]

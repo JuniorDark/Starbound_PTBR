@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Shaft piece background",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Shaft piece background",
+    "path": "/shortdescription"
+  }
+]

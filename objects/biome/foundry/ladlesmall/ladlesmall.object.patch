@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "O líquido derretido neste recipiente brilha levemente."}, {"op": "replace", "path": "/description", "value": "Um recipiente alto cheio de de líquido derretido borbulhante."}, {"op": "replace", "path": "/glitchDescription", "value": "Interessado. É este recipiente de alguma forma mantem o nível de temperatura do líquido dentro?"}, {"op": "replace", "path": "/shortdescription", "value": "Small Ladle"}, {"op": "replace", "path": "/floranDescription", "value": "Líquido ardente borbulha e brilha."}, {"op": "replace", "path": "/humanDescription", "value": "O calor que irradia do líquido aqui dentro é extremo."}, {"op": "replace", "path": "/avianDescription", "value": "Este recipiente contém líquidos derretidos super aquecidos."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este recipiente contém o líquido derretido dentro."}, {"op": "replace", "path": "/novakidDescription", "value": "O líquido aqui está emitindo muito calor."}]
+[
+  {
+    "op": "replace",
+    "value": "Um recipiente alto cheio de de líquido derretido borbulhante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Líquido ardente borbulha e brilha.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. É este recipiente de alguma forma mantem o nível de temperatura do líquido dentro?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Small Ladle",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O calor que irradia do líquido aqui dentro é extremo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O líquido aqui está emitindo muito calor.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O líquido derretido neste recipiente brilha levemente.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este recipiente contém líquidos derretidos super aquecidos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este recipiente contém o líquido derretido dentro.",
+    "path": "/hylotlDescription"
+  }
+]

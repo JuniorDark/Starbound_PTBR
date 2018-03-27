@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um bastão festivo! É festivamente listrado."}, {"op": "replace", "path": "/shortdescription", "value": "Holiday Pole"}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Um bastão de doce listrado."}, {"op": "replace", "path": "/apexDescription", "value": "Um bastão listrado..."}, {"op": "replace", "path": "/humanDescription", "value": "Um bastão de doce listrado."}, {"op": "replace", "path": "/avianDescription", "value": "O bastão é listrado como doce festivo."}, {"op": "replace", "path": "/floranDescription", "value": "É um grande basstão."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um bastão listrado vermelho e branco berrante."}, {"op": "replace", "path": "/novakidDescription", "value": "Parece um doce, mas aposto que não tem gosto!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um bastão de doce listrado.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um bastão listrado vermelho e branco berrante.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um bastão festivo! É festivamente listrado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um bastão listrado...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Um bastão de doce listrado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Holiday Pole",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um grande basstão.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece um doce, mas aposto que não tem gosto!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O bastão é listrado como doce festivo.",
+    "path": "/avianDescription"
+  }
+]

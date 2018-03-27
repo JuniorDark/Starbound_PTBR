@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Wet Dirt"}, {"op": "replace", "path": "/description", "value": "Não é lama, não é terra... é terra molhada."}]
+[
+  {
+    "op": "replace",
+    "value": "Apenas um pouco de terra molhada.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não é bem lama, não é bem terra... é terra molhada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Não Impressionado. É simplesmente terra saturada com água.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wet Dirt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Terra molhada é boa para as plantass.",
+    "path": "/florandescription"
+  }
+]

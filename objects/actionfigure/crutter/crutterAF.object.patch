@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A etiqueta diz, \"Seu veneno é mortal até mesmo em pequenas doses.\""}, {"op": "replace", "path": "/shortdescription", "value": "Crutter Figurine"}]
+[
+  {
+    "op": "replace",
+    "value": "Crutter Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"Seu veneno é mortal até mesmo em pequenas doses.\"",
+    "path": "/description"
+  }
+]

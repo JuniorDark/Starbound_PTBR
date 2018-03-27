@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/description", "value": "Regras de uma Caçada Floran."}, {"op": "replace", "path": "/contentPages/0", "value": "Regras da Caçada são:\n\nLutar com outros Floran\nMatar a grande Presa\nGanhar um trófeu brilhante"}, {"op": "replace", "path": "/title", "value": "Papéis"}]
+[
+  {
+    "op": "replace",
+    "value": "Papéis",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Regras da Caçada são:\n\nLutar com outros Floran\nMatar a grande Presa\nGanhar um trófeu brilhante",
+    "path": "/contentPages/0"
+  },
+  {
+    "op": "replace",
+    "value": "Regras de uma Caçada Floran.",
+    "path": "/description"
+  }
+]

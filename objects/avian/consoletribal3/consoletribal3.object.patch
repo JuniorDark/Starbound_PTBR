@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Carved Flame Console"}, {"op": "replace", "path": "/floranDescription", "value": "Console de homem-pássaro tem chamass nele. Floran odeia fogo."}, {"op": "replace", "path": "/glitchDescription", "value": "Fascinado. Os cristais que alimentam este console são capazes de interagir com outros dispositivos."}, {"op": "replace", "path": "/apexDescription", "value": "Os cristais dentro deste console parecem importantes, mas eu não entendo a tecnologia."}, {"op": "replace", "path": "/humanDescription", "value": "Este painel de acesso tem símbolos que eu não entendo."}, {"op": "replace", "path": "/avianDescription", "value": "Este console é capaz de interagir com outros dispositivos usando vibrações de cristal."}, {"op": "replace", "path": "/hylotlDescription", "value": "As luzes deste console são hipnóticas e bonitas."}, {"op": "replace", "path": "/description", "value": "Um painel de acesso com uma chama esculpida em sua base."}, {"op": "replace", "path": "/novakidDescription", "value": "Estou ansioso para apertar alguns desses botões chiques."}]
+[
+  {
+    "op": "replace",
+    "value": "Um painel de acesso com uma chama esculpida em sua base.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Console de homem-pássaro tem chamass nele. Floran odeia fogo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Carved Flame Console",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fascinado. Os cristais que alimentam este console são capazes de interagir com outros dispositivos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estou ansioso para apertar alguns desses botões chiques.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os cristais dentro deste console parecem importantes, mas eu não entendo a tecnologia.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "As luzes deste console são hipnóticas e bonitas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este painel de acesso tem símbolos que eu não entendo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este console é capaz de interagir com outros dispositivos usando vibrações de cristal.",
+    "path": "/avianDescription"
+  }
+]

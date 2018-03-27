@@ -1,22 +1,22 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um anúncio para o Shockhopper Mech Mk I."
+    "value": "- Um lança-chamas\n- Controles ergonômicos de fácil uso\n\nOBTENHA O SEU HOJE",
+    "path": "/contentPages/1"
   },
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "Uma NOVA oferta fantástica!\nVocê alguma vez quis combinar o punho hidráulico do Pugno Punchamatic, as capacidades de produção de relâmpagos esféricas da Stormotron5000 e o poder de fogo da Theta8 e o Air Missile Launcher? Bem agora você pode!\n\nCom o SHOCKHOPPER MK I do Dr. Akaggy\n\n Outras características surpreendentes incluem::\n\n- Propulsores capazes de alta velocidade E voo"
+    "value": "Uma NOVA oferta fantástica!\nVocê alguma vez quis combinar o punho hidráulico do Pugno Punchamatic, as capacidades de produção de relâmpagos esféricas da Stormotron5000 e o poder de fogo da Theta8 e o Air Missile Launcher? Bem agora você pode!\n\nCom o SHOCKHOPPER MK I do Dr. Akaggy\n\n Outras características surpreendentes incluem::\n\n- Propulsores capazes de alta velocidade E voo",
+    "path": "/contentPages/0"
   },
   {
     "op": "replace",
-    "path": "/contentPages/1",
-    "value": "- Um lança-chamas\n- Controles ergonômicos de fácil uso\n\nOBTENHA O SEU HOJE"
+    "value": "Um anúncio para o Shockhopper Mech Mk I.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "Shockhopper Mech Mk I "
+    "value": "Shockhopper Mech Mk I ",
+    "path": "/title"
   }
 ]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um conjunto grosseiramente produzido de tijolos de pedra."}, {"op": "replace", "path": "/shortdescription", "value": "Rock Bricks"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma produção crua de tijolos de pedra.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Rock Bricks",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedrass empilhadass.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso não é nada mais do que uma pilha de pedras.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não impressionado. Estas são simplesmente pedras empilhadas como tijolos.",
+    "path": "/glitchdescription"
+  }
+]

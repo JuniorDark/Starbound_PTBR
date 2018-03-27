@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Este seria um vaso simples, se não fosse também feito de ouro."}, {"op": "replace", "path": "/humanDescription", "value": "Um simples vaso dourado. Se é que um vaso de ouro pode ser simples."}, {"op": "replace", "path": "/avianDescription", "value": "Um vaso de ouro fino. Talvez tenha algum significado."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este vaso de ouro fino é esteticamente agradável aos olhos."}, {"op": "replace", "path": "/novakidDescription", "value": "Um vaso fino de ouro."}, {"op": "replace", "path": "/description", "value": "Um vaso decorativo fino de ouro"}, {"op": "replace", "path": "/shortdescription", "value": "Gold Slim Vase"}, {"op": "replace", "path": "/floranDescription", "value": "Vaso de ouro é pequeno, mas brilhante."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Este vaso dourado tem um uso prático?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um simples vaso dourado. Se é que um vaso de ouro pode ser simples.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um vaso decorativo fino de ouro",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um vaso de ouro fino. Talvez tenha algum significado.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um vaso fino de ouro.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Este vaso dourado tem um uso prático?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vaso de ouro é pequeno, mas brilhante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este vaso de ouro fino é esteticamente agradável aos olhos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este seria um vaso simples, se não fosse também feito de ouro.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gold Slim Vase",
+    "path": "/shortdescription"
+  }
+]

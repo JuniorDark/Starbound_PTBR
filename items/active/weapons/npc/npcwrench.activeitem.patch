@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Da uma pancada pesada, perfeita para botar máquinas desobedientes em ordem."}, {"op": "replace", "path": "/shortdescription", "value": "NPC Wrench"}]
+[
+  {
+    "op": "replace",
+    "value": "Da uma pancada pesada, perfeita para botar máquinas desobedientes em ordem.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "NPC Wrench",
+    "path": "/shortdescription"
+  }
+]

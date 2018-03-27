@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma pequena máscara facial e boné."}, {"op": "replace", "path": "/shortdescription", "value": "Deadbeat Mask"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pequena máscara facial e boné.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Deadbeat Mask",
+    "path": "/shortdescription"
+  }
+]

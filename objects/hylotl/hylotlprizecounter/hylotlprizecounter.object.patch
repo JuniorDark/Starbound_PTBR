@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Não sou muito fan de brinquedos de pelúcia, mas estes são muito bonito."}, {"op": "replace", "path": "/floranDescription", "value": "Hmmm, Floran quer Tartaruga de pelúcia."}, {"op": "replace", "path": "/glitchDescription", "value": "Motivado. Eu gostaria de ganhar alguns desses..."}, {"op": "replace", "path": "/description", "value": "Uma caixa de vidro cheia de pelúcias e brinquedos."}, {"op": "replace", "path": "/apexDescription", "value": "Oohh, eu me pergunto se eu posso ganhar o unicórnio de pelúcia?"}, {"op": "replace", "path": "/shortdescription", "value": "Arcade Prize Counter"}, {"op": "replace", "path": "/hylotlDescription", "value": "Oooh! Quero todos eles!"}, {"op": "replace", "path": "/avianDescription", "value": "Eu não me importaria de ganhar um Poptop de pelúcia."}, {"op": "replace", "path": "/humanDescription", "value": "Eu sou parcial para esse Numi de pelúcia... me pergunto quanto custa?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma caixa de vidro cheia de pelúcias e brinquedos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Não sou muito fan de brinquedos de pelúcia, mas estes são muito bonito.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Arcade Prize Counter",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hmmm, Floran quer Tartaruga de pelúcia.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não me importaria de ganhar um Poptop de pelúcia.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sou parcial para esse Numi de pelúcia... me pergunto quanto custa?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Motivado. Eu gostaria de ganhar alguns desses...",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Oohh, eu me pergunto se eu posso ganhar o unicórnio de pelúcia?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Oooh! Quero todos eles!",
+    "path": "/hylotlDescription"
+  }
+]

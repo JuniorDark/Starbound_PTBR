@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Pela primeira vez, Floran não tem nada de inteligente para dizer."}, {"op": "replace", "path": "/apexDescription", "value": "Uma porta sinistra e enferrujada."}, {"op": "replace", "path": "/humanDescription", "value": "Uma porta enferrujada."}, {"op": "replace", "path": "/avianDescription", "value": "Uma porta como essa nunca poderia levar a algum lugar notável."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta porta não foi bem conservada."}, {"op": "replace", "path": "/description", "value": "Uma porta enferrujada. Parece que isso deve levar a um porão assustador."}, {"op": "replace", "path": "/shortdescription", "value": "Rusty Door"}, {"op": "replace", "path": "/glitchDescription", "value": "Enojado. Uma porta enferrujada."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta como essa nunca poderia levar a algum lugar notável.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta enferrujada.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta enferrujada. Parece que isso deve levar a um porão assustador.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta sinistra e enferrujada.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Enojado. Uma porta enferrujada.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pela primeira vez, Floran não tem nada de inteligente para dizer.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rusty Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta não foi bem conservada.",
+    "path": "/hylotlDescription"
+  }
+]

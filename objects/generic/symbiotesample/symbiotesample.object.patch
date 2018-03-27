@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Um pequeno simbiote num jarro. Eles são freqüentemente usados para testes."}, {"op": "replace", "path": "/description", "value": "Uma criatura em um jarro, sonhando acordado."}, {"op": "replace", "path": "/shortdescription", "value": "Symbiote in a Jar"}, {"op": "replace", "path": "/glitchDescription", "value": "Simpático. Este simbiote parece um pouco... triste."}, {"op": "replace", "path": "/floranDescription", "value": "Criatura gelatinosa pequena e boba."}, {"op": "replace", "path": "/humanDescription", "value": "Ah, é só um pequeno simbiote num jarro. Coitadinho."}, {"op": "replace", "path": "/avianDescription", "value": "Uma pequena criatura gelatinosa presa num jarro."}, {"op": "replace", "path": "/hylotlDescription", "value": "Duvido que este simbiote goste de viver num jarro mais do que eu."}, {"op": "replace", "path": "/novakidDescription", "value": "Ooh, geléia de dirturchin! Brincadeirinha."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma criatura em um jarro, sonhando acordado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pequena criatura gelatinosa presa num jarro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pequeno simbiote num jarro. Eles são freqüentemente usados para testes.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ah, é só um pequeno simbiote num jarro. Coitadinho.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Duvido que este simbiote goste de viver num jarro mais do que eu.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ooh, geléia de dirturchin! Brincadeirinha.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Criatura gelatinosa pequena e boba.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Symbiote in a Jar",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Simpático. Este simbiote parece um pouco... triste.",
+    "path": "/glitchDescription"
+  }
+]

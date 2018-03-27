@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um moletom sem mangas, confortável e respirável."}, {"op": "replace", "path": "/shortdescription", "value": "Sleeveless Hoodie"}]
+[
+  {
+    "op": "replace",
+    "value": "Um moletom sem mangas, confortável e respirável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Sleeveless Hoodie",
+    "path": "/shortdescription"
+  }
+]

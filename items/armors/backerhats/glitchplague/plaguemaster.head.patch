@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Plague Master Mask"}, {"op": "replace", "path": "/description", "value": "Uma velha máscara de mestre da praga. É seriamente assustadora."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma velha máscara de mestre da praga. É seriamente assustadora.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Plague Master Mask",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um capacete de design aerodinâmico - para o viajante espacial com pressa."}, {"op": "replace", "path": "/shortdescription", "value": "The Aerohelm"}]
+[
+  {
+    "op": "replace",
+    "value": "Um capacete de design aerodinâmico - para o viajante espacial com pressa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "The Aerohelm",
+    "path": "/shortdescription"
+  }
+]

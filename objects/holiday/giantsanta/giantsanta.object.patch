@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Jetpack Santa Statue"}, {"op": "replace", "path": "/floranDescription", "value": "Papai Noel?"}, {"op": "replace", "path": "/apexDescription", "value": "Um velho muito alegre."}, {"op": "replace", "path": "/humanDescription", "value": "Oh oi, Papai- oh... é falso."}, {"op": "replace", "path": "/avianDescription", "value": "Por um momento, eu confundi esta estátua com uma pessoa real."}, {"op": "replace", "path": "/hylotlDescription", "value": "Ele parece muito alegre."}, {"op": "replace", "path": "/glitchDescription", "value": "Assustado. Eu pensei que este velho alegre era real."}, {"op": "replace", "path": "/novakidDescription", "value": "Esse velho com certeza parece feliz com alguma coisa."}, {"op": "replace", "path": "/description", "value": "Ele vê você quando você está dormindo! Ele sabe quando você está acordado!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um velho muito alegre.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Por um momento, eu confundi esta estátua com uma pessoa real.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ele parece muito alegre.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ele vê você quando você está dormindo! Ele sabe quando você está acordado!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Jetpack Santa Statue",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Oh oi, Papai- oh... é falso.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Papai Noel?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Assustado. Eu pensei que este velho alegre era real.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse velho com certeza parece feliz com alguma coisa.",
+    "path": "/novakidDescription"
+  }
+]

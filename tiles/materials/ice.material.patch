@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Ice"}, {"op": "replace", "path": "/description", "value": "Gelo sólido, formigante ao toque."}, {"op": "replace", "path": "/glitchDescription", "value": "Atento. Parece que este gelo é naturalmente congelado."}, {"op": "replace", "path": "/novakidDescription", "value": "Punhado de gelo."}, {"op": "replace", "path": "/floranDescription", "value": "Gelo ssólido gelado."}]
+[
+  {
+    "op": "replace",
+    "value": "Ice",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Punhado de gelo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gelo ssólido gelado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Parece que este gelo é naturalmente congelado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gelo sólido, formigante ao toque.",
+    "path": "/description"
+  }
+]

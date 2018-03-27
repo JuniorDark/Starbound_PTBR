@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Estas calças simples e ligeiramente sujas parece ser feita à mão."}, {"op": "replace", "path": "/shortdescription", "value": "Peasant Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Peasant Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas calças simples e ligeiramente sujas parece ser feita à mão.",
+    "path": "/description"
+  }
+]

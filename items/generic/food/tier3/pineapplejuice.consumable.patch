@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Suco de abacaxi doce e saboroso."}, {"op": "replace", "path": "/shortdescription", "value": "Pineapple Juice"}]
+[
+  {
+    "op": "replace",
+    "value": "Pineapple Juice",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Suco de abacaxi doce e saboroso.",
+    "path": "/description"
+  }
+]

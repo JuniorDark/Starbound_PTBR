@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um carretel que bobina mais rápido quando não está sob carga."}, {"op": "replace", "path": "/shortdescription", "value": "High Speed Reel"}]
+[
+  {
+    "op": "replace",
+    "value": "Um carretel que bobina mais rápido quando não está sob carga.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "High Speed Reel",
+    "path": "/shortdescription"
+  }
+]

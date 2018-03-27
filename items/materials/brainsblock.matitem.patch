@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Matéria cerebral pulsante. Eu me pergunto se ele está pensando."}, {"op": "replace", "path": "/shortdescription", "value": "Brains"}]
+[
+  {
+    "op": "replace",
+    "value": "Alarmado. Existe atividade cérebral dentro deste material?",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Brains",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran quer essfaquear cérebro mole.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Matéria cerebral pulsante. Eu me pergunto se ele está pensando.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Algum cérebro fresco.",
+    "path": "/novakiddescription"
+  }
+]

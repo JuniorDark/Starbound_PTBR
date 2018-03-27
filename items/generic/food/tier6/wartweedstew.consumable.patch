@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um ensopado espesso de wartweed e legumes."}, {"op": "replace", "path": "/shortdescription", "value": "Wartweed Stew"}]
+[
+  {
+    "op": "replace",
+    "value": "Um ensopado espesso de wartweed e legumes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Wartweed Stew",
+    "path": "/shortdescription"
+  }
+]

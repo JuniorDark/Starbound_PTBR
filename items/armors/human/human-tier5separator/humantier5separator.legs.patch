@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Estas calças são um pouco rígidas, mas bem completa que até parece robótica."}, {"op": "replace", "path": "/shortdescription", "value": "Adventurer's Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Adventurer's Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas calças são um pouco rígidas, mas bem completa que até parece robótica.",
+    "path": "/description"
+  }
+]

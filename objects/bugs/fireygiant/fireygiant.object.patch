@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Fireygiant"}, {"op": "replace", "path": "/description", "value": "Um inseto grande e formidável. Pode sobreviver ao calor extremo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um inseto grande e formidável. Pode sobreviver ao calor extremo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Fireygiant",
+    "path": "/shortdescription"
+  }
+]

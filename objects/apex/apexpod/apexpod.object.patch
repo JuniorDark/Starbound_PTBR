@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Pobre alma..."}, {"op": "replace", "path": "/glitchDescription", "value": "Chocado. O que está acontecendo aqui!?"}, {"op": "replace", "path": "/humanDescription", "value": "Que diabos está acontecendo aqui?"}, {"op": "replace", "path": "/avianDescription", "value": "Que processo monstruoso é esse?"}, {"op": "replace", "path": "/apexDescription", "value": "Deus do céu... o que eles fizeram? Eu iria libertá-lo, mas ele parece estar em suporte vital."}, {"op": "replace", "path": "/description", "value": "Parece haver um Apex ali, conectado a um monte de fios e tubos."}, {"op": "replace", "path": "/shortdescription", "value": "Life Support Pod"}, {"op": "replace", "path": "/floranDescription", "value": "Sssopa!"}, {"op": "replace", "path": "/novakidDescription", "value": "Isto não parece certo pra mim."}]
+[
+  {
+    "op": "replace",
+    "value": "Deus do céu... o que eles fizeram? Eu iria libertá-lo, mas ele parece estar em suporte vital.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Life Support Pod",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pobre alma...",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Chocado. O que está acontecendo aqui!?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sssopa!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece haver um Apex ali, conectado a um monte de fios e tubos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Isto não parece certo pra mim.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que processo monstruoso é esse?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que diabos está acontecendo aqui?",
+    "path": "/humanDescription"
+  }
+]

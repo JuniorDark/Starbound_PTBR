@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Minério de durasteel. Pode ser derretido e transformado em barras."}, {"op": "replace", "path": "/shortdescription", "value": "Durasteel Ore"}]
+[
+  {
+    "op": "replace",
+    "value": "Durasteel Ore",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Minério de durasteel. Pode ser derretido e transformado em barras.",
+    "path": "/description"
+  }
+]

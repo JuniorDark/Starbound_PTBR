@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma pizza inteira! Você vai comer tudo isso?"}, {"op": "replace", "path": "/shortdescription", "value": "Pizza"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pizza inteira! Você vai comer tudo isso?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pizza",
+    "path": "/shortdescription"
+  }
+]

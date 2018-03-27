@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Este emblema representa o livre e fluido elemento ar."}, {"op": "replace", "path": "/floranDescription", "value": "Linhass onduladas significa elemento ar."}, {"op": "replace", "path": "/glitchDescription", "value": "Bem informado. Eu acredito que este símbolo é o Emblema Avian do Ar."}, {"op": "replace", "path": "/apexDescription", "value": "O símbolo Avian para o ar."}, {"op": "replace", "path": "/humanDescription", "value": "Eu estou supondo que este símbolo representa o ar ou vento."}, {"op": "replace", "path": "/avianDescription", "value": "Isso é um Emblema Avian do Ar , como eu poderia esquecer isso."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma representação bastante grosseira que representa o elemento ar."}, {"op": "replace", "path": "/shortdescription", "value": "Avian Air Emblem"}, {"op": "replace", "path": "/novakidDescription", "value": "Parece uma gravura Avian representando o vento."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma representação bastante grosseira que representa o elemento ar.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avian Air Emblem",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu estou supondo que este símbolo representa o ar ou vento.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bem informado. Eu acredito que este símbolo é o Emblema Avian do Ar.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece uma gravura Avian representando o vento.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Linhass onduladas significa elemento ar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é um Emblema Avian do Ar , como eu poderia esquecer isso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O símbolo Avian para o ar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este emblema representa o livre e fluido elemento ar.",
+    "path": "/description"
+  }
+]

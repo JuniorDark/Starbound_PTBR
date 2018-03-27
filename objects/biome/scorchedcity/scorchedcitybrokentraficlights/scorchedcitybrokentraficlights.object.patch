@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Esses semáforos quebrados deixaram de ser úteis."}, {"op": "replace", "path": "/novakidDescription", "value": "Semáforos quebrados não são bons para nada."}, {"op": "replace", "path": "/glitchDescription", "value": "Alarmado. Esses semáforos estão completamente quebrados."}, {"op": "replace", "path": "/humanDescription", "value": "Semáforos quebrados não são bons para ninguém!"}, {"op": "replace", "path": "/avianDescription", "value": "Alguns semáforos quebrados."}, {"op": "replace", "path": "/description", "value": "Um conjunto de semáforos, seriamente quebrados."}, {"op": "replace", "path": "/shortdescription", "value": "Broken Traffic Lights"}, {"op": "replace", "path": "/floranDescription", "value": "Luzesss não funcionam mais."}, {"op": "replace", "path": "/apexDescription", "value": "Semáforos quebrados, eles são inúteis."}]
+[
+  {
+    "op": "replace",
+    "value": "Um conjunto de semáforos, seriamente quebrados.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Alarmado. Esses semáforos estão completamente quebrados.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Broken Traffic Lights",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Semáforos quebrados não são bons para nada.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Semáforos quebrados não são bons para ninguém!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Semáforos quebrados, eles são inúteis.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luzesss não funcionam mais.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns semáforos quebrados.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esses semáforos quebrados deixaram de ser úteis.",
+    "path": "/hylotlDescription"
+  }
+]

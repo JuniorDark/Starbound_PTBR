@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Hive Block"}, {"op": "replace", "path": "/description", "value": "Favos de colmeia grudentos feito de restos de criaturas mortas."}]
+[
+  {
+    "op": "replace",
+    "value": "Hive Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Colmeia feita de animaiss esmagadoss.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Revoltado. O material desta colmeia é composto de criaturas esmagadas.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de colmeia feita de criaturas esmagadas.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Favos de colmeia grudentos feito de restos de criaturas mortas.",
+    "path": "/description"
+  }
+]

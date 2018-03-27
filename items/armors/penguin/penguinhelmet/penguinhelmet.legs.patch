@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um capacete militar, usado principalmente pela tripulação de Dreadwing."
+    "value": "Um capacete militar, usado principalmente pela tripulação de Dreadwing.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Penguin Helmet",
+    "path": "/shortdescription"
   }
 ]

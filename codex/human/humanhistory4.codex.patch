@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/description", "value": "O código oficial do Protetorado Terreno."}, {"op": "replace", "path": "/title", "value": "O Código do Protetorado"}, {"op": "replace", "path": "/contentPages/0", "value": "Nós somos o Protetorado Terreno. De nossa casa na Terra, nós trazemos nossa mensagem para as pessoas do universo.\n\nNós aceitamos qualquer raça, classe ou religião. Oferecemos casas, orientação, educação e segurança.\n\nO nosso objetivo é a união e harmonia através do universo.\n\nOs nossos braços estão abertos a todos."}]
+[
+  {
+    "op": "replace",
+    "value": "O Código do Protetorado",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "O código oficial do Protetorado Terreno.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Nós somos o Protetorado Terreno. De nossa casa na Terra, nós trazemos nossa mensagem para as pessoas do universo.\n\nNós aceitamos qualquer raça, classe ou religião. Oferecemos casas, orientação, educação e segurança.\n\nO nosso objetivo é a união e harmonia através do universo.\n\nOs nossos braços estão abertos a todos.",
+    "path": "/contentPages/0"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um bloco com um glifo azul estranho gravado no centro."}, {"op": "replace", "path": "/shortdescription", "value": "Blue Neon Block"}]
+[
+  {
+    "op": "replace",
+    "value": "Um bloco com algum tipo de símbolo levemente brilhante.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um bloco com um glifo azul estranho cravado no centro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Blue Neon Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de ssímboloss brilhantess.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. O significado deste símbolo é desconhecido.",
+    "path": "/glitchdescription"
+  }
+]

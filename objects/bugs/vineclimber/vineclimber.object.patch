@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Vineclimber"}, {"op": "replace", "path": "/description", "value": "Suas pernas parecem vinhas entrelaçadas."}]
+[
+  {
+    "op": "replace",
+    "value": "Suas pernas parecem vinhas entrelaçadas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Vineclimber",
+    "path": "/shortdescription"
+  }
+]

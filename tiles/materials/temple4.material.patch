@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Não impressionado. Essas gravuras são bastante toscas."}, {"op": "replace", "path": "/shortdescription", "value": "Simple Temple Blocks"}, {"op": "replace", "path": "/floranDescription", "value": "Gravuras antigas em tijoloss de pedra."}, {"op": "replace", "path": "/novakidDescription", "value": "Alguém se foi e gravou um monte de fotos nesses tijolos."}, {"op": "replace", "path": "/description", "value": "Blocos antigos e mal trabalhados, gravuras imperfeitas estão riscadas na pedra."}]
+[
+  {
+    "op": "replace",
+    "value": "Blocos antigos e mal trabalhados, gravuras imperfeitas estão riscadas na pedra.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Gravuras antigas em tijoloss de pedra.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Simple Temple Blocks",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém se foi e gravou um monte de fotos nesses tijolos.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não impressionado. Essas gravuras são bastante toscas.",
+    "path": "/glitchDescription"
+  }
+]

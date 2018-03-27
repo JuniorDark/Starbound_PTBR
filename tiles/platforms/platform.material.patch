@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Wood Platform"}, {"op": "replace", "path": "/description", "value": "Uma plataforma de madeira indescritível."}, {"op": "replace", "path": "/glitchDescription", "value": "Familiar. Esta é uma plataforma de madeira básica."}, {"op": "replace", "path": "/novakidDescription", "value": "Só uma plataforma feita de madeira."}, {"op": "replace", "path": "/floranDescription", "value": "Plataformass de madeira simpless."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma plataforma de madeira indescritível.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Wood Platform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Familiar. Esta é uma plataforma de madeira básica.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Só uma plataforma feita de madeira.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plataformass de madeira simpless.",
+    "path": "/floranDescription"
+  }
+]

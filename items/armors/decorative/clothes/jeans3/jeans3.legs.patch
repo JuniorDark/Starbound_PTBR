@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Baggy Jeans"}, {"op": "replace", "path": "/description", "value": "Calças jeans grandes e largas. Um substituto adequado para uma barraca em uma crise."}]
+[
+  {
+    "op": "replace",
+    "value": "Baggy Jeans",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Calças jeans grandes e largas. Um substituto adequado para uma barraca em uma crise.",
+    "path": "/description"
+  }
+]

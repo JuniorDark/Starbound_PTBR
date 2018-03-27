@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um gerador de escudo. Protetor!"}, {"op": "replace", "path": "/shortdescription", "value": "Shield Generator"}, {"op": "replace", "path": "/floranDescription", "value": "Escudosss!"}, {"op": "replace", "path": "/glitchDescription", "value": "Confortado. Um gerador de escudo."}, {"op": "replace", "path": "/apexDescription", "value": "Um gerador de escudo."}, {"op": "replace", "path": "/humanDescription", "value": "Isso vai me manter seguro!"}, {"op": "replace", "path": "/avianDescription", "value": "Isso gera um escudo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um dispositivo de proteção."}, {"op": "replace", "path": "/novakidDescription", "value": "Quem precisa de um escudo, afinal?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um dispositivo de proteção.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um gerador de escudo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um gerador de escudo. Protetor!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Confortado. Um gerador de escudo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Escudosss!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso gera um escudo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso vai me manter seguro!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quem precisa de um escudo, afinal?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Shield Generator",
+    "path": "/shortdescription"
+  }
+]

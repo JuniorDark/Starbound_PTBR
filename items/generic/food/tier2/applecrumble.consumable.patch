@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma Maçã doce cozida sob um manto de crumble dourado."}, {"op": "replace", "path": "/shortdescription", "value": "Apple Crumble"}]
+[
+  {
+    "op": "replace",
+    "value": "Apple Crumble",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma Maçã doce cozida sob um manto de crumble dourado.",
+    "path": "/description"
+  }
+]

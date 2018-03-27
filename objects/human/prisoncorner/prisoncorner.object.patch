@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Decorative Support Beam"}, {"op": "replace", "path": "/description", "value": "Um canto gótico decorativo."}, {"op": "replace", "path": "/floranDescription", "value": "Arquitetura essspetado."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Arquitetura Humana e Glitch parecem compartilhar certas semelhanças."}, {"op": "replace", "path": "/apexDescription", "value": "Humanos pelo menos têm arquitetura agradável para olhar."}, {"op": "replace", "path": "/humanDescription", "value": "Isso seria ótimo com minhas habilidades de decoração de interiores assustadoras."}, {"op": "replace", "path": "/novakidDescription", "value": "Bonito ou aterrorizante?"}, {"op": "replace", "path": "/avianDescription", "value": "Não consigo decidir se isso é bonito ou sinistro."}, {"op": "replace", "path": "/hylotlDescription", "value": "Bonito ou aterrorizante?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um canto gótico decorativo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Decorative Support Beam",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Humanos pelo menos têm arquitetura agradável para olhar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não consigo decidir se isso é bonito ou sinistro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É simples, mas há algo a ser admirado na elaboração.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Arquitetura Humana e Glitch parecem compartilhar certas semelhanças.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bonito ou aterrorizante?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Arquitetura essspetado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso seria ótimo com minhas habilidades de decoração de interiores assustadoras.",
+    "path": "/humanDescription"
+  }
+]

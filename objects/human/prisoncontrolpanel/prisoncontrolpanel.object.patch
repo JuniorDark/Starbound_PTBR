@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Tentado a reunir um monte de prisioneiros, em seguida, liberá-los, apenas para que eu possa gritar \"Fuga de presos!\""}, {"op": "replace", "path": "/description", "value": "Um painel de controle que parece operar luzes, portas e alarmes."}, {"op": "replace", "path": "/shortdescription", "value": "Security Control Panel"}, {"op": "replace", "path": "/floranDescription", "value": "O que essa máquina faz? Floran esta tentado a descobrir da maneira mais rápida."}, {"op": "replace", "path": "/glitchDescription", "value": "Compreensão. Esta máquina controla uma variedade de funções de segurança."}, {"op": "replace", "path": "/apexDescription", "value": "É uma sensação estranha estar do lado operacional de um painel de controle de segurança."}, {"op": "replace", "path": "/avianDescription", "value": "Isso parece ser a maneira de gerenciar todos os tipos de funções de segurança."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este painel controla uma variedade de funções de segurança."}, {"op": "replace", "path": "/novakidDescription", "value": "Um painel de controle. Pena que não pode controlar as pragas."}]
+[
+  {
+    "op": "replace",
+    "value": "Um painel de controle que parece operar luzes, portas e alarmes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um painel de controle. Pena que não pode controlar as pragas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este painel controla uma variedade de funções de segurança.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma sensação estranha estar do lado operacional de um painel de controle de segurança.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Security Control Panel",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tentado a reunir um monte de prisioneiros, em seguida, liberá-los, apenas para que eu possa gritar \"Fuga de presos!\"",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso parece ser a maneira de gerenciar todos os tipos de funções de segurança.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Compreensão. Esta máquina controla uma variedade de funções de segurança.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que essa máquina faz? Floran esta tentado a descobrir da maneira mais rápida.",
+    "path": "/floranDescription"
+  }
+]

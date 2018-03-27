@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Um alcatrão cristalizado."}, {"op": "replace", "path": "/shortdescription", "value": "Um alcatrão cristalizado."}, {"op": "replace", "path": "/floranDescription", "value": "Viscoso e afiado."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Um alcatrão cristalizado."}]
+[
+  {
+    "op": "replace",
+    "value": "Viscoso e afiado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Um alcatrão cristalizado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Piche cristalizado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Piche cristalizado.",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma cama apoiada por uma estrutura de canos."}, {"op": "replace", "path": "/shortdescription", "value": "Steampunk Bed"}, {"op": "replace", "path": "/floranDescription", "value": "Floran quer sseparar canosss, usá-los como armasss."}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Esses canos têm alguma função?"}, {"op": "replace", "path": "/apexDescription", "value": "Esta cama tem uma armação feita de canos de latão velhos. Interessante."}, {"op": "replace", "path": "/avianDescription", "value": "Uma cama bastante charmosa e elegante."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta é uma cama que eu poderia me acostumar."}, {"op": "replace", "path": "/humanDescription", "value": "Uma cama feita de canos! Que encantadoramente retro."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta cama é projetada para parecer que tem mais funções do que faz."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cama feita de canos! Que encantadoramente retro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama apoiada por uma estrutura de canos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama bastante charmosa e elegante.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran quer sseparar canosss, usá-los como armasss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Esses canos têm alguma função?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é uma cama que eu poderia me acostumar.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Steampunk Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama tem uma armação feita de canos de latão velhos. Interessante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama é projetada para parecer que tem mais funções do que faz.",
+    "path": "/hylotlDescription"
+  }
+]

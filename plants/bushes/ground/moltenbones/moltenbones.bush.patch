@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Ossos queimados."}, {"op": "replace", "path": "/shortdescription", "value": "Ossos carbonizados."}, {"op": "replace", "path": "/description", "value": "Ossos carbonizados."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Ossos carbonizados."}]
+[
+  {
+    "op": "replace",
+    "value": "Ossos carbonizados.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ossos carbonizados.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ossos queimados.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Ossos carbonizados.",
+    "path": "/glitchDescription"
+  }
+]

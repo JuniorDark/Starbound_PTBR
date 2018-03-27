@@ -1,1 +1,37 @@
-[{"op": "replace", "path": "/paneLayout/btnCraft/caption", "value": "Forjar"}, {"op": "replace", "path": "/paneLayout/windowtitle/subtitle", "value": "Crie terraformadores para transformar planetas inteiros!"}, {"op": "replace", "path": "/paneLayout/lblSchematics/value", "value": "^#b9b5b2;ESQUEMÁTICOS"}, {"op": "replace", "path": "/paneLayout/lblProducttitle/value", "value": "^#b9b5b2;PRODUTO"}, {"op": "replace", "path": "/paneLayout/windowtitle/title", "value": "Terraforja"}]
+[
+  {
+    "op": "replace",
+    "value": "0",
+    "path": "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Replace Me",
+    "path": "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+  },
+  {
+    "op": "replace",
+    "value": "Crie terraformadores para transformar planetas inteiros!",
+    "path": "/paneLayout/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Terraforja",
+    "path": "/paneLayout/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;PRODUTO",
+    "path": "/paneLayout/lblProducttitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "Forjar",
+    "path": "/paneLayout/btnCraft/caption"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;ESQUEMÁTICOS",
+    "path": "/paneLayout/lblSchematics/value"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Folding Chair"}, {"op": "replace", "path": "/description", "value": "Fique violento! Fique louco! Fira si mesmo e outros!"}]
+[
+  {
+    "op": "replace",
+    "value": "Folding Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fique violento! Fique louco! Fira si mesmo e outros!",
+    "path": "/description"
+  }
+]

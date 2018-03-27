@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Posso encaixar minha mão no buraco desta lâmpada."}, {"op": "replace", "path": "/humanDescription", "value": "Uma lâmpada azul moderna."}, {"op": "replace", "path": "/description", "value": "Uma lâmpada circular oca."}, {"op": "replace", "path": "/shortdescription", "value": "Wave Lamp"}, {"op": "replace", "path": "/floranDescription", "value": "Lâmpada curiosa com furo para as mãoss."}, {"op": "replace", "path": "/glitchDescription", "value": "Despreocupado. Uma lâmpada quente e moderna."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma fonte de luz de aparência moderna."}, {"op": "replace", "path": "/novakidDescription", "value": "Isto será útil quando escurecer."}, {"op": "replace", "path": "/apexDescription", "value": "Uma lâmpada com uma lâmpada grande e redonda."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lâmpada azul moderna.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada circular oca.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada com uma lâmpada grande e redonda.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fonte de luz de aparência moderna.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Despreocupado. Uma lâmpada quente e moderna.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lâmpada curiosa com furo para as mãoss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso encaixar minha mão no buraco desta lâmpada.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto será útil quando escurecer.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wave Lamp",
+    "path": "/shortdescription"
+  }
+]

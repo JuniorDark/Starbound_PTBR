@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma coleira que aumenta a vida total do seu pet."}, {"op": "replace", "path": "/shortdescription", "value": "Health II Collar"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma coleira que aumenta a vida total do seu pet.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Health II Collar",
+    "path": "/shortdescription"
+  }
+]

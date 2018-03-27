@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "A arma de mecha mais barata disponível, um braço que dispara cacos metálicos aquecidos."
+    "value": "Flak Cannon Mech Arm",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A arma de mecha mais barata disponível, um braço que dispara cacos metálicos aquecidos.",
+    "path": "/description"
   }
 ]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran não presta atenção em placa."}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. A afirmação é verdadeira ou falsa?"}, {"op": "replace", "path": "/description", "value": "Uma mensagem em graffiti."}, {"op": "replace", "path": "/shortdescription", "value": "thewayisblocked"}, {"op": "replace", "path": "/apexDescription", "value": "Bloqueado, hein? Vamos ver isso!"}, {"op": "replace", "path": "/humanDescription", "value": "Quando os graffiti se tornaram verdade?"}, {"op": "replace", "path": "/avianDescription", "value": "Uh, talvez eu não deva ignorar isso."}, {"op": "replace", "path": "/hylotlDescription", "value": "O autor desta mensagem é desconhecido, tornando a confiabilidade questionável."}, {"op": "replace", "path": "/novakidDescription", "value": "Tanto faz!"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma mensagem em graffiti.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bloqueado, hein? Vamos ver isso!",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. A afirmação é verdadeira ou falsa?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não presta atenção em placa.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O autor desta mensagem é desconhecido, tornando a confiabilidade questionável.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uh, talvez eu não deva ignorar isso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tanto faz!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quando os graffiti se tornaram verdade?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "thewayisblocked",
+    "path": "/shortdescription"
+  }
+]

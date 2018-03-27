@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Um geode cintilante. Bonito!"}, {"op": "replace", "path": "/description", "value": "Um geodo amarelo e azul."}, {"op": "replace", "path": "/floranDescription", "value": "Pedra bonita e brilhante."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Ah, um lindo geodo!"}, {"op": "replace", "path": "/apexDescription", "value": "Geodos são formações rochosas fascinantes!"}, {"op": "replace", "path": "/humanDescription", "value": "Legal no interior, mas chato do lado de fora. Assim como eu!"}, {"op": "replace", "path": "/shortdescription", "value": "Yellow Geode Sample"}, {"op": "replace", "path": "/novakidDescription", "value": "O interior dessa pedra é outra coisa."}, {"op": "replace", "path": "/hylotlDescription", "value": "Geodos guardam segredos lindos no interior."}]
+[
+  {
+    "op": "replace",
+    "value": "Um geodo amarelo e azul.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Yellow Geode Sample",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um geode cintilante. Bonito!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Legal no interior, mas chato do lado de fora. Assim como eu!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Geodos são formações rochosas fascinantes!",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Geodos guardam segredos lindos no interior.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Ah, um lindo geodo!",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedra bonita e brilhante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O interior dessa pedra é outra coisa.",
+    "path": "/novakidDescription"
+  }
+]

@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/3", "value": "Você pode usar as bordas para atrair Volo para mais perto. Essa é a melhor hora para atacar!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Tiros de rifle de Volo irá diminuir gravemente o seu movimento, certifique-se de evitar ser acertado."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/2", "value": "Os pets de Volo são fracos em comparação à ela. Eu recomendo removê-los da luta primeiro."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/1", "value": "Volo tentará ficar atrás de seus pets para atacar à distância, use a arena para se proteger de seus tiros."}]
+[
+  {
+    "op": "replace",
+    "value": "Tiros de rifle de Volo irá diminuir gravemente o seu movimento, certifique-se de evitar ser acertado.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Volo tentará ficar atrás de seus pets para atacar à distância, use a arena para se proteger de seus tiros.",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Os pets de Volo são fracos em comparação à ela. Eu recomendo removê-los da luta primeiro.",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você pode usar as bordas para atrair Volo para mais perto. Essa é a melhor hora para atacar!",
+    "path": "/scriptConfig/dialog/converse/default/default/3"
+  }
+]

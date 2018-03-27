@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A pele em seu corpo de cogumelo muda de cor quando ele é ameaçado."}, {"op": "replace", "path": "/shortdescription", "value": "Night Clawnacle"}]
+[
+  {
+    "op": "replace",
+    "value": "Night Clawnacle",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A pele em seu corpo de cogumelo muda de cor quando ele é ameaçado.",
+    "path": "/description"
+  }
+]

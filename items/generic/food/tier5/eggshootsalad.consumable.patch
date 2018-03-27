@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma salada ainda substancial simples de eggshoot e feathercrown."}, {"op": "replace", "path": "/shortdescription", "value": "Eggshoot Salad"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma salada ainda substancial simples de eggshoot e feathercrown.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Eggshoot Salad",
+    "path": "/shortdescription"
+  }
+]

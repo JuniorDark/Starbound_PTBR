@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Uma flor forte e afiada."}, {"op": "replace", "path": "/description", "value": "Uma flor metálica e afiada."}, {"op": "replace", "path": "/shortdescription", "value": "Uma flor metálica."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Uma flor metálica."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma flor metálica.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma flor metálica e afiada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma flor forte e afiada.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Uma flor metálica.",
+    "path": "/glitchDescription"
+  }
+]

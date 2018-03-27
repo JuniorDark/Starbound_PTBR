@@ -1,1 +1,162 @@
-[{"op":"replace","path":"/reattack/default/default/0","value":"Agressivo. AÍ ESTÁ VOCÊ DE NOVO!"},{"op":"replace","path":"/reattack/default/default/1","value":"Atento. Nosso inimigo retorna!"},{"op":"replace","path":"/reattack/default/default/2","value":"Intimidador. Você voltou! Agora enfrente o seu destino!"},{"op":"replace","path":"/reattack/default/default/3","value":"Hostil. Eu vou saborear isso!"},{"op":"replace","path":"/reattack/default/default/4","value":"Ameaçador. VI outra vez o nosso alvo!"},{"op":"replace","path":"/attack/default/default/0","value":"Agressivo. EU VEJO VOCÊ!"},{"op":"replace","path":"/attack/default/default/1","value":"Atento. Um pobre viajante se aproxima!"},{"op":"replace","path":"/attack/default/default/2","value":"Intimidante. Você não pode escapar de meu olhar!"},{"op":"replace","path":"/attack/default/default/3","value":"Hostil. Sua história termina aqui, viajante!"},{"op":"replace","path":"/attack/default/default/4","value":"Malévolo. Ninguem escapa dos Cruzados que Tudo vêem!"},{"op":"replace","path":"/attack/default/default/5","value":"Hostil. Testemunhe sua desgraça!"},{"op":"replace","path":"/attack/default/default/6","value":"Malévolo. Abrace a escuridão ofuscante!"},{"op":"replace","path":"/attack/default/default/7","value":"Ameaçador. Eu VI nosso novo alvo!"},{"op":"replace","path":"/attack/default/default/8","value":"Enfurecido. Que miserável atravessa nosso território?!"},{"op":"replace","path":"/attack/default/default/9","value":"Furioso. Esta terra pertence aos Cruzados que Tudo vêem!"},{"op":"replace","path":"/attack/default/default/10","value":"Hostil. Sua história termina aqui, viajante!"},{"op":"replace","path":"/attack/default/default/11","value":"Agressivo. Você vai se arrepender de pisar em nosso território!"},{"op":"replace","path":"/killedTarget/default/default/0","value":"Satisfeito. Os Cruzados que Tudo vêem sucedem mais uma vez!"},{"op":"replace","path":"/killedTarget/default/default/1","value":"Insatisfeito. Devemos continuar nossa cruzada!"},{"op":"replace","path":"/killedTarget/default/default/2","value":"Pensativo. Outra vitória, mas mais virão."},{"op":"replace","path":"/killedTarget/default/default/3","value":"Enfurecido. Exijo um adversário mais digno!"},{"op":"replace","path":"/killedTarget/default/default/4","value":"Descontente. Eu poderia ter terminado isso mais cedo."},{"op":"replace","path":"/lostTarget/default/default/0","value":"Enfurecido. Como eles escaparam do olhar eterno?!"},{"op":"replace","path":"/lostTarget/default/default/1","value":"Surpreso. Como eles evitaram meu olhar?!"},{"op":"replace","path":"/outOfSight/default/default/0","value":"Impiedoso. Nosso inimigo saiu, mas certamente retornará!"},{"op":"replace","path":"/outOfSight/default/default/1","value":"Chocado. Eles estão além da minha vista?"},{"op":"replace","path":"/cantReach/default/default/0","value":"Frustrado. Nosso inimigo é um covarde!"},{"op":"replace","path":"/cantReach/default/default/1","value":"Bravo. Nosso inimigo é um covarde! Enfrente-me diretamente!"},{"op":"replace","path":"/cantReach/default/default/2","value":"Enfurecido. Aproxime-se, demônio!"},{"op":"replace","path":"/cheerOn/default/default/0","value":"Bravo. Derrube o demônio!"},{"op":"replace","path":"/cheerOn/default/default/1","value":"Apoiativo. Os Cruzados que Tudo vêem certamente trará a vitória!"},{"op":"replace","path":"/cheerOn/default/default/2","value":"Apoiativo. Gostaria de testemunhar a destruição do nosso inimigo!"}]
+[
+  {
+    "op": "replace",
+    "value": "Agressivo. AÍ ESTÁ VOCÊ DE NOVO!",
+    "path": "/reattack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Agressivo. Você vai se arrepender de pisar em nosso território!",
+    "path": "/attack/default/default/11"
+  },
+  {
+    "op": "replace",
+    "value": "Bravo. Nosso inimigo é um covarde! Enfrente-me diretamente!",
+    "path": "/cantReach/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Bravo. Derrube o demônio!",
+    "path": "/cheerOn/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Enfurecido. Aproxime-se, demônio!",
+    "path": "/cantReach/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Enfurecido. Como eles escaparam do olhar eterno?!",
+    "path": "/lostTarget/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Enfurecido. Exijo um adversário mais digno!",
+    "path": "/killedTarget/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Enfurecido. Que miserável atravessa nosso território?!",
+    "path": "/attack/default/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Frustrado. Nosso inimigo é um covarde!",
+    "path": "/cantReach/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Furioso. Esta terra pertence aos Cruzados que Tudo vêem!",
+    "path": "/attack/default/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "Impiedoso. Nosso inimigo saiu, mas certamente retornará!",
+    "path": "/outOfSight/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Hostil. Sua história termina aqui, viajante!",
+    "path": "/attack/default/default/10"
+  },
+  {
+    "op": "replace",
+    "value": "Hostil. Eu vou saborear isso!",
+    "path": "/reattack/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Hostil. Testemunhe sua desgraça!",
+    "path": "/attack/default/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Hostil. Sua história termina aqui, viajante!",
+    "path": "/attack/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Intimidador. Você voltou! Agora enfrente o seu destino!",
+    "path": "/reattack/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Malévolo. Abrace a escuridão ofuscante!",
+    "path": "/attack/default/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Malévolo. Ninguem escapa dos Cruzados que Tudo vêem!",
+    "path": "/attack/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Ameaçador. Eu VI nosso novo alvo!",
+    "path": "/attack/default/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Um pobre viajante se aproxima!",
+    "path": "/attack/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Nosso inimigo retorna!",
+    "path": "/reattack/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Os Cruzados que Tudo vêem sucedem mais uma vez!",
+    "path": "/killedTarget/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Apoiativo. Gostaria de testemunhar a destruição do nosso inimigo!",
+    "path": "/cheerOn/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Apoiativo. Os Cruzados que Tudo vêem certamente trará a vitória!",
+    "path": "/cheerOn/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Pensativo. Outra vitória, mas mais virão.",
+    "path": "/killedTarget/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Insatisfeito. Devemos continuar nossa cruzada!",
+    "path": "/killedTarget/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Agressivo. EU TE VEJO!",
+    "path": "/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Descontente. Eu poderia ter terminado isso mais cedo.",
+    "path": "/killedTarget/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Intimidador. Você não pode escapar de meu olhar!",
+    "path": "/attack/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Ameaçador. Eu VI o nosso alvo novamente!",
+    "path": "/reattack/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Chocado. Eles estão além da minha visão?",
+    "path": "/outOfSight/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Como eles evitaram meu olhar?!",
+    "path": "/lostTarget/default/default/1"
+  }
+]

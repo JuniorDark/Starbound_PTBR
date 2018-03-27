@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma placa anunciando um lugar para comprar coisas."}, {"op": "replace", "path": "/shortdescription", "value": "Store Sign"}, {"op": "replace", "path": "/floranDescription", "value": "Placa para uma loja."}, {"op": "replace", "path": "/glitchDescription", "value": "Consolado. Uma placa que indica uma loja."}, {"op": "replace", "path": "/apexDescription", "value": "Uma placa para uma loja."}, {"op": "replace", "path": "/humanDescription", "value": "Parece uma placa de uma loja."}, {"op": "replace", "path": "/avianDescription", "value": "Ele diz \"loja\"."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este é a placa para uma loja."}, {"op": "replace", "path": "/novakidDescription", "value": "Deve ser uma loja."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma placa anunciando um lugar para comprar coisas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa para uma loja.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Consolado. Uma placa que indica uma loja.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ele diz \"loja\".",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece uma placa de uma loja.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Deve ser uma loja.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Placa para uma loja.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Store Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este é a placa para uma loja.",
+    "path": "/hylotlDescription"
+  }
+]

@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Um interruptor /'E'/. Exige que todas as entradas estejam /'ativadas'/ para ativar."}, {"op": "replace", "path": "/shortdescription", "value": "AND Switch"}, {"op": "replace", "path": "/floranDescription", "value": "Um interruptor /'E'/. Requer que todas as entradas estejam /'ativadas'/ para ativar."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Um interruptor /'E'/. Requer que todas as entradas estejam /'ativadas'/ para ativar."}]
+[
+  {
+    "op": "replace",
+    "value": "AND Switch",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um interruptor /'E'/. Requer que todas as entradas estejam /'ativadas'/ para ativar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um interruptor /'E'/. Exige que todas as entradas estejam /'ativadas'/ para ativar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Um interruptor /'E'/. Requer que todas as entradas estejam /'ativadas'/ para ativar.",
+    "path": "/glitchDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Equipamento do laboratório tecnológico."}, {"op": "replace", "path": "/shortdescription", "value": "Tech Lab"}, {"op": "replace", "path": "/floranDescription", "value": "O que tudo isso faz?"}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Que instalação eletrônica complexa."}, {"op": "replace", "path": "/apexDescription", "value": "Esta tecnologia é bastante impressionante."}, {"op": "replace", "path": "/avianDescription", "value": "Esta sala toda está conectada."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma tapeçaria indomável de fios e tecnologia."}, {"op": "replace", "path": "/humanDescription", "value": "Esta configuração é legal! Eu me pergunto o que essa coisa faz..."}, {"op": "replace", "path": "/novakidDescription", "value": "Estas coisas me parecem muito complicadas. Quero tocá-las!"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma tapeçaria indomável de fios e tecnologia.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Que instalação eletrônica complexa.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tech Lab",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Equipamento do laboratório tecnológico.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta configuração é legal! Eu me pergunto o que essa coisa faz...",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas coisas me parecem muito complicadas. Quero tocá-las!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta tecnologia é bastante impressionante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta sala toda está conectada.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que tudo isso faz?",
+    "path": "/floranDescription"
+  }
+]

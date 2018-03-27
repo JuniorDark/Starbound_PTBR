@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um elmo de metal com um chifre saliente na frente."}, {"op": "replace", "path": "/shortdescription", "value": "Deadbeat Horn Helm"}]
+[
+  {
+    "op": "replace",
+    "value": "Um elmo de metal com um chifre saliente na frente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Deadbeat Horn Helm",
+    "path": "/shortdescription"
+  }
+]

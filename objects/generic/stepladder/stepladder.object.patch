@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Uma escada. Para quando você precisa ser um pouco mais alto."}, {"op": "replace", "path": "/description", "value": "Uma escada."}, {"op": "replace", "path": "/shortdescription", "value": "Stepladder"}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. É uma escada bastante curta."}, {"op": "replace", "path": "/avianDescription", "value": "Uma escada pouco notável."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma escada. Não há muito mais a dizer sobre isso."}, {"op": "replace", "path": "/humanDescription", "value": "Um pequeno passo para o homem..."}, {"op": "replace", "path": "/floranDescription", "value": "Escada minússscula."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma escada! Às vezes, você precisa de um pequeno impulso."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma escada pouco notável.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma escada! Às vezes, você precisa de um pequeno impulso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma escada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma escada. Para quando você precisa ser um pouco mais alto.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma escada. Não há muito mais a dizer sobre isso.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. É uma escada bastante curta.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pequeno passo para o homem...",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Stepladder",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Escada minússscula.",
+    "path": "/floranDescription"
+  }
+]

@@ -1,1 +1,82 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/0", "value": "Intruso!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/14", "value": "Venha aqui!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/0", "value": "Carne fresca!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/10", "value": "Não há como escapar, estranho!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/11", "value": "Chegue mais perto para que eu possa te dar um soco!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/3", "value": "Isso vai ser satisfatório!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/4", "value": "Vindo aqui? Grande erro."}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/5", "value": "Eu vou desfrutar disto!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/12", "value": "Grr! Você é carne morta!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/13", "value": "Eu odeio estranhos!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/6", "value": "Oi! Vem Cá."}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/7", "value": "Você esta procurando uma encrenca!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/8", "value": "Eu vou dar um soco, então eu vou dar um soco novamente!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/1", "value": "Finalmente, algo interessante para socar."}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/2", "value": "Eu vou te estraçalhar como papel!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/9", "value": "Você mexeu com a pessoa errada!"}]
+[
+  {
+    "op": "replace",
+    "value": "Intruso!",
+    "path": "/scriptConfig/dialog/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Venha aqui!",
+    "path": "/scriptConfig/dialog/attack/human/default/14"
+  },
+  {
+    "op": "replace",
+    "value": "Vindo aqui? Grande erro.",
+    "path": "/scriptConfig/dialog/attack/human/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Finalmente, algo interessante para socar.",
+    "path": "/scriptConfig/dialog/attack/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Carne fresca!",
+    "path": "/scriptConfig/dialog/attack/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Chegue mais perto para que eu possa te dar um soco!",
+    "path": "/scriptConfig/dialog/attack/human/default/11"
+  },
+  {
+    "op": "replace",
+    "value": "Grr! Você é carne morta!",
+    "path": "/scriptConfig/dialog/attack/human/default/12"
+  },
+  {
+    "op": "replace",
+    "value": "Eu odeio estranhos!",
+    "path": "/scriptConfig/dialog/attack/human/default/13"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vou dar um soco, então eu vou dar um soco novamente!",
+    "path": "/scriptConfig/dialog/attack/human/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vou desfrutar disto!",
+    "path": "/scriptConfig/dialog/attack/human/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vou te estraçalhar como papel!",
+    "path": "/scriptConfig/dialog/attack/human/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Oi! Vem Cá.",
+    "path": "/scriptConfig/dialog/attack/human/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Não há como escapar, estranho!",
+    "path": "/scriptConfig/dialog/attack/human/default/10"
+  },
+  {
+    "op": "replace",
+    "value": "Isso vai ser satisfatório!",
+    "path": "/scriptConfig/dialog/attack/human/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Você esta procurando uma encrenca!",
+    "path": "/scriptConfig/dialog/attack/human/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Você mexeu com a pessoa errada!",
+    "path": "/scriptConfig/dialog/attack/human/default/9"
+  }
+]

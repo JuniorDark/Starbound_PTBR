@@ -1,1 +1,12 @@
-[{"op":"replace","path":"/messages/alreadyKnown","value":"Códice já conhecido."},{"op":"replace","path":"/messages/learned","value":"Códice adicionado ao diário!"}]
+[
+  {
+    "op": "replace",
+    "value": "Códice adicionado ao diário!",
+    "path": "/messages/learned"
+  },
+  {
+    "op": "replace",
+    "value": "Códice já conhecido.",
+    "path": "/messages/alreadyKnown"
+  }
+]

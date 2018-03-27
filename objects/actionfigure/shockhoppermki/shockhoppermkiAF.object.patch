@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Shockhopper MK I Figurine"}, {"op": "replace", "path": "/description", "value": "A etiqueta diz, \"Um Pinguim mecânico experimental, empunhando um braço de lança-chamas e um punho pneumático.\""}]
+[
+  {
+    "op": "replace",
+    "value": "Shockhopper MK I Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"Um Pinguim mecânico experimental, empunhando um braço de lança-chamas e um punho pneumático.\"",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,142 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/25", "value": "Homem Larva diz: Meus pensamentos são todos tostões."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/18", "value": "Homem Larva diz: Não tente andar e falar, se você não pode."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/26", "value": "Homem Larva diz: Quando é Roma?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Eu dou conselho sensato para aqueles que eu confio."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/0", "value": "Homem Larva diz: Um arbusto em cada mão vale dois pássaros."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/1", "value": "Homem Larva diz: Ensine um peixe a comer, e ele sera homem pelo resto da vida."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/2", "value": "Homem Larva diz: Dois erros quase fizeram uma esquerda."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/3", "value": "Homem Larva diz: É realmente difícil chorar pelo leite derramado."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/4", "value": "Homem Larva diz: Espadas poderosas não são boas canetas."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/5", "value": "Homem Larva diz: Norman é uma ilha."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/6", "value": "Homem Larva diz: Pessoas que têm pedras não devem jogar casas de vidro."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/7", "value": "Homem Larva diz: Nunca assista potes ferver."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/10", "value": "Homem Larva diz: Nunca cubra um juiz com livros."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/19", "value": "Homem Larva diz: Sirva todos os seus pratos frios, como vingança."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/20", "value": "Homem Larva diz: Seu gato tem mais de uma pele."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/21", "value": "Homem Larva diz: Eu tenho milhares de fotos de palavras."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/11", "value": "Homem Larva diz: Não coloque um presente na boca de um cavalo."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/12", "value": "Homem Larva diz: Ladrões são grossos."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/8", "value": "Homem Larva diz: Você pode fazer dois caldos com muitos cozimentos."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/13", "value": "Homem Larva diz: O sangue é como água espessa."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/14", "value": "Homem Larva diz: Eu não tenho visto ou ouvido qualquer criança."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/15", "value": "Homem Larva diz: Cães todos os dias."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/16", "value": "Homem Larva diz: Homens mortos não têm caudas."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/17", "value": "Homem Larva diz: Hoje o meu relógio quebrou duas vezes."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/22", "value": "Homem Larva diz: Sleeping Dogs são mentirosos."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/23", "value": "Homem Larva diz: Você é o que você vê quando você chegar."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/24", "value": "Homem Larva diz: Continue encontrando perdedores chorando."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/9", "value": "Homem Larva diz: Alimente mãos para aqueles que te mordem."}]
+[
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Um arbusto em cada mão vale dois pássaros.",
+    "path": "/scriptConfig/dialog/converse/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: O sangue é como água espessa.",
+    "path": "/scriptConfig/dialog/converse/human/default/13"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Homens mortos não têm caudas.",
+    "path": "/scriptConfig/dialog/converse/human/default/16"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Cães todos os dias.",
+    "path": "/scriptConfig/dialog/converse/human/default/15"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Não coloque um presente na boca de um cavalo.",
+    "path": "/scriptConfig/dialog/converse/human/default/11"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Não tente andar e falar, se você não pode.",
+    "path": "/scriptConfig/dialog/converse/human/default/18"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Alimente mãos para aqueles que te mordem.",
+    "path": "/scriptConfig/dialog/converse/human/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Eu tenho milhares de fotos de palavras.",
+    "path": "/scriptConfig/dialog/converse/human/default/21"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Eu não tenho visto ou ouvido qualquer criança.",
+    "path": "/scriptConfig/dialog/converse/human/default/14"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: É realmente difícil chorar pelo leite derramado.",
+    "path": "/scriptConfig/dialog/converse/human/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Continue encontrando perdedores chorando.",
+    "path": "/scriptConfig/dialog/converse/human/default/24"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Espadas poderosas não são boas canetas.",
+    "path": "/scriptConfig/dialog/converse/human/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Meus pensamentos são todos tostões.",
+    "path": "/scriptConfig/dialog/converse/human/default/25"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Nunca cubra um juiz com livros.",
+    "path": "/scriptConfig/dialog/converse/human/default/10"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Nunca assista potes ferver.",
+    "path": "/scriptConfig/dialog/converse/human/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Norman é uma ilha.",
+    "path": "/scriptConfig/dialog/converse/human/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Pessoas que têm pedras não devem jogar casas de vidro.",
+    "path": "/scriptConfig/dialog/converse/human/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Sirva todos os seus pratos frios, como vingança.",
+    "path": "/scriptConfig/dialog/converse/human/default/19"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Sleeping Dogs são mentirosos.",
+    "path": "/scriptConfig/dialog/converse/human/default/22"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Ensine um peixe a comer, e ele sera homem pelo resto da vida.",
+    "path": "/scriptConfig/dialog/converse/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Ladrões são grossos.",
+    "path": "/scriptConfig/dialog/converse/human/default/12"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Hoje o meu relógio quebrou duas vezes.",
+    "path": "/scriptConfig/dialog/converse/human/default/17"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Dois erros quase fizeram uma esquerda.",
+    "path": "/scriptConfig/dialog/converse/human/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Quando é Roma?",
+    "path": "/scriptConfig/dialog/converse/human/default/26"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Você é o que você vê quando você chegar.",
+    "path": "/scriptConfig/dialog/converse/human/default/23"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Você pode fazer dois caldos com muitos cozimentos.",
+    "path": "/scriptConfig/dialog/converse/human/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Homem Larva diz: Seu gato tem mais de uma pele.",
+    "path": "/scriptConfig/dialog/converse/human/default/20"
+  },
+  {
+    "op": "replace",
+    "value": "Eu dou conselho sensato para aqueles que eu confio.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

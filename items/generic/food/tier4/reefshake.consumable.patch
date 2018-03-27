@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um milkshake de reefpod! As crianças adoram."}, {"op": "replace", "path": "/shortdescription", "value": "Reefshake"}]
+[
+  {
+    "op": "replace",
+    "value": "Um milkshake de reefpod! As crianças adoram.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Reefshake",
+    "path": "/shortdescription"
+  }
+]

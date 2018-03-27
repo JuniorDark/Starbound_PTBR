@@ -1,22 +1,22 @@
 [
   {
     "op": "replace",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Sente-se comigo por um momento e vamos desfrutar destas belas flores."
+    "value": "Sinos na grande árvore.\nCanções de vento de mudança que estão chegando.\nPétalas fugazes caem.",
+    "path": "/scriptConfig/dialog/converse/default/default/3"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/dialog/converse/default/default/1",
-    "value": "Algumas situações exigem pressa, mas não deixe que pequenos momentos da vida passem despercebidos."
+    "value": "Sente-se comigo por um momento e vamos desfrutar destas belas flores.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/dialog/converse/default/default/2",
-    "value": "Esta árvore tem resistido durante séculos, um símbolo de força e dignidade do Protetorado."
+    "value": "Algumas situações exigem pressa, mas não deixe que pequenos momentos da vida passem despercebidos.",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/dialog/converse/default/default/3",
-    "value": "Sinos na grande árvore.\nCanções de vento de mudança que estão chegando.\nPétalas fugazes caem."
+    "value": "Esta árvore tem resistido durante séculos, um símbolo de força e dignidade do Protetorado.",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
   }
 ]

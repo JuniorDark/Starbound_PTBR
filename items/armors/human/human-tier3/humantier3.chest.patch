@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Pioneer's Chestguard"}, {"op": "replace", "path": "/description", "value": "Protege um pioneiro ao dar seus primeiros passos a um novo mundo."}]
+[
+  {
+    "op": "replace",
+    "value": "Pioneer's Chestguard",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protege um pioneiro ao dar seus primeiros passos a um novo mundo.",
+    "path": "/description"
+  }
+]

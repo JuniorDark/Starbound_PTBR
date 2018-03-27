@@ -1,7 +1,7 @@
 [
   {
     "op": "replace",
-    "path": "/ability/name",
-    "value": "Barragem de Lâmina"
+    "value": "Barragem de Lâmina",
+    "path": "/ability/name"
   }
 ]

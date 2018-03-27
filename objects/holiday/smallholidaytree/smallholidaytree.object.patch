@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "É uma árvore sintética. Precisa de mais luzes e decorações."}, {"op": "replace", "path": "/floranDescription", "value": "Não é árvore brilhante. Só árvore."}, {"op": "replace", "path": "/humanDescription", "value": "É uma pena que seja sintética, ainda me lembro do cheiro de pinheiros reais."}, {"op": "replace", "path": "/novakidDescription", "value": "É uma árvore, mas não uma árvore de verdade?"}, {"op": "replace", "path": "/glitchDescription", "value": "Desapontado. Esta árvore sintética carece de decoração."}, {"op": "replace", "path": "/description", "value": "Uma pequena árvore de abeto sintética."}, {"op": "replace", "path": "/shortdescription", "value": "Small Faux Fir Tree"}, {"op": "replace", "path": "/avianDescription", "value": "Esta árvore parece convincentemente real."}, {"op": "replace", "path": "/hylotlDescription", "value": "Apesar da sua inautenticidade, esta é uma árvore muito bonita."}]
+[
+  {
+    "op": "replace",
+    "value": "Apesar da sua inautenticidade, esta é uma árvore muito bonita.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desapontado. Esta árvore sintética carece de decoração.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma pena que seja sintéticao, ainda me lembro do cheiro de pinheiros reais.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma árvore sintética. Precisa de mais luzes e decorações.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma árvore, mas não uma árvore de verdade?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não é árvore brilhante. Só árvore.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta árvore parece convincentemente real.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pequena árvore de abeto sintética.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Small Faux Fir Tree",
+    "path": "/shortdescription"
+  }
+]

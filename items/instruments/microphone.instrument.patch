@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Low-Pitch Microphone"}, {"op": "replace", "path": "/description", "value": "Um microfone. Quão baixo você pode ir?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um microfone. Quão baixo você pode ir?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Low-Pitch Microphone",
+    "path": "/shortdescription"
+  }
+]

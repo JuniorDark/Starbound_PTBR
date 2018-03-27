@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Macio como uma banana, mas com um gosto metálico horrível."}, {"op": "replace", "path": "/avianDescription", "value": "Os grounded se tornaram completamente apaixonados por este estranho vegetal metálico."}, {"op": "replace", "path": "/hylotlDescription", "value": "O boltbulb é um dos poucos vegetais genuinamente saborosos, para verdadeiros conhecedores."}, {"op": "replace", "path": "/description", "value": "Cresce boltbulb! Surpreendentemente macio."}, {"op": "replace", "path": "/shortdescription", "value": "Boltbulb Seed"}, {"op": "replace", "path": "/floranDescription", "value": "Metal mole, não gosto de carne Glitch"}, {"op": "replace", "path": "/glitchDescription", "value": "Sentimental. Este vegetal tem gosto de casa."}, {"op": "replace", "path": "/humanDescription", "value": "Nojento, comer isso é como comer pedaços de um caminhão."}, {"op": "replace", "path": "/novakidDescription", "value": "Um vegetal metálico? Eu vou experimentar qualquer hora."}]
+[
+  {
+    "op": "replace",
+    "value": "Cresce boltbulb! Surpreendentemente macio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Boltbulb Seed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nojento, comer isso é como comer pedaços de um caminhão.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sentimental. Este vegetal tem gosto de casa.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Macio como uma banana, mas com um gosto metálico horrível.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Metal mole, não é como carne Glitch.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O boltbulb é um dos poucos vegetais genuinamente saborosos, para verdadeiros conhecedores.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os grounded se tornaram completamente apaixonados por este estranho vegetal metálico.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um vegetal metálico? Eu vou experimentar qualquer hora.",
+    "path": "/novakidDescription"
+  }
+]

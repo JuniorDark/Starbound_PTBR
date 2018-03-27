@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Eu me pergunto para que são todos esses botões..."}, {"op": "replace", "path": "/shortdescription", "value": "Console Keyboard"}, {"op": "replace", "path": "/apexDescription", "value": "Um teclado Apex que contém cada uma das 26 teclas no alfabeto Apex."}, {"op": "replace", "path": "/humanDescription", "value": "Não é QWERTY... mas eu reconheço muitas das letras aqui."}, {"op": "replace", "path": "/avianDescription", "value": "Um dispositivo com muitos botões, um símbolo alienígena em cada um."}, {"op": "replace", "path": "/hylotlDescription", "value": "Letras Hylotl fluem como água. Letras Apex fluem como pedra."}, {"op": "replace", "path": "/floranDescription", "value": "Tecnologia boba."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Apenas 26 símbolos?"}, {"op": "replace", "path": "/novakidDescription", "value": "Um teclado. Usado para digitar."}]
+[
+  {
+    "op": "replace",
+    "value": "Um dispositivo com muitos botões, um símbolo alienígena em cada um.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um teclado. Usado para digitar.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um teclado Apex que contém cada uma das 26 teclas no alfabeto Apex.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Console Keyboard",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Apenas 26 símbolos?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Letras Hylotl fluem como água. Letras Apex fluem como pedra.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto para que são todos esses botões...",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Não é QWERTY... mas eu reconheço muitas das letras aqui.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tecnologia boba.",
+    "path": "/floranDescription"
+  }
+]

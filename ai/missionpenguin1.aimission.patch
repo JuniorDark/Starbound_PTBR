@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/speciesText/default/selectSpeech/text", "value": "O proprietário do Break Easy requer assistência. Derrote Dreadwing."}, {"op": "replace", "path": "/speciesText/default/buttonText", "value": "Dreadwing"}, {"op": "replace", "path": "/speciesText/default/repeatButtonText", "value": "Desafie Dreadwing novamente"}]
+[
+  {
+    "op": "replace",
+    "value": "Dreadwing",
+    "path": "/speciesText/default/buttonText"
+  },
+  {
+    "op": "replace",
+    "value": "Desafie Dreadwing novamente",
+    "path": "/speciesText/default/repeatButtonText"
+  },
+  {
+    "op": "replace",
+    "value": "O proprietário do Break Easy requer assistência. Derrote Dreadwing.",
+    "path": "/speciesText/default/selectSpeech/text"
+  }
+]

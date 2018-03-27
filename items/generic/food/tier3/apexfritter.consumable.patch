@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um prato Apex crocante. Uma fritura de milho, com banana, é claro."}, {"op": "replace", "path": "/shortdescription", "value": "Apex Fritter"}]
+[
+  {
+    "op": "replace",
+    "value": "Um prato Apex crocante. Uma fritura de milho, com banana, é claro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Apex Fritter",
+    "path": "/shortdescription"
+  }
+]

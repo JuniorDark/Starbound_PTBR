@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/description", "value": "Lava derretida mortal!"}]
+[
+  {
+    "op": "replace",
+    "value": "Lava derretida mortal!",
+    "path": "/description"
+  }
+]

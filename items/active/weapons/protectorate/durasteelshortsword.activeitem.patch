@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Esta espada curta é forjada a partir durasteel sólida."}, {"op": "replace", "path": "/shortdescription", "value": "Durasteel Shortsword"}]
+[
+  {
+    "op": "replace",
+    "value": "Durasteel Shortsword",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta espada curta é forjada a partir durasteel sólida.",
+    "path": "/description"
+  }
+]

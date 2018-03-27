@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Traditional Trousers"}, {"op": "replace", "path": "/description", "value": "Calças básicas que é flexível e impermeável."}]
+[
+  {
+    "op": "replace",
+    "value": "Calças básicas que é flexível e impermeável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Traditional Trousers",
+    "path": "/shortdescription"
+  }
+]

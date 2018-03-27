@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Esta bateria pode ser usada para alimentar estações tecnológicas, armas e vestimentas!"}, {"op": "replace", "path": "/shortdescription", "value": "Battery"}]
+[
+  {
+    "op": "replace",
+    "value": "Battery",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta bateria pode ser usada para alimentar estações tecnológicas, armas e vestimentas!",
+    "path": "/description"
+  }
+]

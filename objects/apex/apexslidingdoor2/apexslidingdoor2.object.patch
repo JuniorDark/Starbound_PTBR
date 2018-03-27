@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Essas portas deslizantes fazem um som satisfatório."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta porta parece não ter nenhuma fechadura ou maçaneta."}, {"op": "replace", "path": "/avianDescription", "value": "Que arquitetura curiosa."}, {"op": "replace", "path": "/shortdescription", "value": "Black Sliding Door"}, {"op": "replace", "path": "/description", "value": "Uma porta deslizante leve, anunciada como sendo mais elegante, mais rápida e mais cara."}, {"op": "replace", "path": "/floranDescription", "value": "Porta chia como sserpente."}, {"op": "replace", "path": "/apexDescription", "value": "Essas portas foram construídas para ocultar segredos."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma porta impressionante. Com certeza essas não são baratas."}, {"op": "replace", "path": "/glitchDescription", "value": "Brincalhão. O barulho de deslizamento envia uma faísca através de meus circuitos."}]
+[
+  {
+    "op": "replace",
+    "value": "Black Sliding Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta deslizante leve, anunciada como sendo mais elegante, mais rápida e mais cara.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta impressionante. Com certeza essas não são baratas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Porta chia como sserpente.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Brincalhão. O barulho de deslizamento envia uma faísca através de meus circuitos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que arquitetura curiosa.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas portas foram construídas para ocultar segredos.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas portas deslizantes fazem um som satisfatório.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta parece não ter nenhuma fechadura ou maçaneta.",
+    "path": "/hylotlDescription"
+  }
+]

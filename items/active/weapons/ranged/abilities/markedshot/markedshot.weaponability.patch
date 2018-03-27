@@ -1,7 +1,7 @@
 [
   {
     "op": "replace",
-    "path": "/ability/name",
-    "value": "Tiro Marcado"
+    "value": "Tiro Marcado",
+    "path": "/ability/name"
   }
 ]

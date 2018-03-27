@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Furtivo. Analisando os padrões do holofote, seria fácil esgueirar-se ao redor dele."}, {"op": "replace", "path": "/shortdescription", "value": "Iron Spotlight"}, {"op": "replace", "path": "/description", "value": "Esta luz suave é útil para iluminar pequenas áreas."}, {"op": "replace", "path": "/floranDescription", "value": "Floran se ssente como centro das atenções."}, {"op": "replace", "path": "/apexDescription", "value": "Esses holofotes são usados pela Miniknog para forçar as pessoas a falar. Holofotes, e pior..."}, {"op": "replace", "path": "/humanDescription", "value": "Eu sempre quis estar no centro das atenções."}, {"op": "replace", "path": "/avianDescription", "value": "Uma luz suave."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma luz agradável e suave."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta luz é quase tão brilhante quanto eu!"}]
+[
+  {
+    "op": "replace",
+    "value": "Floran se ssente como centro das atenções.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sempre quis estar no centro das atenções.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Furtivo. Analisando os padrões do holofote, seria fácil esgueirar-se ao redor dele.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esses holofotes são usados pela Miniknog para forçar as pessoas a falar. Holofotes, e pior...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz é quase tão brilhante quanto eu!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz agradável e suave.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz suave.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Iron Spotlight",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz suave é útil para iluminar pequenas áreas.",
+    "path": "/description"
+  }
+]

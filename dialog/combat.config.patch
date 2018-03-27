@@ -1,1 +1,972 @@
-[{"op":"replace","path":"/reattack/default/default/0","value":"Você novamente!"},{"op":"replace","path":"/reattack/default/default/1","value":"Você voltou!"},{"op":"replace","path":"/reattack/default/default/3","value":"Você voltou?"},{"op":"replace","path":"/reattack/default/default/4","value":"Então você voltou."},{"op":"replace","path":"/reattack/glitch/default/0","value":"Irritado. Você vai se arrepender de voltar."},{"op":"replace","path":"/reattack/glitch/default/1","value":"Agressivo. Desta vez você não escapará."},{"op":"replace","path":"/reattack/glitch/default/2","value":"Destemido. Estou pronto para batalhar com você mais uma vez!"},{"op":"replace","path":"/reattack/glitch/default/3","value":"Bravo. Como você se atreve a voltar!?"},{"op":"replace","path":"/reattack/glitch/default/4","value":"Exaltado. Você voltou só para ser derrotado!"},{"op":"replace","path":"/reattack/floran/default/0","value":"Floran furioso que você voltou!"},{"op":"replace","path":"/reattack/floran/default/1","value":"Olá novamente, presa."},{"op":"replace","path":"/reattack/floran/default/2","value":"Você voltou novamente!?"},{"op":"replace","path":"/reattack/floran/default/3","value":"Floran vai parar você desta vez!"},{"op":"replace","path":"/reattack/floran/default/4","value":"A presa voltou!"},{"op":"replace","path":"/attack/default/default/0","value":"Atacar!"},{"op":"replace","path":"/attack/apex/default/0","value":"Hostis!"},{"op":"replace","path":"/attack/apex/default/1","value":"Engajando hostis!"},{"op":"replace","path":"/attack/apex/default/2","value":"Hostis atacando!"},{"op":"replace","path":"/attack/apex/default/3","value":"Montar a formação!"},{"op":"replace","path":"/attack/apex/default/4","value":"Atividade hostil!"},{"op":"replace","path":"/attack/apex/default/5","value":"Engajando hostis! Envie reforços!"},{"op":"replace","path":"/attack/apex/default/6","value":"Inimigo engajado!"},{"op":"replace","path":"/attack/floran/default/0","value":"Ceia!"},{"op":"replace","path":"/attack/floran/default/1","value":"Hora de esssfaquear! Hora de disssparar!"},{"op":"replace","path":"/attack/floran/default/2","value":"Caçe a presa!"},{"op":"replace","path":"/attack/floran/default/3","value":"Pegue-o!"},{"op":"replace","path":"/attack/floran/default/4","value":"Esssfaqueie ele! Atire nele!"},{"op":"replace","path":"/attack/floran/default/5","value":"Pegue-o! Coma-o!"},{"op":"replace","path":"/attack/floran/default/6","value":"Floran caça!"},{"op":"replace","path":"/attack/glitch/default/0","value":"Animado. Um inimigo!"},{"op":"replace","path":"/attack/glitch/default/1","value":"Brigão. Venha até mim!"},{"op":"replace","path":"/attack/glitch/default/2","value":"Calmo. Eu não vou ser facilmente derrotado."},{"op":"replace","path":"/attack/glitch/default/3","value":"Audaz. Para a batalha!"},{"op":"replace","path":"/attack/glitch/default/4","value":"Corajoso. Eu devo derrotar este inimigo!"},{"op":"replace","path":"/attack/glitch/default/5","value":"Ansioso. Você respirou pela última vez!"},{"op":"replace","path":"/attack/glitch/default/6","value":"Agressivo. Prepare-se para perder a sua vida!"},{"op":"replace","path":"/attack/hylotl/default/0","value":"Há honra em batalha."},{"op":"replace","path":"/attack/hylotl/default/1","value":"Começa a dança da guerra!"},{"op":"replace","path":"/attack/hylotl/default/2","value":"Eu tenho o poder da tempestade!"},{"op":"replace","path":"/attack/hylotl/default/3","value":"Seria melhor você lutar com o turbilhão do que lutar comigo."},{"op":"replace","path":"/attack/hylotl/default/4","value":"Vou atacar como um raio!"},{"op":"replace","path":"/attack/hylotl/default/5","value":"Vou lutar com honra!"},{"op":"replace","path":"/attack/hylotl/default/6","value":"Vou lutar com honra!"},{"op":"replace","path":"/attack/hylotl/floran/0","value":"Vou me vingar dos meus antepassados!"},{"op":"replace","path":"/attack/hylotl/floran/1","value":"Eu treinei para a batalha, Floran!"},{"op":"replace","path":"/attack/hylotl/floran/2","value":"Vou derrotar o Floran bárbaro, e honrar meus antepassados!"},{"op":"replace","path":"/attack/human/default/0","value":"Você esta morto!"},{"op":"replace","path":"/attack/human/default/1","value":"Vamos acabar com isto!"},{"op":"replace","path":"/attack/human/default/2","value":"Você não tem a mínima chance contra mim!"},{"op":"replace","path":"/attack/human/default/3","value":"Eu não sou muito de lutar..."},{"op":"replace","path":"/attack/human/default/5","value":"Eu não desistirei facilmente!"},{"op":"replace","path":"/attack/human/default/6","value":"Como eu continuo acabando em situações como esta?"},{"op":"replace","path":"/attack/human/default/7","value":"Vamos acabar com isto..."},{"op":"replace","path":"/attack/human/default/8","value":"Esteja avisado, eu sei brigar!"},{"op":"replace","path":"/attack/human/default/9","value":"Vamos fazer isso!"},{"op":"replace","path":"/attack/human/default/10","value":"Você não sabera o que te atingiu!"},{"op":"replace","path":"/attack/novakid/default/0","value":"Hora de um confronto à moda antiga!"},{"op":"replace","path":"/attack/novakid/default/1","value":"Yee-haw, aqui vamos nós!"},{"op":"replace","path":"/attack/novakid/default/2","value":"Vamos acabar com isso!"},{"op":"replace","path":"/attack/novakid/default/3","value":"Hoje está com sorte? Bem, está, vagabundo?"},{"op":"replace","path":"/attack/novakid/default/4","value":"Hora de um tumulto!"},{"op":"replace","path":"/attack/novakid/default/5","value":"Saque sua arma!"},{"op":"replace","path":"/attack/novakid/default/6","value":"Se ocê está procurando por problemas, então eu sou a pessoa que ocê tá procurando."},{"op":"replace","path":"/attack/novakid/default/7","value":"Eu não tenho tempo para isso!"},{"op":"replace","path":"/attack/novakid/default/8","value":"Eu sou um pistoleiro melhor do que ocê, amigo!"},{"op":"replace","path":"/attack/novakid/default/9","value":"Este não é o meu primeiro rodeio!"},{"op":"replace","path":"/attack/novakid/default/11","value":"Não queremos problemas aqui!"},{"op":"replace","path":"/killedTarget/default/default/0","value":"Nunca mexa comigo!"},{"op":"replace","path":"/killedTarget/default/default/1","value":"Vitória!"},{"op":"replace","path":"/killedTarget/default/default/2","value":"Ufa!"},{"op":"replace","path":"/killedTarget/default/default/3","value":"Mais uma vitória!"},{"op":"replace","path":"/killedTarget/default/default/4","value":"Eu nem mesmo me esforcei!"},{"op":"replace","path":"/killedTarget/default/default/6","value":"É claro que eu ganhei!"},{"op":"replace","path":"/killedTarget/default/default/7","value":"Eu sou muito bom nisso!"},{"op":"replace","path":"/killedTarget/default/default/8","value":"Isso foi estressante..."},{"op":"replace","path":"/killedTarget/default/default/9","value":"Outra vitória fácil!"},{"op":"replace","path":"/killedTarget/default/default/10","value":"Sim!"},{"op":"replace","path":"/killedTarget/default/default/11","value":"Isso é o que você merece!"},{"op":"replace","path":"/killedTarget/avian/default/0","value":"Nunca desafie um Avian."},{"op":"replace","path":"/killedTarget/avian/default/1","value":"Você nunca derrotará um verdadeiro guerreiro."},{"op":"replace","path":"/killedTarget/avian/default/2","value":"Meus antagonistas são tão facilmente subjugados..."},{"op":"replace","path":"/killedTarget/avian/default/3","value":"Eu nasci para ganhar esta batalha."},{"op":"replace","path":"/killedTarget/avian/default/4","value":"Eu nem sequer perdi uma pena."},{"op":"replace","path":"/killedTarget/avian/default/5","value":"Essa é a consequência de enfrentar um Avian numa batalha."},{"op":"replace","path":"/killedTarget/avian/default/6","value":"Um esforço respeitável de sua parte."},{"op":"replace","path":"/killedTarget/avian/default/7","value":"Trabalho fácil."},{"op":"replace","path":"/killedTarget/apex/default/0","value":"Alvo subjugado."},{"op":"replace","path":"/killedTarget/apex/default/1","value":"Área segura."},{"op":"replace","path":"/killedTarget/apex/default/2","value":"Problema resolvido."},{"op":"replace","path":"/killedTarget/apex/default/3","value":"É tão imprudente mexer com um Apex."},{"op":"replace","path":"/killedTarget/apex/default/4","value":"Ameaça neutralizada."},{"op":"replace","path":"/killedTarget/apex/default/5","value":"O inimigo foi neutralizado."},{"op":"replace","path":"/killedTarget/apex/default/6","value":"Alvo morto."},{"op":"replace","path":"/killedTarget/apex/default/7","value":"Alvo neutralizado!"},{"op":"replace","path":"/killedTarget/apex/default/8","value":"Tudo feito. Acho que ganhei uma banana."},{"op":"replace","path":"/killedTarget/apex/default/9","value":"O alvo foi neutralizado!"},{"op":"replace","path":"/killedTarget/hylotl/default/0","value":"A batalha acabou..."},{"op":"replace","path":"/killedTarget/hylotl/default/1","value":"O que está feito está feito."},{"op":"replace","path":"/killedTarget/hylotl/default/2","value":"Agora que derrotei meu inimigo, devo refletir sobre esta batalha."},{"op":"replace","path":"/killedTarget/hylotl/default/3","value":"Uma vitória honrosa."},{"op":"replace","path":"/killedTarget/hylotl/default/4","value":"Uma nobre vitória em defesa da minha cultura."},{"op":"replace","path":"/killedTarget/hylotl/default/5","value":"Está feito."},{"op":"replace","path":"/killedTarget/hylotl/default/6","value":"Servi ao meu povo."},{"op":"replace","path":"/killedTarget/glitch/default/0","value":"Satisfeito. Mais uma vitória!"},{"op":"replace","path":"/killedTarget/glitch/default/1","value":"Satisfeito. Outro trabalho bem feito."},{"op":"replace","path":"/killedTarget/glitch/default/2","value":"Animado. Isso foi emocionante!"},{"op":"replace","path":"/killedTarget/glitch/default/3","value":"Exausto. Preciso fazer mais exercício."},{"op":"replace","path":"/killedTarget/glitch/default/4","value":"Satisfeito. Que triunfo."},{"op":"replace","path":"/killedTarget/glitch/default/5","value":"Feliz. Uma vitória maravilhosa!"},{"op":"replace","path":"/killedTarget/glitch/default/6","value":"Orgulhoso. Que excelente exibição de minha habilidade."},{"op":"replace","path":"/killedTarget/floran/default/0","value":"Isso foi divertido. O que Floran deve fazer agora..?"},{"op":"replace","path":"/killedTarget/floran/default/1","value":"Floran é o melhor caçador da hissstória!"},{"op":"replace","path":"/killedTarget/floran/default/2","value":"Agora Floran não tem nada para fazer..."},{"op":"replace","path":"/killedTarget/floran/default/3","value":"Vitória de Floran!"},{"op":"replace","path":"/killedTarget/floran/default/4","value":"Floran é o melhor!"},{"op":"replace","path":"/killedTarget/floran/default/5","value":"Isso foi divertido!"},{"op":"replace","path":"/killedTarget/floran/default/6","value":"Consegui!"},{"op":"replace","path":"/killedTarget/floran/default/7","value":"Floran gostou disso."},{"op":"replace","path":"/killedTarget/novakid/default/0","value":"Preciso de um copo de root pop depois de tudo isso."},{"op":"replace","path":"/killedTarget/novakid/default/1","value":"Sou um vencedor natural no combate, o que posso dizer?"},{"op":"replace","path":"/killedTarget/novakid/default/2","value":"Que excelente exibição de minha habilidade."},{"op":"replace","path":"/killedTarget/novakid/default/3","value":"Yee-haw! Mais uma vitória!."},{"op":"replace","path":"/lostTarget/default/default/0","value":"Eu vou te pegar um dia!"},{"op":"replace","path":"/lostTarget/default/default/1","value":"Ainda não acabou!"},{"op":"replace","path":"/lostTarget/default/default/2","value":"Não volte!"},{"op":"replace","path":"/lostTarget/default/default/3","value":"Onde está você..."},{"op":"replace","path":"/lostTarget/default/default/4","value":"Que aborrecimento."},{"op":"replace","path":"/lostTarget/default/default/5","value":"Espere só!"},{"op":"replace","path":"/lostTarget/glitch/default/0","value":"Envergonhado. Eu perdi meu adversário..."},{"op":"replace","path":"/lostTarget/glitch/default/1","value":"Pensativo. O que eu estou fazendo com a minha vida?"},{"op":"replace","path":"/lostTarget/glitch/default/2","value":"Entediado. E agora, o que vou fazer?"},{"op":"replace","path":"/lostTarget/glitch/default/3","value":"Irritado. Boa viagem."},{"op":"replace","path":"/lostTarget/glitch/default/4","value":"Esperançoso. Um... Volte?"},{"op":"replace","path":"/lostTarget/floran/default/0","value":"Floran vai caçar outra coisa."},{"op":"replace","path":"/lostTarget/floran/default/1","value":"Quando eles voltarem, eles vão ser essfaqueados..."},{"op":"replace","path":"/lostTarget/floran/default/2","value":"Floran vai encontrar alguém para perseguir."},{"op":"replace","path":"/lostTarget/floran/default/3","value":"Floran não desistiu! Só não sei o que fazer em seguida..."},{"op":"replace","path":"/lostTarget/floran/default/4","value":"Floran com fome... talvez presa volte."},{"op":"replace","path":"/outOfSight/default/default/0","value":"Sorrateiro! Este é sorrateiro! Como você desapareceu?"},{"op":"replace","path":"/outOfSight/default/default/1","value":"Eles estão fugindo!"},{"op":"replace","path":"/outOfSight/default/default/2","value":"Onde você foi?"},{"op":"replace","path":"/outOfSight/default/default/3","value":"Volte aqui!"},{"op":"replace","path":"/outOfSight/default/default/4","value":"Como isso aconteceu?"},{"op":"replace","path":"/outOfSight/glitch/default/0","value":"Paciente. Vou esperar aqui até você voltar."},{"op":"replace","path":"/outOfSight/glitch/default/1","value":"Frustrado. Eu sei que você está aqui em algum lugar!"},{"op":"replace","path":"/outOfSight/glitch/default/2","value":"Confuso. Para onde eles foram?"},{"op":"replace","path":"/outOfSight/glitch/default/3","value":"Incerto. Eu não estava lutando contra alguém há um segundo?"},{"op":"replace","path":"/outOfSight/glitch/default/4","value":"Enfurecido. Como você desapareceu?"},{"op":"replace","path":"/outOfSight/floran/default/0","value":"Floran é bom caçador! Presa não vai ficar escondida por muito tempo!"},{"op":"replace","path":"/outOfSight/floran/default/1","value":"Floran ainda sente cheiro da presa!"},{"op":"replace","path":"/outOfSight/floran/default/2","value":"Presa astuta está se escondendo!"},{"op":"replace","path":"/outOfSight/floran/default/3","value":"... Floran não consegue encontrá-lo."},{"op":"replace","path":"/outOfSight/floran/default/4","value":"Onde está a coisa sorrateira?"},{"op":"replace","path":"/cantReach/default/default/0","value":"Venha aqui!"},{"op":"replace","path":"/cantReach/default/default/1","value":"Vem cá!"},{"op":"replace","path":"/cantReach/default/default/2","value":"Volte aqui!"},{"op":"replace","path":"/cantReach/default/default/3","value":"Como você chegou ai?"},{"op":"replace","path":"/cantReach/default/default/4","value":"Não consigo alcançar!"},{"op":"replace","path":"/cantReach/glitch/default/0","value":"Irritado. Eles estão fora do meu alcance!"},{"op":"replace","path":"/cantReach/glitch/default/1","value":"Bravo. Venha aqui!"},{"op":"replace","path":"/cantReach/glitch/default/2","value":"Frustrado. Por que eu não trouxe uma besta?"},{"op":"replace","path":"/cantReach/glitch/default/3","value":"Mal-humorado. Como podemos lutar se eu não posso alcançá-lo?"},{"op":"replace","path":"/cantReach/glitch/default/4","value":"Irado. Aproxime-se para que possamos lutar!"},{"op":"replace","path":"/cantReach/floran/default/0","value":"Eles estão muito longe para essfaquear!"},{"op":"replace","path":"/cantReach/floran/default/1","value":"Floran não alcança!"},{"op":"replace","path":"/cantReach/floran/default/2","value":"Aproxime-ssse!"},{"op":"replace","path":"/cantReach/floran/default/3","value":"Presa esperta está fora de alcance!"},{"op":"replace","path":"/cantReach/floran/default/4","value":"Floran não esta perto o sssuficiente!"},{"op":"replace","path":"/cheerOn/default/default/0","value":"Eu tenho um plano!"},{"op":"replace","path":"/cheerOn/default/default/1","value":"Pegue eles!"},{"op":"replace","path":"/cheerOn/default/default/2","value":"Todos estão no meu caminho."},{"op":"replace","path":"/cheerOn/default/default/3","value":"Por que eles não estão mortos?"},{"op":"replace","path":"/cheerOn/default/default/4","value":"Vamos!"},{"op":"replace","path":"/cheerOn/glitch/default/0","value":"Animado. Acabe com eles!"},{"op":"replace","path":"/cheerOn/glitch/default/1","value":"Comandante. Pegue eles!"},{"op":"replace","path":"/cheerOn/glitch/default/2","value":"Entusiasmado. Pegue o inimigo!"},{"op":"replace","path":"/cheerOn/glitch/default/3","value":"Incitante. Por que esse inimigo já não está morto?"},{"op":"replace","path":"/cheerOn/glitch/default/4","value":"Egoísta. Quero matá-lo!"},{"op":"replace","path":"/cheerOn/floran/default/0","value":"Guarde alguns para mim!"},{"op":"replace","path":"/cheerOn/floran/default/1","value":"Pegue a presa!"},{"op":"replace","path":"/cheerOn/floran/default/2","value":"Floran esta tão feliz por fazer parte disso."},{"op":"replace","path":"/cheerOn/floran/default/3","value":"Pegue!"},{"op":"replace","path":"/cheerOn/floran/default/4","value":"Floran animado!"}]
+[
+  {
+    "op": "replace",
+    "value": "Atacar!",
+    "path": "/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Pegue eles!",
+    "path": "/cheerOn/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "... Floran não consegue encontrá-lo.",
+    "path": "/outOfSight/floran/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Uma nobre vitória em defesa da minha cultura.",
+    "path": "/killedTarget/hylotl/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Um esforço respeitável de sua parte.",
+    "path": "/killedTarget/avian/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Agressivo. Prepare-se para perder a sua vida!",
+    "path": "/attack/glitch/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Agressivo. Desta vez você não escapará.",
+    "path": "/reattack/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Aha!",
+    "path": "/reattack/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Tudo feito. Acho que ganhei uma banana.",
+    "path": "/killedTarget/apex/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Uma vitória honrosa.",
+    "path": "/killedTarget/hylotl/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Bravo. Venha aqui!",
+    "path": "/cantReach/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Bravo. Como você se atreve a voltar!?",
+    "path": "/reattack/glitch/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Anhingaaa!",
+    "path": "/attack/avian/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Outra vitória fácil!",
+    "path": "/killedTarget/default/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "Mais uma vitória!",
+    "path": "/killedTarget/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Área segura.",
+    "path": "/killedTarget/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Montar a formação!",
+    "path": "/attack/apex/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Bang!",
+    "path": "/attack/novakid/default/10"
+  },
+  {
+    "op": "replace",
+    "value": "Esteja avisado, eu sei brigar!",
+    "path": "/attack/human/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Começa a dança da guerra!",
+    "path": "/attack/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Entediado. E agora, o que vou fazer?",
+    "path": "/lostTarget/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Caaaw!",
+    "path": "/attack/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Cacique!",
+    "path": "/attack/avian/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Calmo. Eu não vou ser facilmente derrotado.",
+    "path": "/attack/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Caracaraaa!",
+    "path": "/attack/avian/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Pegue-o! Coma-o!",
+    "path": "/attack/floran/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Chachalacaaa!",
+    "path": "/attack/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Aproxime-ssse!",
+    "path": "/cantReach/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Vem cá!",
+    "path": "/cantReach/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos!",
+    "path": "/cheerOn/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Comandante. Pegue eles!",
+    "path": "/cheerOn/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Para onde eles foram?",
+    "path": "/outOfSight/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Corajoso. Eu devo derrotar este inimigo!",
+    "path": "/attack/glitch/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Audaz. Para a batalha!",
+    "path": "/attack/glitch/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Consegui!",
+    "path": "/killedTarget/floran/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Não volte!",
+    "path": "/lostTarget/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. Você respirou pela última vez!",
+    "path": "/attack/glitch/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Trabalho fácil.",
+    "path": "/killedTarget/avian/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Envergonhado. Eu perdi meu adversário...",
+    "path": "/lostTarget/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Inimigo engajado!",
+    "path": "/attack/apex/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Engajando hostis!",
+    "path": "/attack/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Engajando hostis! Envie reforços!",
+    "path": "/attack/apex/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Enfurecido. Como você desapareceu?",
+    "path": "/outOfSight/glitch/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Entusiasmado. Pegue o inimigo!",
+    "path": "/cheerOn/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Todos estão no meu caminho.",
+    "path": "/cheerOn/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. Um inimigo!",
+    "path": "/attack/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. Acabe com eles!",
+    "path": "/cheerOn/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. Isso foi emocionante!",
+    "path": "/killedTarget/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Exausto. Preciso fazer mais exercício.",
+    "path": "/killedTarget/glitch/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Destemido. Estou pronto para batalhar com você mais uma vez!",
+    "path": "/reattack/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Saque sua arma!",
+    "path": "/attack/novakid/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não alcança!",
+    "path": "/cantReach/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gostou disso.",
+    "path": "/killedTarget/floran/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Floran animado!",
+    "path": "/cheerOn/floran/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Floran furioso que você voltou!",
+    "path": "/reattack/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran com fome... talvez presa volte.",
+    "path": "/lostTarget/floran/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Floran caça!",
+    "path": "/attack/floran/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Floran esta tão feliz por fazer parte disso.",
+    "path": "/cheerOn/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Floran é o melhor caçador da hissstória!",
+    "path": "/killedTarget/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran é bom caçador! Presa não vai ficar escondida por muito tempo!",
+    "path": "/outOfSight/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran é o melhor!",
+    "path": "/killedTarget/floran/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não esta perto o sssuficiente!",
+    "path": "/cantReach/floran/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ainda sente cheiro da presa!",
+    "path": "/outOfSight/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran vai encontrar alguém para perseguir.",
+    "path": "/lostTarget/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Floran vai caçar outra coisa.",
+    "path": "/lostTarget/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran vai parar você desta vez!",
+    "path": "/reattack/floran/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Vitória de Floran!",
+    "path": "/killedTarget/floran/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não desistiu! Só não sei o que fazer em seguida...",
+    "path": "/lostTarget/floran/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Frustrado. Eu sei que você está aqui em algum lugar!",
+    "path": "/outOfSight/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Frustrado. Por que eu não trouxe uma besta?",
+    "path": "/cantReach/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Pegue-o!",
+    "path": "/attack/floran/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Pegue-o!",
+    "path": "/cheerOn/floran/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Venha aqui!",
+    "path": "/cantReach/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Pegue a presa!",
+    "path": "/cheerOn/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Incitante. Por que esse inimigo já não está morto?",
+    "path": "/cheerOn/glitch/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Outro trabalho bem feito.",
+    "path": "/killedTarget/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Feliz. Uma vitória maravilhosa!",
+    "path": "/killedTarget/glitch/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Heh.",
+    "path": "/killedTarget/default/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Olá novamente, presa.",
+    "path": "/reattack/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Esperançoso. Um... Volte?",
+    "path": "/lostTarget/glitch/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Atividade hostil!",
+    "path": "/attack/apex/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Hostis atacando!",
+    "path": "/attack/apex/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Hostis!",
+    "path": "/attack/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Como isso aconteceu?",
+    "path": "/outOfSight/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Como você chegou ai?",
+    "path": "/cantReach/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Como eu continuo acabando em situações como esta?",
+    "path": "/attack/human/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Caçe a presa!",
+    "path": "/attack/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não tenho tempo para isso!",
+    "path": "/attack/novakid/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Não consigo alcançar!",
+    "path": "/cantReach/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Eu nem mesmo me esforcei!",
+    "path": "/killedTarget/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Eu nem sequer perdi uma pena.",
+    "path": "/killedTarget/avian/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não desistirei facilmente!",
+    "path": "/attack/human/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Eu tenho um plano!",
+    "path": "/cheerOn/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Servi ao meu povo.",
+    "path": "/killedTarget/hylotl/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Eu treinei para a batalha, Floran!",
+    "path": "/attack/hylotl/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Preciso de um copo de root pop depois de tudo isso.",
+    "path": "/killedTarget/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Vou atacar como um raio!",
+    "path": "/attack/hylotl/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Eu nasci para ganhar esta batalha.",
+    "path": "/killedTarget/avian/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Eu tenho o poder da tempestade!",
+    "path": "/attack/hylotl/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Vou derrotar o Floran bárbaro, e honrar meus antepassados!",
+    "path": "/attack/hylotl/floran/2"
+  },
+  {
+    "op": "replace",
+    "value": "Vou lutar com honra!",
+    "path": "/attack/hylotl/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vou te pegar um dia!",
+    "path": "/lostTarget/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Vou lutar com honra!",
+    "path": "/attack/hylotl/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Vou me vingar dos meus antepassados!",
+    "path": "/attack/hylotl/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Sou um vencedor natural no combate, o que posso dizer?",
+    "path": "/killedTarget/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sou um pistoleiro melhor do que ocê, amigo!",
+    "path": "/attack/novakid/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não sou muito de lutar...",
+    "path": "/attack/human/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sou muito bom nisso!",
+    "path": "/killedTarget/default/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Se ocê está procurando por problemas, então eu sou a pessoa que ocê tá procurando.",
+    "path": "/attack/novakid/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Exaltado. Você voltou só para ser derrotado!",
+    "path": "/reattack/glitch/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Irado. Aproxime-se para que possamos lutar!",
+    "path": "/cantReach/glitch/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Irritado. Eles estão fora do meu alcance!",
+    "path": "/cantReach/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Irritado. Você vai se arrepender de voltar.",
+    "path": "/reattack/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Está feito.",
+    "path": "/killedTarget/hylotl/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "É tão imprudente mexer com um Apex.",
+    "path": "/killedTarget/apex/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Ainda não acabou!",
+    "path": "/lostTarget/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Jocotoco!.",
+    "path": "/attack/avian/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Espere só!",
+    "path": "/lostTarget/default/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos fazer isso!",
+    "path": "/attack/human/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos acabar com isto!",
+    "path": "/attack/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos acabar com isto...",
+    "path": "/attack/human/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Meus antagonistas são tão facilmente subjugados...",
+    "path": "/killedTarget/avian/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Nunca desafie um Avian.",
+    "path": "/killedTarget/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Nunca mexa comigo!",
+    "path": "/killedTarget/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Agora Floran não tem nada para fazer...",
+    "path": "/killedTarget/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Agora que derrotei meu inimigo, devo refletir sobre esta batalha.",
+    "path": "/killedTarget/hylotl/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "É claro que eu ganhei!",
+    "path": "/killedTarget/default/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Paciente. Vou esperar aqui até você voltar.",
+    "path": "/outOfSight/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Que triunfo.",
+    "path": "/killedTarget/glitch/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Problema resolvido.",
+    "path": "/killedTarget/apex/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Orgulhoso. Que excelente exibição de minha habilidade.",
+    "path": "/killedTarget/glitch/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Brigão. Venha até mim!",
+    "path": "/attack/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Mais uma vitória!",
+    "path": "/killedTarget/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Egoísta. Quero matá-lo!",
+    "path": "/cheerOn/glitch/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Sorrateiro! Este é sorrateiro! Como você desapareceu?",
+    "path": "/outOfSight/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Então você voltou.",
+    "path": "/reattack/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Irritado. Boa viagem.",
+    "path": "/lostTarget/glitch/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Guarde alguns para mim!",
+    "path": "/cheerOn/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Esssfaqueie ele! Atire nele!",
+    "path": "/attack/floran/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Ceia!",
+    "path": "/attack/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Mal-humorado. Como podemos lutar se eu não posso alcançá-lo?",
+    "path": "/cantReach/glitch/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Tapacuuulo!",
+    "path": "/attack/avian/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Alvo morto.",
+    "path": "/killedTarget/apex/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Alvo neutralizado!",
+    "path": "/killedTarget/apex/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Alvo subjugado.",
+    "path": "/killedTarget/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Isso foi divertido!",
+    "path": "/killedTarget/floran/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Isso foi divertido. O que Floran deve fazer agora..?",
+    "path": "/killedTarget/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Isso foi estressante...",
+    "path": "/killedTarget/default/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Essa é a consequência de enfrentar um Avian numa batalha.",
+    "path": "/killedTarget/avian/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é o que você merece!",
+    "path": "/killedTarget/default/default/11"
+  },
+  {
+    "op": "replace",
+    "value": "A batalha acabou...",
+    "path": "/killedTarget/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "O inimigo foi neutralizado.",
+    "path": "/killedTarget/apex/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "A presa voltou!",
+    "path": "/reattack/floran/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "O alvo foi neutralizado!",
+    "path": "/killedTarget/apex/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "Há honra em batalha.",
+    "path": "/attack/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eles estão fugindo!",
+    "path": "/outOfSight/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eles estão muito longe para essfaquear!",
+    "path": "/cantReach/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este não é o meu primeiro rodeio!",
+    "path": "/attack/novakid/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "Pensativo. O que eu estou fazendo com a minha vida?",
+    "path": "/lostTarget/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Ameaça neutralizada.",
+    "path": "/killedTarget/apex/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Hora de um tumulto!",
+    "path": "/attack/novakid/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Hora de um confronto à moda antiga!",
+    "path": "/attack/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Hora de esssfaquear! Hora de disssparar!",
+    "path": "/attack/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Presa esperta está fora de alcance!",
+    "path": "/cantReach/floran/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Uh-oh...",
+    "path": "/attack/human/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Incerto. Eu não estava lutando contra alguém há um segundo?",
+    "path": "/outOfSight/glitch/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Vitória!",
+    "path": "/killedTarget/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Não queremos problemas aqui!",
+    "path": "/attack/novakid/default/11"
+  },
+  {
+    "op": "replace",
+    "value": "Que excelente exibição de minha habilidade.",
+    "path": "/killedTarget/novakid/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Que aborrecimento.",
+    "path": "/lostTarget/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "O que está feito está feito.",
+    "path": "/killedTarget/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Quando eles voltarem, eles vão ser essfaqueados...",
+    "path": "/lostTarget/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Onde está você...",
+    "path": "/lostTarget/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Onde está a coisa sorrateira?",
+    "path": "/outOfSight/floran/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Onde você foi?",
+    "path": "/outOfSight/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Por que eles não estão mortos?",
+    "path": "/cheerOn/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Presa astuta está se escondendo!",
+    "path": "/outOfSight/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Yee-haw! Mais uma vitória!.",
+    "path": "/killedTarget/novakid/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Yee-haw, aqui vamos nós!",
+    "path": "/attack/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Hoje está com sorte? Bem, está, vagabundo?",
+    "path": "/attack/novakid/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Sim!",
+    "path": "/killedTarget/default/default/10"
+  },
+  {
+    "op": "replace",
+    "value": "Você novamente!",
+    "path": "/reattack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você voltou novamente!?",
+    "path": "/reattack/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você voltou?",
+    "path": "/reattack/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Você não tem a mínima chance contra mim!",
+    "path": "/attack/human/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você voltou!",
+    "path": "/reattack/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você não sabera o que te atingiu!",
+    "path": "/attack/human/default/10"
+  },
+  {
+    "op": "replace",
+    "value": "Seria melhor você lutar com o turbilhão do que lutar comigo.",
+    "path": "/attack/hylotl/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Você nunca derrotará um verdadeiro guerreiro.",
+    "path": "/killedTarget/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você esta morto!",
+    "path": "/attack/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos acabar com isso!",
+    "path": "/attack/novakid/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Volte aqui!",
+    "path": "/cantReach/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Volte aqui!",
+    "path": "/outOfSight/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Ufa!",
+    "path": "/killedTarget/default/default/2"
+  }
+]

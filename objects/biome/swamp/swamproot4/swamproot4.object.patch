@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "É uma raiz."}, {"op": "replace", "path": "/apexDescription", "value": "Algum tipo de raiz de árvore."}, {"op": "replace", "path": "/novakidDescription", "value": "É apenas uma raiz."}, {"op": "replace", "path": "/shortdescription", "value": "Root"}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma raiz."}, {"op": "replace", "path": "/humanDescription", "value": "Sim. É uma raiz."}, {"op": "replace", "path": "/floranDescription", "value": "Raízesss."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Uma raiz normal."}, {"op": "replace", "path": "/avianDescription", "value": "É uma raiz."}]
+[
+  {
+    "op": "replace",
+    "value": "É uma raiz.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma raiz.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Uma raiz.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Root",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Raízesss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de raiz de árvore.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sim. É uma raiz.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma raíz.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É apenas uma raiz.",
+    "path": "/novakidDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Qualifica o portador para voar em naves da classe Eagle."}, {"op": "replace", "path": "/shortdescription", "value": "Eagle License"}]
+[
+  {
+    "op": "replace",
+    "value": "Eagle License",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Qualifica o portador para voar em naves da classe Eagle.",
+    "path": "/description"
+  }
+]

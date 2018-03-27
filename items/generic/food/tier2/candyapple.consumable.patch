@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Todo o valor nutritivo de uma maçã coberta por uma calda açucarada."}, {"op": "replace", "path": "/shortdescription", "value": "Candy Apple"}]
+[
+  {
+    "op": "replace",
+    "value": "Todo o valor nutritivo de uma maçã coberta por uma calda açucarada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Candy Apple",
+    "path": "/shortdescription"
+  }
+]

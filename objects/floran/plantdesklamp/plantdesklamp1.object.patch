@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Quão notável. Esta lâmpada é simplesmente um suporte para uma vagem brilhante de planta."}, {"op": "replace", "path": "/description", "value": "Uma lâmpada de mesa feita de uma vagem brilhante de planta."}, {"op": "replace", "path": "/shortdescription", "value": "Organic Desk Lamp"}, {"op": "replace", "path": "/floranDescription", "value": "Lâmpada de mesa Floran é alimentada por plantass."}, {"op": "replace", "path": "/glitchDescription", "value": "Perplexo. Esta lâmpada de mesa não possui fonte de energia aparente."}, {"op": "replace", "path": "/apexDescription", "value": "Esta lâmpada de mesa é realmente uma planta emissora de luz."}, {"op": "replace", "path": "/humanDescription", "value": "Esta planta faz uma lâmpada bastante eficaz."}, {"op": "replace", "path": "/avianDescription", "value": "Esta lâmpada é apenas um suporte para posicionar esta planta brilhante."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta pequena planta brilhante faz uma boa luz."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lâmpada de mesa feita de uma vagem brilhante de planta.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Lâmpada de mesa Floran é alimentada por plantass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quão notável. Esta lâmpada é simplesmente um suporte para uma vagem brilhante de planta.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Organic Desk Lamp",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perplexo. Esta lâmpada de mesa não possui fonte de energia aparente.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lâmpada de mesa é realmente uma planta emissora de luz.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lâmpada é apenas um suporte para posicionar esta planta brilhante.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta pequena planta brilhante faz uma boa luz.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta planta faz uma lâmpada bastante eficaz.",
+    "path": "/humanDescription"
+  }
+]

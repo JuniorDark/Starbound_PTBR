@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Intrigado. Você viu algum cajados ou varinhas recentemente? Eles são armas poderosas nas mãos certas!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/1", "value": "Animado. Estou pesquisando os diferentes tipos de cajados e varinhas. Você já viu algum ultimamente?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/2", "value": "Nervoso. Estes mantos são elegantes, mas é realmente difícil de andar com eles."}]
+[
+  {
+    "op": "replace",
+    "value": "Animado. Estou pesquisando os diferentes tipos de cajados e varinhas. Você já viu algum ultimamente?",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Você viu algum cajados ou varinhas recentemente? Eles são armas poderosas nas mãos certas!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Nervoso. Estes mantos são elegantes, mas é realmente difícil de andar com eles.",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Orange Stim Pack"}, {"op": "replace", "path": "/description", "value": "Uma injeção de estimulante cheia de líquido laranja, que vai te deixar todo animadinho."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma injeção de estimulante cheia de líquido laranja, que vai te deixar todo animadinho.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Orange Stim Pack",
+    "path": "/shortdescription"
+  }
+]

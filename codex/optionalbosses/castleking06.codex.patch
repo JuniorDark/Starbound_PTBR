@@ -1,27 +1,27 @@
 [
   {
     "op": "replace",
-    "path": "/contentPages/1",
-    "value": "Os Glitch foram enganados! Durante todo esse tempo, seu rei tirânico tinha sido um pinguim disfarçado. Isso fazia todo o sentido. \n\nPersebendo que o jogo tinha acabado, e gravemente ferido, o malvado pirata espacial Dreadwing fugiu, para nunca mais ser visto novamente.\n\nO soldado malicioso que tinha causado sua queda se revelou um Floran solitário, que tinha crescido entediado e decidido ir em uma maratona de caça."
+    "value": "O rei Dreadwing gritou e aplaudiu enquanto o Glitch blindado corria em direção a ele. Mas enquanto o soldado baixava a lâmina antes de atacar, ele percebeu que algo estava errado. \n\nEssa percepção, é claro, veio tarde demais - a lâmina perfurou sua lataria de metal, dividindo-o em dois. \n\nTodos os Glitch assistiam enquanto seu rei caia para trás, seu disfarce Glitch caiu, revelando uma pequena criatura tipo pássaro.",
+    "path": "/contentPages/0"
   },
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "O rei Dreadwing gritou e aplaudiu enquanto o Glitch blindado corria em direção a ele. Mas enquanto o soldado baixava a lâmina antes de atacar, ele percebeu que algo estava errado. \n\nEssa percepção, é claro, veio tarde demais - a lâmina perfurou sua lataria de metal, dividindo-o em dois. \n\nTodos os Glitch assistiam enquanto seu rei caia para trás, seu disfarce Glitch caiu, revelando uma pequena criatura tipo pássaro."
+    "value": "Os Glitch foram enganados! Durante todo esse tempo, seu rei tirânico tinha sido um pinguim disfarçado. Isso fazia todo o sentido. \n\nPersebendo que o jogo tinha acabado, e gravemente ferido, o malvado pirata espacial Dreadwing fugiu, para nunca mais ser visto novamente.\n\nO soldado malicioso que tinha causado sua queda se revelou um Floran solitário, que tinha crescido entediado e decidido ir em uma maratona de caça.",
+    "path": "/contentPages/1"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "O Que Queria Ser Rei Parte 6"
+    "value": "O Que Queria Ser Rei Parte 6",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/contentPages/2",
-    "value": "Ele foi tornado um herói honorário do povo Glitch, mas logo em seguida expulso, porque matar reis é ruim, mesmo que eles acabem sendo pinguins disfarçados."
+    "value": "Ele foi tornado um herói honorário do povo Glitch, mas logo em seguida expulso, porque matar reis é ruim, mesmo que eles acabem sendo pinguins disfarçados.",
+    "path": "/contentPages/2"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um conto folclórico Glitch."
+    "value": "Um conto folclórico Glitch.",
+    "path": "/description"
   }
 ]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Iguarmor não é uma espécie agressiva, mas os espinhos em sua cauda podem fazer um grande estrago."}, {"op": "replace", "path": "/shortdescription", "value": "Iguarmor"}]
+[
+  {
+    "op": "replace",
+    "value": "Iguarmor",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Iguarmor não é uma espécie agressiva, mas os espinhos em sua cauda podem fazer um grande estrago.",
+    "path": "/description"
+  }
+]

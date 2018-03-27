@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Um circuito que transmite sinais após um atraso definido."}, {"op": "replace", "path": "/shortdescription", "value": "Delay Gate"}, {"op": "replace", "path": "/floranDescription", "value": "Um circuito que transmite sinaisss após um atraso definido."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Um circuito que transmite sinais após um atraso definido."}]
+[
+  {
+    "op": "replace",
+    "value": "Um circuito que transmite sinais após um atraso definido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um circuito que transmite sinaisss após um atraso definido.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Delay Gate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Um circuito que transmite sinais após um atraso definido.",
+    "path": "/glitchDescription"
+  }
+]

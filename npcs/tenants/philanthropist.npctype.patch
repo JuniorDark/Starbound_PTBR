@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/0", "value": "Eu estou me sentindo um pouco lento. Você sabe porque? Porque eu estou sobrecarregado por todo o meu dinheiro!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/2", "value": "Se você é verdadeiramente rico, é necessário que todos saibam. Você não entenderia."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/1", "value": "Eu tenho sorte de ter escapado da Terra com minha enorme fortuna, intacta!"}]
+[
+  {
+    "op": "replace",
+    "value": "Eu estou me sentindo um pouco lento. Você sabe porque? Porque eu estou sobrecarregado por todo o meu dinheiro!",
+    "path": "/scriptConfig/dialog/converse/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu tenho sorte de ter escapado da Terra com minha enorme fortuna, intacta!",
+    "path": "/scriptConfig/dialog/converse/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Se você é verdadeiramente rico, é necessário que todos saibam. Você não entenderia.",
+    "path": "/scriptConfig/dialog/converse/human/default/2"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um capacete para proteger o seu cérebro. Florans usam seus cérebros também! Apenas para coisas diferentes do que todos os outros."}, {"op": "replace", "path": "/shortdescription", "value": "Wiseman's Thinking Hat"}]
+[
+  {
+    "op": "replace",
+    "value": "Um capacete para proteger o seu cérebro. Florans usam seus cérebros também! Apenas para coisas diferentes do que todos os outros.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Wiseman's Thinking Hat",
+    "path": "/shortdescription"
+  }
+]

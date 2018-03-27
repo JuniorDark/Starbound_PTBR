@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/completeSetDescriptions/description", "value": "Folhas de samambaia fossilizadas são evidências da vida orgânica de milênios atrás."}, {"op": "replace", "path": "/description", "value": "Uma samambaia fossilizada."}, {"op": "replace", "path": "/completeSetDescriptions/shortdescription", "value": "Fern Fossil"}, {"op": "replace", "path": "/shortdescription", "value": "Fern Fossil"}]
+[
+  {
+    "op": "replace",
+    "value": "Fern Fossil",
+    "path": "/completeSetDescriptions/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fern Fossil",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma samambaia fossilizada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Folhas de samambaia fossilizadas são evidências da vida orgânica de milênios atrás.",
+    "path": "/completeSetDescriptions/description"
+  }
+]

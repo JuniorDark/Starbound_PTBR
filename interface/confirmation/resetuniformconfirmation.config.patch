@@ -1,1 +1,27 @@
-[{"op":"replace","path":"/message","value":"\n\nPronto para mudar o uniforme da tripulação de volta para o uniforme protetorado?"},{"op":"replace","path":"/subtitle","value":"<name>, <rank>"},{"op":"replace","path":"/title","value":"Resetar o uniforme de sua tripulação?"},{"op":"replace","path":"/okCaption","value":"Certo"},{"op":"replace","path":"/cancelCaption","value":"Agora não"}]
+[
+  {
+    "op": "replace",
+    "value": "\n\nPronto para mudar o uniforme da tripulação de volta para o uniforme protetorado?",
+    "path": "/message"
+  },
+  {
+    "op": "replace",
+    "value": "Resetar o uniforme de sua tripulação?",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Agora não",
+    "path": "/cancelCaption"
+  },
+  {
+    "op": "replace",
+    "value": "Certo",
+    "path": "/okCaption"
+  },
+  {
+    "op": "replace",
+    "value": "<name>, <rank>",
+    "path": "/subtitle"
+  }
+]

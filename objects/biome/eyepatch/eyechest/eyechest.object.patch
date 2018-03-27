@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Curioso. O olho é na verdade uma fechadura muito sofisticada. Felizmente, está quebrada."}, {"op": "replace", "path": "/description", "value": "Um baú selado com um olho penetrante. Vale a pena olhar dentro."}, {"op": "replace", "path": "/shortdescription", "value": "Eye Chest"}, {"op": "replace", "path": "/floranDescription", "value": "Floran chuta baú no olho, então abre. Roubar."}, {"op": "replace", "path": "/apexDescription", "value": "Este baú está quase desafiando você a olhar dentro."}, {"op": "replace", "path": "/humanDescription", "value": "É como se o olho estivesse me vendo roubar. Foi mal cara."}, {"op": "replace", "path": "/avianDescription", "value": "Talvez o olho esteja destinado a ser algum tipo de intimidação para ladrões. Está quase funcionando em mim."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um método grosseiro de intimidar os ladrões. Teria que ser muito supersticioso para não olhar dentro."}, {"op": "replace", "path": "/novakidDescription", "value": "Se eu o cutucar o olho, talvez ele abra."}]
+[
+  {
+    "op": "replace",
+    "value": "Um baú selado com um olho penetrante. Vale a pena olhar dentro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um método grosseiro de intimidar os ladrões. Teria que ser muito supersticioso para não olhar dentro.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. O olho é na verdade uma fechadura muito sofisticada. Felizmente, está quebrada.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eye Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran chuta baú no olho, então abre. Roubar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se eu o cutucar o olho, talvez ele abra.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É como se o olho estivesse me vendo roubar. Foi mal cara.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez o olho esteja destinado a ser algum tipo de intimidação para ladrões. Está quase funcionando em mim.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este baú está quase desafiando você a olhar dentro.",
+    "path": "/apexDescription"
+  }
+]

@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Lança um drone que projeta um escudo de energia defensiva."
+    "value": "Lança um drone que projeta um escudo de energia defensivo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Shield Drone Mech Arm",
+    "path": "/shortdescription"
   }
 ]

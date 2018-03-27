@@ -1,1 +1,62 @@
-[{"op": "replace", "path": "/maxEnergy/label", "value": "Energia Maxima"}, {"op": "replace", "path": "/maxHealth/label", "value": "Vida Maxima"}, {"op": "replace", "path": "/protection/label", "value": "Armadura"}, {"op": "replace", "path": "/energyRegen/label", "value": "Taxa de Regeneração de Energia"}, {"op": "replace", "path": "/powerMultiplier/label", "value": "Dano da Arma"}, {"op": "replace", "path": "/healthRegen/label", "value": "Taxa de Regeneração de Vida"}]
+[
+  {
+    "op": "replace",
+    "value": "-todo-",
+    "path": "/energyRegen/description"
+  },
+  {
+    "op": "replace",
+    "value": "-todo-",
+    "path": "/healthRegen/description"
+  },
+  {
+    "op": "replace",
+    "value": "-todo-",
+    "path": "/maxEnergy/description"
+  },
+  {
+    "op": "replace",
+    "value": "-todo-",
+    "path": "/maxHealth/description"
+  },
+  {
+    "op": "replace",
+    "value": "-todo-",
+    "path": "/powerMultiplier/description"
+  },
+  {
+    "op": "replace",
+    "value": "-todo-",
+    "path": "/protection/description"
+  },
+  {
+    "op": "replace",
+    "value": "Armadura",
+    "path": "/protection/label"
+  },
+  {
+    "op": "replace",
+    "value": "Taxa de Regeneração de Energia",
+    "path": "/energyRegen/label"
+  },
+  {
+    "op": "replace",
+    "value": "Taxa de Regeneração de Vida",
+    "path": "/healthRegen/label"
+  },
+  {
+    "op": "replace",
+    "value": "Energia Maxima",
+    "path": "/maxEnergy/label"
+  },
+  {
+    "op": "replace",
+    "value": "Vida Maxima",
+    "path": "/maxHealth/label"
+  },
+  {
+    "op": "replace",
+    "value": "Dano da Arma",
+    "path": "/powerMultiplier/label"
+  }
+]

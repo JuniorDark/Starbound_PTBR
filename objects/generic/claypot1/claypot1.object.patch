@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Small Clay Pot"}, {"op": "replace", "path": "/humanDescription", "value": "Acho que há algo dentro. Provavelmente posso quebrar para abri-lo."}, {"op": "replace", "path": "/avianDescription", "value": "Um pote de argila. Pode ter algo de útil nisso!"}, {"op": "replace", "path": "/description", "value": "Um pote de argila decorativo. Me pergunto o que há dentro?"}, {"op": "replace", "path": "/floranDescription", "value": "Este pote de argila pode ser esmagado!"}, {"op": "replace", "path": "/glitchDescription", "value": "Interessado. Quebrar este pote frágil revelará o conteúdo dentro."}, {"op": "replace", "path": "/apexDescription", "value": "Um pequeno pote de argila. Devo destruí-lo?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Este pote de argila foi cuidadosamente trabalhado, mas o conteúdo não pode ser explorado sem quebrá-lo."}, {"op": "replace", "path": "/novakidDescription", "value": "Aposto que eu poderia esmagar este velho pote com um tiro."}]
+[
+  {
+    "op": "replace",
+    "value": "Acho que há algo dentro. Provavelmente posso quebrar para abri-la.\"",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Small Clay Pot",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pote de argila. Pode ter algo de útil nisso!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pote de argila decorativo. Me pergunto o que há dentro?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um pequeno pote de argila. Devo destruí-lo?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aposto que eu poderia esmagar este velho pote com um tiro.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Quebrar este pote frágil revelará o conteúdo dentro.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este pote de argila foi cuidadosamente trabalhado, mas o conteúdo não pode ser explorado sem quebrá-lo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este pote de argila pode ser esmagado!",
+    "path": "/floranDescription"
+  }
+]

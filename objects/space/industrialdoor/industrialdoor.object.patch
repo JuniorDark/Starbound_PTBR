@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma porta automatizada resistente, reforçada para ser capaz de sobreviver intensas condições intergalácticas."
+    "value": "Uma porta automatizada resistente, reforçada para ser capaz de sobreviver intensas condições intergalácticas.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Esta porta provavelmente poderia suportar uma tempestade de asteróides ou duas."
+    "value": "Floran poderia abrir a porta com uma lança suficientemente grande.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Esta porta não é muito bonita, mas é impressionante e resistente."
+    "value": "Eu acho que levaria mais do que algumas balas de pistola para quebrar essa porta aqui.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Floran poderia abrir a porta com uma lança suficientemente grande."
+    "value": "Industrial Door",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Observador. A julgar pela forma como esta porta foi projetada, gostaria de concluir que é construída para a função sobre a estética."
+    "value": "Observador. A julgar pela forma como esta porta foi projetada, gostaria de concluir que é construída para a função sobre a estética.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "As luzes vermelhas e listras de perigo nesta porta realmente se somam a esse aspecto industrial."
+    "value": "As luzes vermelhas e listras de perigo nesta porta realmente se somam a esse aspecto industrial.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Embora esta porta seja impressionantemente forte, falta o toque visual da obra tradicional Hylotl."
+    "value": "Esta porta provavelmente poderia suportar uma tempestade de asteróides ou duas.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Eu acho que levaria mais do que algumas balas de pistola para quebrar essa porta aqui."
+    "value": "Esta porta não é muito bonita, mas é impressionante e resistente.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Embora esta porta seja impressionantemente forte, falta o toque visual da obra tradicional Hylotl.",
+    "path": "/hylotlDescription"
   }
 ]

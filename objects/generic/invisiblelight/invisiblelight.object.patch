@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/description", "value": "Iluminação em faixa, para uso em uma nave espacial."}, {"op": "replace", "path": "/shortdescription", "value": "Ship Light"}, {"op": "replace", "path": "/floranDescription", "value": "Nada para ver aqui."}, {"op": "replace", "path": "/glitchDescription", "value": "Nada para ver aqui."}, {"op": "replace", "path": "/apexDescription", "value": "Nada para ver aqui."}, {"op": "replace", "path": "/humanDescription", "value": "Nada para ver aqui."}, {"op": "replace", "path": "/hylotlDescription", "value": "Nada para ver aqui."}, {"op": "replace", "path": "/avianDescription", "value": "Nada para ver aqui."}]
+[
+  {
+    "op": "replace",
+    "value": "Nada para ver aqui.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nada para ver aqui.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nada para ver aqui.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nada para ver aqui.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nada para ver aqui.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nada para ver aqui.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Iluminação em tira, para uso em uma nave espacial.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ship Light",
+    "path": "/shortdescription"
+  }
+]

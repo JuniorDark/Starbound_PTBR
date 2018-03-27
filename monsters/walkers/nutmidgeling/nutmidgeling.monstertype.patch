@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Muitas vezes se agrupa com outros Nutmidgelings, encontrando força e segurança em números."}, {"op": "replace", "path": "/shortdescription", "value": "Nutmidgeling"}]
+[
+  {
+    "op": "replace",
+    "value": "Muitas vezes se agrupa com outros Nutmidgelings, encontrando força e segurança em números.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Nutmidgeling",
+    "path": "/shortdescription"
+  }
+]

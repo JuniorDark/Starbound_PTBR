@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Impressionado. A engenharia para manter uma máquina deste tamanho é difícil."}, {"op": "replace", "path": "/novakidDescription", "value": "Um grande tanque despejando toda uma bagunça de lava."}, {"op": "replace", "path": "/humanDescription", "value": "Esse fluxo de lava é maior do que eu."}, {"op": "replace", "path": "/avianDescription", "value": "Líquido ardente escorre deste tanque."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta lava é quase tranquila, é melhor ter certeza que não espirre em mim."}, {"op": "replace", "path": "/shortdescription", "value": "Cascading Lava Tank"}, {"op": "replace", "path": "/apexDescription", "value": "Este tanque processa a energia do líquido derretido no interior."}, {"op": "replace", "path": "/description", "value": "Este tanque circula o líquido derretido para evitar que fique estagnado."}, {"op": "replace", "path": "/floranDescription", "value": "Cachoeira de lava desagradável."}]
+[
+  {
+    "op": "replace",
+    "value": "Um grande tanque despejando toda uma bagunça de lava.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Líquido ardente escorre deste tanque.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cascading Lava Tank",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. A engenharia para manter uma máquina deste tamanho é difícil.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cachoeira de lava desagradável.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lava é quase tranquila, é melhor ter certeza que não espirre em mim.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse fluxo de lava é maior do que eu.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este tanque circula o líquido derretido para evitar que fique estagnado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Este tanque processa a energia do líquido derretido no interior.",
+    "path": "/apexDescription"
+  }
+]

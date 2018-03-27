@@ -1,17 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/category",
-    "value": "tool"
+    "value": "Esta ferramenta não vai durar muito, mas eu vou ser capaz de cavar muito rápido com ela.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Esta ferramenta não vai durar muito, mas eu vou ser capaz de cavar muito rápido com ela."
-  },
-  {
-    "op": "replace",
-    "path": "/shortdescription",
-    "value": "Silver Pickaxe"
+    "value": "Silver Pickaxe",
+    "path": "/shortdescription"
   }
 ]

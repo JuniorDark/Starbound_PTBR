@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Constantemente à vista, constantemente fora de alcance."}, {"op": "replace", "path": "/shortdescription", "value": "The Motivator"}]
+[
+  {
+    "op": "replace",
+    "value": "Constantemente à vista, constantemente fora de alcance.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "The Motivator",
+    "path": "/shortdescription"
+  }
+]

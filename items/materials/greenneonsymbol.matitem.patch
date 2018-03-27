@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Um bloco com um glifo verde estranho gravado no centro."}, {"op": "replace", "path": "/shortdescription", "value": "Green Neon Block"}]
+[
+  {
+    "op": "replace",
+    "value": "Um bloco com um glifo verde estranho gravado no centro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de simbolo verde.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Green Neon Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perturbado. O significado deste símbolo me escapa.",
+    "path": "/glitchdescription"
+  }
+]

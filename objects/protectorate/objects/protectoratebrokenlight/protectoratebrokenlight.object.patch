@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Esta luz parece não estar funcionando corretamente."}, {"op": "replace", "path": "/avianDescription", "value": "Esta luz está quase completamente quebrada."}, {"op": "replace", "path": "/description", "value": "Esta luz fluorescente já viu melhores dias."}, {"op": "replace", "path": "/shortdescription", "value": "Broken Fluorescent Light"}, {"op": "replace", "path": "/floranDescription", "value": "Luz cintilante barulhenta."}, {"op": "replace", "path": "/humanDescription", "value": "Uma luz quebrada que cintila fracamente."}, {"op": "replace", "path": "/novakidDescription", "value": "sta luz quebrada não está piscando mais do que uma vela."}, {"op": "replace", "path": "/glitchDescription", "value": "Descontente. Esta luz fluorescente é quase não funcional."}, {"op": "replace", "path": "/apexDescription", "value": "Esta luz tem apenas o menor lampejo de poder. Talvez possa ser consertada."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz quebrada que cintila fracamente.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luz cintilante barulhenta.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Descontente. Esta luz fluorescente é quase não funcional.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz quebrada não está piscando mais do que uma vela.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz fluorescente já teve dias melhores.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz parece não estar funcionando corretamente.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz tem o mais leve tremor de poder. Talvez possa ser reparada.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz está quase completamente quebrada.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Broken Fluorescent Light",
+    "path": "/shortdescription"
+  }
+]

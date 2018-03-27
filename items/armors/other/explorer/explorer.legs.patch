@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Explorer's Leg Armour"}, {"op": "replace", "path": "/description", "value": "Estas calças são feitas de um material leve, para aliviar a carga de um aventureiro cansado."}]
+[
+  {
+    "op": "replace",
+    "value": "Explorer's Leg Armour",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas calças são feitas de um material leve, para aliviar a carga de um aventureiro cansado.",
+    "path": "/description"
+  }
+]

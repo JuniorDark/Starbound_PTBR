@@ -1,37 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um teletransportador pessoal, conecta-se a locais marcados."
+    "value": "Um teletransportador pessoal, conecta-se a locais marcados.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Um teletransportador pessoal. Uma peça de equipamento divertida."
+    "value": "Outpost Teleporter",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Eu amo o balançar das minhas penas quando eu teleporto!"
+    "value": "Um teletransportador pessoal! Agora isto é viajar em grande estilo.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Seduzido. Um teletransportador pessoal, com um design personalizado."
+    "value": "Um teletransportador pessoal, ostenta um design personalizado.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Um teletransportador pessoal! Agora isto é viajar em grande estilo."
+    "value": "Um teletransportador pessoal. Uma peça de equipamento divertida.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Um teletransportador pessoal, ostenta um design personalizado."
+    "value": "Um teletransportador pessoal de aparência chique!",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Um teletransportador pessoal de aparência chique!"
+    "value": "Seduzido. Um teletransportador pessoal, com um design personalizado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu amo o balançar das minhas penas quando eu teleporto!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Teletransportador pessoal é chique!",
+    "path": "/floranDescription"
   }
 ]

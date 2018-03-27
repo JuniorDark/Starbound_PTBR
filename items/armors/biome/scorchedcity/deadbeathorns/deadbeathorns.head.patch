@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Deadbeat Horns"}, {"op": "replace", "path": "/description", "value": "Esses chifres intimidam mas são bem bonitos."}]
+[
+  {
+    "op": "replace",
+    "value": "Deadbeat Horns",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esses chifres intimidam mas são bem bonitos.",
+    "path": "/description"
+  }
+]

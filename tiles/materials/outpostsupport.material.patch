@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Atento. Um tipo de viga comumente usado na construção de postos avançados."}, {"op": "replace", "path": "/description", "value": "Uma viga de apoio reforçada."}, {"op": "replace", "path": "/shortdescription", "value": "Outpost Support Beam"}, {"op": "replace", "path": "/floranDescription", "value": "Viga de apoio."}, {"op": "replace", "path": "/novakidDescription", "value": "Me parece um grande viga de metal."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma viga de apoio reforçada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Me parece um grande viga de metal.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Um tipo de viga comumente usado na construção de postos avançados.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Outpost Support Beam",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Viga de apoio.",
+    "path": "/floranDescription"
+  }
+]

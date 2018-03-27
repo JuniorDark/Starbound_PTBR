@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Nylon Guitar"}, {"op": "replace", "path": "/description", "value": "Uma guitarra com cordas de nylon. Isso chora gentilmente."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma guitarra com cordas de nylon. Isso chora gentilmente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Nylon Guitar",
+    "path": "/shortdescription"
+  }
+]

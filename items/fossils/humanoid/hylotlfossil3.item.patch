@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um par fossilizado de pernas Hylotl."}, {"op": "replace", "path": "/shortdescription", "value": "Hylotl Legs"}]
+[
+  {
+    "op": "replace",
+    "value": "Um par fossilizado de pernas Hylotl.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Hylotl Legs",
+    "path": "/shortdescription"
+  }
+]

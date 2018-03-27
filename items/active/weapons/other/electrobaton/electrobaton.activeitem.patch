@@ -1,7 +1,17 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Originalmente desenvolvido para a polícia de choque da Miniknog. É chocantemente eficaz."
+    "value": "Electro Baton",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Electro Baton ^yellow;^reset;",
+    "path": "/upgradeParameters/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Originalmente desenvolvido para a polícia de choque da Miniknog. É chocantemente eficaz.",
+    "path": "/description"
   }
 ]

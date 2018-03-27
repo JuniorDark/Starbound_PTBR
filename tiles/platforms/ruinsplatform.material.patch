@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Ruins Platform"}, {"op": "replace", "path": "/glitchDescription", "value": "Alarmado. Esta velha plataforma de madeira é estruturalmente inadequada."}, {"op": "replace", "path": "/novakidDescription", "value": "Melhor tomar cuidado, esta plataforma velha parece que está caindo aos pedaços"}, {"op": "replace", "path": "/description", "value": "Uma plataforma de madeira empoeirada velha. Parece que está caindo aos pedaços."}, {"op": "replace", "path": "/floranDescription", "value": "Apodrecida e insegura. Floran aprova."}]
+[
+  {
+    "op": "replace",
+    "value": "Alarmado. Esta velha plataforma de madeira é estruturalmente inadequada.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma plataforma de madeira empoeirada velha. Parece que está caindo aos pedaços.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Melhor tomar cuidado, esta plataforma velha parece que está caindo aos pedaços",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apodrecida e insegura. Floran aprova.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ruins Platform",
+    "path": "/shortdescription"
+  }
+]

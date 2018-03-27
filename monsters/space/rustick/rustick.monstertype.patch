@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Se eles não fazem uma conexão com outro Rustick, eles podem ficar muito solitários.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Rustick",
+    "path": "/shortdescription"
+  }
+]

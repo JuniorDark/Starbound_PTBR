@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Ele nunca pára de olhar. Quem faria uma coisa dessas?"}, {"op": "replace", "path": "/shortdescription", "value": "Evil Mushroom Hat"}]
+[
+  {
+    "op": "replace",
+    "value": "Evil Mushroom Hat",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ele nunca pára de olhar. Quem faria uma coisa dessas?",
+    "path": "/description"
+  }
+]

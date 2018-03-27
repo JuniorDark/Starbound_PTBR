@@ -1,1 +1,202 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/follower/attack/default/default/0", "value": "Eu vou pegar esses caras!"}, {"op": "replace", "path": "/scriptConfig/dialog/follower/attack/default/default/1", "value": "Ataque surpresa!"}, {"op": "replace", "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/1", "value": "Estou impressionado."}, {"op": "replace", "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/4", "value": "Eu estive aqui por muito tempo para que eles me parem."}, {"op": "replace", "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/5", "value": "Pegue isso."}, {"op": "replace", "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/6", "value": "Ufa."}, {"op": "replace", "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/7", "value": "Fique alerta, pode ter mais."}, {"op": "replace", "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/8", "value": "Espero que todos esses esqueletos sejam apenas adereços..."}, {"op": "replace", "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/9", "value": "Isso é o que você ganha por mexer com NOS!"}, {"op": "replace", "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/2", "value": "Como você chegou aqui?"}, {"op": "replace", "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/1", "value": "Vamos cair fora."}, {"op": "replace", "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/3", "value": "Eles não viram essa chegando!"}, {"op": "replace", "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/10", "value": "Espero que isso é tudo deles..."}, {"op": "replace", "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/12", "value": "Mesmo se não conseguirmos sair daqui, pelo menos nós ferimos eles."}, {"op": "replace", "path": "/scriptConfig/dialog/follower/attack/default/default/2", "value": "Ataque!"}, {"op": "replace", "path": "/scriptConfig/dialog/follower/attack/default/default/3", "value": "Ataque!"}, {"op": "replace", "path": "/scriptConfig/dialog/follower/attack/default/default/4", "value": "Rápido, estamos sob ataque!"}, {"op": "replace", "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/13", "value": "Eu me pergunto quantos mais como nós têm sido caçados aqui embaixo..."}, {"op": "replace", "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/14", "value": "Estou esperança de machucar muito mais Florans antes de sair."}, {"op": "replace", "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/15", "value": "Ufa, você sabe se cuidar muito bem."}, {"op": "replace", "path": "/scriptConfig/dialog/follower/attack/default/default/5", "value": "Tenha cuidado!"}, {"op": "replace", "path": "/scriptConfig/dialog/follower/attack/default/default/6", "value": "Olhe!"}, {"op": "replace", "path": "/scriptConfig/dialog/follower/attack/default/default/7", "value": "Não há tempo para bate-papo, fomos avistados!"}, {"op": "replace", "path": "/scriptConfig/dialog/follower/attack/default/default/8", "value": "Uh-oh!"}, {"op": "replace", "path": "/scriptConfig/dialog/follower/attack/default/default/9", "value": "Fui avistado!"}, {"op": "replace", "path": "/scriptConfig/dialog/follower/attack/default/default/10", "value": "Eu vim preparado!"}, {"op": "replace", "path": "/scriptConfig/dialog/follower/attack/default/default/11", "value": "Nós estamos atacando? Estamos atacando!"}, {"op": "replace", "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/0", "value": "Vamos continuar."}, {"op": "replace", "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/11", "value": "Vamos."}, {"op": "replace", "path": "/scriptConfig/dialog/follower/wait/default/default/0", "value": "Vou esperar aqui."}, {"op": "replace", "path": "/scriptConfig/dialog/follower/wait/default/default/1", "value": "Eu vou ficar aqui, não me deixe sozinho por muito tempo!"}, {"op": "replace", "path": "/scriptConfig/dialog/follower/wait/default/default/2", "value": "Você precisa de uma pausa?"}, {"op": "replace", "path": "/scriptConfig/dialog/follower/join/default/default/0", "value": "Ei, um rosto amigável! eles te prenderam aqui também? Eu vou ficar com você."}, {"op": "replace", "path": "/scriptConfig/dialog/follower/join/default/default/1", "value": "Outro sobrevivente?! Parece que você sabe se cuidar - Vou te seguir."}, {"op": "replace", "path": "/scriptConfig/dialog/follower/join/default/default/2", "value": "Eu não esperava ver outros sobreviventes aqui em baixo! Vamos ficar juntos."}, {"op": "replace", "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/0", "value": "Olá de novo."}, {"op": "replace", "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/2", "value": "Você está pronto para seguir em frente?"}, {"op": "replace", "path": "/scriptConfig/dialog/follower/attack/default/default/13", "value": "Eles querem uma caça? Vou dar a eles uma caça!"}, {"op": "replace", "path": "/scriptConfig/dialog/follower/attack/default/default/14", "value": "Vou fugir ou morrer tentando!"}, {"op": "replace", "path": "/scriptConfig/dialog/follower/attack/default/default/12", "value": "Vamos ensinar esses caras uma lição!"}]
+[
+  {
+    "op": "replace",
+    "value": "Vou esperar aqui.",
+    "path": "/scriptConfig/dialog/follower/wait/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Atacar!",
+    "path": "/scriptConfig/dialog/follower/attack/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Outro sobrevivente?! Parece que você sabe se cuidar - Vou te seguir.",
+    "path": "/scriptConfig/dialog/follower/join/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Nós estamos atacando? Estamos atacando!",
+    "path": "/scriptConfig/dialog/follower/attack/default/default/11"
+  },
+  {
+    "op": "replace",
+    "value": "Tenha cuidado!",
+    "path": "/scriptConfig/dialog/follower/attack/default/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Você precisa de uma pausa?",
+    "path": "/scriptConfig/dialog/follower/wait/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Mesmo se não conseguirmos sair daqui, pelo menos nós ferimos eles.",
+    "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/12"
+  },
+  {
+    "op": "replace",
+    "value": "Olá de novo.",
+    "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ei, um rosto amigável! eles te prenderam aqui também? Eu vou ficar com você.",
+    "path": "/scriptConfig/dialog/follower/join/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que isso é tudo deles...",
+    "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/10"
+  },
+  {
+    "op": "replace",
+    "value": "Como você chegou aqui?",
+    "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vim preparado!",
+    "path": "/scriptConfig/dialog/follower/attack/default/default/10"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não esperava ver outros sobreviventes aqui em baixo! Vamos ficar juntos.",
+    "path": "/scriptConfig/dialog/follower/join/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que todos esses esqueletos sejam apenas adereços...",
+    "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto quantos mais como nós têm sido caçados aqui embaixo...",
+    "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/13"
+  },
+  {
+    "op": "replace",
+    "value": "Vou fugir ou morrer tentando!",
+    "path": "/scriptConfig/dialog/follower/attack/default/default/14"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vou ficar aqui, não me deixe sozinho por muito tempo!",
+    "path": "/scriptConfig/dialog/follower/wait/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vou pegar esses caras!",
+    "path": "/scriptConfig/dialog/follower/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Estou esperança de machucar muito mais Florans antes de sair.",
+    "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/14"
+  },
+  {
+    "op": "replace",
+    "value": "Estou impressionado.",
+    "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu estive aqui por muito tempo para que eles me parem.",
+    "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos.",
+    "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/11"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos cair fora.",
+    "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos continuar.",
+    "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos ensinar esses caras uma lição!",
+    "path": "/scriptConfig/dialog/follower/attack/default/default/12"
+  },
+  {
+    "op": "replace",
+    "value": "Olhe!",
+    "path": "/scriptConfig/dialog/follower/attack/default/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Não há tempo para bate-papo, fomos avistados!",
+    "path": "/scriptConfig/dialog/follower/attack/default/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Ufa, você sabe se cuidar muito bem.",
+    "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/15"
+  },
+  {
+    "op": "replace",
+    "value": "Ufa.",
+    "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Rápido, estamos sob ataque!",
+    "path": "/scriptConfig/dialog/follower/attack/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Ataque surpresa!",
+    "path": "/scriptConfig/dialog/follower/attack/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Fique alerta, pode ter mais.",
+    "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Ataque!",
+    "path": "/scriptConfig/dialog/follower/attack/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Pegue isso.",
+    "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é o que você ganha por mexer com NOS!",
+    "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "Eles não viram essa chegando!",
+    "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Eles querem uma caça? Vou dar a eles uma caça!",
+    "path": "/scriptConfig/dialog/follower/attack/default/default/13"
+  },
+  {
+    "op": "replace",
+    "value": "Uh-oh!",
+    "path": "/scriptConfig/dialog/follower/attack/default/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Fui avistado!",
+    "path": "/scriptConfig/dialog/follower/attack/default/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "Você está pronto para seguir em frente?",
+    "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/2"
+  }
+]

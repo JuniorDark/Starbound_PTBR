@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Deputy's Vest"}, {"op": "replace", "path": "/description", "value": "Um conjunto clássico de colete e bandana, completo com um emblema oficial de Delegado."}]
+[
+  {
+    "op": "replace",
+    "value": "Um conjunto clássico de colete e bandana, completo com um emblema oficial de Delegado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Deputy's Vest",
+    "path": "/shortdescription"
+  }
+]

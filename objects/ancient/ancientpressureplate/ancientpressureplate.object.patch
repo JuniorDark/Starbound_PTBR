@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Esta telha parece que pode mover-se fraudulentamente."}, {"op": "replace", "path": "/hylotlDescription", "value": "Vi telhas como este usado em armadilhas antigas."}, {"op": "replace", "path": "/avianDescription", "value": "Placa de pressão como esta são comuns em túmulos Avian."}, {"op": "replace", "path": "/humanDescription", "value": "Dar passos nesta velha telha pode ativar uma armadilha!"}, {"op": "replace", "path": "/apexDescription", "value": "Queria saber a que maravilhas mecânicas esta placa de pressão pode conectar-se."}, {"op": "replace", "path": "/glitchDescription", "value": "Interessado. Este telha pode usar-se para ativar qualquer número de coisas."}, {"op": "replace", "path": "/floranDescription", "value": "Cuidado. O passo mais pequeno pode ativar esta placa."}, {"op": "replace", "path": "/shortdescription", "value": "Ancient Pressure Plate"}, {"op": "replace", "path": "/description", "value": "Use esta placa de pressão sabiamente."}]
+[
+  {
+    "op": "replace",
+    "value": "Ancient Pressure Plate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cuidado. O passo mais pequeno pode ativar esta placa.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Queria saber a que maravilhas mecânicas esta placa de pressão pode conectar-se.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vi telhas como este usado em armadilhas antigas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Este telha pode usar-se para ativar qualquer número de coisas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Placa de pressão como esta são comuns em túmulos Avian.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dar passos nesta velha telha pode ativar uma armadilha!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta telha parece que pode mover-se fraudulentamente.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Use esta placa de pressão sabiamente.",
+    "path": "/description"
+  }
+]

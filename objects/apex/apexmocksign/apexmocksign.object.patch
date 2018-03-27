@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um cartaz desfigurado de Big Ape."}, {"op": "replace", "path": "/shortdescription", "value": "Disobey Sign"}, {"op": "replace", "path": "/floranDescription", "value": "Floran acha macaco engraçado!"}, {"op": "replace", "path": "/glitchDescription", "value": "Divertido. Alguém desfigurou este cartaz do Big Ape."}, {"op": "replace", "path": "/apexDescription", "value": "Parece que alguém não gosta do Big Ape."}, {"op": "replace", "path": "/humanDescription", "value": "Parece que alguém não tem medo da Miniknog."}, {"op": "replace", "path": "/avianDescription", "value": "Um cartaz desfigurado de Big Ape. Bom trabalho."}, {"op": "replace", "path": "/hylotlDescription", "value": "Mesmo durante épocas de opressão, os Apex tem tempo para desfigurar pôsteres."}, {"op": "replace", "path": "/novakidDescription", "value": "Desfigurar um cartaz do Big Ape é um movimento ousado. Aposto que alguém pagou o preço."}]
+[
+  {
+    "op": "replace",
+    "value": "Um cartaz desfigurado de Big Ape.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um cartaz desfigurado de Big Ape. Bom trabalho.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Divertido. Alguém desfigurou este cartaz do Big Ape.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desfigurar um cartaz do Big Ape é um movimento ousado. Aposto que alguém pagou o preço.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Disobey Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mesmo durante épocas de opressão, os Apex tem tempo para desfigurar pôsteres.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran acha macaco engraçado!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que alguém não tem medo da Miniknog.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que alguém não gosta do Big Ape.",
+    "path": "/apexDescription"
+  }
+]

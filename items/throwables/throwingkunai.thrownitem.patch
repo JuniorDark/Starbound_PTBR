@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Throwing Kunai"}, {"op": "replace", "path": "/description", "value": "Uma faca de arremesso especializada, com uma lâmina pesada."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma faca de arremesso especializada, com uma lâmina pesada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Throwing Kunai",
+    "path": "/shortdescription"
+  }
+]

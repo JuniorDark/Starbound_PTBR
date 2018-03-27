@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Para atirar em qualquer um que diz que nada rima com laranja."}, {"op": "replace", "path": "/shortdescription", "value": "Orange Paintgun"}]
+[
+  {
+    "op": "replace",
+    "value": "Para atirar em qualquer um que diz que nada rima com laranja.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Orange Paintgun",
+    "path": "/shortdescription"
+  }
+]

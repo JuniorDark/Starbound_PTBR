@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Pussplum"}, {"op": "replace", "path": "/description", "value": "Pussplum, alguns alegam que é delicioso!"}]
+[
+  {
+    "op": "replace",
+    "value": "Pussplum",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pussplum, alguns alegam que é delicioso!",
+    "path": "/description"
+  }
+]

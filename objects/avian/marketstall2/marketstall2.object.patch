@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Market Clothes Stall"}, {"op": "replace", "path": "/description", "value": "Belos tecidos e roupas adornam esta pequena barraca bonitinha."}, {"op": "replace", "path": "/glitchDescription", "value": "Inseguro. Não tenho conhecimento de moda."}, {"op": "replace", "path": "/apexDescription", "value": "Uma seleção de roupas brilhantes."}, {"op": "replace", "path": "/humanDescription", "value": "Que roupas coloridas."}, {"op": "replace", "path": "/avianDescription", "value": "Os grounded favorecem roupas brilhantes que fluem com os ventos."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta roupa é bonita. Tais cores perdem sua vitalidade sob as ondas."}, {"op": "replace", "path": "/floranDescription", "value": "Homem-pássaro fácil de detectar em roupas brilhantes. Nunca sssobreviveria na selva de Floran."}, {"op": "replace", "path": "/novakidDescription", "value": "Estas são algumas roupas muito extravagantes."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma seleção de roupas brilhantes.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Belos tecidos e roupas adornam esta pequena barraca bonitinha.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Homem-pássaro fácil de detectar em roupas brilhantes. Nunca sssobreviveria na selva de Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inseguro. Não tenho conhecimento de moda.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Market Clothes Stall",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que roupas coloridas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os grounded favorecem roupas brilhantes que fluem com os ventos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas são algumas roupas muito extravagantes.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta roupa é bonita. Tais cores perdem sua vitalidade sob as ondas.",
+    "path": "/hylotlDescription"
+  }
+]

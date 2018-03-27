@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Bastante abstrato. Saboroso, mas abstrato."}, {"op": "replace", "path": "/apexDescription", "value": "Isso é bastante abstrato."}, {"op": "replace", "path": "/hylotlDescription", "value": "Ahh... Eu entendo. Esta pintura faz você pensar."}, {"op": "replace", "path": "/glitchDescription", "value": "Confuso. Há significado escondido atrás desta maçã?"}, {"op": "replace", "path": "/description", "value": "Ahh O Filho do Homem, você me deixa com fome!"}, {"op": "replace", "path": "/shortdescription", "value": "Curious Painting"}, {"op": "replace", "path": "/floranDescription", "value": "Floran tão confussso."}, {"op": "replace", "path": "/avianDescription", "value": "O que é essa criatura?"}, {"op": "replace", "path": "/novakidDescription", "value": "Ele está usando um chapéu muito chique por uma maçã."}]
+[
+  {
+    "op": "replace",
+    "value": "Ahh O Filho do Homem, você me deixa com fome!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ahh... Eu entendo. Esta pintura faz você pensar.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Há significado escondido atrás desta maçã?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curious Painting",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran tão confussso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ele está usando um chapéu muito chique por uma maçã.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bastante abstrato. Saboroso, mas abstrato.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é bastante abstrato.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que é essa criatura?",
+    "path": "/avianDescription"
+  }
+]

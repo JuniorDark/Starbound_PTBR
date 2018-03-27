@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "A pessoa que escreveu esta nota tem uma caligrafia muito atraente... Ilegível, mas atraente."}, {"op": "replace", "path": "/description", "value": "Um aviso escrito em tinta."}, {"op": "replace", "path": "/shortdescription", "value": "Notice"}, {"op": "replace", "path": "/floranDescription", "value": "Algum tipo de aviso... Floran acha escrita difícil de ler."}, {"op": "replace", "path": "/glitchDescription", "value": "Perplexo. É realmente muito difícil ler esta caligrafia."}, {"op": "replace", "path": "/apexDescription", "value": "Não consigo ler esta caligrafia."}, {"op": "replace", "path": "/humanDescription", "value": "Se você for colocar um aviso, pelo menos torne-o legível."}, {"op": "replace", "path": "/avianDescription", "value": "Não consigo ler esta caligrafia, é um arranhão de galinha."}, {"op": "replace", "path": "/novakidDescription", "value": "Algum tipo de aviso... se eu pudesse ler a caligrafia embora."}]
+[
+  {
+    "op": "replace",
+    "value": "Um aviso escrito em tinta.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Perplexo. É realmente muito difícil ler esta caligrafia.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não consigo ler esta caligrafia, é um arranhão de galinha.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não consigo ler esta caligrafia.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se você for colocar um aviso, pelo menos torne-o legível.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Notice",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de aviso... se eu pudesse ler a caligrafia embora.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de aviso... Floran acha escrita difícil de ler.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A pessoa que escreveu esta nota tem uma caligrafia muito atraente... Ilegível, mas atraente.",
+    "path": "/hylotlDescription"
+  }
+]

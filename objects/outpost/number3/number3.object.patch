@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Três."}, {"op": "replace", "path": "/avianDescription", "value": "Três."}, {"op": "replace", "path": "/hylotlDescription", "value": "Três."}, {"op": "replace", "path": "/description", "value": "Numero três."}, {"op": "replace", "path": "/shortdescription", "value": "Three"}, {"op": "replace", "path": "/apexDescription", "value": "Três."}, {"op": "replace", "path": "/floranDescription", "value": "Trêsss."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Três."}, {"op": "replace", "path": "/novakidDescription", "value": "Número da sorte."}]
+[
+  {
+    "op": "replace",
+    "value": "Número da sorte.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Três.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Three",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Numero três.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Trêsss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Três.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Três.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Três.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Três.",
+    "path": "/hylotlDescription"
+  }
+]

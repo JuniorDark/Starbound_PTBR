@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Black Glass"}, {"op": "replace", "path": "/description", "value": "Uma painel de vidro tingido de preto."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma painel de vidro tingido de preto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Black Glass",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran pode se esconder atráss de vidro escuro.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vidro tão escuro que o brilho do sol dificilmente vai passar por ele.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Este vidro foi tão tingido de preto que quase não é transparente.",
+    "path": "/glitchdescription"
+  }
+]

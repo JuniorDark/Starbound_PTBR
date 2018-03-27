@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Várias bexigas natatórias ao longo de seu corpo lhe da um bom controle de sua flutuabilidade."}, {"op": "replace", "path": "/shortdescription", "value": "Garland Conger"}]
+[
+  {
+    "op": "replace",
+    "value": "Garland Conger",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Várias bexigas natatórias ao longo de seu corpo lhe da um bom controle de sua flutuabilidade.",
+    "path": "/description"
+  }
+]

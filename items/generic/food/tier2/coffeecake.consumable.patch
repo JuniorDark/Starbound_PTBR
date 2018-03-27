@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um bolo húmido enriquecido com café. Irresistíveil!"}, {"op": "replace", "path": "/shortdescription", "value": "Coffee Cake"}]
+[
+  {
+    "op": "replace",
+    "value": "Um bolo húmido enriquecido com café. Irresistíveil!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Coffee Cake",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Este lustre é feito de ferro forjado. Parece caro."}, {"op": "replace", "path": "/apexDescription", "value": "Um lustre clássico bonito."}, {"op": "replace", "path": "/humanDescription", "value": "Um lustre elétrico. Muito bonito."}, {"op": "replace", "path": "/avianDescription", "value": "Um conjunto muito encantador de luzes."}, {"op": "replace", "path": "/shortdescription", "value": "Classic Chandelier"}, {"op": "replace", "path": "/glitchDescription", "value": "Admiração. Estes parecem ser semelhantes aos lustres Glitch, mas muito melhorados."}, {"op": "replace", "path": "/floranDescription", "value": "Até Mesmo Floran reconhece classe quando Floran vê-la."}, {"op": "replace", "path": "/hylotlDescription", "value": "Talvez outros sejam mais elegantes do que eu pensava."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu gosto dessa lâmpada. Parece que ela deve estar pendurada em um saloon."}]
+[
+  {
+    "op": "replace",
+    "value": "Um lustre clássico bonito.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um conjunto muito encantador de luzes.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Admiração. Estes parecem ser semelhantes aos lustres Glitch, mas muito melhorados.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um lustre elétrico. Muito bonito.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Classic Chandelier",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Até Mesmo Floran reconhece classe quando Floran vê-la.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu gosto dessa lâmpada. Parece que ela deve estar pendurada em um saloon.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez outros sejam mais elegantes do que eu pensava.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este lustre é feito de ferro forjado. Parece caro.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Coconut"}, {"op": "replace", "path": "/description", "value": "Este coco esta apenas esperando para ser arremessado."}]
+[
+  {
+    "op": "replace",
+    "value": "Coconut",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este coco esta apenas esperando para ser arremessado.",
+    "path": "/description"
+  }
+]

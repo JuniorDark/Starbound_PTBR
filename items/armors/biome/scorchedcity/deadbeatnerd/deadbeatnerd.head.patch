@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma máscara facial com óculos de proteção."}, {"op": "replace", "path": "/shortdescription", "value": "Deadbeat Nerd Mask"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma máscara facial com óculos de proteção.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Deadbeat Nerd Mask",
+    "path": "/shortdescription"
+  }
+]

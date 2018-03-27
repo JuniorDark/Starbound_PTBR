@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Uma cabeça montada. Aterrorizante."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta cabeça está em exibição como decoração."}, {"op": "replace", "path": "/description", "value": "Uma cabeça montada em uma placa redonda. Seus olhos seguem você..."}, {"op": "replace", "path": "/shortdescription", "value": "Round Mounted Skull"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de exibir presass da caça."}, {"op": "replace", "path": "/glitchDescription", "value": "Enojado. Esta cabeça está em exibição como decoração."}, {"op": "replace", "path": "/humanDescription", "value": "Olhar para esta coisa me arrepia."}, {"op": "replace", "path": "/avianDescription", "value": "Uma cabeça, provavelmente tirada de alguma morte antiga."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu certamente odiaria acabar desse jeito."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cabeça montada em uma placa redonda. Seus olhos seguem você...",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cabeça, provavelmente tirada de alguma morte antiga.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cabeça montada. Aterrorizante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Enojado. Esta cabeça está em exibição como decoração.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de exibir presass da caça.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu certamente odiaria acabar desse jeito.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Olhar para esta coisa me arrepia.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Round Mounted Skull",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cabeça está em exibição como decoração.",
+    "path": "/hylotlDescription"
+  }
+]

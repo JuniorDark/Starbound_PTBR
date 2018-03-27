@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Temeroso. Esta âncora esta coberta de ferrugem, o inimigo dos Glitch."}, {"op": "replace", "path": "/description", "value": "Uma âncora quebrada."}, {"op": "replace", "path": "/shortdescription", "value": "Broken Anchor"}, {"op": "replace", "path": "/floranDescription", "value": "Essstá quebrada."}, {"op": "replace", "path": "/apexDescription", "value": "Uma âncora quebrada."}, {"op": "replace", "path": "/humanDescription", "value": "De onde veio essa âncora?"}, {"op": "replace", "path": "/avianDescription", "value": "Essa âncora parece estar quebrada."}, {"op": "replace", "path": "/hylotlDescription", "value": "Âncoras são conhecidas por cair da superfície e atingir cidades Hylotl."}, {"op": "replace", "path": "/novakidDescription", "value": "Não posso dizer se é apenas velha ou se é artesanato de má qualidade."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma âncora quebrada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma âncora quebrada.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Âncoras são conhecidas por cair da superfície e atingir cidades Hylotl.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Broken Anchor",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não posso dizer se é apenas velha ou se é artesanato de má qualidade.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Temeroso. Esta âncora esta coberta de ferrugem, o inimigo dos Glitch.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essstá quebrada.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa âncora parece estar quebrada.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "De onde veio essa âncora?",
+    "path": "/humanDescription"
+  }
+]

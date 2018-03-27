@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Madeira velha é forte."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu aposto essa madeira aqui é muito antiga."}, {"op": "replace", "path": "/shortdescription", "value": "Wooden Bridge Block"}, {"op": "replace", "path": "/glitchDescription", "value": "Encantado. Esta madeira envelhecida range com a idade."}, {"op": "replace", "path": "/description", "value": "A madeira é muito antiga e range no vento."}]
+[
+  {
+    "op": "replace",
+    "value": "Encantado. Esta madeira envelhecida range com a idade.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu aposto essa madeira aqui é muito antiga.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Madeira velha é forte.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A madeira é muito antiga e range no vento.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Wooden Bridge Block",
+    "path": "/shortdescription"
+  }
+]

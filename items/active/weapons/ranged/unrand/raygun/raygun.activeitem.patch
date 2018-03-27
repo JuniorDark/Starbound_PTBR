@@ -1,7 +1,17 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma arma estranha que dispara esferas de energia oscilantes."
+    "value": "Uma arma estranha que dispara orbes de energia oscilantes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ray Gun",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ray Gun ^yellow;^reset;",
+    "path": "/upgradeParameters/shortdescription"
   }
 ]

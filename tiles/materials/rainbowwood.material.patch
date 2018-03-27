@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Áspera e não refinada, esta madeira tem um centro colorido."}, {"op": "replace", "path": "/shortdescription", "value": "Unrefined Rainbow Wood"}, {"op": "replace", "path": "/floranDescription", "value": "Rainbow Wood não esssfaqueada."}, {"op": "replace", "path": "/glitchDescription", "value": "Afirmação. Rainbow Wood não refinada."}]
+[
+  {
+    "op": "replace",
+    "value": "Áspera e não refinada, esta madeira tem um centro colorido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Afirmação. Rainbow Wood não refinada.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Unrefined Rainbow Wood",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rainbow Wood não esssfaqueada.",
+    "path": "/floranDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Ansioso. Sem tempo a perder, abra-o!"}, {"op": "replace", "path": "/apexDescription", "value": "Uma baú capsula. O que há dentro?"}, {"op": "replace", "path": "/avianDescription", "value": "Estes baús são construídos forte, para proteger o conteúdo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os presentes são mais excitantes quando ainda estão embrulhados."}, {"op": "replace", "path": "/shortdescription", "value": "Pod Chest"}, {"op": "replace", "path": "/floranDescription", "value": "Vamoss abrir baú! Talvez comida dentro."}, {"op": "replace", "path": "/description", "value": "Um baú de armazenamento útil."}, {"op": "replace", "path": "/humanDescription", "value": "Um baú capsula é sempre uma visão bem-vinda."}, {"op": "replace", "path": "/novakidDescription", "value": "Um baú capsula. Me pergunto o que há dentro..."}]
+[
+  {
+    "op": "replace",
+    "value": "Um baú capsula é sempre uma visão bem-vinda.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma baú capsula. O que há dentro?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú capsula. Me pergunto o que há dentro...",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú de armazenamento útil.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Vamoss abrir baú! Talvez comida dentro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pod Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes baús são construídos forte, para proteger o conteúdo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. Sem tempo a perder, abra-o!",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os presentes são mais excitantes quando ainda estão embrulhados.",
+    "path": "/hylotlDescription"
+  }
+]

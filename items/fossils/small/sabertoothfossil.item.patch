@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/completeSetDescriptions/description", "value": "Fósseis de sabertooth são amplamente reconhecidos, facilmente identificáveis por seus dentes caninos alongados."}, {"op": "replace", "path": "/shortdescription", "value": "Sabertooth Skull"}, {"op": "replace", "path": "/description", "value": "Um crânio de sabertooth fossilizado."}, {"op": "replace", "path": "/completeSetDescriptions/shortdescription", "value": "Sabertooth Skull"}]
+[
+  {
+    "op": "replace",
+    "value": "Sabertooth Skull",
+    "path": "/completeSetDescriptions/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sabertooth Skull",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fósseis de sabertooth são amplamente reconhecidos, facilmente identificáveis por seus dentes caninos alongados.",
+    "path": "/completeSetDescriptions/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um crânio de sabertooth fossilizado.",
+    "path": "/description"
+  }
+]

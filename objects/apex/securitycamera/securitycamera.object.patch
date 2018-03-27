@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Ver esta câmera me faz querer se esconder debaixo do oceano para evitar o seu olhar."}, {"op": "replace", "path": "/floranDescription", "value": "Essa câmera se move sssozinha."}, {"op": "replace", "path": "/glitchDescription", "value": "Cauteloso. Esta câmera de segurança está equipada com detecção de movimento."}, {"op": "replace", "path": "/apexDescription", "value": "Sempre observando."}, {"op": "replace", "path": "/avianDescription", "value": "Eu deveria estar vigilante de câmeras de segurança como esta."}, {"op": "replace", "path": "/shortdescription", "value": "Hi-tech Security Camera"}, {"op": "replace", "path": "/humanDescription", "value": "Alguém está observando todos os meus movimentos com esta câmera. Tão assustador."}, {"op": "replace", "path": "/description", "value": "A melhor câmera de segurança ao redor."}, {"op": "replace", "path": "/novakidDescription", "value": "O que ta olhando, hein?"}]
+[
+  {
+    "op": "replace",
+    "value": "Sempre observando.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. Esta câmera de segurança está equipada com detecção de movimento.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hi-tech Security Camera",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu deveria estar vigilante de câmeras de segurança como esta.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ver esta câmera me faz querer se esconder debaixo do oceano para evitar o seu olhar.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém está observando todos os meus movimentos com esta câmera. Tão assustador.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A melhor câmera de segurança ao redor.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Essa câmera se move sssozinha.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que ta olhando, hein?",
+    "path": "/novakidDescription"
+  }
+]

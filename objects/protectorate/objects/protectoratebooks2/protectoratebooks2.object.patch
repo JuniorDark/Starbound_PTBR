@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Hora de estudar..."}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Books"}, {"op": "replace", "path": "/floranDescription", "value": "Livros com palavras e palavras e palavrasss."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Alguns livros sobre a história do Protetorado."}, {"op": "replace", "path": "/apexDescription", "value": "Algumas leituras leves."}, {"op": "replace", "path": "/humanDescription", "value": "Eu li estes!"}, {"op": "replace", "path": "/avianDescription", "value": "Literatura do curso. Eu li estes!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Eu gosto de um bom livro e uma bebida quente."}, {"op": "replace", "path": "/novakidDescription", "value": "Não sou um grande leitor, mas leio esses livros de cursos."}]
+[
+  {
+    "op": "replace",
+    "value": "Livros com palavras e palavras e palavrasss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas leituras leves.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não sou um grande leitor, mas leio esses livros de cursos.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Literatura do curso. Eu li estes!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu gosto de um bom livro e uma bebida quente.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu li estes!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Alguns livros sobre a história do Protetorado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Books",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hora de estudar...",
+    "path": "/description"
+  }
+]

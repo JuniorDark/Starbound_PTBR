@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Tijolos esculpidos de rocha sombria."}, {"op": "replace", "path": "/shortdescription", "value": "Shadow Bricks"}]
+[
+  {
+    "op": "replace",
+    "value": "Tijolos esculpidos de rocha sombria.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Perceptivo. Estes tijolos são feitos de um material muito durável.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Shadow Bricks",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns tijolos feitos de rocha escura.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijoloss pretoss resistentess.",
+    "path": "/florandescription"
+  }
+]

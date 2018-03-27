@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Waste"}, {"op": "replace", "path": "/description", "value": "Nojento, lixo tóxico que brilha fracamente."}]
+[
+  {
+    "op": "replace",
+    "value": "Monte de resíduos químicos tóxicos brilhantes.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Resíduos tóxicos nojentos brilhando fracamente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Enjoado. Os produtos químicos neste resíduo são tão tóxicos que ate esta brilhando.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ressíduo tóxico fedido. Veneno vil.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Waste",
+    "path": "/shortdescription"
+  }
+]

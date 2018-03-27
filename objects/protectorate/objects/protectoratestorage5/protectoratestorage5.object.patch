@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran adora esssmagar essas cápsulass. Várias guloseimasss dentro!"}, {"op": "replace", "path": "/description", "value": "É um rack de pequenas cápsulas."}, {"op": "replace", "path": "/shortdescription", "value": "Capsule Storage Unit"}, {"op": "replace", "path": "/glitchDescription", "value": "Animado. Essas cápsulas frágeis são ótimas para reabastecer exploradores."}, {"op": "replace", "path": "/apexDescription", "value": "Estas cápsulas quebráveis muitas vezes têm suprimentos úteis dentro delas."}, {"op": "replace", "path": "/humanDescription", "value": "Estas cápsulas quebráveis são um salva-vidas quando você está na necessidade de alguns suprimentos explorando."}, {"op": "replace", "path": "/avianDescription", "value": "Estas cápsulas esmagáveis são um bom recurso quando fazendo mineração subterrânea."}, {"op": "replace", "path": "/hylotlDescription", "value": "Exploradores que exploram o subterrâneo profundo podem se reabastecer com estas cápsulas frágeis."}, {"op": "replace", "path": "/novakidDescription", "value": "Estas pequenas cápsulas não só quebram realmente bem, elas geralmente estão cheias de coisas boas!"}]
+[
+  {
+    "op": "replace",
+    "value": "Capsule Storage Unit",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. Essas cápsulas frágeis são ótimas para reabastecer exploradores.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Exploradores que exploram o subterrâneo profundo podem se reabastecer com estas cápsulas frágeis.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran adora esssmagar essas cápsulass. Várias guloseimasss dentro!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um rack de pequenas cápsulas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estas cápsulas quebráveis são um salva-vidas quando você está na necessidade de alguns suprimentos explorando.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas cápsulas quebráveis muitas vezes têm suprimentos úteis dentro delas.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas pequenas cápsulas não só quebram realmente bem, elas geralmente estão cheias de coisas boas!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas cápsulas esmagáveis são um bom recurso quando fazendo mineração subterrânea.",
+    "path": "/avianDescription"
+  }
+]

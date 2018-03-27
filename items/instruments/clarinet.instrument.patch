@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um clarinete. Tente não chiar"}, {"op": "replace", "path": "/shortdescription", "value": "Clarinet"}]
+[
+  {
+    "op": "replace",
+    "value": "Um clarinete. Tente não chiar",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Clarinet",
+    "path": "/shortdescription"
+  }
+]

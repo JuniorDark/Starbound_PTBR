@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Gostaria de saber quanta energia a Miniknog usar para suas experiências. Muitas vezes cidades Apex inteiras perdem a energia."}, {"op": "replace", "path": "/description", "value": "Cuidado! Raios!"}, {"op": "replace", "path": "/floranDescription", "value": "Relâmpago faz fogo. Floran tem medo de fogo."}, {"op": "replace", "path": "/glitchDescription", "value": "Cauteloso. Uma corrente forte pode danificar até mesmo o circuito dos Glitch."}, {"op": "replace", "path": "/humanDescription", "value": "Alta voltagem! Melhor tomar cuidado."}, {"op": "replace", "path": "/avianDescription", "value": "Parece ser um aviso. Tempo ruim?"}, {"op": "replace", "path": "/shortdescription", "value": "Electricity Warning Sign"}, {"op": "replace", "path": "/hylotlDescription", "value": "Quando os Hylotl foram para os oceanos, houve muitos acidentes com corrente elétrica."}, {"op": "replace", "path": "/novakidDescription", "value": "Placa de aviso para eletricidade. É melhor eu tomar cuidado."}]
+[
+  {
+    "op": "replace",
+    "value": "Cauteloso. Uma corrente forte pode danificar até mesmo o circuito dos Glitch.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Electricity Warning Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alta voltagem! Melhor tomar cuidado.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gostaria de saber quanta energia a Miniknog usar para suas experiências. Muitas vezes cidades Apex inteiras perdem a energia.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece ser um aviso. Tempo ruim?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relâmpago faz fogo. Floran tem medo de fogo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Placa de aviso para eletricidade. É melhor eu tomar cuidado.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cuidado! Raios!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Quando os Hylotl foram para os oceanos, houve muitos acidentes com corrente elétrica.",
+    "path": "/hylotlDescription"
+  }
+]

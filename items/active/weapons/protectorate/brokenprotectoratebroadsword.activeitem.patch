@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma espada muito boa em muito mau estado."}, {"op": "replace", "path": "/shortdescription", "value": "Broken Broadsword"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma espada muito boa em muito mau estado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Broken Broadsword",
+    "path": "/shortdescription"
+  }
+]

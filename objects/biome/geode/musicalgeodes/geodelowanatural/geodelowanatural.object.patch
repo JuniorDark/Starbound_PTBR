@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Grande pedra verde que toca como um sino de igreja. É um quebra cabeça."}, {"op": "replace", "path": "/avianDescription", "value": "Uma pedra brilhante. Ela faz barulho."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma pedra brilhante e emissora de som."}, {"op": "replace", "path": "/shortdescription", "value": "Geode Low A (Natural)"}, {"op": "replace", "path": "/floranDescription", "value": "Pedra brilha, faz barulho. Floran escuta."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Ondas sonoras são emitidas por essa formação geológica."}, {"op": "replace", "path": "/apexDescription", "value": "Curioso. Ondas sonoras são emitidas por essa formação geológica."}, {"op": "replace", "path": "/humanDescription", "value": "Uma pedra tocante. Muito legal."}, {"op": "replace", "path": "/description", "value": "Um geode verde brilhante."}]
+[
+  {
+    "op": "replace",
+    "value": "Geode Low A (Natural)",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pedra brilhante. Ela faz barulho.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pedra brilhante e emissora de som.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pedra tocante. Muito legal.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pedra que faz barulho quando eu chego perto dela.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grande pedra verde que toca como um sino de igreja. É um quebra cabeça.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Ondas sonoras são emitidas por essa formação geológica.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedra brilha, faz barulho. Floran escuta.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um geode verde brilhante.",
+    "path": "/description"
+  }
+]

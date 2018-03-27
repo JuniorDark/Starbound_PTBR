@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Carrot Bread"}, {"op": "replace", "path": "/description", "value": "Um pedaço de pão de cenoura. Vamos ser honestos, é apenas bolo em forma de pão."}]
+[
+  {
+    "op": "replace",
+    "value": "Um pedaço de pão de cenoura. Vamos ser honestos, é apenas bolo em forma de pão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Carrot Bread",
+    "path": "/shortdescription"
+  }
+]

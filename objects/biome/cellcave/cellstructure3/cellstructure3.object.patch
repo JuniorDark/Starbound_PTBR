@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Análitico. Esta estrutura celular parece ser a de um Apex modificado."}, {"op": "replace", "path": "/shortdescription", "value": "Cell Structure"}, {"op": "replace", "path": "/floranDescription", "value": "Coisasss de aparência especial."}, {"op": "replace", "path": "/apexDescription", "value": "Um estranho display."}, {"op": "replace", "path": "/humanDescription", "value": "Me lembra da aula de física. Ou era biologia?"}, {"op": "replace", "path": "/avianDescription", "value": "Um display. Isso me lembra dos cristais de energia."}, {"op": "replace", "path": "/hylotlDescription", "value": "Quando a ciência encontra arte."}, {"op": "replace", "path": "/description", "value": "Uma esquisita mistura de células."}, {"op": "replace", "path": "/novakidDescription", "value": "Células gigantes? Quem as deixou aqui?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um display. Isso me lembra dos cristais de energia.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um estranho display.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma esquisita mistura de células.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Análitico. Esta estrutura celular parece ser a de um Apex modificado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cell Structure",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Células gigantes? Quem as deixou aqui?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me lembra da aula de física. Ou era biologia?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Coisasss de aparência especial.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quando a ciência encontra arte.",
+    "path": "/hylotlDescription"
+  }
+]

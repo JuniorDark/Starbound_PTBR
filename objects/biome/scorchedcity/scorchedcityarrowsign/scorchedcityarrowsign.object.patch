@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Uma placa de seta. Gostaria de saber se ela aponta para algo útil."}, {"op": "replace", "path": "/description", "value": "Uma placa de seta."}, {"op": "replace", "path": "/shortdescription", "value": "Tire Arrow Sign"}, {"op": "replace", "path": "/floranDescription", "value": "Placa de ssseta."}, {"op": "replace", "path": "/glitchDescription", "value": "Astuto. Uma placa de seta. Segui-la seria muito previsível."}, {"op": "replace", "path": "/humanDescription", "value": "Uma placa de seta. Nada de ruim poderia acontecer ao seguir uma placa aleatória."}, {"op": "replace", "path": "/avianDescription", "value": "Uma placa de seta, para o que isso aponta?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma placa de seta. Devo seguir, ou fazer meu próprio caminho?"}, {"op": "replace", "path": "/novakidDescription", "value": "Qual é o objectivo desta flecha aqui?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma placa de seta, para o que isso aponta?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa de seta.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa de seta. Gostaria de saber se ela aponta para algo útil.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa de seta. Nada de ruim poderia acontecer ao seguir uma placa aleatória.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa de seta. Devo seguir, ou fazer meu próprio caminho?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Placa de ssseta.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Astuto. Uma placa de seta. Segui-la seria muito previsível.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tire Arrow Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Qual é o objectivo desta flecha aqui?",
+    "path": "/novakidDescription"
+  }
+]

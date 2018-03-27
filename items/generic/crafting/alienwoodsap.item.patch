@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Esta seiva veio de madeira alienígena, parece perigosa."}, {"op": "replace", "path": "/shortdescription", "value": "Alien Wood Sap"}]
+[
+  {
+    "op": "replace",
+    "value": "Alien Wood Sap",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta seiva veio de madeira alienígena, parece perigosa.",
+    "path": "/description"
+  }
+]

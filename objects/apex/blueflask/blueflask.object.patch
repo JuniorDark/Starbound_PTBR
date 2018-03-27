@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um frasco cheio de líquido azul."}, {"op": "replace", "path": "/shortdescription", "value": "Blue Flask"}, {"op": "replace", "path": "/floranDescription", "value": "Cheira terrível."}, {"op": "replace", "path": "/glitchDescription", "value": "Inspirado. Azul!"}, {"op": "replace", "path": "/apexDescription", "value": "Só deus sabe que sofrimento essa mistura causou."}, {"op": "replace", "path": "/humanDescription", "value": "Isso cheira como... Algo que não se deve passar nos lábios."}, {"op": "replace", "path": "/avianDescription", "value": "Uma poção azul? Isso não pode ser bom."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta mistura parece tóxica."}, {"op": "replace", "path": "/novakidDescription", "value": "Nada que é azul é natural."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma poção azul? Isso não pode ser bom.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um frasco cheio de líquido azul.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Blue Flask",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Só deus sabe que sofrimento essa mistura causou.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inspirado. Azul!",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nada que é azul é natural.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cheira terrível.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mistura parece tóxica.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso cheira como... Algo que não se deve passar nos lábios.",
+    "path": "/humanDescription"
+  }
+]

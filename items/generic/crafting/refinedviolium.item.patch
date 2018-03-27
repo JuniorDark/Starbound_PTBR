@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Refined Violium"}, {"op": "replace", "path": "/description", "value": "Violium é encontrado principalmente em planetas que orbitam estrelas congeladas."}]
+[
+  {
+    "op": "replace",
+    "value": "Violium é encontrado principalmente em planetas que orbitam estrelas congeladas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Refined Violium",
+    "path": "/shortdescription"
+  }
+]

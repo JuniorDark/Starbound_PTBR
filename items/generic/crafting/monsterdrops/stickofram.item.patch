@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um chip de computador universal clássico. Pode ser usado para fabricação."}, {"op": "replace", "path": "/shortdescription", "value": "Stick of RAM"}]
+[
+  {
+    "op": "replace",
+    "value": "Um chip de computador universal clássico. Pode ser usado para fabricação.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Stick of RAM",
+    "path": "/shortdescription"
+  }
+]

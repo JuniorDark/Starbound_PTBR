@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Luz de vela, entregue da maneira mais assustadora."}, {"op": "replace", "path": "/shortdescription", "value": "Gothic Candle"}, {"op": "replace", "path": "/floranDescription", "value": "Floran também coloca cabeça cortada favorita no pedestal."}, {"op": "replace", "path": "/glitchDescription", "value": "Admirando. Um pedestal notável."}, {"op": "replace", "path": "/apexDescription", "value": "Um pedestal gótico requintado."}, {"op": "replace", "path": "/humanDescription", "value": "Isso é certamente uma maneira de colocar alguém em um pedestal.."}, {"op": "replace", "path": "/avianDescription", "value": "Nada mais deixa um lugar importante como um crânio em um pedestal."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um suporte de exibição muito gótico."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu me pergunto como é ter uma dessas coisas dentro da sua cabeça."}]
+[
+  {
+    "op": "replace",
+    "value": "Admirando. Um pedestal notável.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um suporte de exibição muito gótico.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pedestal gótico requintado.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luz de vela, entregue da maneira mais assustadora.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran também coloca cabeça cortada favorita no pedestal.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gothic Candle",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nada mais deixa um lugar importante como um crânio em um pedestal.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é certamente uma maneira de colocar alguém em um pedestal..",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto como é ter uma dessas coisas dentro da sua cabeça.",
+    "path": "/novakidDescription"
+  }
+]

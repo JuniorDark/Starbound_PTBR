@@ -1,1 +1,547 @@
-[{"op":"replace","path":"/scriptConfig/generatedText/completionText/default/default/1","value":"O plano funcionou! <target> agora é meu amigo - e <other> está fora de cogitação. Obrigado por ajudar a fazer isso acontecer!"},{"op":"replace","path":"/scriptConfig/generatedText/text/next/default/1","value":"Eu quero que <target> deixe de ser amigo de ^orange;<other>^white; e torne-se meu amigo. Aqui está uma ^orange;nota^white; que eu escrevi com a verdade sobre <other> nela. ^green;Por favor, entregue ela para ^orange;<target>^white; para mim!"},{"op":"replace","path":"/scriptConfig/generatedText/text/default/default/0","value":"Eu queria que ^orange;<target>^white; se tornasse meu amigo, em vez de ^orange;<other>^white;. Eu preparei esta ^orange;nota^white; para <target.pronoun.object> que vai explicar a verdade sobre <other>. Isso fará com que <target.pronoun.object> perceber que eu sou um amigo muito melhor! ^green;Por favor, entregue-a para <target.pronoun.object> pra mim."},{"op":"replace","path":"/scriptConfig/generatedText/text/next/default/0","value":"Tenho visto ^orange;<target>^white; sair com aquele estúpido <other> um monte recentemente. Eu quero que <target.pronoun.object> saia comigo! ^green;Entregue esta ^orange;nota^green; para <target.pronoun.object>^white; e <target.pronoun.subject> vai perceber o desperdício de tempo que <other> é."},{"op":"replace","path":"/scriptConfig/generatedText/text/default/default/1","value":"Eu queria ser amigo de <target> a muito tempo, mas <target.pronoun.subject> só sai com ^orange;<other>^white;. ^green;Eu preparei esta ^orange;nota^green; para você entregar a ^orange;<target>^white;. Ela vai dizer a <target.pronoun.object> a verdade sobre <other>."},{"op":"replace","path":"/scriptConfig/objectives/0/text","value":"Entregue a mensagem para <target>"},{"op":"replace","path":"/scriptConfig/generatedText/text/first/floran/0","value":"Primeiro Floran precisa fazer amizade com <target>. Floran sabe como funciona a amizade, só há tanto espaço no coração das pessoas! Precisamos de ter a certeza que <target> deixe de ser amigo daquele irritante ^orange;<other>^white;! ^green;Entregue esta ^orange;nota^white; para ^orange;<target>^white;. Ela descreve a verdade feia sobre <target.pronoun.possessiveDet> assim chamado amigo."},{"op":"replace","path":"/scriptConfig/generatedText/text/last/floran/0","value":"<target> e ^orange;<other>^white; têm sido amigos por muito tempo. Agora <target> vai finalmente se tornar amigo de Floran em vez disso! O plano de Floran é para você ^green;dizer a ^orange;<target>^green; quão terrível <target.pronoun.possessiveDet>amigo é.^white; Floran já preparou esta ^orange;nota^white; para^green; você entregar."},{"op":"replace","path":"/scriptConfig/generatedText/text/last/default/1","value":"Aqui está uma ^orange;nota^white; que eu escrevi sobre ^orange;<other>^white;. Todo mundo sabe o quão terrível <other.pronoun.subject> é, mas ^orange;<target>^white; ainda continua saindo com <other.pronoun.object> todo dia. É minha vez de ser amigo de ^green;<target>! ^green;Por favor, entregue esta nota para <target.pronoun.object>."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/last/floran/0","value":"Floran está contente que o plano foi um sucesso! Floran tem certeza que <target> está grato que nós contamos a <target.pronoun.object> a verdade sobre <other>."},{"op":"replace","path":"/scriptConfig/generatedText/failureText/0","value":"Eu não ajudei <questGiver> em <questGiver.pronoun.possessiveDet> tentativa de sabotar a amizade de <target>. Não era um plano muito bom, de qualquer maneira."},{"op":"replace","path":"/scriptConfig/generatedText/title/0","value":"Ajude <questGiver> a espalhar rumores"},{"op":"replace","path":"/scriptConfig/generatedText/failureText/2","value":"Eu fui incapaz de ajudar na trama de <questGiver> para arruinar a amizade de <target>. Era um plano mesquinho, por isso não vou perder o sono por abandoná-lo."},{"op":"replace","path":"/scriptConfig/generatedText/title/1","value":"Boato de <questGiver>"},{"op":"replace","path":"/scriptConfig/generatedText/text/first/floran/1","value":"Para começar, Floran precisa fazer amizade linda com <target>. Pena que <target.pronoun.subject> sempre gasta tempo com ^orange;<other>^white;. Por favor ^green;entregue esta ^orange;nota^green; para ^orange;<target>^white;. Ela contém a verdade sobre <target.pronoun.possessiveDet> terrível amigo."},{"op":"replace","path":"/scriptConfig/generatedText/text/first/glitch/0","value":"Invejoso. Eu quero ser amigo de <target>, mas <target.pronoun.subject> gasta todo <target.pronoun.possessiveDet> tempo com <other>. Mas e se ^orange;<other> tivesse um segredo horrível? ^green;Dê esta ^orange;nota^green; para ^orange;<target>^white;... <target.pronoun.capitalSubject> vai certamente considerar sua amizade depois de ler isto..."},{"op":"replace","path":"/scriptConfig/generatedText/text/first/glitch/1","value":"Maldoso. Primeiro, vamos encontrar um tagarela. ^orange;<target> ^white;servira muito bem. Uma vez que <target.pronoun.subject> ^green;recebe esta ^orange;nota ^green;de você ^white;Posso garantir que ^orange;<other> não será mais tão popular por aqui."},{"op":"replace","path":"/scriptConfig/generatedText/text/last/glitch/0","value":"Desonesto. Por último, vou precisar que você ^green;de essa ^orange;nota^green; para ^orange;<target>. ^white;<target.pronoun.capitalSubject> definitivamente não vai mais quer falar com ^orange;<other> ^white;depois de ler isto..."},{"op":"replace","path":"/scriptConfig/generatedText/text/last/default/0","value":"Finalmente, vamos fazer ^orange;<target> ^white;perceber que eu sou um amigo ideal melhor do que ^orange;<other>. ^green;Mostre a <target.pronoun.object> esta ^orange;nota^green; que eu escrevi^white; sobre <other> e <target.pronoun.subject> \r\nvai perceber!"},{"op":"replace","path":"/scriptConfig/generatedText/text/first/default/1","value":"Vamos começar fazendo amizade com <target>. Primeiro temos que fazer <target.pronoun.object> parar de ver <target.pronoun.possessiveDet> amigo estupido. ^green;Eu preparei esta ^orange;nota^green; que eu quero que você entregue a ^orange;<target>^white; que descreve os piores pontos de <target.pronoun.possessiveDet> amigo chato. Por favor entregue-a para mim!"},{"op":"replace","path":"/scriptConfig/generatedText/text/default/floran/1","value":"Aqui está uma ^orange;nota ^green;que Floran precisa que você entregue à ^orange;<target>^white;. Ela contém a verdade sobre <target.pronoun.possessiveDet> amigo ^orange;<other>.^white; Quanto mais rápido <target.pronoun.subject> lê-la, <target> vai perceber que Floran é um amigo melhor!"},{"op":"replace","path":"/scriptConfig/generatedText/goalText/default/0","value":"^cyan;Eu gostaria de fazer amizade com <target>. Se ao menos <target.pronoun.possessiveDet> amigo <other> não estivesse no caminho...."},{"op":"replace","path":"/scriptConfig/generatedText/goalText/default/1","value":"^cyan;Eu gostaria que <target> se tornasse meu amigo, em vez de <other>. Eu tenho um plano para que isso aconteça..."},{"op":"replace","path":"/scriptConfig/generatedText/goalText/floran/1","value":"^cyan;Floran quer fazer amizade com <target>. Vamos nos livrar de <target.pronoun.possessiveDet> amigo horrível atual!"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/0","value":"verb2"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/1/1","value":"adoro"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/1/2","value":"admiro"},{"op":"replace","path":"/scriptConfig/generatedText/goalText/glitch/0","value":"^cyan;Ciumento. <target> deve ser meu amigo, não de <other>."},{"op":"replace","path":"/scriptConfig/generatedText/goalText/glitch/1","value":"^cyan;Ressentido. Ouvi dizer que <other> tem espalhado rumores sobre mim. Eu gostaria de retribuir o favor."},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/1/6","value":"gosta de cutucar"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/1/7","value":"cheira"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/1/8","value":"sonho acordado sobre"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/1/9","value":"canta para"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/2/1/10","value":"medo do espaço"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/first/floran/1","value":"Nós conseguimos! Floran está feliz com essa amizade. Obrigado!"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/1/1/4","value":"gleaps"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/1/1/5","value":"pearlpeas"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/1/1/6","value":"vegetais"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/1/1/7","value":"computadores"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/1/1/8","value":"crasberries"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/1/1/9","value":"seus dedos do pé"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/1/1/10","value":"pessoas dormindo"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/1/1/11","value":"naves espaciais"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/1/1/12","value":"rochas"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/2/0","value":"adjective"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/2/1/0","value":"estúpido"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/2/1/1","value":"mesquinho"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/2/1/2","value":"um amigo ruim"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/2/1/3","value":"amigo ideal ruim"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/2/1/4","value":"um pouco estranho"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/2/1/5","value":"arrepiante"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/2/1/6","value":"mente fechada"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/2/1/7","value":"um fofoqueiro"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/2/1/8","value":"tirando sarro de você"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/2/1/9","value":"coberto de insetos"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/first/default/1","value":"Você conseguiu. Amigos são grandes vantagens e tenho certeza que <target> será útil para mim no futuro."},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/1/11","value":"amo"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/first/glitch/0","value":"Impressionado. <target> parecia horrorizado quando <target.pronoun.subject> leu a mensagem! Não que eu estava escondendo e assistindo <target.pronoun.object> ou qualquer coisa. De qualquer forma, há trabalho a fazer ainda!"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/first/floran/0","value":"Bom trabalho! Agora a amizade de Floran e <target> ira verdadeiramente florescer."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/last/floran/1","value":"Floran adquiriu um novo amigo! Este é um lindo dia para Floran!"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/1/0","value":"object"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/last/default/0","value":"Estou animado com meu novo amigo! Todo mundo sabe que <other> é uma má companhia de qualquer maneira! Obrigado por seu trabalho duro."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/first/glitch/1","value":"Satisfeito. Isso foi ótimo! <target> aceitou imediatamente. O boato sobre <other> já está se espalhando."},{"op":"replace","path":"/scriptConfig/generatedText/fluff/1/1/2","value":"poptops"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/1/1/0","value":"seu próprio rosto"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/first/default/0","value":"Notícias maravilhosas! <other> está fora e eu estou dentro! Isso vai ser ótimo."},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/1/12","value":"esquece sobre"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/last/default/1","value":"<other> está fora fora de cogitação, e agora eu e <target> somos amigos! Essa amizade, sem dúvida, seja útil - obrigado por fazer isso acontecer."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/last/glitch/0","value":"Satisfeito. Eu não tenho nenhuma dúvida de que <target> e eu vamos se tornar bons amigos agora que <other> está fora de cogitação."},{"op":"replace","path":"/scriptConfig/generatedText/fluff/1/1/1","value":"si mesmos"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/1/1/3","value":"caracóis"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/default/floran/0","value":"Sucesso! Nós certamente deixamos uma impressão em <target>! Obrigado!"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/default/default/0","value":"<target.pronoun.capitalSubject> aceitou a minha amizade! E quem não gostaria? Obrigado por me ajudar!"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/default/floran/1","value":"Isto acabou exatamente como Floran queria! Floran está tão feliz."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/default/glitch/0","value":"Alegre. Não tenho dúvidas de que com <other> fora do caminho, <target> e eu vamos se tornar grandes amigos!"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/next/floran/1","value":"Obrigado! Floran vai ter um monte de diversão com <target> agora."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/next/default/0","value":"<target> abandonou <other> e aceitou a minha amizade! Um novo amigo certamente virá a calhar."},{"op":"replace","path":"/scriptConfig/generatedText/goalText/floran/0","value":"^cyan;<target> parece uma compania divertida e Floran tem plano astuto para fazer amizade com <target.pronoun.object>."},{"op":"replace","path":"/scriptConfig/generatedText/text/next/glitch/1","value":"Insensível. Assim que você ^green;der a ^orange;<target> ^green;este rumor que eu escrevi sobre ^orange;<other>, ^white;<target.pronoun.subject> não será capaz de resistir a contar para todo mundo!"},{"op":"replace","path":"/scriptConfig/generatedText/text/next/floran/0","value":"Agora Floran precisa que <target> se torne amigo de Floran, mas Floran viu <target.pronoun.object> sendo amigável com ^orange;<other>^white;! Ponha um fim a isso para que <target.pronoun.subject> só seja amigável com Floran! ^green;Entregue esta ^orange;carta^green; para ^orange;<target>^white; - ela ilustra o quão terrível <other> é."},{"op":"replace","path":"/scriptConfig/generatedText/text/first/default/0","value":"Eu acho que <target> e eu seriamos bons amigos, mas <target.pronoun.subject> sempre a sair com ^orange;<other>^white;. Vamos colocar um fim nisso! ^green;Aqui está uma ^orange;nota^green; Eu quero que você entregar para ^orange;<target>^white; isso vai fazer <target.pronoun.object> parar de ver <target.pronoun.possessiveDet> horrível amigo novamente."},{"op":"replace","path":"/scriptConfig/generatedText/failureText/1","value":"Eu falhei em espalhar rumores sobre <other> para <target>. Talvez <questGiver> deva aprender a fazer amigos ao ser gentil?"},{"op":"replace","path":"/scriptConfig/objectives/1/text","value":"Traga a resposta para <questGiver>"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/1/0","value":"admiro"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/1/3","value":"sonho sobre"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/1/4","value":"quero desenhar"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/1/5","value":"tirar fotos de"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/1/10","value":"escrevo histórias sobre"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/next/glitch/0","value":"Satisfeito. Eu aposto que <target> estará gastando muito menos tempo com <other> agora, que definitivamente significa que <target.pronoun.subject> vai ter mais tempo para mim. Há mais uma coisa que eu preciso que você faça..."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/next/glitch/1","value":"Divertido. Eu acho que é seguro dizer que a vida social de <other> está destruída!"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/next/floran/0","value":"Isso correu bem! Com o novo amigo encontrado de Floran o próximo passo será muito mais fácil."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/next/default/1","value":"Obrigado por entregar a nota! <target> e eu agora somos oficialmente amigos."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/default/glitch/1","value":"Satisfeito. Isso funcionou melhor do que eu esperava. <other> vai pensar duas vezes antes de espalhar boatos novamente! <target> ficou horrorizado!"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/last/glitch/1","value":"Satisfeito. Esse boato espalhou as chamas magnificamente! <other> não vai ter muitos amigos restando depois disso."},{"op":"replace","path":"/scriptConfig/generatedText/text/next/glitch/0","value":"Manipulador. Agora eu preciso que você ^green;de essa ^orange;nota^green; para ^orange;<target>^white; para persuadir <target.pronoun.object> parar de falar com ^orange;<other>^white;. O que? Não, tudo o que ela diz é definitivamente completamente verdade."},{"op":"replace","path":"/scriptConfig/generatedText/text/next/floran/1","value":"É hora de Floran fazer amizade com <target>. Precisamos parar <target.pronoun.object> de ver ^orange;<other>^white;, que é horrível. Esta ^orange;nota^white; Floran escreveu contém informações que vão fazer ^orange;<target>^white; perceber que Floran é uma opção melhor! ^green;Por favor entregue-a."},{"op":"replace","path":"/scriptConfig/generatedText/text/default/glitch/0","value":"Desonesto. Eu quero chegar mais perto de <target>, mas <target.pronoun.subject> só tem olhos para <other>. Aposto isso vai mudar, quando você ^green;der a^orange;<target>^green; esta ^orange;nota^white; ^green;sobre ^orange;<other>^white;... Então <target> vai ter tempo para mim!"},{"op":"replace","path":"/scriptConfig/generatedText/text/default/glitch/1","value":"Malicioso. Vou ensinar a ^orange;<other>^white; uma lição que <other.pronoun.subject> não vai esquecer tão cedo. ^green;Dê este boato que eu escrevi para ^orange;<target>^white;, então podemos sentar e assistir os fogos de artifício."},{"op":"replace","path":"/scriptConfig/generatedText/text/default/floran/0","value":"Floran tem um grande plano para fazer amizade com <target>. Contudo, o amigo futuro de Floran é sempre visto com ^orange;<other>^white;. Você precisa dizer a ^orange;<target>^white; o quão desagradável <other> é! Por favor ^green;entregue esta ^orange;nota^white;que Floran preparou."},{"op":"replace","path":"/scriptConfig/generatedText/text/last/glitch/1","value":"Vingativo. Finalmente, ^green;entregue este boato sobre ^orange;<other> ^green;para ^orange;<target>. ^white;É um pouco forçada, mas não há fumaça sem fogo."},{"op":"replace","path":"/scriptConfig/generatedText/text/last/floran/1","value":"Agora para o final! Floran quer fazer amizade com <target>. Precisamos parar <target.pronoun.object> de ver constantemente ^orange;<other>^white;. Se você ^green;entregar esta ^orange;carta^green; para ^orange;<target>^white; <target.pronoun.subject> vai se tornar amigo de Floran em vez. Floran tem certeza."},{"op":"replace","path":"/scriptConfig/secretNote/0","value":"<target>, só para você ficar sabendo, <other> secretamente <verb2> <object>. Desculpa."},{"op":"replace","path":"/scriptConfig/secretNote/1","value":"Ei <target>, Eu odeio dar más notícias, mas <other> é <adjective>."},{"op":"replace","path":"/scriptConfig/secretNote/2","value":"Você deveria saber que <other> <verb2> <object>."},{"op":"replace","path":"/scriptConfig/secretNote/3","value":"<other> é <adjective>. Com amor, <questGiver>"},{"op":"replace","path":"/scriptConfig/responseNote/0","value":"Isso é decepcionante... Vamos sair algum dia!"},{"op":"replace","path":"/scriptConfig/responseNote/1","value":"<other> é um perdedor! Vamos ser amigos!"},{"op":"replace","path":"/scriptConfig/responseNote/2","value":"Eu acho que eu realmente não o conhecia depois de tudo. Vamos sair!"},{"op":"replace","path":"/scriptConfig/responseNote/3","value":"Estou decepcionado com <other>. Você e eu podemos ser amigos?"},{"op":"replace","path":"/scriptConfig/responseNote/4","value":"Isso é terrível! :O"}]
+[
+  {
+    "op": "replace",
+    "value": "Traga a resposta para <questGiver>",
+    "path": "/scriptConfig/objectives/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "Entregue a mensagem para <target>",
+    "path": "/scriptConfig/objectives/0/text"
+  },
+  {
+    "op": "replace",
+    "value": "admiro",
+    "path": "/scriptConfig/generatedText/fluff/0/1/0"
+  },
+  {
+    "op": "replace",
+    "value": "adoro",
+    "path": "/scriptConfig/generatedText/fluff/0/1/1"
+  },
+  {
+    "op": "replace",
+    "value": "computadores",
+    "path": "/scriptConfig/generatedText/fluff/1/1/7"
+  },
+  {
+    "op": "replace",
+    "value": "crasberries",
+    "path": "/scriptConfig/generatedText/fluff/1/1/8"
+  },
+  {
+    "op": "replace",
+    "value": "sonho acordado sobre",
+    "path": "/scriptConfig/generatedText/fluff/0/1/8"
+  },
+  {
+    "op": "replace",
+    "value": "tirar fotos de",
+    "path": "/scriptConfig/generatedText/fluff/0/1/5"
+  },
+  {
+    "op": "replace",
+    "value": "sonho sobre",
+    "path": "/scriptConfig/generatedText/fluff/0/1/3"
+  },
+  {
+    "op": "replace",
+    "value": "gleaps",
+    "path": "/scriptConfig/generatedText/fluff/1/1/4"
+  },
+  {
+    "op": "replace",
+    "value": "gosta de cutucar",
+    "path": "/scriptConfig/generatedText/fluff/0/1/6"
+  },
+  {
+    "op": "replace",
+    "value": "amo",
+    "path": "/scriptConfig/generatedText/fluff/0/1/11"
+  },
+  {
+    "op": "replace",
+    "value": "pearlpeas",
+    "path": "/scriptConfig/generatedText/fluff/1/1/5"
+  },
+  {
+    "op": "replace",
+    "value": "poptops",
+    "path": "/scriptConfig/generatedText/fluff/1/1/2"
+  },
+  {
+    "op": "replace",
+    "value": "rochas",
+    "path": "/scriptConfig/generatedText/fluff/1/1/12"
+  },
+  {
+    "op": "replace",
+    "value": "canto para",
+    "path": "/scriptConfig/generatedText/fluff/0/1/9"
+  },
+  {
+    "op": "replace",
+    "value": "pessoas dormindo",
+    "path": "/scriptConfig/generatedText/fluff/1/1/10"
+  },
+  {
+    "op": "replace",
+    "value": "cheiro",
+    "path": "/scriptConfig/generatedText/fluff/0/1/7"
+  },
+  {
+    "op": "replace",
+    "value": "caracóis",
+    "path": "/scriptConfig/generatedText/fluff/1/1/3"
+  },
+  {
+    "op": "replace",
+    "value": "naves espaciais",
+    "path": "/scriptConfig/generatedText/fluff/1/1/11"
+  },
+  {
+    "op": "replace",
+    "value": "admiro",
+    "path": "/scriptConfig/generatedText/fluff/0/1/2"
+  },
+  {
+    "op": "replace",
+    "value": "seu próprio rosto",
+    "path": "/scriptConfig/generatedText/fluff/1/1/0"
+  },
+  {
+    "op": "replace",
+    "value": "seus dedos do pé",
+    "path": "/scriptConfig/generatedText/fluff/1/1/9"
+  },
+  {
+    "op": "replace",
+    "value": "si mesmos",
+    "path": "/scriptConfig/generatedText/fluff/1/1/1"
+  },
+  {
+    "op": "replace",
+    "value": "vegetais",
+    "path": "/scriptConfig/generatedText/fluff/1/1/6"
+  },
+  {
+    "op": "replace",
+    "value": "quero desenhar",
+    "path": "/scriptConfig/generatedText/fluff/0/1/4"
+  },
+  {
+    "op": "replace",
+    "value": "escrevo histórias sobre",
+    "path": "/scriptConfig/generatedText/fluff/0/1/10"
+  },
+  {
+    "op": "replace",
+    "value": "<other> é <adjective>. Com amor, <questGiver>",
+    "path": "/scriptConfig/secretNote/3"
+  },
+  {
+    "op": "replace",
+    "value": "<other> é um perdedor! Vamos ser amigos!",
+    "path": "/scriptConfig/responseNote/1"
+  },
+  {
+    "op": "replace",
+    "value": "<other> está fora fora de cogitação, e agora eu e <target> somos amigos! Essa amizade, sem dúvida, seja útil - obrigado por fazer isso acontecer.",
+    "path": "/scriptConfig/generatedText/completionText/last/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Boato de <questGiver>",
+    "path": "/scriptConfig/generatedText/title/1"
+  },
+  {
+    "op": "replace",
+    "value": "<target.pronoun.capitalSubject> aceitou a minha amizade! E quem não gostaria? Obrigado por me ajudar!",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<target> abandonou <other> e aceitou a minha amizade! Um novo amigo certamente virá a calhar.",
+    "path": "/scriptConfig/generatedText/completionText/next/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<target> e ^orange;<other>^white; têm sido amigos por muito tempo. Agora <target> vai finalmente se tornar amigo de Floran em vez disso! O plano de Floran é para você ^green;dizer a ^orange;<target>^green; quão terrível <target.pronoun.possessiveDet>amigo é.^white; Floran já preparou esta ^orange;nota^white; para^green; você entregar.",
+    "path": "/scriptConfig/generatedText/text/last/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "<target>, só para você ficar sabendo, <other> secretamente <verb2> <object>. Desculpa.",
+    "path": "/scriptConfig/secretNote/0"
+  },
+  {
+    "op": "replace",
+    "value": "Divertido. Eu acho que é seguro dizer que a vida social de <other> está destruída!",
+    "path": "/scriptConfig/generatedText/completionText/next/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Insensível. Assim que você ^green;der a ^orange;<target> ^green;este rumor que eu escrevi sobre ^orange;<other>, ^white;<target.pronoun.subject> não será capaz de resistir a contar para todo mundo!",
+    "path": "/scriptConfig/generatedText/text/next/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Esse boato espalhou as chamas magnificamente! <other> não vai ter muitos amigos restando depois disso.",
+    "path": "/scriptConfig/generatedText/completionText/last/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Desonesto. Eu quero chegar mais perto de <target>, mas <target.pronoun.subject> só tem olhos para <other>. Aposto isso vai mudar, quando você ^green;der a^orange;<target>^green; esta ^orange;nota^white; ^green;sobre ^orange;<other>^white;... Então <target> vai ter tempo para mim!",
+    "path": "/scriptConfig/generatedText/text/default/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Desonesto. Por último, vou precisar que você ^green;de essa ^orange;nota^green; para ^orange;<target>. ^white;<target.pronoun.capitalSubject> definitivamente não vai mais quer falar com ^orange;<other> ^white;depois de ler isto...",
+    "path": "/scriptConfig/generatedText/text/last/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Alegre. Não tenho dúvidas de que com <other> fora do caminho, <target> e eu vamos se tornar grandes amigos!",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Invejoso. Eu quero ser amigo de <target>, mas <target.pronoun.subject> gasta todo <target.pronoun.possessiveDet> tempo com <other>. Mas e se ^orange;<other> tivesse um segredo horrível? ^green;Dê esta ^orange;nota^green; para ^orange;<target>^white;... <target.pronoun.capitalSubject> vai certamente considerar sua amizade depois de ler isto...",
+    "path": "/scriptConfig/generatedText/text/first/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Finalmente, vamos fazer ^orange;<target> ^white;perceber que eu sou um amigo ideal melhor do que ^orange;<other>. ^green;Mostre a <target.pronoun.object> esta ^orange;nota^green; que eu escrevi^white; sobre <other> e <target.pronoun.subject> \nvai perceber!",
+    "path": "/scriptConfig/generatedText/text/last/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Primeiro Floran precisa fazer amizade com <target>. Floran sabe como funciona a amizade, só há tanto espaço no coração das pessoas! Precisamos de ter a certeza que <target> deixe de ser amigo daquele irritante ^orange;<other>^white;! ^green;Entregue esta ^orange;nota^white; para ^orange;<target>^white;. Ela descreve a verdade feia sobre <target.pronoun.possessiveDet> assim chamado amigo.",
+    "path": "/scriptConfig/generatedText/text/first/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran adquiriu um novo amigo! Este é um lindo dia para Floran!",
+    "path": "/scriptConfig/generatedText/completionText/last/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran tem um grande plano para fazer amizade com <target>. Contudo, o amigo futuro de Floran é sempre visto com ^orange;<other>^white;. Você precisa dizer a ^orange;<target>^white; o quão desagradável <other> é! Por favor ^green;entregue esta ^orange;nota^white;que Floran preparou.",
+    "path": "/scriptConfig/generatedText/text/default/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran está contente que o plano foi um sucesso! Floran tem certeza que <target> está grato que nós contamos a <target.pronoun.object> a verdade sobre <other>.",
+    "path": "/scriptConfig/generatedText/completionText/last/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Bom trabalho! Agora a amizade de Floran e <target> ira verdadeiramente florescer.",
+    "path": "/scriptConfig/generatedText/completionText/first/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ajude <questGiver> a espalhar rumores",
+    "path": "/scriptConfig/generatedText/title/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está uma ^orange;nota ^green;que Floran precisa que você entregue à ^orange;<target>^white;. Ela contém a verdade sobre <target.pronoun.possessiveDet> amigo ^orange;<other>.^white; Quanto mais rápido <target.pronoun.subject> lê-la, <target> vai perceber que Floran é um amigo melhor!",
+    "path": "/scriptConfig/generatedText/text/default/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está uma ^orange;nota^white; que eu escrevi sobre ^orange;<other>^white;. Todo mundo sabe o quão terrível <other.pronoun.subject> é, mas ^orange;<target>^white; ainda continua saindo com <other.pronoun.object> todo dia. É minha vez de ser amigo de ^green;<target>! ^green;Por favor, entregue esta nota para <target.pronoun.object>.",
+    "path": "/scriptConfig/generatedText/text/last/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Ei <target>, Eu odeio dar más notícias, mas <other> é <adjective>.",
+    "path": "/scriptConfig/secretNote/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não ajudei <questGiver> em <questGiver.pronoun.possessiveDet> tentativa de sabotar a amizade de <target>. Não era um plano muito bom, de qualquer maneira.",
+    "path": "/scriptConfig/generatedText/failureText/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu falhei em espalhar rumores sobre <other> para <target>. Talvez <questGiver> deva aprender a fazer amigos ao ser gentil?",
+    "path": "/scriptConfig/generatedText/failureText/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu acho que eu realmente não o conhecia depois de tudo. Vamos sair!",
+    "path": "/scriptConfig/responseNote/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu acho que <target> e eu seriamos bons amigos, mas <target.pronoun.subject> sempre a sair com ^orange;<other>^white;. Vamos colocar um fim nisso! ^green;Aqui está uma ^orange;nota^green; Eu quero que você entregar para ^orange;<target>^white; isso vai fazer <target.pronoun.object> parar de ver <target.pronoun.possessiveDet> horrível amigo novamente.",
+    "path": "/scriptConfig/generatedText/text/first/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu quero que <target> deixe de ser amigo de ^orange;<other>^white; e torne-se meu amigo. Aqui está uma ^orange;nota^white; que eu escrevi com a verdade sobre <other> nela. ^green;Por favor, entregue ela para ^orange;<target>^white; para mim!",
+    "path": "/scriptConfig/generatedText/text/next/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu fui incapaz de ajudar na trama de <questGiver> para arruinar a amizade de <target>. Era um plano mesquinho, por isso não vou perder o sono por abandoná-lo.",
+    "path": "/scriptConfig/generatedText/failureText/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu queria que ^orange;<target>^white; se tornasse meu amigo, em vez de ^orange;<other>^white;. Eu preparei esta ^orange;nota^white; para <target.pronoun.object> que vai explicar a verdade sobre <other>. Isso fará com que <target.pronoun.object> perceber que eu sou um amigo muito melhor! ^green;Por favor, entregue-a para <target.pronoun.object> pra mim.",
+    "path": "/scriptConfig/generatedText/text/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Estou decepcionado com <other>. Você e eu podemos ser amigos?",
+    "path": "/scriptConfig/responseNote/3"
+  },
+  {
+    "op": "replace",
+    "value": "Estou animado com meu novo amigo! Todo mundo sabe que <other> é uma má companhia de qualquer maneira! Obrigado por seu trabalho duro.",
+    "path": "/scriptConfig/generatedText/completionText/last/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Tenho visto ^orange;<target>^white; sair com aquele estúpido <other> um monte recentemente. Eu quero que <target.pronoun.object> saia comigo! ^green;Entregue esta ^orange;nota^green; para <target.pronoun.object>^white; e <target.pronoun.subject> vai perceber o desperdício de tempo que <other> é.",
+    "path": "/scriptConfig/generatedText/text/next/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu queria ser amigo de <target> a muito tempo, mas <target.pronoun.subject> só sai com ^orange;<other>^white;. ^green;Eu preparei esta ^orange;nota^green; para você entregar a ^orange;<target>^white;. Ela vai dizer a <target.pronoun.object> a verdade sobre <other>.",
+    "path": "/scriptConfig/generatedText/text/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. <target> parecia horrorizado quando <target.pronoun.subject> leu a mensagem! Não que eu estava escondendo e assistindo <target.pronoun.object> ou qualquer coisa. De qualquer forma, há trabalho a fazer ainda!",
+    "path": "/scriptConfig/generatedText/completionText/first/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "É hora de Floran fazer amizade com <target>. Precisamos parar <target.pronoun.object> de ver ^orange;<other>^white;, que é horrível. Esta ^orange;nota^white; Floran escreveu contém informações que vão fazer ^orange;<target>^white; perceber que Floran é uma opção melhor! ^green;Por favor entregue-a.",
+    "path": "/scriptConfig/generatedText/text/next/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos começar fazendo amizade com <target>. Primeiro temos que fazer <target.pronoun.object> parar de ver <target.pronoun.possessiveDet> amigo estupido. ^green;Eu preparei esta ^orange;nota^green; que eu quero que você entregue a ^orange;<target>^white; que descreve os piores pontos de <target.pronoun.possessiveDet> amigo chato. Por favor entregue-a para mim!",
+    "path": "/scriptConfig/generatedText/text/first/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Malicioso. Vou ensinar a ^orange;<other>^white; uma lição que <other.pronoun.subject> não vai esquecer tão cedo. ^green;Dê este boato que eu escrevi para ^orange;<target>^white;, então podemos sentar e assistir os fogos de artifício.",
+    "path": "/scriptConfig/generatedText/text/default/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Manipulador. Agora eu preciso que você ^green;de essa ^orange;nota^green; para ^orange;<target>^white; para persuadir <target.pronoun.object> parar de falar com ^orange;<other>^white;. O que? Não, tudo o que ela diz é definitivamente completamente verdade.",
+    "path": "/scriptConfig/generatedText/text/next/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Notafriendyet Jones",
+    "path": "/parameters/target/example/name"
+  },
+  {
+    "op": "replace",
+    "value": "Agora Floran precisa que <target> se torne amigo de Floran, mas Floran viu <target.pronoun.object> sendo amigável com ^orange;<other>^white;! Ponha um fim a isso para que <target.pronoun.subject> só seja amigável com Floran! ^green;Entregue esta ^orange;carta^green; para ^orange;<target>^white; - ela ilustra o quão terrível <other> é.",
+    "path": "/scriptConfig/generatedText/text/next/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Agora para o final! Floran quer fazer amizade com <target>. Precisamos parar <target.pronoun.object> de ver constantemente ^orange;<other>^white;. Se você ^green;entregar esta ^orange;carta^green; para ^orange;<target>^white; <target.pronoun.subject> vai se tornar amigo de Floran em vez. Floran tem certeza.",
+    "path": "/scriptConfig/generatedText/text/last/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Eu aposto que <target> estará gastando muito menos tempo com <other> agora, que definitivamente significa que <target.pronoun.subject> vai ter mais tempo para mim. Há mais uma coisa que eu preciso que você faça...",
+    "path": "/scriptConfig/generatedText/completionText/next/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Isso funcionou melhor do que eu esperava. <other> vai pensar duas vezes antes de espalhar boatos novamente! <target> ficou horrorizado!",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Pessoa Rival",
+    "path": "/parameters/other/example/name"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Eu não tenho nenhuma dúvida de que <target> e eu vamos se tornar bons amigos agora que <other> está fora de cogitação.",
+    "path": "/scriptConfig/generatedText/completionText/last/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Isso foi ótimo! <target> aceitou imediatamente. O boato sobre <other> já está se espalhando.",
+    "path": "/scriptConfig/generatedText/completionText/first/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Maldoso. Primeiro, vamos encontrar um tagarela. ^orange;<target> ^white;servira muito bem. Uma vez que <target.pronoun.subject> ^green;recebe esta ^orange;nota ^green;de você ^white;Posso garantir que ^orange;<other> não será mais tão popular por aqui.",
+    "path": "/scriptConfig/generatedText/text/first/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Sucesso! Nós certamente deixamos uma impressão em <target>! Obrigado!",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado por entregar a nota! <target> e eu agora somos oficialmente amigos.",
+    "path": "/scriptConfig/generatedText/completionText/next/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado! Floran vai ter um monte de diversão com <target> agora.",
+    "path": "/scriptConfig/generatedText/completionText/next/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Isso correu bem! Com o novo amigo encontrado de Floran o próximo passo será muito mais fácil.",
+    "path": "/scriptConfig/generatedText/completionText/next/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é decepcionante... Vamos sair algum dia!",
+    "path": "/scriptConfig/responseNote/0"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é terrível! :O",
+    "path": "/scriptConfig/responseNote/4"
+  },
+  {
+    "op": "replace",
+    "value": "O plano funcionou! <target> agora é meu amigo - e <other> está fora de cogitação. Obrigado por ajudar a fazer isso acontecer!",
+    "path": "/scriptConfig/generatedText/completionText/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Isto acabou exatamente como Floran queria! Floran está tão feliz.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Para começar, Floran precisa fazer amizade linda com <target>. Pena que <target.pronoun.subject> sempre gasta tempo com ^orange;<other>^white;. Por favor ^green;entregue esta ^orange;nota^green; para ^orange;<target>^white;. Ela contém a verdade sobre <target.pronoun.possessiveDet> terrível amigo.",
+    "path": "/scriptConfig/generatedText/text/first/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Vingativo. Finalmente, ^green;entregue este boato sobre ^orange;<other> ^green;para ^orange;<target>. ^white;É um pouco forçada, mas não há fumaça sem fogo.",
+    "path": "/scriptConfig/generatedText/text/last/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Nós conseguimos! Floran está feliz com essa amizade. Obrigado!",
+    "path": "/scriptConfig/generatedText/completionText/first/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Notícias maravilhosas! <other> está fora e eu estou dentro! Isso vai ser ótimo.",
+    "path": "/scriptConfig/generatedText/completionText/first/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você conseguiu. Amigos são grandes vantagens e tenho certeza que <target> será útil para mim no futuro.",
+    "path": "/scriptConfig/generatedText/completionText/first/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você deveria saber que <other> <verb2> <object>.",
+    "path": "/scriptConfig/secretNote/2"
+  },
+  {
+    "op": "replace",
+    "value": "^cyan;<target> parece uma compania divertida e Floran tem plano astuto para fazer amizade com <target.pronoun.object>.",
+    "path": "/scriptConfig/generatedText/goalText/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "^cyan;Floran quer fazer amizade com <target>. Vamos nos livrar de <target.pronoun.possessiveDet> amigo horrível atual!",
+    "path": "/scriptConfig/generatedText/goalText/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "^cyan;Eu gostaria que <target> se tornasse meu amigo, em vez de <other>. Eu tenho um plano para que isso aconteça...",
+    "path": "/scriptConfig/generatedText/goalText/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "^cyan;Eu gostaria de fazer amizade com <target>. Se ao menos <target.pronoun.possessiveDet> amigo <other> não estivesse no caminho....",
+    "path": "/scriptConfig/generatedText/goalText/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "^cyan;Ciumento. <target> deve ser meu amigo, não de <other>.",
+    "path": "/scriptConfig/generatedText/goalText/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "^cyan;Ressentido. Ouvi dizer que <other> tem espalhado rumores sobre mim. Eu gostaria de retribuir o favor.",
+    "path": "/scriptConfig/generatedText/goalText/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "um amigo ruim",
+    "path": "/scriptConfig/generatedText/fluff/2/1/2"
+  },
+  {
+    "op": "replace",
+    "value": "um pouco estranho",
+    "path": "/scriptConfig/generatedText/fluff/2/1/4"
+  },
+  {
+    "op": "replace",
+    "value": "um fofoqueiro",
+    "path": "/scriptConfig/generatedText/fluff/2/1/7"
+  },
+  {
+    "op": "replace",
+    "value": "medo do espaço",
+    "path": "/scriptConfig/generatedText/fluff/2/1/10"
+  },
+  {
+    "op": "replace",
+    "value": "amigo ideal ruim",
+    "path": "/scriptConfig/generatedText/fluff/2/1/3"
+  },
+  {
+    "op": "replace",
+    "value": "mente fechada",
+    "path": "/scriptConfig/generatedText/fluff/2/1/6"
+  },
+  {
+    "op": "replace",
+    "value": "coberto de insetos",
+    "path": "/scriptConfig/generatedText/fluff/2/1/9"
+  },
+  {
+    "op": "replace",
+    "value": "arrepiante",
+    "path": "/scriptConfig/generatedText/fluff/2/1/5"
+  },
+  {
+    "op": "replace",
+    "value": "esquece sobre",
+    "path": "/scriptConfig/generatedText/fluff/0/1/12"
+  },
+  {
+    "op": "replace",
+    "value": "tirando sarro de você",
+    "path": "/scriptConfig/generatedText/fluff/2/1/8"
+  },
+  {
+    "op": "replace",
+    "value": "mesquinho",
+    "path": "/scriptConfig/generatedText/fluff/2/1/1"
+  },
+  {
+    "op": "replace",
+    "value": "estúpido",
+    "path": "/scriptConfig/generatedText/fluff/2/1/0"
+  }
+]

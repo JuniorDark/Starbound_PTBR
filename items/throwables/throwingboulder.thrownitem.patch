@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Throwing Boulder"}, {"op": "replace", "path": "/description", "value": "Útil para combate ou apenas exibição."}]
+[
+  {
+    "op": "replace",
+    "value": "Throwing Boulder",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Útil para combate ou apenas exibição.",
+    "path": "/description"
+  }
+]

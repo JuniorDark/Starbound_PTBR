@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um vaso de planta particularmente colorido."}, {"op": "replace", "path": "/shortdescription", "value": "Vibrant Plant"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de plantasss coloridas."}, {"op": "replace", "path": "/glitchDescription", "value": "Surpreso. Alguém cultivou esta planta para ser tão vibrante?"}, {"op": "replace", "path": "/apexDescription", "value": "Acho que esta planta carece de sutileza."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta planta tem as cores de muitas estações passadas."}, {"op": "replace", "path": "/humanDescription", "value": "Esta planta é muito... Colorida. Parece quase falsa."}, {"op": "replace", "path": "/avianDescription", "value": "Não sei se todas essas cores funcionam juntas..."}, {"op": "replace", "path": "/hylotlDescription", "value": "Eu sinto que esta é uma planta cultivada artificialmente."}]
+[
+  {
+    "op": "replace",
+    "value": "Um vaso de planta particularmente colorido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de plantasss coloridas.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não sei se todas essas cores funcionam juntas...",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sinto que esta é uma planta cultivada artificialmente.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Acho que esta planta carece de sutileza.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Alguém cultivou esta planta para ser tão vibrante?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta planta tem as cores de muitas estações passadas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta planta é muito... Colorida. Parece quase falsa.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vibrant Plant",
+    "path": "/shortdescription"
+  }
+]

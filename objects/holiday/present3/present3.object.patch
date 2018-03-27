@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um presente! Está embrulhado em papel azul com uma fita dourada!"}, {"op": "replace", "path": "/shortdescription", "value": "Blue Present"}, {"op": "replace", "path": "/floranDescription", "value": "Floran quer presente! Essfaquear tudo!"}, {"op": "replace", "path": "/apexDescription", "value": "Um presente! É para mim?"}, {"op": "replace", "path": "/humanDescription", "value": "Presentes! Presentes! Embrulhar! Sim!"}, {"op": "replace", "path": "/avianDescription", "value": "Gostaria de saber para quem é este presente."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um presente maravilhosamente embrulhado."}, {"op": "replace", "path": "/glitchDescription", "value": "Pensativo. O conteúdo deste presente me eludi."}, {"op": "replace", "path": "/novakidDescription", "value": "Alguém se esforçou muito em embrulhar isso."}]
+[
+  {
+    "op": "replace",
+    "value": "Um presente! Está embrulhado em papel azul com uma fita dourada!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Blue Present",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um presente maravilhosamente embrulhado.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um presente! É para mim?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran quer presente! Essfaquear tudo!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gostaria de saber para quem é este presente.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Presentes! Presentes! Embrulhar! Sim!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém se esforçou muito em embrulhar isso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pensativo. O conteúdo deste presente me eludi.",
+    "path": "/glitchDescription"
+  }
+]

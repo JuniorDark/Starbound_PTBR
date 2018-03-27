@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um harmônio. Não estrague esta apresentação."}, {"op": "replace", "path": "/shortdescription", "value": "Reed Organ"}]
+[
+  {
+    "op": "replace",
+    "value": "Um harmônio. Não estrague esta apresentação.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Reed Organ",
+    "path": "/shortdescription"
+  }
+]

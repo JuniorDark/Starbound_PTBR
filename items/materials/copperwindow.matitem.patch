@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Copper Window"}, {"op": "replace", "path": "/description", "value": "Uma janela com uma moldura feita de cobre sólido."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma janela com uma moldura feita de cobre sólido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Copper Window",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fascinado. Cobre foi utilizado para construir a moldura para esta janela.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é uma bela moldura de janela de cobre.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Janelasss feita de cobre.",
+    "path": "/florandescription"
+  }
+]

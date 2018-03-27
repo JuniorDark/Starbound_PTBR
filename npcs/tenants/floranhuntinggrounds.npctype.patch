@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/3", "value": "Floran sente cheiro dos alvosss proximo. Espero atirar em alguém em breve."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/2", "value": "Floran gossta de você, por isso não vai atirar em você."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/1", "value": "Floran costumava caçar em túneiss. Não tanto estes diass."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/0", "value": "Floran melhor atirador."}]
+[
+  {
+    "op": "replace",
+    "value": "Floran melhor atirador.",
+    "path": "/scriptConfig/dialog/converse/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gossta de você, por isso não vai atirar em você.",
+    "path": "/scriptConfig/dialog/converse/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Floran sente cheiro dos alvosss proximo. Espero atirar em alguém em breve.",
+    "path": "/scriptConfig/dialog/converse/floran/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Floran costumava caçar em túneiss. Não tanto estes diass.",
+    "path": "/scriptConfig/dialog/converse/floran/default/1"
+  }
+]

@@ -1,22 +1,22 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Escritos de um acadêmico Hylotl sobre o tema da beleza."
+    "value": "Uma Cultura de Beleza",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "Uma Cultura de Beleza"
+    "value": "Escritos de um acadêmico Hylotl sobre o tema da beleza.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "Ao discutir a beleza deve-se primeiro entender o quão perto a biologia Hylotl está ligada à nossa cultura de criatividade. Somos seres de três olhos de percepção aguda. Nossa visão Trinocular impregna-nos com sensibilidade superior à luz e à sombra, como espécie somos capazes de perceber a arte além do alcance de outros seres conscientes. Da nossa própria gênese fomos abençoados para perceber a beleza que outras raças não têm a capacidade de imaginar, e compartilhar essa visão é nosso presente para eles."
+    "value": "Infelizmente, essas criações: nossa arte gloriosa, nossa arquitetura complexa, nossa poesia assombrosamente bela, caem em ouvidos surdos e olhos cegos. Somente nós, os Hylotl, possuímos a capacidade inata de entender a verdadeira beleza, e assim o que nós geramos nasce num cosmo estéril.",
+    "path": "/contentPages/1"
   },
   {
     "op": "replace",
-    "path": "/contentPages/1",
-    "value": "Infelizmente, essas criações: nossa arte gloriosa, nossa arquitetura complexa, nossa poesia assombrosamente bela, caem em ouvidos surdos e olhos cegos. Somente nós, os Hylotl, possuímos a capacidade inata de entender a verdadeira beleza, e assim o que nós geramos nasce num cosmo estéril."
+    "value": "Ao discutir a beleza deve-se primeiro entender o quão perto a biologia Hylotl está ligada à nossa cultura de criatividade. Somos seres de três olhos de percepção aguda. Nossa visão Trinocular impregna-nos com sensibilidade superior à luz e à sombra, como espécie somos capazes de perceber a arte além do alcance de outros seres conscientes. Da nossa própria gênese fomos abençoados para perceber a beleza que outras raças não têm a capacidade de imaginar, e compartilhar essa visão é nosso presente para eles.",
+    "path": "/contentPages/0"
   }
 ]

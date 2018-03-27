@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Apex Skull Mask"}, {"op": "replace", "path": "/description", "value": "Um crânio de Apex. Talvez o resto foi doado para a ciência?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um crânio de Apex. Talvez o resto foi doado para a ciência?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Apex Skull Mask",
+    "path": "/shortdescription"
+  }
+]

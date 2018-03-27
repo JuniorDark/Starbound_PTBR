@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma luz. O olho brilha no escuro."}, {"op": "replace", "path": "/shortdescription", "value": "Doom Light"}, {"op": "replace", "path": "/floranDescription", "value": "Floran olha para luz e luz olha de volta."}, {"op": "replace", "path": "/glitchDescription", "value": "Alarmado. Esta lâmpada assemelha-se a um globo ocular gigante."}, {"op": "replace", "path": "/apexDescription", "value": "O globo ocular lança um brilho estranho."}, {"op": "replace", "path": "/humanDescription", "value": "Uau, legal. Um olho brilhante gigante."}, {"op": "replace", "path": "/avianDescription", "value": "A luz parece me seguir onde quer que eu esteja no quarto."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta luz tem um estilo estranho."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu não gosto do jeito que esta luz está me olhando."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz. O olho brilha no escuro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Alarmado. Esta lâmpada assemelha-se a um globo ocular gigante.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Doom Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran olha para luz e luz olha de volta.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não gosto do jeito que esta luz está me olhando.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O globo ocular lança um brilho estranho.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A luz parece me seguir onde quer que eu esteja no quarto.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz tem um estilo estranho.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uau, legal. Um olho brilhante gigante.",
+    "path": "/humanDescription"
+  }
+]

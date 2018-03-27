@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um par de óculos resistentes de cobre."}, {"op": "replace", "path": "/shortdescription", "value": "Copper Goggles"}]
+[
+  {
+    "op": "replace",
+    "value": "Um par de óculos resistentes de cobre.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Copper Goggles",
+    "path": "/shortdescription"
+  }
+]

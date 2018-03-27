@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Protectorate Platform"}, {"op": "replace", "path": "/description", "value": "Uma plataforma de aparência simples."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma plataforma de aparência simples.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Estas plataformas podem facilmente suportar o meu peso.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Platform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plataformass metálicas brilhantes.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas plataformas chiques feitas de metal.",
+    "path": "/novakiddescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Há um rosto bastante sinistro esculpido na base desta mesa."}, {"op": "replace", "path": "/shortdescription", "value": "Island Table"}, {"op": "replace", "path": "/floranDescription", "value": "Mesa tem cara de brava. Floran está impressionado."}, {"op": "replace", "path": "/glitchDescription", "value": "Alarmado. Esta mesa tropical tem um rosto muito expressivo na base."}, {"op": "replace", "path": "/apexDescription", "value": "Esta mesa é muito expressiva. Prefiro uma decoração mais simples."}, {"op": "replace", "path": "/humanDescription", "value": "Alguém esculpiu este rosto à mão. Que legal da parte deles."}, {"op": "replace", "path": "/avianDescription", "value": "Esta mesa é feita apenas de madeira. Eu posso apreciar isso."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta mesa é bastante agressiva. Por que não ter uma mesa calma em vez disso?"}, {"op": "replace", "path": "/novakidDescription", "value": "Porque é que as pessoas têm que estragar uma mesa tão bonita?"}]
+[
+  {
+    "op": "replace",
+    "value": "Alarmado. Esta mesa tropical tem um rosto muito expressivo na base.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Island Table",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém esculpiu este rosto à mão. Que legal da parte deles.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mesa tem cara de brava. Floran está impressionado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há um rosto bastante sinistro esculpido na base desta mesa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa é muito expressiva. Prefiro uma decoração mais simples.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa é feita apenas de madeira. Eu posso apreciar isso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa é bastante agressiva. Por que não ter uma mesa calma em vez disso?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Porque é que as pessoas têm que estragar uma mesa tão bonita?",
+    "path": "/novakidDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Este é Big Ape? Eu nunca encontrei alguém que o tenha visto realmente..."}, {"op": "replace", "path": "/humanDescription", "value": "Este é o infame Big Ape de que eu ouvi falar?"}, {"op": "replace", "path": "/avianDescription", "value": "Isso é um grande macaco."}, {"op": "replace", "path": "/hylotlDescription", "value": "É este o bruto responsável pelo regime Apex?"}, {"op": "replace", "path": "/glitchDescription", "value": "Cauteloso. Ele pode nos ver?"}, {"op": "replace", "path": "/description", "value": "Acho que o Big Ape está vigiando..."}, {"op": "replace", "path": "/shortdescription", "value": "Big Ape HDTV"}, {"op": "replace", "path": "/floranDescription", "value": "É uma grande tv."}, {"op": "replace", "path": "/novakidDescription", "value": "Um monitor grande e velho. Exibindo nada mas que um grande e velho Macaco."}]
+[
+  {
+    "op": "replace",
+    "value": "Um monitor grande e velho. Exibindo nada mas que um grande e velho Macaco.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Big Ape HDTV",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. Ele pode nos ver?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Acho que o Big Ape está vigiando...",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Este é o infame Big Ape de que eu ouvi falar?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este é Big Ape? Eu nunca encontrei alguém que o tenha visto realmente...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É este o bruto responsável pelo regime Apex?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma grande tv.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é um grande macaco.",
+    "path": "/avianDescription"
+  }
+]

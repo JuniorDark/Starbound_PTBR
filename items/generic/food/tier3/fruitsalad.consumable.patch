@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Várias frutas todas convenientemente misturadas."}, {"op": "replace", "path": "/shortdescription", "value": "Fruit Salad"}]
+[
+  {
+    "op": "replace",
+    "value": "Fruit Salad",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Várias frutas todas convenientemente misturadas.",
+    "path": "/description"
+  }
+]

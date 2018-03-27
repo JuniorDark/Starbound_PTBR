@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "The Model M"}, {"op": "replace", "path": "/description", "value": "Um Glitch modelo M. Com mecanismo de mola de dobramento de uma era mais civilizada."}]
+[
+  {
+    "op": "replace",
+    "value": "Um Glitch modelo M. Com mecanismo de mola de dobramento de uma era mais civilizada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "The Model M",
+    "path": "/shortdescription"
+  }
+]

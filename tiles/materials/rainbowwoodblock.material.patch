@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Simplesmente fabuloso."}, {"op": "replace", "path": "/shortdescription", "value": "Rainbow Wood Planks"}, {"op": "replace", "path": "/floranDescription", "value": "Floran ama tábuass arco-íris coloridas."}, {"op": "replace", "path": "/novakidDescription", "value": "Tábuas feitas de alguma madeira colorida."}, {"op": "replace", "path": "/glitchDescription", "value": "Encantado. Estas tábuas coloridas são brilhantes e alegres."}]
+[
+  {
+    "op": "replace",
+    "value": "Encantado. Estas tábuas coloridas são brilhantes e alegres.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ama tábuass arco-íris coloridas.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tábuas feitas de alguma madeira colorida.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rainbow Wood Planks",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Simplesmente fabuloso.",
+    "path": "/description"
+  }
+]

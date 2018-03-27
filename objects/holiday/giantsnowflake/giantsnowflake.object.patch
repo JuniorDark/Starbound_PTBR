@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma decoração de floco de neve enorme."}, {"op": "replace", "path": "/shortdescription", "value": "Giant Snowflake"}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Este floco de neve é único?"}, {"op": "replace", "path": "/apexDescription", "value": "Dizem que cada floco de neve é único."}, {"op": "replace", "path": "/humanDescription", "value": "A visão de flocos de neve sempre me faz desejar o inverno."}, {"op": "replace", "path": "/avianDescription", "value": "Cada floco de neve é único na aparência. Um presente de Kluex."}, {"op": "replace", "path": "/hylotlDescription", "value": "Flocos de neve são verdadeiramente um fenômeno natural bonito."}, {"op": "replace", "path": "/floranDescription", "value": "Floco de neve. Está frio?"}, {"op": "replace", "path": "/novakidDescription", "value": "Flocos de neve são bonitos."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma decoração de floco de neve enorme.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Giant Snowflake",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floco de neve. Está frio?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Esse floco de neve é único?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cada floco de neve é único na aparência. Um presente de Kluex.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Flocos de neve são realmente um fenômeno natural maravilhoso.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Flocos de neve com certeza são bonitos.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A visão de flocos de neve sempre me faz desejar o inverno.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dizem que cada floco de neve é único.",
+    "path": "/apexDescription"
+  }
+]

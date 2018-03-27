@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Tomato Seed"}, {"op": "replace", "path": "/humanDescription", "value": "Tomates são perfeitos para uma salada saudável... Ou melhor ainda, uma pizza."}, {"op": "replace", "path": "/avianDescription", "value": "Sementes de tomate pode melhorar muito um prato."}, {"op": "replace", "path": "/glitchDescription", "value": "Pernicioso. Tomates podres fazem bons projéteis."}, {"op": "replace", "path": "/description", "value": "Tomates são uma fruta rica e suculenta. Ou vegetais. Um dos dois."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os tomates são aceitáveis, se não forem notáveis."}, {"op": "replace", "path": "/novakidDescription", "value": "Tomates fazem um lanche saboroso, também é ótimo para arremessar em malfeitores."}, {"op": "replace", "path": "/floranDescription", "value": "Tomates são vermelhos sangue e essstouraveis."}, {"op": "replace", "path": "/apexDescription", "value": "Eu gosto de um tomate maduro e suculento."}]
+[
+  {
+    "op": "replace",
+    "value": "Eu gosto de um tomate maduro e suculento.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pernicioso. Tomates podres fazem bons projéteis.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tomato Seed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sementes de tomate pode melhorar muito um prato.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tomates são uma fruta rica e suculenta. Ou vegetais. Um dos dois.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Os tomates são aceitáveis, se não forem notáveis.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tomates são vermelhos sangue e essstouraveis.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tomates são perfeitos para uma salada saudável... Ou melhor ainda, uma pizza.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tomates fazem um lanche saboroso, também é ótimo para arremessar em malfeitores.",
+    "path": "/novakidDescription"
+  }
+]

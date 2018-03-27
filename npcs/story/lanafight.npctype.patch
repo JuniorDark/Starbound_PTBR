@@ -1,1 +1,32 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/start/default/default/0", "value": "Olá, soldado. Vamos cuidar dessa situação, não é?"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/1", "value": "Estou enfrentando o inimigo!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/0", "value": "O alvo está na minha mira!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/2", "value": "Alvo avistado!"}, {"op": "replace", "path": "/scriptConfig/dialog/leave/default/default/0", "value": "Bom trabalho, soldado. Vejo você lá no Ark."}]
+[
+  {
+    "op": "replace",
+    "value": "Lana",
+    "path": "/npcname"
+  },
+  {
+    "op": "replace",
+    "value": "Bom trabalho, soldado. Vejo você lá no Ark.",
+    "path": "/scriptConfig/dialog/leave/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Olá, soldado. Vamos cuidar dessa situação, não é?",
+    "path": "/scriptConfig/dialog/start/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Estou enfrentando o inimigo!",
+    "path": "/scriptConfig/dialog/attack/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Alvo avistado!",
+    "path": "/scriptConfig/dialog/attack/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "O alvo está na minha mira!",
+    "path": "/scriptConfig/dialog/attack/default/default/0"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Sentimental. Muitos Glitch comuns vivem suas vidas como fazendeiros. Estas são as ferramentas de seu comércio."}, {"op": "replace", "path": "/shortdescription", "value": "Farm Tools"}, {"op": "replace", "path": "/floranDescription", "value": "Ferramentass para o controle de plantass."}, {"op": "replace", "path": "/apexDescription", "value": "Ferramentas para alguém que vive tendendo a terra."}, {"op": "replace", "path": "/description", "value": "Uma pá, um ancinho e uma vassoura para todos os tipos de trabalho agrícola."}, {"op": "replace", "path": "/humanDescription", "value": "Ferramentas agrícolas. A agricultura terrestre foi amplamente automatizada."}, {"op": "replace", "path": "/avianDescription", "value": "Um rack de várias ferramentas diferentes. A pá é a única que reconheço."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os Hylotl não tem utilidade para ferramentas como estas no fundo do oceano."}, {"op": "replace", "path": "/novakidDescription", "value": "Ferramentas agrícolas. Nada bate sujar as mãos!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um rack de várias ferramentas diferentes. A pá é a única que reconheço.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pá, um ancinho e uma vassoura para todos os tipos de trabalho agrícola.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Farm Tools",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ferramentas agrícolas. Nada bate sujar as mãos!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ferramentas agrícolas. A agricultura terrestre foi amplamente automatizada.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sentimental. Muitos Glitch comuns vivem suas vidas como fazendeiros. Estas são as ferramentas de seu comércio.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Hylotl não tem utilidade para ferramentas como estas no fundo do oceano.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ferramentas para alguém que vive tendendo a terra.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ferramentass para o controle de plantass.",
+    "path": "/floranDescription"
+  }
+]

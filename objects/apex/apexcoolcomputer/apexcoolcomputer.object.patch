@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Isso se parece muito com o tipo de poder computacional que a humanidade costumava possuir."}, {"op": "replace", "path": "/description", "value": "Este computador legal está fazendo um monte de barulhos 'beep boop boop Beep'."}, {"op": "replace", "path": "/shortdescription", "value": "Cool Computer"}, {"op": "replace", "path": "/floranDescription", "value": "Floran rouba tecnologia para sssobreviver."}, {"op": "replace", "path": "/glitchDescription", "value": "Apreciativo. Que máquina impressionante."}, {"op": "replace", "path": "/apexDescription", "value": "Este é um computador muito potente. População Apex não tem acesso a computadores."}, {"op": "replace", "path": "/avianDescription", "value": "Este monitor é muito colorido."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um computador básico."}, {"op": "replace", "path": "/novakidDescription", "value": "É um monitor de computador."}]
+[
+  {
+    "op": "replace",
+    "value": "Um computador básico.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apreciativo. Que máquina impressionante.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cool Computer",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran rouba tecnologia para sssobreviver.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um monitor de computador.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este monitor é muito colorido.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este computador legal está fazendo um monte de barulhos 'beep boop boop Beep'.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Este é um computador muito potente. População Apex não tem acesso a computadores.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso se parece muito com o tipo de poder computacional que a humanidade costumava possuir.",
+    "path": "/humanDescription"
+  }
+]

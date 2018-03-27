@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/scriptConfig/descriptions/wakeSail", "value": "Inicialize o computador da nave"}, {"op": "replace", "path": "/title", "value": "Inicializando"}, {"op": "replace", "path": "/completionText", "value": "SAIL está acordado! Agora você tem alguma orientação, e alguma companhia."}, {"op": "replace", "path": "/text", "value": "A nave esta danificada e você está flutuando sozinho no espaço. Sua melhor aposta é a de inicializar o computador da nave e ver se alguma coisa de bom vem dele."}]
+[
+  {
+    "op": "replace",
+    "value": "Inicializando",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Inicialize o computador da nave",
+    "path": "/scriptConfig/descriptions/wakeSail"
+  },
+  {
+    "op": "replace",
+    "value": "SAIL está acordado! Agora você tem alguma orientação, e alguma companhia.",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "A nave esta danificada e você está flutuando sozinho no espaço. Sua melhor aposta é a de inicializar o computador da nave e ver se alguma coisa de bom vem dele.",
+    "path": "/text"
+  }
+]

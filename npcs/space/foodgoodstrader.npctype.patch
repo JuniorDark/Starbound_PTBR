@@ -1,7 +1,7 @@
 [
   {
     "op": "replace",
-    "path": "/scriptConfig/guiConfig/gui/windowtitle/title",
-    "value": " Comerciante de Provisões"
+    "value": " Comerciante de Provisões",
+    "path": "/scriptConfig/guiConfig/gui/windowtitle/title"
   }
 ]

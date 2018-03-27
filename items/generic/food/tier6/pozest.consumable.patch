@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma popular bebida energética Glitch. Ou é apenas um placebo?"}, {"op": "replace", "path": "/shortdescription", "value": "Pozest"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma popular bebida energética Glitch. Ou é apenas um placebo?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pozest",
+    "path": "/shortdescription"
+  }
+]

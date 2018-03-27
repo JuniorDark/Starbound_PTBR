@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/description", "value": "Gama alpina congelada."}]
+[
+  {
+    "op": "replace",
+    "value": "Gama alpina congelada.",
+    "path": "/description"
+  }
+]

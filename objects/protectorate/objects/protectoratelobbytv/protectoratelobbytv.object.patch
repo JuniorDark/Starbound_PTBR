@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Uma tela de TV. Está sempre no mesmo canal de notícias."}, {"op": "replace", "path": "/description", "value": "Uma televisão reproduzindo um programa de notícias."}, {"op": "replace", "path": "/shortdescription", "value": "Lobby TV"}, {"op": "replace", "path": "/floranDescription", "value": "TV mostra pessoas em dissscussões emocionantes. Pena que o volume está desligado."}, {"op": "replace", "path": "/avianDescription", "value": "Uma TV pendurada na parede. O volume está desligado."}, {"op": "replace", "path": "/glitchDescription", "value": "Interessado. Oh, uau! Turbo Bootz agora vem em verde e magenta."}, {"op": "replace", "path": "/apexDescription", "value": "Uma TV exibindo notícias informativas e imparciais."}, {"op": "replace", "path": "/humanDescription", "value": "É um programa de notícias, mas o volume está baixo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um programa de notícias cobrindoo os últimos desenvolvimentos no planeta."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma TV exibindo notícias informativas e imparciais.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma TV pendurada na parede. O volume está desligado.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tela de TV. Está sempre no mesmo canal de notícias.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um programa de notícias cobrindoo os últimos desenvolvimentos no planeta.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma televisão reproduzindo um programa de notícias.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Oh, uau! Turbo Bootz agora vem em verde e magenta.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um programa de notícias, mas o volume está baixo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lobby TV",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "TV mostra pessoas em dissscussões emocionantes. Pena que o volume está desligado.",
+    "path": "/floranDescription"
+  }
+]

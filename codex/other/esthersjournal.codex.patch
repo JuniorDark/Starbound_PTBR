@@ -1,42 +1,42 @@
 [
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "^cyan;Diário da Grande Protetora: Entrada 6901^white;\n\n A devastação que encontramos no assentamento foi verdadeiramente angustiante - apenas um estrutura resistiu, e apenas um sobrevivente. Uma menina assustada, sozinha entre os destroços.\n\nA julgar pelo relato da menina os bandidos foram um grupo diversificado - Florans, Apex e Avians, entre outros. Pessoas desesperadas fazem coisas terríveis. Esta menina perdeu sua casa e sua família em um só golpe, mas eu vou protegê-la. O nome dela é Asra Nox."
+    "value": "Diário de Esther",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/contentPages/2",
-    "value": "^cyan;Diário da Grande Protetora: Entrada 3537^white;\n\nO Protetorado se tornou muito estressante para Asra, então eu trouxe ela comigo para me ajudar na minha pesquisa. Talvez um pouco de espaço e tempo vai resolver seu problema.\n\nMinha exploração nos levou a um pequeno planeta na órbita de uma estrela distante - longe de qualquer civilização, mas talvez mais perto das respostas que procuro. Asra tem sido de grande ajuda - Espero que um dia sua inteligência se torne sabedoria."
+    "value": "Ela começou a delirar, dizendo coisas terríveis. Ela acredita que a Ruína é uma \"força de limpeza\", que irá destruir toda a 'vida inferior' no universo - que deixará apenas os dignos intactos. Ela estava falando sobre humanos! Ela quer libertar a Ruína, para ajuda-la!\n\nEu tentei argumentar com ela, mas ela não queria ver o lado correto. Sua excitação se tornou raiva, indignada com a minha \"ignorância\". Estendi a mão para ela, mas ela me empurrou. Implorei a ela, mas sem sucesso. Ela se foi.\nMinha Asra, minha garotinha, se foi.",
+    "path": "/contentPages/5"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "O diário privado de Esther Bright, ex Grande Protetora."
+    "value": "O diário privado de Esther Bright, ex Grande Protetora.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "Diário de Esther"
+    "value": "^cyan;Diário da Grande Protetora: Entrada 3537^white;\n\nO Protetorado se tornou muito estressante para Asra, então eu trouxe ela comigo para me ajudar na minha pesquisa. Talvez um pouco de espaço e tempo vai resolver seu problema.\n\nMinha exploração nos levou a um pequeno planeta na órbita de uma estrela distante - longe de qualquer civilização, mas talvez mais perto das respostas que procuro. Asra tem sido de grande ajuda - Espero que um dia sua inteligência se torne sabedoria.",
+    "path": "/contentPages/2"
   },
   {
     "op": "replace",
-    "path": "/contentPages/3",
-    "value": "^cyan;Diário da Grande Protetora: Entrada 3592^white;\n\nEu descobri um segredo terrível, decifrado dos escritos antigos esculpidos estas paredes - eles falam de uma força arcaica de poder indescritível, selada, porém inquieta: um ser poderoso sendo conduzido para destruir toda a vida!\n\nAlgo deve ser feito, mas que esperança que nós temos contra 'a Ruína'?"
+    "value": "^cyan;Diário da Grande Protetora: Entrada 3592^white;\n\nEu descobri um segredo terrível, decifrado dos escritos antigos esculpidos estas paredes - eles falam de uma força arcaica de poder indescritível, selada, porém inquieta: um ser poderoso sendo conduzido para destruir toda a vida!\n\nAlgo deve ser feito, mas que esperança que nós temos contra 'a Ruína'?",
+    "path": "/contentPages/3"
   },
   {
     "op": "replace",
-    "path": "/contentPages/4",
-    "value": "^cyan;Diário da Grande Protetora: Entrada 3593^white;\n\nEu cometi um erro deplorável - ontem à noite eu compartilhei meus achados com Asra. Enquanto eu explicava a minha descoberta ela ficou agitada - Eu queria parar, mas ela não me deixou parar de falar até que eu tinha esclarecido até o último ponto. \n\nEu me preocupei que eu estava perturbando-a, mas eu concluí que ela transbordou em tremenda emoção! Ela me disse que eu estava errada, que eu estava interpretando mal as minhas descobertas, que finalmente tínhamos encontrado a prova de que ela sempre soube..."
+    "value": "^cyan;Diário da Grande Protetora: Entrada 3593^white;\n\nEu cometi um erro deplorável - ontem à noite eu compartilhei meus achados com Asra. Enquanto eu explicava a minha descoberta ela ficou agitada - Eu queria parar, mas ela não me deixou parar de falar até que eu tinha esclarecido até o último ponto. \n\nEu me preocupei que eu estava perturbando-a, mas eu concluí que ela transbordou em tremenda emoção! Ela me disse que eu estava errada, que eu estava interpretando mal as minhas descobertas, que finalmente tínhamos encontrado a prova de que ela sempre soube...",
+    "path": "/contentPages/4"
   },
   {
     "op": "replace",
-    "path": "/contentPages/5",
-    "value": "Ela começou a delirar, dizendo coisas terríveis. Ela acredita que a Ruína é uma \"força de limpeza\", que irá destruir toda a 'vida inferior' no universo - que deixará apenas os dignos intactos. Ela estava falando sobre humanos! Ela quer libertar a Ruína, para ajuda-la!\n\nEu tentei argumentar com ela, mas ela não queria ver o lado correto. Sua excitação se tornou raiva, indignada com a minha \"ignorância\". Estendi a mão para ela, mas ela me empurrou. Implorei a ela, mas sem sucesso. Ela se foi.\nMinha Asra, minha garotinha, se foi."
+    "value": "^cyan;Diário da Grande Protetora: Entrada 443^white;\n\nAsra está indo tão bem - ela está longe de ser a garota assustada que encontrei naquelas ruínas distantes. Ao longo do tempo ela cresceu em confiança, e sua inteligência natural floresceu - ela realmente me deixou no chinelo!\n\nÀs vezes, quando ela está tranquila, quando ela acha que ninguém percebe, eu vislumbro uma profunda tristeza nela. Como posso protegê-la da dor que perdura dentro dela?",
+    "path": "/contentPages/1"
   },
   {
     "op": "replace",
-    "path": "/contentPages/1",
-    "value": "^cyan;Diário da Grande Protetora: Entrada 443^white;\n\nAsra está indo tão bem - ela está longe de ser a garota assustada que encontrei naquelas ruínas distantes. Ao longo do tempo ela cresceu em confiança, e sua inteligência natural floresceu - ela realmente me deixou no chinelo!\n\nÀs vezes, quando ela está tranquila, quando ela acha que ninguém percebe, eu vislumbro uma profunda tristeza nela. Como posso protegê-la da dor que perdura dentro dela?"
+    "value": "^cyan;Diário da Grande Protetora: Entrada 6901^white;\n\n A devastação que encontramos no assentamento foi verdadeiramente angustiante - apenas um estrutura resistiu, e apenas um sobrevivente. Uma menina assustada, sozinha entre os destroços.\n\nA julgar pelo relato da menina os bandidos foram um grupo diversificado - Florans, Apex e Avians, entre outros. Pessoas desesperadas fazem coisas terríveis. Esta menina perdeu sua casa e sua família em um só golpe, mas eu vou protegê-la. O nome dela é Asra Nox.",
+    "path": "/contentPages/0"
   }
 ]

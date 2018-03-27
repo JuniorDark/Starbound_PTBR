@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Plataforma enferrujada. Não parece segura."}, {"op": "replace", "path": "/shortdescription", "value": " Wrecked Platform "}]
+[
+  {
+    "op": "replace",
+    "value": "Alarmado. Este andaime oxidado parece estruturalmente instável.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Enferrujado e insesguro. Floran gossta.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta plataforma enferrujada parece pronta pra desmoronar.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wrecked Platform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plataforma enferrujada. Não parece segura.",
+    "path": "/description"
+  }
+]

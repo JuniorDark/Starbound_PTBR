@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Healing III Collar"}, {"op": "replace", "path": "/description", "value": "Uma coleira que restaura rapidamente a vida do seu pet ao longo do tempo."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma coleira que restaura rapidamente a vida do seu pet ao longo do tempo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Healing III Collar",
+    "path": "/shortdescription"
+  }
+]

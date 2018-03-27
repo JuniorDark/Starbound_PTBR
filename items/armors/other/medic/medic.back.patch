@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma mochila de um médico militar."}, {"op": "replace", "path": "/shortdescription", "value": "Medic Backpack"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma mochila de um médico militar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Medic Backpack",
+    "path": "/shortdescription"
+  }
+]

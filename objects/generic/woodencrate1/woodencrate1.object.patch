@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Uma caixa de madeira."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma caixa de madeira regular."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Tem alguma coisa dentro?"}, {"op": "replace", "path": "/floranDescription", "value": "Caixa!"}, {"op": "replace", "path": "/shortdescription", "value": "Wooden Crate"}, {"op": "replace", "path": "/description", "value": "Uma caixa de madeira misteriosa."}, {"op": "replace", "path": "/humanDescription", "value": "Uma caixa de madeira. Está aberta."}, {"op": "replace", "path": "/avianDescription", "value": "Uma caixa de armazenamento."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma caixa aberta."}]
+[
+  {
+    "op": "replace",
+    "value": "Caixa!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Há alguma coisa dentro?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wooden Crate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de madeira misteriosa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de madeira regular.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de armazenamento.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de madeira. Está aberta.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa aberta.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de madeira.",
+    "path": "/apexDescription"
+  }
+]

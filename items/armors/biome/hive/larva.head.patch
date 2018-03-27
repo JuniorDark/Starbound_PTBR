@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Larva Mask"}, {"op": "replace", "path": "/description", "value": "Uma máscara que se assemelha a um grande inseto."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma máscara que se assemelha a um grande inseto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Larva Mask",
+    "path": "/shortdescription"
+  }
+]

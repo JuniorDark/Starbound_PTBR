@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Terrifying Wings"}, {"op": "replace", "path": "/description", "value": "Equipe essas asas de morcego douradas e torne-se a essência dos pesadelos!"}]
+[
+  {
+    "op": "replace",
+    "value": "Equipe essas asas de morcego douradas e torne-se a essência dos pesadelos!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Terrifying Wings",
+    "path": "/shortdescription"
+  }
+]

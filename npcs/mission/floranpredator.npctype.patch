@@ -1,1 +1,127 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/6", "value": "Você não pode fugir de mim!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/7", "value": "A Caçada começou!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/10", "value": "Hora de perseguir!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/9", "value": "Que os jogoss comecem!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/8", "value": "Não há saída!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/17", "value": "Nuru não pode me derrotar desta vez, e nem você!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/18", "value": "Hora de matar a concorrência!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/0", "value": "Eu te vejo!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/1", "value": "Ataque!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/19", "value": "Pelo menoss você não é Nuru!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/20", "value": "Você não é o melhor caçador!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/11", "value": "Saia e brinque com Floran!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/21", "value": "Você vai perecer nessas cavernas, essstranho!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/22", "value": "Floran não vai deixar um forasteiro ganhar!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/2", "value": "Floran avistou um rival!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/3", "value": "Derrubem-os!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/12", "value": "Você não vai me impedir!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/13", "value": "Floran te vê, caçador esstranho!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/14", "value": "Você não vai me vencer na Caçada!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/23", "value": "A vitória não vai para você, forasteiro!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/15", "value": "Rival! Estranho!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/4", "value": "Floran vai te tirar dai!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/5", "value": "Floran não vai ser derrotado na Caçada!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/16", "value": "Você não pode me parar de ganhar A Caçada!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/0", "value": "Intruso!"}]
+[
+  {
+    "op": "replace",
+    "value": "Intruso!",
+    "path": "/scriptConfig/dialog/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Atacar!",
+    "path": "/scriptConfig/dialog/attack/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vejo você!",
+    "path": "/scriptConfig/dialog/attack/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "A Caçada começou!",
+    "path": "/scriptConfig/dialog/attack/floran/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Você não pode fugir de mim!",
+    "path": "/scriptConfig/dialog/attack/floran/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Pelo menoss você não é Nuru!",
+    "path": "/scriptConfig/dialog/attack/floran/default/19"
+  },
+  {
+    "op": "replace",
+    "value": "Saia e brinque com Floran!",
+    "path": "/scriptConfig/dialog/attack/floran/default/11"
+  },
+  {
+    "op": "replace",
+    "value": "Floran avistou um rival!",
+    "path": "/scriptConfig/dialog/attack/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Floran te vê, caçador esstranho!",
+    "path": "/scriptConfig/dialog/attack/floran/default/13"
+  },
+  {
+    "op": "replace",
+    "value": "Floran vai te tirar dai!",
+    "path": "/scriptConfig/dialog/attack/floran/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não vai ser derrotado na Caçada!",
+    "path": "/scriptConfig/dialog/attack/floran/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não vai deixar um forasteiro ganhar!",
+    "path": "/scriptConfig/dialog/attack/floran/default/22"
+  },
+  {
+    "op": "replace",
+    "value": "Que os jogoss comecem!",
+    "path": "/scriptConfig/dialog/attack/floran/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "Não há saída!",
+    "path": "/scriptConfig/dialog/attack/floran/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Nuru não pode me derrotar desta vez, e nem você!",
+    "path": "/scriptConfig/dialog/attack/floran/default/17"
+  },
+  {
+    "op": "replace",
+    "value": "Rival! Estranho!",
+    "path": "/scriptConfig/dialog/attack/floran/default/15"
+  },
+  {
+    "op": "replace",
+    "value": "Derrubem-os!",
+    "path": "/scriptConfig/dialog/attack/floran/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Hora de perseguir!",
+    "path": "/scriptConfig/dialog/attack/floran/default/10"
+  },
+  {
+    "op": "replace",
+    "value": "Hora de matar a concorrência!",
+    "path": "/scriptConfig/dialog/attack/floran/default/18"
+  },
+  {
+    "op": "replace",
+    "value": "A vitória não vai para você, forasteiro!",
+    "path": "/scriptConfig/dialog/attack/floran/default/23"
+  },
+  {
+    "op": "replace",
+    "value": "Você não vai me impedir!",
+    "path": "/scriptConfig/dialog/attack/floran/default/12"
+  },
+  {
+    "op": "replace",
+    "value": "Você não é o melhor caçador!",
+    "path": "/scriptConfig/dialog/attack/floran/default/20"
+  },
+  {
+    "op": "replace",
+    "value": "Você não pode me parar de ganhar A Caçada!",
+    "path": "/scriptConfig/dialog/attack/floran/default/16"
+  },
+  {
+    "op": "replace",
+    "value": "Você não vai me vencer na Caçada!",
+    "path": "/scriptConfig/dialog/attack/floran/default/14"
+  },
+  {
+    "op": "replace",
+    "value": "Você vai perecer nessas cavernas, essstranho!",
+    "path": "/scriptConfig/dialog/attack/floran/default/21"
+  }
+]

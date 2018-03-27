@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Ramped Platform"}, {"op": "replace", "path": "/floranDescription", "value": "Uma grande plataforma Floran ussada para ficar em cima."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Embora os materiais sejam básicos, esta plataforma está muito bem feita."}, {"op": "replace", "path": "/apexDescription", "value": "Esta plataforma de madeira parece solidamente construída."}, {"op": "replace", "path": "/humanDescription", "value": "Esta plataforma é levantada como uma espécie de palco."}, {"op": "replace", "path": "/avianDescription", "value": "Uma plataforma ampla, eu me pergunto qual o propósito."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma plataforma de madeira levantada."}, {"op": "replace", "path": "/novakidDescription", "value": "Parece quase um palco para mim."}, {"op": "replace", "path": "/description", "value": "Uma plataforma elevada. Não fique preso debaixo disso."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma grande plataforma Floran ussada para ficar em cima.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma plataforma de madeira levantada.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma plataforma ampla, eu me pergunto qual o propósito.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Embora os materiais sejam básicos, esta plataforma está muito bem feita.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece quase um palco para mim.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ramped Platform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta plataforma é levantada como uma espécie de palco.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta plataforma de madeira parece solidamente construída.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma plataforma elevada. Não fique preso debaixo disso.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Observador. O corrimão é implementado para a segurança."}, {"op": "replace", "path": "/apexDescription", "value": "Uma grade de metal pintada com listras vermelhas e pretas."}, {"op": "replace", "path": "/humanDescription", "value": "Uma grade de metal para evitar que as pessoas caim das plataformas."}, {"op": "replace", "path": "/avianDescription", "value": "Uma grade de metal."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma construção humana de aparência simples."}, {"op": "replace", "path": "/novakidDescription", "value": "Apenas uma cerca chata."}, {"op": "replace", "path": "/description", "value": "Uma cerca de metal com listras de aviso vermelhas e pretas."}, {"op": "replace", "path": "/shortdescription", "value": "Mining Railing"}, {"op": "replace", "path": "/floranDescription", "value": "Floran entediado de cercasss."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma grade de metal para evitar que as pessoas caim das plataformas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cerca de metal com listras de aviso vermelhas e pretas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma grade de metal pintada com listras vermelhas e pretas.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma grade de metal.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma construção humana de aparência simples.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas uma cerca chata.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mining Railing",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. O corrimão é implementado para a segurança.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran entediado de cercasss.",
+    "path": "/floranDescription"
+  }
+]

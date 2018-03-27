@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Wooden Sink"}, {"op": "replace", "path": "/avianDescription", "value": "Uma pia."}, {"op": "replace", "path": "/apexDescription", "value": "Uma pia apropriada para uma cozinha ou banheiro."}, {"op": "replace", "path": "/humanDescription", "value": "Uma pia."}, {"op": "replace", "path": "/description", "value": "Um armário de madeira com uma pia instalada."}, {"op": "replace", "path": "/floranDescription", "value": "Gira torneira, água sai!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Eu me pergunto se a água está fresca."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma pia de cozinha."}, {"op": "replace", "path": "/glitchDescription", "value": "Grato. Água quente e fria, à sua conveniência."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pia.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pia de cozinha.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pia apropriada para uma cozinha ou banheiro.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pia.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário de madeira com uma pia instalada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Grato. Água quente e fria, à sua conveniência.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto se a água está fresca.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gira torneira, água sai!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wooden Sink",
+    "path": "/shortdescription"
+  }
+]

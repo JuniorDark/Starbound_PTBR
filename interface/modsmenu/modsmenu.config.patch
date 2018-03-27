@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/paneLayout/copylinklabel/value", "value": "COPIAR LINK DA PAGINA DO MOD"}, {"op": "replace", "path": "/paneLayout/modauthorlabel/value", "value": "AUTOR"}, {"op": "replace", "path": "/paneLayout/modversionlabel/value", "value": "VERSÃO"}, {"op": "replace", "path": "/paneLayout/windowtitle/subtitle", "value": "^#b9b5b2;Arquivos ativos no momento"}, {"op": "replace", "path": "/paneLayout/linklabel/value", "value": "ABRIR PAGINA DO MOD"}, {"op": "replace", "path": "/paneLayout/selectmodlabel/value", "value": "Selecionar Mod"}, {"op": "replace", "path": "/paneLayout/lblDescription/value", "value": "Descrição"}, {"op": "replace", "path": "/paneLayout/windowtitle/title", "value": "Mods"}]
+[
+  {
+    "op": "replace",
+    "value": "Replace Me",
+    "path": "/paneLayout/mods/children/list/schema/listTemplate/name/value"
+  },
+  {
+    "op": "replace",
+    "value": "AUTOR",
+    "path": "/paneLayout/modauthorlabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "COPIAR LINK DA PAGINA DO MOD",
+    "path": "/paneLayout/copylinklabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Descrição",
+    "path": "/paneLayout/lblDescription/value"
+  },
+  {
+    "op": "replace",
+    "value": "Mods",
+    "path": "/paneLayout/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "ABRIR PAGINA DO MOD",
+    "path": "/paneLayout/linklabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Selecionar Mod",
+    "path": "/paneLayout/selectmodlabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "VERSÃO",
+    "path": "/paneLayout/modversionlabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Arquivos ativos no momento",
+    "path": "/paneLayout/windowtitle/subtitle"
+  }
+]

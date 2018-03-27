@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Outhouse"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de casinha fedida."}, {"op": "replace", "path": "/glitchDescription", "value": "Repulsa. Este edifício contém um número incalculável de germes."}, {"op": "replace", "path": "/apexDescription", "value": "Um banheiro. Acho que preciso ir."}, {"op": "replace", "path": "/humanDescription", "value": "Você costumava encontrar banheiros como esses em festivais de música."}, {"op": "replace", "path": "/avianDescription", "value": "Um banheiro."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um banheiro grotesco."}, {"op": "replace", "path": "/description", "value": "Um banheiro! Aproveite!"}, {"op": "replace", "path": "/novakidDescription", "value": "Tenho a sensação de que isso não é apenas um banheiro."}]
+[
+  {
+    "op": "replace",
+    "value": "Um banheiro grotesco.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um banheiro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um banheiro! Aproveite!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um banheiro. Acho que preciso ir.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de casinha fedida.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tenho a sensação de que isso não é apenas um banheiro.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Outhouse",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Repulsa. Este edifício contém um número incalculável de germes.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Você costumava encontrar banheiros como esses em festivais de música.",
+    "path": "/humanDescription"
+  }
+]

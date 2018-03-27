@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma mesa de bar polida, completa com três banquinhos."}, {"op": "replace", "path": "/shortdescription", "value": "Saloon Bar"}, {"op": "replace", "path": "/floranDescription", "value": "Floran acha que bar pode ser um bom lugar para começar  brigasss..."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Esta mesa de bar tem tido muito uso, mas ainda é polida."}, {"op": "replace", "path": "/apexDescription", "value": "A superfície deste bar foi polida. É sem dúvida teve muito uso."}, {"op": "replace", "path": "/humanDescription", "value": "Ah, sentar atrás desse bar, ver todo o tipo de gente passar... Que vida."}, {"op": "replace", "path": "/avianDescription", "value": "Tenho certeza de que todos os tipos de pessoas interessantes se sentaram neste bar!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Tenho certeza de que este bar viu muitas manchas ao longo dos anos."}, {"op": "replace", "path": "/novakidDescription", "value": "Um bar liso. Eu ficaria feliz em tomar uma bebida."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma mesa de bar polida, completa com três banquinhos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um bar liso. Eu ficaria feliz em tomar uma bebida.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ah, sentar atrás desse bar, ver todo o tipo de gente passar... Que vida.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran acha que bar pode ser um bom lugar para começar  brigasss...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tenho certeza de que todos os tipos de pessoas interessantes se sentaram neste bar!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tenho certeza de que este bar viu muitas manchas ao longo dos anos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Esta mesa de bar tem tido muito uso, mas ainda é polida.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Saloon Bar",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A superfície deste bar foi polida. É sem dúvida teve muito uso.",
+    "path": "/apexDescription"
+  }
+]

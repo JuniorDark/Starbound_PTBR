@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Esta porta forma uma vedação hermética quando fechada."
+    "value": "Astro Door",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Portas como estas são projetadas para selar seções de naves ou estações."
+    "value": "Portas como estas são projetadas para selar seções de naves ou estações.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Esta porta é projetada para sobreviver à dureza do espaço."
+    "value": "Interessado. Esse design de porta já foi popular na construção de naves e estações.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Porta espacial pode desslizar para abrir e fechar."
+    "value": "Porta espacial pode desslizar para abrir e fechar.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Interessado. Esse design de porta já foi popular na construção de naves e estações."
+    "value": "Esta porta forma uma vedação hermética quando fechada.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Esta porta moderna pode criar uma vedação hermética para conter a atmosfera."
+    "value": "Esta porta é projetada para sobreviver à dureza do espaço.",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Este tipo de porta moderna é elegante e receptiva."
+    "value": "Esta porta de aparência elegante parece que ela poderia aguentar qualquer coisa.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Esta porta de aparência elegante parece que ela poderia aguentar qualquer coisa."
+    "value": "Esta porta moderna pode criar uma vedação hermética para conter a atmosfera.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este tipo de porta moderna é elegante e receptiva.",
+    "path": "/hylotlDescription"
   }
 ]

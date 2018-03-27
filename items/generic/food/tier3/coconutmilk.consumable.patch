@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A melhor razão para se abrir um coco. O sabor é incrível."}, {"op": "replace", "path": "/shortdescription", "value": "Coconut Drink"}]
+[
+  {
+    "op": "replace",
+    "value": "Coconut Drink",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A melhor razão para se abrir um coco. O sabor é incrível.",
+    "path": "/description"
+  }
+]

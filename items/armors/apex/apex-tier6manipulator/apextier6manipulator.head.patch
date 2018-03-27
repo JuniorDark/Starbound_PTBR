@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Usurper's Hood"}, {"op": "replace", "path": "/description", "value": "Uma máscara com capuz que se adapta a natureza enigmática daqueles que derrubam regimes."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma máscara com capuz que se adapta a natureza enigmática daqueles que derrubam regimes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Usurper's Hood",
+    "path": "/shortdescription"
+  }
+]

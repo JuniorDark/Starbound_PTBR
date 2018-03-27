@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/speak/default/default/0", "value": "Ei <entityname>! Tem um minuto para conversar?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Logo você vai ser um verdadeiro Protetor(a), com o seu próprio Manipulador de Matéria. Deve ser emocionante!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/1", "value": "Ouvi dizer que esses Manipuladores de Matéria pode desmontar todos os tipos de materiais."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/2", "value": "Se você for designado para um mundo distante, não se esqueça que você sempre terá amigos aqui na Terra!"}]
+[
+  {
+    "op": "replace",
+    "value": "Ei <entityname>! Tem um minuto para conversar?",
+    "path": "/scriptConfig/dialog/speak/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ouvi dizer que esses Manipuladores de Matéria pode desmontar todos os tipos de materiais.",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Se você for designado para um mundo distante, não se esqueça que você sempre terá amigos aqui na Terra!",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Logo você vai ser um verdadeiro Protetor(a), com o seu próprio Manipulador de Matéria. Deve ser emocionante!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

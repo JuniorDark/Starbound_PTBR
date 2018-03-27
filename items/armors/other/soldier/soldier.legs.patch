@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Soldier's Leg Armour"}, {"op": "replace", "path": "/description", "value": "Calças resistentes do uniforme de um soldado."}]
+[
+  {
+    "op": "replace",
+    "value": "Soldier's Leg Armour",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Calças resistentes do uniforme de um soldado.",
+    "path": "/description"
+  }
+]

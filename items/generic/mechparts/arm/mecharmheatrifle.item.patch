@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um braço de mecha barato que dispara chumbo superaquecido."
+    "value": "Um braço de mecha barato que dispara balas de chumbo superaquecido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Heatrifle Mech Arm",
+    "path": "/shortdescription"
   }
 ]

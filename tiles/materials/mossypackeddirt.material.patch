@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Terra batida, coberta de musgo."}, {"op": "replace", "path": "/floranDescription", "value": "Terra batida coberta de mussgo crescendo."}, {"op": "replace", "path": "/glitchDescription", "value": "Atento. Esta terra batida tem musgo crescendo sobre ela."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta terra aqui esta toda coberta de musgo."}, {"op": "replace", "path": "/shortdescription", "value": "Mossy Packed Dirt"}]
+[
+  {
+    "op": "replace",
+    "value": "Mossy Packed Dirt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Esta terra batida tem musgo crescendo sobre ela.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Terra batida coberta de mussgo crescendo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Terra batida, coberta de musgo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta terra aqui esta toda coberta de musgo.",
+    "path": "/novakidDescription"
+  }
+]

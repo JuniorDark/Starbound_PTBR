@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Uma rocha cheia de cobre! Talvez eu possa quebrá-la."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um golpe rápido nesta pedra liberaria o cobre dentro."}, {"op": "replace", "path": "/description", "value": "Uma rocha rachada cheia de cobre."}, {"op": "replace", "path": "/shortdescription", "value": "Copper Rock"}, {"op": "replace", "path": "/floranDescription", "value": "Rocha reluzente. Esssmagá-la!"}, {"op": "replace", "path": "/apexDescription", "value": "Parece haver cobre dentro desta frágil rocha."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Esta rocha contém cobre e está coberta de rachaduras."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma rocha rica em cobre. Eu deveria quebrá-la."}, {"op": "replace", "path": "/avianDescription", "value": "Se eu quebrar esta rocha devo ser capaz de recolher o minério de cobre dentro dela."}]
+[
+  {
+    "op": "replace",
+    "value": "Copper Rock",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma rocha rachada cheia de cobre.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma rocha cheia de cobre! Talvez eu possa quebrá-la.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma rocha rica em cobre. Eu deveria quebrá-la.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um golpe rápido nesta pedra liberaria o cobre dentro.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se eu quebrar esta rocha devo ser capaz de recolher o minério de cobre dentro dela.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Esta rocha contém cobre e está coberta de rachaduras.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece haver cobre dentro desta frágil rocha.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rocha reluzente. Esssmagá-la!",
+    "path": "/floranDescription"
+  }
+]

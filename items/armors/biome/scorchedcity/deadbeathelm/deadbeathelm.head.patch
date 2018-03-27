@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Deadbeat Helm"}, {"op": "replace", "path": "/description", "value": "Um capacete de metal leve com uma viseira de proteção."}]
+[
+  {
+    "op": "replace",
+    "value": "Um capacete de metal leve com uma viseira de proteção.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Deadbeat Helm",
+    "path": "/shortdescription"
+  }
+]

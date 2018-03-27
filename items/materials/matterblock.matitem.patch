@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um bloco de mateira. Um bloco que importa."}, {"op": "replace", "path": "/shortdescription", "value": "Matter Block"}]
+[
+  {
+    "op": "replace",
+    "value": "Um bloco de matéria.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Matter Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fascinado. Isso parece ser uma forma rara de matéria crua.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran deve coletar cristal de matéria colorido.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns cristais estranhos.",
+    "path": "/novakiddescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Gosto que meus relógios sejam quadrados e de cores vivas!"}, {"op": "replace", "path": "/description", "value": "Um relógio de parede quadrado colorido."}, {"op": "replace", "path": "/shortdescription", "value": "Pastel Wall Clock"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não tem tempo para ver as horas."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Este é um relógio em uma forma muito estranha."}, {"op": "replace", "path": "/apexDescription", "value": "Um relógio de parede lilás."}, {"op": "replace", "path": "/avianDescription", "value": "Um relógio de parede bastante único."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um relógio em forma bastante divertido."}, {"op": "replace", "path": "/novakidDescription", "value": "O tempo está correndo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um relógio de parede quadrado colorido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um relógio de parede lilás.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um relógio em forma bastante divertido.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um relógio de parede bastante único.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Este é um relógio em uma forma muito estranha.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não tem tempo para ver as horas.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gosto que meus relógios sejam quadrados e de cores vivas!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pastel Wall Clock",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O tempo está correndo.",
+    "path": "/novakidDescription"
+  }
+]

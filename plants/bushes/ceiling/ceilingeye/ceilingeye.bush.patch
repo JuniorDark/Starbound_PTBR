@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Um olho pendurado grotesco."}, {"op": "replace", "path": "/shortdescription", "value": "Um olho pendurado grotesco."}, {"op": "replace", "path": "/floranDescription", "value": "Olho balançando!"}, {"op": "replace", "path": "/glitchDescription", "value": "Repulsa. Um olho pendurado."}]
+[
+  {
+    "op": "replace",
+    "value": "Um olho pendurado grotesco.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um olho pendurado grotesco.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Repulsa. Um olho pendurado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Olho balançando!",
+    "path": "/floranDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Um monte de toras empilhadas para ficar de pé."}, {"op": "replace", "path": "/description", "value": "Grandes toras montadas como uma plataforma de construção."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Como os Floran foram capazes de mover esses enormes troncos no lugar?"}, {"op": "replace", "path": "/shortdescription", "value": "Large Wooden Scaffolding"}, {"op": "replace", "path": "/apexDescription", "value": "Essas toras são organizadas para suportar um ótimo peso."}, {"op": "replace", "path": "/humanDescription", "value": "Se eu jogasse um jogo com isso, seria um jogo de plataforma."}, {"op": "replace", "path": "/avianDescription", "value": "Isso parece ter sido feito para construir uma grande estrutura."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma plataforma de construção muito estruturalmente sólida."}, {"op": "replace", "path": "/floranDescription", "value": "Floran fica na plataforma, pula em inimigos desssavisados."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma plataforma de construção muito estruturalmente sólida.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um monte de toras empilhadas para ficar de pé.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Como os Floran foram capazes de mover esses enormes troncos no lugar?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran fica na plataforma, pula em inimigos desssavisados.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se eu jogasse um jogo com isso, seria um jogo de plataforma.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Large Wooden Scaffolding",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grandes toras montadas como uma plataforma de construção.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Essas toras são organizadas para suportar um ótimo peso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso parece ter sido feito para construir uma grande estrutura.",
+    "path": "/avianDescription"
+  }
+]

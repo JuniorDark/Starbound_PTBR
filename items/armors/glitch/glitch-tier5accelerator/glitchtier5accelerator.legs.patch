@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Crusader's Greaves"}, {"op": "replace", "path": "/description", "value": "Estes calças trazem um pouco de estilo para o campo de batalha."}]
+[
+  {
+    "op": "replace",
+    "value": "Crusader's Greaves",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes calças trazem um pouco de estilo para o campo de batalha.",
+    "path": "/description"
+  }
+]

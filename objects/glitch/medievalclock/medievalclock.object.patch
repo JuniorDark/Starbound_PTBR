@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Parece ser um dispositivo usado para ler o tempo. Os Avian usam o sol."}, {"op": "replace", "path": "/description", "value": "Um relógio pequeno com um pêndulo. Faz tic-tac, mas as mãos nunca se mexem."}, {"op": "replace", "path": "/shortdescription", "value": "Medieval Wall Clock"}, {"op": "replace", "path": "/floranDescription", "value": "Tic, tac, tic, tac."}, {"op": "replace", "path": "/glitchDescription", "value": "Simpático. O tempo neste relógio nunca muda."}, {"op": "replace", "path": "/apexDescription", "value": "Um pequeno relógio. O pêndulo balançando é calmante."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta peça do tempo parece estar quebrada, embora o pendulo ainda balança..."}, {"op": "replace", "path": "/novakidDescription", "value": "O tempo neste relógio nunca muda."}, {"op": "replace", "path": "/humanDescription", "value": "Um pequeno relógio de pêndulo. O pêndulo balança, mas o tempo não parece mudar."}]
+[
+  {
+    "op": "replace",
+    "value": "Um pequeno relógio de pêndulo. O pêndulo balança, mas o tempo não parece mudar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um relógio pequeno com um pêndulo. Faz tic-tac, mas as mãos nunca se mexem.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um pequeno relógio. O pêndulo balançando é calmante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece ser um dispositivo usado para ler o tempo. Os Avian usam o sol.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Medieval Wall Clock",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Simpático. O tempo neste relógio nunca muda.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O tempo neste relógio nunca muda.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta peça do tempo parece estar quebrada, embora o pendulo ainda balança...",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tic, tac, tic, tac.",
+    "path": "/floranDescription"
+  }
+]

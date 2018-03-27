@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Buccaneer Coat"}, {"op": "replace", "path": "/description", "value": "Um casaco pirata de pele de baleia - bem, cheira a baleia de qualquer maneira."}]
+[
+  {
+    "op": "replace",
+    "value": "Um casaco pirata de pele de baleia - bem, cheira a baleia de qualquer maneira.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Buccaneer Coat",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Admiração. Tal expressão alude aos Glitch, somos criaturas de razão."}, {"op": "replace", "path": "/novakidDescription", "value": "Uau, esses redemoinhos de tinta estão me deixando tonto."}, {"op": "replace", "path": "/description", "value": "Uma bela pintura do céu noturno."}, {"op": "replace", "path": "/shortdescription", "value": "Abstract Painting"}, {"op": "replace", "path": "/floranDescription", "value": "Floran anseia por ver o céu da sselva novamente."}, {"op": "replace", "path": "/apexDescription", "value": "Os Apex ainda são capaz de tal beleza?"}, {"op": "replace", "path": "/humanDescription", "value": "Que bela peça. Os traços fazem as cores parecerem vivas."}, {"op": "replace", "path": "/avianDescription", "value": "Este é o éter? O céu eterno."}, {"op": "replace", "path": "/hylotlDescription", "value": "Que arte. O criador de tal peça seria reverenciado pelos Hylotl."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma bela pintura do céu noturno.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Abstract Painting",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Apex ainda são capaz de tal beleza?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran anseia por ver o céu da sselva novamente.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este é o éter? O céu eterno.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que arte. O criador de tal peça seria reverenciado pelos Hylotl.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que bela peça. Os traços fazem as cores parecerem vivas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uau, esses redemoinhos de tinta estão me deixando tonto.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Admiração. Tal expressão alude aos Glitch, somos criaturas de razão.",
+    "path": "/glitchDescription"
+  }
+]

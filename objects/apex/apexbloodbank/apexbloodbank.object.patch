@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Os Stargazers acreditam que sangue contém magia."}, {"op": "replace", "path": "/description", "value": "Frascos cheios de vários tipos de sangue. Espero que eles não tiraram TODO o seu sangue."}, {"op": "replace", "path": "/shortdescription", "value": "Bloodbank "}, {"op": "replace", "path": "/floranDescription", "value": "Uma máquina de venda!"}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Para que propósito esse sangue é usado?"}, {"op": "replace", "path": "/apexDescription", "value": "Um banco de sangue. Muitos Apex nunca mais foram vistos novamente depois de fornecerem o seu conteúdo."}, {"op": "replace", "path": "/humanDescription", "value": "Alguns destes frascos estão marcados. Todos eles são marcados 'fracasso'."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os Hylotl acreditam que o sangue deve permanecer dentro do corpo."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu nã sei dizer se eu já vi tanto sangue antes."}]
+[
+  {
+    "op": "replace",
+    "value": "Um banco de sangue. Muitos Apex nunca mais foram vistos novamente depois de fornecerem o seu conteúdo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma máquina de venda!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bloodbank ",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Para que propósito esse sangue é usado?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu nã sei dizer se eu já vi tanto sangue antes.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns destes frascos estão marcados. Todos eles são marcados 'fracasso'.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Hylotl acreditam que o sangue deve permanecer dentro do corpo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Stargazers acreditam que sangue contém magia.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Frascos cheios de vários tipos de sangue. Espero que eles não tiraram TODO o seu sangue.",
+    "path": "/description"
+  }
+]

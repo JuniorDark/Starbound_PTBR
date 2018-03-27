@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Data Screen"}, {"op": "replace", "path": "/glitchDescription", "value": "Confuso. Não consigo interagir com esta máquina."}, {"op": "replace", "path": "/apexDescription", "value": "Estes parecem ser diagnósticos de sistema. Eu não os entendo."}, {"op": "replace", "path": "/floranDescription", "value": "Tecnologia de homem-pássaro. Floran não entende."}, {"op": "replace", "path": "/humanDescription", "value": "Parece coisa complexa. Talvez descreva o estado da tecnologia Avian."}, {"op": "replace", "path": "/avianDescription", "value": "Esta tela descreve o estado dos cristais próximos. Somente stargazers entendem isso."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os Hylotl não podem ler isso. Parecem ser estatísticas de sistema."}, {"op": "replace", "path": "/novakidDescription", "value": "Não consigo entender essa informação."}, {"op": "replace", "path": "/description", "value": "Leituras antigas do sistema que parecem estar desatualizadas."}]
+[
+  {
+    "op": "replace",
+    "value": "Tecnologia de homem-pássaro. Floran não entende.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Não consigo interagir com esta máquina.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Data Screen",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não consigo entender essa informação.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Leituras antigas do sistema que parecem estar desatualizadas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Os Hylotl não podem ler isso. Parecem ser estatísticas de sistema.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes parecem ser diagnósticos de sistema. Eu não os entendo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece coisa complexa. Talvez descreva o estado da tecnologia Avian.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta tela descreve o estado dos cristais próximos. Somente stargazers entendem isso.",
+    "path": "/avianDescription"
+  }
+]

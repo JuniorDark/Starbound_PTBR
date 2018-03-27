@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran não entende ssímboloss."}, {"op": "replace", "path": "/description", "value": "Pequenos glifos cobrem esta pedra."}, {"op": "replace", "path": "/glitchDescription", "value": "Fascinado. Eu não sei o que esses glifos dizem."}, {"op": "replace", "path": "/novakidDescription", "value": "Algum tipo de símbolo antigo."}, {"op": "replace", "path": "/shortdescription", "value": "Glyph Block"}]
+[
+  {
+    "op": "replace",
+    "value": "Fascinado. Eu não sei o que esses glifos dizem.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não entende ssímboloss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Glyph Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pequenos glifos cobrem esta pedra.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de símbolo antigo.",
+    "path": "/novakidDescription"
+  }
+]

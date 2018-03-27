@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma barreira composta de duas barras enroladas."}, {"op": "replace", "path": "/shortdescription", "value": "Cell Door"}, {"op": "replace", "path": "/floranDescription", "value": "Porta esstupida."}, {"op": "replace", "path": "/glitchDescription", "value": "Exasperado. Esta porta claramente favorece a forma sobre a função."}, {"op": "replace", "path": "/apexDescription", "value": "Certamente não é uma porta segura. Se eu fosse mais magro eu poderia apenas me espremer pelo lado."}, {"op": "replace", "path": "/humanDescription", "value": "Uma bagunça retorcida de uma porta."}, {"op": "replace", "path": "/avianDescription", "value": "Parece um pouco frágil."}, {"op": "replace", "path": "/hylotlDescription", "value": "Pouco útil e certamente não é bonita."}, {"op": "replace", "path": "/novakidDescription", "value": "Olhar para esta porta é como espreitar em um barril de cobras."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma barreira composta de duas barras enroladas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bagunça retorcida de uma porta.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pouco útil e certamente não é bonita.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cell Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Certamente não é uma porta segura. Se eu fosse mais magro eu poderia apenas me espremer pelo lado.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Exasperado. Esta porta claramente favorece a forma sobre a função.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece um pouco frágil.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Olhar para esta porta é como espreitar em um barril de cobras.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Porta esstupida.",
+    "path": "/floranDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Balcão está limpo. Muito limpo!"}, {"op": "replace", "path": "/description", "value": "Um balcão de aparência limpa."}, {"op": "replace", "path": "/shortdescription", "value": "Stylish Counter"}, {"op": "replace", "path": "/apexDescription", "value": "Um balcão, esta limpo pelo menos."}, {"op": "replace", "path": "/humanDescription", "value": "Um balcão tem um aspecto limpo e clínico."}, {"op": "replace", "path": "/avianDescription", "value": "Um balcão é um pouco estéril, mas pelo menos está limpo."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Um balcão de aparência limpa."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um balcão de aparência estéril. Pergunto-me o quão limpo é realmente."}, {"op": "replace", "path": "/novakidDescription", "value": "Um belo balcão."}]
+[
+  {
+    "op": "replace",
+    "value": "Um balcão de aparência limpa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um balcão, esta limpo pelo menos.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um belo balcão.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um balcão de aparência estéril. Pergunto-me o quão limpo é realmente.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Balcão está limpo. Muito limpo!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Um balcão de aparência limpa.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Stylish Counter",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um balcão tem um aspecto limpo e clínico.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um balcão é um pouco estéril, mas pelo menos está limpo.",
+    "path": "/avianDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um boneco de neve pequeno perfeito."}, {"op": "replace", "path": "/shortdescription", "value": "Snowman"}, {"op": "replace", "path": "/floranDescription", "value": "Floran caça boneco de neve. Boneco de neve não se importa. Boneco de neve desssmorona."}, {"op": "replace", "path": "/glitchDescription", "value": "Ciumento. Corpos Glitch tem muitos cantos para mim criar um glitch de neve preciso."}, {"op": "replace", "path": "/apexDescription", "value": "Um boneco de neve adorável. Como você está hoje?"}, {"op": "replace", "path": "/humanDescription", "value": "Um boneco de neve! Tentação de chutar a cabeça... aumentando..."}, {"op": "replace", "path": "/avianDescription", "value": "Um boneco de neve. Parece que está faltando alguma coisa nele."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta efígie de neve vai derreter um dia, e voltar para a água de onde veio. Ele também tem um nariz de cenoura bonito."}, {"op": "replace", "path": "/novakidDescription", "value": "É uma escultura de neve? Ou alguém ficou parado em uma tempestade de neve por muito tempo?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um boneco de neve! Tentação de chutar a cabeça... aumentando...",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um boneco de neve adorável. Como você está hoje?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran caça boneco de neve. Boneco de neve não se importa. Boneco de neve desssmorona.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ciumento. Corpos Glitch tem muitos cantos para mim criar um glitch de neve preciso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta efígie de neve vai derreter um dia, e voltar para a água de onde veio. Ele também tem um nariz de cenoura bonito.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um boneco de neve pequeno perfeito.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um boneco de neve. Parece que está faltando alguma coisa nele.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma escultura de neve? Ou alguém ficou parado em uma tempestade de neve por muito tempo?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Snowman",
+    "path": "/shortdescription"
+  }
+]

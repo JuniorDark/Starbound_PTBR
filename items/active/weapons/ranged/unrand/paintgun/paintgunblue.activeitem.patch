@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Por que esperar por uma lua azul quando você pode fazer uma você mesmo?"}, {"op": "replace", "path": "/shortdescription", "value": "Blue Paintgun"}]
+[
+  {
+    "op": "replace",
+    "value": "Blue Paintgun",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Por que esperar por uma lua azul quando você pode fazer uma você mesmo?",
+    "path": "/description"
+  }
+]

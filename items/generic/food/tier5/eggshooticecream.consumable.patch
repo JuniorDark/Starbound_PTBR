@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Eggshoot Ice Cream"}, {"op": "replace", "path": "/description", "value": "Sorvete com o delicioso sabor de creme."}]
+[
+  {
+    "op": "replace",
+    "value": "Eggshoot Ice Cream",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sorvete com o delicioso sabor de creme.",
+    "path": "/description"
+  }
+]

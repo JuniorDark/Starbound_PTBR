@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma simples cama de piche."}, {"op": "replace", "path": "/shortdescription", "value": "Tar Bed"}, {"op": "replace", "path": "/glitchDescription", "value": "Orgulhoso. Minha própria cama simples."}, {"op": "replace", "path": "/apexDescription", "value": "Uma escolha estranha para um material de roupa de cama, mas é quente e não tóxico pelo menos."}, {"op": "replace", "path": "/avianDescription", "value": "Uma cama mais adequada para seres não emplumados."}, {"op": "replace", "path": "/hylotlDescription", "value": "Pode-se ceder facilmente à viscosidade desta cama e descansar aqui por muito tempo."}, {"op": "replace", "path": "/humanDescription", "value": "Oh, desculpe, estou atrasado, eu literalmente não consegui sair da cama esta manhã. É feita de piche."}, {"op": "replace", "path": "/floranDescription", "value": "Cama de lodo é quente."}, {"op": "replace", "path": "/novakidDescription", "value": "Não consigo ver como uma cama feita de piche é uma boa idéia no livro de ninguém."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cama mais adequada para seres não emplumados.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma simples cama de piche.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma escolha estranha para um material de roupa de cama, mas é quente e não tóxico pelo menos.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não consigo ver como uma cama feita de piche é uma boa idéia no livro de ninguém.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Oh, desculpe, estou atrasado, eu literalmente não consegui sair da cama esta manhã. É feita de piche.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pode-se ceder facilmente à viscosidade desta cama e descansar aqui por muito tempo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Orgulhoso. Minha própria cama simples.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cama de lodo é quente.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tar Bed",
+    "path": "/shortdescription"
+  }
+]

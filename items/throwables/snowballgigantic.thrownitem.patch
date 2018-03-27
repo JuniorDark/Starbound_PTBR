@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Gigantic Snowball"}, {"op": "replace", "path": "/description", "value": "Esta bola de neve é enorme! Eu mal posso jogá-la."}]
+[
+  {
+    "op": "replace",
+    "value": "Gigantic Snowball",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta bola de neve é enorme! Eu mal posso jogá-la.",
+    "path": "/description"
+  }
+]

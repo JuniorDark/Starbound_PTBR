@@ -1,1 +1,227 @@
-[{"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/shortdescription", "value": "^orange;Anvil^white;"}, {"op": "replace", "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title", "value": "Bigorna"}, {"op": "replace", "path": "/shortdescription", "value": "^orange;Anvil^white;"}, {"op": "replace", "path": "/upgradeStages/2/itemSpawnParameters/shortdescription", "value": "^orange;Replicator^white;"}, {"op": "replace", "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title", "value": "Forja"}, {"op": "replace", "path": "/upgradeStages/2/addonConfig/usesAddons/1/addonData/interactData/paneLayoutOverride/windowtitle/title", "value": "Mesa do Separador"}, {"op": "replace", "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title", "value": "Replicador"}, {"op": "replace", "path": "/floranDescription", "value": "Muito pessada, útil em uma armadilha."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/description", "value": "Esta forja é usada para produzir armas e armaduras de tecido e minérios."}, {"op": "replace", "path": "/glitchDescription", "value": "Orgulhoso. Os Glitch criam todos os tipos de armas nessas bigornas. Eles até mesmo criam bigornas sobre estas bigornas."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/shortdescription", "value": "^orange;Forge^white;"}, {"op": "replace", "path": "/upgradeStages/2/itemSpawnParameters/floranDescription", "value": "Floran faz arma forte aqui."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/floranDescription", "value": "Muito pessada, útil em uma armadilha."}, {"op": "replace", "path": "/upgradeStages/2/addonConfig/usesAddons/2/addonData/interactData/paneLayoutOverride/windowtitle/title", "value": "Mesa do Manipulador"}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/floranDescription", "value": "Floran faz arma forte na essstação."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription", "value": "Ansioso. Eu posso fazer equipamento de titânio e mais aqui."}, {"op": "replace", "path": "/description", "value": "Esta bigorna é usada para produzir armas e armaduras de tecido e minérios."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/apexDescription", "value": "Uma forja. Eu posso usar titânio e outros materiais aqui."}, {"op": "replace", "path": "/upgradeStages/2/itemSpawnParameters/apexDescription", "value": "Um replicador. Eu posso criar equipamentos de alta qualidade com isso."}, {"op": "replace", "path": "/apexDescription", "value": "Uma bigorna. Os Apex não tem usado isto para metalurgia por um longo, longo tempo."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/humanDescription", "value": "Esta forja me permite criar equipamentos de metal!"}, {"op": "replace", "path": "/upgradeStages/2/itemSpawnParameters/humanDescription", "value": "Eu posso criar equipamentos super fortes a partir deste replicador."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/humanDescription", "value": "Uma bigorna. Os humanos não têm utilizado isto desde o início de sua história."}, {"op": "replace", "path": "/humanDescription", "value": "Uma bigorna. Os humanos não têm utilizado isto desde o início de sua história."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription", "value": "Provavelmente usada em metalurgia."}, {"op": "replace", "path": "/upgradeStages/2/itemSpawnParameters/avianDescription", "value": "Eu posso transformar minérios em equipamentos de boa qualidade a partir daqui."}, {"op": "replace", "path": "/avianDescription", "value": "Um grande laje de ferro com uma superfície plana."}, {"op": "replace", "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "^#b9b5b2;Armadura e armas"}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/avianDescription", "value": "Uma forja para criar equipamentos de metal."}, {"op": "replace", "path": "/hylotlDescription", "value": "Provavelmente usada em metalurgia."}, {"op": "replace", "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "^#b9b5b2;Armadura e armas"}, {"op": "replace", "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription", "value": "Este replicador me permite criar equipamentos de alta qualidade a partir de materiais de boa qualidade."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma bigorna. Eu não sou um estranho para isso."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/description", "value": "Esta bigorna é usada para produzir armas e armaduras de tecido e minérios."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/apexDescription", "value": "Uma bigorna. Os Apex não tem usado isto para metalurgia por um longo, longo tempo."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/avianDescription", "value": "Um grande laje de ferro com uma superfície plana."}, {"op": "replace", "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription", "value": "Eu posso fazer pra mim um grande equipamento usando este replicador."}, {"op": "replace", "path": "/upgradeStages/2/itemSpawnParameters/description", "value": "O replicador é usado para produzir armas e armaduras de tecido e minérios."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription", "value": "Esta forja virá a calhar para a fabricação de equipamentos de metal."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription", "value": "Uma estação de fabricação dedicada à criação de equipamentos de metal."}, {"op": "replace", "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "^#b9b5b2;Armadura e armas"}, {"op": "replace", "path": "/upgradeStages/2/addonConfig/usesAddons/0/addonData/interactData/paneLayoutOverride/windowtitle/title", "value": "Mesa do Acelerador"}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription", "value": "Orgulhoso. Os Glitch criam todos os tipos de armas nessas bigornas. Eles até mesmo criam bigornas sobre estas bigornas."}, {"op": "replace", "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription", "value": "Neutro. Eu posso fazer equipamento e muito mais com isso."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription", "value": "Uma bigorna. Eu não sou um estranho para isso."}]
+[
+  {
+    "op": "replace",
+    "value": "Um grande laje de ferro com uma superfície plana.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um grande laje de ferro com uma superfície plana.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bigorna. Os humanos não têm utilizado isto desde o início de sua história.",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Provavelmente usada em metalurgia.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Provavelmente usada em metalurgia.",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Muito pesada, útil em uma armadilha.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Muito pesada, útil em uma armadilha.",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Armadura e armas",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Armadura e armas",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Armadura e armas",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bigorna. Eu não sou um estranho para isso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bigorna. Eu não sou um estranho para isso.",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bigorna. Os Apex não tem usado isto para metalurgia por um longo, longo tempo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bigorna. Os Apex não tem usado isto para metalurgia por um longo, longo tempo.",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Orgulhoso. Os Glitch criam todos os tipos de armas nessas bigornas. Eles até mesmo criam bigornas sobre estas bigornas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Orgulhoso. Os Glitch criam todos os tipos de armas nessas bigornas. Eles até mesmo criam bigornas sobre estas bigornas.",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mesa do Acelerador",
+    "path": "/upgradeStages/2/addonConfig/usesAddons/0/addonData/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Bigorna",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Forja",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Mesa do Manipulador",
+    "path": "/upgradeStages/2/addonConfig/usesAddons/2/addonData/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Replicador",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Mesa do Separador",
+    "path": "/upgradeStages/2/addonConfig/usesAddons/1/addonData/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estação de fabricação dedicada à criação de equipamentos de metal.",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma forja para criar equipamentos de metal.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma forja. Eu posso usar titânio e outros materiais aqui.",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um replicador. Eu posso criar equipamentos de alta qualidade com isso.",
+    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bigorna. Os humanos não têm utilizado isto desde o início de sua história.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. Eu posso fazer equipamento de titânio e mais aqui.",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran faz arma forte aqui.",
+    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran faz arma forte na essstação.",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso criar equipamentos super fortes a partir deste replicador.",
+    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso fazer pra mim um grande equipamento usando este replicador.",
+    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso transformar minérios em equipamentos de boa qualidade a partir daqui.",
+    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Eu posso fazer equipamento e muito mais com isso.",
+    "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta bigorna é usada para produzir armas e armaduras de tecido e minérios.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta bigorna é usada para produzir armas e armaduras de tecido e minérios.",
+    "path": "/upgradeStages/0/itemSpawnParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta forja é usada para produzir armas e armaduras de tecido e minérios.",
+    "path": "/upgradeStages/1/itemSpawnParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "O replicador é usado para produzir armas e armaduras de tecido e minérios.",
+    "path": "/upgradeStages/2/itemSpawnParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta forja me permite criar equipamentos de metal!",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta forja virá a calhar para a fabricação de equipamentos de metal.",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este replicador me permite criar equipamentos de alta qualidade a partir de materiais de boa qualidade.",
+    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Anvil^white;",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Anvil^white;",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Forge^white;",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Replicator^white;",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Flat Locker"}, {"op": "replace", "path": "/floranDescription", "value": "Armazenamento."}, {"op": "replace", "path": "/apexDescription", "value": "Um armário de armazenamento."}, {"op": "replace", "path": "/humanDescription", "value": "Não há fechadura neste armário..."}, {"op": "replace", "path": "/avianDescription", "value": "Uma caixa de metal, provavelmente construída para armazenamento."}, {"op": "replace", "path": "/hylotlDescription", "value": "Armazenamento útil."}, {"op": "replace", "path": "/description", "value": "Um armário com uma porta de metal."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Uma pequena quantidade de armazenamento na parede."}, {"op": "replace", "path": "/novakidDescription", "value": "Este armário na verdade não tranca."}]
+[
+  {
+    "op": "replace",
+    "value": "Armazenamento.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário com uma porta de metal.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Flat Locker",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de metal, provavelmente construída para armazenamento.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário de armazenamento.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Uma pequena quantidade de armazenamento na parede.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não há fechadura neste armário...",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este armário na verdade não tranca.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Armazenamento útil.",
+    "path": "/hylotlDescription"
+  }
+]

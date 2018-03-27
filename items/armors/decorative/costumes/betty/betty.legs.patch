@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Fique protegido com estas calças blindadas da moda."}, {"op": "replace", "path": "/shortdescription", "value": "Disguise Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Disguise Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fique protegido com estas calças blindadas da moda.",
+    "path": "/description"
+  }
+]

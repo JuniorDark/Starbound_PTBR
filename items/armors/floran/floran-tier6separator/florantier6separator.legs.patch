@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Estas calças reforçam o movimento do usuário, um chute de uma perna armadurada pode quebrar um osso."}, {"op": "replace", "path": "/shortdescription", "value": "Synthesizer's Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Synthesizer's Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas calças reforçam o movimento do usuário, um chute de uma perna armadurada pode quebrar um osso.",
+    "path": "/description"
+  }
+]

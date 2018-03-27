@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/description", "value": "Uma loja de conveniência intergaláctica. Parece um lugar ideal para se estocar."}, {"op": "replace", "path": "/shortdescription", "value": "Infinity Express"}, {"op": "replace", "path": "/avianDescription", "value": "Uma loja acessível. Vamos esperar que eles vendam o que eu quero."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Infinity Express"}, {"op": "replace", "path": "/floranDescription", "value": "Floran pode obter mercadorias em troca de pixelss brilhantess."}, {"op": "replace", "path": "/glitchDescription", "value": "Interessado. Um comerciante de algum tipo."}, {"op": "replace", "path": "/apexDescription", "value": "Uma loja. Vou ter certeza de comprar tudo o que preciso."}, {"op": "replace", "path": "/humanDescription", "value": "Espero que eles vendam refrigerantes gaseificados."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma loja. Talvez eu leve as suas mercadorias."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "^#b9b5b2;Combustível, lanches e diversos"}, {"op": "replace", "path": "/novakidDescription", "value": "Vou compra pra eu uma garrafa de suco de automato."}]
+[
+  {
+    "op": "replace",
+    "value": "Infinity Express",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Combustível, lanches e diversos",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Uma loja acessível. Vamos esperar que eles vendam o que eu quero.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma loja. Vou ter certeza de comprar tudo o que preciso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma loja. Talvez eu leve as suas mercadorias.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma loja de conveniência intergaláctica. Parece um lugar ideal para se estocar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran pode obter mercadorias em troca de pixelss brilhantess.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vou compra pra eu uma garrafa de suco de automato.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que eles vendam refrigerantes gaseificados.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Infinity Express",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Um comerciante de algum tipo.",
+    "path": "/glitchDescription"
+  }
+]

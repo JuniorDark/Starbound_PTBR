@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma deliciosa fusão de coco e chocolate em forma de donut."}, {"op": "replace", "path": "/shortdescription", "value": "Choconut"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma deliciosa fusão de coco e chocolate em forma de donut.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Choconut",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Carne."}, {"op": "replace", "path": "/description", "value": "Um glóbulo de carne."}, {"op": "replace", "path": "/shortdescription", "value": "Um glóbulo de carne."}, {"op": "replace", "path": "/glitchDescription", "value": "Desgosto. Um glóbulo de carne."}]
+[
+  {
+    "op": "replace",
+    "value": "Um glóbulo de carne.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um glóbulo de carne.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Carne.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desgosto. Um glóbulo de carne.",
+    "path": "/glitchDescription"
+  }
+]

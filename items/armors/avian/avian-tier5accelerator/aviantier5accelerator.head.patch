@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Peacock Headdress"}, {"op": "replace", "path": "/description", "value": "Um cocar ostensivo banhado a aegisalt usado por guerreiros Avian qualificados."}]
+[
+  {
+    "op": "replace",
+    "value": "Um cocar ostensivo banhado a aegisalt usado por guerreiros Avian qualificados.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Peacock Headdress",
+    "path": "/shortdescription"
+  }
+]

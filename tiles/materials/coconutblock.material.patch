@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Surpreso. O componente principal desses tijolos são cocos."}, {"op": "replace", "path": "/shortdescription", "value": "Coconut Block"}, {"op": "replace", "path": "/description", "value": "Tijolos feitos de coco e argamassa."}, {"op": "replace", "path": "/floranDescription", "value": "Cocoss são tijoloss fortess."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu acho que esses tijolos de coco são fortíssimos."}]
+[
+  {
+    "op": "replace",
+    "value": "Tijolos feitos de coco e argamassa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Coconut Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cocoss são tijoloss fortess.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu acho que esses tijolos de coco são fortíssimos.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. O componente principal desses tijolos são cocos.",
+    "path": "/glitchDescription"
+  }
+]

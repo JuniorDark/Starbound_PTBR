@@ -1,22 +1,27 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Painéis de metal robustos que enferrujaram com o tempo."
+    "value": "Ansioso. Tenho certeza que com alguma graxa de cotovelo, este painel de metal pode ser limpo.",
+    "path": "/glitchdescription"
   },
   {
     "op": "replace",
-    "path": "/glitchdescription",
-    "value": "Ansioso. Tenho certeza que com alguma graxa de cotovelo, este painel de metal pode ser limpo."
+    "value": "Floran quer fazer lançasss de metal enferrujado.",
+    "path": "/florandescription"
   },
   {
     "op": "replace",
-    "path": "/florandescription",
-    "value": "Floran quer fazer lançasss de metal enferrujado."
+    "value": "Rusty Panel",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/novakiddescription",
-    "value": "Alguns painéis metálicos velhos cobertos de ferrugem."
+    "value": "Alguns painéis metálicos velhos cobertos de ferrugem.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Painéis de metal resistentes que enferrujaram com o tempo.",
+    "path": "/description"
   }
 ]

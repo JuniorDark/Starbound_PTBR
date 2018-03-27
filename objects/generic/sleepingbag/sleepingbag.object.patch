@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Não vai me dar a melhor noite de sono, mas vai servir com uma emergência pequena."}, {"op": "replace", "path": "/description", "value": "É um saco de dormir. Não é o mais confortável, mas vai servir."}, {"op": "replace", "path": "/floranDescription", "value": "Floran não gosta de dormir em sssaco."}, {"op": "replace", "path": "/glitchDescription", "value": "Sarcasmo. Oh, que maravilha."}, {"op": "replace", "path": "/apexDescription", "value": "Apex rebeldes passam muitas noites dormindo nestes."}, {"op": "replace", "path": "/humanDescription", "value": "Um saco de dormir. Boa proteção contra os elementos em uma emergência pequena."}, {"op": "replace", "path": "/avianDescription", "value": "Dormir aqui seria desconfortável nas penas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Isso funciona debaixo d'água?"}, {"op": "replace", "path": "/shortdescription", "value": "Blue Sleeping Bag"}]
+[
+  {
+    "op": "replace",
+    "value": "Um saco de dormir. Boa proteção contra os elementos em uma emergência pequena.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso funciona debaixo d'água?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não gosta de dormir em sssaco.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não vai me dar a melhor noite de sono, mas vai servir com uma emergência pequena.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um saco de dormir. Não é o mais confortável, mas vai servir.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Apex rebeldes passam muitas noites dormindo nestes.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sarcasmo. Oh, que maravilha.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dormir aqui seria desconfortável nas penas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Blue Sleeping Bag",
+    "path": "/shortdescription"
+  }
+]

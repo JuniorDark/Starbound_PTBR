@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Um pinguim em um prisma. Onde é que se começa a desvendar este mistério?"}, {"op": "replace", "path": "/description", "value": "Um prisma altamente refractivo. Parece haver algo dentro."}, {"op": "replace", "path": "/shortdescription", "value": "Prism Crystal"}, {"op": "replace", "path": "/floranDescription", "value": "Tem algo dentro da rocha! Floran quer esmagar rocha!"}, {"op": "replace", "path": "/apexDescription", "value": "Isso é um pinguim?"}, {"op": "replace", "path": "/avianDescription", "value": "Há um pinguim dentro deste cristal."}, {"op": "replace", "path": "/glitchDescription", "value": "Perplexo. Como poderia um pinguim possivelmente estar dentro desse prisma?"}, {"op": "replace", "path": "/humanDescription", "value": "Um pinguim petrificado."}, {"op": "replace", "path": "/novakidDescription", "value": "Olá, amiguinho."}]
+[
+  {
+    "op": "replace",
+    "value": "Um pinguim em um prisma. Onde é que se começa a desvendar este mistério?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pinguim petrificado.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Olá, amiguinho.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é um pinguim?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perplexo. Como poderia um pinguim possivelmente estar dentro desse prisma?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tem algo dentro da rocha! Floran quer esmagar rocha!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há um pinguim dentro deste cristal.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um prisma altamente refractivo. Parece haver algo dentro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Prism Crystal",
+    "path": "/shortdescription"
+  }
+]

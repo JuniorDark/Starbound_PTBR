@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Uma caixa de papelão. Às vezes soluções simples são as mais eficazes."}, {"op": "replace", "path": "/floranDescription", "value": "Caixass de papelão para armazenamento."}, {"op": "replace", "path": "/novakidDescription", "value": "Apenas uma caixa de papelão para guardar coisas."}, {"op": "replace", "path": "/glitchDescription", "value": "Surpreso. Esta caixa de papelão é excepcionalmente durável, quase tudo pode ser armazenado dentro."}, {"op": "replace", "path": "/apexDescription", "value": "Esta caixa de papelão pode ser empilhada como uma solução de armazenamento eficiente."}, {"op": "replace", "path": "/humanDescription", "value": "Uma caixa de papelão. Útil para guardar as coisas."}, {"op": "replace", "path": "/description", "value": "Uma caixa de papelão simples."}, {"op": "replace", "path": "/shortdescription", "value": "Cardboard Box"}, {"op": "replace", "path": "/avianDescription", "value": "Uma caixa de papelão. Quase qualquer coisa poderia estar dentro."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma caixa de papelão. Quase qualquer coisa poderia estar dentro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de papelão. Às vezes soluções simples são as mais eficazes.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de papelão simples.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cardboard Box",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Caixass de papelão para armazenamento.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas uma caixa de papelão para guardar coisas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Esta caixa de papelão é excepcionalmente durável, quase tudo pode ser armazenado dentro.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta caixa de papelão pode ser empilhada como uma solução de armazenamento eficiente.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de papelão. Útil para guardar as coisas.",
+    "path": "/humanDescription"
+  }
+]

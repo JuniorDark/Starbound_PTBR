@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Peixe assado com frutos do mar."}, {"op": "replace", "path": "/shortdescription", "value": "Seafood Gratin"}]
+[
+  {
+    "op": "replace",
+    "value": "Peixe assado com frutos do mar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Seafood Gratin",
+    "path": "/shortdescription"
+  }
+]

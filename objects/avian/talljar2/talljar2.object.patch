@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Isso parece algo que fiz na aula de cerâmica. Eu deveria esmagá-lo."}, {"op": "replace", "path": "/shortdescription", "value": "Crude Pot"}, {"op": "replace", "path": "/floranDescription", "value": "Floran esmaga muitos potes."}, {"op": "replace", "path": "/glitchDescription", "value": "Pensativo. Para esmagar ou não esmagar?"}, {"op": "replace", "path": "/apexDescription", "value": "Um pote alto. Pode conter suprimentos."}, {"op": "replace", "path": "/humanDescription", "value": "Outro dia, outro pote para esmagar."}, {"op": "replace", "path": "/avianDescription", "value": "Um pote alto, nada especial."}, {"op": "replace", "path": "/hylotlDescription", "value": "Estes potes me tornaram um indivíduo muito mais agressivo."}, {"op": "replace", "path": "/novakidDescription", "value": "Tenho que esmagar isso para descobrir o que está dentro."}]
+[
+  {
+    "op": "replace",
+    "value": "Outro dia, outro pote para esmagar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran esmaga muitos potes.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tenho que esmagar isso para descobrir o que está dentro.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes potes me tornaram um indivíduo muito mais agressivo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pensativo. Para esmagar ou não esmagar?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pote alto, nada especial.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pote alto. Pode conter suprimentos.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Crude Pot",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso parece algo que fiz na aula de cerâmica. Eu deveria esmagá-lo.",
+    "path": "/description"
+  }
+]

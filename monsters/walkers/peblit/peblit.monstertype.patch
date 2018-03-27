@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Por causa do tamanho de sua cabeça em proporção ao seu corpo, ele não pode correr longas distâncias."}, {"op": "replace", "path": "/shortdescription", "value": "Peblit"}]
+[
+  {
+    "op": "replace",
+    "value": "Peblit",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Por causa do tamanho de sua cabeça em proporção ao seu corpo, ele não pode correr longas distâncias.",
+    "path": "/description"
+  }
+]

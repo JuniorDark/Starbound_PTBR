@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma placa de fliperama. Há provavelmente um fliperama nas proximidades."}, {"op": "replace", "path": "/floranDescription", "value": "Fliperama! Floran gossta de ganhar!"}, {"op": "replace", "path": "/glitchDescription", "value": "Encantado. Um fliperama!"}, {"op": "replace", "path": "/apexDescription", "value": "Um fliperama!"}, {"op": "replace", "path": "/humanDescription", "value": "Eu amo fliperamas! Leve todo o meu dinheiro!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Hmm, faz tempo desde a minha última ida a um fliperama. Poderia ser divertido!"}, {"op": "replace", "path": "/novakidDescription", "value": "Um fliperama?"}, {"op": "replace", "path": "/shortdescription", "value": "Arcade Sign"}, {"op": "replace", "path": "/avianDescription", "value": "Um fliperama. Alegre!"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma placa de fliperama. Há provavelmente um fliperama nas proximidades.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um fliperama!",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um fliperama. Alegre!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um fliperama?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Arcade Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fliperama! Floran gossta de ganhar!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Um fliperama!",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hmm, faz tempo desde a minha última ida a um fliperama. Poderia ser divertido!",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu amo fliperamas! Leve todo o meu dinheiro!",
+    "path": "/humanDescription"
+  }
+]

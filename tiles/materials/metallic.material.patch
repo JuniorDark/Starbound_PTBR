@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Isso parece tecnologia de última geração!"}, {"op": "replace", "path": "/shortdescription", "value": "Hi-tech Block"}, {"op": "replace", "path": "/floranDescription", "value": "Blocoss de computador futurista."}, {"op": "replace", "path": "/novakidDescription", "value": "Alguns blocos de alta tecnologia chamativos."}, {"op": "replace", "path": "/glitchDescription", "value": "Interessado. A tecnologia dentro desses blocos é desconhecida para mim."}]
+[
+  {
+    "op": "replace",
+    "value": "Blocoss de computador futurista.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hi-tech Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. A tecnologia dentro desses blocos é desconhecida para mim.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns blocos de alta tecnologia chamativos.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso parece tecnologia de última geração!",
+    "path": "/description"
+  }
+]

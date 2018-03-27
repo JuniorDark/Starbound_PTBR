@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um estranho pedaço de nave. Parece que pode servir para um propósito, mas quem realmente sabe?"
+    "value": "Um estranho pedaço de nave. Parece que pode servir para um propósito, mas quem realmente sabe?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ship Greeble 2",
+    "path": "/shortdescription"
   }
 ]

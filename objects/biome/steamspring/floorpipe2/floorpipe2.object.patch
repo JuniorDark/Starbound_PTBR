@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Esstrutura de cano esstranha."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Que belo cano."}, {"op": "replace", "path": "/apexDescription", "value": "Este cano parece resistente."}, {"op": "replace", "path": "/humanDescription", "value": "Estes sopros de fumaça cheira esquisito."}, {"op": "replace", "path": "/description", "value": "Um cano que sai do chão."}, {"op": "replace", "path": "/shortdescription", "value": "Floor Pipe"}, {"op": "replace", "path": "/avianDescription", "value": "Me pergunto quem construiu este cano."}, {"op": "replace", "path": "/hylotlDescription", "value": "Como nuvens fugindo de captação."}, {"op": "replace", "path": "/novakidDescription", "value": "Este cano solta fumaça como uma chaminé."}]
+[
+  {
+    "op": "replace",
+    "value": "Um cano que sai do chão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floor Pipe",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me pergunto quem construiu este cano.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Que belo cano.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Como nuvens fugindo de captação.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esstrutura de cano esstranha.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes sopros de fumaça cheira esquisito.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este cano parece resistente.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este cano solta fumaça como uma chaminé.",
+    "path": "/novakidDescription"
+  }
+]

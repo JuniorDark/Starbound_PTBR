@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Afirmação. Vidro."}, {"op": "replace", "path": "/shortdescription", "value": "Glass Block"}, {"op": "replace", "path": "/description", "value": "Eu posso ver meu reflexo... é medonho!"}, {"op": "replace", "path": "/floranDescription", "value": "Floran fica bonito no vidro."}]
+[
+  {
+    "op": "replace",
+    "value": "Glass Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran fica bonito no vidro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso ver meu reflexo... é medonho!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Afirmação. Vidro.",
+    "path": "/glitchDescription"
+  }
+]

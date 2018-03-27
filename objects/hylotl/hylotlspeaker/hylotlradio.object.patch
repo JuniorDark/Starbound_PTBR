@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Alegre. Este rádio velho está tocando música calmante."}, {"op": "replace", "path": "/description", "value": "Um rádio velho, ele ainda toca música."}, {"op": "replace", "path": "/shortdescription", "value": "Traditional Radio"}, {"op": "replace", "path": "/floranDescription", "value": "Caixa de musssica antiga assustadora."}, {"op": "replace", "path": "/humanDescription", "value": "Este rádio cria uma atmosfera antiga."}, {"op": "replace", "path": "/novakidDescription", "value": "O rádio toca uma música bonita."}, {"op": "replace", "path": "/avianDescription", "value": "A melodia vinda deste rádio velho parece um tanto triste."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um rádio antigo, uma linda lembrança do passado."}, {"op": "replace", "path": "/apexDescription", "value": "Estou impressionado por esse rádio ainda funcionar."}]
+[
+  {
+    "op": "replace",
+    "value": "Um rádio antigo, uma linda lembrança do passado.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um rádio velho, ele ainda toca música.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Caixa de musssica antiga assustadora.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estou impressionado por esse rádio ainda funcionar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alegre. Este rádio velho está tocando música calmante.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A melodia vinda deste rádio velho parece um tanto triste.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O rádio toca uma música bonita.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este rádio cria uma atmosfera antiga.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Traditional Radio",
+    "path": "/shortdescription"
+  }
+]

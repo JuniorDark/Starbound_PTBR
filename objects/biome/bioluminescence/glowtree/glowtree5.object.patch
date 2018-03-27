@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma árvore brilhante. É linda, mas um pouco estranha."}, {"op": "replace", "path": "/shortdescription", "value": "Glow Tree"}, {"op": "replace", "path": "/floranDescription", "value": "Árvore brilhante torna a caça a noite ruim."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Que processo bioquímico alimenta esta luminescência?"}, {"op": "replace", "path": "/apexDescription", "value": "De alguma forma, duvido que essas frutas brilhantes sejam comestíveis."}, {"op": "replace", "path": "/humanDescription", "value": "Árvores brilhantes? Que conveniente!"}, {"op": "replace", "path": "/avianDescription", "value": "Essas árvores simplesmente armazenam luz solar, ou geram sua própria luz?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta árvore brilha como se fosse habitada por um espírito solitário."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta árvore vem com suas próprias lanternas."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma árvore brilhante. É linda, mas um pouco estranha.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Glow Tree",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Árvore brilhante torna a caça a noite ruim.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Que processo bioquímico alimenta esta luminescência?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas árvores simplesmente armazenam luz solar, ou geram sua própria luz?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Árvores brilhantes? Que conveniente!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "De alguma forma, duvido que essas frutas brilhantes sejam comestíveis.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta árvore vem com suas próprias lanternas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta árvore brilha como se fosse habitada por um espírito solitário.",
+    "path": "/hylotlDescription"
+  }
+]

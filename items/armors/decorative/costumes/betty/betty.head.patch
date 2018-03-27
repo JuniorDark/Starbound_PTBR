@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma máscara, para manter a identidade do utilizador escondida."}, {"op": "replace", "path": "/shortdescription", "value": "Disguise Mask"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma máscara, para manter a identidade do utilizador escondida.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Disguise Mask",
+    "path": "/shortdescription"
+  }
+]

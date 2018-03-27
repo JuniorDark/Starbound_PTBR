@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "É ainda mais desconfortável do que parece. E parece muito desconfortável."}, {"op": "replace", "path": "/humanDescription", "value": "Uma cadeira de escritório com rodas. Gostaria de saber quantas pessoas ainda usam estas?"}, {"op": "replace", "path": "/apexDescription", "value": "Uma cadeira básica usada por trabalhadores de escritório, é desconfortável por design."}, {"op": "replace", "path": "/description", "value": "Uma cadeira de escritório edição padrão."}, {"op": "replace", "path": "/shortdescription", "value": "Office Chair"}, {"op": "replace", "path": "/floranDescription", "value": "O couro cheira gostoso."}, {"op": "replace", "path": "/glitchDescription", "value": "Não impressionado. Ergonomia inaceitável."}, {"op": "replace", "path": "/avianDescription", "value": "Que diabo é isto, uma cadeira com rodas?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma cadeira desconfortável, qualquer quantidade de uso prolongado causaria dor."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira básica usada por trabalhadores de escritório, é desconfortável por design.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira de escritório com rodas. Gostaria de saber quantas pessoas ainda usam estas?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira de escritório edição padrão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira desconfortável, qualquer quantidade de uso prolongado causaria dor.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É ainda mais desconfortável do que parece. E parece muito desconfortável.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Office Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O couro cheira gostoso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não impressionado. Ergonomia inaceitável.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que diabo é isto, uma cadeira com rodas?",
+    "path": "/avianDescription"
+  }
+]

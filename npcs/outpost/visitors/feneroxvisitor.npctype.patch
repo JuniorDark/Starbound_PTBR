@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/3", "value": "Estranho amigável. Não pode conversar. Entregando recados!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Apenas visitando. Precisa de suprimentos. Não pode conversar!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/1", "value": "Nova pessoa. Não posso ficar. Só visitando!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/2", "value": "Posto Avançado frio. Pastagens quente. Apenas dizendo!"}]
+[
+  {
+    "op": "replace",
+    "value": "Estranho amigável. Não pode conversar. Entregando recados!",
+    "path": "/scriptConfig/dialog/converse/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas visitando. Precisa de suprimentos. Não pode conversar!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Nova pessoa. Não posso ficar. Só visitando!",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Posto Avançado frio. Pastagens quente. Apenas dizendo!",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  }
+]

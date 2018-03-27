@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Eu sempre gosto de interagir com as plantas."}, {"op": "replace", "path": "/description", "value": "Gere seu próprio aldeão Floran!"}, {"op": "replace", "path": "/shortdescription", "value": "Floran Spawner"}, {"op": "replace", "path": "/floranDescription", "value": "Floran invoca casulo-Kin! Sim!"}, {"op": "replace", "path": "/apexDescription", "value": "Gerar Florans pode ser um desastre."}, {"op": "replace", "path": "/humanDescription", "value": "Vamos pegar alguns Florans aqui e começar a festa!"}, {"op": "replace", "path": "/avianDescription", "value": "Não tenho certeza se quero gerar Florans."}, {"op": "replace", "path": "/hylotlDescription", "value": "Invocar alguns Florans seria uma péssima ideia."}]
+[
+  {
+    "op": "replace",
+    "value": "Floran Spawner",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran invoca casulo-Kin! Sim!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não tenho certeza se quero gerar Florans.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos pegar alguns Florans aqui e começar a festa!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Eu sempre gosto de interagir com as plantas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gere seu próprio aldeão Floran!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Gerar Florans pode ser um desastre.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Invocar alguns Florans seria uma péssima ideia.",
+    "path": "/hylotlDescription"
+  }
+]

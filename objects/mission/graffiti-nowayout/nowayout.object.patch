@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um aviso em graffiti."}, {"op": "replace", "path": "/shortdescription", "value": "nowayout"}, {"op": "replace", "path": "/floranDescription", "value": "Floran sssabe."}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. Se este graffiti é verdadeiro eu estou em apuros."}, {"op": "replace", "path": "/apexDescription", "value": "Hmm, eu confio em algo escrito em graffiti?"}, {"op": "replace", "path": "/humanDescription", "value": "Quem já acreditou em algo que leu na parede?"}, {"op": "replace", "path": "/avianDescription", "value": "Mas e se não for uma mentira?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Quem já acreditou em algo que leu na parede?"}, {"op": "replace", "path": "/novakidDescription", "value": "Hmm isso é real?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um aviso em graffiti.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Mas e se não for uma mentira?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran sssabe.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hmm isso é real?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hmm, eu confio em algo escrito em graffiti?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quem já acreditou em algo que leu na parede?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quem já acreditou em algo que leu na parede?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Se este graffiti é verdadeiro eu estou em apuros.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "nowayout",
+    "path": "/shortdescription"
+  }
+]

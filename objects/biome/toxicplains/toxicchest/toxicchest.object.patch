@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "É um baú estranho. Eu provavelmente não deveria tocá-lo mais do que eu preciso."}, {"op": "replace", "path": "/apexDescription", "value": "Eu não tenho certeza se tocar este baú valeria a pena."}, {"op": "replace", "path": "/humanDescription", "value": "Este baú parece muito tóxico."}, {"op": "replace", "path": "/avianDescription", "value": "Este peito parece altamente contaminado."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um baú grotesco..."}, {"op": "replace", "path": "/description", "value": "Um baú tóxico."}, {"op": "replace", "path": "/shortdescription", "value": "Toxic Chest"}, {"op": "replace", "path": "/floranDescription", "value": "Baú cheira tóxico."}, {"op": "replace", "path": "/glitchDescription", "value": "Suspeito. Este baú esta provavelmente envenenado do seu entorno."}]
+[
+  {
+    "op": "replace",
+    "value": "Um baú grotesco...",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú tóxico.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Baú cheira tóxico.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não tenho certeza se tocar este baú valeria a pena.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um baú estranho. Eu provavelmente não deveria tocá-lo mais do que eu preciso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Suspeito. Este baú esta provavelmente envenenado do seu entorno.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este peito parece altamente contaminado.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este baú parece muito tóxico.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Toxic Chest",
+    "path": "/shortdescription"
+  }
+]

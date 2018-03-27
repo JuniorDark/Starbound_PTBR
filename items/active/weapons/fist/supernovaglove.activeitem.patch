@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Supernova Gauntlet"}, {"op": "replace", "path": "/description", "value": "Manoplas imbuída com o poder de uma supernova."}]
+[
+  {
+    "op": "replace",
+    "value": "Manoplas imbuída com o poder de uma supernova.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Supernova Gauntlet",
+    "path": "/shortdescription"
+  }
+]

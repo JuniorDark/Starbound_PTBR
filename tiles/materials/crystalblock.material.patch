@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Bloco brilhante feito de cristaiss."}, {"op": "replace", "path": "/shortdescription", "value": "Crystal Block"}, {"op": "replace", "path": "/description", "value": "Um bloco cintilante feito de cristais."}, {"op": "replace", "path": "/glitchDescription", "value": "Calmo. Este bloco de cristal tem uma aparência suave."}, {"op": "replace", "path": "/novakidDescription", "value": "Os cristais neste bloco são realmente bonitos."}]
+[
+  {
+    "op": "replace",
+    "value": "Um bloco cintilante feito de cristais.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Calmo. Este bloco de cristal tem uma aparência suave.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Crystal Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bloco brilhante feito de cristaiss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os cristais neste bloco são realmente bonitos.",
+    "path": "/novakidDescription"
+  }
+]

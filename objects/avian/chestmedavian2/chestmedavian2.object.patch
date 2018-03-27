@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Um baú forte, o que há dentro?"}, {"op": "replace", "path": "/humanDescription", "value": "Um baú resistente é sempre uma visão bem-vinda."}, {"op": "replace", "path": "/avianDescription", "value": "Estes baús são construídos indecorados mas forte, para proteger o conteúdo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um grande baú, parece que ele poderia guardar muito."}, {"op": "replace", "path": "/description", "value": "Um grande baú velho, feito de madeira e ferro."}, {"op": "replace", "path": "/shortdescription", "value": "Large Old Chest"}, {"op": "replace", "path": "/floranDescription", "value": "Um baú grande! Talvez tenha comida dentro."}, {"op": "replace", "path": "/glitchDescription", "value": "Ansioso. Sem tempo a perder, pode haver objetos de valor dentro!"}, {"op": "replace", "path": "/novakidDescription", "value": "Eu poderia encontrar muitas coisas em um baú velho como este."}]
+[
+  {
+    "op": "replace",
+    "value": "Um baú grande! Talvez tenha comida dentro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um grande baú, parece que ele poderia guardar muito.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um grande baú velho, feito de madeira e ferro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú forte, o que há dentro?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú resistente é sempre uma visão bem-vinda.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. Sem tempo a perder, pode haver objetos de valor dentro!",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu poderia encontrar muitas coisas em um baú velho como este.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Large Old Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes baús são construídos indecorados mas forte, para proteger o conteúdo.",
+    "path": "/avianDescription"
+  }
+]

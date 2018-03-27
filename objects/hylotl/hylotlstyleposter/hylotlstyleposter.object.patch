@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um cartaz para um filme impopular Hylotl \"Garra do Medo\"."}, {"op": "replace", "path": "/humanDescription", "value": "É um anúncio para um terrível filme Hylotl. Foi um fracasso."}, {"op": "replace", "path": "/shortdescription", "value": "Comedy Movie Poster"}, {"op": "replace", "path": "/floranDescription", "value": "Cartaz para filme Hylotl bobo."}, {"op": "replace", "path": "/glitchDescription", "value": "Divertido. Este foi um filme terrível."}, {"op": "replace", "path": "/apexDescription", "value": "Este é um anúncio para uma loja de roupas?"}, {"op": "replace", "path": "/avianDescription", "value": "Já vi este emblema antes em algum lugar..."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esquecível e não engraçado, eu não sou um fã deste filme."}, {"op": "replace", "path": "/novakidDescription", "value": "Um filme sobre um bandido de garras, esqueci o nome."}]
+[
+  {
+    "op": "replace",
+    "value": "Um cartaz para um filme impopular Hylotl \"Garra do Medo\".",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Divertido. Este foi um filme terrível.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Comedy Movie Poster",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esquecível e não engraçado, eu não sou um fã deste filme.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Já vi este emblema antes em algum lugar...",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este é um anúncio para uma loja de roupas?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um anúncio para um terrível filme Hylotl. Foi um fracasso.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cartaz para filme Hylotl bobo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um filme sobre um bandido de garras, esqueci o nome.",
+    "path": "/novakidDescription"
+  }
+]

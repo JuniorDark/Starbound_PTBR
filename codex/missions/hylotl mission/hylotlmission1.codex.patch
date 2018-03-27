@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "O diário privado da líder do culto Occasus."}, {"op": "replace", "path": "/title", "value": "Diário de Nox"}, {"op": "replace", "path": "/contentPages/0", "value": "O universo é nosso por direito, pertence aos humanos - os membros da Occasus podem não entender muito bem, mas pelo menos compreendem isso.\n\nEles exaltam na sua retórica da supremacia e correr por aí espalhando o ódio deles, mas eles não podem simplesmente penetrar a origem do que está acontecendo aqui.\n\nAinda assim, melhor um exército de idiotas do que nenhum exército."}, {"op": "replace", "path": "/contentPages/1", "value": "Esther iria entender, se ela só pudesse ver além de suas imaginações falhas As pessoas têm uma maneira de deixar suas próprias agendas os cegarem.\n\nEla é uma tola confusa; obcecada com união e harmonia, e completamente incapaz de ver o que está bem na frente dela. Ela vai aprender - meu velho professor vai aprender. Ela é um inseto no caminho de uma avalanche."}]
+[
+  {
+    "op": "replace",
+    "value": "Esther iria entender, se ela só pudesse ver além de suas imaginações falhas As pessoas têm uma maneira de deixar suas próprias agendas os cegarem.\n\nEla é uma tola confusa; obcecada com união e harmonia, e completamente incapaz de ver o que está bem na frente dela. Ela vai aprender - meu velho professor vai aprender. Ela é um inseto no caminho de uma avalanche.",
+    "path": "/contentPages/1"
+  },
+  {
+    "op": "replace",
+    "value": "Diário de Nox",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "O diário privado da líder do culto Occasus.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "O universo é nosso por direito, pertence aos humanos - os membros da Occasus podem não entender muito bem, mas pelo menos compreendem isso.\n\nEles exaltam na sua retórica da supremacia e correr por aí espalhando o ódio deles, mas eles não podem simplesmente penetrar a origem do que está acontecendo aqui.\n\nAinda assim, melhor um exército de idiotas do que nenhum exército.",
+    "path": "/contentPages/0"
+  }
+]

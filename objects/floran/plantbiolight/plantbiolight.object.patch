@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "A natureza pode provocar tal reverência."}, {"op": "replace", "path": "/description", "value": "Esta luz orgânica pisca suavemente."}, {"op": "replace", "path": "/shortdescription", "value": "Organic Biolight"}, {"op": "replace", "path": "/glitchDescription", "value": "Fascinado. Essas plantas brilhantes parecem emitir luz natural."}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de luzess de planta."}, {"op": "replace", "path": "/apexDescription", "value": "Uma pequena planta brilhante."}, {"op": "replace", "path": "/avianDescription", "value": "Uma planta brilhante deliciosamente macia."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta planta está liberando um brilho!"}, {"op": "replace", "path": "/humanDescription", "value": "Uma planta brilhante, é muito útil cultivar suas próprias luzes."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma planta brilhante deliciosamente macia.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta brilhante, é muito útil cultivar suas próprias luzes.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pequena planta brilhante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fascinado. Essas plantas brilhantes parecem emitir luz natural.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de luzess de planta.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A natureza pode provocar tal reverência.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Organic Biolight",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz orgânica pisca suavemente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta planta está liberando um brilho!",
+    "path": "/novakidDescription"
+  }
+]

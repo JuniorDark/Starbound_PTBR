@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Os diferentes materiais se reúnem de forma esteticamente agradável."}, {"op": "replace", "path": "/description", "value": "Uma porta de madeira, estampada com um emblema de ferro em ambos os lados."}, {"op": "replace", "path": "/shortdescription", "value": "Frontier Door"}, {"op": "replace", "path": "/floranDescription", "value": "Esta porta é sseca e velha."}, {"op": "replace", "path": "/apexDescription", "value": "Esta porta de madeira tem um símbolo grande e estranho nela."}, {"op": "replace", "path": "/humanDescription", "value": "Esta porta tem uma maçaneta muito brilhante. Eu gosto disso!"}, {"op": "replace", "path": "/avianDescription", "value": "Me pergunto se o emblema desta porta tem significado."}, {"op": "replace", "path": "/hylotlDescription", "value": "O símbolo nesta porta não me é familiar."}, {"op": "replace", "path": "/novakidDescription", "value": "Não é raro ver portas como esta em um edifício de fronteira."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta de madeira, estampada com um emblema de ferro em ambos os lados.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Não é raro ver portas como esta em um edifício de fronteira.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Frontier Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me pergunto se o emblema desta porta tem significado.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Os diferentes materiais se reúnem de forma esteticamente agradável.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O símbolo nesta porta não me é familiar.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta tem uma maçaneta muito brilhante. Eu gosto disso!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta de madeira tem um símbolo grande e estranho nela.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta é sseca e velha.",
+    "path": "/floranDescription"
+  }
+]

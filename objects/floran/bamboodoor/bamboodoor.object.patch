@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Esta porta é forte e de origem sustentável."}, {"op": "replace", "path": "/floranDescription", "value": "Bambu Floran é forte como metal."}, {"op": "replace", "path": "/apexDescription", "value": "Bambu tecido em uma porta. É mais dura do que parece."}, {"op": "replace", "path": "/humanDescription", "value": "Esta porta tem pequenas lacunas onde as varas de bambu se encontram. Eu posso ver através!"}, {"op": "replace", "path": "/novakidDescription", "value": "O bom e velho bambu, aço da natureza."}, {"op": "replace", "path": "/shortdescription", "value": "Bamboo Door"}, {"op": "replace", "path": "/avianDescription", "value": "A planta usada para fazer esta porta é tão sólida como pedra."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os Floran parecem ser capazes de dobrar a natureza à sua vontade. Não é pouca coisa."}, {"op": "replace", "path": "/glitchDescription", "value": "Surpreso. Esta porta é feita de material orgânico, mas é tão forte como o aço."}]
+[
+  {
+    "op": "replace",
+    "value": "Bambu tecido em uma porta. É mais dura do que parece.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bambu Floran é forte como metal.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O bom e velho bambu, aço da natureza.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Esta porta é feita de material orgânico, mas é tão forte como o aço.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta tem pequenas lacunas onde as varas de bambu se encontram. Eu posso ver através!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta é forte e de origem sustentável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bamboo Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Floran parecem poder dobrar a natureza à sua vontade.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A planta usada para fazer esta porta é tão sólida como pedra.",
+    "path": "/avianDescription"
+  }
+]

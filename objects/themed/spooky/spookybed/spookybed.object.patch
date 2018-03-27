@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Há algo escondido debaixo disto?"}, {"op": "replace", "path": "/description", "value": "Há algo perturbador nesta cama velha e chique."}, {"op": "replace", "path": "/avianDescription", "value": "Há algo errado com esta cama, eu posso sentir..."}, {"op": "replace", "path": "/hylotlDescription", "value": "Eu teria que estar desesperado para dormir em algo assim."}, {"op": "replace", "path": "/shortdescription", "value": "Spooky Bed"}, {"op": "replace", "path": "/floranDescription", "value": "Floran nervoso em dormir aqui..."}, {"op": "replace", "path": "/glitchDescription", "value": "Nervoso. Há algo malévolo nesta mobília."}, {"op": "replace", "path": "/apexDescription", "value": "Eu tenho um mau pressentimento sobre esta cama..."}, {"op": "replace", "path": "/humanDescription", "value": "Por que dormir, quando você pode ficar congelado acordado de terror?"}]
+[
+  {
+    "op": "replace",
+    "value": "Spooky Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran nervoso em dormir aqui...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu tenho um mau pressentimento sobre esta cama...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu teria que estar desesperado para dormir em algo assim.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há algo escondido debaixo disto?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nervoso. Há algo malévolo nesta mobília.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há algo errado com esta cama, eu posso sentir...",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há algo perturbador nesta cama velha e chique.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Por que dormir, quando você pode ficar congelado acordado de terror?",
+    "path": "/humanDescription"
+  }
+]

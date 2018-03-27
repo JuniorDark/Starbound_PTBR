@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Quebrar uma urna de qualquer tipo é dito trazer má sorte. Tenho medo de pensar que destino vem de quebrar isso."}, {"op": "replace", "path": "/glitchDescription", "value": "Destrutivo. Eu acredito que pode haver algo ainda mais escuro dentro."}, {"op": "replace", "path": "/description", "value": "Um vaso escuro. Parece bem quebrável."}, {"op": "replace", "path": "/shortdescription", "value": "Medium Shadow Urn"}, {"op": "replace", "path": "/apexDescription", "value": "Acho que ouvi algo lá dentro..."}, {"op": "replace", "path": "/avianDescription", "value": "Esta urna parece amaldiçoada..."}, {"op": "replace", "path": "/humanDescription", "value": "Estou quase com medo de esmagar esta urna assustadora."}, {"op": "replace", "path": "/floranDescription", "value": "Esmagá-la e arrancar suas entranhas escuras!"}, {"op": "replace", "path": "/novakidDescription", "value": "Urnas assim são melhor deixadas em paz."}]
+[
+  {
+    "op": "replace",
+    "value": "Quebrar uma urna de qualquer tipo é dito trazer má sorte. Tenho medo de pensar que destino vem de quebrar isso.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Destrutivo. Eu acredito que pode haver algo ainda mais escuro dentro.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Acho que ouvi algo lá dentro...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estou quase com medo de esmagar esta urna assustadora.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esmagá-la e arrancar suas entranhas escuras!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta urna parece amaldiçoada...",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Urnas assim são melhor deixadas em paz.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um vaso escuro. Parece bem quebrável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Medium Shadow Urn",
+    "path": "/shortdescription"
+  }
+]

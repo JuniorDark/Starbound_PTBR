@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Uma geladeira. Idealmente cheia com drinques e lanches."}, {"op": "replace", "path": "/humanDescription", "value": "Estou praticamente vibrando com entusiasmo pensando sobre o possível conteúdo."}, {"op": "replace", "path": "/apexDescription", "value": "Uma geladeira. Espero que ela contenha milkshake de banana."}, {"op": "replace", "path": "/description", "value": "Perfeita para armazenar um monte de alimentos e mantê-los fresco."}, {"op": "replace", "path": "/shortdescription", "value": "Full-Size Fridge"}, {"op": "replace", "path": "/floranDescription", "value": "Floran pode sssentir o cheiro de carne dentro."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Esta geladeira está operando na temperatura ideal."}, {"op": "replace", "path": "/hylotlDescription", "value": "Debaixo d'água, refrigeração é mais fácil. Estes dispositivos são um substituto inteligente."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma simples geladeira."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma geladeira. Espero que ela contenha milkshake de banana.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma geladeira. Idealmente cheia com drinques e lanches.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma simples geladeira.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Full-Size Fridge",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Esta geladeira está operando na temperatura ideal.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran pode sssentir o cheiro de carne dentro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estou praticamente vibrando com entusiasmo pensando sobre o possível conteúdo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perfeita para armazenar um monte de alimentos e mantê-los fresco.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Debaixo d'água, refrigeração é mais fácil. Estes dispositivos são um substituto inteligente.",
+    "path": "/hylotlDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Hunting Spear"}, {"op": "replace", "path": "/description", "value": "Uma lança arremessável. Faz monstros dropar carne."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lança arremessável. Faz monstros dropar carne.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Hunting Spear",
+    "path": "/shortdescription"
+  }
+]

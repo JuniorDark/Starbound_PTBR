@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Flamingo Headdress"}, {"op": "replace", "path": "/description", "value": "Cada pena neste cocar elaborado é esculpida de ferozium puro."}]
+[
+  {
+    "op": "replace",
+    "value": "Cada pena neste cocar elaborado é esculpida de ferozium puro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Flamingo Headdress",
+    "path": "/shortdescription"
+  }
+]

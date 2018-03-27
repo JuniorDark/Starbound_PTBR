@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Um monte de rochas."}, {"op": "replace", "path": "/floranDescription", "value": "Rochas."}, {"op": "replace", "path": "/shortdescription", "value": "Um monte de rochas."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Uma monte de rochas."}]
+[
+  {
+    "op": "replace",
+    "value": "Um monte de rochas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um monte de rochas.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rochas.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Uma monte de rochas.",
+    "path": "/glitchDescription"
+  }
+]

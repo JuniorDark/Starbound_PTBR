@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um barril de esgoto. Quase certamente tóxico."}, {"op": "replace", "path": "/shortdescription", "value": "Sewage Barrel"}, {"op": "replace", "path": "/floranDescription", "value": "Greenfinger despeja isso."}, {"op": "replace", "path": "/glitchDescription", "value": "Decisivo. Este barril é melhor deixado sem análise."}, {"op": "replace", "path": "/apexDescription", "value": "Nota para si mesmo: não beba de barris brilhantes."}, {"op": "replace", "path": "/hylotlDescription", "value": "Pelo menos não está no oceano."}, {"op": "replace", "path": "/avianDescription", "value": "Poluição. Que vergonha."}, {"op": "replace", "path": "/humanDescription", "value": "Na Terra, você poderia ser multado por despejar esgoto."}, {"op": "replace", "path": "/novakidDescription", "value": "Não tenho curiosidade suficiente para olhar dentro desse barril."}]
+[
+  {
+    "op": "replace",
+    "value": "Um barril de esgoto. Quase certamente tóxico.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pelo menos não está no oceano.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Na Terra, você poderia ser multado por despejar esgoto.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Decisivo. Este barril é melhor deixado sem análise.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Greenfinger despeja isso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não tenho curiosidade suficiente para olhar dentro desse barril.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nota para si mesmo: não beba de barris brilhantes.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Poluição. Que vergonha.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sewage Barrel",
+    "path": "/shortdescription"
+  }
+]

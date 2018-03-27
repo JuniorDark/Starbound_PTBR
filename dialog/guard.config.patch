@@ -1,1 +1,357 @@
-[{"op":"replace","path":"/hail/novakid/default/0","value":"Não cause nenhum barulho por aqui, parceiro."},{"op":"replace","path":"/hail/novakid/default/1","value":"Se você não pretende causar problemas, então nós vamos nos dar muito bem."},{"op":"replace","path":"/hail/novakid/default/2","value":"Somos tranquilos com estranhos, contanto que eles não causem problemas."},{"op":"replace","path":"/hail/novakid/default/4","value":"Esperamos que você aproveite nossa antiga aldeia, parceiro. Só não cause nenhum problema."},{"op":"replace","path":"/hail/novakid/default/3","value":"Eu esqueci, mas já vimos você por aqui antes?"},{"op":"replace","path":"/hail/novakid/default/5","value":"Houve ladrões por estas bandas recentemente. Nós não somos gentis com ladrões."},{"op":"replace","path":"/hail/novakid/default/6","value":"Oi!"},{"op":"replace","path":"/hail/hylotl/default/3","value":"Pedimos apenas que você se comporte respeitosamente dentro de nossa jurisdição."},{"op":"replace","path":"/hail/hylotl/default/4","value":"Passe por mim e eu vou ser forçado a atacar."},{"op":"replace","path":"/hail/hylotl/default/6","value":"Um guerreiro Hylotl é treinado desde o nascimento."},{"op":"replace","path":"/hail/hylotl/default/8","value":"Não me teste."},{"op":"replace","path":"/hail/apex/default/0","value":"Permaneça em silêncio, viajante, e não cause nenhum problema."},{"op":"replace","path":"/hail/apex/default/1","value":"Obedeça a Miniknog."},{"op":"replace","path":"/hail/apex/default/2","value":"Big Ape está te observando."},{"op":"replace","path":"/hail/apex/default/4","value":"Cada ato tem repercussões."},{"op":"replace","path":"/hail/apex/default/5","value":"Todos saudam Big Ape! Comemore seu governo glorioso!"},{"op":"replace","path":"/hail/apex/default/6","value":"Eu amo Big Ape."},{"op":"replace","path":"/hail/apex/default/3","value":"Ato de agressão não será tolerado."},{"op":"replace","path":"/hail/apex/default/9","value":"Curve-se a Miniknog."},{"op":"replace","path":"/hail/apex/default/8","value":"Boca fechada, olhos para a frente."},{"op":"replace","path":"/hail/floran/default/6","value":"Dê uma razão para Floran."},{"op":"replace","path":"/hail/avian/default/9","value":"Avians foram grandes guerreiros desde tempos imemoriais."},{"op":"replace","path":"/hail/avian/default/3","value":"Espero que sua estadia aqui seja agradável."},{"op":"replace","path":"/hail/avian/default/0","value":"Não me teste."},{"op":"replace","path":"/hail/floran/default/2","value":"Sssem bobagem."},{"op":"replace","path":"/hail/hylotl/default/2","value":"Andar bem, estranho."},{"op":"replace","path":"/hail/avian/default/5","value":"Você é bem-vindo aqui, contanto que você respeite a nossa casa."},{"op":"replace","path":"/hail/avian/default/6","value":"Eu não posso treinar agora..."},{"op":"replace","path":"/hail/human/default/4","value":"Estou de olho em você."},{"op":"replace","path":"/hail/avian/default/7","value":"Espero que possamos chegar junto."},{"op":"replace","path":"/hail/glitch/default/4","value":"Otimista. Tenho certeza de que não haverá qualquer problema."},{"op":"replace","path":"/hail/glitch/default/5","value":"Discreto. Você não vai ser um problema..."},{"op":"replace","path":"/hail/glitch/default/6","value":"Severo. Você deve se comportar."},{"op":"replace","path":"/hail/floran/default/7","value":"Não teste Floran."},{"op":"replace","path":"/hail/human/default/5","value":"É melhor não tentar qualquer coisa."},{"op":"replace","path":"/hail/glitch/default/9","value":"Preocupado. Você deveria estar aqui?"},{"op":"replace","path":"/hail/default/default/0","value":"Estou de olho em você."},{"op":"replace","path":"/hail/human/default/9","value":"O que você está olhando?"},{"op":"replace","path":"/hail/glitch/default/0","value":"Cauteloso. Comporte-se."},{"op":"replace","path":"/hail/glitch/default/1","value":"Suspeito. Qual é o seu propósito aqui?"},{"op":"replace","path":"/hail/default/default/1","value":"Mantenha-se na conduta rigorosa, você."},{"op":"replace","path":"/hail/default/default/2","value":"Nós não toleramos meliantes aqui."},{"op":"replace","path":"/hail/default/default/3","value":"Mexa-se."},{"op":"replace","path":"/hail/floran/default/8","value":"Continue andando, essstranho."},{"op":"replace","path":"/hail/floran/default/9","value":"Encrenqueiros são saborosos."},{"op":"replace","path":"/hail/hylotl/default/0","value":"Vamos ser pacífico, e ter tranquilidade reinando sobre o nosso encontro."},{"op":"replace","path":"/hail/hylotl/default/1","value":"Espero que cada um poça manter o nosso aço revestido e câmaras."},{"op":"replace","path":"/hail/human/default/0","value":"Se cuide, estranho."},{"op":"replace","path":"/hail/human/default/1","value":"Fique longe de problemas."},{"op":"replace","path":"/hail/human/default/2","value":"Não... Só não faça nada."},{"op":"replace","path":"/hail/human/default/6","value":"Estou super resistente, é melhor não me atravessar."},{"op":"replace","path":"/hail/floran/default/0","value":"Fique longe de problemasss."},{"op":"replace","path":"/hail/floran/default/3","value":"Comporte-ssse."},{"op":"replace","path":"/hail/human/default/7","value":"Oi! Quero dizer... Grrr."},{"op":"replace","path":"/hail/avian/default/8","value":"Contanto que você não quebre nada ou mate ninguém, você é bem-vindo aqui."},{"op":"replace","path":"/hail/avian/default/1","value":"Se lutarmos, você vai perder."},{"op":"replace","path":"/hail/avian/default/2","value":"Temo que devo te pedir para se mover."},{"op":"replace","path":"/hail/human/default/8","value":"Qual é o seu negócio aqui?"},{"op":"replace","path":"/hail/glitch/default/2","value":"Inexperiente. Eep!"},{"op":"replace","path":"/hail/glitch/default/7","value":"Insincero. Tenha um dia absolutamente maravilhoso."},{"op":"replace","path":"/hail/floran/default/1","value":"Floran não foi com a sssua cara."},{"op":"replace","path":"/hail/floran/default/4","value":"Floran quer esssfaquear alguma coisa..."},{"op":"replace","path":"/hail/floran/default/5","value":"Floran essstá com fome..."},{"op":"replace","path":"/hail/avian/default/4","value":"Apenas tente não colocar um gato entre os pombos."},{"op":"replace","path":"/hail/glitch/default/3","value":"Alerta. Quem é Você?"},{"op":"replace","path":"/hail/apex/default/7","value":"Big Ape ama a todos, exceto as que ele não fazem o mesmo."},{"op":"replace","path":"/hail/hylotl/default/7","value":"Peço que você não machuque este lugar com agressão desnecessária."},{"op":"replace","path":"/hail/hylotl/default/9","value":"Bem-vindo, estranho. Você está aqui para admirar a nossa cultura?"},{"op":"replace","path":"/hail/human/default/3","value":"Tente não destruir nada."},{"op":"replace","path":"/hail/glitch/default/8","value":"Desconsiderado. Tente não se matar."},{"op":"replace","path":"/hail/hylotl/default/5","value":"Espero que a serenidade do nosso ambiente influencie suas ações."}]
+[
+  {
+    "op": "replace",
+    "value": "Um guerreiro Hylotl é treinado desde o nascimento.",
+    "path": "/hail/hylotl/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Ato de agressão não será tolerado.",
+    "path": "/hail/apex/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Alerta. Quem é Você?",
+    "path": "/hail/glitch/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Todos saudam Big Ape! Comemore seu governo glorioso!",
+    "path": "/hail/apex/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Contanto que você não quebre nada ou mate ninguém, você é bem-vindo aqui.",
+    "path": "/hail/avian/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Avians foram grandes guerreiros desde tempos imemoriais.",
+    "path": "/hail/avian/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "Comporte-ssse.",
+    "path": "/hail/floran/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Big Ape está te observando.",
+    "path": "/hail/apex/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Big Ape ama a todos, exceto as que ele não fazem o mesmo.",
+    "path": "/hail/apex/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Curve-se a Miniknog.",
+    "path": "/hail/apex/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. Comporte-se.",
+    "path": "/hail/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Você deveria estar aqui?",
+    "path": "/hail/glitch/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "Passe por mim e eu vou ser forçado a atacar.",
+    "path": "/hail/hylotl/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Desconsiderado. Tente não se matar.",
+    "path": "/hail/glitch/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Não me teste.",
+    "path": "/hail/hylotl/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Não cause nenhum barulho por aqui, parceiro.",
+    "path": "/hail/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Não teste Floran.",
+    "path": "/hail/floran/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Não me teste.",
+    "path": "/hail/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Não... Só não faça nada.",
+    "path": "/hail/human/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Cada ato tem repercussões.",
+    "path": "/hail/apex/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não foi com a sssua cara.",
+    "path": "/hail/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran essstá com fome...",
+    "path": "/hail/floran/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Floran quer esssfaquear alguma coisa...",
+    "path": "/hail/floran/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Dê uma razão para Floran.",
+    "path": "/hail/floran/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Oi! Quero dizer... Grrr.",
+    "path": "/hail/human/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Esperamos que você aproveite nossa antiga aldeia, parceiro. Só não cause nenhum problema.",
+    "path": "/hail/novakid/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Peço que você não machuque este lugar com agressão desnecessária.",
+    "path": "/hail/hylotl/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não posso treinar agora...",
+    "path": "/hail/avian/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Eu esqueci, mas já vimos você por aqui antes?",
+    "path": "/hail/novakid/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que cada um poça manter o nosso aço revestido e câmaras.",
+    "path": "/hail/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que a serenidade do nosso ambiente influencie suas ações.",
+    "path": "/hail/hylotl/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que possamos chegar junto.",
+    "path": "/hail/avian/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que sua estadia aqui seja agradável.",
+    "path": "/hail/avian/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Eu amo Big Ape.",
+    "path": "/hail/apex/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Temo que devo te pedir para se mover.",
+    "path": "/hail/avian/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Estou super resistente, é melhor não me atravessar.",
+    "path": "/hail/human/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Estou de olho em você.",
+    "path": "/hail/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Se lutarmos, você vai perder.",
+    "path": "/hail/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Se você não pretende causar problemas, então nós vamos nos dar muito bem.",
+    "path": "/hail/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Inexperiente. Eep!",
+    "path": "/hail/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Insincero. Tenha um dia absolutamente maravilhoso.",
+    "path": "/hail/glitch/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas tente não colocar um gato entre os pombos.",
+    "path": "/hail/avian/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Continue andando, essstranho.",
+    "path": "/hail/floran/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Mantenha-se na conduta rigorosa, você.",
+    "path": "/hail/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos ser pacífico, e ter tranquilidade reinando sobre o nosso encontro.",
+    "path": "/hail/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Boca fechada, olhos para a frente.",
+    "path": "/hail/apex/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Mexa-se.",
+    "path": "/hail/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Sssem bobagem.",
+    "path": "/hail/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Obedeça a Miniknog.",
+    "path": "/hail/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Otimista. Tenho certeza de que não haverá qualquer problema.",
+    "path": "/hail/glitch/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Discreto. Você não vai ser um problema...",
+    "path": "/hail/glitch/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Fique longe de problemasss.",
+    "path": "/hail/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Fique longe de problemas.",
+    "path": "/hail/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Permaneça em silêncio, viajante, e não cause nenhum problema.",
+    "path": "/hail/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Severo. Você deve se comportar.",
+    "path": "/hail/glitch/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Suspeito. Qual é o seu propósito aqui?",
+    "path": "/hail/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Houve ladrões por estas bandas recentemente. Nós não somos gentis com ladrões.",
+    "path": "/hail/novakid/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Encrenqueiros são saborosos.",
+    "path": "/hail/floran/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "Tente não destruir nada.",
+    "path": "/hail/human/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Andar bem, estranho.",
+    "path": "/hail/hylotl/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Se cuide, estranho.",
+    "path": "/hail/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Pedimos apenas que você se comporte respeitosamente dentro de nossa jurisdição.",
+    "path": "/hail/hylotl/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Nós não toleramos meliantes aqui.",
+    "path": "/hail/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Somos tranquilos com estranhos, contanto que eles não causem problemas.",
+    "path": "/hail/novakid/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Bem-vindo, estranho. Você está aqui para admirar a nossa cultura?",
+    "path": "/hail/hylotl/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "O que você está olhando?",
+    "path": "/hail/human/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "Qual é o seu negócio aqui?",
+    "path": "/hail/human/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "É melhor não tentar qualquer coisa.",
+    "path": "/hail/human/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Você é bem-vindo aqui, contanto que você respeite a nossa casa.",
+    "path": "/hail/avian/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Oi!",
+    "path": "/hail/novakid/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Estou de olho em você.",
+    "path": "/hail/human/default/4"
+  }
+]

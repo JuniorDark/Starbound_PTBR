@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Propulsores de mecha muito elegantes."
+    "value": "Sleek Mech Boosters",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Propulsores de mecha muito elegantes.",
+    "path": "/description"
   }
 ]

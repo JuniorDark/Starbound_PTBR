@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Dry Sand"}, {"op": "replace", "path": "/novakidDescription", "value": "Areia embalada seca."}, {"op": "replace", "path": "/floranDescription", "value": "Areia arenosa seca e dura."}, {"op": "replace", "path": "/glitchDescription", "value": "Atento. Esta areia esta seca e dura."}, {"op": "replace", "path": "/description", "value": "Areia dura e rachada que quebra sob os pés."}]
+[
+  {
+    "op": "replace",
+    "value": "Dry Sand",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Areia embalada seca.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Areia arenosa seca e dura.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Areia dura e rachada que quebra sob os pés.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Esta areia esta seca e dura.",
+    "path": "/glitchDescription"
+  }
+]

@@ -1,7 +1,7 @@
 [
   {
     "op": "replace",
-    "path": "/ability/name",
-    "value": "Onda de Energia"
+    "value": "Onda de Energia",
+    "path": "/ability/name"
   }
 ]

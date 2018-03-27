@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Polarmoth"}, {"op": "replace", "path": "/description", "value": "As pernas desse pequeno inseto estão cobertas de pelos transparentes."}]
+[
+  {
+    "op": "replace",
+    "value": "Polarmoth",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "As pernas desse pequeno inseto estão cobertas de pelos transparentes.",
+    "path": "/description"
+  }
+]

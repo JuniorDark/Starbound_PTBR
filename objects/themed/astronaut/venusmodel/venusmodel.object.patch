@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Vênus. Você poderia vê-lo da Terra enquanto viajava pela estrelas. Vou sentir saudades..."}, {"op": "replace", "path": "/apexDescription", "value": "O planeta Vênus, coberto de nuvens de dióxido de enxofre e de longe o planeta mais quente no Sistema Solar."}, {"op": "replace", "path": "/avianDescription", "value": "Vênus. Nome de uma antiga deusa do amor e da beleza da Terra."}, {"op": "replace", "path": "/shortdescription", "value": "Venus Model"}, {"op": "replace", "path": "/description", "value": "Um modelo detalhado do planeta Vênus do Sistema Solar."}, {"op": "replace", "path": "/floranDescription", "value": "O planeta Vênus do Sistema Solar. É o segundo de oito."}, {"op": "replace", "path": "/humanDescription", "value": "Vênus é o segundo planeta no Sistema Solar. Falou-se de terraforma-lo antes da Terra for destruída."}, {"op": "replace", "path": "/hylotlDescription", "value": "Vênus, vizinha da Terra e quase um grande, mas sem vida devido a condições extremas."}, {"op": "replace", "path": "/glitchDescription", "value": "Fascinado. O planeta Vénus tem gases de efeito estufa naturais que faz as temperaturas da superfície muito altas."}]
+[
+  {
+    "op": "replace",
+    "value": "Um modelo detalhado do planeta Vênus do Sistema Solar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Fascinado. O planeta Vénus tem gases de efeito estufa naturais que faz as temperaturas da superfície muito altas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O planeta Vênus, coberto de nuvens de dióxido de enxofre e de longe o planeta mais quente no Sistema Solar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O planeta Vênus do Sistema Solar. É o segundo de oito.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Venus Model",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vênus é o segundo planeta no Sistema Solar. Falou-se de terraforma-lo antes da Terra for destruída.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vênus, vizinha da Terra e quase um grande, mas sem vida devido a condições extremas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vênus. Nome de uma antiga deusa do amor e da beleza da Terra.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vênus. Você poderia vê-lo da Terra enquanto viajava pela estrelas. Vou sentir saudades...",
+    "path": "/novakidDescription"
+  }
+]

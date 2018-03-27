@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Vermelho ou verde não faz diferença. Floran vai passar."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Esta luz pode ser vermelha ou verde."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma luz que muda de cor. Está tentando comunicar alguma coisa?"}, {"op": "replace", "path": "/description", "value": "Uma luz que pode alternar entre verde e vermelho."}, {"op": "replace", "path": "/shortdescription", "value": "Green Red Light"}, {"op": "replace", "path": "/avianDescription", "value": "Gosto mais desta lâmpada quando está verde."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta simples luz detém o poder de negar ou conceder acesso."}, {"op": "replace", "path": "/humanDescription", "value": "É vermelho, então é verde. O que significa isso?"}, {"op": "replace", "path": "/apexDescription", "value": "Esta luz pode ser vermelha ou verde."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz que muda de cor. Está tentando comunicar alguma coisa?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz que pode alternar entre verde e vermelho.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz pode ser vermelha ou verde.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Green Red Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gosto mais desta lâmpada quando está verde.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É vermelho, então é verde. O que significa isso?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Esta luz pode ser vermelha ou verde.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vermelho ou verde não faz diferença. Floran vai passar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta simples luz detém o poder de negar ou conceder acesso.",
+    "path": "/hylotlDescription"
+  }
+]

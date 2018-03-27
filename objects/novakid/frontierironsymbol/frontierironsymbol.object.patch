@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um símbolo decorativo de ferro."}, {"op": "replace", "path": "/shortdescription", "value": "Frontier Iron Symbol"}, {"op": "replace", "path": "/floranDescription", "value": "Floran ssse pergunta se coisa pendurada se faz uma arma eficaz."}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Esta decoração de parede tem algum significado mais profundo?"}, {"op": "replace", "path": "/apexDescription", "value": "Um símbolo feito de ferro, para pendurar em uma parede."}, {"op": "replace", "path": "/humanDescription", "value": "Me pergunto se este símbolo significa alguma coisa, ou apenas parece bom?"}, {"op": "replace", "path": "/avianDescription", "value": "Eu me pergunto o que isso simboliza?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Este símbolo de ferro forjado parece ser decorativo, mas é mal feito."}, {"op": "replace", "path": "/novakidDescription", "value": "Este símbolo é um sinal infalível de gente como eu estar por perto."}]
+[
+  {
+    "op": "replace",
+    "value": "Um símbolo decorativo de ferro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um símbolo feito de ferro, para pendurar em uma parede.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ssse pergunta se coisa pendurada se faz uma arma eficaz.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Frontier Iron Symbol",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me pergunto se este símbolo significa alguma coisa, ou apenas parece bom?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto o que isso simboliza?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Esta decoração de parede tem algum significado mais profundo?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este símbolo é um sinal infalível de gente como eu estar por perto.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este símbolo de ferro forjado parece ser decorativo, mas é mal feito.",
+    "path": "/hylotlDescription"
+  }
+]

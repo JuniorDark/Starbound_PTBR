@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma luz formada a partir de um geode brilhante suspenso."}, {"op": "replace", "path": "/shortdescription", "value": "Geode Light"}, {"op": "replace", "path": "/floranDescription", "value": "Pedras brilhantess faz luz pendurada."}, {"op": "replace", "path": "/apexDescription", "value": "Este geodo brilhante foi encaixado dentro."}, {"op": "replace", "path": "/humanDescription", "value": "A luminescência natural deste geodo foi construída em uma lâmpada."}, {"op": "replace", "path": "/avianDescription", "value": "Já vi muitas luzes alimentadas por cristal, mas este definitivamente não é Avian em design."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta luz é uma síntese interessante da natureza e da fabricação moderna."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma lâmpada feita de pedras verdes brilhantes."}, {"op": "replace", "path": "/glitchDescription", "value": "Surpreso. De alguma forma este dispositivo elétrico é capaz de disparar a luz natural deste geodo eletronicamente."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lâmpada feita de pedras verdes brilhantes.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz formada a partir de um geode brilhante suspenso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. De alguma forma este dispositivo elétrico é capaz de disparar a luz natural deste geodo eletronicamente.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Geode Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedras brilhantess faz luz pendurada.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Já vi muitas luzes alimentadas por cristal, mas este definitivamente não é Avian em design.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A luminescência natural deste geodo foi construída em uma lâmpada.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este geodo brilhante foi encaixado dentro.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz é uma síntese interessante da natureza e da fabricação moderna.",
+    "path": "/hylotlDescription"
+  }
+]

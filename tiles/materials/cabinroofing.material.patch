@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Um telhado de cabana, bom para se manter seco na chuva."}, {"op": "replace", "path": "/description", "value": "Telhado simples para uma cabana."}, {"op": "replace", "path": "/shortdescription", "value": "Cabin Roofing"}, {"op": "replace", "path": "/floranDescription", "value": "Floran levanta telhado da cabana."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Este telhado de cabana tem um charme rústico."}]
+[
+  {
+    "op": "replace",
+    "value": "Um telhado de cabana, bom para se manter seco na chuva.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cabin Roofing",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran levanta telhado da cabana.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Este telhado de cabana tem um charme rústico.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Telhado simples para uma cabana.",
+    "path": "/description"
+  }
+]

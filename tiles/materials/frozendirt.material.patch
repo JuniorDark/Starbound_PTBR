@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Essa terra está solidamente congelada."}, {"op": "replace", "path": "/shortdescription", "value": "Frozen Dirt"}, {"op": "replace", "path": "/floranDescription", "value": "Terra congelada é fria ao toque."}, {"op": "replace", "path": "/novakidDescription", "value": "Essa terra congelada é muito fria."}, {"op": "replace", "path": "/glitchDescription", "value": "Atento. Essa terra está solidamente congelada."}]
+[
+  {
+    "op": "replace",
+    "value": "Frozen Dirt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Terra congelada é fria ao toque.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Essa terra está solidamente congelada.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa terra está solidamente congelada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Essa terra congelada é muito fria.",
+    "path": "/novakidDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Este baú esta equipado com um sensor que envia um sinal quando é aberto."}, {"op": "replace", "path": "/shortdescription", "value": "Trap Chest"}, {"op": "replace", "path": "/floranDescription", "value": "Baú para guardar bugigangasss ou tesouros dentro."}, {"op": "replace", "path": "/glitchDescription", "value": "Excitável. Um baú de tesouro! O que poderia estar dentro...?"}, {"op": "replace", "path": "/apexDescription", "value": "Um baú de tesouro clássico. Ou é...?"}, {"op": "replace", "path": "/humanDescription", "value": "É um baú de tesouro. Mas ele contém um tesouro...?"}, {"op": "replace", "path": "/avianDescription", "value": "Um baú cheio de tesouro! Ou é...?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Um baú criado a partir de madeira e metal. Parece ligeiramente resistido."}, {"op": "replace", "path": "/novakidDescription", "value": "Um baú de tesouro! Deve ser o meu dia de sorte! Ou é...?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um baú criado a partir de madeira e metal. Parece ligeiramente resistido.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú cheio de tesouro! Ou é...?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú de tesouro clássico. Ou é...?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú de tesouro! Deve ser o meu dia de sorte! Ou é...?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Excitável. Um baú de tesouro! O que poderia estar dentro...?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um baú de tesouro. Mas ele contém um tesouro...?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este baú esta equipado com um sensor que envia um sinal quando é aberto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Trap Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Baú para guardar bugigangasss ou tesouros dentro.",
+    "path": "/floranDescription"
+  }
+]

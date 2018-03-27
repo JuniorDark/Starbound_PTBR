@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Asas como estas são comumente usadas pelos Stargazers como um símbolo de sua fé."}, {"op": "replace", "path": "/shortdescription", "value": "Stargazer Acolyte Wings"}]
+[
+  {
+    "op": "replace",
+    "value": "Stargazer Acolyte Wings",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Asas como estas são comumente usadas pelos Stargazers como um símbolo de sua fé.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/completeSetDescriptions/description", "value": "Este exoesqueleto espesso de artrópode tem o ajudado a sobreviver por milhões de anos."}, {"op": "replace", "path": "/description", "value": "Um crânio de Ixodoom fossilizado."}, {"op": "replace", "path": "/completeSetDescriptions/shortdescription", "value": "Ixodoom Fossil"}, {"op": "replace", "path": "/shortdescription", "value": "Ixodoom Skull"}]
+[
+  {
+    "op": "replace",
+    "value": "Ixodoom Fossil",
+    "path": "/completeSetDescriptions/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este exoesqueleto espesso de artrópode tem o ajudado a sobreviver por milhões de anos.",
+    "path": "/completeSetDescriptions/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um crânio de Ixodoom fossilizado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ixodoom Skull",
+    "path": "/shortdescription"
+  }
+]

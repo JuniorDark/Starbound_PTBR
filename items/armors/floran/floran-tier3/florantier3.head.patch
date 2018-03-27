@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Feito de titânio e envolto em folhas para aquecer, esta chapelaria irá protegê-lo na longa caçada."}, {"op": "replace", "path": "/shortdescription", "value": "Nomad's Crown"}]
+[
+  {
+    "op": "replace",
+    "value": "Feito de titânio e envolto em folhas para aquecer, esta chapelaria irá protegê-lo na longa caçada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Nomad's Crown",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Temple Boulder Trap"}, {"op": "replace", "path": "/floranDescription", "value": "Pedrass pesadas caem daquele buraco."}, {"op": "replace", "path": "/description", "value": "Uma armadilha que derruba pedras pesadas sobre intrusos desavisados."}, {"op": "replace", "path": "/apexDescription", "value": "Se eu cronometrar meus movimentos corretamente eu posso evitar as pedras que caem."}, {"op": "replace", "path": "/humanDescription", "value": "Pedregulhos saem daquele pequeno buraco."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma armadilha de pedra é fácil de evitar com movimentos bem cronometrados."}, {"op": "replace", "path": "/novakidDescription", "value": "Pedregulhos rolantes!"}, {"op": "replace", "path": "/glitchDescription", "value": "Desapontado. Quem iria fazer uma armadilha para deixar cair pedras com tal momento cronometrado?"}, {"op": "replace", "path": "/avianDescription", "value": "Melhor cronometrar meus movimentos bem, eu não quero que uma pedra pcaia em mim."}]
+[
+  {
+    "op": "replace",
+    "value": "Temple Boulder Trap",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma armadilha de pedra é fácil de evitar com movimentos bem cronometrados.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma armadilha que derruba pedras pesadas sobre intrusos desavisados.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Melhor cronometrar meus movimentos bem, eu não quero que uma pedra pcaia em mim.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedregulhos saem daquele pequeno buraco.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desapontado. Quem iria fazer uma armadilha para deixar cair pedras com tal momento cronometrado?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedrass pesadas caem daquele buraco.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se eu cronometrar meus movimentos corretamente eu posso evitar as pedras que caem.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedregulhos rolantes!",
+    "path": "/novakidDescription"
+  }
+]

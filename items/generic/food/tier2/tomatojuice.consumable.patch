@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um suco de tomate saudável."}, {"op": "replace", "path": "/shortdescription", "value": "Tomato Juice"}]
+[
+  {
+    "op": "replace",
+    "value": "Um suco de tomate saudável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Tomato Juice",
+    "path": "/shortdescription"
+  }
+]

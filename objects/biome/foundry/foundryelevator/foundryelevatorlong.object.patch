@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Um elevador resistente."}, {"op": "replace", "path": "/description", "value": "Este projeto de elevador é comumente visto em fundições."}, {"op": "replace", "path": "/shortdescription", "value": "Long Industrial Elevator"}, {"op": "replace", "path": "/floranDescription", "value": "Elevador sssobe e desce."}, {"op": "replace", "path": "/avianDescription", "value": "A maneira mais fácil de percorrer uma instalação de vários níveis."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um elevador industrial."}, {"op": "replace", "path": "/novakidDescription", "value": "Algum tipo de elevador, útil!"}, {"op": "replace", "path": "/glitchDescription", "value": "Entediado. Um elevador sem inspiração."}, {"op": "replace", "path": "/humanDescription", "value": "Um elevador para subir e descer níveis."}]
+[
+  {
+    "op": "replace",
+    "value": "Um elevador resistente.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um elevador para subir e descer os níveis.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Entediado. Um elevador sem inspiração.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Elevador sssobe e desce.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de elevador, útil!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A maneira mais fácil de percorrer uma instalação de vários níveis.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Long Industrial Elevator",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um elevador industrial.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este projeto de elevador é comumente visto em fundições.",
+    "path": "/description"
+  }
+]

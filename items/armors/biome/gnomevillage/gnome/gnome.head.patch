@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Gnome Hat"}, {"op": "replace", "path": "/description", "value": "Ele só senta lá o dia todo. Que cara preguiçoso."}]
+[
+  {
+    "op": "replace",
+    "value": "Gnome Hat",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ele só senta lá o dia todo. Que cara preguiçoso.",
+    "path": "/description"
+  }
+]

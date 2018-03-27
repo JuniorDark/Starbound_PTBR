@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Minério de violium. Pode ser refinado."}, {"op": "replace", "path": "/shortdescription", "value": "Violium Ore"}]
+[
+  {
+    "op": "replace",
+    "value": "Violium Ore",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Minério de violium. Pode ser refinado.",
+    "path": "/description"
+  }
+]

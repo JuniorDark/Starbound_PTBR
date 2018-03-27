@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Aliviado. Este fungo não parece ser corrosivo para os Glitch."}, {"op": "replace", "path": "/description", "value": "Um cogumelo. O agricultor que planta estes é um fun guy."}, {"op": "replace", "path": "/shortdescription", "value": "Mushroom Seed"}, {"op": "replace", "path": "/floranDescription", "value": "Chapéusss Floran."}, {"op": "replace", "path": "/apexDescription", "value": "Cogumelo."}, {"op": "replace", "path": "/humanDescription", "value": "Um cogumelo. Perfeito para uma omelete ou quiche."}, {"op": "replace", "path": "/avianDescription", "value": "Um cogumelo minúsculo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um cogumelo pequeno e comestível."}, {"op": "replace", "path": "/novakidDescription", "value": "Um cogumelo minúsculo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um cogumelo. Perfeito para uma omelete ou quiche.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um cogumelo. O agricultor que planta estes é um fun guy.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um cogumelo pequeno e comestível.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um cogumelo minúsculo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um cogumelo minúsculo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Chapéusss Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mushroom Seed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cogumelo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aliviado. Este fungo não parece ser corrosivo para os Glitch.",
+    "path": "/glitchDescription"
+  }
+]

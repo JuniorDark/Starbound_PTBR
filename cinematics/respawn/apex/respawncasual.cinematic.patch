@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/panels/2/text", "value": "10% dos Pixels Perdidos"}]
+[
+  {
+    "op": "replace",
+    "value": "10% dos Pixels Perdidos",
+    "path": "/panels/2/text"
+  }
+]

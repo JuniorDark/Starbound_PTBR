@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um forte trilho reforçado."}, {"op": "replace", "path": "/shortdescription", "value": "Composite Rail"}]
+[
+  {
+    "op": "replace",
+    "value": "Um forte trilho reforçado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Composite Rail",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. O material de que este trilho é feito o torna muito forte.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Trilhos de metal brilhante.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns trilhos que parecem resistentes, pedindo para serem montados.",
+    "path": "/novakiddescription"
+  }
+]

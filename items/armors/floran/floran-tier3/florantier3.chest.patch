@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Nomad's Chestguard"}, {"op": "replace", "path": "/description", "value": "Este peitoral é construído para desviar os elementos, bem como lâminas e balas."}]
+[
+  {
+    "op": "replace",
+    "value": "Nomad's Chestguard",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este peitoral é construído para desviar os elementos, bem como lâminas e balas.",
+    "path": "/description"
+  }
+]

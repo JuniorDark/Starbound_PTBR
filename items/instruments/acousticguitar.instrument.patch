@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um violão. Perfeito para canções na fogueira."}, {"op": "replace", "path": "/shortdescription", "value": "Acoustic Guitar"}]
+[
+  {
+    "op": "replace",
+    "value": "Acoustic Guitar",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um violão. Perfeito para canções na fogueira.",
+    "path": "/description"
+  }
+]

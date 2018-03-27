@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma forma de agradecimento de um padeiro galático."}, {"op": "replace", "path": "/shortdescription", "value": "Trading Card #01"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma forma de agradecimento de um padeiro galático.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Trading Card #01",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma mesa cuidadosamente trabalhada decorada com canos de latão."}, {"op": "replace", "path": "/shortdescription", "value": "Steamspring Table"}, {"op": "replace", "path": "/floranDescription", "value": "Floran se pergunta se bater em canosss faria barulho alto."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Esta mesa de madeira é principalmente suportada por tubos antigos."}, {"op": "replace", "path": "/apexDescription", "value": "Os canos nesta mesa devem torná-la muito resistente."}, {"op": "replace", "path": "/humanDescription", "value": "Uma mesa feita de madeira e canos. Bem legal."}, {"op": "replace", "path": "/avianDescription", "value": "Os canos de latão e o topo de madeira vão bem juntos."}, {"op": "replace", "path": "/hylotlDescription", "value": "me pergunto se os canos nesta mesa realmente ajudam a suportar isso?"}, {"op": "replace", "path": "/novakidDescription", "value": "Eu poderia jogar um jogo de cartas em uma mesa como esta."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma mesa cuidadosamente trabalhada decorada com canos de latão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa feita de madeira e canos. Bem legal.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran se pergunta se bater em canosss faria barulho alto.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu poderia jogar um jogo de cartas em uma mesa como esta.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "me pergunto se os canos nesta mesa realmente ajudam a suportar isso?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Esta mesa de madeira é principalmente suportada por tubos antigos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Steamspring Table",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os canos de latão e o topo de madeira vão bem juntos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os canos nesta mesa devem torná-la muito resistente.",
+    "path": "/apexDescription"
+  }
+]

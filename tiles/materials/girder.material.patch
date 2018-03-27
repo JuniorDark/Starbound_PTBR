@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Esta viga de metal reforçado é muito forte."}, {"op": "replace", "path": "/description", "value": "Um forte viga de metal."}, {"op": "replace", "path": "/shortdescription", "value": "Girder"}, {"op": "replace", "path": "/floranDescription", "value": "Vigas de metal frio."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma forte viga de metal."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma forte viga de metal.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um forte viga de metal.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Vigas de metal frio.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Girder",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Esta viga de metal reforçado é muito forte.",
+    "path": "/glitchDescription"
+  }
+]

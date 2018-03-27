@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Calças flexível, com tornozeleiras de titânio."}, {"op": "replace", "path": "/shortdescription", "value": "Quail Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Calças flexível, com tornozeleiras de titânio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Quail Trousers",
+    "path": "/shortdescription"
+  }
+]

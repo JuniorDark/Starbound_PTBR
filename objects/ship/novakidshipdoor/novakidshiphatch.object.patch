@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Escotilha legal."}, {"op": "replace", "path": "/description", "value": "Uma escotilha adequada para uma nave espacial."}, {"op": "replace", "path": "/shortdescription", "value": "Novakid Ship Hatch"}, {"op": "replace", "path": "/floranDescription", "value": "Essscotilha de nave espacial."}, {"op": "replace", "path": "/avianDescription", "value": "Uma escotilha de nave espacial."}, {"op": "replace", "path": "/glitchDescription", "value": "Orgulhoso. Uma escotilha de nave."}, {"op": "replace", "path": "/apexDescription", "value": "Estas escotilhas são usadas em todas as nossas naves."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma escotilha de nave básica."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma escotilha."}]
+[
+  {
+    "op": "replace",
+    "value": "Novakid Ship Hatch",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma escotilha de nave básica.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma escotilha adequada para uma nave espacial.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma escotilha.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma escotilha de nave espacial.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma escotilha de nave espacial.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas escotilhas são usadas em todas as nossas naves.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Orgulhoso. Uma escotilha de nave.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essscotilha de nave espacial.",
+    "path": "/floranDescription"
+  }
+]

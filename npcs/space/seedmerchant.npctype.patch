@@ -1,22 +1,22 @@
 [
   {
     "op": "replace",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-    "value": "  Comerciante de Sementes"
+    "value": "  Comerciante de Sementes",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-    "value": "  Vende sementes para agricultura!"
+    "value": "  Vende sementes para agricultura!",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/dialog/merchant/start/floran/default/0",
-    "value": "Floran faz plantasss crescerem no essspaço. Floran não tem muitos clientesss."
+    "value": "Floran faz plantasss crescerem no essspaço. Floran não tem muitos clientesss.",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/0"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/dialog/merchant/end/floran/default/0",
-    "value": "Divirta-se no essspaço!!"
+    "value": "Divirta-se no essspaço!!",
+    "path": "/scriptConfig/dialog/merchant/end/floran/default/0"
   }
 ]

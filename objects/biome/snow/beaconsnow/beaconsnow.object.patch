@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um farol de socorro. Quem sabe quem pode ouvi-lo?"}, {"op": "replace", "path": "/shortdescription", "value": "Distress Beacon"}, {"op": "replace", "path": "/floranDescription", "value": "Floran ajuda bem como caça. As vezes."}, {"op": "replace", "path": "/glitchDescription", "value": "Atento. Este farol de socorro está transmitindo em um número de frequências."}, {"op": "replace", "path": "/apexDescription", "value": "Um farol de socorro. Espero que a pessoa que saiu está bem."}, {"op": "replace", "path": "/humanDescription", "value": "Este farol está enviando uma chamada de socorro."}, {"op": "replace", "path": "/avianDescription", "value": "Um farol de socorro. Alguém deve estar em apuros."}, {"op": "replace", "path": "/hylotlDescription", "value": "Alguém precisa de ajuda. Proteger os fracos é um exercício que vale a pena."}, {"op": "replace", "path": "/novakidDescription", "value": "Parece ser um farol de socorro. Eu me pergunto quem ativou."}]
+[
+  {
+    "op": "replace",
+    "value": "Um farol de socorro. Espero que a pessoa que saiu está bem.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um farol de socorro. Alguém deve estar em apuros.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um farol de socorro. Quem sabe quem pode ouvi-lo?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Distress Beacon",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ajuda bem como caça. As vezes.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece ser um farol de socorro. Eu me pergunto quem ativou.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Este farol de socorro está transmitindo em um número de frequências.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém precisa de ajuda. Proteger os fracos é um exercício que vale a pena.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este farol está enviando uma chamada de socorro.",
+    "path": "/humanDescription"
+  }
+]

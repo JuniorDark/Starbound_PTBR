@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma placa de madeira pintada para saloons."}, {"op": "replace", "path": "/shortdescription", "value": "Saloon Sign"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não tem tempo para ler coisasss."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Esta placa parece muito atraente - eu suspeito que é destinada a atrair clientes."}, {"op": "replace", "path": "/apexDescription", "value": "Esta antiga placa pintado diz \"Saloon\". É auto-explicativo."}, {"op": "replace", "path": "/humanDescription", "value": "Um saloon, é? Estou pronto para uma briga de bar ou apenas um jogo de cartas?"}, {"op": "replace", "path": "/avianDescription", "value": "Um \"Saloon\"? Isso parece legal!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma placa grosseira, decorada com tinta barata."}, {"op": "replace", "path": "/novakidDescription", "value": "Este é exatamente o tipo de estabelecimento que estou procurando."}]
+[
+  {
+    "op": "replace",
+    "value": "Um \"Saloon\"? Isso parece legal!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa grosseira, decorada com tinta barata.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa de madeira pintada para saloons.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um saloon, é? Estou pronto para uma briga de bar ou apenas um jogo de cartas?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não tem tempo para ler coisasss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este é exatamente o tipo de estabelecimento que estou procurando.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Esta placa parece muito atraente - eu suspeito que é destinada a atrair clientes.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Saloon Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta antiga placa pintado diz \"Saloon\". É auto-explicativo.",
+    "path": "/apexDescription"
+  }
+]

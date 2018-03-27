@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Bom para iluminar uma caverna escura antes de mergulhar nela."}, {"op": "replace", "path": "/shortdescription", "value": "Flare"}]
+[
+  {
+    "op": "replace",
+    "value": "Flare",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bom para iluminar uma caverna escura antes de mergulhar nela.",
+    "path": "/description"
+  }
+]

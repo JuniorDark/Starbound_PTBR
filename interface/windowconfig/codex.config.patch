@@ -1,1 +1,37 @@
-[{"op": "replace", "path": "/paneLayout/windowtitle/title", "value": "Biblioteca de Códices"}, {"op": "replace", "path": "/paneLayout/pageNum/value", "value": "0 de 0"}, {"op": "replace", "path": "/paneLayout/pageLabel/value", "value": "Página"}, {"op": "replace", "path": "/paneLayout/nextButton/caption", "value": "Próxima >"}, {"op": "replace", "path": "/paneLayout/prevButton/caption", "value": "< Anterior"}, {"op": "replace", "path": "/selectText", "value": "Codice <species>"}, {"op": "replace", "path": "/paneLayout/windowtitle/subtitle", "value": "^#b9b5b2;Livros encontrados em suas viagens ^green;[L]"}]
+[
+  {
+    "op": "replace",
+    "value": "0 de 0",
+    "path": "/paneLayout/pageNum/value"
+  },
+  {
+    "op": "replace",
+    "value": "< Anterior",
+    "path": "/paneLayout/prevButton/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Codice <species>",
+    "path": "/selectText"
+  },
+  {
+    "op": "replace",
+    "value": "Biblioteca de Códices",
+    "path": "/paneLayout/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Próxima >",
+    "path": "/paneLayout/nextButton/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Página",
+    "path": "/paneLayout/pageLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Livros encontrados em suas viagens ^green;[L]",
+    "path": "/paneLayout/windowtitle/subtitle"
+  }
+]

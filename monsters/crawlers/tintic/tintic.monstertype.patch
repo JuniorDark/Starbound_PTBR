@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Ele não parece comer ou dormir... É uma máquina?"}, {"op": "replace", "path": "/shortdescription", "value": "Tintic"}]
+[
+  {
+    "op": "replace",
+    "value": "Tintic",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ele não parece comer ou dormir... É uma máquina?",
+    "path": "/description"
+  }
+]

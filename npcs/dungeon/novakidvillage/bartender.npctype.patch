@@ -1,1 +1,32 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/merchant/follow/default/default/0", "value": "Venha comigo se você estiver procurando por uma bebida!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/0", "value": "O que posso fazer por você?"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/tout/default/default/1", "value": "Oi! Vocês estão querendo uma bebida?"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/welcome/default/default/0", "value": "Agora, então, o que posso servi-lo?"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/0", "value": "Volte logo, parceiro!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/tout/default/default/0", "value": "Vocês estão procurando por uma bebida?"}]
+[
+  {
+    "op": "replace",
+    "value": "Volte logo, parceiro!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Venha comigo se você estiver procurando por uma bebida!",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Oi! Vocês estão querendo uma bebida?",
+    "path": "/scriptConfig/dialog/merchant/tout/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Agora, então, o que posso servi-lo?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "O que posso fazer por você?",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Vocês estão procurando por uma bebida?",
+    "path": "/scriptConfig/dialog/merchant/tout/default/default/0"
+  }
+]

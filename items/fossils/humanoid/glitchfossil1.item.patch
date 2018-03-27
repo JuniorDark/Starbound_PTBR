@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/completeSetDescriptions/description", "value": "Um Glitch fosilizado. A fiação interna raramente é preservada."}, {"op": "replace", "path": "/description", "value": "Uma cabeça de Glitch corroída."}, {"op": "replace", "path": "/completeSetDescriptions/shortdescription", "value": "Glitch Fossil"}, {"op": "replace", "path": "/shortdescription", "value": "Glitch Head"}]
+[
+  {
+    "op": "replace",
+    "value": "Um Glitch fosilizado. A fiação interna raramente é preservada.",
+    "path": "/completeSetDescriptions/description"
+  },
+  {
+    "op": "replace",
+    "value": "Glitch Fossil",
+    "path": "/completeSetDescriptions/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cabeça de Glitch corroída.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Glitch Head",
+    "path": "/shortdescription"
+  }
+]

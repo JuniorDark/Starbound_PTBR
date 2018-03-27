@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma longa luz fluorescente de aparência industrial."
+    "value": "Uma grande luz elétrica.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Esta luz industrial é bastante grande."
+    "value": "Uma grande luz fluorescente, eu me pergunto se é à prova d'água.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Esta luz não é muito bonita, e a luz que ela emite é fria."
+    "value": "Uma longa luz fluorescente de aparência industrial.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Floran não gossta de luz elétrica fria."
+    "value": "Floran não gossta de luz elétrica fria.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Informado. Essas luzes possuem uma fonte de energia compacta embutida no interior."
+    "value": "Informado. Essas luzes possuem uma fonte de energia compacta embutida no interior.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Algumas grandes luzes fluorescentes, do tipo vista em naves e estações."
+    "value": "Algumas grandes luzes fluorescentes, do tipo vista em naves e estações.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Uma grande luz fluorescente, eu me pergunto se é à prova d'água."
+    "value": "Esta luz industrial é bastante grande.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Uma grande luz elétrica."
+    "value": "Esta luz não é muito bonita, e a luz que ela emite é fria.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wide Station Light",
+    "path": "/shortdescription"
   }
 ]

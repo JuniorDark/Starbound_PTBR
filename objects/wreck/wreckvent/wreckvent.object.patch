@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Assobios de ar passam através deste velho respiradouro."}, {"op": "replace", "path": "/shortdescription", "value": "Wrecked Vent"}, {"op": "replace", "path": "/apexDescription", "value": "Um respiradouro velho e empoeirado."}, {"op": "replace", "path": "/avianDescription", "value": "Um respiradouro velho e enferrujado."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um respiradouro antigo mofado."}, {"op": "replace", "path": "/floranDescription", "value": "Resssistente respiradoudo antigo."}, {"op": "replace", "path": "/glitchDescription", "value": "Desinteressado. Um respiradouro."}, {"op": "replace", "path": "/humanDescription", "value": "Um respiradouro antigo. Está todo enferrujado."}, {"op": "replace", "path": "/novakidDescription", "value": "Este antigo respiradouro teve dias melhores."}]
+[
+  {
+    "op": "replace",
+    "value": "Um respiradouro velho e empoeirado.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um respiradouro antigo mofado.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um respiradouro antigo. Está todo enferrujado.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um respiradouro velho e enferrujado.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Resssistente respiradoudo antigo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desinteressado. Um respiradouro.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Assobios de ar passam através deste velho respiradouro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Este antigo respiradouro teve dias melhores.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wrecked Vent",
+    "path": "/shortdescription"
+  }
+]

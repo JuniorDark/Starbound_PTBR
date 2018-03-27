@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma camisa feita de um tecido confortável e respirável. Perfeita para trabalhar fora o dia todo!"}, {"op": "replace", "path": "/shortdescription", "value": "Worker Shirt"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma camisa feita de um tecido confortável e respirável. Perfeita para trabalhar fora o dia todo!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Worker Shirt",
+    "path": "/shortdescription"
+  }
+]

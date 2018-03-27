@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um floco de neve perfeitamente preservado. Eles dizem que não há dois destes que sejam idênticos."}, {"op": "replace", "path": "/shortdescription", "value": "Snowflake"}]
+[
+  {
+    "op": "replace",
+    "value": "Um floco de neve perfeitamente preservado. Eles dizem que não há dois destes que sejam idênticos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Snowflake",
+    "path": "/shortdescription"
+  }
+]

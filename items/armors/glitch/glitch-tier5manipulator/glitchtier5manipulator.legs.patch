@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Lancer's Greaves"}, {"op": "replace", "path": "/description", "value": "Estas calças leves de ferozium permitem agilidade na batalha."}]
+[
+  {
+    "op": "replace",
+    "value": "Lancer's Greaves",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas calças leves de ferozium permitem agilidade na batalha.",
+    "path": "/description"
+  }
+]

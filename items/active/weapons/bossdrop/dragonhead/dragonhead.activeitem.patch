@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Dragonhead Pistol"}, {"op": "replace", "path": "/description", "value": "Uma pistola com um temperamento explosivo. Aqui há dragões."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pistola com um temperamento explosivo. Aqui há dragões.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Dragonhead Pistol",
+    "path": "/shortdescription"
+  }
+]

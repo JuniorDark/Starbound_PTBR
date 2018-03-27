@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "???",
+    "path": "/destinations/0/name"
+  },
+  {
+    "op": "replace",
+    "value": "???",
+    "path": "/destinations/0/planetName"
+  }
+]

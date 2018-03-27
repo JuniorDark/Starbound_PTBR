@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um suco agradavelmente doce feito a partir de uma fruta alienígena."}, {"op": "replace", "path": "/shortdescription", "value": "Alien Fruit Juice"}]
+[
+  {
+    "op": "replace",
+    "value": "Um suco agradavelmente doce feito a partir de uma fruta alienígena.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Alien Fruit Juice",
+    "path": "/shortdescription"
+  }
+]

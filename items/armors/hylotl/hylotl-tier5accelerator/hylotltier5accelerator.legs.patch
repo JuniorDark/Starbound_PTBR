@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Sea Leggings"}, {"op": "replace", "path": "/description", "value": "Calças leves e fortes que incentivam um guerreiro a ser rápido."}]
+[
+  {
+    "op": "replace",
+    "value": "Calças leves e fortes que incentivam um guerreiro a ser rápido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Sea Leggings",
+    "path": "/shortdescription"
+  }
+]

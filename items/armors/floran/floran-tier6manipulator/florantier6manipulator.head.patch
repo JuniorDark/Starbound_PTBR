@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Shaman's Mask"}, {"op": "replace", "path": "/description", "value": "Olhos maníacos e um sorriso diabólico são os aspectos menos inquietantes desta máscara terrível."}]
+[
+  {
+    "op": "replace",
+    "value": "Olhos maníacos e um sorriso diabólico são os aspectos menos inquietantes desta máscara terrível.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Shaman's Mask",
+    "path": "/shortdescription"
+  }
+]

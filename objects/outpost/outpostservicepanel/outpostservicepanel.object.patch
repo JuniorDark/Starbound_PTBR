@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um painel de serviço."}, {"op": "replace", "path": "/apexDescription", "value": "Um painel de serviço."}, {"op": "replace", "path": "/humanDescription", "value": "Esse sinal de alerta parece vagamente sério."}, {"op": "replace", "path": "/avianDescription", "value": "Um painel de serviço com um sinal de aviso."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um painel de serviço simples."}, {"op": "replace", "path": "/novakidDescription", "value": "Apenas algum tipo de painel de serviço."}, {"op": "replace", "path": "/shortdescription", "value": "Service Panel"}, {"op": "replace", "path": "/floranDescription", "value": "Painel de sserviço."}, {"op": "replace", "path": "/glitchDescription", "value": "Apreensivo. Este painel de serviço tem um aviso terrível nele."}]
+[
+  {
+    "op": "replace",
+    "value": "Um painel de serviço com um sinal de aviso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um painel de serviço.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um painel de serviço.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um painel de serviço simples.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apreensivo. Este painel de serviço tem um aviso terrível nele.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas algum tipo de painel de serviço.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Service Panel",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Painel de sserviço.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse sinal de alerta parece vagamente sério.",
+    "path": "/humanDescription"
+  }
+]

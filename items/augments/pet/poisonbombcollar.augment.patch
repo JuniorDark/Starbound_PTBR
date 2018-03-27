@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma coleira que faz seu pet explodir quando ele é derrotado."}, {"op": "replace", "path": "/shortdescription", "value": "Poison Bomb Collar"}]
+[
+  {
+    "op": "replace",
+    "value": "Poison Bomb Collar",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma coleira que faz seu pet explodir quando ele é derrotado.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Animado. Produtos frescos estarão disponíveis nesta loja."}, {"op": "replace", "path": "/shortdescription", "value": "Produce Shop Sign"}, {"op": "replace", "path": "/description", "value": "Uma loja que vende produtos recém cultivados."}, {"op": "replace", "path": "/floranDescription", "value": "Frutass e legumess à venda."}, {"op": "replace", "path": "/apexDescription", "value": "Isso pode indicar uma mercearia."}, {"op": "replace", "path": "/humanDescription", "value": "A placa para uma mercearia."}, {"op": "replace", "path": "/avianDescription", "value": "Frutas e legumes devem estar disponíveis aqui."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma loja de comida de fazenda."}, {"op": "replace", "path": "/novakidDescription", "value": "Algum tipo de loja de comida."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma loja de comida de fazenda.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma loja que vende produtos recém cultivados.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. Produtos frescos estarão disponíveis nesta loja.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Frutas e legumes devem estar disponíveis aqui.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Frutass e legumess à venda.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Produce Shop Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de loja de comida.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A placa para uma mercearia.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso pode indicar uma mercearia.",
+    "path": "/apexDescription"
+  }
+]

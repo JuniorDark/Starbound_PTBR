@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um carretel com uma bobina maior para uma linha mais longa."}, {"op": "replace", "path": "/shortdescription", "value": "High Capacity Reel"}]
+[
+  {
+    "op": "replace",
+    "value": "Um carretel com uma bobina maior para uma linha mais longa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "High Capacity Reel",
+    "path": "/shortdescription"
+  }
+]

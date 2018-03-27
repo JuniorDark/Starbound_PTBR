@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Crossroads Sign"}, {"op": "replace", "path": "/floranDescription", "value": "Placa confunde Floran."}, {"op": "replace", "path": "/humanDescription", "value": "Não sei o quão útil uma placa em branco é."}, {"op": "replace", "path": "/avianDescription", "value": "Parece dar direções, mas as direções não estão rotuladas."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. O que poderia explicar essa placa em branco?"}, {"op": "replace", "path": "/apexDescription", "value": "Uma placa de estrada. Mas está em branco..."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta placa não tem escrita, talvez como resultado da meteorização ao longo do tempo."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma placa em branco não não serve para ninguém."}, {"op": "replace", "path": "/description", "value": "Essas placas não dizem nada sobre os lugares que estão apontando."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma placa em branco não não serve para ninguém.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa de estrada. Mas está em branco...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Crossroads Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. O que poderia explicar essa placa em branco?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não sei o quão útil uma placa em branco é.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece dar direções, mas as direções não estão rotuladas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Placa confunde Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta placa não tem escrita, talvez como resultado da meteorização ao longo do tempo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas placas não dizem nada sobre os lugares que estão apontando.",
+    "path": "/description"
+  }
+]

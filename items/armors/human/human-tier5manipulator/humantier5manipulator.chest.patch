@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Trailblazer's Chestpiece"}, {"op": "replace", "path": "/description", "value": "Um peitoral construído para aventura!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um peitoral construído para aventura!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Trailblazer's Chestpiece",
+    "path": "/shortdescription"
+  }
+]

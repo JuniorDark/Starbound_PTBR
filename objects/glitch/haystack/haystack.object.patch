@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Hay Stack"}, {"op": "replace", "path": "/humanDescription", "value": "Eu acredito que estes são chamados de fardos de feno."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma planta de superfície seco, feita em forma de cubo."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Feno formado em fardos para fácil armazenamento."}, {"op": "replace", "path": "/avianDescription", "value": "Feno formado em um cubo."}, {"op": "replace", "path": "/novakidDescription", "value": "Um fardo de feno."}, {"op": "replace", "path": "/description", "value": "Um fardo puro de feno, pronto para empilhar."}, {"op": "replace", "path": "/floranDescription", "value": "Floran poderia fazer grande cassstelo com bloco de feno."}, {"op": "replace", "path": "/apexDescription", "value": "Um fardo de feno. Para o que é isso, eu me pergunto?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um fardo de feno.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um fardo de feno. Para o que é isso, eu me pergunto?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta de superfície seco, feita em forma de cubo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um fardo puro de feno, pronto para empilhar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran poderia fazer grande cassstelo com bloco de feno.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hay Stack",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Feno formado em um cubo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu acredito que estes são chamados de fardos de feno.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Feno formado em fardos para fácil armazenamento.",
+    "path": "/glitchDescription"
+  }
+]

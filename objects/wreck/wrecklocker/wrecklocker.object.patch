@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Um armário. Eu me pergunto se ele está vazio."}, {"op": "replace", "path": "/shortdescription", "value": "Wrecked Locker"}, {"op": "replace", "path": "/humanDescription", "value": "Um armário velho e enferrujado."}, {"op": "replace", "path": "/avianDescription", "value": "Não é uma unidade de armazenamento muito segura agora."}, {"op": "replace", "path": "/description", "value": "Um armário velho. Ei! Há uma foto colada no interior..."}, {"op": "replace", "path": "/floranDescription", "value": "Este armário cheira engraçado."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Esse armário ainda poderia ter algo dentro?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Eu não gostaria de armazenar objetos de valor aqui."}, {"op": "replace", "path": "/novakidDescription", "value": "Não gostaria de armazenar objetos de valor aqui."}]
+[
+  {
+    "op": "replace",
+    "value": "Um armário. Eu me pergunto se ele está vazio.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário velho e enferrujado.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário velho. Ei! Há uma foto colada no interior...",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Não gostaria de armazenar objetos de valor aqui.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não gostaria de armazenar objetos de valor aqui.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Esse armário ainda poderia ter algo dentro?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não é uma unidade de armazenamento muito segura agora.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este armário cheira engraçado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wrecked Locker",
+    "path": "/shortdescription"
+  }
+]

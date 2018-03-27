@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma caneca de porcelana fina."
+    "value": "Uma caneca grossa para bebidas quentes, eu acho.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Uma caneca para suco quente. Tais sucos foram banidos na proibição."
+    "value": "Uma caneca de porcelana fina.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Os Avian não tem copos com este tipo de formato."
+    "value": "Uma caneca para suco quente. Tais sucos foram banidos na proibição.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Aroma nojento de frutass dentro."
+    "value": "Analítico. O copo parece ter contido um suco de fruta aquecido.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Analítico. O copo parece ter contido um suco de fruta aquecido."
+    "value": "Classic Mug",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "O cheiro me lembra de sucos de frutas tropicais."
+    "value": "Hylotl adotaram um fator de forma menor para beber bebidas quentes.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Hylotl adotaram um fator de forma menor para beber bebidas quentes."
+    "value": "Os Avian não tem copos com este tipo de formato.",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Uma caneca grossa para bebidas quentes, eu acho."
+    "value": "Aroma nojento de frutass dentro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O cheiro me lembra de sucos de frutas tropicais.",
+    "path": "/humanDescription"
   }
 ]

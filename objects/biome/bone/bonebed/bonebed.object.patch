@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Uma daquelas sofisticadas caixas de dormir."}, {"op": "replace", "path": "/apexDescription", "value": "Esta cama parece pequena e claustrofóbica. Ela tem uma tampa!"}, {"op": "replace", "path": "/humanDescription", "value": "Talvez vampiros do espaço usem esta cama. Vampiros do espaço são reais? Eu espero que sim!"}, {"op": "replace", "path": "/avianDescription", "value": "Dormir nesta cama seria muito desagradável."}, {"op": "replace", "path": "/hylotlDescription", "value": "Algo sobre essa cama me deixa nervoso."}, {"op": "replace", "path": "/description", "value": "Uma cama de caixão. "}, {"op": "replace", "path": "/shortdescription", "value": "Bone Coffin Bed"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não está familiarizado com caixõess."}, {"op": "replace", "path": "/glitchDescription", "value": "Aterrorizado. Esta cama é decorada como um caixão."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cama de caixão. ",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bone Coffin Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não está familiarizado com caixõess.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez vampiros do espaço usem esta cama. Vampiros do espaço são reais? Eu espero que sim!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma daquelas sofisticadas caixas de dormir.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dormir nesta cama seria muito desagradável.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algo sobre essa cama me deixa nervoso.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aterrorizado. Esta cama é decorada como um caixão.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama parece pequena e claustrofóbica. Ela tem uma tampa!",
+    "path": "/apexDescription"
+  }
+]

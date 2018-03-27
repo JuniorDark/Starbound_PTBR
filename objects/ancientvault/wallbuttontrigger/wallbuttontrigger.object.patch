@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Small Wall Button"}, {"op": "replace", "path": "/description", "value": "Quem sabe o que poderia ativar... basta pressioná-lo!"}]
+[
+  {
+    "op": "replace",
+    "value": "Quem sabe o que pode ativar... basta pressioná-lo!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Small Wall Button",
+    "path": "/shortdescription"
+  }
+]

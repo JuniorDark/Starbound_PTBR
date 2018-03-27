@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Tijolos de pedra com um cume esculpido perto do topo."}, {"op": "replace", "path": "/shortdescription", "value": "Ridged Block"}, {"op": "replace", "path": "/floranDescription", "value": "Blocosss de pedra rígidos."}, {"op": "replace", "path": "/glitchDescription", "value": "Interessado. Estes blocos de construção rígidos são simples, mas eficazes."}, {"op": "replace", "path": "/novakidDescription", "value": "Estes blocos de pedra esculpidos até que são agradáveis."}]
+[
+  {
+    "op": "replace",
+    "value": "Interessado. Estes blocos de construção rígidos são simples, mas eficazes.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ridged Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Blocosss de pedra rígidos.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijolos de pedra com um cume esculpido perto do topo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estes blocos de pedra esculpidos até que são agradáveis.",
+    "path": "/novakidDescription"
+  }
+]

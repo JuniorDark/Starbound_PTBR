@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Relatório. Uma planta subaquática."}, {"op": "replace", "path": "/floranDescription", "value": "Uma planta embaçada."}, {"op": "replace", "path": "/shortdescription", "value": "Uma planta subaquática."}, {"op": "replace", "path": "/description", "value": "Uma planta subaquática."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma planta subaquática.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta subaquática.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta embaçada.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Uma planta subaquática.",
+    "path": "/glitchDescription"
+  }
+]

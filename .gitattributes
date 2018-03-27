@@ -1,0 +1,5 @@
+*.patch text eol=lf
+
+*.lua text eol=lf
+
+*_metadata text eol=lf

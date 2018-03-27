@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Uma telha metálica leve, perfeita para um laboratório de pesquisa."}, {"op": "replace", "path": "/shortdescription", "value": "Light Metal"}, {"op": "replace", "path": "/floranDescription", "value": "Telhass metálicass lisass."}, {"op": "replace", "path": "/glitchDescription", "value": "Aprovação. Estas telhas são fáceis de manter esterilizada."}, {"op": "replace", "path": "/novakidDescription", "value": "Algumas telhas feitas de metal."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma telha metálica leve, perfeita para um laboratório de pesquisa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Aprovação. Estas telhas são fáceis de manter esterilizada.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Light Metal",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Telhass metálicass lisass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas telhas feitas de metal.",
+    "path": "/novakidDescription"
+  }
+]

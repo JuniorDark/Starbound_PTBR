@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um rolo de fio de cobre."}, {"op": "replace", "path": "/shortdescription", "value": "Copper Wire"}]
+[
+  {
+    "op": "replace",
+    "value": "Um rolo de fio de cobre.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Copper Wire",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Estas pedras são feitas por ventos uivantes.."}, {"op": "replace", "path": "/shortdescription", "value": "Pedras encharcadas."}, {"op": "replace", "path": "/floranDescription", "value": "Pedras."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. O vento uivando formou estas pedras."}]
+[
+  {
+    "op": "replace",
+    "value": "Pedrasss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. O vento uivando formou estas pedras.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas pedras são feitas por ventos uivantes..",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pedras encharcadas.",
+    "path": "/shortdescription"
+  }
+]

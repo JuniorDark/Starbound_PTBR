@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Um cadáver desprezível."}, {"op": "replace", "path": "/shortdescription", "value": "Um cadáver desprezível."}, {"op": "replace", "path": "/floranDescription", "value": "Deixe os corpos caírem no chão!"}, {"op": "replace", "path": "/glitchDescription", "value": "Perturbado. Um cadáver derretido."}]
+[
+  {
+    "op": "replace",
+    "value": "Um cadáver desprezível.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um cadáver desprezível.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Deixe os corpos caírem no chão!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perturbado. Um cadáver derretido.",
+    "path": "/glitchDescription"
+  }
+]

@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Uma plataforma de madeira indescritível."}, {"op": "replace", "path": "/shortdescription", "value": "Wood Platform"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma plataforma de madeira indescritível.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Wood Platform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Uma plataforma de madeira.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Platformasss.",
+    "path": "/florandescription"
+  }
+]

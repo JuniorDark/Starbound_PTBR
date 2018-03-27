@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Conforto. Uma mesa casual. Outros parecem desconfiar disso."}, {"op": "replace", "path": "/humanDescription", "value": "Estou extremamente hesitante em sentar aqui."}, {"op": "replace", "path": "/avianDescription", "value": "Sentar aqui seria o suficiente para deixar qualquer um nervoso."}, {"op": "replace", "path": "/hylotlDescription", "value": "Talvez este seja um pouco perigoso como um uso alternativo de armas."}, {"op": "replace", "path": "/floranDescription", "value": "Floran corta na mesa. Agora, Floran corta COM mesa."}, {"op": "replace", "path": "/description", "value": "Uma mesa com espadas para as pernas. Não é ideal para brincadeiras."}, {"op": "replace", "path": "/shortdescription", "value": "Sharp Table"}, {"op": "replace", "path": "/apexDescription", "value": "Esta mesa traz uma sensação de finalidade para arrancar um dos dedos do pé."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma mesa com espadas para as pernas. Não é ideal para brincadeiras.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Conforto. Uma mesa casual. Outros parecem desconfiar disso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran corta na mesa. Agora, Floran corta COM mesa.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estou extremamente hesitante em sentar aqui.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez este seja um pouco perigoso como um uso alternativo de armas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sharp Table",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sentar aqui seria o suficiente para deixar qualquer um nervoso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa traz uma sensação de finalidade para arrancar um dos dedos do pé.",
+    "path": "/apexDescription"
+  }
+]

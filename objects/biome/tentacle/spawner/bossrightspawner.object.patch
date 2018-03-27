@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Boss Right Spawner"}, {"op": "replace", "path": "/description", "value": "Invocador da Ruína."}]
+[
+  {
+    "op": "replace",
+    "value": "Boss Right Spawner",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Invocador da Ruína.",
+    "path": "/description"
+  }
+]

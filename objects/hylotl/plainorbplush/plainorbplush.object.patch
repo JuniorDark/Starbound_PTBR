@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Eu nunca notei o quão fofos Virorbs realmente são!"}, {"op": "replace", "path": "/novakidDescription", "value": "Essa coisa é meio bonitinha, eu acho."}, {"op": "replace", "path": "/description", "value": "Um adorável Virorb de pelúcia normal."}, {"op": "replace", "path": "/shortdescription", "value": "Virorb Plushie"}, {"op": "replace", "path": "/floranDescription", "value": "Criaturasss irritantes."}, {"op": "replace", "path": "/glitchDescription", "value": "Angustiado. Será que esta pelúcia drena minha vida se eu colocá-la em minha cabeça?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Para criaturas perigosas, elas são muito fofas."}, {"op": "replace", "path": "/apexDescription", "value": "Será que vai drenar minha vida se eu colocá-la na minha cabeça?"}, {"op": "replace", "path": "/avianDescription", "value": "Perigosas quanto estão na natureza, são muito fofas na forma de pelúcia."}]
+[
+  {
+    "op": "replace",
+    "value": "Um adorável Virorb de pelúcia normal.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Criaturasss irritantes.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perigosas quanto estão na natureza, são muito fofas na forma de pelúcia.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Angustiado. Será que esta pelúcia drena minha vida se eu colocá-la em minha cabeça?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para criaturas perigosas, elas são muito fofas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu nunca notei o quão fofos Virorbs realmente são!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa coisa é meio bonitinha, eu acho.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Virorb Plushie",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Será que vai drenar minha vida se eu colocá-la na minha cabeça?",
+    "path": "/apexDescription"
+  }
+]

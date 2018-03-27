@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Isto honra a nossa primeira viagem ao espaço. Avians acreditam que na vida após a morte eles voarão livres entre as estrelas em grandes asas de penas."}, {"op": "replace", "path": "/description", "value": "Este emblema comemora o primeiro vôo das Avians para as estrelas."}, {"op": "replace", "path": "/shortdescription", "value": "Avian Moon Emblem"}, {"op": "replace", "path": "/floranDescription", "value": "Homem-pássaro também gostam de luar?"}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Um emblema. Talvez retratando algum evento histórico Avian."}, {"op": "replace", "path": "/apexDescription", "value": "Um pássaro e uma lua crescente."}, {"op": "replace", "path": "/humanDescription", "value": "Isso é o Avian entre as estrelas?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Todos nós sonhamos com essa liberdade. Em balanças as asas e voar."}, {"op": "replace", "path": "/novakidDescription", "value": "Um emblema que retrata a lua."}]
+[
+  {
+    "op": "replace",
+    "value": "Um pássaro e uma lua crescente.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um emblema que retrata a lua.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avian Moon Emblem",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Homem-pássaro também gostam de luar?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Um emblema. Talvez retratando algum evento histórico Avian.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é o Avian entre as estrelas?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este emblema comemora o primeiro vôo das Avians para as estrelas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Isto honra a nossa primeira viagem ao espaço. Avians acreditam que na vida após a morte eles voarão livres entre as estrelas em grandes asas de penas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Todos nós sonhamos com essa liberdade. Em balanças as asas e voar.",
+    "path": "/hylotlDescription"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Wooden Window"}, {"op": "replace", "path": "/novakidDescription", "value": "Janela de boa aparência com painéis de madeira."}, {"op": "replace", "path": "/description", "value": "Uma janela com painéis de madeira."}, {"op": "replace", "path": "/glitchDescription", "value": "Encantado. Essa janela ajuda a iluminar o ambiente."}, {"op": "replace", "path": "/floranDescription", "value": "Janelass agradáveis, Floran pode ver o lado de fora."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma janela com painéis de madeira.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Essa janela ajuda a iluminar o ambiente.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Janela de boa aparência com painéis de madeira.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Janelass agradáveis, Floran pode ver o lado de fora.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wooden Window",
+    "path": "/shortdescription"
+  }
+]

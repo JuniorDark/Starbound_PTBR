@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Hay Roll"}, {"op": "replace", "path": "/humanDescription", "value": "Um grande rolo de feno."}, {"op": "replace", "path": "/description", "value": "Um fardo de feno enrolado."}, {"op": "replace", "path": "/avianDescription", "value": "Avians não enrolam o feno desta maneira."}, {"op": "replace", "path": "/novakidDescription", "value": "É tentador dar a este rolo de feno um empurrão..."}, {"op": "replace", "path": "/glitchDescription", "value": "Feliz. Feno todo enrolado e pronto para ser vendido."}, {"op": "replace", "path": "/apexDescription", "value": "Feno completamente enrolado."}, {"op": "replace", "path": "/floranDescription", "value": "Esste feno poderia rolar!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma planta de superfície, seca e enrolada em um fardo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um grande rolo de feno.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um fardo de feno enrolado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta de superfície, seca e enrolada em um fardo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avians não enrolam o feno desta maneira.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Feliz. Feno todo enrolado e pronto para ser vendido.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hay Roll",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "É tentador dar a este rolo de feno um empurrão...",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esste feno poderia rolar!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Feno completamente enrolado.",
+    "path": "/apexDescription"
+  }
+]

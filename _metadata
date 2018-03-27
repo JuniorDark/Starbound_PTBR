@@ -1,0 +1,11 @@
+{
+  "name" : "Traducao_PTBR",
+  "friendlyName" : "Tradução Português PT-BR",
+  "description" : "[h1]Sobre:[/h1]\nEste mod é uma tradução para o Starbound. \n\n[b]Para baixar apenas clique no botão Inscrever-se.[/b]\n\nTo English users: This is a mod that will change game language to Portuguese.\n\n[h1]Progresso da tradução: [/h1]\n- Finalizada.\n\n[h1]Download da tradução para instalação manual:[/h1]\nhttps://drive.google.com/open?id=0B6BcE9Y2H_j2cmFwNmtMb25DLUU\n\n[h1]Instalação:[/h1]Coloque o arquivo 'Tradução-PTBR.pak' dentro da pasta 'mods' dentro da pasta do starbound.\n\n[b]Nota: Se você estiver usando a versão instalada manualmente confira a seção 'Atualizações' para saber quando houve uma atualização na tradução porque sera necessário baixar novamente.[/b]\n\n[h1]INFORMAÇÕES IMPORTANTES:[/h1]\n- [b]Os NOMES dos itens NÃO serão traduzidos (com exceção dos códices), para que seja possível encontra-los facilmente em wikis.[/b]\n- [b]Alguns textos não são possiveis traduzir devido a estarem dentro do executavel do starbound. (Ex:Mensagens de erro, chat, servidor.)[/b]\n- [b]Textos de missões obtidas antes da instalação desta tradução estarão em Inglês.[/b]\n- [b]Mods que modificam os textos do jogo podem não funcionar corretamente com esta tradução.[/b]\n- [b]Instalar e desinstalar mods pode corromper seus saves, você pode querer fazer um backup da pasta 'storage' dentro da pasta do starbound antes de instalar qualquer mod.[/b]\n- [b]Se você estiver jogando em um servidor é preciso ser instalado tanto no servidor e no cliente.[/b]\n- [b]Por favor avalie e adicione aos favoritos para ajudar a divulgar!!! [/b]\n\n[h1]!!ATENÇÃO!![/h1]\nEm caso de problemas basta criar uma discussão. \n\n[h1]Agradecimentos Especiais:[/h1]\n\n[url=http://steamcommunity.com/id/zapper83] Zapper[/url] - Pela imagem de capa.\n\nFlori, Administrador do translator.vorlif.org - pela excelente ferramenta de tradução! \n\nKawa's Starbound JSON Lab, pelas ferramentas de modding - http://helmet.kafuka.org/sbmods/json/",
+  "author" : "JuniorDark",
+  "version" : "1.0.9",
+  "link" : "steam://url/CommunityFilePage/754883881",
+  "steamContentId" : "754883881",
+  "tags" : "Miscellaneous|User Interface",
+  "priority" : 1000
+}

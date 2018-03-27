@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Pond Greaves"}, {"op": "replace", "path": "/description", "value": "Os greaves do tungstênio protegem o portador, ao mesmo tempo que transformam sua sirueta."}]
+[
+  {
+    "op": "replace",
+    "value": "Pond Greaves",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os greaves do tungstênio protegem o portador, ao mesmo tempo que transformam sua sirueta.",
+    "path": "/description"
+  }
+]

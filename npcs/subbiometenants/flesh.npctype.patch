@@ -1,1 +1,87 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/tenant/grumbles/final/default/default/1", "value": "EU NÃO POSSO VIVER ASSIM, É HORA DE SEGUIR EM DIANTE, PARA O DESCONHECIDO CARNUDO!"}, {"op": "replace", "path": "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default/1", "value": "O QUE ACONTECEU COM MEUS MÓVEIS CARNUDOS?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "EU SOU UM COMERCIANTE DE MERCADORIAS CARNUDAS RARAS! EU VOU TENTAR CONSEGUIR ALGO BOM SE EU PUDER!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/1", "value": "ESTOU À PROCURA DE TESOUROS CARNUDOS RAROS. VENHA ME VISITAR HÁ QUALQUER HORA, EU PODERIA TER UM PRESENTE PARA VOCÊ!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/2", "value": "ESTOU BUSCANDO ALGUNS TESOUROS CARNUDOS! EU VOU TE DIZER SE EU TIVER ALGO PARA VOCÊ!"}, {"op": "replace", "path": "/scriptConfig/dialog/tenant/arrivedHome/rent/default/default/0", "value": "ME DEPAREI COM ISSO NA MINHA NEGOCIAÇÃO! É UM PRESENTE PARA VOCÊ!"}, {"op": "replace", "path": "/scriptConfig/dialog/tenant/arrivedHome/rent/default/default/1", "value": "DURANTE MEUS NEGÓCIOS, ME DEPAREI COM ISSO PARA VOCÊ! ESPERO QUE VOCÊ GOSTE!"}, {"op": "replace", "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/default/default/0", "value": "EI, VOCÊ PRECISA DE MIM PARA ALGUMA COISA?!"}, {"op": "replace", "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/default/default/1", "value": "EI AÍ, COMO VAI?"}, {"op": "replace", "path": "/scriptConfig/dialog/tenant/grumbles/final/default/default/0", "value": "BEM, É HORA DE BUSCAR MINHA FORTUNA CARNUDA EM OUTROS LUGARES!"}, {"op": "replace", "path": "/scriptConfig/dialog/tenant/grumbles/otherDeed/default/default/0", "value": "EI, NINGUÉM MAIS DEVERIA ESTAR SE MUDANDO PRA CÁ, OK?"}, {"op": "replace", "path": "/scriptConfig/dialog/tenant/grumbles/otherDeed/default/default/1", "value": "ESTE LUGAR NÃO ERA MEU?"}, {"op": "replace", "path": "/scriptConfig/dialog/tenant/grumbles/severe/default/default/0", "value": "EU NÃO POSSO IR À PROCURA DE MERCADORIAS CARNUDAS COM A MINHA NESTE ESTADO!"}, {"op": "replace", "path": "/scriptConfig/dialog/tenant/grumbles/severe/default/default/1", "value": "COMO É QUE EU EU PROCURAR MERCADORIAS CARNUDAS SOB ESTAS CONDIÇÕES?!"}, {"op": "replace", "path": "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default/0", "value": "EU ACHO QUE HÁ UMA PAREDE QUEBRADA AQUI! VOCÊ PODE AJUDAR?"}, {"op": "replace", "path": "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default/1", "value": "PARECE UM POUCO EMPOEIRADO AQUI, SERA QUE EU TENHO UMA PAREDE QUEBRADA?"}, {"op": "replace", "path": "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default/0", "value": "COSTUMAVA HAVER COISAS MAIS CARNUDAS AQUI DO QUE HÁ AGORA!"}]
+[
+  {
+    "op": "replace",
+    "value": "EI AÍ, COMO VAI?",
+    "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "EI, VOCÊ PRECISA DE MIM PARA ALGUMA COISA?!",
+    "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "EI, NINGUÉM MAIS DEVERIA ESTAR SE MUDANDO PRA CÁ, OK?",
+    "path": "/scriptConfig/dialog/tenant/grumbles/otherDeed/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "COMO É QUE EU EU PROCURAR MERCADORIAS CARNUDAS SOB ESTAS CONDIÇÕES?!",
+    "path": "/scriptConfig/dialog/tenant/grumbles/severe/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "ME DEPAREI COM ISSO NA MINHA NEGOCIAÇÃO! É UM PRESENTE PARA VOCÊ!",
+    "path": "/scriptConfig/dialog/tenant/arrivedHome/rent/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "EU NÃO POSSO IR À PROCURA DE MERCADORIAS CARNUDAS COM A MINHA NESTE ESTADO!",
+    "path": "/scriptConfig/dialog/tenant/grumbles/severe/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "EU NÃO POSSO VIVER ASSIM, É HORA DE SEGUIR EM DIANTE, PARA O DESCONHECIDO CARNUDO!",
+    "path": "/scriptConfig/dialog/tenant/grumbles/final/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "EU ACHO QUE HÁ UMA PAREDE QUEBRADA AQUI! VOCÊ PODE AJUDAR?",
+    "path": "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "EU SOU UM COMERCIANTE DE MERCADORIAS CARNUDAS RARAS! EU VOU TENTAR CONSEGUIR ALGO BOM SE EU PUDER!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "ESTOU À PROCURA DE TESOUROS CARNUDOS RAROS. VENHA ME VISITAR HÁ QUALQUER HORA, EU PODERIA TER UM PRESENTE PARA VOCÊ!",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "ESTOU BUSCANDO ALGUNS TESOUROS CARNUDOS! EU VOU TE DIZER SE EU TIVER ALGO PARA VOCÊ!",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "DURANTE MEUS NEGÓCIOS, ME DEPAREI COM ISSO PARA VOCÊ! ESPERO QUE VOCÊ GOSTE!",
+    "path": "/scriptConfig/dialog/tenant/arrivedHome/rent/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "PARECE UM POUCO EMPOEIRADO AQUI, SERA QUE EU TENHO UMA PAREDE QUEBRADA?",
+    "path": "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "COSTUMAVA HAVER COISAS MAIS CARNUDAS AQUI DO QUE HÁ AGORA!",
+    "path": "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "ESTE LUGAR NÃO ERA MEU?",
+    "path": "/scriptConfig/dialog/tenant/grumbles/otherDeed/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "BEM, É HORA DE BUSCAR MINHA FORTUNA CARNUDA EM OUTROS LUGARES!",
+    "path": "/scriptConfig/dialog/tenant/grumbles/final/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "O QUE ACONTECEU COM MEUS MÓVEIS CARNUDOS?",
+    "path": "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default/1"
+  }
+]

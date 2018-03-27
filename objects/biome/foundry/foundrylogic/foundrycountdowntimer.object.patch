@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "<Um temporizador que permanece ativo por um período definido.>"}, {"op": "replace", "path": "/shortdescription", "value": "Foundry Countdown Timer"}]
+[
+  {
+    "op": "replace",
+    "value": "<Um temporizador que permanece ativo por um período definido.>",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Foundry Countdown Timer",
+    "path": "/shortdescription"
+  }
+]

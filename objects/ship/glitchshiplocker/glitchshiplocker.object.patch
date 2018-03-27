@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Shiplocker"}, {"op": "replace", "path": "/humanDescription", "value": "Um bom local para guardar objetos de valor."}, {"op": "replace", "path": "/apexDescription", "value": "Uma unidade de armazenamento Glitch."}, {"op": "replace", "path": "/floranDescription", "value": "Glitch armazena coisass de valor aqui."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Um bom armário de armazenamento Glitch."}, {"op": "replace", "path": "/avianDescription", "value": "O armário de armazenamento da nave."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um velho ditado Hylotl vem à mente \"Nunca se esqueça de onde você armazenou seus objetos de valor.\""}, {"op": "replace", "path": "/description", "value": "Um armário. Guardar algumas coisas, por que não?"}, {"op": "replace", "path": "/novakidDescription", "value": "Um armário para colocar as coisas dentro."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma unidade de armazenamento Glitch.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um bom local para guardar objetos de valor.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um velho ditado Hylotl vem à mente \"Nunca se esqueça de onde você armazenou seus objetos de valor.\"",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Glitch armazena coisass de valor aqui.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Um bom armário de armazenamento Glitch.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O armário de armazenamento da nave.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário. Guardar algumas coisas, por que não?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Shiplocker",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário para colocar as coisas dentro.",
+    "path": "/novakidDescription"
+  }
+]

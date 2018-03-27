@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma mistura saudável de bananas e uvas."}, {"op": "replace", "path": "/shortdescription", "value": "Ape Grapes"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma mistura saudável de bananas e uvas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ape Grapes",
+    "path": "/shortdescription"
+  }
+]

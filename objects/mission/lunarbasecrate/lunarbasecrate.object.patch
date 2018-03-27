@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma caixa de armazenamento, normalmente usada para armazenar equipamentos e minérios."}, {"op": "replace", "path": "/avianDescription", "value": "Esta caixa é usada para armazenar diferentes tipos de equipamentos."}, {"op": "replace", "path": "/shortdescription", "value": "Lunar Base Crate"}, {"op": "replace", "path": "/floranDescription", "value": "Caixa brilhante pode armazenar muitas coisass."}, {"op": "replace", "path": "/glitchDescription", "value": "Invejoso. Esta caixa é bem conservada e polida."}, {"op": "replace", "path": "/apexDescription", "value": "Uma boa caixa de armazenamento feita a partir de um material resistente."}, {"op": "replace", "path": "/humanDescription", "value": "Esta caixa parece que poderia sobreviver a qualquer condição do espaço."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma grande caixa usada para organizar itens e mantê-los seguros."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma caixa bem grande. O que será que tem dentro?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma grande caixa usada para organizar itens e mantê-los seguros.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma boa caixa de armazenamento feita a partir de um material resistente.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa bem grande. O que será que tem dentro?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de armazenamento, normalmente usada para armazenar equipamentos e minérios.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Invejoso. Esta caixa é bem conservada e polida.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lunar Base Crate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Caixa brilhante pode armazenar muitas coisass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta caixa é usada para armazenar diferentes tipos de equipamentos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta caixa parece que poderia sobreviver a qualquer condição do espaço.",
+    "path": "/humanDescription"
+  }
+]

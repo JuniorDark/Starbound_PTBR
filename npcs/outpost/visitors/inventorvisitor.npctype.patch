@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Ansioso. Eu sou um inventor de profissão, e eu estou aqui para encontrar alguns componentes que eu preciso!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/3", "value": "Saudoso. O universo é vasto, e o potencial para a criatividade é infinita! Eu tenho tantas coisas para criar!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/2", "value": "Animado. Minha última invenção vai ser inovadora!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/1", "value": "Amigável. Eu sou um inventor! Você também gosta de criar coisas?"}]
+[
+  {
+    "op": "replace",
+    "value": "Ansioso. Eu sou um inventor de profissão, e eu estou aqui para encontrar alguns componentes que eu preciso!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. Minha última invenção vai ser inovadora!",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Amigável. Eu sou um inventor! Você também gosta de criar coisas?",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Saudoso. O universo é vasto, e o potencial para a criatividade é infinita! Eu tenho tantas coisas para criar!",
+    "path": "/scriptConfig/dialog/converse/default/default/3"
+  }
+]

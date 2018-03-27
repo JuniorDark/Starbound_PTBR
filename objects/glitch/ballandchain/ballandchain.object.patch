@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Uma bola e corrente. Um meio primitivo de retardar um prisioneiro."}, {"op": "replace", "path": "/description", "value": "Eu me pergunto o quão pesado é."}, {"op": "replace", "path": "/shortdescription", "value": "Ball and Chain"}, {"op": "replace", "path": "/floranDescription", "value": "Floran ussa pedra ssemelhante para evitar que comida fuja."}, {"op": "replace", "path": "/glitchDescription", "value": "Triste. Muitos dos Glitch que se tornaram auto-conscientes experimentaram uma bola e corrente."}, {"op": "replace", "path": "/apexDescription", "value": "Uma bola e corrente, uma boa metáfora para a Miniknog."}, {"op": "replace", "path": "/avianDescription", "value": "Parece ser um dispositivo para impedir que os prisioneiros escapem."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os Hylotl tratam os prisioneiros com mais respeito."}, {"op": "replace", "path": "/novakidDescription", "value": "É a última coisa que eu preciso."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma bola e corrente, uma boa metáfora para a Miniknog.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bola e corrente. Um meio primitivo de retardar um prisioneiro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ball and Chain",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ussa pedra ssemelhante para evitar que comida fuja.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto o quão pesado é.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Parece ser um dispositivo para impedir que os prisioneiros escapem.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Triste. Muitos dos Glitch que se tornaram auto-conscientes experimentaram uma bola e corrente.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É a última coisa que eu preciso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Hylotl tratam os prisioneiros com mais respeito.",
+    "path": "/hylotlDescription"
+  }
+]

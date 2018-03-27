@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Cínico. A eletrônica embutida é frequentemente inferior às suas contrapartes separadas. Exceto no caso dos Glitch, é claro."}, {"op": "replace", "path": "/description", "value": "Uma mesa de escritório com um monitor embutido. Parece que alguém estava codificando."}, {"op": "replace", "path": "/shortdescription", "value": "Metal Office Desk"}, {"op": "replace", "path": "/apexDescription", "value": "Esta mesa tem um monitor integrado."}, {"op": "replace", "path": "/floranDescription", "value": "Messsa com tela pressa a ela."}, {"op": "replace", "path": "/humanDescription", "value": "Este monitor está embutido na mesa."}, {"op": "replace", "path": "/avianDescription", "value": "Uma mesa lisa com um monitor preso a ela."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um monitor embutido. Uma fusão inteligente de tecnologia e conforto."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma tela presa a uma mesa."}]
+[
+  {
+    "op": "replace",
+    "value": "Um monitor embutido. Uma fusão inteligente de tecnologia e conforto.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa lisa com um monitor preso a ela.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tela presa a uma mesa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa de escritório com um monitor embutido. Parece que alguém estava codificando.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cínico. A eletrônica embutida é frequentemente inferior às suas contrapartes separadas. Exceto no caso dos Glitch, é claro.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Messsa com tela pressa a ela.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Metal Office Desk",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa tem um monitor integrado.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este monitor está embutido na mesa.",
+    "path": "/humanDescription"
+  }
+]

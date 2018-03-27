@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Esta cadeira pode parecer de baixa qualidade, mas as almofadas de couro criar um monte de conforto potencial."}, {"op": "replace", "path": "/description", "value": "Uma cadeira de madeira com estofamento de couro de mooshi."}, {"op": "replace", "path": "/shortdescription", "value": "Frontier Chair"}, {"op": "replace", "path": "/floranDescription", "value": "Cadeira ainda cheira um pouco com presa. Boa cadeira."}, {"op": "replace", "path": "/apexDescription", "value": "Esta cadeira é confortável o suficiente. As almofadas de couro de animal adicionam um pouco de personalidade."}, {"op": "replace", "path": "/humanDescription", "value": "Este sofá parece um pouco sarnento para sentar."}, {"op": "replace", "path": "/avianDescription", "value": "O estofamento de couro animal da coceira nas penas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Eu seria relutante em sentar-se nesta cadeira. O estofamento de couro animal não parece muito confortável."}, {"op": "replace", "path": "/novakidDescription", "value": "A cadeira perfeita. Eu descansaria meus pés em uma cadeira como esta qualquer dia."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira de madeira com estofamento de couro de mooshi.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cadeira ainda cheira um pouco com presa. Boa cadeira.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Frontier Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu seria relutante em sentar-se nesta cadeira. O estofamento de couro animal não parece muito confortável.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Esta cadeira pode parecer de baixa qualidade, mas as almofadas de couro criar um monte de conforto potencial.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O estofamento de couro animal da coceira nas penas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A cadeira perfeita. Eu descansaria meus pés em uma cadeira como esta qualquer dia.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cadeira é confortável o suficiente. As almofadas de couro de animal adicionam um pouco de personalidade.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este sofá parece um pouco sarnento para sentar.",
+    "path": "/humanDescription"
+  }
+]

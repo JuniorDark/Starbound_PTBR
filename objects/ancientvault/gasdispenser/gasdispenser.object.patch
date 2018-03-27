@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Gas Dispenser"}, {"op": "replace", "path": "/description", "value": "Dispensa gás"}]
+[
+  {
+    "op": "replace",
+    "value": "Dispensa gás",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Gas Dispenser",
+    "path": "/shortdescription"
+  }
+]

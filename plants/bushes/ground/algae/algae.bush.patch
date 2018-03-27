@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Alga."}, {"op": "replace", "path": "/shortdescription", "value": "Algae."}, {"op": "replace", "path": "/floranDescription", "value": "Ervas viscosasss"}, {"op": "replace", "path": "/glitchDescription", "value": "Declaração. Algas."}]
+[
+  {
+    "op": "replace",
+    "value": "Algae.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Algae.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Declaração. Algas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ervas viscosasss",
+    "path": "/floranDescription"
+  }
+]

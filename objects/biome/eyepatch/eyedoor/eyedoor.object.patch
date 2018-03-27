@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma porta coberta de olhos. Não pisque."}, {"op": "replace", "path": "/shortdescription", "value": "Eye Door"}, {"op": "replace", "path": "/apexDescription", "value": "O olhar penetrante da porta está me desafiando a entrar."}, {"op": "replace", "path": "/avianDescription", "value": "Esse olho emana malevolência. Que horrores estão além?"}, {"op": "replace", "path": "/floranDescription", "value": "Floran acha que porta olha para Floran engraçado. Floran sente territorial."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma porta excessivamente dramática decorada com um grande olho. Os Hylotl prefere a beleza absoluta para transmitir importância."}, {"op": "replace", "path": "/humanDescription", "value": "Esta porta não parece muito acolhedora. Acho que foi uma espécie de trocadilho."}, {"op": "replace", "path": "/glitchDescription", "value": "Contemplativo. Com apenas um olho, esta porta deve ver o mundo como um espaço unidimensional."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta porta está mantendo um olho em mim."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta coberta de olhos. Não pisque.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta excessivamente dramática decorada com um grande olho. Os Hylotl prefere a beleza absoluta para transmitir importância.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Contemplativo. Com apenas um olho, esta porta deve ver o mundo como um espaço unidimensional.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eye Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran acha que porta olha para Floran engraçado. Floran sente territorial.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O olhar penetrante da porta está me desafiando a entrar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta não parece muito acolhedora. Acho que foi uma espécie de trocadilho.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta está mantendo um olho em mim.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse olho emana malevolência. Que horrores estão além?",
+    "path": "/avianDescription"
+  }
+]

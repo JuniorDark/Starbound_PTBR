@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma placa halógena para a Corporação Letheia."
+    "value": "Uma placa de aparência corporativa brilhante.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Uma placa de aparência corporativa brilhante."
+    "value": "Uma placa halógena para a Corporação Letheia.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Esta é uma placa muito angular."
+    "value": "Uma placa para a Corporação Letheia, uma empresa de conglomerado com muito dinheiro para gastar.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Placa é muito inclinada."
+    "value": "Uma placa para a Corporação Letheia, uma empresa Hylotl bem conhecida.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Curioso. Isso parece ser uma placa para algum tipo de marca ou empresa."
+    "value": "Curioso. Isso parece ser uma placa para algum tipo de marca ou empresa.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Uma placa para a Corporação Letheia, uma empresa de conglomerado com muito dinheiro para gastar."
+    "value": "É um pouco chamativa para uma placa, não é?",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Uma placa para a Corporação Letheia, uma empresa Hylotl bem conhecida."
+    "value": "Letheia Corp Sign",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "É um pouco chamativa para uma placa, não é?"
+    "value": "Placa é muito inclinada.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é uma placa muito angular.",
+    "path": "/avianDescription"
   }
 ]

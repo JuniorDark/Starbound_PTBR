@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Você ouviu a piada sobre o banheiro? Esquece, é muito suja."}, {"op": "replace", "path": "/description", "value": "O banheiro padrão do dormitório do Protetorado."}, {"op": "replace", "path": "/apexDescription", "value": "Esta privada tem uma descarga automática."}, {"op": "replace", "path": "/avianDescription", "value": "Um vaso sanitário! Eu tive algumas ótimas idéias sentadas nisso."}, {"op": "replace", "path": "/hylotlDescription", "value": "Não preciso usar isso. Eu devo me apressar para a cerimônia!"}, {"op": "replace", "path": "/novakidDescription", "value": "Sim. É uma privada."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Esta privada está muito limpa!"}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Dorm Toilet"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não gosta de compartilhar privada com outros estudantess."}]
+[
+  {
+    "op": "replace",
+    "value": "Um vaso sanitário! Eu tive algumas ótimas idéias sentadas nisso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Você ouviu a piada sobre o banheiro? Esquece, é muito suja.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não gosta de compartilhar privada com outros estudantess.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não preciso usar isso. Eu devo me apressar para a cerimônia!",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Esta privada está muito limpa!",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Dorm Toilet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O banheiro padrão do dormitório do Protetorado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta privada tem uma descarga automática.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sim. É uma privada.",
+    "path": "/novakidDescription"
+  }
+]

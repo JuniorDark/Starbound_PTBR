@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Este homem tem 'criminoso' escrito em todo o rosto. Literalmente. Ele parece orgulhoso de suas realizações."}, {"op": "replace", "path": "/description", "value": "Havia alguns materiais de escritório e arquivos de presos neste armário de arquivos."}, {"op": "replace", "path": "/shortdescription", "value": "Wide Rusty Filing Cabinet"}, {"op": "replace", "path": "/apexDescription", "value": "Aparentemente, nudez pública é ilegal para os humanos. Quem diria?"}, {"op": "replace", "path": "/humanDescription", "value": "Oh, Ei, essa mulher é uma contrabandista bem famosa. Diz aqui que ela fugiu."}, {"op": "replace", "path": "/avianDescription", "value": "Uma mulher foi presa por usar óculos muito grandes. Aparentemente, eles eram um perigo de incêndio."}, {"op": "replace", "path": "/glitchDescription", "value": "Subjugado. Um grande número de humanos vão para a prisão por socarem uns aos outros na cara."}, {"op": "replace", "path": "/floranDescription", "value": "Este arquivo está cheio de crimesss documentados. Humanos são um grupo perigoso!"}, {"op": "replace", "path": "/novakidDescription", "value": "Arquivos de detento. Todos temos nossos segredos obscuros e arrependimentos. Não vou bisbilhotar."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma mulher foi presa por usar óculos muito grandes. Aparentemente, eles eram um perigo de incêndio.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aparentemente, nudez pública é ilegal para os humanos. Quem diria?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Oh, Ei, essa mulher é uma contrabandista bem famosa. Diz aqui que ela fugiu.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Subjugado. Um grande número de humanos vão para a prisão por socarem uns aos outros na cara.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este arquivo está cheio de crimesss documentados. Humanos são um grupo perigoso!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este homem tem 'criminoso' escrito em todo o rosto. Literalmente. Ele parece orgulhoso de suas realizações.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wide Rusty Filing Cabinet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Arquivos de detento. Todos temos nossos segredos obscuros e arrependimentos. Não vou bisbilhotar.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Havia alguns materiais de escritório e arquivos de presos neste armário de arquivos.",
+    "path": "/description"
+  }
+]

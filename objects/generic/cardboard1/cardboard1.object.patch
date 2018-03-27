@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma caixa de papelão vertical."}, {"op": "replace", "path": "/shortdescription", "value": "Upright Cardboard Box"}, {"op": "replace", "path": "/floranDescription", "value": "Caixa de papelão guarda coisass."}, {"op": "replace", "path": "/glitchDescription", "value": "Interessado. Esta seta indicadora pode ser importante para proteger o conteúdo interno."}, {"op": "replace", "path": "/apexDescription", "value": "Uma caixa de papelão com uma seta impressa nele."}, {"op": "replace", "path": "/humanDescription", "value": "Uma caixa de papelão. Útil para guardar coisas."}, {"op": "replace", "path": "/avianDescription", "value": "Uma caixa de papelão básica."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma caixa de papelão básica."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma caixa simples feita de papelão."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma caixa de papelão básica.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de papelão básica.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de papelão com uma seta impressa nele.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa simples feita de papelão.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de papelão vertical.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Caixa de papelão guarda coisass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Esta seta indicadora pode ser importante para proteger o conteúdo interno.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Upright Cardboard Box",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de papelão. Útil para guardar as coisas.",
+    "path": "/humanDescription"
+  }
+]

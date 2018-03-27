@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Fleshy Microformer"}, {"op": "replace", "path": "/description", "value": "Transforma uma área de um planeta em uma abominação carnuda. \n^red;Microformers são itens de uso único."}]
+[
+  {
+    "op": "replace",
+    "value": "Fleshy Microformer",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Transforma uma área de um planeta em uma abominação carnuda. \n^red;Microformers são itens de uso único.",
+    "path": "/description"
+  }
+]

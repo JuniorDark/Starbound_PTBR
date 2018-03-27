@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Cooked Ham"}, {"op": "replace", "path": "/description", "value": "Uma coxa de presunto alienígena assada."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma coxa de presunto alienígena assada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cooked Ham",
+    "path": "/shortdescription"
+  }
+]

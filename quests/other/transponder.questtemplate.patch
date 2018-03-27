@@ -1,1 +1,17 @@
-[{"op":"replace","path":"/title","value":"^orange;Sua Própria Estação Espacial"},{"op":"replace","path":"/text","value":"Você gostaria de implantar sua própria estação espacial? Eu posso criar para você seu próprio ^orange;Station Transponder^white;, e tudo o que será necessário são alguns recursos! \nSimplesmente ^green;traga 50 ^orange;Titanium Bars^white;, ^green;50 ^orange;Gold Bars^white;, ^green;50 ^orange;Silver Bars^white; e ^green;1000^orange; pixels ^green;Para mim ou para qualquer outro fornecedor de Transponder^white;!"},{"op":"replace","path":"/completionText","value":"Aqui esta o seu próprio ^orange;Station Transponder^white;! ^green;Use-o em sua nave^white; para implantar uma estação espacial em seu sistema estelar local!"}]
+[
+  {
+    "op": "replace",
+    "value": "Aqui esta o seu próprio ^orange;Station Transponder^white;! ^green;Use-o em sua nave^white; para implantar uma estação espacial em seu sistema estelar local!",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "Você gostaria de implantar sua própria estação espacial? Eu posso criar para você seu próprio ^orange;Station Transponder^white;, e tudo o que será necessário são alguns recursos! \nSimplesmente ^green;traga 50 ^orange;Titanium Bars^white;, ^green;50 ^orange;Gold Bars^white;, ^green;50 ^orange;Silver Bars^white; e ^green;1000^orange; pixels ^green;Para mim ou para qualquer outro fornecedor de Transponder^white;!",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Sua Própria Estação Espacial",
+    "path": "/title"
+  }
+]

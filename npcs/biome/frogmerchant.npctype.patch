@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle", "value": "Penny-wise polliwog peddler"}, {"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title", "value": "Frogg Comerciante"}]
+[
+  {
+    "op": "replace",
+    "value": "Frogg Comerciante",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Penny-wise polliwog peddler",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+  }
+]

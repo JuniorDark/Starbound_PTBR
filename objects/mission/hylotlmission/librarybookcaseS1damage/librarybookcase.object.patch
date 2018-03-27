@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma pequena estante de livros que foi danificada."}, {"op": "replace", "path": "/shortdescription", "value": "Damaged Small Bookcase"}, {"op": "replace", "path": "/floranDescription", "value": "Estante já quebrou?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma estante de livros danificada é uma visão trágica."}, {"op": "replace", "path": "/apexDescription", "value": "Esta estante levou uma surra e tanto."}, {"op": "replace", "path": "/novakidDescription", "value": "O que diabos aconteceu?"}, {"op": "replace", "path": "/humanDescription", "value": "Esta estante é um naufrágio."}, {"op": "replace", "path": "/avianDescription", "value": "Me pergunto como esta estante ficou tão danificada."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Como essa estante de livros sofreu tal dano?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pequena estante de livros que foi danificada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Damaged Small Bookcase",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estante de livros danificada é uma visão trágica.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estante já quebrou?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Como essa estante de livros sofreu tal dano?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me pergunto como esta estante ficou tão danificada.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta estante levou uma surra e tanto.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta estante é um naufrágio.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que diabos aconteceu?",
+    "path": "/novakidDescription"
+  }
+]

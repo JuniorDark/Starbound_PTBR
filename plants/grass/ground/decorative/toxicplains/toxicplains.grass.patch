@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Relatório. Plantas tóxicas."}, {"op": "replace", "path": "/description", "value": "Plantas potencialmente tóxicas."}, {"op": "replace", "path": "/shortdescription", "value": "Plantas tóxicas."}, {"op": "replace", "path": "/floranDescription", "value": "Os Floran bebem veneno no café da manhã. E então morrem."}]
+[
+  {
+    "op": "replace",
+    "value": "Os Floran bebem veneno no café da manhã. E então morrem.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plantas potencialmente tóxicas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Plantas tóxicas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plantas tóxicas.",
+    "path": "/shortdescription"
+  }
+]

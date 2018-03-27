@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Tijolos de granito natural empilhados."}, {"op": "replace", "path": "/shortdescription", "value": "Granite Rock"}]
+[
+  {
+    "op": "replace",
+    "value": "Granite Rock",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gossssta de muito granito.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Mineração deste granito só irá produzir paralelepípedos.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece-me um pouco de granito básico.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijolos de granito natural empilhados.",
+    "path": "/description"
+  }
+]

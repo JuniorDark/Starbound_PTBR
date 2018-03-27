@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma boina militar, apta para um pequeno soldado Pinguim. Que fofo."
+    "value": "Uma boina militar, apta para um pequeno soldado Pinguim. Que fofo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Penguin Beret",
+    "path": "/shortdescription"
   }
 ]

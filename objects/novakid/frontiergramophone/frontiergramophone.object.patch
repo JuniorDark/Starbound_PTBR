@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "A música deste tocador de discos inspira algo dentro de mim. É uma sensação emocionante."}, {"op": "replace", "path": "/description", "value": "Um tocador de discos encantador, tocando uma música antiga."}, {"op": "replace", "path": "/shortdescription", "value": "Frontier Gramophone"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de música, esconde sonsss de Floran sendo sssorrateiro."}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Este dispositivo transforma um disco que inexplicavelmente produz música agradável."}, {"op": "replace", "path": "/humanDescription", "value": "Um gramofone classico! Reúna-se, crianças!"}, {"op": "replace", "path": "/avianDescription", "value": "Este dispositivo simples produz música girando um disco. Que fascinante!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Este tocador de música é surpreendentemente funcional para o quão simples é."}, {"op": "replace", "path": "/novakidDescription", "value": "A música que está tocando é um verdadeiro atiçador de dedo alto!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um tocador de discos encantador, tocando uma música antiga.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um gramofone classico! Reúna-se, crianças!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de música, esconde sonsss de Floran sendo sssorrateiro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Frontier Gramophone",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Este dispositivo transforma um disco que inexplicavelmente produz música agradável.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A música deste tocador de discos inspira algo dentro de mim. É uma sensação emocionante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A música que está tocando é um verdadeiro atiçador de dedo alto!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este tocador de música é surpreendentemente funcional para o quão simples é.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este dispositivo simples produz música girando um disco. Que fascinante!",
+    "path": "/avianDescription"
+  }
+]

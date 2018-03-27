@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma lâmpada feita de um cristal brilhante suavemente esculpido."}, {"op": "replace", "path": "/shortdescription", "value": "Prism Emerald Lamp"}, {"op": "replace", "path": "/humanDescription", "value": "Esta lâmpada parece ser radioativa. Espero que não seja."}, {"op": "replace", "path": "/avianDescription", "value": "O brilho desta lâmpada é enervante."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este cristal brilhante funciona como uma lâmpada. Que curioso."}, {"op": "replace", "path": "/floranDescription", "value": "Floran nervoso na rocha brilhante..."}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. Isto é suposto brilhar assim?"}, {"op": "replace", "path": "/apexDescription", "value": "O brilho verde destas lâmpadas me lembra de resíduos radioativos..."}, {"op": "replace", "path": "/novakidDescription", "value": "Isso parece um tipo de cacto brilhante para mim."}]
+[
+  {
+    "op": "replace",
+    "value": "Preocupado. Isto é suposto brilhar assim?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Prism Emerald Lamp",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O brilho desta lâmpada é enervante.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O brilho verde destas lâmpadas me lembra de resíduos radioativos...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este cristal brilhante funciona como uma lâmpada. Que curioso.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lâmpada parece ser radioativa. Espero que não seja.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso parece um tipo de cacto brilhante para mim.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada feita de um cristal brilhante suavemente esculpido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran nervoso na rocha brilhante...",
+    "path": "/floranDescription"
+  }
+]

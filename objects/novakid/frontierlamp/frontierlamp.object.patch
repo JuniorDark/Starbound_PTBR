@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma lâmpada á gás suspensa com uma tampa de vidro vermelha."}, {"op": "replace", "path": "/shortdescription", "value": "Frontier Lamp"}, {"op": "replace", "path": "/floranDescription", "value": "Luz vermelha pendurada tem fogo dentro. Floran nervoso."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. O metal desta lâmpada de latão é bastante ornamentado. Deve ter sido feito com cuidado."}, {"op": "replace", "path": "/apexDescription", "value": "Esta lâmpada a óleo de latão lança um brilho vermelho quente."}, {"op": "replace", "path": "/humanDescription", "value": "Esta lâmpada cintila com uma chama suave. A tampa de vidro vermelha lança um brilho quente!"}, {"op": "replace", "path": "/avianDescription", "value": "Esta lâmpada emite um leve cheiro de perfume. Talvez o óleo que está queimando é perfumado?"}, {"op": "replace", "path": "/hylotlDescription", "value": "A cintilação desta lâmpada a óleo é estranhamente calmante."}, {"op": "replace", "path": "/novakidDescription", "value": "Nada é tão aconchegante como uma velha lâmpada de óleo iluminando um quarto."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lâmpada á gás suspensa com uma tampa de vidro vermelha.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Frontier Lamp",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luz vermelha pendurada tem fogo dentro. Floran nervoso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. O metal desta lâmpada de latão é bastante ornamentado. Deve ter sido feito com cuidado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nada é tão aconchegante como uma velha lâmpada de óleo iluminando um quarto.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A cintilação desta lâmpada a óleo é estranhamente calmante.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lâmpada a óleo de latão lança um brilho vermelho quente.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lâmpada cintila com uma chama suave. A tampa de vidro vermelha lança um brilho quente!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lâmpada emite um leve cheiro de perfume. Talvez o óleo que está queimando é perfumado?",
+    "path": "/avianDescription"
+  }
+]

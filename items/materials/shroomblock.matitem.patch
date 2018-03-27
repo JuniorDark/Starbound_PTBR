@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um bloco feito de fungo macio."}, {"op": "replace", "path": "/shortdescription", "value": "Mushroom Block"}]
+[
+  {
+    "op": "replace",
+    "value": "Um bloco feito de fungo macio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": " Parece que este bloco é feito de cogumelos.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Embora montado como um bloco, este cogumelo está vivo.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cogumeloss adoráveiss.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mushroom Block",
+    "path": "/shortdescription"
+  }
+]

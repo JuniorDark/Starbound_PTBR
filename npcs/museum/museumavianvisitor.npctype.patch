@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/avian/default/0", "value": "Esta é uma coleção impressionante! Eu me pergunto quem adquiriu estas peças?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Esta é uma coleção impressionante! Eu me pergunto quem adquiriu estas peças?"}]
+[
+  {
+    "op": "replace",
+    "value": "Esta é uma coleção impressionante! Eu me pergunto quem adquiriu estas peças?",
+    "path": "/scriptConfig/dialog/converse/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é uma coleção impressionante! Eu me pergunto quem adquiriu estas peças?",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Produz ar respirável. Útil em lugares ^red;sem atmosfera respirável^reset;."}, {"op": "replace", "path": "/shortdescription", "value": "Breathing EPP"}]
+[
+  {
+    "op": "replace",
+    "value": "Breathing EPP",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Produz ar respirável. Útil em lugares ^red;sem atmosfera respirável^reset;.",
+    "path": "/description"
+  }
+]

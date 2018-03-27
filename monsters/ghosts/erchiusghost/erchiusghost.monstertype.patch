@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Quando fecha os olhos torna-se imune a ataques ao entrar em um plano diferente de existência."}, {"op": "replace", "path": "/shortdescription", "value": "Erchius Ghost"}]
+[
+  {
+    "op": "replace",
+    "value": "Quando ele fecha os olhos torna-se imune a ataques ao entrar em um plano diferente de existência.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Erchius Ghost",
+    "path": "/shortdescription"
+  }
+]

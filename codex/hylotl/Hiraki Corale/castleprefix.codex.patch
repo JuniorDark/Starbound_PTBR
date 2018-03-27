@@ -1,22 +1,22 @@
 [
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "por Hiraki Corale, Hylotl Aventureiro\n\nQue nunca seja dito que eu não tento integrar com os anfitriões que eu me encontrar em dívida. Tenho notado que quando me abordam, os Glitch usam prefixos. Exemplos: \"Desconsiderado\", \"Irritado\", \"Alarmado\" e \"Frustrado\". Sentindo que este é um costume que eu deveria praticar, comecei a participar de tal ornamento linguístico eu mesmo."
+    "value": "\"Encantado. É bom vê-lo.\" Eu disse, mas o Glitch a quem eu estava dirigindo simplesmente me deu um olhar estranho, e então disse algo para o seu amigo. Talvez isso tenha sido um gafe minha?",
+    "path": "/contentPages/1"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "O Problema de Prefixo"
+    "value": "O Problema de Prefixo",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um trecho do diário de Hiraki Corale, Hylotl Aventureiro."
+    "value": "por Hiraki Corale, Hylotl Aventureiro\n\nQue nunca seja dito que eu não tento integrar com os anfitriões que eu me encontrar em dívida. Tenho notado que quando me abordam, os Glitch usam prefixos. Exemplos: \"Desconsiderado\", \"Irritado\", \"Alarmado\" e \"Frustrado\". Sentindo que este é um costume que eu deveria praticar, comecei a participar de tal ornamento linguístico eu mesmo.",
+    "path": "/contentPages/0"
   },
   {
     "op": "replace",
-    "path": "/contentPages/1",
-    "value": "\"Encantado. É bom vê-lo.\" Eu disse, mas o Glitch a quem eu estava dirigindo simplesmente me deu um olhar estranho, e então disse algo para o seu amigo. Talvez isso tenha sido um gafe minha?"
+    "value": "Um trecho do diário de Hiraki Corale, Hylotl Aventureiro.",
+    "path": "/description"
   }
 ]

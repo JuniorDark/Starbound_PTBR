@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/description", "value": "Um relatório interno da Miniknog."}, {"op": "replace", "path": "/title", "value": "Efeitos Colaterais do PVE"}, {"op": "replace", "path": "/contentPages/0", "value": "^red;APENAS PARA DISTRIBUIÇÃO INTERNA ^white;\n\nRelatório final do Processo Vestigi-Evo antes da Distribuição: A troca entre evolução mental e devolução física é inevitável. A alteração esquelética é extrema, crescimento de cabelo drasticamente aumentado. Função mental em eficiência de 300 por cento.\n\nConclusão: A modificação das nossas espécies será permanente. A pesquisa em reverter a devolução física começara imediatamente."}]
+[
+  {
+    "op": "replace",
+    "value": "Um relatório interno da Miniknog.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Efeitos Colaterais do PVE",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "^red;APENAS PARA DISTRIBUIÇÃO INTERNA ^white;\n\nRelatório final do Processo Vestigi-Evo antes da Distribuição: A troca entre evolução mental e devolução física é inevitável. A alteração esquelética é extrema, crescimento de cabelo drasticamente aumentado. Função mental em eficiência de 300 por cento.\n\nConclusão: A modificação das nossas espécies será permanente. A pesquisa em reverter a devolução física começara imediatamente.",
+    "path": "/contentPages/0"
+  }
+]

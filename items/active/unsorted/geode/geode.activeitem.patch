@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Abra esse geodo para revelar seu conteúdo. Rochas geológicas!"}, {"op": "replace", "path": "/shortdescription", "value": "Geode"}]
+[
+  {
+    "op": "replace",
+    "value": "Geode",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Abra esse geodo para revelar seu conteúdo. Rochas geológicas!",
+    "path": "/description"
+  }
+]

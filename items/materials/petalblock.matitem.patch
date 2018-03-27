@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Petal Block"}, {"op": "replace", "path": "/description", "value": "Flores e folhas negras que tem um cheiro doce."}]
+[
+  {
+    "op": "replace",
+    "value": "Petal Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Estas folhas tem cheiro de terra e flores.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ama plantass floridass.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cheiro doce de folhas escuras e flores.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Há algumas flores realmente agradáveis ​​crescendo aqui.",
+    "path": "/novakiddescription"
+  }
+]

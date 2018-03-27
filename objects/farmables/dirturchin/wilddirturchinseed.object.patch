@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Por que alguém iria comer isto está além da minha compreensão."}, {"op": "replace", "path": "/shortdescription", "value": "Dirturchin Seed"}, {"op": "replace", "path": "/humanDescription", "value": "Tem sido estatisticamente provado que noventa e três por cento dos humanos têm fobia de dirturchins."}, {"op": "replace", "path": "/avianDescription", "value": "Quando não há nada melhor para comer, dirturchins servem."}, {"op": "replace", "path": "/description", "value": "Dirturchins são macios e meio sem gosto."}, {"op": "replace", "path": "/floranDescription", "value": "Dirturchin parece um cacto pequeno redondo."}, {"op": "replace", "path": "/glitchDescription", "value": "Desinteressado. Uma planta comum e entediante."}, {"op": "replace", "path": "/apexDescription", "value": "Mais uma erva daninha comum barata, do que um vegetal."}, {"op": "replace", "path": "/novakidDescription", "value": "Dirturchins são tão monótonos como a terra em que eles crescem."}]
+[
+  {
+    "op": "replace",
+    "value": "Dirturchin Seed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dirturchin parece um cacto pequeno redondo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dirturchins são tão monótonos como a terra em que eles crescem.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dirturchins são macios e meio sem gosto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Desinteressado. Uma planta comum e entediante.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tem sido estatisticamente provado que noventa e três por cento dos humanos têm fobia de dirturchins.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mais uma erva daninha comum barata, do que um vegetal.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quando não há nada melhor para comer, dirturchins servem.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Por que alguém iria comer isto está além da minha compreensão.",
+    "path": "/hylotlDescription"
+  }
+]

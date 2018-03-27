@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Lake Helm"}, {"op": "replace", "path": "/description", "value": "Um capacete de durasteel que é construído para defesa."}]
+[
+  {
+    "op": "replace",
+    "value": "Um capacete de durasteel que é construído para defesa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Lake Helm",
+    "path": "/shortdescription"
+  }
+]

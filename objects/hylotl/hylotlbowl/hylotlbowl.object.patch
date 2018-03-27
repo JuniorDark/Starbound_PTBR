@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Boa para servir sopa quente."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Uma tigela."}, {"op": "replace", "path": "/description", "value": "Uma simples tigela listrada."}, {"op": "replace", "path": "/shortdescription", "value": "Traditional Bowl"}, {"op": "replace", "path": "/floranDescription", "value": "Tigela."}, {"op": "replace", "path": "/apexDescription", "value": "Uma tigela listrada."}, {"op": "replace", "path": "/humanDescription", "value": "É uma tigela."}, {"op": "replace", "path": "/avianDescription", "value": "Uma tigela listrada básica."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma linda tigela pintada à mão."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma tigela listrada básica.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma linda tigela pintada à mão.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma simples tigela listrada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tigela listrada.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tigela.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Boa para servir sopa quente.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma tigela.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Uma tigela.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Traditional Bowl",
+    "path": "/shortdescription"
+  }
+]

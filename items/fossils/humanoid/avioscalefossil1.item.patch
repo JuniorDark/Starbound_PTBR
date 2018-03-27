@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/completeSetDescriptions/description", "value": "Este Avioscale possui cavidades oculares grandes e um bico proeminente."}, {"op": "replace", "path": "/completeSetDescriptions/shortdescription", "value": "Avioscale Fossil"}, {"op": "replace", "path": "/shortdescription", "value": "Avioscale Skull"}, {"op": "replace", "path": "/description", "value": "Um crânio de Avioscale fossilizado."}]
+[
+  {
+    "op": "replace",
+    "value": "Avioscale Fossil",
+    "path": "/completeSetDescriptions/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este Avioscale possui cavidades oculares grandes e um bico proeminente.",
+    "path": "/completeSetDescriptions/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um crânio de Avioscale fossilizado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Avioscale Skull",
+    "path": "/shortdescription"
+  }
+]

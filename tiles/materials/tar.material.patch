@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Tar"}, {"op": "replace", "path": "/description", "value": "Piche espesso. Só de olhar para ele parece pegajoso."}, {"op": "replace", "path": "/floranDescription", "value": "Floran não gossta de piche pegajosso."}, {"op": "replace", "path": "/glitchDescription", "value": "Cauteloso. Este piche é espesso e muito pegajoso."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma monte de piche espesso."}]
+[
+  {
+    "op": "replace",
+    "value": "Tar",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma monte de piche espesso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. Este piche é espesso e muito pegajoso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não gossta de piche pegajosso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Piche espesso. Só de olhar para ele parece pegajoso.",
+    "path": "/description"
+  }
+]

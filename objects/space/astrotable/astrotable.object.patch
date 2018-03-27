@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma superfície de trabalho sólida, montada no chão."
+    "value": "Uma mesa de aparência industrial.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Uma mesa de aparência industrial."
+    "value": "Uma pequena mesa feita de metal.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Esta mesa tem uma faixa pintada sobre ela."
+    "value": "Uma mesa de metal que foi montada no chão.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Apenass uma mesa de metal."
+    "value": "Uma superfície de trabalho sólida, montada no chão.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Indiferente. Esta mesa não é notável."
+    "value": "Astro Table",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Esta mesa é fixada no chão, caso contrário eu acho que poderia tombar."
+    "value": "Indiferente. Esta mesa não é notável.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Uma mesa de metal que foi montada no chão."
+    "value": "Apenass uma mesa de metal.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Uma pequena mesa feita de metal."
+    "value": "Esta mesa tem uma faixa pintada sobre ela.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa é fixada no chão, caso contrário eu acho que poderia tombar.",
+    "path": "/humanDescription"
   }
 ]

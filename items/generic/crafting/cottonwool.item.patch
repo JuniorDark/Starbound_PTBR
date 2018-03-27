@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um rolo de algodão processado."}, {"op": "replace", "path": "/shortdescription", "value": "Cotton Wool"}]
+[
+  {
+    "op": "replace",
+    "value": "Um rolo de algodão processado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cotton Wool",
+    "path": "/shortdescription"
+  }
+]

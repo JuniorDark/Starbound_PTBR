@@ -1,1 +1,447 @@
-[{"op":"replace","path":"/converse/default/default/0","value":"Não tenho nada a dizer para você"},{"op":"replace","path":"/converse/apex/default/0","value":"Você não PARECE com a Miniknog..."},{"op":"replace","path":"/converse/apex/human/0","value":"Ah, bom ver humanos em nosso meio."},{"op":"replace","path":"/converse/apex/apex/0","value":"Você corre risco voltando aqui, rejeitado."},{"op":"replace","path":"/converse/apex/avian/0","value":"Saudações, Avian."},{"op":"replace","path":"/converse/apex/floran/0","value":"Um Floran. Ah."},{"op":"replace","path":"/converse/apex/glitch/0","value":"Olá, Glitch."},{"op":"replace","path":"/converse/apex/hylotl/0","value":"Olá, Hylotl."},{"op":"replace","path":"/converse/hylotl/default/0","value":"Eu não tenho certeza se quero saber o que você é."},{"op":"replace","path":"/converse/hylotl/human/0","value":"Ah, olá pele-lisa."},{"op":"replace","path":"/converse/hylotl/apex/0","value":"Não chegue muito perto, ape. Você fede."},{"op":"replace","path":"/converse/hylotl/avian/0","value":"Saudações, Avian."},{"op":"replace","path":"/converse/hylotl/glitch/0","value":"Oh, um robô."},{"op":"replace","path":"/converse/hylotl/hylotl/0","value":"Ahh, finalmente, alguém que vai gostar de mim."},{"op":"replace","path":"/converse/avian/default/0","value":"Tenha um dia abençoado, estranho."},{"op":"replace","path":"/converse/avian/human/0","value":"Saudações, humano."},{"op":"replace","path":"/converse/avian/apex/0","value":"Saudações, ape."},{"op":"replace","path":"/converse/avian/avian/0","value":"Saudações, companheiro Avian."},{"op":"replace","path":"/converse/avian/floran/0","value":"Ah... um Floran."},{"op":"replace","path":"/converse/avian/glitch/0","value":"Olá, Glitch."},{"op":"replace","path":"/converse/avian/hylotl/0","value":"Ah, um Hylotl."},{"op":"replace","path":"/converse/human/default/0","value":"Tenha um excelente dia!"},{"op":"replace","path":"/converse/human/human/1","value":"Ei, bom te ver."},{"op":"replace","path":"/converse/human/apex/0","value":"Um macaco falante. Legal."},{"op":"replace","path":"/converse/human/avian/0","value":"Ei, é um grande pássaro!"},{"op":"replace","path":"/converse/human/floran/0","value":"Uma planta!"},{"op":"replace","path":"/converse/human/glitch/0","value":"Uau, legal, um robô."},{"op":"replace","path":"/converse/human/hylotl/0","value":"Ah ei, um peixe gigante."},{"op":"replace","path":"/converse/floran/default/0","value":"Cccoisa estranha."},{"op":"replace","path":"/converse/floran/human/0","value":"Homem-Carne!"},{"op":"replace","path":"/converse/floran/apex/0","value":"Floran quer carinho do homem macaco!"},{"op":"replace","path":"/converse/floran/avian/0","value":"Homem-Pássaro!"},{"op":"replace","path":"/converse/floran/glitch/0","value":"Floran cumprimentá homem de metal!"},{"op":"replace","path":"/converse/glitch/default/0","value":"Confusão. Que tipo de ser é você?"},{"op":"replace","path":"/converse/glitch/human/0","value":"Superioridade. Humano insignificante."},{"op":"replace","path":"/converse/glitch/apex/0","value":"Chocado. Que criatura peluda!"},{"op":"replace","path":"/converse/glitch/avian/0","value":"Duvida. A sua plumagem auto-monta, ou é construída por artesãos?"},{"op":"replace","path":"/converse/glitch/floran/0","value":"Amigável. Saudações homem-planta."},{"op":"replace","path":"/converse/glitch/glitch/0","value":"Amigável. Saudações amigo."},{"op":"replace","path":"/converse/glitch/hylotl/0","value":"Cético. Para uma espécie que vive debaixo d'água, você não cheira muito bem."},{"op":"replace","path":"/flee/helpme/default/default/0","value":"Ajude-me!"},{"op":"replace","path":"/flee/helpme/default/default/1","value":"Socorro!"},{"op":"replace","path":"/flee/helpme/default/default/2","value":"Fui abordado!"},{"op":"replace","path":"/flee/helpme/glitch/default/0","value":"Medo. Ajude-me!"},{"op":"replace","path":"/flee/helpme/glitch/default/1","value":"Intimidado. Por favor, não me machuque!"},{"op":"replace","path":"/flee/helpme/glitch/default/2","value":"Abusado. Fui abordado!"},{"op":"replace","path":"/flee/helpme/glitch/default/3","value":"Medo. Se afaste de mim!"},{"op":"replace","path":"/flee/helpme/glitch/default/4","value":"Aterrorizado. Me salve!"},{"op":"replace","path":"/flee/helpme/glitch/default/5","value":"Chocado. Não! Se afaste de mim!"},{"op":"replace","path":"/flee/helpme/floran/default/0","value":"Hora de esssfaquear pra mim!"},{"op":"replace","path":"/flee/helpme/floran/default/1","value":"Floran se machucou!"},{"op":"replace","path":"/flee/helpme/floran/default/2","value":"Floran não está pronto para caçar!"},{"op":"replace","path":"/flee/helpthem/default/default/0","value":"O que é que você fez!?"},{"op":"replace","path":"/flee/helpthem/glitch/default/0","value":"Medo. Alguém me ajude !"},{"op":"replace","path":"/flee/helpthem/glitch/default/1","value":"Intimidado. Por favor, não me machuque!"},{"op":"replace","path":"/flee/helpthem/glitch/default/2","value":"Medo. Me deixe em paz"},{"op":"replace","path":"/flee/helpthem/glitch/default/3","value":"Aterrorizado. Me salve!"},{"op":"replace","path":"/flee/helpthem/glitch/default/4","value":"Chocado. O que é que você fez?!"},{"op":"replace","path":"/flee/helpthem/glitch/default/5","value":"Justo. Vou escrever uma carta eletrônica em protesto!"},{"op":"replace","path":"/flee/helpthem/floran/default/0","value":"Hora de eeesfaquear pra mim!"},{"op":"replace","path":"/flee/helpthem/floran/default/1","value":"Floran ssendo ferido!"},{"op":"replace","path":"/flee/helpthem/floran/default/2","value":"Floran não esstá pronto para caçar!"},{"op":"replace","path":"/flee/encourage/default/default/0","value":"Pegue-os!"},{"op":"replace","path":"/flee/encourage/default/default/1","value":"Vingue-me!"},{"op":"replace","path":"/flee/encourage/default/default/2","value":"Cole-os uma vez para mim!"},{"op":"replace","path":"/flee/encourage/default/default/3","value":"Não deixe eles fugir!"},{"op":"replace","path":"/flee/encourage/glitch/default/0","value":"Incentivo. Coloque-os à espada!"},{"op":"replace","path":"/flee/encourage/glitch/default/1","value":"Excitação. Vingue-me!"},{"op":"replace","path":"/flee/encourage/glitch/default/2","value":"Agressivo. Derrube-os!"},{"op":"replace","path":"/flee/encourage/glitch/default/3","value":"Vingativo. Não deixe eles fugir!"},{"op":"replace","path":"/flee/encourage/floran/default/0","value":"Eeesfaqueie os intrusos!"},{"op":"replace","path":"/flee/encourage/floran/default/1","value":"Floran sse vinga agora!"},{"op":"replace","path":"/flee/encourage/floran/default/2","value":"Corte-osss!"},{"op":"replace","path":"/flee/safe/default/default/0","value":"Ufa, eu acho que conseguir fugir."},{"op":"replace","path":"/flee/safe/default/default/1","value":"Eu escapei com a minha vida!"},{"op":"replace","path":"/flee/safe/default/default/2","value":"Esta é a zona segura?"},{"op":"replace","path":"/flee/safe/glitch/default/0","value":"Aliviado. Ufa, eu acho que consegui fugir."},{"op":"replace","path":"/flee/safe/glitch/default/1","value":"Grato. Eu escapei com minha vida!"},{"op":"replace","path":"/flee/safe/glitch/default/2","value":"Ansioso. Se eu pudesse pagar um abrigo."},{"op":"replace","path":"/flee/safe/glitch/default/3","value":"Esperançoso. Estou seguro?"},{"op":"replace","path":"/flee/safe/glitch/default/4","value":"Envergonhado. Eu acho que vazou um pouco de óleo."},{"op":"replace","path":"/flee/safe/floran/default/0","value":"Floran ssseguro agora."},{"op":"replace","path":"/flee/safe/floran/default/1","value":"Floran não foi esssfaqueado depois de tudo."},{"op":"replace","path":"/flee/safe/floran/default/2","value":"Eless tem ssorte que Floran não tem arma!"},{"op":"replace","path":"/flee/safe/floran/default/3","value":"Sssalvação!"}]
+[
+  {
+    "op": "replace",
+    "value": "Me vingue!",
+    "path": "/flee/encourage/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Não deixe eles escaparem!",
+    "path": "/flee/encourage/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Pega eles!",
+    "path": "/flee/encourage/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não tenho nada a dizer para você",
+    "path": "/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Coisa essstranha.",
+    "path": "/converse/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Bate neles por mim!",
+    "path": "/flee/encourage/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "O que você fez!?",
+    "path": "/flee/helpthem/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta!",
+    "path": "/converse/human/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Abusado. Fui abordado!",
+    "path": "/flee/helpme/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Medo. Se afaste de mim!",
+    "path": "/flee/helpme/glitch/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Medo. Me deixe em paz",
+    "path": "/flee/helpthem/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Agressivo. Derrube-os!",
+    "path": "/flee/encourage/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Ah, bom ver humanos em nosso meio.",
+    "path": "/converse/apex/human/0"
+  },
+  {
+    "op": "replace",
+    "value": "Homem-Pássaro!",
+    "path": "/converse/floran/avian/0"
+  },
+  {
+    "op": "replace",
+    "value": "Não chegue muito perto, ape. Você fede.",
+    "path": "/converse/hylotl/apex/0"
+  },
+  {
+    "op": "replace",
+    "value": "Incentivo. Coloque-os à espada!",
+    "path": "/flee/encourage/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Excitação. Vingue-me!",
+    "path": "/flee/encourage/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Medo. Ajude-me!",
+    "path": "/flee/helpme/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Medo. Alguém me ajude !",
+    "path": "/flee/helpthem/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ssendo ferido!",
+    "path": "/flee/helpme/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ssendo ferido!",
+    "path": "/flee/helpthem/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran sse vinga agora!",
+    "path": "/flee/encourage/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não foi esssfaqueado depois de tudo.",
+    "path": "/flee/safe/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ssseguro agora.",
+    "path": "/flee/safe/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran quer carinho do homem macaco!",
+    "path": "/converse/floran/apex/0"
+  },
+  {
+    "op": "replace",
+    "value": "Amigável. Saudações homem-planta.",
+    "path": "/converse/glitch/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ghurk!",
+    "path": "/converse/hylotl/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Saudações, Avian.",
+    "path": "/converse/apex/avian/0"
+  },
+  {
+    "op": "replace",
+    "value": "Saudações, Avian.",
+    "path": "/converse/hylotl/avian/0"
+  },
+  {
+    "op": "replace",
+    "value": "Saudações, ape.",
+    "path": "/converse/avian/apex/0"
+  },
+  {
+    "op": "replace",
+    "value": "Saudações, companheiro Avian.",
+    "path": "/converse/avian/avian/0"
+  },
+  {
+    "op": "replace",
+    "value": "Saudações, humano.",
+    "path": "/converse/avian/human/0"
+  },
+  {
+    "op": "replace",
+    "value": "Tenha um dia abençoado, estranho.",
+    "path": "/converse/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ajude-me!",
+    "path": "/flee/helpme/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Hsssss!",
+    "path": "/converse/floran/hylotl/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não tenho certeza se quero saber o que você é.",
+    "path": "/converse/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Fui abordado!",
+    "path": "/flee/helpme/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Intimidado. Por favor, não me machuque!",
+    "path": "/flee/helpme/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Intimidado. Por favor, não me machuque!",
+    "path": "/flee/helpthem/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é a zona segura?",
+    "path": "/flee/safe/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Ah, olá pele-lisa.",
+    "path": "/converse/hylotl/human/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ah... um Floran.",
+    "path": "/converse/avian/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Duvida. A sua plumagem auto-monta, ou é construída por artesãos?",
+    "path": "/converse/glitch/avian/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aliviado. Ufa, eu acho que consegui fugir.",
+    "path": "/flee/safe/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Justo. Vou escrever uma carta eletrônica em protesto!",
+    "path": "/flee/helpthem/glitch/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Cético. Para uma espécie que vive debaixo d'água, você não cheira muito bem.",
+    "path": "/converse/glitch/hylotl/0"
+  },
+  {
+    "op": "replace",
+    "value": "Chocado. Não! Se afaste de mim!",
+    "path": "/flee/helpme/glitch/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Chocado. O que é que você fez?!",
+    "path": "/flee/helpthem/glitch/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Sssalvação!",
+    "path": "/flee/safe/floran/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Corte-osss!",
+    "path": "/flee/encourage/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eeesfaqueie os intrusos!",
+    "path": "/flee/encourage/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Hora de eeesfaquear pra mim!",
+    "path": "/flee/helpme/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Hora de eeesfaquear pra mim!",
+    "path": "/flee/helpthem/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Superioridade. Humano insignificante.",
+    "path": "/converse/glitch/human/0"
+  },
+  {
+    "op": "replace",
+    "value": "Grato. Eu escapei com minha vida!",
+    "path": "/flee/safe/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eless tem ssorte que Floran não tem arma!",
+    "path": "/flee/safe/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Vingativo. Não deixe eles fugir!",
+    "path": "/flee/encourage/glitch/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. Se eu pudesse pagar um abrigo.",
+    "path": "/flee/safe/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você corre risco voltando aqui, rejeitado.",
+    "path": "/converse/apex/apex/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um Floran. Ah.",
+    "path": "/converse/apex/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um macaco falante. Legal.",
+    "path": "/converse/human/apex/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ahh, finalmente, alguém que vai gostar de mim.",
+    "path": "/converse/hylotl/hylotl/0"
+  },
+  {
+    "op": "replace",
+    "value": "Confusão. Que tipo de ser é você?",
+    "path": "/converse/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Envergonhado. Eu acho que vazou um pouco de óleo.",
+    "path": "/flee/safe/glitch/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Floran cumprimentá homem de metal!",
+    "path": "/converse/floran/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não esstá pronto para caçar!",
+    "path": "/flee/helpme/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não esstá pronto para caçar!",
+    "path": "/flee/helpthem/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Floran!",
+    "path": "/converse/floran/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Amigável. Saudações amigo.",
+    "path": "/converse/glitch/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Tenha um excelente dia!",
+    "path": "/converse/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Olá, Glitch.",
+    "path": "/converse/apex/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Olá, Glitch.",
+    "path": "/converse/avian/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Olá, Hylotl.",
+    "path": "/converse/apex/hylotl/0"
+  },
+  {
+    "op": "replace",
+    "value": "Socorro!",
+    "path": "/flee/helpme/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Ei, bom te ver.",
+    "path": "/converse/human/human/1"
+  },
+  {
+    "op": "replace",
+    "value": "Ei, é um grande pássaro!",
+    "path": "/converse/human/avian/0"
+  },
+  {
+    "op": "replace",
+    "value": "Esperançoso. Estou seguro?",
+    "path": "/flee/safe/glitch/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Eu escapei com a minha vida!",
+    "path": "/flee/safe/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Homem de carne!",
+    "path": "/converse/floran/human/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ah ei, um peixe gigante.",
+    "path": "/converse/human/hylotl/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ah, um Hylotl.",
+    "path": "/converse/avian/hylotl/0"
+  },
+  {
+    "op": "replace",
+    "value": "Oh, um robô.",
+    "path": "/converse/hylotl/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ufa, eu acho que conseguir fugir.",
+    "path": "/flee/safe/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Chocado. Que criatura peluda!",
+    "path": "/converse/glitch/apex/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aterrorizado. Me salve!",
+    "path": "/flee/helpme/glitch/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Aterrorizado. Me salve!",
+    "path": "/flee/helpthem/glitch/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Uau, legal, um robô.",
+    "path": "/converse/human/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Yo!",
+    "path": "/converse/human/human/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você não PARECE com a Miniknog...",
+    "path": "/converse/apex/default/0"
+  }
+]

@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Bolhas."}, {"op": "replace", "path": "/floranDescription", "value": "Bolhas a estourar!"}, {"op": "replace", "path": "/glitchDescription", "value": "Declaração. Bolhas."}, {"op": "replace", "path": "/description", "value": "Bolhas."}]
+[
+  {
+    "op": "replace",
+    "value": "Bolhas a estourar!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bolhas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bolhas.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Declaração. Bolhas.",
+    "path": "/glitchDescription"
+  }
+]

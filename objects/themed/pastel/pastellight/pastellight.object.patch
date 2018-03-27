@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "O brilho rosa sutil desta lâmpada é muito calmante. Eu poderia olhar para ela por horas."}, {"op": "replace", "path": "/description", "value": "Uma luz fluorescente rosa montada na parede."}, {"op": "replace", "path": "/shortdescription", "value": "Pastel Light"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de cor clara. Boa cor."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Eu não vi muitas lâmpadas que brilham rosa como esta."}, {"op": "replace", "path": "/apexDescription", "value": "Não vi muitas lâmpadas que brilham rosa como esta."}, {"op": "replace", "path": "/avianDescription", "value": "O brilho macio e rosa desta lâmpada é calmante."}, {"op": "replace", "path": "/hylotlDescription", "value": "Eu poderia acreditar que um Hylotl fez essa lâmpada - é tão calmante!"}, {"op": "replace", "path": "/novakidDescription", "value": "Esta lâmpada emite um brilho quente, não é?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz fluorescente rosa montada na parede.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de cor clara. Boa cor.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu poderia acreditar que um Hylotl fez essa lâmpada - é tão calmante!",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não vi muitas lâmpadas que brilham rosa como esta.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Eu não vi muitas lâmpadas que brilham rosa como esta.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pastel Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O brilho macio e rosa desta lâmpada é calmante.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O brilho rosa sutil desta lâmpada é muito calmante. Eu poderia olhar para ela por horas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lâmpada emite um brilho quente, não é?",
+    "path": "/novakidDescription"
+  }
+]

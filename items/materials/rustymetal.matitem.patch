@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Metal velho incrustado com ferrugem."}, {"op": "replace", "path": "/shortdescription", "value": "Rusty Metal"}]
+[
+  {
+    "op": "replace",
+    "value": "Alarmado. A ferrugem neste metal me deixa muito desconfortável.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um bloco de metal velho e enferrujado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Blocoss de metal enferrujadoss.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rusty Metal",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum metal velho coberto de ferrugem grossa.",
+    "path": "/novakiddescription"
+  }
+]

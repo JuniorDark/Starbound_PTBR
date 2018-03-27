@@ -1,22 +1,27 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um material um pouco barato que pode suportar a maioria dos climas."
+    "value": "Um material um pouco barato que pode suportar a maioria dos climas.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Observador. Este material um tanto barato pode suportar a maioria dos climas."
+    "value": "Um painel de metal resistente.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Este metal esspacial parece forte."
+    "value": "Inset Panel",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Um painel de metal resistente."
+    "value": "Observador. Este material um tanto barato pode suportar a maioria dos climas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este metal esspacial parece forte.",
+    "path": "/floranDescription"
   }
 ]

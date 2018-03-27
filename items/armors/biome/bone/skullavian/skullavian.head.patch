@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Parece ser um crânio Avian. O chapéu perfeito!"}, {"op": "replace", "path": "/shortdescription", "value": "Avian Skull Mask"}]
+[
+  {
+    "op": "replace",
+    "value": "Avian Skull Mask",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece ser um crânio Avian. O chapéu perfeito!",
+    "path": "/description"
+  }
+]

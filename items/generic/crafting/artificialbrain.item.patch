@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um cérebro melhorado, perfeito para transplante."}, {"op": "replace", "path": "/shortdescription", "value": "Artificial Brain"}]
+[
+  {
+    "op": "replace",
+    "value": "Um cérebro melhorado, perfeito para transplante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Artificial Brain",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Aegisalt é encontrado principalmente em planetas que orbitam estrelas congeladas."}, {"op": "replace", "path": "/shortdescription", "value": "Refined Aegisalt"}]
+[
+  {
+    "op": "replace",
+    "value": "Aegisalt é encontrado principalmente em planetas que orbitam estrelas congeladas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Refined Aegisalt",
+    "path": "/shortdescription"
+  }
+]

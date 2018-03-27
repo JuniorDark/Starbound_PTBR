@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Um jarro de um túmulo Avian, provavelmente ainda tem algumas tripas Avian nele."}, {"op": "replace", "path": "/description", "value": "Este jarro de pássaro de olhos redondos é feito de ouro maciço."}, {"op": "replace", "path": "/shortdescription", "value": "Golden Bird Jar"}, {"op": "replace", "path": "/floranDescription", "value": "Vaso de pássaro chique, todo dourado e brilhante. Cheiro agradável de dentro."}, {"op": "replace", "path": "/glitchDescription", "value": "Com nojo. Este vaso parece guardar um coração, pulmões e cérebro de origem Avian."}, {"op": "replace", "path": "/apexDescription", "value": "Parece que isso foi construído para guardar algo importante."}, {"op": "replace", "path": "/humanDescription", "value": "Isso cheira a carne podre."}, {"op": "replace", "path": "/avianDescription", "value": "Este pote guarda os órgãos de um Stargazer após a morte."}, {"op": "replace", "path": "/hylotlDescription", "value": "O cheiro sugere que há restos corporais dentro."}]
+[
+  {
+    "op": "replace",
+    "value": "Um jarro de um túmulo Avian, provavelmente ainda tem algumas tripas Avian nele.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Com nojo. Este vaso parece guardar um coração, pulmões e cérebro de origem Avian.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vaso de pássaro chique, todo dourado e brilhante. Cheiro agradável de dentro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Golden Bird Jar",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso cheira a carne podre.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que isso foi construído para guardar algo importante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O cheiro sugere que há restos corporais dentro.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este jarro de pássaro de olhos redondos é feito de ouro maciço.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Este pote guarda os órgãos de um Stargazer após a morte.",
+    "path": "/avianDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Ninguém sabe de onde veio ou quem fez isso."}, {"op": "replace", "path": "/shortdescription", "value": "Bobot"}]
+[
+  {
+    "op": "replace",
+    "value": "Bobot",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ninguém sabe de onde veio ou quem fez isso.",
+    "path": "/description"
+  }
+]

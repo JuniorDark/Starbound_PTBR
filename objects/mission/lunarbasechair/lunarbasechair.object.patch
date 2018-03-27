@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Contente. Uma cadeira confortável."}, {"op": "replace", "path": "/humanDescription", "value": "Uma cadeira agradável e confortável."}, {"op": "replace", "path": "/novakidDescription", "value": "Este é um lugar relaxante."}, {"op": "replace", "path": "/shortdescription", "value": "Lunar Base Chair"}, {"op": "replace", "path": "/floranDescription", "value": "Cadeira macia."}, {"op": "replace", "path": "/description", "value": "Uma cadeira surpreendentemente confortável."}, {"op": "replace", "path": "/avianDescription", "value": "Uma cadeira relaxante."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma cadeira relaxante."}, {"op": "replace", "path": "/apexDescription", "value": "Uma bela cadeira."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma bela cadeira.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira agradável e confortável.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira relaxante.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira relaxante.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira surpreendentemente confortável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Contente. Uma cadeira confortável.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lunar Base Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cadeira macia.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este é um lugar relaxante.",
+    "path": "/novakidDescription"
+  }
+]

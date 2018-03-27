@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/label", "value": "Saltitante"}]
+[
+  {
+    "op": "replace",
+    "value": "Saltitante",
+    "path": "/label"
+  }
+]

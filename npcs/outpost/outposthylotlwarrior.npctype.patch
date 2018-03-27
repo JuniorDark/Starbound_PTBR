@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/floran/0", "value": "Muitos entre os meus desprezam o seu tipo, mas acho que a tenacidade do Floran é digno de louvor."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/hylotl/0", "value": "Você me honra com a sua presença."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Nós Hylotl não somos amplamente considerados como grandes guerreiros, mas na realidade os nossos lutadores são alguns dos melhores por ai."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/default/0", "value": "Nós Hylotl não somos amplamente considerados como grandes guerreiros, mas na realidade os nossos lutadores são alguns dos melhores por ai."}]
+[
+  {
+    "op": "replace",
+    "value": "Muitos entre os meus desprezam o seu tipo, mas acho que a tenacidade do Floran é digno de louvor.",
+    "path": "/scriptConfig/dialog/converse/hylotl/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Nós Hylotl não somos amplamente considerados como grandes guerreiros, mas na realidade os nossos lutadores são alguns dos melhores por ai.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Nós Hylotl não somos amplamente considerados como grandes guerreiros, mas na realidade os nossos lutadores são alguns dos melhores por ai.",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você me honra com a sua presença.",
+    "path": "/scriptConfig/dialog/converse/hylotl/hylotl/0"
+  }
+]

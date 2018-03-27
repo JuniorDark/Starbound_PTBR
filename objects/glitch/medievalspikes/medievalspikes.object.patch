@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Wooden Spikes"}, {"op": "replace", "path": "/avianDescription", "value": "Isso parece extremamente afiado."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma defesa bárbara."}, {"op": "replace", "path": "/apexDescription", "value": "Um conjunto de espinhos."}, {"op": "replace", "path": "/description", "value": "Espinhos de madeira. Apenas esperando para ser decorado com as cabeças de seus inimigos!"}, {"op": "replace", "path": "/floranDescription", "value": "Espinhoss espinhososs afiadoss."}, {"op": "replace", "path": "/novakidDescription", "value": "Espinhos afiados! Caramba!"}, {"op": "replace", "path": "/glitchDescription", "value": "Nervoso. Glitchs colocam esses espinhos em poços defensivos profundos."}, {"op": "replace", "path": "/humanDescription", "value": "Um conjunto de espinhos muito perigoso."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma defesa bárbara.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um conjunto de espinhos.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um conjunto de espinhos muito perigoso.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nervoso. Glitchs colocam esses espinhos em poços defensivos profundos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espinhoss espinhososs afiadoss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espinhos afiados! Caramba!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso parece extremamente afiado.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wooden Spikes",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espinhos de madeira. Apenas esperando para ser decorado com as cabeças de seus inimigos!",
+    "path": "/description"
+  }
+]

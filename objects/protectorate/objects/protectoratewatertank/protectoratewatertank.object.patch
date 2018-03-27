@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Este tanque de água não está funcionando. A água deve ter escoado para a sala abaixo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um tanque de água danificado. A água deve ter vazado até a sala abaixo."}, {"op": "replace", "path": "/humanDescription", "value": "Este tanque de água está perdido! A água deve ter vazado através do telhado na sala abaixo."}, {"op": "replace", "path": "/avianDescription", "value": "Um tanque de água quebrado. A água deve ter vazado para a sala abaixo."}, {"op": "replace", "path": "/glitchDescription", "value": "Atento. Um tanque de água danificado. Eu acredito que a água deve estar na sala abaixo."}, {"op": "replace", "path": "/apexDescription", "value": "Este tanque de água está quebrado. É vazou até a sala abaixo."}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Water Tank"}, {"op": "replace", "path": "/floranDescription", "value": "Tanque de água parece estar quebrado. Floran adivinha que a água está na sala abaixo."}, {"op": "replace", "path": "/description", "value": "Um tanque de água da Academia do Protetorado."}]
+[
+  {
+    "op": "replace",
+    "value": "Um tanque de água quebrado. A água deve ter vazado para a sala abaixo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um tanque de água danificado. A água deve ter vazado até a sala abaixo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um tanque de água da Academia do Protetorado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Um tanque de água danificado. Eu acredito que a água deve estar na sala abaixo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Water Tank",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este tanque de água não está funcionando. A água deve ter escoado para a sala abaixo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este tanque de água está quebrado. É vazou até a sala abaixo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este tanque de água está perdido! A água deve ter vazado através do telhado na sala abaixo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tanque de água parece estar quebrado. Floran adivinha que a água está na sala abaixo.",
+    "path": "/floranDescription"
+  }
+]

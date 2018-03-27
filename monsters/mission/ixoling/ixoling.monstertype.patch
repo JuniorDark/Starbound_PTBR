@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Se isso sobreviver por 200 anos, pode se tornar uma Ixodoom."}, {"op": "replace", "path": "/shortdescription", "value": "Ixoling"}]
+[
+  {
+    "op": "replace",
+    "value": "Se isso sobreviver por 200 anos, pode se tornar uma Ixodoom.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ixoling",
+    "path": "/shortdescription"
+  }
+]

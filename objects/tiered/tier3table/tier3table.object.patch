@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Uma mesa de titânio imensamente resistente."}, {"op": "replace", "path": "/description", "value": "Uma mesa de titânio elegante."}, {"op": "replace", "path": "/shortdescription", "value": "Titanium Table"}, {"op": "replace", "path": "/floranDescription", "value": "Mesa boa o suficiente para Floran fatiar carnesss."}, {"op": "replace", "path": "/glitchDescription", "value": "Aprovação. Uma mesa de titânio muito bem feita."}, {"op": "replace", "path": "/apexDescription", "value": "Esta mesa de titânio é muito elegante."}, {"op": "replace", "path": "/humanDescription", "value": "Uma mesa de titânio legal."}, {"op": "replace", "path": "/hylotlDescription", "value": "Normalmente não é meu tipo de mesa, mas isso é bastante impressionante."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma mesa de titânio boa."}]
+[
+  {
+    "op": "replace",
+    "value": "Normalmente não é meu tipo de mesa, mas isso é bastante impressionante.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mesa boa o suficiente para Floran fatiar carnesss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa de titânio legal.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa de titânio boa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa de titânio elegante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa de titânio imensamente resistente.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aprovação. Uma mesa de titânio muito bem feita.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa de titânio é muito elegante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Titanium Table",
+    "path": "/shortdescription"
+  }
+]

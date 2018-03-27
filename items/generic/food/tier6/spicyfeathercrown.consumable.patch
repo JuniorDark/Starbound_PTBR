@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Feathercrown frito com pimentas picantes. Quente quente quente!"}, {"op": "replace", "path": "/shortdescription", "value": "Spicy Feathercrown"}]
+[
+  {
+    "op": "replace",
+    "value": "Feathercrown frito com pimentas picantes. Quente quente quente!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Spicy Feathercrown",
+    "path": "/shortdescription"
+  }
+]

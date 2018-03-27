@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Temple Block"}, {"op": "replace", "path": "/description", "value": "Pedras antigas com esculturas intrincadas esculpidas na superfície."}]
+[
+  {
+    "op": "replace",
+    "value": "Pedras antigas com esculturas intrincadas esculpidas na superfície.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Estas gravuras de pedra retratam uma língua desconhecida.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de figurass na pedra.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bloco velho com algum tipo de gravura.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Temple Rock",
+    "path": "/shortdescription"
+  }
+]

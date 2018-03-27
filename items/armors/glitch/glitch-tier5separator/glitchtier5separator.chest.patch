@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Paladin's Breastplate"}, {"op": "replace", "path": "/description", "value": "Forjada de violium; armadura forte para defender um coração forte."}]
+[
+  {
+    "op": "replace",
+    "value": "Forjada de violium; armadura forte para defender um coração forte.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Paladin's Breastplate",
+    "path": "/shortdescription"
+  }
+]

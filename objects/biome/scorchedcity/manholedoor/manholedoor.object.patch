@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Uma tampa de bueiro, só esperando que alguém caia de forma cômica."}, {"op": "replace", "path": "/description", "value": "Uma tampa de bueiro."}, {"op": "replace", "path": "/shortdescription", "value": "Manhole Cover"}, {"op": "replace", "path": "/floranDescription", "value": "Tampa de bueiro, tem algo escondido embaixo?"}, {"op": "replace", "path": "/glitchDescription", "value": "Surpreso. Uma tampa de bueiro."}, {"op": "replace", "path": "/apexDescription", "value": "Uma tampa de bueiro. Para impedir os tolos de cair num buraco."}, {"op": "replace", "path": "/avianDescription", "value": "Uma tampa de bueiro."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma tampa de bueiro, o que se esconde por baixo?"}, {"op": "replace", "path": "/novakidDescription", "value": "Algum tipo de tampa de bueiro, o que está escondendo?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma tampa de bueiro, só esperando que alguém caia de forma cômica.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tampa de bueiro, o que se esconde por baixo?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tampa de bueiro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tampa de bueiro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tampa de bueiro. Para impedir os tolos de cair num buraco.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Manhole Cover",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tampa de bueiro, tem algo escondido embaixo?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de tampa de bueiro, o que está escondendo?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Uma tampa de bueiro.",
+    "path": "/glitchDescription"
+  }
+]

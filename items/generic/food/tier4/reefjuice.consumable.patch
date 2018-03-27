@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um suco agradavelmente doce e salgado. Refrescante!"}, {"op": "replace", "path": "/shortdescription", "value": "Reef Juice"}]
+[
+  {
+    "op": "replace",
+    "value": "Um suco agradavelmente doce e salgado. Refrescante!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Reef Juice",
+    "path": "/shortdescription"
+  }
+]

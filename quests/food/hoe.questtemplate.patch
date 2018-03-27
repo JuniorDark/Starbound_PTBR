@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/title", "value": "^green;É hora de Cultivar"}, {"op": "replace", "path": "/completionText", "value": "Isso deve servir! Com isso e um watering can eu posso começar a cultivar."}, {"op": "replace", "path": "/text", "value": "Para iniciar o cultivo, eu vou precisar de uma maneira de arar o solo. Eu deveria ^orange;criar uma hoe^green; usando wood e copper bars^white;."}]
+[
+  {
+    "op": "replace",
+    "value": "Isso deve servir! Com isso e um watering can eu posso começar a cultivar.",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "Para iniciar o cultivo, eu vou precisar de uma maneira de arar o solo. Eu deveria ^orange;criar uma hoe^green; usando wood e copper bars^white;.",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "^green;É hora de Cultivar",
+    "path": "/title"
+  }
+]

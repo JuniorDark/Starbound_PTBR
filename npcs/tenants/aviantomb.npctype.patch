@@ -1,1 +1,52 @@
-[{"op": "replace", "path": "/dialog/converse/avian/avian/3", "value": "Você sabia que cada sol é um olho de Kluex? Ele vê tudo!"}, {"op": "replace", "path": "/dialog/converse/avian/default/4", "value": "Nós Avians costumava existir nos céus além do reino mortal. Que possamos um dia voltar!"}, {"op": "replace", "path": "/dialog/converse/avian/default/0", "value": "Eu vim para espalhar a boa palavra de Kluex! Preste atenção a meus ensinamentos e ganhe suas asas!"}, {"op": "replace", "path": "/dialog/converse/avian/avian/1", "value": "Você também tem o sonho de um dia recuperar suas asas? Que a absolvição retorne a nós como éramos uma vez"}, {"op": "replace", "path": "/dialog/converse/avian/avian/4", "value": "Se desejamos voar, devemos viver na luz de Kluex!"}, {"op": "replace", "path": "/dialog/converse/avian/default/1", "value": "Toda vez que algo de bom acontece com você, é por causa de Kluex. Tudo de ruim é culpa sua."}, {"op": "replace", "path": "/dialog/converse/avian/default/3", "value": "Se desejamos voar, devemos viver na luz de Kluex!"}, {"op": "replace", "path": "/dialog/converse/avian/avian/0", "value": "Você se parece com um belo seguidor de Kluex! Que você um dia ganhe suas asas."}, {"op": "replace", "path": "/dialog/converse/avian/avian/2", "value": "Toda vez que algo de bom acontece com você, é por causa de Kluex. Tudo de ruim é culpa sua."}, {"op": "replace", "path": "/dialog/converse/avian/default/2", "value": "Você sabia que cada sol é um olho de Kluex? Ele vê tudo!"}]
+[
+  {
+    "op": "replace",
+    "value": "Você sabia que cada sol é um olho de Kluex? Ele vê tudo!",
+    "path": "/dialog/converse/avian/avian/3"
+  },
+  {
+    "op": "replace",
+    "value": "Você sabia que cada sol é um olho de Kluex? Ele vê tudo!",
+    "path": "/dialog/converse/avian/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você também tem o sonho de um dia recuperar suas asas? Que a absolvição retorne a nós como éramos uma vez",
+    "path": "/dialog/converse/avian/avian/1"
+  },
+  {
+    "op": "replace",
+    "value": "Toda vez que algo de bom acontece com você, é por causa de Kluex. Tudo de ruim é culpa sua.",
+    "path": "/dialog/converse/avian/avian/2"
+  },
+  {
+    "op": "replace",
+    "value": "Toda vez que algo de bom acontece com você, é por causa de Kluex. Tudo de ruim é culpa sua.",
+    "path": "/dialog/converse/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vim para espalhar a boa palavra de Kluex! Preste atenção a meus ensinamentos e ganhe suas asas!",
+    "path": "/dialog/converse/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Se desejamos voar, devemos viver na luz de Kluex!",
+    "path": "/dialog/converse/avian/avian/4"
+  },
+  {
+    "op": "replace",
+    "value": "Se desejamos voar, devemos viver na luz de Kluex!",
+    "path": "/dialog/converse/avian/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Nós Avians costumava existir nos céus além do reino mortal. Que possamos um dia voltar!",
+    "path": "/dialog/converse/avian/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Você se parece com um belo seguidor de Kluex! Que você um dia ganhe suas asas.",
+    "path": "/dialog/converse/avian/avian/0"
+  }
+]

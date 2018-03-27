@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "É uma réplica emoldurada do álbum de sucesso do Big Ape, 'Amor da Selva'."}, {"op": "replace", "path": "/shortdescription", "value": "Big Ape Record"}, {"op": "replace", "path": "/glitchDescription", "value": "Confuso. Um tipo de mídia desconhecida."}, {"op": "replace", "path": "/apexDescription", "value": "Este é o único disco que um Apex tem permissão de possuir. Alguns dizem que contém mensagens subliminares."}, {"op": "replace", "path": "/humanDescription", "value": "Isso é... vinil? Maneiro."}, {"op": "replace", "path": "/hylotlDescription", "value": "Existem ranhuras no disco."}, {"op": "replace", "path": "/avianDescription", "value": "Um disco estranho."}, {"op": "replace", "path": "/floranDescription", "value": "Círculo preto brilhante."}, {"op": "replace", "path": "/novakidDescription", "value": "Este disco tem um padrão sutil."}]
+[
+  {
+    "op": "replace",
+    "value": "Um disco estranho.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Big Ape Record",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Círculo preto brilhante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Um tipo de mídia desconhecida.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é... vinil? Maneiro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma réplica emoldurada do álbum de sucesso do Big Ape, 'Amor da Selva'.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Existem ranhuras no disco.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este disco tem um padrão sutil.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este é o único disco que um Apex tem permissão de possuir. Alguns dizem que contém mensagens subliminares.",
+    "path": "/apexDescription"
+  }
+]

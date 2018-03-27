@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "O chapeamento de violium sobre este peitoral torna quase impenetrável por armas convencionais."}, {"op": "replace", "path": "/shortdescription", "value": "Phoenix Breastplate"}]
+[
+  {
+    "op": "replace",
+    "value": "Phoenix Breastplate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O chapeamento de violium sobre este peitoral torna quase impenetrável por armas convencionais.",
+    "path": "/description"
+  }
+]

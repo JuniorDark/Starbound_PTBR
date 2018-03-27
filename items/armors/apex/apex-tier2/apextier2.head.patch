@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Este capuz e máscara dá ao utilizador uma aparência rebelde."}, {"op": "replace", "path": "/shortdescription", "value": "Rebel's Hood"}]
+[
+  {
+    "op": "replace",
+    "value": "Rebel's Hood",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este capuz e máscara dá ao utilizador uma aparência rebelde.",
+    "path": "/description"
+  }
+]

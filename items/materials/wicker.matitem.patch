@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um material entrelaçado grosseiramente tecido."}, {"op": "replace", "path": "/shortdescription", "value": "Wicker"}]
+[
+  {
+    "op": "replace",
+    "value": "Wicker",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um material grosso de vime tecido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Me parece com um vime.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perceptivo. Este vime é bem tecido e forte.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vime forte faz parede.",
+    "path": "/florandescription"
+  }
+]

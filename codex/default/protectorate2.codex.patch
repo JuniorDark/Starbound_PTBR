@@ -1,17 +1,17 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Documentação oficial do Protetorado Terreno."
+    "value": "Sobre O Protetorado Terreno",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "O Protetorado Terreno resistiu orgulhosamente por mais de 500 anos, lutando pela paz e pela união entre os muitos povos do universo. Nós existimos para oferecer ajuda aos mais vulneráveis e refúgio para aqueles que vivem no medo. Nós nos esforçamos para educar, proteger e apoiar todos aqueles que procuram a nossa ajuda. \n\nNós somos o Protetorado Terreno."
+    "value": "Documentação oficial do Protetorado Terreno.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "Sobre O Protetorado Terreno"
+    "value": "O Protetorado Terreno resistiu orgulhosamente por mais de 500 anos, lutando pela paz e pela união entre os muitos povos do universo. Nós existimos para oferecer ajuda aos mais vulneráveis e refúgio para aqueles que vivem no medo. Nós nos esforçamos para educar, proteger e apoiar todos aqueles que procuram a nossa ajuda. \n\nNós somos o Protetorado Terreno.",
+    "path": "/contentPages/0"
   }
 ]

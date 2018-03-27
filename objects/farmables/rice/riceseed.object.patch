@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Ferva-o, frite-o, jogue-o em uma noiva. Arroz! Para todas as suas necessidades culinárias."}, {"op": "replace", "path": "/shortdescription", "value": "Rice Seed"}, {"op": "replace", "path": "/humanDescription", "value": "Arroz. Bom para quando você está com fome e quer comer milhares de algo."}, {"op": "replace", "path": "/floranDescription", "value": "Floran prepara arroz como um belo prato acompanhante para coraçõesss fervidos."}, {"op": "replace", "path": "/avianDescription", "value": "Arroz, um delicioso lanche para bicar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Arroz. Uma base simples para uma refeição."}, {"op": "replace", "path": "/novakidDescription", "value": "Arroz é bom de vez em quando. Perfeito com pimenta!"}, {"op": "replace", "path": "/apexDescription", "value": "Arroz. Uma grande adição a qualquer refeição."}, {"op": "replace", "path": "/glitchDescription", "value": "Divertido. Um Glitch uma vez comeu arroz não cozido e lançou uma carreira bem sucedida como um instrumento de percussão."}]
+[
+  {
+    "op": "replace",
+    "value": "Divertido. Um Glitch uma vez comeu arroz não cozido e lançou uma carreira bem sucedida como um instrumento de percussão.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ferva-o, frite-o, jogue-o em uma noiva. Arroz! Para todas as suas necessidades culinárias.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran prepara arroz como um belo prato acompanhante para coraçõesss fervidos.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rice Seed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Arroz é bom de vez em quando. Perfeito com pimenta!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Arroz, um delicioso lanche para bicar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Arroz. Uma grande adição a qualquer refeição.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Arroz. Uma base simples para uma refeição.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Arroz. Bom para quando você está com fome e quer comer milhares de algo.",
+    "path": "/humanDescription"
+  }
+]

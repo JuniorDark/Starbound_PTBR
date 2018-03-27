@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Armadura de peito, muitas vezes usada por pessoas de grande importância."
+    "value": "Armadura de peito, muitas vezes usada por pessoas de grande importância.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Premier Chestpiece",
+    "path": "/shortdescription"
   }
 ]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma cama minimalista feita a partir de um vidro refractivo."}, {"op": "replace", "path": "/shortdescription", "value": "Prism Bed"}, {"op": "replace", "path": "/floranDescription", "value": "Floran confuso. A luz está presa no interior?"}, {"op": "replace", "path": "/glitchDescription", "value": "Paralisado. Meu olhar está preso nas luzes dançantes dentro desta cama."}, {"op": "replace", "path": "/apexDescription", "value": "Estou impressionado com a suavidade deste material refinado."}, {"op": "replace", "path": "/humanDescription", "value": "Claro que ela parece legal, mas o quão confortável é?"}, {"op": "replace", "path": "/avianDescription", "value": "O arco-íris de luzes dentro é maravilhoso."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este vidro é tão claro, é como uma piscina de água imóvel."}, {"op": "replace", "path": "/novakidDescription", "value": "Como olhar para um céu limpo depois da chuva."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cama minimalista feita a partir de um vidro refractivo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran confuso. A luz está presa no interior?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estou impressionado com a suavidade deste material refinado.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Como olhar para um céu limpo depois da chuva.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Prism Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Claro que ela parece legal, mas o quão confortável é?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O arco-íris de luzes dentro é maravilhoso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este vidro é tão claro, é como uma piscina de água imóvel.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Paralisado. Meu olhar está preso nas luzes dançantes dentro desta cama.",
+    "path": "/glitchDescription"
+  }
+]

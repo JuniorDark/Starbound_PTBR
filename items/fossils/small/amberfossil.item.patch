@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/completeSetDescriptions/description", "value": "Âmbar tem mais variações do que qualquer outro artefato antigo catalogado."}, {"op": "replace", "path": "/description", "value": "Um pedaço fossilizado de âmbar."}, {"op": "replace", "path": "/completeSetDescriptions/shortdescription", "value": "Amber"}, {"op": "replace", "path": "/shortdescription", "value": "Amber"}]
+[
+  {
+    "op": "replace",
+    "value": "Amber",
+    "path": "/completeSetDescriptions/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Amber",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Âmbar tem mais variações do que qualquer outro artefato antigo catalogado.",
+    "path": "/completeSetDescriptions/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um pedaço fossilizado de âmbar.",
+    "path": "/description"
+  }
+]

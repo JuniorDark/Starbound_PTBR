@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Cheira a ovos verdes e presunto."}, {"op": "replace", "path": "/shortdescription", "value": "The Un-Cat Hat"}]
+[
+  {
+    "op": "replace",
+    "value": "Cheira a ovos verdes e presunto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "The Un-Cat Hat",
+    "path": "/shortdescription"
+  }
+]

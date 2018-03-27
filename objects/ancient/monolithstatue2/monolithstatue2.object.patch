@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Curioso. Esta estátua existe para entregar uma mensagem?"}, {"op": "replace", "path": "/description", "value": "Uma misteriosa estátua antiga."}, {"op": "replace", "path": "/shortdescription", "value": "Monolith Statue"}, {"op": "replace", "path": "/floranDescription", "value": "Floran tentado a desenhar rosto bobo na estátua!"}, {"op": "replace", "path": "/apexDescription", "value": "Esta estátua parece existir para entregar uma mensagem de muito tempo atrás."}, {"op": "replace", "path": "/humanDescription", "value": "Eu gosto das minhas ruínas antigas com estátuas antigas gigantes!"}, {"op": "replace", "path": "/avianDescription", "value": "Uma grande representação de um ser. Talvez um falso deus antigo?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Projeto grosseiro, mas distinto. Uma estátua Hylotl teria envelhecido melhor."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma estátua velha, como um fantasma do passado, mexendo em memórias já desaparecidas."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma grande representação de um ser. Talvez um falso deus antigo?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma misteriosa estátua antiga.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estátua velha, como um fantasma do passado, mexendo em memórias já desaparecidas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Projeto grosseiro, mas distinto. Uma estátua Hylotl teria envelhecido melhor.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Esta estátua existe para entregar uma mensagem?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran tentado a desenhar rosto bobo na estátua!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu gosto das minhas ruínas antigas com estátuas antigas gigantes!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Monolith Statue",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta estátua parece existir para entregar uma mensagem de muito tempo atrás.",
+    "path": "/apexDescription"
+  }
+]

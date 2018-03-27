@@ -1,1 +1,27 @@
-[{"op":"replace","path":"/message","value":"\n\nEu simplesmente amo essa roupa! Gostaria de fazê-la o novo uniforme de sua tripulação?"},{"op":"replace","path":"/subtitle","value":"<name>, <rank>"},{"op":"replace","path":"/title","value":"Atualizar o uniforme de sua tripulação?"},{"op":"replace","path":"/okCaption","value":"Certo"},{"op":"replace","path":"/cancelCaption","value":"Agora não"}]
+[
+  {
+    "op": "replace",
+    "value": "\n\nEu simplesmente amo essa roupa! Gostaria de fazê-la o novo uniforme de sua tripulação?",
+    "path": "/message"
+  },
+  {
+    "op": "replace",
+    "value": "Atualizar o uniforme de sua tripulação?",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Agora não",
+    "path": "/cancelCaption"
+  },
+  {
+    "op": "replace",
+    "value": "Certo",
+    "path": "/okCaption"
+  },
+  {
+    "op": "replace",
+    "value": "<name>, <rank>",
+    "path": "/subtitle"
+  }
+]

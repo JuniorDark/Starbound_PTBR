@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Este headset tem uma viseira aprimorada chique."}, {"op": "replace", "path": "/shortdescription", "value": "Scouter's Visor"}]
+[
+  {
+    "op": "replace",
+    "value": "Scouter's Visor",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este headset tem uma viseira aprimorada chique.",
+    "path": "/description"
+  }
+]

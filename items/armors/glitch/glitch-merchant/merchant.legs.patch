@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma calça de comerciante simples de baixa qualidade."}, {"op": "replace", "path": "/shortdescription", "value": "Merchant Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Merchant Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma calça de comerciante simples de baixa qualidade.",
+    "path": "/description"
+  }
+]

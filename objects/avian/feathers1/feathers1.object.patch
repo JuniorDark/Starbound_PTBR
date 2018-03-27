@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Eu odiaria encontrar o pássaro que deixou cair estas penas maciças."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. O pássaro que tinha essas penas deve ter sido bastante grande."}, {"op": "replace", "path": "/description", "value": "Penas lindas e vibrantes dispostas como flores"}, {"op": "replace", "path": "/shortdescription", "value": "Vibrant Feather Bundle"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de penass grandes. Quer caçar o pássaro de onde vieram."}, {"op": "replace", "path": "/apexDescription", "value": "Eu nunca vi um pássaro com penas tão grandes."}, {"op": "replace", "path": "/avianDescription", "value": "Templos Avians geralmente apresentam pacotes de grandes penas de pássaros coloridos."}, {"op": "replace", "path": "/hylotlDescription", "value": "Estas penas são bonitas e elegantes."}, {"op": "replace", "path": "/novakidDescription", "value": "Um belo maço de penas."}]
+[
+  {
+    "op": "replace",
+    "value": "Um belo maço de penas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Templos Avians geralmente apresentam pacotes de grandes penas de pássaros coloridos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de penass grandes. Quer caçar o pássaro de onde vieram.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Penas lindas e vibrantes dispostas como flores",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Eu odiaria encontrar o pássaro que deixou cair estas penas maciças.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu nunca vi um pássaro com penas tão grandes.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. O pássaro que tinha essas penas deve ter sido bastante grande.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas penas são bonitas e elegantes.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vibrant Feather Bundle",
+    "path": "/shortdescription"
+  }
+]

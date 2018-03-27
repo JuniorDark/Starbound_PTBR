@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um antigo aparato de respiração para filtrar toxinas no ar. Infelizmente ele não é mais funcional."}, {"op": "replace", "path": "/shortdescription", "value": "Gas Mask"}]
+[
+  {
+    "op": "replace",
+    "value": "Um antigo aparato de respiração para filtrar toxinas no ar. Infelizmente ele não é mais funcional.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Gas Mask",
+    "path": "/shortdescription"
+  }
+]

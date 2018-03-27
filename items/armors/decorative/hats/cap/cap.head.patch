@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "-50 de inteligência quando usado de lado."}, {"op": "replace", "path": "/shortdescription", "value": "Cap"}]
+[
+  {
+    "op": "replace",
+    "value": "-50 de inteligência quando usado de lado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cap",
+    "path": "/shortdescription"
+  }
+]

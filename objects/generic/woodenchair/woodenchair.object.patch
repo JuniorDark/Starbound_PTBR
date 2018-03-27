@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Cadeira precisa de travesseiro. Esta madeira é muito áspera."}, {"op": "replace", "path": "/glitchDescription", "value": "Desapontado. Assento desconfortável."}, {"op": "replace", "path": "/avianDescription", "value": "Uma cadeira de madeira áspera."}, {"op": "replace", "path": "/hylotlDescription", "value": "Pouco esforço foi feito para fazer esta cadeira confortável."}, {"op": "replace", "path": "/novakidDescription", "value": "Sou fã de carpintaria simples."}, {"op": "replace", "path": "/description", "value": "Uma cadeira de madeira desconfortável."}, {"op": "replace", "path": "/shortdescription", "value": "Wooden Chair"}, {"op": "replace", "path": "/apexDescription", "value": "Uma cadeira de madeira muito simples."}, {"op": "replace", "path": "/humanDescription", "value": "Eu não poderia ficar sentado aqui por muito tempo."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira de madeira áspera.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira de madeira muito simples.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira de madeira desconfortável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cadeira precisa de travesseiro. Esta madeira é muito áspera.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desapontado. Assento desconfortável.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não poderia ficar sentado aqui por muito tempo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sou fã de carpintaria simples.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pouco esforço foi feito para fazer esta cadeira confortável.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wooden Chair",
+    "path": "/shortdescription"
+  }
+]

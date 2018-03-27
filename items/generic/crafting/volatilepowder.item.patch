@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um pó perigoso, útil para criar explosivos."}, {"op": "replace", "path": "/shortdescription", "value": "Volatile Powder"}]
+[
+  {
+    "op": "replace",
+    "value": "Um pó perigoso, útil para criar explosivos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Volatile Powder",
+    "path": "/shortdescription"
+  }
+]

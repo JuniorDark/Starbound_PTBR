@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Este seria um local perfeito para uma loja."}, {"op": "replace", "path": "/shortdescription", "value": "Closed Terra Mart"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de caixa de árvore."}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Parece que alguém está convertendo esta caixa em uma loja."}, {"op": "replace", "path": "/apexDescription", "value": "Uma caixa de transporte estranha - parece ter usos além de armazenamento."}, {"op": "replace", "path": "/humanDescription", "value": "Parece que alguém está no processo de mudança para esta caixa gigante de transporte."}, {"op": "replace", "path": "/avianDescription", "value": "Esta caixa de armazenamento tem uma árvore crescendo pra fora!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Este caixa parece ter uma grande árvore crescendo através dela."}, {"op": "replace", "path": "/novakidDescription", "value": "Alguém está transformando essa caixa em uma loja?"}]
+[
+  {
+    "op": "replace",
+    "value": "Este seria um excelente local para uma loja.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de transporte estranha - parece ter usos além de armazenamento.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Closed Terra Mart",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de caixa de árvore.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Parece que alguém está convertendo esta caixa em uma loja.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém está transformando essa caixa em uma loja?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que alguém está no processo de mudança para esta caixa gigante de transporte.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este caixa parece ter uma grande árvore crescendo através dela.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta caixa de armazenamento tem uma árvore crescendo pra fora!",
+    "path": "/avianDescription"
+  }
+]

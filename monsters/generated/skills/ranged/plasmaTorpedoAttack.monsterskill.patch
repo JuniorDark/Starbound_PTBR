@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/label", "value": "TORPEDO PLASMÁTICO"}]
+[
+  {
+    "op": "replace",
+    "value": "TORPEDO PLASMÁTICO",
+    "path": "/label"
+  }
+]

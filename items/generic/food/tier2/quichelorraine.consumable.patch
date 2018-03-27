@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma quiche de bacon clássico. Perfeito para piqueniques!"}, {"op": "replace", "path": "/shortdescription", "value": "Quiche Lorraine"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma quiche de bacon clássico. Perfeito para piqueniques!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Quiche Lorraine",
+    "path": "/shortdescription"
+  }
+]

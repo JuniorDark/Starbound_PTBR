@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Mais comumente usado para natação rasa."}, {"op": "replace", "path": "/shortdescription", "value": "Snorkel"}]
+[
+  {
+    "op": "replace",
+    "value": "Mais comumente usado para natação rasa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Snorkel",
+    "path": "/shortdescription"
+  }
+]

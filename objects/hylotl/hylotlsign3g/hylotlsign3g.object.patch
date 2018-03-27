@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma placa exibindo reefpods, uma iguaria saborosa."}, {"op": "replace", "path": "/floranDescription", "value": "Floran preferiria comer homem-peixe do que comida de homem-peixe."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Alguns consideram reefpods uma iguaria."}, {"op": "replace", "path": "/humanDescription", "value": "Eu ficaria mais entusiasmado para jantar aqui se eles servissem carne."}, {"op": "replace", "path": "/avianDescription", "value": "Reefpods. Que delícia. Ainda bem que fiz o meu próprio almoço."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu não tenho certeza se eu realmente gosto de reefpods."}, {"op": "replace", "path": "/shortdescription", "value": "Green Neon Pod Sign"}, {"op": "replace", "path": "/hylotlDescription", "value": "A cozinha Hylotl tem uma reputação entre outras espécies por ser uma das melhores da galáxia."}, {"op": "replace", "path": "/apexDescription", "value": "Eu acho que este é uma placa para algum tipo de restaurante. Poderia entrar se eu ficar com fome excepcionalmente."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma placa exibindo reefpods, uma iguaria saborosa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Alguns consideram reefpods uma iguaria.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran preferiria comer homem-peixe do que comida de homem-peixe.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Green Neon Pod Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A cozinha Hylotl tem uma reputação entre outras espécies por ser uma das melhores da galáxia.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não tenho certeza se eu realmente gosto de reefpods.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu acho que este é uma placa para algum tipo de restaurante. Poderia entrar se eu ficar com fome excepcionalmente.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu ficaria mais entusiasmado para jantar aqui se eles servissem carne.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Reefpods. Que delícia. Ainda bem que fiz o meu próprio almoço.",
+    "path": "/avianDescription"
+  }
+]

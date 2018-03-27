@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Plutonium Ore"}, {"op": "replace", "path": "/description", "value": "É bonito, mas extremamente radioativo."}]
+[
+  {
+    "op": "replace",
+    "value": "É bonito, mas extremamente radioativo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Plutonium Ore",
+    "path": "/shortdescription"
+  }
+]

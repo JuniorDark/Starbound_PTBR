@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Perceptivo. Esta parede é sutilmente decorada em um método tradicional."}, {"op": "replace", "path": "/shortdescription", "value": "Ornate Wall"}, {"op": "replace", "path": "/description", "value": "Uma parede de aparência tradicional."}, {"op": "replace", "path": "/floranDescription", "value": "Parede é muito bonita para quebrar."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta é uma parede realmente chique."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma parede de aparência tradicional.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ornate Wall",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perceptivo. Esta parede é sutilmente decorada em um método tradicional.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é uma parede realmente chique.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parede é muito bonita para quebrar.",
+    "path": "/floranDescription"
+  }
+]

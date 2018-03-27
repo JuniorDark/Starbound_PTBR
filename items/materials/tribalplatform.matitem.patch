@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Temple Platform"}, {"op": "replace", "path": "/description", "value": "Plataformas feitas a partir de tijolos de templo sólido."}]
+[
+  {
+    "op": "replace",
+    "value": "Surpreso. Tijolos de pedra foram agregados nesta plataforma.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijolos de pedra velhos colocados como uma plataforma.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plataforma feita de tijolos velhoss.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Temple Platform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plataformas feitas a partir de tijolos de templo sólido.",
+    "path": "/description"
+  }
+]

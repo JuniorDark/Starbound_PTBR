@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A maioria do seu corpo é matéria cerebral, protegido apenas por um casco grosso frontal."}, {"op": "replace", "path": "/shortdescription", "value": "Dark Gembrane"}]
+[
+  {
+    "op": "replace",
+    "value": "Dark Gembrane",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A maioria do seu corpo é matéria cerebral, protegido apenas por um casco grosso frontal.",
+    "path": "/description"
+  }
+]

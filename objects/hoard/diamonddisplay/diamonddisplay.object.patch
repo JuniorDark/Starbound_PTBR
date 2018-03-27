@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Diamond Display"}, {"op": "replace", "path": "/glitchDescription", "value": "Crítico. Este mostrador não parece estar protegido por um sistema de alarme."}, {"op": "replace", "path": "/apexDescription", "value": "Uma vitrine para um grande diamante."}, {"op": "replace", "path": "/humanDescription", "value": "É como algo saído de um filme de roubo!"}, {"op": "replace", "path": "/avianDescription", "value": "Uma ótima maneira de exibir jóias de valor inestimável."}, {"op": "replace", "path": "/floranDescription", "value": "Floran roubou jóia do museu uma vez. Guardas ficaram loucos. Floran esssfaqueou."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um mostrador impróprio para uma bela joia."}, {"op": "replace", "path": "/description", "value": "Um mostrador para um grande diamante."}, {"op": "replace", "path": "/novakidDescription", "value": "Me pergunto se alguém vai notar se isso desaparecer."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma vitrine para um grande diamante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um mostrador para um grande diamante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma ótima maneira de exibir jóias de valor inestimável.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um mostrador impróprio para uma bela joia.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Crítico. Este mostrador não parece estar protegido por um sistema de alarme.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Diamond Display",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran roubou jóia do museu uma vez. Guardas ficaram loucos. Floran esssfaqueou.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me pergunto se alguém vai notar se isso desaparecer.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É como algo saído de um filme de roubo!",
+    "path": "/humanDescription"
+  }
+]

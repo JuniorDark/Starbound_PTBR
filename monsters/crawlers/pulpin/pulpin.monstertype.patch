@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Ele tem uma textura pegajosa que permite subir superfícies com facilidade."}, {"op": "replace", "path": "/shortdescription", "value": "Pulpin"}]
+[
+  {
+    "op": "replace",
+    "value": "Ele tem uma textura pegajosa que permite subir superfícies com facilidade.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pulpin",
+    "path": "/shortdescription"
+  }
+]

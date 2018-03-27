@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma pequena caixa de madeira."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Esta caixa de madeira é simples, mas eficaz."}, {"op": "replace", "path": "/apexDescription", "value": "Uma caixa de madeira simples."}, {"op": "replace", "path": "/humanDescription", "value": "Uma caixa feita de pequenas pranchas de madeira."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma caixa de madeira. É funcional, mas não muito bonita."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma caixa de aparência simples feita de madeira."}, {"op": "replace", "path": "/shortdescription", "value": "Wooden Crate"}, {"op": "replace", "path": "/floranDescription", "value": "Uma caixa de carne de árvore cortada."}, {"op": "replace", "path": "/avianDescription", "value": "A caixa feita de madeira."}]
+[
+  {
+    "op": "replace",
+    "value": "Wooden Crate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A caixa feita de madeira.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de carne de árvore cortada.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa feita de pequenas pranchas de madeira.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de aparência simples feita de madeira.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de madeira simples.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pequena caixa de madeira.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de madeira. É funcional, mas não muito bonita.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Esta caixa de madeira é simples, mas eficaz.",
+    "path": "/glitchDescription"
+  }
+]

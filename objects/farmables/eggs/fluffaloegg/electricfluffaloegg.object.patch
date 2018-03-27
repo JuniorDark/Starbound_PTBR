@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Ovo de fluffalo elétrico! Floran gosta de fluffalo elétrico - seu pelo é esstático."}, {"op": "replace", "path": "/description", "value": "Choca um vulnerável filhote de fluffalo elétrico - uma boa fonte de static cells quando estiver totalmente crescido."}, {"op": "replace", "path": "/shortdescription", "value": "Electric Fluffalo Egg"}, {"op": "replace", "path": "/glitchDescription", "value": "Envolvido. Eu me pergunto se o pequeno fluffalo elétrico vai chocar em breve?"}, {"op": "replace", "path": "/apexDescription", "value": "É um ovo de fluffalo elétrico. Ele chocará um dócil fluffalo elétrico."}, {"op": "replace", "path": "/humanDescription", "value": "É um ovo de fluffalo elétrico. Fuffalos elétricos são realmente umas gracinhas."}, {"op": "replace", "path": "/avianDescription", "value": "Isso é um ovo de fluffalo elétrico. O fluffalo elétrico adulto produz static cells."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um ovo de fluffalo elétrico. Fuffalo elétrico são criaturas gentis."}, {"op": "replace", "path": "/novakidDescription", "value": "Um ovo de fluffalo elétrico. Você pode obter static cells dos adultos."}]
+[
+  {
+    "op": "replace",
+    "value": "Um ovo de fluffalo elétrico. Você pode obter static cells dos adultos.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um ovo de fluffalo elétrico. Fuffalo elétrico são criaturas gentis.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Electric Fluffalo Egg",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ovo de fluffalo elétrico! Floran gosta de fluffalo elétrico - seu pelo é esstático.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Envolvido. Eu me pergunto se o pequeno fluffalo elétrico vai chocar em breve?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Choca um vulnerável filhote de fluffalo elétrico - uma boa fonte de static cells quando estiver totalmente crescido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "É um ovo de fluffalo elétrico. Fuffalos elétricos são realmente umas gracinhas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um ovo de fluffalo elétrico. Ele chocará um dócil fluffalo elétrico.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é um ovo de fluffalo elétrico. O fluffalo elétrico adulto produz static cells.",
+    "path": "/avianDescription"
+  }
+]

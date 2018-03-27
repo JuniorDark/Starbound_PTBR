@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um muco espesso. Ele balança quando cutucado."}, {"op": "replace", "path": "/shortdescription", "value": "Slime Glob"}]
+[
+  {
+    "op": "replace",
+    "value": "Um muco espesso. Ele balança quando mechido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ama lodo!",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hesitante. Este lodo parece pegajoso.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Slime Glob",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse lodo é um material de aparência desagradável.",
+    "path": "/novakiddescription"
+  }
+]

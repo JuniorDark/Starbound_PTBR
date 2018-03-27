@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A etiqueta diz, \"Os espinhos afiados podem penetrar qualquer bota espacial.\""}, {"op": "replace", "path": "/shortdescription", "value": "Crustoise Figurine"}]
+[
+  {
+    "op": "replace",
+    "value": "Crustoise Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"Os espinhos afiados podem penetrar qualquer bota espacial.\"",
+    "path": "/description"
+  }
+]

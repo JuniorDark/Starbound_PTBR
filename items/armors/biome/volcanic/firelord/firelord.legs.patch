@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Dizem que estas calças permitem que o usuário pise sobre as chamas mais quentes."}, {"op": "replace", "path": "/shortdescription", "value": "Fire Lord's Greaves"}]
+[
+  {
+    "op": "replace",
+    "value": "Fire Lord's Greaves",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dizem que estas calças permitem que o usuário pise sobre as chamas mais quentes.",
+    "path": "/description"
+  }
+]

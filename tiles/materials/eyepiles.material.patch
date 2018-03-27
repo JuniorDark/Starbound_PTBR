@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Pile of Eyes"}, {"op": "replace", "path": "/description", "value": "Uma pilha desabando de globos oculares macios."}, {"op": "replace", "path": "/floranDescription", "value": "Olhoss moless!"}, {"op": "replace", "path": "/novakidDescription", "value": "Alguns destes olhos estão olhando diretamente para mim."}, {"op": "replace", "path": "/glitchDescription", "value": "Reflexivo. Exceto os no topo da pilha, a maioria destes olhos só vai conhecer escuridão."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pilha desabando de globos oculares macios.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pile of Eyes",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Reflexivo. Exceto os no topo da pilha, a maioria destes olhos só vai conhecer escuridão.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns destes olhos estão olhando diretamente para mim.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Olhoss moless!",
+    "path": "/floranDescription"
+  }
+]

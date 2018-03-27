@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Fedora"}, {"op": "replace", "path": "/description", "value": "O fedora - alguns usa para parecer respeitável, outros de má reputação."}]
+[
+  {
+    "op": "replace",
+    "value": "Fedora",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O fedora - alguns usa para parecer respeitável, outros de má reputação.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Pássarosss minúsculos não podem impedir Floran de entrar!"}, {"op": "replace", "path": "/avianDescription", "value": "Alguns pássaros se acham superiores do que outros! Eu me ofendo com essa atitude."}, {"op": "replace", "path": "/novakidDescription", "value": "Tente me parar, amiguinho."}, {"op": "replace", "path": "/description", "value": "Não me sinto bem-vindo aqui..."}, {"op": "replace", "path": "/shortdescription", "value": "Penguins Only Sign"}, {"op": "replace", "path": "/glitchDescription", "value": "Nervoso. Não me sinto bem-vindo aqui."}, {"op": "replace", "path": "/apexDescription", "value": "Não me sinto bem-vindo aqui..."}, {"op": "replace", "path": "/humanDescription", "value": "Não me sinto bem-vindo aqui..."}, {"op": "replace", "path": "/hylotlDescription", "value": "Não me sinto bem-vindo aqui..."}]
+[
+  {
+    "op": "replace",
+    "value": "Não me sinto bem-vindo aqui...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não me sinto bem-vindo aqui...",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Não me sinto bem-vindo aqui...",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não me sinto bem-vindo aqui...",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Penguins Only Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns pássaros se acham superiores do que outros! Eu me ofendo com essa atitude.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pássarosss minúsculos não podem impedir Floran de entrar!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tente me parar, amiguinho.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nervoso. Não me sinto bem-vindo aqui.",
+    "path": "/glitchDescription"
+  }
+]

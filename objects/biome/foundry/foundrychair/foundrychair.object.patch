@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Isto parece que poderia ser frio para se sentar sem uma almofada."}, {"op": "replace", "path": "/glitchDescription", "value": "Feliz. Uma cadeira agradável."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta cadeira parece máquinas recuperadas."}, {"op": "replace", "path": "/description", "value": "Uma cadeira metálica pesada."}, {"op": "replace", "path": "/novakidDescription", "value": "Que tal isso! Uma cadeira que se parece com máquinas!"}, {"op": "replace", "path": "/shortdescription", "value": "Heavy Chair"}, {"op": "replace", "path": "/floranDescription", "value": "Cadeira maquinaria."}, {"op": "replace", "path": "/apexDescription", "value": "Esta cadeira parece parte de uma máquina de fundição."}, {"op": "replace", "path": "/avianDescription", "value": "Uma cadeira de aparência industrial."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira metálica pesada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira de aparência industrial.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Feliz. Uma cadeira agradável.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Heavy Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que tal isso! Uma cadeira que se parece com máquinas!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cadeira maquinaria.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cadeira parece parte de uma máquina de fundição.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cadeira parece máquinas recuperadas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto parece que poderia ser frio para se sentar sem uma almofada.",
+    "path": "/humanDescription"
+  }
+]

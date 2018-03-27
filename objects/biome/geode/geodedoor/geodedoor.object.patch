@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Seguro. Esta porta pesada de geodo poderia facilmente repelir visitantes indesejados."}, {"op": "replace", "path": "/description", "value": "Uma porta esculpida a partir de um grande geodo."}, {"op": "replace", "path": "/shortdescription", "value": "Geode Door"}, {"op": "replace", "path": "/floranDescription", "value": "Porta feita de rochass brilhantess."}, {"op": "replace", "path": "/apexDescription", "value": "Esta porta pesada foi cortada de um geodo verde."}, {"op": "replace", "path": "/humanDescription", "value": "Os cristais de geodo nesta porta faz ela brilhar brilhantemente quando aberta."}, {"op": "replace", "path": "/avianDescription", "value": "Os cristais de geodo nesta porta foram suavizados."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta bela pedra foi transformada em uma porta."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta grande porta é feita de pedra polida."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta esculpida a partir de um grande geodo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Porta feita de rochass brilhantess.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Geode Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Seguro. Esta porta pesada de geodo poderia facilmente repelir visitantes indesejados.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os cristais de geodo nesta porta foram suavizados.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os cristais de geodo nesta porta faz ela brilhar brilhantemente quando aberta.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta bela pedra foi transformada em uma porta.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta grande porta é feita de pedra polida.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta pesada foi cortada de um geodo verde.",
+    "path": "/apexDescription"
+  }
+]

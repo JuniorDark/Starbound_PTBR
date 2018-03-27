@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um corpo de mecha um tanto estranho. Seu designer original é desconhecido."
+    "value": "Um corpo de mecha um tanto estranho. Seu designer original é desconhecido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Beat Mech Body",
+    "path": "/shortdescription"
   }
 ]

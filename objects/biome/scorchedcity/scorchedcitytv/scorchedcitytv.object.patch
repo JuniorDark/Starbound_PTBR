@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Um aparelho de televisão elegante."}, {"op": "replace", "path": "/avianDescription", "value": "Uma televisão, estas são comumente encontrados em casas de cidade."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma daquelas televisões da cidade grande."}, {"op": "replace", "path": "/humanDescription", "value": "Uma TV! Todos esses canais e ainda nada vale a pena assistir."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um aparelho de televisão de estilo urbano."}, {"op": "replace", "path": "/description", "value": "Um estilo popular de aparelho de televisão."}, {"op": "replace", "path": "/shortdescription", "value": "Stylish TV"}, {"op": "replace", "path": "/floranDescription", "value": "Televisssão."}, {"op": "replace", "path": "/glitchDescription", "value": "Surpreso. Uma televisão moderna."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma TV! Todos esses canais e ainda nada vale a pena assistir.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um aparelho de televisão de estilo urbano.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um aparelho de televisão elegante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um estilo popular de aparelho de televisão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma televisão, estas são comumente encontrados em casas de cidade.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma daquelas televisões da cidade grande.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Stylish TV",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Uma televisão moderna.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Televisssão.",
+    "path": "/floranDescription"
+  }
+]

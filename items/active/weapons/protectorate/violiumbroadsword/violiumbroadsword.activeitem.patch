@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Violium Broadsword"}, {"op": "replace", "path": "/description", "value": "Este punho de violium abriga o projetor para uma lâmina de energia perversa."}]
+[
+  {
+    "op": "replace",
+    "value": "Este punho de violium abriga o projetor para uma lâmina de energia perversa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Violium Broadsword",
+    "path": "/shortdescription"
+  }
+]

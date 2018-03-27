@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Esta blusa é decorada com um cinto."}, {"op": "replace", "path": "/shortdescription", "value": "Blouse and Belt"}]
+[
+  {
+    "op": "replace",
+    "value": "Blouse and Belt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta blusa é decorada com um cinto.",
+    "path": "/description"
+  }
+]

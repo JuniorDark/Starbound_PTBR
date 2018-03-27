@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Gostaria de saber o que está neste tanque."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um tanque antiestético."}, {"op": "replace", "path": "/description", "value": "Um tanque de uso desconhecido."}, {"op": "replace", "path": "/apexDescription", "value": "Um tanque misterioso."}, {"op": "replace", "path": "/humanDescription", "value": "Um tanque estranho."}, {"op": "replace", "path": "/shortdescription", "value": "Large Metal Tank"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não sabe o que poderia estar neste tanque."}, {"op": "replace", "path": "/glitchDescription", "value": "Perplexo. Não consigo descobrir o que tem neste tanque."}, {"op": "replace", "path": "/novakidDescription", "value": "Um tanque. Mas eu não consigo entender o que poderia estar nele."}]
+[
+  {
+    "op": "replace",
+    "value": "Um tanque misterioso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um tanque de uso desconhecido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um tanque. Mas eu não consigo entender o que poderia estar nele.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um tanque estranho.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um tanque antiestético.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não sabe o que poderia estar neste tanque.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gostaria de saber o que está neste tanque.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Large Metal Tank",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perplexo. Não consigo descobrir o que tem neste tanque.",
+    "path": "/glitchDescription"
+  }
+]

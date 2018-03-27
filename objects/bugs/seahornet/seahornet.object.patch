@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Seahornet"}, {"op": "replace", "path": "/description", "value": "Este inseto tem um focinho como um cavalo-marinho."}]
+[
+  {
+    "op": "replace",
+    "value": "Seahornet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este inseto tem um focinho como um cavalo-marinho.",
+    "path": "/description"
+  }
+]

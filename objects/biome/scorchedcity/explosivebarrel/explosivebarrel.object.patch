@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Alertado. O rótulo deste barril adverte de uma substância altamente explosiva dentro."}, {"op": "replace", "path": "/floranDescription", "value": "Rótulo parece com fogo. Floran mantém distância."}, {"op": "replace", "path": "/shortdescription", "value": "Explosive Barrel"}, {"op": "replace", "path": "/description", "value": "Um barril de metal explosivo. Parece perigoso."}, {"op": "replace", "path": "/apexDescription", "value": "Um barril explosivo. Eu deveria manter distância."}, {"op": "replace", "path": "/humanDescription", "value": "O rótulo explosivo na frente implica que eu provavelmente não deveria tentar abri-lo."}, {"op": "replace", "path": "/avianDescription", "value": "Recipiente explosivo. Eu não posso entrar nisso."}, {"op": "replace", "path": "/hylotlDescription", "value": "Parece um recipiente de metal cheio de explosivos. Esta selado por um motivo."}, {"op": "replace", "path": "/novakidDescription", "value": "Parece dinamite, em forma de barril."}]
+[
+  {
+    "op": "replace",
+    "value": "Explosive Barrel",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alertado. O rótulo deste barril adverte de uma substância altamente explosiva dentro.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um barril explosivo. Eu deveria manter distância.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um barril de metal explosivo. Parece perigoso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Recipiente explosivo. Eu não posso entrar nisso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rótulo parece com fogo. Floran mantém distância.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece um recipiente de metal cheio de explosivos. Esta selado por um motivo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece dinamite, em forma de barril.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O rótulo explosivo na frente implica que eu provavelmente não deveria tentar abri-lo.",
+    "path": "/humanDescription"
+  }
+]

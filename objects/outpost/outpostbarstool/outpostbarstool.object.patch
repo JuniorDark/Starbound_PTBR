@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Não impressionado. O metal nessa banqueta precisa de um polimento."}, {"op": "replace", "path": "/avianDescription", "value": "Uma banqueta. Eu poderia se sentar."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma banqueta. Estou familiarizado com estas. Muito familiarizado."}, {"op": "replace", "path": "/description", "value": "Uma banqueta trêmula."}, {"op": "replace", "path": "/shortdescription", "value": "Urban Bar Stool"}, {"op": "replace", "path": "/floranDescription", "value": "Uma banqueta redonda! Floran pode girar nela! Ficar tonto é divertido."}, {"op": "replace", "path": "/humanDescription", "value": "Assim como as banquetas clássica de casa."}, {"op": "replace", "path": "/apexDescription", "value": "É só uma banqueta."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um assento bastante típico encontrado em bares urbanos."}]
+[
+  {
+    "op": "replace",
+    "value": "Urban Bar Stool",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma banqueta. Eu poderia se sentar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma banqueta. Estou familiarizado com estas. Muito familiarizado.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um assento bastante típico encontrado em bares urbanos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma banqueta redonda! Floran pode girar nela! Ficar tonto é divertido.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma banqueta trêmula.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "É só uma banqueta.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Assim como as banquetas clássica de casa.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não impressionado. O metal nessa banqueta precisa de um polimento.",
+    "path": "/glitchDescription"
+  }
+]

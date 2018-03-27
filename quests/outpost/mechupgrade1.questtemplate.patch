@@ -1,1 +1,27 @@
-[{"op":"replace","path":"/title","value":"^orange;Peças e Mão de Obra"},{"op":"replace","path":"/text","value":"Eu estou trabalhando em uma nova arma de mecha brilhante, mas eu preciso de ajuda para coletar algumas peças. Se você pudesse ^green;ir para o espaço^white; e ^green;encontrar para mim 5^orange; salvaged interface chips^white; e ^green;10 ^orange;salvaged power couplings^white;, Eu acho que isso será suficiente para terminá-la!"},{"op":"replace","path":"/completionText","value":"Essas peças são suficientes para eu terminar meu novo ^orange;Missile Rack arm^white;! Como um símbolo de minha apreciação, eu enviei uma cópia do ^green;projeto^white; para a ^green;mesa de fabricação de peças de mecha^white; - Você pode fazar a sua própria agora!"}]
+[
+  {
+    "op": "replace",
+    "value": "Dr. Akaggy",
+    "path": "/scriptConfig/portraits/questComplete/title"
+  },
+  {
+    "op": "replace",
+    "value": "Dr. Akaggy",
+    "path": "/scriptConfig/portraits/questStarted/title"
+  },
+  {
+    "op": "replace",
+    "value": "Eu estou trabalhando em uma nova arma de mecha brilhante, mas eu preciso de ajuda para coletar algumas peças. Se você pudesse ^green;ir para o espaço^white; e ^green;encontrar para mim 5^orange; salvaged interface chips^white; e ^green;10 ^orange;salvaged power couplings^white;, Eu acho que isso será suficiente para terminá-la!",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "Essas peças são suficientes para eu terminar meu novo ^orange;Missile Rack arm^white;! Como um símbolo de minha apreciação, eu enviei uma cópia do ^green;projeto^white; para a ^green;mesa de fabricação de peças de mecha^white; - Você pode fazar a sua própria agora!",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Peças e Mão de Obra",
+    "path": "/title"
+  }
+]

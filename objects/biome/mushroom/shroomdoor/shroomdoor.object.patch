@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma porta feita de cogumelos. Ele ainda tem uma maçaneta de cogumelo fofa."}, {"op": "replace", "path": "/shortdescription", "value": "Shroom Door"}, {"op": "replace", "path": "/floranDescription", "value": "Floran essspreme porta."}, {"op": "replace", "path": "/apexDescription", "value": "Uma porta de cogumelo mole."}, {"op": "replace", "path": "/humanDescription", "value": "Uma porta de cogumelo bonitinha."}, {"op": "replace", "path": "/avianDescription", "value": "Esta porta não parece muito segura."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma porta feita de cogumelos. Bizarro."}, {"op": "replace", "path": "/glitchDescription", "value": "Fascinado. Uma porta de cogumelo."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma porta de cogumelo mole. É fofa!."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta de cogumelo bonitinha.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta feita de cogumelos. Bizarro.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta feita de cogumelos. Ele ainda tem uma maçaneta de cogumelo fofa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta de cogumelo mole.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta de cogumelo mole. É fofa!.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fascinado. Uma porta de cogumelo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran essspreme porta.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Shroom Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta não parece muito segura.",
+    "path": "/avianDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Wavebird"}, {"op": "replace", "path": "/description", "value": "Um inseto que geralmente pode ser encontrado perseguindo a crista de uma onda."}]
+[
+  {
+    "op": "replace",
+    "value": "Um inseto que geralmente pode ser encontrado perseguindo a crista de uma onda.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Wavebird",
+    "path": "/shortdescription"
+  }
+]

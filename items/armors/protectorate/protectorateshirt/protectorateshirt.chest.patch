@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma camiseta confortável, estampada com o logotipo do Protetorado Terreno."}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate T-Shirt"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma camiseta confortável, estampada com o logotipo do Protetorado Terreno.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate T-Shirt",
+    "path": "/shortdescription"
+  }
+]

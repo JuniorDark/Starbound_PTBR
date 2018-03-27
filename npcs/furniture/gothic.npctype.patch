@@ -1,1 +1,52 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/8", "value": "Assustado. Se você olhar para o abismo, aquele olho vai olhar de volta."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/6", "value": "Furtivo. Tente não chamar muita atenção. Há forças lá fora que vale a pena se esconder."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/5", "value": "Mórbido. Se você pensa que eu sou assustador, você deve ver as outras coisas que se escondem na escuridão."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/9", "value": "Melancólico. Talvez seja uma misericórdia que nós não compreendemos verdadeiramente os horrores da noite."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/7", "value": "Preocupado. Por muito tempo na escuridão espreitei, perguntando..."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/3", "value": "Ameaçador. Se você não tem medo das sombras, você simplesmente não sabe o que se esconde lá."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/2", "value": "Intrigado. Você me acha estranho por usar uma máscara?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/4", "value": "Preocupado. Há coisas muito mais assustadoras neste universo do que eu."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/1", "value": "Sombrio. Este universo é uma rede tecido de escuridão oculta."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Letárgico. Me sinto fraco e cansado."}]
+[
+  {
+    "op": "replace",
+    "value": "Preocupado. Há coisas muito mais assustadoras neste universo do que eu.",
+    "path": "/scriptConfig/dialog/converse/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Furtivo. Tente não chamar muita atenção. Há forças lá fora que vale a pena se esconder.",
+    "path": "/scriptConfig/dialog/converse/default/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Sombrio. Este universo é uma rede tecido de escuridão oculta.",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Você me acha estranho por usar uma máscara?",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Letárgico. Me sinto fraco e cansado.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Melancólico. Talvez seja uma misericórdia que nós não compreendemos verdadeiramente os horrores da noite.",
+    "path": "/scriptConfig/dialog/converse/default/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "Ameaçador. Se você não tem medo das sombras, você simplesmente não sabe o que se esconde lá.",
+    "path": "/scriptConfig/dialog/converse/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Mórbido. Se você pensa que eu sou assustador, você deve ver as outras coisas que se escondem na escuridão.",
+    "path": "/scriptConfig/dialog/converse/default/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Assustado. Se você olhar para o abismo, aquele olho vai olhar de volta.",
+    "path": "/scriptConfig/dialog/converse/default/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Por muito tempo na escuridão espreitei, perguntando...",
+    "path": "/scriptConfig/dialog/converse/default/default/7"
+  }
+]

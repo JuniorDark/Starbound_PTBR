@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Perfure os céus, ou pelo menos a terra."
+    "value": "Drill Spear",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perfure os céus, ou pelo menos a terra.",
+    "path": "/description"
   }
 ]

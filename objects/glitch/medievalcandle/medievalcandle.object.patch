@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Sentimental. Luz de vela, como eu senti sua falta."}, {"op": "replace", "path": "/avianDescription", "value": "Os sacerdotes Avian costumam trabalhar à luz de velas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Pouco é tão bonito quanto a cintilação de uma chama de vela."}, {"op": "replace", "path": "/shortdescription", "value": "Candle"}, {"op": "replace", "path": "/apexDescription", "value": "Uma pequena vela."}, {"op": "replace", "path": "/humanDescription", "value": "Uma pequena vela bonita."}, {"op": "replace", "path": "/description", "value": "Uma pequena vela de cera em um suporte."}, {"op": "replace", "path": "/floranDescription", "value": "Chamasss nuas são muito perigosasss!"}, {"op": "replace", "path": "/novakidDescription", "value": "Uma pequena vela suave."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pequena vela suave.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pequena vela bonita.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pequena vela.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pequena vela de cera em um suporte.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Os sacerdotes Avian costumam trabalhar à luz de velas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Candle",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pouco é tão bonito quanto a cintilação de uma chama de vela.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Chamasss nuas são muito perigosasss!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sentimental. Luz de vela, como eu senti sua falta.",
+    "path": "/glitchDescription"
+  }
+]

@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Um osso de uma criatura desconhecida."}, {"op": "replace", "path": "/shortdescription", "value": "Um osso."}, {"op": "replace", "path": "/floranDescription", "value": "Floran provavelmente matou isso."}, {"op": "replace", "path": "/glitchDescription", "value": "Afirmação. Um osso morto há muito tempo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um osso de uma criatura desconhecida.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um osso.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran provavelmente matou isso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Afirmação. Um osso morto há muito tempo.",
+    "path": "/glitchDescription"
+  }
+]

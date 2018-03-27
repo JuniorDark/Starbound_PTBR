@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um tipo estranho de madeira alienígena."}, {"op": "replace", "path": "/shortdescription", "value": "Alien Weird Wood"}]
+[
+  {
+    "op": "replace",
+    "value": "Um tipo estranho de madeira alienígena.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Alien Weird Wood",
+    "path": "/shortdescription"
+  }
+]

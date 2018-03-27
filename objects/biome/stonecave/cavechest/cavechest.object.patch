@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "É um baú de design simples, mas faz bem o seu trabalho."}, {"op": "replace", "path": "/description", "value": "Um baú feito de pedra."}, {"op": "replace", "path": "/shortdescription", "value": "Rock Chest"}, {"op": "replace", "path": "/floranDescription", "value": "Parece um bom lugar para guardar coisasss."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. É um baú habilmente camuflado."}, {"op": "replace", "path": "/novakidDescription", "value": "A tampa é pesada."}, {"op": "replace", "path": "/apexDescription", "value": "Um baú feito de rocha regular."}, {"op": "replace", "path": "/humanDescription", "value": "Eu quase confundi com uma rocha regular."}, {"op": "replace", "path": "/avianDescription", "value": "Parece simples, mas pode conter riquezas."}]
+[
+  {
+    "op": "replace",
+    "value": "Rock Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú feito de rocha regular.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú feito de pedra.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Eu quase confundi com uma rocha regular.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. É um baú habilmente camuflado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece simples, mas pode conter riquezas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece um bom lugar para guardar coisasss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um baú de design simples, mas faz bem o seu trabalho.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A tampa é pesada.",
+    "path": "/novakidDescription"
+  }
+]

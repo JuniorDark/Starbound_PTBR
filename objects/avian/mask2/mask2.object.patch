@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Esse cara parece faminto. Seus olhos me deixam desconfortável."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Provavelmente essa máscara é suposto ser um Floran."}, {"op": "replace", "path": "/apexDescription", "value": "Parece uma máscara Floran."}, {"op": "replace", "path": "/humanDescription", "value": "Acho que é um Floran."}, {"op": "replace", "path": "/avianDescription", "value": "Esta máscara é um aviso para os Floran."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta máscara Floran não é muito precisa."}, {"op": "replace", "path": "/shortdescription", "value": "Decorative Skull Mask"}, {"op": "replace", "path": "/floranDescription", "value": "Homen-pássaro faz Floran parecer temível."}, {"op": "replace", "path": "/novakidDescription", "value": "Isso provavelmente deve ser um Floran."}]
+[
+  {
+    "op": "replace",
+    "value": "Homen-pássaro faz Floran parecer temível.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Decorative Skull Mask",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Acho que é um Floran.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece uma máscara Floran.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Provavelmente essa máscara é suposto ser um Floran.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso provavelmente deve ser um Floran.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta máscara Floran não é muito precisa.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse cara parece faminto. Seus olhos me deixam desconfortável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta máscara é um aviso para os Floran.",
+    "path": "/avianDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Descontraído. Os Glitch apreciam flores e luz."}, {"op": "replace", "path": "/apexDescription", "value": "Uma luz agradável."}, {"op": "replace", "path": "/humanDescription", "value": "Uma lâmpada em uma flor, engenhosa!"}, {"op": "replace", "path": "/avianDescription", "value": "Esta luz cria uma atmosfera relaxante."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma lâmpada feita de uma flor azul."}, {"op": "replace", "path": "/floranDescription", "value": "Floresss são luzesss"}, {"op": "replace", "path": "/description", "value": "Uma lâmpada de flor azul."}, {"op": "replace", "path": "/shortdescription", "value": "Hanging Flower Lamp"}, {"op": "replace", "path": "/novakidDescription", "value": "Uma lâmpada bonita. Eu gosto disso."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lâmpada de flor azul.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada em uma flor, engenhosa!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada feita de uma flor azul.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz agradável.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada bonita. Eu gosto disso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floresss são luzesss",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hanging Flower Lamp",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Descontraído. Os Glitch apreciam flores e luz.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz cria uma atmosfera relaxante.",
+    "path": "/avianDescription"
+  }
+]

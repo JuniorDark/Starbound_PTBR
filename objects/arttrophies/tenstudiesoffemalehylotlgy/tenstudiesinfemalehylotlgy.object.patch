@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Esta foto de uma mulher Hylotl é muito detalhada."}, {"op": "replace", "path": "/shortdescription", "value": "Studies in Female Hylotlgy"}, {"op": "replace", "path": "/hylotlDescription", "value": "Que bela e sedutora peça de arte. Ele capta tanta emoção."}, {"op": "replace", "path": "/floranDescription", "value": "Foto não tem esssfaqueamento. Floran acha que isso é chato."}, {"op": "replace", "path": "/description", "value": "Um retrato muito famoso de uma senhora misteriosa."}, {"op": "replace", "path": "/apexDescription", "value": "É bom ver obras de arte que não possuem Big Ape."}, {"op": "replace", "path": "/humanDescription", "value": "Não tenho certeza de como devo me sentir sobre essa obra de arte..."}, {"op": "replace", "path": "/avianDescription", "value": "Esta pintura de uma Hylotl seria melhor com uma Avian em vez disso."}, {"op": "replace", "path": "/novakidDescription", "value": "Essa sim é uma dama estranha."}]
+[
+  {
+    "op": "replace",
+    "value": "Um retrato muito famoso de uma senhora misteriosa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Essa sim é uma dama estranha.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não tenho certeza de como devo me sentir sobre essa obra de arte...",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Esta foto de uma mulher Hylotl é muito detalhada.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É bom ver obras de arte que não possuem Big Ape.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Foto não tem esssfaqueamento. Floran acha que isso é chato.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Studies in Female Hylotlgy",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta pintura de uma Hylotl seria melhor com uma Avian em vez disso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que bela e sedutora peça de arte. Ele capta tanta emoção.",
+    "path": "/hylotlDescription"
+  }
+]

@@ -1,177 +1,172 @@
 [
   {
     "op": "replace",
-    "path": "/category",
-    "value": "tool"
+    "value": "Nada para ver aqui.",
+    "path": "/nothingThereText/default/1"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Inspecione o mundo ao seu redor. ^green;Selecione rapidamente com a tecla [N]."
+    "value": "Não há nada de interesse ali.",
+    "path": "/nothingThereText/novakid/2"
   },
   {
     "op": "replace",
-    "path": "/shortdescription",
-    "value": "Modo Inspeção"
+    "value": "Não consigo ver isso daqui.",
+    "path": "/outOfRangeText/novakid/3"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/default/0",
-    "value": "Não consigo ver esse local."
+    "value": "Desapontado. Não consigo ver esse local desta posição.",
+    "path": "/outOfRangeText/glitch/0"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/default/1",
-    "value": "Preciso me aproximar para ver isso."
+    "value": "Decepcionado. Nada de interessante.",
+    "path": "/nothingThereText/glitch/2"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/default/2",
-    "value": "Não consigo ver isso daqui."
+    "value": "Floran não consegue ver esse local.",
+    "path": "/outOfRangeText/floran/2"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/default/3",
-    "value": "Não estou perto o suficiente para ver isso."
+    "value": "Floran não consegue ver daqui!",
+    "path": "/outOfRangeText/floran/0"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/novakid/0",
-    "value": "Meus olhos não são tão bons, devo me aproximar."
+    "value": "Floran precisa se aproximar para ver isso.",
+    "path": "/outOfRangeText/floran/1"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/novakid/1",
-    "value": "Não estou perto o suficiente para fazer isso."
+    "value": "Floran não está perto o suficiente para ver isso.",
+    "path": "/outOfRangeText/floran/3"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/novakid/2",
-    "value": "Preciso se aproximar para ver isso corretamente."
+    "value": "Frustrado. Não consigo ver isso daqui.",
+    "path": "/outOfRangeText/glitch/2"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/novakid/3",
-    "value": "Não consigo ver isso daqui."
+    "value": "Não estou perto o suficiente para fazer isso.",
+    "path": "/outOfRangeText/novakid/1"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/floran/0",
-    "value": "Floran não consegue ver daqui!"
+    "value": "Não consigo ver isso daqui.",
+    "path": "/outOfRangeText/default/2"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/floran/1",
-    "value": "Floran precisa se aproximar para ver isso."
+    "value": "Não consigo ver esse local.",
+    "path": "/outOfRangeText/default/0"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/floran/2",
-    "value": "Floran não consegue ver esse local."
+    "value": "Preciso me aproximar para ver isso.",
+    "path": "/outOfRangeText/default/1"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/floran/3",
-    "value": "Floran não está perto o suficiente para ver isso."
+    "value": "Não há nada ali.",
+    "path": "/nothingThereText/novakid/0"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/glitch/0",
-    "value": "Desapontado. Não consigo ver esse local desta posição."
+    "value": "Não estou perto o suficiente para ver isso.",
+    "path": "/outOfRangeText/default/3"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/glitch/1",
-    "value": "Confuso. Não tenho certeza o que é isso, talvez eu devesse me aproximar."
+    "value": "Inspecione o mundo ao seu redor. ^green;Selecione rapidamente com a tecla [N].",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/glitch/2",
-    "value": "Frustrado. Não consigo ver isso daqui."
+    "value": "Modo Inspeção",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/glitch/3",
-    "value": "Aborrecido. Não estou perto o suficiente para ver isso."
+    "value": "Aborrecido. Não estou perto o suficiente para ver isso.",
+    "path": "/outOfRangeText/glitch/3"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/default/0",
-    "value": "Nada de interesse aqui."
+    "value": "Meus olhos não são tão bons, devo me aproximar.",
+    "path": "/outOfRangeText/novakid/0"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/default/1",
-    "value": "Nada para ver aqui."
+    "value": "Preciso se aproximar para ver isso corretamente.",
+    "path": "/outOfRangeText/novakid/2"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/default/2",
-    "value": "Não é nada."
+    "value": "Não há nada aqui que vale a pena comentar.",
+    "path": "/nothingThereText/novakid/1"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/default/3",
-    "value": "Nada a falar disso."
+    "value": "Nada para ver.",
+    "path": "/nothingThereText/floran/1"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/novakid/0",
-    "value": "Não há nada ali."
+    "value": "Confuso. Não tenho certeza o que é isso, talvez eu devesse me aproximar.",
+    "path": "/outOfRangeText/glitch/1"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/novakid/1",
-    "value": "Não há nada aqui que vale a pena comentar."
+    "value": "Desinteressado. Isso não é nada.",
+    "path": "/nothingThereText/glitch/3"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/novakid/2",
-    "value": "Não há nada de interesse ali."
+    "value": "Neutro. Não há nada ali.",
+    "path": "/nothingThereText/glitch/1"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/novakid/3",
-    "value": "Isso é apenas uma grande nada."
+    "value": "Nada a falar disso.",
+    "path": "/nothingThereText/default/3"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/floran/0",
-    "value": "Nada de interesse."
+    "value": "Nada a falar disso.",
+    "path": "/nothingThereText/floran/3"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/floran/1",
-    "value": "Nada para ver."
+    "value": "Nada de interesse.",
+    "path": "/nothingThereText/floran/0"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/floran/2",
-    "value": "Isso não é nada."
+    "value": "Nada de interessante aqui.",
+    "path": "/nothingThereText/default/0"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/floran/3",
-    "value": "Nada aqui que vale a pena comentar."
+    "value": "Isso é apenas um monte de nada.",
+    "path": "/nothingThereText/novakid/3"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/glitch/0",
-    "value": "Não Impressionado. Nada de interesse aqui."
+    "value": "Isso não é nada.",
+    "path": "/nothingThereText/default/2"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/glitch/1",
-    "value": "Neutro. Não há nada ali."
+    "value": "Isso não é nada.",
+    "path": "/nothingThereText/floran/2"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/glitch/2",
-    "value": "Decepcionado. Nada de interessante."
-  },
-  {
-    "op": "replace",
-    "path": "/nothingThereText/glitch/3",
-    "value": "Desinteressado. Isso não é nada."
+    "value": "Não Impressionado. Nada de interesse aqui.",
+    "path": "/nothingThereText/glitch/0"
   }
 ]

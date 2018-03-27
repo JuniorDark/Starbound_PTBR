@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma isca com giroscópios internos para melhor controle."}, {"op": "replace", "path": "/shortdescription", "value": "Motorized Lure"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma isca com giroscópios internos para melhor controle.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Motorized Lure",
+    "path": "/shortdescription"
+  }
+]

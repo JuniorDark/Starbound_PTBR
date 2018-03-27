@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Homem-peixe constrói grandes portas resistentes! Nada mau, Homem-peixe... Nada mau..."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Onde está a maçaneta?"}, {"op": "replace", "path": "/novakidDescription", "value": "Uma porta resistente."}, {"op": "replace", "path": "/apexDescription", "value": "Uma grande porta de trava de ar. Resistente."}, {"op": "replace", "path": "/humanDescription", "value": "Esta é uma estética tradicional dos Hylotl."}, {"op": "replace", "path": "/avianDescription", "value": "Uma grande e intimidante porta de metal."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta porta de trava a ar oferece segurança de alto nível."}, {"op": "replace", "path": "/description", "value": "Uma porta com trava a ar resistente."}, {"op": "replace", "path": "/shortdescription", "value": "Airlock Door"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma grande porta de trava de ar. Resistente.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta com trava a ar resistente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta resistente.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma grande e intimidante porta de metal.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Homem-peixe constrói grandes portas resistentes! Nada mau, Homem-peixe... Nada mau...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Airlock Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta de trava a ar oferece segurança de alto nível.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Onde está a maçaneta?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é uma estética tradicional dos Hylotl.",
+    "path": "/humanDescription"
+  }
+]

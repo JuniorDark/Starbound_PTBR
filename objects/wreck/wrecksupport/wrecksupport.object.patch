@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um suporte de metal enferrujado."}, {"op": "replace", "path": "/shortdescription", "value": "Wrecked Support"}, {"op": "replace", "path": "/floranDescription", "value": "Metal não muito forte agora."}, {"op": "replace", "path": "/glitchDescription", "value": "Nervoso. Esse suporte não parece estruturalmente sólido."}, {"op": "replace", "path": "/apexDescription", "value": "Eu não tenho certeza de quanto suporte isso ainda fornece."}, {"op": "replace", "path": "/humanDescription", "value": "Isso não parece que poderia suportar muito peso."}, {"op": "replace", "path": "/avianDescription", "value": "Espero que isso não seja suposto segurar nada."}, {"op": "replace", "path": "/hylotlDescription", "value": "Como uma estrutura de suporte de carga, isto não está fazendo seu trabalho."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu não contaria com isso suportando nada."}]
+[
+  {
+    "op": "replace",
+    "value": "Um suporte de metal enferrujado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Como uma estrutura de suporte de carga, isto não está fazendo seu trabalho.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que isso não seja suposto segurar nada.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não contaria com isso suportando nada.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não tenho certeza de quanto suporte isso ainda fornece.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Metal não muito forte agora.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nervoso. Esse suporte não parece estruturalmente sólido.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso não parece que poderia suportar muito peso.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wrecked Support",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Esta mesa é muito... Extravagante."}, {"op": "replace", "path": "/description", "value": "Uma mesa limpa, brilhantemente colorida."}, {"op": "replace", "path": "/shortdescription", "value": "Cell Table"}, {"op": "replace", "path": "/floranDescription", "value": "Brilhante, ssuave e sem alma."}, {"op": "replace", "path": "/glitchDescription", "value": "Repulsado. Nunca poderia comer em algo tão berrante como isso."}, {"op": "replace", "path": "/apexDescription", "value": "Um pouco colorido demais para a Miniknog, que eu suponho que trabalha a seu favor."}, {"op": "replace", "path": "/humanDescription", "value": "Parece algo de um parque infantil."}, {"op": "replace", "path": "/avianDescription", "value": "Brilhante seria um eufemismo."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta é uma mesa danada de brilhante."}]
+[
+  {
+    "op": "replace",
+    "value": "Um pouco colorido demais para a Miniknog, que eu suponho que trabalha a seu favor.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa limpa, brilhantemente colorida.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Brilhante seria um eufemismo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cell Table",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece algo de um parque infantil.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Repulsado. Nunca poderia comer em algo tão berrante como isso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Brilhante, ssuave e sem alma.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é uma mesa danada de brilhante.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa é muito... Extravagante.",
+    "path": "/hylotlDescription"
+  }
+]

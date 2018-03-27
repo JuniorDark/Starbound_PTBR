@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Esta cadeira é feita com conforto em mente."}, {"op": "replace", "path": "/apexDescription", "value": "Este é o tipo de cadeira que eu imagino Big Ape ter."}, {"op": "replace", "path": "/humanDescription", "value": "Quero reclinar nesta cadeira para sempre."}, {"op": "replace", "path": "/avianDescription", "value": "Esta cadeira parece bastante reconfortante."}, {"op": "replace", "path": "/description", "value": "Uma poltrona elegante."}, {"op": "replace", "path": "/hylotlDescription", "value": "Eu ficaria preocupado que se eu me sentasse nesta cadeira por muito tempo, eu não gostaria de deixá-la."}, {"op": "replace", "path": "/shortdescription", "value": "Steampunk Armchair"}, {"op": "replace", "path": "/floranDescription", "value": "Floran acha que cadeira cheira engraçado."}, {"op": "replace", "path": "/novakidDescription", "value": "Essa é o tipo de cadeira em que eu poderia me sentar por horas."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma poltrona elegante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran acha que cadeira cheira engraçado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quero reclinar nesta cadeira para sempre.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu ficaria preocupado que se eu me sentasse nesta cadeira por muito tempo, eu não gostaria de deixá-la.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Esta cadeira é feita com conforto em mente.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa é o tipo de cadeira em que eu poderia me sentar por horas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Steampunk Armchair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cadeira parece bastante reconfortante.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este é o tipo de cadeira que eu imagino Big Ape ter.",
+    "path": "/apexDescription"
+  }
+]

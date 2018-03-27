@@ -1,17 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/category",
-    "value": "tool"
+    "value": "Advanced Fossil Brush",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Pode ser usado uma vez para escavar um fóssil, com chance moderada de sucesso."
-  },
-  {
-    "op": "replace",
-    "path": "/shortdescription",
-    "value": "Advanced Fossil Brush"
+    "value": "Pode ser usado uma vez para escavar um fóssil, com chance moderada de sucesso.",
+    "path": "/description"
   }
 ]

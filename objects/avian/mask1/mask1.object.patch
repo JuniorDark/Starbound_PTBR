@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Observador. Provavelmente essa máscara é suposto ser um humano."}, {"op": "replace", "path": "/apexDescription", "value": "Parece uma máscara humana."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta máscara humana não é muito precisa."}, {"op": "replace", "path": "/description", "value": "Esse cara parece surpreso de me ver!"}, {"op": "replace", "path": "/shortdescription", "value": "Decorative Human Mask"}, {"op": "replace", "path": "/floranDescription", "value": "Homen-pássaro faz humano parecer estúpido."}, {"op": "replace", "path": "/humanDescription", "value": "Isso é... um humano?"}, {"op": "replace", "path": "/avianDescription", "value": "Esta máscara é um aviso para os humanos."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma máscara humana. Não é muito bajulante para a raça humana."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma máscara humana. Não é muito bajulante para a raça humana.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Homen-pássaro faz humano parecer estúpido.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Decorative Human Mask",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é... um humano?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece uma máscara humana.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Provavelmente essa máscara é suposto ser um humano.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse cara parece surpreso de me ver!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta máscara humana não é muito precisa.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta máscara é um aviso para os humanos.",
+    "path": "/avianDescription"
+  }
+]

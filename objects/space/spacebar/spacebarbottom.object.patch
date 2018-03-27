@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um bar de metal com uma superfície suavemente polida."
+    "value": "Um bar de metal com uma superfície suavemente polida.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Este bar não serve para muita coisa, exceto um lugar para perder tempo."
+    "value": "Parece-me um bom lugar para puxar um banquinho e descansar um pouco.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Este bar é frio e industrial, mas pelo menos os bancos parecem confortáveis."
+    "value": "Nada como sentar ao lado de algumas caras novas em um bar para fazer amigos.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Essste bar pode ser um bom lugar para Floran começar brigas..."
+    "value": "Space Bar",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Desinteressado. A maioria dos Glitch preferem uma grande mesa sobre um bar para beber e celebrar."
+    "value": "Este bar não serve para muita coisa, exceto um lugar para perder tempo.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Este bar é bom, mas não tem muito uso sem alguém para cuidar dele."
+    "value": "Este bar é frio e industrial, mas pelo menos os bancos parecem confortáveis.",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Nada como sentar ao lado de algumas caras novas em um bar para fazer amigos."
+    "value": "Este bar é bom, mas não tem muito uso sem alguém para cuidar dele.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Parece-me um bom lugar para puxar um banquinho e descansar um pouco."
+    "value": "Essste bar pode ser um bom lugar para Floran começar brigas...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desinteressado. A maioria dos Glitch preferem uma grande mesa sobre um bar para beber e celebrar.",
+    "path": "/glitchDescription"
   }
 ]

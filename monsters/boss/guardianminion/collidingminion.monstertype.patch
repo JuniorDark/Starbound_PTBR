@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Minion"}, {"op": "replace", "path": "/description", "value": "Seu movimento é determinado pelos níveis de temperatura na atmosfera."}]
+[
+  {
+    "op": "replace",
+    "value": "O seu movimento é determinado pelos níveis de temperatura na atmosfera.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Minion",
+    "path": "/shortdescription"
+  }
+]

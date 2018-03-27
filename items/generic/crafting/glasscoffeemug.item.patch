@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Glass Coffee Mug"}, {"op": "replace", "path": "/description", "value": "Uma caneca de café feita de vidro."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma caneca de café feita de vidro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Glass Coffee Mug",
+    "path": "/shortdescription"
+  }
+]

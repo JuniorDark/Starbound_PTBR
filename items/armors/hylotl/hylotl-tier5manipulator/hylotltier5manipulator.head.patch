@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma viseira estreita e concha de ferozium forte torna este elmo um excelente complemento para qualquer cabeça."}, {"op": "replace", "path": "/shortdescription", "value": "Reef Helm"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma viseira estreita e concha de ferozium forte torna este elmo um excelente complemento para qualquer cabeça.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Reef Helm",
+    "path": "/shortdescription"
+  }
+]

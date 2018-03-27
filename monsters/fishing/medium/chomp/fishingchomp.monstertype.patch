@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Ela se camufla bem nos leitos marinhos lamacentos onde se alimenta."}, {"op": "replace", "path": "/shortdescription", "value": "Toothy Mudchomp"}]
+[
+  {
+    "op": "replace",
+    "value": "Ela se camufla bem nos leitos marinhos lamacentos onde se alimenta.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Toothy Mudchomp",
+    "path": "/shortdescription"
+  }
+]

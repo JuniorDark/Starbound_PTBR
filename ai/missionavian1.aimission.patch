@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/speciesText/default/selectSpeech/text", "value": "Este templo na maior parte abandonado é a localização concluída de Esther do artefato Avian."}, {"op": "replace", "path": "/speciesText/default/buttonText", "value": "O Grande Templo Sovereign"}, {"op": "replace", "path": "/speciesText/default/repeatButtonText", "value": "Revisite O Grande Templo Sovereign"}]
+[
+  {
+    "op": "replace",
+    "value": "Revisite O Grande Templo Sovereign",
+    "path": "/speciesText/default/repeatButtonText"
+  },
+  {
+    "op": "replace",
+    "value": "O Grande Templo Sovereign",
+    "path": "/speciesText/default/buttonText"
+  },
+  {
+    "op": "replace",
+    "value": "Este templo na maior parte abandonado é a localização concluída de Esther do artefato Avian.",
+    "path": "/speciesText/default/selectSpeech/text"
+  }
+]

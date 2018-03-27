@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Quail Crest"}, {"op": "replace", "path": "/description", "value": "Chapelaria Avian comum, decorada com uma pluma de titânio chique."}]
+[
+  {
+    "op": "replace",
+    "value": "Chapelaria Avian comum, decorada com uma pluma de titânio chique.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Quail Crest",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Pernas de robô, para mobilidade!"}, {"op": "replace", "path": "/shortdescription", "value": "Robot Legs"}]
+[
+  {
+    "op": "replace",
+    "value": "Robot Legs",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pernas de robô, para mobilidade!",
+    "path": "/description"
+  }
+]

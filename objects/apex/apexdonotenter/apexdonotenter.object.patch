@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Rebelde. Já não recebo ordens."}, {"op": "replace", "path": "/avianDescription", "value": "Sobre a autoridade de quem esta escrito este placa."}, {"op": "replace", "path": "/hylotlDescription", "value": "Hora de tomar cuidado, eu acho."}, {"op": "replace", "path": "/description", "value": "Não faça isso!"}, {"op": "replace", "path": "/shortdescription", "value": "Do Not Enter Sign"}, {"op": "replace", "path": "/apexDescription", "value": "Essas placas são comuns em nossa casa."}, {"op": "replace", "path": "/humanDescription", "value": "Obrigado pela sugestão!"}, {"op": "replace", "path": "/floranDescription", "value": "Floran entra onde Floran quer entrar. Placa boba."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu acho que eu não vou entrar. Ou vou... ?"}]
+[
+  {
+    "op": "replace",
+    "value": "Do Not Enter Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não faça isso!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran entra onde Floran quer entrar. Placa boba.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu acho que eu não vou entrar. Ou vou... ?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rebelde. Já não recebo ordens.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado pela sugestão!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas placas são comuns em nossa casa.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hora de tomar cuidado, eu acho.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sobre a autoridade de quem esta escrito este placa.",
+    "path": "/avianDescription"
+  }
+]

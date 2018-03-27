@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Gravel"}, {"op": "replace", "path": "/description", "value": "Cascalho grosso."}]
+[
+  {
+    "op": "replace",
+    "value": "Cascalho grosso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pedra britada e cascalho.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cascalho essmagado.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gravel",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Irritado. Cascalho grosso em cascata.",
+    "path": "/glitchdescription"
+  }
+]

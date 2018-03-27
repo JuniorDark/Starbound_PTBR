@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Ruins Platform"}, {"op": "replace", "path": "/description", "value": "Uma plataforma de madeira empoeirada velha. Parece que está caindo aos pedaços."}]
+[
+  {
+    "op": "replace",
+    "value": "Alarmado. Esta velha plataforma de madeira é estruturalmente inadequada.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma plataforma de madeira empoeirada velha. Parece que está caindo aos pedaços.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Melhor tomar cuidado, esta plataforma velha parece que está caindo aos pedaços",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apodrecida e insegura. Floran aprova.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ruins Platform",
+    "path": "/shortdescription"
+  }
+]

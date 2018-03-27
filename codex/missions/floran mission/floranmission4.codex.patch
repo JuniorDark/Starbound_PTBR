@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/contentPages/0", "value": "As feras estão por toda parte. Elas cospem e sibilam, e apunhalam e comem! Eles se chamam de Floran.\n\nEles vieram do céu noturno. Eles são criaturas nascidas da escuridão entre as estrelas, tenho certeza disso!\n\nEu deveria ter fugido dias atrás, quando a maioria dos meus companheiros saíram... Agora não há para onde correr. Eu sou o único que permanece, e nossa cidade subterrânea se desintegra ao meu redor."}, {"op": "replace", "path": "/description", "value": "Um diário escrito por uma raça que uma vez fez sua casa nas Cavernas Cerimoniais de Caça."}, {"op": "replace", "path": "/title", "value": "Vivendo no Medo"}]
+[
+  {
+    "op": "replace",
+    "value": "Um diário escrito por uma raça que uma vez fez sua casa nas Cavernas Cerimoniais de Caça.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Vivendo no Medo",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "As feras estão por toda parte. Elas cospem e sibilam, e apunhalam e comem! Eles se chamam de Floran.\n\nEles vieram do céu noturno. Eles são criaturas nascidas da escuridão entre as estrelas, tenho certeza disso!\n\nEu deveria ter fugido dias atrás, quando a maioria dos meus companheiros saíram... Agora não há para onde correr. Eu sou o único que permanece, e nossa cidade subterrânea se desintegra ao meu redor.",
+    "path": "/contentPages/0"
+  }
+]

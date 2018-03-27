@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma cadeira excepcionalmente gótica."}, {"op": "replace", "path": "/shortdescription", "value": "Gothic Chair"}, {"op": "replace", "path": "/floranDescription", "value": "Cadeira grande é sssuave para se ssentar."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Uma cadeira muito gótica."}, {"op": "replace", "path": "/apexDescription", "value": "Uma grande cadeira gótica."}, {"op": "replace", "path": "/humanDescription", "value": "Uma cadeira gótica lindamente trabalhada."}, {"op": "replace", "path": "/avianDescription", "value": "Uma cadeira luxuosa. Mas com uma aparência um tanto sombria."}, {"op": "replace", "path": "/hylotlDescription", "value": "O material aveludado do estofamento é requintado."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma cadeira elegante. Parece confortável."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira gótica lindamente trabalhada.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira elegante. Parece confortável.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma grande cadeira gótica.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira luxuosa. Mas com uma aparência um tanto sombria.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira excepcionalmente gótica.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cadeira grande é sssuave para se ssentar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gothic Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Uma cadeira muito gótica.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O material aveludado do estofamento é requintado.",
+    "path": "/hylotlDescription"
+  }
+]

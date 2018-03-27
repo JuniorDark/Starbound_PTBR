@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Intestine Whip ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Um intestino grosso, isso pode esticar surpreendentemente longe."}, {"op": "replace", "path": "/shortdescription", "value": "Intestine Whip"}]
+[
+  {
+    "op": "replace",
+    "value": "Um intestino grosso, isso pode esticar surpreendentemente longe.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Intestine Whip",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intestine Whip ^yellow;^reset;",
+    "path": "/upgradeParameters/shortdescription"
+  }
+]

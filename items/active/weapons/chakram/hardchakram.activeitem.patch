@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Hard Chakram ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Sólido, pesado e brutalmente eficaz."}, {"op": "replace", "path": "/shortdescription", "value": "Hard Chakram"}]
+[
+  {
+    "op": "replace",
+    "value": "Hard Chakram",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hard Chakram ^yellow;^reset;",
+    "path": "/upgradeParameters/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sólido, pesado e brutalmente eficaz.",
+    "path": "/description"
+  }
+]

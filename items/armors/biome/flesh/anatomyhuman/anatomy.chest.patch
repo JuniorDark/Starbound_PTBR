@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "É educativo! Uma camisa mostrando a musculatura do tronco."}, {"op": "replace", "path": "/shortdescription", "value": "Anatomy Shirt"}]
+[
+  {
+    "op": "replace",
+    "value": "Anatomy Shirt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "É educativo! Uma camisa mostrando a musculatura do tronco.",
+    "path": "/description"
+  }
+]

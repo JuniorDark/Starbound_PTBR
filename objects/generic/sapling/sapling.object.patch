@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma muda. De raízes simples uma árvore crescerá."}, {"op": "replace", "path": "/shortdescription", "value": "Sapling"}, {"op": "replace", "path": "/floranDescription", "value": "Floran planta muda bonita, cresce grande árvore malvada!"}, {"op": "replace", "path": "/glitchDescription", "value": "Maravilhado. Plantar esta muda me permite crescer vida."}, {"op": "replace", "path": "/apexDescription", "value": "Eu posso plantar isto para crescer uma árvore."}, {"op": "replace", "path": "/humanDescription", "value": "Esta muda vai crescer em uma árvore."}, {"op": "replace", "path": "/avianDescription", "value": "Eu posso plantar uma árvore plantando esta muda."}, {"op": "replace", "path": "/hylotlDescription", "value": "Essa vida maravilhosa, que brota do mais ínfima muda. Suspiro."}, {"op": "replace", "path": "/novakidDescription", "value": "Vai se transformar em uma grande árvore se eu plantá-lo."}]
+[
+  {
+    "op": "replace",
+    "value": "Sapling",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma muda. De raízes simples uma árvore crescerá.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran planta muda bonita, cresce grande árvore malvada!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso plantar uma árvore plantando esta muda.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso plantar isto para crescer uma árvore.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vai se transformar em uma grande árvore se eu plantá-lo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa vida maravilhosa, que brota do mais ínfima muda. Suspiro.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta muda vai crescer em uma árvore.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Maravilhado. Plantar esta muda me permite crescer vida.",
+    "path": "/glitchDescription"
+  }
+]

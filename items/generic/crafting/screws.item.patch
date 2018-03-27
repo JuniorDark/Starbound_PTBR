@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um punhado de parafusos de metal."}, {"op": "replace", "path": "/shortdescription", "value": "Screws"}]
+[
+  {
+    "op": "replace",
+    "value": "Um punhado de parafusos de metal.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Screws",
+    "path": "/shortdescription"
+  }
+]

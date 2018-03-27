@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Rough Stone"}, {"op": "replace", "path": "/floranDescription", "value": "Pedrass duras duras."}, {"op": "replace", "path": "/glitchDescription", "value": "Atento. Estas são pedras ásperas comuns."}, {"op": "replace", "path": "/novakidDescription", "value": "Apenas um monte de pedras."}, {"op": "replace", "path": "/description", "value": "Pedra bruta, não refinada."}]
+[
+  {
+    "op": "replace",
+    "value": "Pedrass duras duras.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas um monte de pedras.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Essas são pedras ásperas comuns.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rough stone",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedra bruta, não refinada.",
+    "path": "/description"
+  }
+]

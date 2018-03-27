@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "É uma porta pesada. Áspera ao toque."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Uma porta de arenito forte."}, {"op": "replace", "path": "/description", "value": "Uma porta de arenito áspera."}, {"op": "replace", "path": "/shortdescription", "value": "Sandstone Door"}, {"op": "replace", "path": "/floranDescription", "value": "Porta arenosssa."}, {"op": "replace", "path": "/apexDescription", "value": "Uma porta feita de arenito."}, {"op": "replace", "path": "/humanDescription", "value": "Porta agradável."}, {"op": "replace", "path": "/avianDescription", "value": "Uma porta de arenito bem feita."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma porta áspera e arenosa. "}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta feita de arenito.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta de arenito áspera.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta áspera e arenosa. ",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta de arenito bem feita.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma porta pesada. Áspera ao toque.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Porta agradável.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Uma porta de arenito forte.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sandstone Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Porta arenosssa.",
+    "path": "/floranDescription"
+  }
+]

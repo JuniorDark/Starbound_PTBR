@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Asphalt"}, {"op": "replace", "path": "/description", "value": "Um material de construção barato, mas eficaz."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma material de construção barato, mas eficaz.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Asphalt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Com nojo. Leituras sugerem que o valor estético do asfalto é inferior a 2%.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma mistura de óleo pegajoso e pedras.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Asfalto grudento cheira como piche.",
+    "path": "/florandescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Não quero cair em um desses..."}, {"op": "replace", "path": "/shortdescription", "value": "Ice Spike"}, {"op": "replace", "path": "/glitchDescription", "value": "Cauteloso. Gelo afiado poderia penetrar a lataria Glitch."}, {"op": "replace", "path": "/apexDescription", "value": "Um espinho afiado, feito de gelo."}, {"op": "replace", "path": "/humanDescription", "value": "É melhor eu não tocar nisso."}, {"op": "replace", "path": "/avianDescription", "value": "Esse gelo parece afiado como navalha."}, {"op": "replace", "path": "/hylotlDescription", "value": "Eu vou graciosamente evitar isso."}, {"op": "replace", "path": "/novakidDescription", "value": "Isso com certeza parece afiado, estou pronto para dar o fora daqui!"}, {"op": "replace", "path": "/floranDescription", "value": "Afiado e pontudo."}]
+[
+  {
+    "op": "replace",
+    "value": "Eu vou graciosamente evitar isso.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É melhor eu não tocar nisso.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Afiado e pontudo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso com certeza parece afiado, estou pronto para dar o fora daqui!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não quero cair em um desses...",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um espinho afiado, feito de gelo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ice Spike",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. Gelo afiado poderia penetrar a lataria Glitch.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse gelo parece afiado como navalha.",
+    "path": "/avianDescription"
+  }
+]

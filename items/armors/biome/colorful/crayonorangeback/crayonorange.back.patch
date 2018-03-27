@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um giz de cera laranja. Equipe para trazer um pouco de cor para sua roupa."}, {"op": "replace", "path": "/shortdescription", "value": "Orange Crayon"}]
+[
+  {
+    "op": "replace",
+    "value": "Um giz de cera laranja. Equipe para trazer um pouco de cor para sua roupa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Orange Crayon",
+    "path": "/shortdescription"
+  }
+]

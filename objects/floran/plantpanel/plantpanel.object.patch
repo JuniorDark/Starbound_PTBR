@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Antes de pressionar os botões neste painel eu deveria ter certeza que estou preparado para qualquer coisa."}, {"op": "replace", "path": "/shortdescription", "value": "Small Wooden Console"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não conssegue ressisstir à botõesss."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. O que pressionar esses botões vai fazer?"}, {"op": "replace", "path": "/humanDescription", "value": "Todos esses botões para pressionar! O que poderia dar errado?"}, {"op": "replace", "path": "/avianDescription", "value": "Alguma coisa acontecerá se eu pressionar este botão?"}, {"op": "replace", "path": "/novakidDescription", "value": "Há botões aqui, eu me pergunto o que acontecerá se eu apertar todos eles."}, {"op": "replace", "path": "/description", "value": "Muitos botões tentadores que provavelmente devem ser deixados sozinhos."}, {"op": "replace", "path": "/apexDescription", "value": "Eu me pergunto o que esse botão faz..."}]
+[
+  {
+    "op": "replace",
+    "value": "Todos esses botões para pressionar! O que poderia dar errado?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Antes de pressionar os botões neste painel eu deveria ter certeza que estou preparado para qualquer coisa.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. O que pressionar esses botões vai fazer?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não conssegue ressisstir à botõesss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto o que esse botão faz...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Muitos botões tentadores que provavelmente devem ser deixados sozinhos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Small Wooden Console",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há botões aqui, eu me pergunto o que acontecerá se eu apertar todos eles.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguma coisa acontecerá se eu pressionar este botão?",
+    "path": "/avianDescription"
+  }
+]

@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Relatório. Uma raiz que se assemelha a uma mão."}, {"op": "replace", "path": "/description", "value": "Uma raiz que se parece com uma mão."}, {"op": "replace", "path": "/shortdescription", "value": "Uma raiz que se parece com uma mão."}, {"op": "replace", "path": "/floranDescription", "value": "Uma raiz comilona."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma raiz que se parece com uma mão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma raiz que se parece com uma mão.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Raiz.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Uma raiz que se assemelha a uma mão.",
+    "path": "/glitchDescription"
+  }
+]

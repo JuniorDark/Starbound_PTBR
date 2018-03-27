@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Lassser."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Um fio de disparo com um laser."}, {"op": "replace", "path": "/description", "value": "Atravessar este raio laser pode desencadear algo!"}, {"op": "replace", "path": "/apexDescription", "value": "Um fio a laser. Útil para armadilhas."}, {"op": "replace", "path": "/shortdescription", "value": "Laser Tripwire"}, {"op": "replace", "path": "/humanDescription", "value": "Atravessar este raio laser pode desencadear algo!"}, {"op": "replace", "path": "/avianDescription", "value": "Este fio de disparo a laser pode ser útil."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um fio laser, útil para enganar invasores."}, {"op": "replace", "path": "/novakidDescription", "value": "Isso me faz lembrar de todos aqueles assaltos a banco..."}]
+[
+  {
+    "op": "replace",
+    "value": "Um fio laser, útil para enganar invasores.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um fio a laser. Útil para armadilhas.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atravessar este raio laser pode desencadear algo!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Atravessar este raio laser pode desencadear algo!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Um fio de disparo com um laser.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Laser Tripwire",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lassser.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este fio de disparo a laser pode ser útil.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso me faz lembrar de todos aqueles assaltos a banco...",
+    "path": "/novakidDescription"
+  }
+]

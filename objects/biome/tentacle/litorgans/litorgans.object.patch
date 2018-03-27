@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Lit Organs"}, {"op": "replace", "path": "/description", "value": "Órgãos da Ruína."}]
+[
+  {
+    "op": "replace",
+    "value": "Lit Organs",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Órgãos da Ruína.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A ferramenta de mineração diferente de tudo que você já viu em outras mídias."}, {"op": "replace", "path": "/shortdescription", "value": "Energy Pickaxe"}]
+[
+  {
+    "op": "replace",
+    "value": "A ferramenta de mineração diferente de tudo que você já viu em outras mídias.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Energy Pickaxe",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma grande tocha cintilante aquece o ar ao seu redor."}, {"op": "replace", "path": "/shortdescription", "value": "Tall Wooden Torch"}, {"op": "replace", "path": "/floranDescription", "value": "Tocha alta tem fogo."}, {"op": "replace", "path": "/glitchDescription", "value": "Sereno. Uma tocha alta, a chama pisca."}, {"op": "replace", "path": "/novakidDescription", "value": "A chama está crepitando."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma tocha elevada fornece luz para uma área grande."}, {"op": "replace", "path": "/humanDescription", "value": "Uma tocha crepitante."}, {"op": "replace", "path": "/avianDescription", "value": "Uma tocha alta e cintilante."}, {"op": "replace", "path": "/apexDescription", "value": "Uma tocha de madeira elevada."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma tocha crepitante.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma grande tocha cintilante aquece o ar ao seu redor.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tocha elevada fornece luz para uma área grande.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tocha de madeira elevada.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tocha alta e cintilante.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tocha alta tem fogo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sereno. Uma tocha alta, a chama pisca.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tall Wooden Torch",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A chama está crepitando.",
+    "path": "/novakidDescription"
+  }
+]

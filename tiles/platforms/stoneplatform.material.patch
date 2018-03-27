@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Stone Platform"}, {"op": "replace", "path": "/description", "value": "Uma plataforma feita de pedra."}, {"op": "replace", "path": "/floranDescription", "value": "Pedra essculpida em plataformass."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Esta plataforma foi esculpida de pedra sólida."}, {"op": "replace", "path": "/novakidDescription", "value": "Deve ter levado uma eternidade para esculpir estas plataformas de pedra."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma plataforma feita de pedra.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Esta plataforma foi esculpida de pedra sólida.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Deve ter levado uma eternidade para esculpir estas plataformas de pedra.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedra essculpida em plataformass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Stone Platform",
+    "path": "/shortdescription"
+  }
+]

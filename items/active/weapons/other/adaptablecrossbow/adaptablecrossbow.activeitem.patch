@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Adaptable Crossbow ^yellow;^reset;"}, {"op": "replace", "path": "/shortdescription", "value": "Adaptable Crossbow"}, {"op": "replace", "path": "/description", "value": "Lança dardos intercambiáveis por força magnética."}]
+[
+  {
+    "op": "replace",
+    "value": "Adaptable Crossbow",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Adaptable Crossbow ^yellow;^reset;",
+    "path": "/upgradeParameters/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lança dardos intercambiáveis por força magnética.",
+    "path": "/description"
+  }
+]

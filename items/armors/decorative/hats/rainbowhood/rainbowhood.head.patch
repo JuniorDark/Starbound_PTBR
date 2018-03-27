@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um capuz em todas as cores do arco-íris. Glorioso."}, {"op": "replace", "path": "/shortdescription", "value": "Rainbow Hood"}]
+[
+  {
+    "op": "replace",
+    "value": "Um capuz em todas as cores do arco-íris. Glorioso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Rainbow Hood",
+    "path": "/shortdescription"
+  }
+]

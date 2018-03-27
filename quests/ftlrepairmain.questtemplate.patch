@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/text", "value": "Agora que eu posso visitar os planetas dentro deste sistema solar ^green;eu preciso começar a procurar como reparar o meu motor FTL, ^orange;SAIL provavelmente sabe mais."}, {"op": "replace", "path": "/completionText", "value": "Está funcionando! Eu finalmente posso visitar outros sistemas estelares!"}, {"op": "replace", "path": "/title", "value": "^orange;Livre como um Pássaro"}]
+[
+  {
+    "op": "replace",
+    "value": "Está funcionando! Eu finalmente posso visitar outros sistemas estelares!",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "Agora que eu posso visitar os planetas dentro deste sistema solar ^green;eu preciso começar a procurar como reparar o meu motor FTL, ^orange;SAIL provavelmente sabe mais.",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Livre como um Pássaro",
+    "path": "/title"
+  }
+]

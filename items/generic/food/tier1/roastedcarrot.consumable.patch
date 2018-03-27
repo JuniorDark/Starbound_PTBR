@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Assada com perfeição."}, {"op": "replace", "path": "/shortdescription", "value": "Roasted Carrot"}]
+[
+  {
+    "op": "replace",
+    "value": "Roasted Carrot",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Assada com perfeição.",
+    "path": "/description"
+  }
+]

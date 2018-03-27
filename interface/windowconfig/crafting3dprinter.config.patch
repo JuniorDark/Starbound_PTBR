@@ -1,1 +1,62 @@
-[{"op": "replace", "path": "/paneLayout/windowtitle/subtitle", "value": "^#b9b5b2;Imprima objetos que você escaneou"}, {"op": "replace", "path": "/paneLayout/lblSchematics/value", "value": "^#b9b5b2;MODELOS"}, {"op": "replace", "path": "/paneLayout/lblProducttitle/value", "value": "^#b9b5b2;PRODUTO"}, {"op": "replace", "path": "/paneLayout/filter/hint", "value": "Procurar"}, {"op": "replace", "path": "/paneLayout/windowtitle/title", "value": "Impressora de Pixel"}, {"op": "replace", "path": "/paneLayout/btnCraft/caption", "value": "Preparar"}, {"op": "replace", "path": "/paneLayout/btnStopCraft/caption", "value": "Parar"}, {"op": "replace", "path": "/paneLayout/lblProduct/value", "value": "PIXELS DISPONÍVEIS"}]
+[
+  {
+    "op": "replace",
+    "value": "0",
+    "path": "/paneLayout/lblPlayerMoney/value"
+  },
+  {
+    "op": "replace",
+    "value": "0",
+    "path": "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Replace Me",
+    "path": "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+  },
+  {
+    "op": "replace",
+    "value": "Pesquisar",
+    "path": "/paneLayout/filter/hint"
+  },
+  {
+    "op": "replace",
+    "value": "Parar",
+    "path": "/paneLayout/btnStopCraft/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Outpost - 2 Stop Teleshop",
+    "path": "/paneLayout/tbSpinCount/regex"
+  },
+  {
+    "op": "replace",
+    "value": "Impressora de Pixel",
+    "path": "/paneLayout/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Imprima objetos que você escaneou",
+    "path": "/paneLayout/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "PIXELS DISPONÍVEIS",
+    "path": "/paneLayout/lblProduct/value"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;MODELOS",
+    "path": "/paneLayout/lblSchematics/value"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;PRODUTO",
+    "path": "/paneLayout/lblProducttitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "Preparar",
+    "path": "/paneLayout/btnCraft/caption"
+  }
+]

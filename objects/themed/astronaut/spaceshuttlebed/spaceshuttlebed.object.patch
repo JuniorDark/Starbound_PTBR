@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Eu não me sentiria seguro viajando em uma nave espacial como essa."}, {"op": "replace", "path": "/description", "value": "O design desta cama é baseado em um antigo ônibus espacial Terrestre."}, {"op": "replace", "path": "/shortdescription", "value": "Space Shuttle Bed"}, {"op": "replace", "path": "/glitchDescription", "value": "Orgulhoso. Que longo caminho chegou a humanidade."}, {"op": "replace", "path": "/novakidDescription", "value": "Bem, olhe aqui. Uma obra-prima antiga."}, {"op": "replace", "path": "/floranDescription", "value": "Humanosss costumavam voar por aí nesses."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os Hylotl tem suas próprias relíquias de viagens espaciais também. Nós simplesmente não fazemos camas delas."}, {"op": "replace", "path": "/humanDescription", "value": "É bom olhar para trás e lembrar as nossas raízes. Também as camas de ônibus espacial são o auge do legal."}, {"op": "replace", "path": "/avianDescription", "value": "Um pedacinho da história humana."}]
+[
+  {
+    "op": "replace",
+    "value": "Um pedacinho da história humana.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Humanosss costumavam voar por aí nesses.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Hylotl tem suas próprias relíquias de viagens espaciais também. Nós simplesmente não fazemos camas delas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não me sentiria seguro viajando em uma nave espacial como essa.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É bom olhar para trás e lembrar as nossas raízes. Também as camas de ônibus espacial são o auge do legal.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Orgulhoso. Que longo caminho chegou a humanidade.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Space Shuttle Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O design desta cama é baseado em um antigo ônibus espacial Terrestre.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bem, olhe aqui. Uma obra-prima antiga.",
+    "path": "/novakidDescription"
+  }
+]

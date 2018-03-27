@@ -1,1 +1,122 @@
-[{"op":"replace","path":"/subtitle","value":"^#b9b5b2;Seu inventário e equipamento ^green;[I]"},{"op":"replace","path":"/defaultPetNameLabel","value":"^#b9b5b2;STATUS DO PET"},{"op":"replace","path":"/paneLayout/head/data/tooltipText","value":"Armadura de Cabeça"},{"op":"replace","path":"/paneLayout/chest/data/tooltipText","value":"Armadura de Peito"},{"op":"replace","path":"/paneLayout/legs/data/tooltipText","value":"Armadura de Perna"},{"op":"replace","path":"/paneLayout/back/data/tooltipText","value":"Armadura das Costas"},{"op":"replace","path":"/paneLayout/headCosmetic/data/tooltipText","value":"Cosmético de cabeça"},{"op":"replace","path":"/paneLayout/chestCosmetic/data/tooltipText","value":"Cosmético de Peito"},{"op":"replace","path":"/paneLayout/legsCosmetic/data/tooltipText","value":"Cosmético de Perna"},{"op":"replace","path":"/paneLayout/backCosmetic/data/tooltipText","value":"Cosmético das Costas"},{"op":"replace","path":"/paneLayout/trash/data/tooltipText","value":"Lixo"},{"op":"replace","path":"/paneLayout/labelappearance/value","value":"ESPAÇOS DE ARMADURAS"},{"op":"replace","path":"/paneLayout/labelstats/value","value":"STATUS"},{"op":"replace","path":"/paneLayout/companionName/value","value":"STATUS DO PET"},{"op":"replace","path":"/paneLayout/labeltech/value","value":"TECNOLOGIAS ATIVAS"},{"op":"replace","path":"/paneLayout/labelinventory/value","value":"INVENTÁRIO"}]
+[
+  {
+    "op": "replace",
+    "value": "0",
+    "path": "/paneLayout/lblEssence/value"
+  },
+  {
+    "op": "replace",
+    "value": "0",
+    "path": "/paneLayout/lblMoney/value"
+  },
+  {
+    "op": "replace",
+    "value": "Armadura de Peito",
+    "path": "/paneLayout/chest/data/tooltipText"
+  },
+  {
+    "op": "replace",
+    "value": "Armadura de Cabeça",
+    "path": "/paneLayout/head/data/tooltipText"
+  },
+  {
+    "op": "replace",
+    "value": "Armadura de Perna",
+    "path": "/paneLayout/legs/data/tooltipText"
+  },
+  {
+    "op": "replace",
+    "value": "--",
+    "path": "/paneLayout/defensetext/value"
+  },
+  {
+    "op": "replace",
+    "value": "42",
+    "path": "/paneLayout/companionAttackStat/value"
+  },
+  {
+    "op": "replace",
+    "value": "42",
+    "path": "/paneLayout/companionDefenseStat/value"
+  },
+  {
+    "op": "replace",
+    "value": "TECNOLOGIAS ATIVAS",
+    "path": "/paneLayout/labeltech/value"
+  },
+  {
+    "op": "replace",
+    "value": "ESPAÇOS DE ARMADURAS",
+    "path": "/paneLayout/labelappearance/value"
+  },
+  {
+    "op": "replace",
+    "value": "Armadura das Costas",
+    "path": "/paneLayout/back/data/tooltipText"
+  },
+  {
+    "op": "replace",
+    "value": "Cosmético das Costas",
+    "path": "/paneLayout/backCosmetic/data/tooltipText"
+  },
+  {
+    "op": "replace",
+    "value": "Cosmético de Peito",
+    "path": "/paneLayout/chestCosmetic/data/tooltipText"
+  },
+  {
+    "op": "replace",
+    "value": "Cosmético de cabeça",
+    "path": "/paneLayout/headCosmetic/data/tooltipText"
+  },
+  {
+    "op": "replace",
+    "value": "INVENTÁRIO",
+    "path": "/paneLayout/labelinventory/value"
+  },
+  {
+    "op": "replace",
+    "value": "Cosmético de Perna",
+    "path": "/paneLayout/legsCosmetic/data/tooltipText"
+  },
+  {
+    "op": "replace",
+    "value": "STATUS DO PET",
+    "path": "/paneLayout/companionName/value"
+  },
+  {
+    "op": "replace",
+    "value": "STATUS",
+    "path": "/paneLayout/labelstats/value"
+  },
+  {
+    "op": "replace",
+    "value": "Lixo",
+    "path": "/paneLayout/trash/data/tooltipText"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;STATUS DO PET",
+    "path": "/defaultPetNameLabel"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Seu inventário e equipamento ^green;[I]",
+    "path": "/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "set at runtime",
+    "path": "/paneLayout/energytext/value"
+  },
+  {
+    "op": "replace",
+    "value": "set at runtime",
+    "path": "/paneLayout/healthtext/value"
+  },
+  {
+    "op": "replace",
+    "value": "set at runtime",
+    "path": "/paneLayout/weapontext/value"
+  }
+]

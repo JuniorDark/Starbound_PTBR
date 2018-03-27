@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma porta de saloon balançante para manter aquelas tumbleweeds traquinas pra fora."}, {"op": "replace", "path": "/shortdescription", "value": "Saloon Door"}, {"op": "replace", "path": "/floranDescription", "value": "Coisa balançante estúpida no caminho de Floran."}, {"op": "replace", "path": "/glitchDescription", "value": "Divertido. Esta 'porta' parece funcionar apenas como um sinal dramático que alguém entrou."}, {"op": "replace", "path": "/apexDescription", "value": "Um macaco entra num bar..."}, {"op": "replace", "path": "/humanDescription", "value": "Isso iria servir melhor como uma janela do que uma porta."}, {"op": "replace", "path": "/avianDescription", "value": "Para todas as suas agitações, esta pobre porta nunca vai voar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Alguém deve estar preparado para um duelo antes de atravessar uma porta como essa."}, {"op": "replace", "path": "/novakidDescription", "value": "Passando por uma dessas, é melhor estar pronto para qualquer coisa."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta de saloon balançante para manter aquelas tumbleweeds traquinas pra fora.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Divertido. Esta 'porta' parece funcionar apenas como um sinal dramático que alguém entrou.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um macaco entra num bar...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para todas as suas agitações, esta pobre porta nunca vai voar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém deve estar preparado para um duelo antes de atravessar uma porta como essa.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Saloon Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Coisa balançante estúpida no caminho de Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Passando por uma dessas, é melhor estar pronto para qualquer coisa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso iria servir melhor como uma janela do que uma porta.",
+    "path": "/humanDescription"
+  }
+]

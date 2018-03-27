@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Small Overgrown Geyser"}, {"op": "replace", "path": "/description", "value": "Um pequeno gêiser envolto em vinhas."}, {"op": "replace", "path": "/floranDescription", "value": "Plantas embebem no poder deste gêisser pequeno."}, {"op": "replace", "path": "/glitchDescription", "value": "Confiante. Não há indicação de que este gêiser vai entrar em erupção."}, {"op": "replace", "path": "/apexDescription", "value": "Este pequeno gêiser não parece estar ativo."}, {"op": "replace", "path": "/humanDescription", "value": "Plantas se espalharam por este pequeno gêiser."}, {"op": "replace", "path": "/avianDescription", "value": "Não há vapor subindo deste gêiser, então eu acho que está inativo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este pequeno gêiser parece inerte, mas eu devo ficar longe só por precaução."}]
+[
+  {
+    "op": "replace",
+    "value": "Um pequeno gêiser envolto em vinhas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Confiante. Não há indicação de que este gêiser vai entrar em erupção.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não acho que esse gêiser vai me causar problemas.",
+    "path": "/novaDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plantas se espalharam por este pequeno gêiser.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plantas embebem no poder deste gêisser pequeno.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Small Overgrown Geyser",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não há vapor subindo deste gêiser, então eu acho que está inativo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este pequeno gêiser parece inerte, mas eu devo ficar longe só por precaução.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este pequeno gêiser não parece estar ativo.",
+    "path": "/apexDescription"
+  }
+]

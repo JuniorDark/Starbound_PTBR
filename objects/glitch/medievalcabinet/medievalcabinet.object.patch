@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Um armário atrativo feito da madeira com um grão intricado."}, {"op": "replace", "path": "/floranDescription", "value": "Caixa de madeira alta. Boa para Floran se esconder."}, {"op": "replace", "path": "/shortdescription", "value": "Medieval Cabinet"}, {"op": "replace", "path": "/humanDescription", "value": "Eu me pergunto se há uma porta de entrada para outro mundo aqui."}, {"op": "replace", "path": "/novakidDescription", "value": "Um belo armário."}, {"op": "replace", "path": "/description", "value": "Um armário de madeira encantador e bem feito."}, {"op": "replace", "path": "/glitchDescription", "value": "Grato. Um armário de madeira bem feito."}, {"op": "replace", "path": "/apexDescription", "value": "Um armário de madeira alto. Muito espaço de armazenamento."}, {"op": "replace", "path": "/avianDescription", "value": "Um armário espaçoso. Não deve ser confundido com um banheiro externo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um armário de madeira encantador e bem feito.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um belo armário.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário espaçoso. Não deve ser confundido com um banheiro externo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário de madeira alto. Muito espaço de armazenamento.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário atrativo feito da madeira com um grão intricado.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grato. Um armário de madeira bem feito.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto se há uma porta de entrada para outro mundo aqui.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Medieval Cabinet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Caixa de madeira alta. Boa para Floran se esconder.",
+    "path": "/floranDescription"
+  }
+]

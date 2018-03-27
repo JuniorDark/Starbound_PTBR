@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um painel de vidro brilhante."}, {"op": "replace", "path": "/shortdescription", "value": "Glass Panel"}, {"op": "replace", "path": "/apexDescription", "value": "Vidro colorido. Muito bonito."}, {"op": "replace", "path": "/avianDescription", "value": "Este vidro brilha como jóias."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este vidro brilha como conchas coloridas."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Artesanato humano pode ser um tanto notável."}, {"op": "replace", "path": "/humanDescription", "value": "Vidro colorido como este pode ser usado para fazer óculos de sol elegantes."}, {"op": "replace", "path": "/floranDescription", "value": "Vidro bonito serve como mau esconderijo."}, {"op": "replace", "path": "/novakidDescription", "value": "Vidro transparente. Eu posso ver através dele."}]
+[
+  {
+    "op": "replace",
+    "value": "Um painel de vidro brilhante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Vidro transparente. Eu posso ver através dele.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vidro colorido como este pode ser usado para fazer óculos de sol elegantes.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vidro colorido. Muito bonito.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Glass Panel",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Artesanato humano pode ser um tanto notável.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vidro bonito serve como mau esconderijo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este vidro brilha como conchas coloridas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este vidro brilha como jóias.",
+    "path": "/avianDescription"
+  }
+]

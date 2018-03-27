@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Uma planta elástica e saltitante."}, {"op": "replace", "path": "/shortdescription", "value": "Uma planta elástica."}, {"op": "replace", "path": "/floranDescription", "value": "Floran pula nisso."}, {"op": "replace", "path": "/glitchDescription", "value": "Distração. Uma planta em forma de uma mola."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma planta elástica e saltitante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta elástica.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Distração. Uma planta em forma de uma mola.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran pula nisso.",
+    "path": "/floranDescription"
+  }
+]

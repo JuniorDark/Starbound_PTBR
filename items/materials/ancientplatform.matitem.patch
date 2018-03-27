@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Uma plataforma antiga feita de algum tipo de rocha tecnológica."}, {"op": "replace", "path": "/shortdescription", "value": "Ancient Platform"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma plataforma antiga feita de algum tipo de rocha tecnológica.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ancient Platform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Há tecnologia no trabalho desta plataforma antiga que eu não entendo.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plataforma feita com tecnologia esstranha.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há uma tecnologia de aspecto estranho nesta plataforma.",
+    "path": "/novakiddescription"
+  }
+]

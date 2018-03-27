@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/title/value", "value": "INGREDIENTES"}]
+[
+  {
+    "op": "replace",
+    "value": "Bigode Dourado",
+    "path": "/itemList/schema/listTemplate/itemName/value"
+  },
+  {
+    "op": "replace",
+    "value": "INGREDIENTES",
+    "path": "/title/value"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Este baú é feito de material vulcânico."}, {"op": "replace", "path": "/hylotlDescription", "value": "Qualquer coisa colocada neste baú precisa ser capaz de resistir ao calor."}, {"op": "replace", "path": "/novakidDescription", "value": "Este baú é tão quente que poderia ser um forno."}, {"op": "replace", "path": "/avianDescription", "value": "Eu não acho que armazenamento aquecido seria útil."}, {"op": "replace", "path": "/floranDescription", "value": "Tocar no baú vai queimar Floran?"}, {"op": "replace", "path": "/description", "value": "Este baú resistente é feito de material vulcânico. Calor sobe dele."}, {"op": "replace", "path": "/shortdescription", "value": "Volcanic Chest"}, {"op": "replace", "path": "/apexDescription", "value": "Parece funcional, se um pouco impraticável."}, {"op": "replace", "path": "/glitchDescription", "value": "Cauteloso. Este baú é robusto, mas pode estar quente."}]
+[
+  {
+    "op": "replace",
+    "value": "Qualquer coisa colocada neste baú precisa ser capaz de resistir ao calor.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não acho que armazenamento aquecido seria útil.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece funcional, se um pouco impraticável.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este baú é feito de material vulcânico.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este baú é tão quente que poderia ser um forno.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este baú resistente é feito de material vulcânico. Calor sobe dele.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Volcanic Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. Este baú é robusto, mas pode estar quente.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tocar no baú vai queimar Floran?",
+    "path": "/floranDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Carrot Seed"}, {"op": "replace", "path": "/apexDescription", "value": "Ferva uma cenoura e é um pouco parecida com uma banana... Mas não é tão bom."}, {"op": "replace", "path": "/humanDescription", "value": "Cenouras. Perfeita para comer, ou colar em um boneco de neve."}, {"op": "replace", "path": "/avianDescription", "value": "Uma cenoura simples. Boa para sopa."}, {"op": "replace", "path": "/hylotlDescription", "value": "Cenouras são versáteis, suaves, vegetais."}, {"op": "replace", "path": "/floranDescription", "value": "Às vezes cenoura cresce encaracolada. Isso diverte Floran."}, {"op": "replace", "path": "/glitchDescription", "value": "Aprovação. Cenouras são agradavelmente crocantes."}, {"op": "replace", "path": "/novakidDescription", "value": "A cenoura humilde."}, {"op": "replace", "path": "/description", "value": "Cresce cenouras deliciosas, trazida todo o caminho através das estrelas da Terra."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cenoura simples. Boa para sopa.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aprovação. Cenouras são agradavelmente crocantes.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ferva uma cenoura e é um pouco parecida com uma banana... Mas não é tão bom.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Carrot Seed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cenouras são vegetais versáteis e suaves.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cenouras. Perfeita para comer, ou colar em um boneco de neve.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cresce cenouras deliciosas, trazida todo o caminho através das estrelas da Terra.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Às vezes cenoura cresce encaracolada. Isso diverte Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A cenoura humilde.",
+    "path": "/novakidDescription"
+  }
+]

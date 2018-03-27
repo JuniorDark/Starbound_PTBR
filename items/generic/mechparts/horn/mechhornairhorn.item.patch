@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Faça um pouco de barulho do conforto do seu próprio mecha."
+    "value": "Airhorn Mech Horn",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Faça um pouco de barulho do conforto do seu próprio mecha.",
+    "path": "/description"
   }
 ]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Silver Greaves"}, {"op": "replace", "path": "/description", "value": "Calças brilhantes feitas de prata."}]
+[
+  {
+    "op": "replace",
+    "value": "Calças brilhantes feitas de prata.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Silver Greaves",
+    "path": "/shortdescription"
+  }
+]

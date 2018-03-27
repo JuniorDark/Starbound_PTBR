@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Seeker's Chestguard"}, {"op": "replace", "path": "/description", "value": "O circuito dentro desta armadura regula a taxa de respiração e ajuda o usuário a manter uma mira firme."}]
+[
+  {
+    "op": "replace",
+    "value": "Seeker's Chestguard",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O circuito dentro desta armadura regula a taxa de respiração e ajuda o usuário a manter uma mira firme.",
+    "path": "/description"
+  }
+]

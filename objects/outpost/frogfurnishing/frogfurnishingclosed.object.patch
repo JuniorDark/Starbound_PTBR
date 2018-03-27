@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Não sei no que esta caixa vai ser transformada, mas eu gosto da escolha da tinta azul."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Esta caixa parece estar no processo de ser transformada em uma tenda."}, {"op": "replace", "path": "/apexDescription", "value": "Que caixa estranhamente decorada. É um sofá no topo?"}, {"op": "replace", "path": "/humanDescription", "value": "Alguém está decorando esta caixa - me pergunto como ficará quando terminarem?"}, {"op": "replace", "path": "/avianDescription", "value": "Parece que alguém está convertendo essa caixa em uma tenda. Eu me pergunto o que vai ser?"}, {"op": "replace", "path": "/novakidDescription", "value": "Eu gosto do acabamento de madeira nesta caixa - me pergunto o que o proprietário está fazendo com ela."}, {"op": "replace", "path": "/description", "value": "Este seria um local perfeito para uma loja."}, {"op": "replace", "path": "/shortdescription", "value": "Closed Frögg Furnishing"}, {"op": "replace", "path": "/floranDescription", "value": "Floran quer se esconder na caixa. Floran espera que ninguém esteja lá dentro."}]
+[
+  {
+    "op": "replace",
+    "value": "Este seria um excelente local para uma loja.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Closed Frögg Furnishing",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Esta caixa parece estar no processo de ser transformada em uma tenda.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran quer se esconder na caixa. Floran espera que ninguém esteja lá dentro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu gosto do acabamento de madeira nesta caixa - me pergunto o que o proprietário está fazendo com ela.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não sei no que esta caixa vai ser transformada, mas eu gosto da escolha da tinta azul.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém está decorando esta caixa - me pergunto como ficará quando terminarem?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que alguém está convertendo essa caixa em uma tenda. Eu me pergunto o que vai ser?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que caixa estranhamente decorada. É um sofá no topo?",
+    "path": "/apexDescription"
+  }
+]

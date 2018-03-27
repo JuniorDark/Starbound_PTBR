@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Planta de plástico estúpida. Floran está enojado!"}, {"op": "replace", "path": "/apexDescription", "value": "Uma vitória régia decorativa. Agradável."}, {"op": "replace", "path": "/hylotlDescription", "value": "A beleza da natureza, capturada em uma única peça."}, {"op": "replace", "path": "/novakidDescription", "value": "Alguém com certeza gosta de suas vitória régias, hein."}, {"op": "replace", "path": "/glitchDescription", "value": "Divertido. Alguém gosta de vitória régias."}, {"op": "replace", "path": "/description", "value": "Parece uma vitória régia decorativa."}, {"op": "replace", "path": "/shortdescription", "value": "Metal Lily Pad"}, {"op": "replace", "path": "/humanDescription", "value": "O presente perfeito para alguém que adora vitória régias. Infelizmente, esse alguém não sou eu."}, {"op": "replace", "path": "/avianDescription", "value": "Eu não vi tantas vitória régias desde aquela vez que eu caí em um pântano."}]
+[
+  {
+    "op": "replace",
+    "value": "Parece uma vitória régia decorativa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Metal Lily Pad",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A beleza da natureza, capturada em uma única peça.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma vitória régia decorativa. Agradável.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Divertido. Alguém gosta de vitória régias.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não vi tantas vitória régias desde aquela vez que eu caí em um pântano.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém com certeza gosta de suas vitória régias, hein.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Planta de plástico estúpida. Floran está enojado!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O presente perfeito para alguém que adora vitória régias. Infelizmente, esse alguém não sou eu.",
+    "path": "/humanDescription"
+  }
+]

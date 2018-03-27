@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Uma bancada usada para cortar carne."}, {"op": "replace", "path": "/glitchDescription", "value": "Interessado. Talvez outras refeições poderiam ser preparados utilizando esta bancada."}, {"op": "replace", "path": "/description", "value": "Uma bancada de cozinha usada para cortar carne."}, {"op": "replace", "path": "/shortdescription", "value": "Primitive Countertop"}, {"op": "replace", "path": "/floranDescription", "value": "Floran corta carne aqui. Compartilha com outros Floranss."}, {"op": "replace", "path": "/apexDescription", "value": "A superfície desta mesa parece ter sido danificada por uma lâmina."}, {"op": "replace", "path": "/humanDescription", "value": "Os sulcos na superfície faz com que pareça uma mesa de açougueiro."}, {"op": "replace", "path": "/avianDescription", "value": "Sangue mancha a superfície desta mesa."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os Floran parecem usar esta mesa para a preparação de carne."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma bancada usada para cortar carne.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bancada de cozinha usada para cortar carne.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Sangue mancha a superfície desta mesa.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran corta carne aqui. Compartilha com outros Floranss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Talvez outras refeições poderiam ser preparados utilizando esta bancada.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Primitive Countertop",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Floran parecem usar esta mesa para a preparação de carne.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os sulcos na superfície faz com que pareça uma mesa de açougueiro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A superfície desta mesa parece ter sido danificada por uma lâmina.",
+    "path": "/apexDescription"
+  }
+]

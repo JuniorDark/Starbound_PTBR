@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Sentar em pétalas me faz sentir como uma fada da floresta."}, {"op": "replace", "path": "/shortdescription", "value": "Giant Flower Chair"}, {"op": "replace", "path": "/floranDescription", "value": "Floran sssenta-se em flor, sinte-se feliz."}, {"op": "replace", "path": "/glitchDescription", "value": "Pensativo. Quantos anos levou para as pétalas se fortalecerem o suficiente para sustentar meu peso?"}, {"op": "replace", "path": "/apexDescription", "value": "Esta cadeira é esponjosa e estranha."}, {"op": "replace", "path": "/humanDescription", "value": "Uma cadeira feita de uma flor. O pólen me faz espirrar."}, {"op": "replace", "path": "/avianDescription", "value": "A parte de trás desta cadeira irrita minhas penas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Será que esta flor cresceu desta forma naturalmente, ou foi moldada?"}, {"op": "replace", "path": "/description", "value": "Uma cadeira de flor. Se você gosta de sentar aqui, isso significa que você gosta de manteiga."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira feita de uma flor. O pólen me faz espirrar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira de flor. Se você gosta de sentar aqui, isso significa que você gosta de manteiga.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Será que esta flor cresceu desta forma naturalmente, ou foi moldada?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran sssenta-se em flor, sinte-se feliz.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Giant Flower Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sentar em pétalas me faz sentir como uma fada da floresta.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pensativo. Quantos anos levou para as pétalas se fortalecerem o suficiente para sustentar meu peso?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A parte de trás desta cadeira irrita minhas penas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cadeira é esponjosa e estranha.",
+    "path": "/apexDescription"
+  }
+]

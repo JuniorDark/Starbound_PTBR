@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Boiler"}, {"op": "replace", "path": "/description", "value": "Uma caldeira portátil, alimentada por movimento."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma caldeira portátil, alimentada por movimento.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Boiler",
+    "path": "/shortdescription"
+  }
+]

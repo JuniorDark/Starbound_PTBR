@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Red Toy Block"}, {"op": "replace", "path": "/description", "value": "Um grande bloco de brinquedo empilhável."}]
+[
+  {
+    "op": "replace",
+    "value": "Um grande bloco de brinquedo empilhável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Divertido. Estes blocos de brinquedo empilham e encaixam-se juntos.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gossta de bloco de brinquedo empilhável.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Red Toy Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes blocos coloridos são feitos para brincar.",
+    "path": "/novakiddescription"
+  }
+]

@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um braço de mecha equipado com um canhão laser."
+    "value": "Um braço de mecha equipado com um canhão laser.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cannon Mech Arm",
+    "path": "/shortdescription"
   }
 ]

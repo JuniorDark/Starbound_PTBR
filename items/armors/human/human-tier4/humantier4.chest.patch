@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Outrider's Chestpiece"}, {"op": "replace", "path": "/description", "value": "O peitoral do batedor é feito de durasteel, tricotado como kevlar."}]
+[
+  {
+    "op": "replace",
+    "value": "Outrider's Chestpiece",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O peitoral do batedor é feito de durasteel, tricotado como kevlar.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Uma mesa de jantar gigante. Perfeita para um banquete."}, {"op": "replace", "path": "/glitchDescription", "value": "Ganancioso. Faz um longo tempo desde que eu estive presente em uma festa Glitch. Poucos no universo são capazes de tal alegria."}, {"op": "replace", "path": "/hylotlDescription", "value": "Parece uma mesa na qual a realeza se reúne socialmente. A toalha de mesa sugere um banquete."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma bela mesa para uma festinha!"}, {"op": "replace", "path": "/avianDescription", "value": "Alguém colocou um pano sobre esta mesa elegante para mantê-la limpa."}, {"op": "replace", "path": "/description", "value": "Uma mesa de banquetes chique."}, {"op": "replace", "path": "/shortdescription", "value": "Royal Dining Table"}, {"op": "replace", "path": "/floranDescription", "value": "É uma cama ou mesa? É chique."}, {"op": "replace", "path": "/apexDescription", "value": "A característica principal desta mesa parece ser a toalha atrativa."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma mesa de banquetes chique.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bela mesa para uma festinha!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa de jantar gigante. Perfeita para um banquete.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ganancioso. Faz um longo tempo desde que eu estive presente em uma festa Glitch. Poucos no universo são capazes de tal alegria.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma cama ou mesa? É chique.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece uma mesa na qual a realeza se reúne socialmente. A toalha de mesa sugere um banquete.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Royal Dining Table",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém colocou um pano sobre esta mesa elegante para mantê-la limpa.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A característica principal desta mesa parece ser a toalha atrativa.",
+    "path": "/apexDescription"
+  }
+]

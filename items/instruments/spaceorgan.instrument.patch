@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Isso é legal, cara."
+    "value": "Isso é legal, cara.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Space Synth",
+    "path": "/shortdescription"
   }
 ]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Bastante resistente para uma porta básica."}, {"op": "replace", "path": "/floranDescription", "value": "Floran se esconde atrás da porta. Pula fora. Essfaqueia!"}, {"op": "replace", "path": "/description", "value": "Uma porta de ferro básica."}, {"op": "replace", "path": "/shortdescription", "value": "Iron Door"}, {"op": "replace", "path": "/glitchDescription", "value": "Aprovação. Uma porta útil e básica."}, {"op": "replace", "path": "/apexDescription", "value": "Esta porta é relativamente segura."}, {"op": "replace", "path": "/humanDescription", "value": "Uma porta de ferro resistente."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma porta de ferro simples."}, {"op": "replace", "path": "/novakidDescription", "value": "Apenas uma porta simples, serve ao seu proposito, eu acho."}]
+[
+  {
+    "op": "replace",
+    "value": "Floran se esconde atrás de porta. Pular fora. Essfaqueia!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aprovação. Uma porta útil e básica.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bastante resistente para uma porta básica.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas uma porta simples, serve ao seu proposito, eu acho.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta é relativamente segura.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta de ferro básica.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta de ferro simples.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta de ferro resistente.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Iron Door",
+    "path": "/shortdescription"
+  }
+]

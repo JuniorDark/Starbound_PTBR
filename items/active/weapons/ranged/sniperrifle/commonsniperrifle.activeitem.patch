@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Poderosamente forte para cobrir longas distâncias."}, {"op": "replace", "path": "/shortdescription", "value": "Common Sniper Rifle"}]
+[
+  {
+    "op": "replace",
+    "value": "Poderosamente forte para cobrir longas distâncias.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Common Sniper Rifle",
+    "path": "/shortdescription"
+  }
+]

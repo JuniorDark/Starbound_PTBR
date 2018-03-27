@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Eu já ouvi falar disto, foram feitos para detectar líquidos para instalações de fiação chiques."}, {"op": "replace", "path": "/floranDescription", "value": "Sssensor detecta líquidosss. Pode ativar fiosss."}, {"op": "replace", "path": "/description", "value": "Não use seu dedo! Este sensor confiável indica a presença de líquidos."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Este dispositivo pode detectar líquidos para uso em configurações de fiação."}, {"op": "replace", "path": "/apexDescription", "value": "Um objeto útil, pode ser usado para a detecção de líquidos."}, {"op": "replace", "path": "/avianDescription", "value": "Ouvi falar disso, eles de alguma forma detecta líquidos."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um dos meus dispositivos favoritos, isso detecta automaticamente a presença de líquidos."}, {"op": "replace", "path": "/novakidDescription", "value": "Este é um daqueles detectores de líquidos chiques."}, {"op": "replace", "path": "/shortdescription", "value": "Liquid Sensor"}]
+[
+  {
+    "op": "replace",
+    "value": "Um objeto útil, pode ser usado para a detecção de líquidos.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ouvi falar disso, eles de alguma forma detecta líquidos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu já ouvi falar disto, foram feitos para detectar líquidos para instalações de fiação chiques.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Este dispositivo pode detectar líquidos para uso em configurações de fiação.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um dos meus dispositivos favoritos, isso detecta automaticamente a presença de líquidos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sssensor detecta líquidosss. Pode ativar fiosss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este é um daqueles detectores de líquidos chiques.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não use seu dedo! Este sensor confiável indica a presença de líquidos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Liquid Sensor",
+    "path": "/shortdescription"
+  }
+]

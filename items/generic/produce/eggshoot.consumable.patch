@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Eggshoot. Quebre-o para encontrar uma gema."}, {"op": "replace", "path": "/shortdescription", "value": "Eggshoot"}]
+[
+  {
+    "op": "replace",
+    "value": "Eggshoot",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eggshoot. Quebre-o para encontrar uma gema.",
+    "path": "/description"
+  }
+]

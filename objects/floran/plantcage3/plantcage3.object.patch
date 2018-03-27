@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma jaula pendurada destinada a manter prisioneiros Floran."}, {"op": "replace", "path": "/shortdescription", "value": "Suspended Wooden Cage"}, {"op": "replace", "path": "/floranDescription", "value": "Floran poderia chutar através desta jaula."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Esta jaula é forte o suficiente para ficar suspensa."}, {"op": "replace", "path": "/apexDescription", "value": "Uma jaula de prisão suspensa resistente."}, {"op": "replace", "path": "/humanDescription", "value": "Esta jaula não tem muito espaço para se movimentar."}, {"op": "replace", "path": "/avianDescription", "value": "Uma jaula imponente. Está montado na parede."}, {"op": "replace", "path": "/hylotlDescription", "value": "Tenho certeza que os prisioneiros Floran raramente escapam desta jaula."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma jaula de aparência resistente pendurada."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma jaula pendurada destinada a manter prisioneiros Floran.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma jaula de prisão suspensa resistente.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma jaula de aparência resistente pendurada.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma jaula imponente. Está montado na parede.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran poderia chutar através desta jaula.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tenho certeza que os prisioneiros Floran raramente escapam desta jaula.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Esta jaula é forte o suficiente para ficar suspensa.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Suspended Wooden Cage",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta jaula não tem muito espaço para se movimentar.",
+    "path": "/humanDescription"
+  }
+]

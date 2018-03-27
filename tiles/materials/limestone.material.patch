@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Perceptivo. Este calcário tem uma consistência farinácea."}, {"op": "replace", "path": "/floranDescription", "value": "Pedrass de calcário empoeiradass."}, {"op": "replace", "path": "/description", "value": "Calcário áspero e não refinado."}, {"op": "replace", "path": "/shortdescription", "value": "Limestone"}, {"op": "replace", "path": "/novakidDescription", "value": "Um pouco de calcário farináceo."}]
+[
+  {
+    "op": "replace",
+    "value": "Pedrass de calcário empoeiradass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Limestone",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perceptivo. Este calcário tem uma consistência farinácea.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Calcário áspero e não refinado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um pouco de calcário farináceo.",
+    "path": "/novakidDescription"
+  }
+]

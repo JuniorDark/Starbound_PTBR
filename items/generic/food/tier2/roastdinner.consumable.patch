@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Roast Dinner"}, {"op": "replace", "path": "/description", "value": "Apenas um roast dinner normal. Nada extravagante, mas que satisfaz todos."}]
+[
+  {
+    "op": "replace",
+    "value": "Apenas um roast dinner normal. Nada extravagante, mas que satisfaz todos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Roast Dinner",
+    "path": "/shortdescription"
+  }
+]

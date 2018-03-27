@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A etiqueta diz, \"Parece com um alho-poró grande e robusto. Ele sangra quando você cortá-lo, entretanto.\""}, {"op": "replace", "path": "/shortdescription", "value": "Bulbop Figurine"}]
+[
+  {
+    "op": "replace",
+    "value": "Bulbop Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"Parece com um alho-poró grande e robusto. Ele sangra quando você cortá-lo, entretanto.\"",
+    "path": "/description"
+  }
+]

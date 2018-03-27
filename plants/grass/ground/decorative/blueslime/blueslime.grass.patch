@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Uma raiz pegajosa."}, {"op": "replace", "path": "/shortdescription", "value": "Uma raiz pegajosa."}, {"op": "replace", "path": "/floranDescription", "value": "Raiz pegajosasss."}, {"op": "replace", "path": "/glitchDescription", "value": "Declaração. Uma raiz pegajosa."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma raiz pegajosa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma raiz pegajosa.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Raiz pegajosasss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Declaração. Uma raiz pegajosa.",
+    "path": "/glitchDescription"
+  }
+]

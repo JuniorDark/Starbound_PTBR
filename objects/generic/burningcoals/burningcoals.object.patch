@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Burning Coals"}, {"op": "replace", "path": "/description", "value": "Não queime seus pés!"}, {"op": "replace", "path": "/humanDescription", "value": "Eu não acho que estas são o tipo de brasas em que você pode caminhar."}, {"op": "replace", "path": "/avianDescription", "value": "Brasas. Parecem quentes."}, {"op": "replace", "path": "/hylotlDescription", "value": "O calor é desagradável."}, {"op": "replace", "path": "/floranDescription", "value": "Floran odeia pedrasss ardentes!"}, {"op": "replace", "path": "/glitchDescription", "value": "Cauteloso. Estes carvões brilhantes parecem perigosamente quentes."}, {"op": "replace", "path": "/apexDescription", "value": "Carvões quentes. Eles são quentes ao toque."}, {"op": "replace", "path": "/novakidDescription", "value": "Brasas. Quente o suficiente para queimar minhas botas."}]
+[
+  {
+    "op": "replace",
+    "value": "Brasas. Quente o suficiente para queimar minhas botas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Burning Coals",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Brasas. Parecem quentes.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. Estes carvões brilhantes parecem perigosamente quentes.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não queime seus pés!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran odeia pedrasss ardentes!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Carvões quentes. Eles são quentes ao toque.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não acho que estas são o tipo de brasas em que você pode caminhar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O calor é desagradável.",
+    "path": "/hylotlDescription"
+  }
+]

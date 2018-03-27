@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Pixel Hero Shirt"}, {"op": "replace", "path": "/description", "value": "Um peitoral heróico com a crista de um herói."}]
+[
+  {
+    "op": "replace",
+    "value": "Um peitoral heróico com a crista de um herói.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pixel Hero Shirt",
+    "path": "/shortdescription"
+  }
+]

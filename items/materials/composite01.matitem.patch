@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um painel liso feito de titânio."}, {"op": "replace", "path": "/shortdescription", "value": "Titanium Panel"}]
+[
+  {
+    "op": "replace",
+    "value": "Um painel liso feito de titânio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Espantado. Este painel de titânio é quase perfeitamente liso.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns painéis de titânio brilhantes e lisos.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Painéis de titânio lisos e brilhantes.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Titanium Panel",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Emite um feixe contínuo de pura energia destrutiva."}, {"op": "replace", "path": "/shortdescription", "value": "Aegisalt Pistol"}]
+[
+  {
+    "op": "replace",
+    "value": "Aegisalt Pistol",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Emite um feixe contínuo de pura energia destrutiva.",
+    "path": "/description"
+  }
+]

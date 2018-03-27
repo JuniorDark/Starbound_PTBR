@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "É um ovo de fluffalo de fogo. Os adultos produzem scorched cores, que são úteis para fabricação."}, {"op": "replace", "path": "/humanDescription", "value": "Um ovo de fluffalo de fogo! Há um pequeno fluffalo de fogo fofinho lá dentro."}, {"op": "replace", "path": "/description", "value": "Choca em um vulnerável filhote de fluffalo de fogo - uma boa fonte de scorched cores quando estiver totalmente crescido."}, {"op": "replace", "path": "/shortdescription", "value": "Fire Fluffalo Egg"}, {"op": "replace", "path": "/floranDescription", "value": "Ovo de fluffalo de fogo. Floran não está tão louco pelo fogo, mas esses animais são úteis."}, {"op": "replace", "path": "/apexDescription", "value": "O ovo de um fluffalo de fogo - este gado produz scorched cores."}, {"op": "replace", "path": "/hylotlDescription", "value": "O ovo de um fluffalo de fogo. Estes animais pastorais pacíficos produzem scorched cores para fabricação."}, {"op": "replace", "path": "/novakidDescription", "value": "Um ovo de fluffalo de fogo. Tem um carinha peludo dentro."}, {"op": "replace", "path": "/glitchDescription", "value": "Cativado. Isso vai chocar em um fluffalo de fogo, um animal adorável que produz scorched cores."}]
+[
+  {
+    "op": "replace",
+    "value": "Um ovo de fluffalo de fogo! Há um pequeno fluffalo de fogo fofinho lá dentro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um ovo de fluffalo de fogo. Tem um carinha peludo dentro.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cativado. Isso vai chocar em um fluffalo de fogo, um animal adorável que produz scorched cores.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fire Fluffalo Egg",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ovo de fluffalo de fogo. Floran não está tão louco pelo fogo, mas esses animais são úteis.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Choca em um vulnerável filhote de fluffalo de fogo - uma boa fonte de scorched cores quando estiver totalmente crescido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "É um ovo de fluffalo de fogo. Os adultos produzem scorched cores, que são úteis para fabricação.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O ovo de um fluffalo de fogo - este gado produz scorched cores.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O ovo de um fluffalo de fogo. Estes animais pastorais pacíficos produzem scorched cores para fabricação.",
+    "path": "/hylotlDescription"
+  }
+]

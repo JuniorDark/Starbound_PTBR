@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Parece ser uma armadura de batalha. O escudo parece estranho."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta armadura parece que nunca viu uma batalha. O escudo parece particularmente frágil."}, {"op": "replace", "path": "/novakidDescription", "value": "Parece desnecessário usar algo assim quando se luta. O que há com o escudo?"}, {"op": "replace", "path": "/shortdescription", "value": "Suspicious Display Armour"}, {"op": "replace", "path": "/floranDescription", "value": "Homem de metal usa armadura metálica? Floran cheira algo estranho aqui."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Esta armadura tem um mecanismo de interruptor debaixo do escudo."}, {"op": "replace", "path": "/apexDescription", "value": "Um lindo conjunto de armadura. O escudo parece solto."}, {"op": "replace", "path": "/humanDescription", "value": "Parece ser uma armadura de batalha. Se isto fosse um filme, o escudo seria um interruptor secreto."}, {"op": "replace", "path": "/description", "value": "Armadura brilhante está resoluta. Hmm... O escudo parece solto."}]
+[
+  {
+    "op": "replace",
+    "value": "Um lindo conjunto de armadura. O escudo parece solto.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece ser uma armadura de batalha. Se isto fosse um filme, o escudo seria um interruptor secreto.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Esta armadura tem um mecanismo de interruptor debaixo do escudo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Homem de metal usa armadura metálica? Floran cheira algo estranho aqui.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece ser uma armadura de batalha. O escudo parece estranho.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece desnecessário usar algo assim quando se luta. O que há com o escudo?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Armadura brilhante está resoluta. Hmm... O escudo parece solto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Suspicious Display Armour",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta armadura parece que nunca viu uma batalha. O escudo parece particularmente frágil.",
+    "path": "/hylotlDescription"
+  }
+]

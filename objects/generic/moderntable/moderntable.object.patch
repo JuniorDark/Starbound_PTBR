@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Uma mesa de vidro sofisticada."}, {"op": "replace", "path": "/description", "value": "Uma mesa chique e moderna para colocar coisas sofisticadas sobre."}, {"op": "replace", "path": "/shortdescription", "value": "Modern Table"}, {"op": "replace", "path": "/floranDescription", "value": "Objetos colocados na mesa de vidro parecem flutuantes."}, {"op": "replace", "path": "/apexDescription", "value": "Uma mesa de vidro. Eu poderia ver meus joelhos peludos debaixo dela."}, {"op": "replace", "path": "/avianDescription", "value": "Esta mesa é construída a partir de vidro muito forte."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um uso atrativo do vidro."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Este vidro parece ser à prova de balas."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma mesa feita de vidro resistente."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma mesa chique e moderna para colocar coisas sofisticadas sobre.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa de vidro. Eu poderia ver meus joelhos peludos debaixo dela.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa feita de vidro resistente.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa de vidro sofisticada.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um uso atrativo do vidro.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Este vidro parece ser à prova de balas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Modern Table",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Objetos colocados na mesa de vidro parecem flutuantes.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa é construída a partir de vidro muito forte.",
+    "path": "/avianDescription"
+  }
+]

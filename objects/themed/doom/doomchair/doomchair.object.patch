@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma confortável cadeira tenebrosa."}, {"op": "replace", "path": "/shortdescription", "value": "Doom Chair"}, {"op": "replace", "path": "/floranDescription", "value": "Floran ssenta na cadeira e pensa sobre caça."}, {"op": "replace", "path": "/glitchDescription", "value": "Relaxado. Esta cadeira é excepcionalmente confortável para os Glitch."}, {"op": "replace", "path": "/apexDescription", "value": "Uma cadeira imensamente confortável, mesmo que seja um pouco estranha."}, {"op": "replace", "path": "/humanDescription", "value": "Uma cadeira relaxante e suave. Lembra-me de estar em casa, com espinhos adicionais."}, {"op": "replace", "path": "/avianDescription", "value": "Um lugar maravilhoso para se sentar, se você pode ignorar os espinhos."}, {"op": "replace", "path": "/hylotlDescription", "value": "Praticamente o luxo que os Hylotl estão acostumado, tirando as sensibilidades de design."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta cadeira ate que é confortável para algo tão espetado."}]
+[
+  {
+    "op": "replace",
+    "value": "Relaxado. Esta cadeira é excepcionalmente confortável para os Glitch.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma confortável cadeira tenebrosa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira relaxante e suave. Lembra-me de estar em casa, com espinhos adicionais.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um lugar maravilhoso para se sentar, se você pode ignorar os espinhos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira imensamente confortável, mesmo que seja um pouco estranha.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Doom Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ssenta na cadeira e pensa sobre caça.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Praticamente o luxo que os Hylotl estão acostumado, tirando as sensibilidades de design.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cadeira ate que é confortável para algo tão espetado.",
+    "path": "/novakidDescription"
+  }
+]

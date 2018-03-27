@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Aquele velho planeta de gás, ainda continua forte."}, {"op": "replace", "path": "/floranDescription", "value": "Júpiter é uma bonita bagunça de nuvensss."}, {"op": "replace", "path": "/apexDescription", "value": "É cômico pensar que os humanos uma vez consideraram Júpiter um \"grande\" planeta."}, {"op": "replace", "path": "/description", "value": "Um modelo detalhado do maior planeta do sistema Solar, Júpiter."}, {"op": "replace", "path": "/shortdescription", "value": "Jupiter Model"}, {"op": "replace", "path": "/glitchDescription", "value": "Maravilhado. Júpiter é um planeta relativamente pequeno pelos padrões de hoje."}, {"op": "replace", "path": "/avianDescription", "value": "Júpiter é bastante grande em comparação com a Terra."}, {"op": "replace", "path": "/hylotlDescription", "value": "Júpiter, uma vez considerado um gigante para muitos."}, {"op": "replace", "path": "/novakidDescription", "value": "Já vi maiores."}]
+[
+  {
+    "op": "replace",
+    "value": "Um modelo detalhado do maior planeta do sistema Solar, Júpiter.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Maravilhado. Júpiter é um planeta relativamente pequeno pelos padrões de hoje.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Já vi maiores.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É cômico pensar que os humanos uma vez consideraram Júpiter um \"grande\" planeta.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Jupiter Model",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Júpiter é bastante grande em comparação com a Terra.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Júpiter é uma bonita bagunça de nuvensss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Júpiter, uma vez considerado um gigante para muitos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aquele velho planeta de gás, ainda continua forte.",
+    "path": "/humanDescription"
+  }
+]

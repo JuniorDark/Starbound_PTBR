@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Sewer Pipe"}, {"op": "replace", "path": "/description", "value": "Um cano de esgoto usado para o transporte de resíduos."}]
+[
+  {
+    "op": "replace",
+    "value": "Um cano de esgoto usado para o transporte de resíduos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Com nojo. Este cano é imundo, eu odiaria ver o que está dentro dele.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Canos de esgoto sujos.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sewer Pipe",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tubulaçõess de esgoto fedidass.",
+    "path": "/florandescription"
+  }
+]

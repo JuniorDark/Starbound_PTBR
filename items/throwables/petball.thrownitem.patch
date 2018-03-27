@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Little Red Ball"}, {"op": "replace", "path": "/description", "value": "Eu aposto que meu animal de estimação amaria brincar com isso."}]
+[
+  {
+    "op": "replace",
+    "value": "Eu aposto que meu animal de estimação amaria brincar com isso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Little Red Ball",
+    "path": "/shortdescription"
+  }
+]

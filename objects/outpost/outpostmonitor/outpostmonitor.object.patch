@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um monitor. Mas quem monitora o monitor?"}, {"op": "replace", "path": "/apexDescription", "value": "Um monitor. Não consigo ler o que diz aqui."}, {"op": "replace", "path": "/hylotlDescription", "value": "Parece estar quebrado, que surpreendente."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu não consigo entender nada exceto linhas tremeluzentes."}, {"op": "replace", "path": "/shortdescription", "value": "Wall Mounted Monitor"}, {"op": "replace", "path": "/floranDescription", "value": "Monitor estúpido, só tem linhass."}, {"op": "replace", "path": "/glitchDescription", "value": "Chateado. Isso parece estar com mau funcionamento."}, {"op": "replace", "path": "/humanDescription", "value": "Gostaria de saber se isto é suposto estar mostrando algo."}, {"op": "replace", "path": "/avianDescription", "value": "Algum tipo de monitor, mas eu não consigo entender o que ele diz."}]
+[
+  {
+    "op": "replace",
+    "value": "Um monitor. Mas quem monitora o monitor?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um monitor. Não consigo ler o que diz aqui.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não consigo entender nada exceto linhas tremeluzentes.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gostaria de saber se isto é suposto estar mostrando algo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece estar quebrado, que surpreendente.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de monitor, mas eu não consigo entender o que ele diz.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Monitor estúpido, só tem linhass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Chateado. Isso parece estar com mau funcionamento.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wall Mounted Monitor",
+    "path": "/shortdescription"
+  }
+]

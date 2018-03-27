@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Ice Block"}, {"op": "replace", "path": "/description", "value": "Gelo sólido, cortado em forma de bloco."}]
+[
+  {
+    "op": "replace",
+    "value": "Gelo liso, cortado em blocos.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ice Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Os cortes para moldar este gelo são muito precisos.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gelo sólido, cortado em forma de bloco.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Blocoss de gelo liso.",
+    "path": "/florandescription"
+  }
+]

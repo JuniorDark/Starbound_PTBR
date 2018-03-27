@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/completeSetDescriptions/description", "value": "Os restos fossilizados de um pinguim."}, {"op": "replace", "path": "/description", "value": "Um esqueleto de pinguim fossilizado."}, {"op": "replace", "path": "/completeSetDescriptions/shortdescription", "value": "Penguin Fossil"}, {"op": "replace", "path": "/shortdescription", "value": "Penguin Fossil"}]
+[
+  {
+    "op": "replace",
+    "value": "Penguin Fossil",
+    "path": "/completeSetDescriptions/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Penguin Fossil",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os restos fossilizados de um pinguim.",
+    "path": "/completeSetDescriptions/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um esqueleto de pinguim fossilizado.",
+    "path": "/description"
+  }
+]

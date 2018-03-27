@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Um quatro."}, {"op": "replace", "path": "/description", "value": "Numero quatro."}, {"op": "replace", "path": "/shortdescription", "value": "Four"}, {"op": "replace", "path": "/floranDescription", "value": "Quatro."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Quatro."}, {"op": "replace", "path": "/apexDescription", "value": "Quatro."}, {"op": "replace", "path": "/humanDescription", "value": "Quatro."}, {"op": "replace", "path": "/avianDescription", "value": "Quatro."}, {"op": "replace", "path": "/hylotlDescription", "value": "Quatro."}]
+[
+  {
+    "op": "replace",
+    "value": "Um quatro.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Four",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Numero quatro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Quatro.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quatro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quatro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quatro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quatro.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Quatro.",
+    "path": "/glitchDescription"
+  }
+]

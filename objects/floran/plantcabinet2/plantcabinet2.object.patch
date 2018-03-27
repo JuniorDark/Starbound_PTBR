@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Esta mesa é bastante agradável considerando que é de uma prisão."}, {"op": "replace", "path": "/description", "value": "Uma mesa com gavetas grandes."}, {"op": "replace", "path": "/shortdescription", "value": "Large Cabinet"}, {"op": "replace", "path": "/floranDescription", "value": "Uma mesa, Floran coloca coisass dentro."}, {"op": "replace", "path": "/glitchDescription", "value": "Confuso. A qualidade desta mesa parece excepcionalmente boa para um design Floran."}, {"op": "replace", "path": "/apexDescription", "value": "Esta mesa possui uma superfície bem finalizada."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um armário Floran mal construído."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta é uma bela mesa, e você pode colocar coisas dentro dela."}, {"op": "replace", "path": "/avianDescription", "value": "Estou impressionado com a construção desta mesa."}]
+[
+  {
+    "op": "replace",
+    "value": "Um armário Floran mal construído.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa com gavetas grandes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa, Floran coloca coisass dentro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. A qualidade desta mesa parece excepcionalmente boa para um design Floran.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estou impressionado com a construção desta mesa.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Large Cabinet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa possui uma superfície bem finalizada.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa é bastante agradável considerando que é de uma prisão.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é uma bela mesa, e você pode colocar coisas dentro dela.",
+    "path": "/novakidDescription"
+  }
+]

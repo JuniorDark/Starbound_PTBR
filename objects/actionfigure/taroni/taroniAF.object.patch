@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A etiqueta diz, \"Ele come e vive no piche. Sinais sugerem que ele excreta piche também.\""}, {"op": "replace", "path": "/shortdescription", "value": "Taroni Figurine"}]
+[
+  {
+    "op": "replace",
+    "value": "Taroni Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"Ele come e vive no piche. Sinais sugerem que ele excreta piche também.\"",
+    "path": "/description"
+  }
+]

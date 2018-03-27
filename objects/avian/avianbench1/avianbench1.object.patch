@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Este banco sugere uma apreciação do natural sobre o grande."}, {"op": "replace", "path": "/shortdescription", "value": "Rustic Bench"}, {"op": "replace", "path": "/novakidDescription", "value": "Um banco pequeno bonito para descansar um pouco."}, {"op": "replace", "path": "/description", "value": "Um belo banco rústico."}, {"op": "replace", "path": "/floranDescription", "value": "Banco tem cheiro de madeira boa, bem crescida."}, {"op": "replace", "path": "/glitchDescription", "value": "Encantado. Um banco feito à mão."}, {"op": "replace", "path": "/humanDescription", "value": "Parece feito à mão. Muito charmoso."}, {"op": "replace", "path": "/avianDescription", "value": "Um belo banco pequeno. Os grounded tem grande alegria em construir seus próprios móveis."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um banco encantador, embora seu criador não tenha habilidade."}]
+[
+  {
+    "op": "replace",
+    "value": "Um belo banco pequeno. Os grounded tem grande alegria em construir seus próprios móveis.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um belo banco rústico.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um banco encantador, embora seu criador não tenha habilidade.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um banco pequeno bonito para descansar um pouco.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Banco tem cheiro de madeira boa, bem crescida.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Um banco feito à mão.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rustic Bench",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este banco sugere uma apreciação do natural sobre o grande.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece feito à mão. Muito charmoso.",
+    "path": "/humanDescription"
+  }
+]

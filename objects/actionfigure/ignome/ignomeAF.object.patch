@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Ignome Figurine"}, {"op": "replace", "path": "/description", "value": "A etiqueta diz, \"Sua superfície carbonizada é surpreendentemente agradável ao toque. Apenas mantenha longe das chamas!\""}]
+[
+  {
+    "op": "replace",
+    "value": "Ignome Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"Sua superfície carbonizada é surpreendentemente agradável ao toque. Apenas mantenha longe das chamas!\"",
+    "path": "/description"
+  }
+]

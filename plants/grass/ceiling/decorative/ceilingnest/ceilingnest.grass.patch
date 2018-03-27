@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Parece ser um pequeno ninho."}, {"op": "replace", "path": "/shortdescription", "value": "Parece ser um pequeno ninho."}, {"op": "replace", "path": "/floranDescription", "value": "Abrigo da criatura!"}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Um ninho de uma criatura muito pequena."}]
+[
+  {
+    "op": "replace",
+    "value": "Abrigo da criatura!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece ser um pequeno ninho.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Parece ser um pequeno ninho.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Um ninho de uma criatura muito pequena.",
+    "path": "/glitchDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma camisa confortável manchada."}, {"op": "replace", "path": "/shortdescription", "value": "Geode Shirt"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma camisa confortável manchada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Geode Shirt",
+    "path": "/shortdescription"
+  }
+]

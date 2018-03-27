@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Os grounded decoram suas casas com tapeçarias. Quanto mais vibrantes forem as cores, melhor."}, {"op": "replace", "path": "/shortdescription", "value": "Colourful Tapestry"}, {"op": "replace", "path": "/humanDescription", "value": "Que tapeçaria maravilhosa, realmente adiciona um toque de cor."}, {"op": "replace", "path": "/description", "value": "Uma tapeçaria de parede elaboradamente tecida."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Esta tapeçaria mostra um alto nível de artesanato."}, {"op": "replace", "path": "/apexDescription", "value": "Uma tapeçaria. Esplendidamente tecida."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os Avians parecem gostar de tapeçarias de parede coloridas."}, {"op": "replace", "path": "/floranDescription", "value": "Cor brilhante. Floresss rivais de Floran."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta é uma tapeçaria de parede legal."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma tapeçaria. Esplendidamente tecida.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tapeçaria de parede elaboradamente tecida.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cor brilhante. Floresss rivais de Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Colourful Tapestry",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Esta tapeçaria mostra um alto nível de artesanato.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Avians parecem gostar de tapeçarias de parede coloridas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os grounded decoram suas casas com tapeçarias. Quanto mais vibrantes forem as cores, melhor.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é uma tapeçaria de parede legal.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que tapeçaria maravilhosa, realmente adiciona um toque de cor.",
+    "path": "/humanDescription"
+  }
+]

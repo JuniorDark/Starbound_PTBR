@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Sombrero"}, {"op": "replace", "path": "/description", "value": "Protege você do sol quente."}]
+[
+  {
+    "op": "replace",
+    "value": "Protege você do sol quente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Sombrero",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/attack/hylotl/default/0", "value": "Você quer lutar? Muito bem!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/hylotl/default/1", "value": "Nosso espadachim é incomparável!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/hylotl/default/2", "value": "Este território é nosso , e só nosso!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/hylotl/default/3", "value": "Eu tenho treinado pra ser o melhor! Você não tem chance contra mim!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/0", "value": "Ataque!"}]
+[
+  {
+    "op": "replace",
+    "value": "Atacar!",
+    "path": "/scriptConfig/dialog/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu tenho treinado pra ser o melhor! Você não tem chance contra mim!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Nosso espadachim é incomparável!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este território é nosso , e só nosso!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você quer lutar? Muito bem!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/0"
+  }
+]

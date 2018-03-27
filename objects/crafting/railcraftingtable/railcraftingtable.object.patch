@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Esta mesa faz trilhos brilhantes para viagem rápida."}, {"op": "replace", "path": "/apexDescription", "value": "Eu posso usar esta estação para construir trilhos para fácil transporte."}, {"op": "replace", "path": "/humanDescription", "value": "Eu posso criar trilhos aqui! Perfeito para se locomover. Se locomover e se locomover."}, {"op": "replace", "path": "/avianDescription", "value": "Esta mesa vai me permitir construir trilhos que eu posso viajar."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "Monte nos trilhos!"}, {"op": "replace", "path": "/novakidDescription", "value": "Montando os trilhos - ainda funciona tão bom como sempre fez para se locomover."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os trilhos que posso construir aqui podem ser primitivos, mas a sua eficácia não pode ser questionada."}, {"op": "replace", "path": "/shortdescription", "value": "^orange;Rail Crafting Table^white;"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Mesa de Fabricação de Trilhos"}, {"op": "replace", "path": "/glitchDescription", "value": "Encantado. Os trilhos criados aqui vão tornar a deslocação muito mais eficiente"}, {"op": "replace", "path": "/description", "value": "Usada para produzir trilhos e objetos relacionados."}]
+[
+  {
+    "op": "replace",
+    "value": "Encantado. Os trilhos criados aqui vão tornar a deslocação muito mais eficiente",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso criar trilhos aqui! Perfeito para se locomover. Se locomover e se locomover.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso usar esta estação para construir trilhos para fácil transporte.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mesa de Fabricação de Trilhos",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Monte nos trilhos!",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Montando os trilhos - ainda funciona tão bom como sempre fez para se locomover.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os trilhos que posso construir aqui podem ser primitivos, mas a sua eficácia não pode ser questionada.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa vai me permitir construir trilhos que eu posso viajar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa faz trilhos brilhantes para viagem rápida.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Usada para produzir trilhos e objetos relacionados.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Rail Crafting Table^white;",
+    "path": "/shortdescription"
+  }
+]

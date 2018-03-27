@@ -1,22 +1,37 @@
 [
   {
     "op": "replace",
-    "path": "/gui/windowtitle/title",
-    "value": "Comerciante Misterioso"
+    "value": "Vault Key",
+    "path": "/gui/lblKeyName/value"
   },
   {
     "op": "replace",
-    "path": "/gui/windowtitle/subtitle",
-    "value": "Troque itens por uma chave misteriosa"
+    "value": "Scorched Core",
+    "path": "/gui/lblTradeItemName/value"
   },
   {
     "op": "replace",
-    "path": "/gui/lblOfferedTradeLabel/value",
-    "value": "Troca atualmente oferecida:"
+    "value": "Comerciante Misterioso",
+    "path": "/gui/windowtitle/title"
   },
   {
     "op": "replace",
-    "path": "/gui/btnTrade/caption",
-    "value": "Trocar"
+    "value": "Troque itens por uma chave misteriosa",
+    "path": "/gui/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "20/20",
+    "path": "/gui/lblTradeItemQuantity/value"
+  },
+  {
+    "op": "replace",
+    "value": "Troca atualmente oferecida:",
+    "path": "/gui/lblOfferedTradeLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Trocar",
+    "path": "/gui/btnTrade/caption"
   }
 ]

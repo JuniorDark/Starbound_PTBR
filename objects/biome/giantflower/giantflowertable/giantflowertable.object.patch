@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Esta flor gigante é o produto de anos de cultivo cuidadoso."}, {"op": "replace", "path": "/humanDescription", "value": "Comer aqui seria como ter um piquenique mágico."}, {"op": "replace", "path": "/avianDescription", "value": "Esta mesa parece muito frágil."}, {"op": "replace", "path": "/hylotlDescription", "value": "A natureza fornece tanto quanto eladestrói."}, {"op": "replace", "path": "/description", "value": "Uma flor gigante. Perfeita para usar como uma mesa."}, {"op": "replace", "path": "/shortdescription", "value": "Giant Flower Table"}, {"op": "replace", "path": "/floranDescription", "value": "Mesa vai balançar quando Floran fatiar carne."}, {"op": "replace", "path": "/apexDescription", "value": "Se você tem muita fome, você poderia comer a mesa em si."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma mesa naturalmente crescida. Cresceu a partir de uma semente de mesa?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma flor gigante. Perfeita para usar como uma mesa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa naturalmente crescida. Cresceu a partir de uma semente de mesa?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Giant Flower Table",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Esta flor gigante é o produto de anos de cultivo cuidadoso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mesa vai balançar quando Floran fatiar carne.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Comer aqui seria como fazer um piquenique mágico.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se você ficar com muita fome, você poderia comer a mesa em si.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A natureza fornece tanto quanto destrói.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa parece muito frágil.",
+    "path": "/avianDescription"
+  }
+]

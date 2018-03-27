@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um peitoral sólido sem os babados."}, {"op": "replace", "path": "/shortdescription", "value": "Mercenary's Breastplate"}]
+[
+  {
+    "op": "replace",
+    "value": "Um peitoral sólido sem os babados.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Mercenary's Breastplate",
+    "path": "/shortdescription"
+  }
+]

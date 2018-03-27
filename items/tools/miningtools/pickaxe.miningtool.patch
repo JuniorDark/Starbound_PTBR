@@ -1,17 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/category",
-    "value": "tool"
+    "value": "Pickaxe",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/shortdescription",
-    "value": "Pickaxe"
-  },
-  {
-    "op": "replace",
-    "path": "/description",
-    "value": "Picaretas são tão ultrapassadas!"
+    "value": "Picaretas são tão ultrapassadas!",
+    "path": "/description"
   }
 ]

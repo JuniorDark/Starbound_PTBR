@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Onde a luz mais permanente é necessária, os Avians usam cristais no lugar de tochas. Eles duram muitos milhares de anos."}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Este cristal parece flutuar, gerando seu próprio campo gravitacional e também produzindo sua própria luz."}, {"op": "replace", "path": "/description", "value": "Um cristal levita sobre a sua estrutura, que emite uma luz estranha."}, {"op": "replace", "path": "/shortdescription", "value": "Crystal Torch"}, {"op": "replace", "path": "/floranDescription", "value": "Brilho estranho. Cor de sssangue."}, {"op": "replace", "path": "/apexDescription", "value": "O cristal está flutuando no lugar. Parece estar gerando a luz."}, {"op": "replace", "path": "/humanDescription", "value": "O cristal brilha, mas é totalmente frio ao toque."}, {"op": "replace", "path": "/hylotlDescription", "value": "Que tecnologia bonita. Como os Avians aprenderam a aproveitá-la?"}, {"op": "replace", "path": "/novakidDescription", "value": "Esta rocha brilhante flutuante está brilhando como uma tocha."}]
+[
+  {
+    "op": "replace",
+    "value": "Um cristal levita sobre a sua estrutura, que emite uma luz estranha.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Crystal Torch",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Brilho estranho. Cor de sssangue.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Este cristal parece flutuar, gerando seu próprio campo gravitacional e também produzindo sua própria luz.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que tecnologia bonita. Como os Avians aprenderam a aproveitá-la?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O cristal brilha, mas é totalmente frio ao toque.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O cristal está flutuando no lugar. Parece estar gerando a luz.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta rocha brilhante flutuante está brilhando como uma tocha.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Onde a luz mais permanente é necessária, os Avians usam cristais no lugar de tochas. Eles duram muitos milhares de anos.",
+    "path": "/avianDescription"
+  }
+]

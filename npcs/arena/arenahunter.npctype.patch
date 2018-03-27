@@ -1,1 +1,37 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/reattack/default/default/0", "value": "Sem esscapatória desta vez!"}, {"op": "replace", "path": "/scriptConfig/dialog/outOfSight/default/default/0", "value": "Pare de sse essconder!"}, {"op": "replace", "path": "/scriptConfig/dialog/killedTarget/default/default/0", "value": "Você era uma presa fácil!"}, {"op": "replace", "path": "/scriptConfig/dialog/cheerOn/default/default/0", "value": "Pegue eles!"}, {"op": "replace", "path": "/scriptConfig/dialog/cantReach/default/default/0", "value": "Apenass fora de alcance!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/0", "value": "Petss! Ataque!"}, {"op": "replace", "path": "/scriptConfig/dialog/lostTarget/default/default/0", "value": "Eu ainda posso ssentir seu cheiro!"}]
+[
+  {
+    "op": "replace",
+    "value": "Pegue eles!",
+    "path": "/scriptConfig/dialog/cheerOn/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu ainda posso ssentir seu cheiro!",
+    "path": "/scriptConfig/dialog/lostTarget/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Apenass fora de alcance!",
+    "path": "/scriptConfig/dialog/cantReach/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Sem esscapatória desta vez!",
+    "path": "/scriptConfig/dialog/reattack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Petss! Ataque!",
+    "path": "/scriptConfig/dialog/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Pare de sse essconder!",
+    "path": "/scriptConfig/dialog/outOfSight/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você era uma presa fácil!",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/0"
+  }
+]

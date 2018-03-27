@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Usada para produzir componentes modulares de mecha."
+    "value": "Uma essstação de fabricação para fazer peças de mecha.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Esta mesa pode ser usada para produzir componentes modulares de mecha."
+    "value": "Animado. Esta estação foi projetada para montar componentes modulares de mecha.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Com esta mesa posso montar componentes modulares de mecha."
+    "value": "Posso montar componentes modulares de mecha nesta estação.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Uma essstação de fabricação para fazer peças de mecha."
+    "value": "Esta mesa industrial produz componentes modulares de mecha.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Animado. Esta estação foi projetada para montar componentes modulares de mecha."
+    "value": "Esta mesa pode ser usada para produzir componentes modulares de mecha.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Posso montar componentes modulares de mecha nesta estação."
+    "value": "Usada para produzir componentes modulares de mecha.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Esta mesa industrial produz componentes modulares de mecha."
+    "value": "Com esta mesa aqui eu poderia construir algumas peças de mecha.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Com esta mesa aqui eu poderia construir algumas peças de mecha."
+    "value": "Com esta mesa posso montar componentes modulares de mecha.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Mech Part Crafting Table^white;",
+    "path": "/shortdescription"
   }
 ]

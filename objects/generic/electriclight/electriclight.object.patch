@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma luz elétrica barata."}, {"op": "replace", "path": "/floranDescription", "value": "Pequena luz sem chama."}, {"op": "replace", "path": "/shortdescription", "value": "Electric Light"}, {"op": "replace", "path": "/apexDescription", "value": "Uma pequena luz elétrica."}, {"op": "replace", "path": "/glitchDescription", "value": "Aprovação. Esta luz básica pode ser montada na maioria das superfícies."}, {"op": "replace", "path": "/humanDescription", "value": "Uma luz básica montada."}, {"op": "replace", "path": "/avianDescription", "value": "Eletricidade aproveitada para produzir uma luz simples."}, {"op": "replace", "path": "/hylotlDescription", "value": "Apenas uma luz de aparência comum."}, {"op": "replace", "path": "/novakidDescription", "value": "Só uma pequena luz elétrica pendurada."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz básica montada.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz elétrica barata.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pequena luz elétrica.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aprovação. Esta luz básica pode ser montada na maioria das superfícies.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Electric Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eletricidade aproveitada para produzir uma luz simples.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Só uma pequena luz elétrica pendurada.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas uma luz de aparência comum.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pequena luz sem chama.",
+    "path": "/floranDescription"
+  }
+]

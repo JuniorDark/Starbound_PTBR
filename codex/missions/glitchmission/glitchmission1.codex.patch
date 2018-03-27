@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/contentPages/0", "value": "Dragões não são reais. Nem mesmo o Bone Dragon. Mas com o Bone Dragon você ganha a SEMELHANÇA da realidade. Este robô de aço inoxidável é envolto da resistente e durável SimuBoneTM - a substância mais semelhante ao osso humano conhecida no universo*.\n\nQuando você compra o Bone Dragon, não só se obtém um fac-símile realista de um dragão, você também terá as características clássicas de dragão! - o dom de voar, a respiração de fogo em brasa, e uma predileção por assassinato!\nE AINDA TEM MAIS -"}, {"op": "replace", "path": "/description", "value": "Um anúncio para o Bone Dragon"}, {"op": "replace", "path": "/title", "value": "O Bone Dragon"}, {"op": "replace", "path": "/contentPages/1", "value": "O Dragon Bone é automatizado: com recursos predefinidos multi-funções, e um sistema de controle intuitivo!\n\nEstoque limitado disponível. Compre Já!\n\n*Osso de verdade não incluso."}]
+[
+  {
+    "op": "replace",
+    "value": "Um anúncio para o Bone Dragon",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Dragões não são reais. Nem mesmo o Bone Dragon. Mas com o Bone Dragon você ganha a SEMELHANÇA da realidade. Este robô de aço inoxidável é envolto da resistente e durável SimuBoneTM - a substância mais semelhante ao osso humano conhecida no universo*.\n\nQuando você compra o Bone Dragon, não só se obtém um fac-símile realista de um dragão, você também terá as características clássicas de dragão! - o dom de voar, a respiração de fogo em brasa, e uma predileção por assassinato!\nE AINDA TEM MAIS -",
+    "path": "/contentPages/0"
+  },
+  {
+    "op": "replace",
+    "value": "O Bone Dragon",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "O Dragon Bone é automatizado: com recursos predefinidos multi-funções, e um sistema de controle intuitivo!\n\nEstoque limitado disponível. Compre Já!\n\n*Osso de verdade não incluso.",
+    "path": "/contentPages/1"
+  }
+]

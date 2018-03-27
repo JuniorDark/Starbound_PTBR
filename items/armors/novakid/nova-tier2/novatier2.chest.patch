@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Bandit Vest"}, {"op": "replace", "path": "/description", "value": "Um casaco resistente com fechos de aço, para mantê-lo quente em qualquer tempo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um casaco resistente com fechos de aço, para mantê-lo quente em qualquer tempo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bandit Vest",
+    "path": "/shortdescription"
+  }
+]

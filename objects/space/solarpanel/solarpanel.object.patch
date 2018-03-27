@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um painel que gera eletricidade a partir de energia solar."
+    "value": "Um painel que gera eletricidade a partir de energia solar.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Este painel fotovoltaico gera eletricidade à medida que absorve a luz solar."
+    "value": "Impressionado. Este painel absorve a luz para criar energia. Se eu fosse projetado para fazer isso...",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Este painel atrai energia das estrelas para gerar energia!"
+    "value": "Painel cria energia da luz sssolar.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Painel cria energia da luz sssolar."
+    "value": "Solar Panel",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Impressionado. Este painel absorve a luz para criar energia. Se eu fosse projetado para fazer isso..."
+    "value": "Isso gera energia da luz solar? Eu poderia ganhar uma vida arrumada sentando-se nele.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Este painel solar cria energia da luz. E u ouvi falar que os antigos humanos gostavam muito deles."
+    "value": "Este painel atrai energia das estrelas para gerar energia!",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Este painel solar gera energia limpa do sol. Imagino que não seria tão útil debaixo d' água."
+    "value": "Este painel fotovoltaico gera eletricidade à medida que absorve a luz solar.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Isso gera energia da luz solar? Eu poderia ganhar uma vida arrumada sentando-se nele."
+    "value": "Este painel solar cria energia da luz. E u ouvi falar que os antigos humanos gostavam muito deles.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este painel solar gera energia limpa do sol. Imagino que não seria tão útil debaixo d' água.",
+    "path": "/hylotlDescription"
   }
 ]

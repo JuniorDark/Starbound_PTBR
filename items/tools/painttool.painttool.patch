@@ -1,17 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/category",
-    "value": "tool"
+    "value": "Modo Pintura",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "O disparo primário aplica a tinta, o secundário muda a cor. ^green;Selecione rapidamente com a tecla [Y] ."
-  },
-  {
-    "op": "replace",
-    "path": "/shortdescription",
-    "value": "Modo Pintura"
+    "value": "O disparo primário aplica a tinta, o secundário muda a cor. ^green;Selecione rapidamente com a tecla [Y] .",
+    "path": "/description"
   }
 ]

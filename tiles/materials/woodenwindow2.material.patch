@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Eu posso ver através dos espaços nesta madeira."}, {"op": "replace", "path": "/description", "value": "Ripas de madeira velha que não deixa muita luz passar."}, {"op": "replace", "path": "/shortdescription", "value": "Wooden Blinds"}, {"op": "replace", "path": "/floranDescription", "value": "Floran pode falar através de grandes ripaas de madeira."}, {"op": "replace", "path": "/glitchDescription", "value": "Atento. Esta madeira filtra a luz e age como uma barreira."}]
+[
+  {
+    "op": "replace",
+    "value": "Floran pode falar através de grandes ripaas de madeira.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso ver através dos espaços nesta madeira.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Esta madeira filtra a luz e age como uma barreira.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ripas de madeira velha que não deixa muita luz passar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Wooden Blinds",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Terra suja."}, {"op": "replace", "path": "/floranDescription", "value": "Terra imunda!"}, {"op": "replace", "path": "/description", "value": "Um poco de terra suja."}, {"op": "replace", "path": "/shortdescription", "value": "Dirt"}, {"op": "replace", "path": "/glitchDescription", "value": "Indiferente. Isto é solo básico."}]
+[
+  {
+    "op": "replace",
+    "value": "Dirt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Terra suja.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Terra suja.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Terra imunda!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Indiferente. Isto é solo básico.",
+    "path": "/glitchDescription"
+  }
+]

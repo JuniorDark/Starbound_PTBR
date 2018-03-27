@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma geladeira. Espero que cheia de iguarias saborosas."}, {"op": "replace", "path": "/floranDescription", "value": "Fria!"}, {"op": "replace", "path": "/apexDescription", "value": "Uma geladeira. Vamos esperar que haja comida lá dentro."}, {"op": "replace", "path": "/humanDescription", "value": "Uma geladeira. Gostaria de saber se há ovos aqui?"}, {"op": "replace", "path": "/avianDescription", "value": "O que está na geladeira, eu me pergunto?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Um dispositivo de refrigeração de alimentos."}, {"op": "replace", "path": "/shortdescription", "value": "Chic Fridge"}, {"op": "replace", "path": "/glitchDescription", "value": "Cauteloso. Esta geladeira cheira anti-higiênica."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma geladeira! Gostaria de saber se alguém deixou algumas iguarias?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um dispositivo de refrigeração de alimentos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma geladeira! Gostaria de saber se alguém deixou algumas iguarias?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma geladeira. Espero que cheia de iguarias saborosas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma geladeira. Gostaria de saber se há ovos aqui?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma geladeira. Vamos esperar que haja comida lá dentro.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Chic Fridge",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fria!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. Esta geladeira cheira anti-higiênica.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que está na geladeira, eu me pergunto?",
+    "path": "/avianDescription"
+  }
+]

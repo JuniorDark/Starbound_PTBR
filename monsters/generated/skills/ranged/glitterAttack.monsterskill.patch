@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/label", "value": "SPRAY DE FAÍSCA"}]
+[
+  {
+    "op": "replace",
+    "value": "SPRAY DE FAÍSCA",
+    "path": "/label"
+  }
+]

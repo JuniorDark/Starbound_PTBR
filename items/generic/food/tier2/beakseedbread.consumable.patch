@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um pão pesado e denso cheio de sementes."}, {"op": "replace", "path": "/shortdescription", "value": "Beakseed Bread"}]
+[
+  {
+    "op": "replace",
+    "value": "Beakseed Bread",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pão pesado e denso cheio de sementes.",
+    "path": "/description"
+  }
+]

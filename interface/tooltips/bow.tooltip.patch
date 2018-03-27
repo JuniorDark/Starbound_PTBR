@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/descriptionLabel/value", "value": "Coleta carne e outros produtos de monstros."}, {"op": "replace", "path": "/maxDamageTitleLabel/value", "value": "Dano Base Máximo:"}, {"op": "replace", "path": "/energyPerShotTitleLabel/value", "value": "Energia Por Tiro:"}]
+[
+  {
+    "op": "replace",
+    "value": "Energia Gasta Por Tiro:",
+    "path": "/energyPerShotTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "tree",
+    "path": "/priceLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Colhe carne e outros produtos de monstros.",
+    "path": "/descriptionLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Dano Base Máximo:",
+    "path": "/maxDamageTitleLabel/value"
+  }
+]

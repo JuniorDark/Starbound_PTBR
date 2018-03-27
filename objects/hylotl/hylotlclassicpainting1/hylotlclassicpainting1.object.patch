@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Este cara parece pronto para a ação, não é?"}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. A pose deste guerreiro mostra que ele está pronto para a batalha."}, {"op": "replace", "path": "/floranDescription", "value": "Guerreiro carnudo lutaria melhor com as armasss de Floran."}, {"op": "replace", "path": "/humanDescription", "value": "Este cara está pronto para atacar!"}, {"op": "replace", "path": "/avianDescription", "value": "É curioso como culturas diferentes têm diferentes estilos de batalha."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um guerreiro Hylotl, treinado para defender o seu povo. Inspirador."}, {"op": "replace", "path": "/shortdescription", "value": "Hylotl Warrior Painting"}, {"op": "replace", "path": "/apexDescription", "value": "Isso parece uma impressão de arte antiga. Eu me pergunto como eles mantêm isso em tão bom estado?"}, {"op": "replace", "path": "/description", "value": "Uma velha pintura de caligrafia retratando um guerreiro Hylotl primitivo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um guerreiro Hylotl, treinado para defender o seu povo. Inspirador.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma velha pintura de caligrafia retratando um guerreiro Hylotl primitivo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Guerreiro carnudo lutaria melhor com as armasss de Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hylotl Warrior Painting",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. A pose deste guerreiro mostra que ele está pronto para a batalha.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É curioso como culturas diferentes têm diferentes estilos de batalha.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este cara parece pronto para a ação, não é?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este cara está pronto para atacar!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso parece uma impressão de arte antiga. Eu me pergunto como eles mantêm isso em tão bom estado?",
+    "path": "/apexDescription"
+  }
+]

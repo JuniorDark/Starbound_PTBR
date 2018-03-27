@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Rusty Rail"}, {"op": "replace", "path": "/description", "value": "Estes trilhos são um pouco áspero, mas funcional."}]
+[
+  {
+    "op": "replace",
+    "value": "Preocupado. Esses trilhos parecem desgastados ​​e enferrujados.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rusty Rail",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Trilhoss de metal enferrujadoss.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns trilhos de enferrujados.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes trilhos são um pouco ásperos, mas funcional.",
+    "path": "/description"
+  }
+]

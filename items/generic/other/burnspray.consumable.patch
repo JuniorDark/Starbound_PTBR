@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Burn Resistance Spray"}, {"op": "replace", "path": "/description", "value": "Protege seu corpo contra queimaduras."}]
+[
+  {
+    "op": "replace",
+    "value": "Burn Resistance Spray",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protege seu corpo contra queimaduras.",
+    "path": "/description"
+  }
+]

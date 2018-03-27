@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Coconut Ice Cream"}, {"op": "replace", "path": "/description", "value": "Perfeito para quando você está preso em uma ilha tropical."}]
+[
+  {
+    "op": "replace",
+    "value": "Coconut Ice Cream",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perfeito para quando você está preso em uma ilha tropical.",
+    "path": "/description"
+  }
+]

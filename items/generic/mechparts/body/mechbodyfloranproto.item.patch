@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um protótipo de corpo de mcha aberto, projetado para pilotos Floran."
+    "value": "Um protótipo de corpo de mecha aberto, projetado para pilotos Floran.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Golem-00 Mech Body",
+    "path": "/shortdescription"
   }
 ]

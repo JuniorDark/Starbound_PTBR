@@ -1,1 +1,87 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Eu deveria pegar este Manipulador de Matéria... Eu poderia precisar dele para sair daqui vivo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este Manipulador de Matéria pode ser minha única ajuda em sair daqui vivo."}, {"op": "replace", "path": "/pickedUpParameters/glitchDescription", "value": "Ansioso. Eu preciso sair."}, {"op": "replace", "path": "/description", "value": "Este Manipulador de Matéria era para mim... E eu posso precisar dele para sair daqui vivo."}, {"op": "replace", "path": "/pickedUpParameters/description", "value": "Eu preciso sair daqui."}, {"op": "replace", "path": "/shortdescription", "value": "Matter Manipulator"}, {"op": "replace", "path": "/floranDescription", "value": "Melhor Floran pegar o Manipulador de Matéria e correr para sssegurança!"}, {"op": "replace", "path": "/pickedUpParameters/floranDescription", "value": "Floran deve ir."}, {"op": "replace", "path": "/glitchDescription", "value": "Estressado. Eu deveria pegar este Manipulador de Matéria e sair daqui."}, {"op": "replace", "path": "/pickedUpParameters/apexDescription", "value": "Eu devo ir."}, {"op": "replace", "path": "/pickedUpParameters/humanDescription", "value": "É melhor eu me mudar."}, {"op": "replace", "path": "/avianDescription", "value": "Eu tenho que pegar este Manipulador de Matéria e fugir!"}, {"op": "replace", "path": "/pickedUpParameters/avianDescription", "value": "Eu tenho que ir."}, {"op": "replace", "path": "/pickedUpParameters/novakidDescription", "value": "É melhor eu me mexer."}, {"op": "replace", "path": "/novakidDescription", "value": "Não há tempo para pensar sobre isso. Tenho que pegar o Manipulador de Matéria e sair daqui."}, {"op": "replace", "path": "/pickedUpParameters/hylotlDescription", "value": "Eu não deveria ficar aqui."}, {"op": "replace", "path": "/apexDescription", "value": "Preciso pegar este Manipulador de Matéria e encontrar uma maneira de escapar."}]
+[
+  {
+    "op": "replace",
+    "value": "Manipulador de Matéria",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. Eu preciso sair.",
+    "path": "/pickedUpParameters/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Melhor Floran pegar o Manipulador de Matéria e correr para sssegurança!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran deve ir.",
+    "path": "/pickedUpParameters/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu tenho que ir.",
+    "path": "/pickedUpParameters/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu tenho que pegar este Manipulador de Matéria e fugir!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu preciso sair daqui.",
+    "path": "/pickedUpParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Preciso pegar este Manipulador de Matéria e encontrar uma maneira de escapar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu devo ir.",
+    "path": "/pickedUpParameters/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu deveria pegar este Manipulador de Matéria... Eu poderia precisar dele para sair daqui vivo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não deveria ficar aqui.",
+    "path": "/pickedUpParameters/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É melhor eu me mexer.",
+    "path": "/pickedUpParameters/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É melhor eu me mudar.",
+    "path": "/pickedUpParameters/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não há tempo para pensar sobre isso. Tenho que pegar o Manipulador de Matéria e sair daqui.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estressado. Eu deveria pegar este Manipulador de Matéria e sair daqui.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este Manipulador de Matéria pode ser minha única ajuda em sair daqui vivo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este Manipulador de Matéria era para mim... E eu posso precisar dele para sair daqui vivo.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Gotas de água."}, {"op": "replace", "path": "/shortdescription", "value": "Water Drop Source"}]
+[
+  {
+    "op": "replace",
+    "value": "Gotas de água.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Water Drop Source",
+    "path": "/shortdescription"
+  }
+]

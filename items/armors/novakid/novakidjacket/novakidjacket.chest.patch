@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma jaqueta sobre uma simples camisa de algodão."}, {"op": "replace", "path": "/shortdescription", "value": "Rustler Jacket"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma jaqueta sobre uma simples camisa de algodão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Rustler Jacket",
+    "path": "/shortdescription"
+  }
+]

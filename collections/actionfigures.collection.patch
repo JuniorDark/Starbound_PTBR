@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/title", "value": "Figuras de Ação"}]
+[
+  {
+    "op": "replace",
+    "value": "Figuras de Ação",
+    "path": "/title"
+  }
+]

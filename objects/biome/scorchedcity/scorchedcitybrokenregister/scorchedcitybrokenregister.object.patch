@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma caixa registradora quebrada."}, {"op": "replace", "path": "/shortdescription", "value": "Broken Register"}, {"op": "replace", "path": "/floranDescription", "value": "Isso uma vez foi útil, agora esssta quebrado."}, {"op": "replace", "path": "/glitchDescription", "value": "Melancólico. É sempre triste ver objetos uma vez úteis em desuso."}, {"op": "replace", "path": "/apexDescription", "value": "Uma vez utilizado para calcular transações, está quebrado agora."}, {"op": "replace", "path": "/humanDescription", "value": "Uma caixa registradora quebrada."}, {"op": "replace", "path": "/avianDescription", "value": "Isto foi usado uma vez na venda de itens. Está quebrada agora."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma caixa registradora em ruínas. Que triste."}, {"op": "replace", "path": "/novakidDescription", "value": "Nesta caixa registradora nem mesmo um único pixel resta."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma caixa registradora quebrada.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa registradora quebrada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa registradora em ruínas. Que triste.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Broken Register",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Melancólico. É sempre triste ver objetos uma vez úteis em desuso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma vez utilizado para calcular transações, está quebrado agora.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nesta caixa registradora nem mesmo um único pixel resta.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto foi usado uma vez na venda de itens. Está quebrada agora.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso uma vez foi útil, agora esssta quebrado.",
+    "path": "/floranDescription"
+  }
+]

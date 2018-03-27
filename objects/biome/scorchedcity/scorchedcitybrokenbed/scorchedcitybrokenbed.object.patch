@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Uma cama quebrada, dormir nela agora seria uma péssima idéia."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta cama está mesmo quebrada."}, {"op": "replace", "path": "/description", "value": "Uma cama quebrada."}, {"op": "replace", "path": "/avianDescription", "value": "Uma cama quebrada, parece esquecida."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma cama quebrada. Nem sequer é funcional agora."}, {"op": "replace", "path": "/apexDescription", "value": "Uma cama quebrada. É inútil agora."}, {"op": "replace", "path": "/shortdescription", "value": "Broken Stylish Bed"}, {"op": "replace", "path": "/floranDescription", "value": "Esta cama está quebrada."}, {"op": "replace", "path": "/glitchDescription", "value": "Triste. Esta cama está quebrada."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cama quebrada, parece esquecida.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama quebrada, dormir nela agora seria uma péssima idéia.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama quebrada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama quebrada. Nem sequer é funcional agora.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama quebrada. É inútil agora.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Broken Stylish Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Triste. Esta cama está quebrada.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama está mesmo quebrada.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama está quebrada.",
+    "path": "/floranDescription"
+  }
+]

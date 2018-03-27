@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Hivestone"}, {"op": "replace", "path": "/description", "value": "Favos de colmeia grudentos feito de restos de criaturas mortas."}, {"op": "replace", "path": "/floranDescription", "value": "Colmeia feita de animaiss esmagadoss."}, {"op": "replace", "path": "/glitchDescription", "value": "Revoltado. O material desta colmeia é composto de criaturas esmagadas."}, {"op": "replace", "path": "/novakidDescription", "value": "Algum tipo de colmeia feita de criaturas esmagadas."}]
+[
+  {
+    "op": "replace",
+    "value": "Colmeia feita de animaiss esmagadoss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Revoltado. O material desta colmeia é composto de criaturas esmagadas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de colmeia feita de criaturas esmagadas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Favos de colmeia grudentos feito de restos de criaturas mortas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Hivestone",
+    "path": "/shortdescription"
+  }
+]

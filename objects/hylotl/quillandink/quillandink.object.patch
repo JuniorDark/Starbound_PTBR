@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Galhosss fazem canetasss melhores."}, {"op": "replace", "path": "/avianDescription", "value": "Isso é uma pena de Avian?"}, {"op": "replace", "path": "/novakidDescription", "value": "Uma pena de algum tipo."}, {"op": "replace", "path": "/description", "value": "Uma pena e tinta."}, {"op": "replace", "path": "/shortdescription", "value": "Quill and Ink"}, {"op": "replace", "path": "/glitchDescription", "value": "Encantado. Um instrumento de escrita apto para um rei Glitch."}, {"op": "replace", "path": "/apexDescription", "value": "Uma pena e tinta para escrita ao estilo antigo."}, {"op": "replace", "path": "/humanDescription", "value": "Eu levaria uma caneta esferográfica sobre uma pena qualquer dia."}, {"op": "replace", "path": "/hylotlDescription", "value": "Hylotl praticam caligrafia desde uma idade muito precoce."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pena de algum tipo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pena e tinta para escrita ao estilo antigo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pena e tinta.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Um instrumento de escrita apto para um rei Glitch.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hylotl praticam caligrafia desde uma idade muito precoce.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu levaria uma caneta esferográfica sobre uma pena qualquer dia.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é uma pena de Avian?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quill and Ink",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Galhosss fazem canetasss melhores.",
+    "path": "/floranDescription"
+  }
+]

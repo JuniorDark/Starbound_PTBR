@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Essa pedra tem um rosto."}, {"op": "replace", "path": "/shortdescription", "value": "Rock Head"}]
+[
+  {
+    "op": "replace",
+    "value": "Rock Head",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa pedra tem um rosto.",
+    "path": "/description"
+  }
+]

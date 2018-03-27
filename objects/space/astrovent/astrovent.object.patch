@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma porta de escape do sistema atmosférico artificial."
+    "value": "Uma porta de escape do sistema atmosférico artificial.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Uma tubulação de exaustão."
+    "value": "Uma tubulação de exaustão.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Isto parece ser algum tipo de porta de exaustão."
+    "value": "Parece ser um respiradouro de exaustão.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Tubo é pequeno para Floran sse essconder dentro."
+    "value": "Astro Vent",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Observador. Respiradouros de exaustão como estes são encontrados geralmente em naves e em estações no espaço."
+    "value": "Observador. Respiradouros de exaustão como estes são encontrados geralmente em naves e em estações no espaço.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Parece ser um respiradouro de exaustão."
+    "value": "Tubo é pequeno para Floran sse essconder dentro.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Este é um respiradouro de algum tipo, eu acredito."
+    "value": "Enfie algumas armas naquele respiradouro e provavelmente faria um canhão decente.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Enfie algumas armas naquele respiradouro e provavelmente faria um canhão decente."
+    "value": "Isto parece ser algum tipo de porta de exaustão.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este é um respiradouro de algum tipo, eu acredito.",
+    "path": "/hylotlDescription"
   }
 ]

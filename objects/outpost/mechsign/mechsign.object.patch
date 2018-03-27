@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Esta placa de metal indica uma estação de trabalho de mecha."
+    "value": "Uma placa colorida, com uma imagem de um mecha.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Esta placa possui um grande veículo mecha impresso sobre ela."
+    "value": "Uma placa com um grande mecha impresso sobre ela.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Esta placa mostra um grande mecha."
+    "value": "Mech Sign",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Há um mecha nessa placa."
+    "value": "Atento. Estea placa indica uma estação de trabalho para montagem de mecha.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Atento. Estea placa indica uma estação de trabalho para montagem de mecha."
+    "value": "Há um mecha nessa placa.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Esta placa redonda tem um grande mecha nela."
+    "value": "Esta placa de metal indica uma estação de trabalho de mecha.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Uma placa colorida, com uma imagem de um mecha."
+    "value": "Esta placa redonda tem um grande mecha nela.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Uma placa com um grande mecha impresso sobre ela."
+    "value": "Esta placa mostra um grande mecha.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta placa possui um grande veículo mecha impresso sobre ela.",
+    "path": "/apexDescription"
   }
 ]

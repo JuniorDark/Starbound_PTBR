@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma pilha repugnante de cocô. O fedor é desagradável!"}, {"op": "replace", "path": "/shortdescription", "value": "Poop"}, {"op": "replace", "path": "/humanDescription", "value": "Por favor me diga que isso é falso."}, {"op": "replace", "path": "/avianDescription", "value": "Prefiro não chegar muito perto."}, {"op": "replace", "path": "/floranDescription", "value": "Cheira mal."}, {"op": "replace", "path": "/glitchDescription", "value": "Resoluto. Entidades biológicas são nojentas."}, {"op": "replace", "path": "/apexDescription", "value": "Fezes. O que isso está fazendo aqui?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Tudo parte de um processo natural."}, {"op": "replace", "path": "/novakidDescription", "value": "Não tenho nada decente a dizer sobre o assunto."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pilha repugnante de cocô. O fedor é desagradável!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Não tenho nada decente a dizer sobre o assunto.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tudo parte de um processo natural.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fezes. O que isso está fazendo aqui?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Prefiro não chegar muito perto.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Por favor me diga que isso é falso.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Poop",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Resoluto. Entidades biológicas são nojentas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cheira mal.",
+    "path": "/floranDescription"
+  }
+]

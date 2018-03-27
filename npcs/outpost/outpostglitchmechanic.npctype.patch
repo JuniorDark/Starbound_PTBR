@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/glitch/glitch/0", "value": "Amigável. Como você está indo em consertar as coisas?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/glitch/default/0", "value": "Prepotente. Nós Glitch somos utilizados para consertar máquinas muito mais complexas do que as coisas que você vê aqui."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Prepotente. Nós Glitch somos utilizados para consertar máquinas muito mais complexas do que as coisas que você vê aqui."}]
+[
+  {
+    "op": "replace",
+    "value": "Prepotente. Nós Glitch somos utilizados para consertar máquinas muito mais complexas do que as coisas que você vê aqui.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Prepotente. Nós Glitch somos utilizados para consertar máquinas muito mais complexas do que as coisas que você vê aqui.",
+    "path": "/scriptConfig/dialog/converse/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Amigável. Como você está indo em consertar as coisas?",
+    "path": "/scriptConfig/dialog/converse/glitch/glitch/0"
+  }
+]

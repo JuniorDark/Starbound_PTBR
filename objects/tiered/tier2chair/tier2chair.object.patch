@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Não é o luxo que Hylotl está acostumado, mas há uma satisfação a ser obtida aqui."}, {"op": "replace", "path": "/avianDescription", "value": "Um lugar decente para se sentar."}, {"op": "replace", "path": "/humanDescription", "value": "Uma cadeira dura. Lembra-me de estar na escola."}, {"op": "replace", "path": "/apexDescription", "value": "Não é a cadeira mais confortável de todas, mas estou feliz com isso."}, {"op": "replace", "path": "/glitchDescription", "value": "Relaxado. Esta cadeira é perfeitamente confortável para o Glitch."}, {"op": "replace", "path": "/floranDescription", "value": "Floran sssente-se na cadeira e pensa sobre caça."}, {"op": "replace", "path": "/shortdescription", "value": "Tungsten Chair"}, {"op": "replace", "path": "/novakidDescription", "value": "Não é a melhor, mas não sou exigente."}, {"op": "replace", "path": "/description", "value": "Uma simples cadeira de tungstênio."}]
+[
+  {
+    "op": "replace",
+    "value": "Floran ssenta na cadeira e pensa sobre caça.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um lugar decente para se sentar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira dura. Lembra-me de estar na escola.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não é a melhor, mas não sou exigente.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não é o luxo que Hylotl está acostumado, mas há uma satisfação a ser obtida aqui.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não é a cadeira mais confortável de todas, mas estou feliz com isso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relaxado. Esta cadeira é perfeitamente confortável para o Glitch.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma simples cadeira de tungstênio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Tungsten Chair",
+    "path": "/shortdescription"
+  }
+]

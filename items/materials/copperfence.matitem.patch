@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Uma cerca de cobre resistente."}, {"op": "replace", "path": "/shortdescription", "value": "Copper Fence"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cerca resistente de cobre.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Confiante. Esta cerca de cobre é muito mais forte do que madeira.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Copper Fence",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cerca resistente de cobre.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cerca aqui é feita de cobre.",
+    "path": "/novakiddescription"
+  }
+]

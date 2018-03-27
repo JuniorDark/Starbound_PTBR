@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Um ninho de guardião. Os guardiões protegem a terra sagrada Avian. São guerreiros selvagens impulsionados pela piedade."}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. A ergonomia desta cama é mal concebida."}, {"op": "replace", "path": "/shortdescription", "value": "Guardian's Nest"}, {"op": "replace", "path": "/hylotlDescription", "value": "É preciso ser duro como uma rocha para dormir entre as pedras. Uma cama de guerreiro."}, {"op": "replace", "path": "/novakidDescription", "value": "Esse feno não deixa a cama mais confortável."}, {"op": "replace", "path": "/apexDescription", "value": "Uma cama de pedra cheia de feno. Parece incrivelmente desconfortável."}, {"op": "replace", "path": "/humanDescription", "value": "Uma cama de pedra. Ela oferece pouco conforto. A pedra é fria ao toque."}, {"op": "replace", "path": "/floranDescription", "value": "Homem-pássaro têm ninho de feno. Florans usam cama ssemelhante."}, {"op": "replace", "path": "/description", "value": "Uma cama de pedra sólida coberta com um ninho de feno."}]
+[
+  {
+    "op": "replace",
+    "value": "Um ninho de guardião. Os guardiões protegem a terra sagrada Avian. São guerreiros selvagens impulsionados pela piedade.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama de pedra sólida coberta com um ninho de feno.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama de pedra cheia de feno. Parece incrivelmente desconfortável.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama de pedra. Ela oferece pouco conforto. A pedra é fria ao toque.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Homem-pássaro têm ninho de feno. Florans usam cama ssemelhante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. A ergonomia desta cama é mal concebida.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Guardian's Nest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "É preciso ser duro como uma rocha para dormir entre as pedras. Uma cama de guerreiro.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse feno não deixa a cama mais confortável.",
+    "path": "/novakidDescription"
+  }
+]

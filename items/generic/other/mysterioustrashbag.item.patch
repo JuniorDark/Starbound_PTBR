@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Este saco parece estranhamente mole ao toque. Gostaria de saber o que está dentro."}, {"op": "replace", "path": "/shortdescription", "value": "Mysterious Trash Bag"}]
+[
+  {
+    "op": "replace",
+    "value": "Mysterious Trash Bag",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este saco parece estranhamente mole ao toque. Gostaria de saber o que está dentro.",
+    "path": "/description"
+  }
+]

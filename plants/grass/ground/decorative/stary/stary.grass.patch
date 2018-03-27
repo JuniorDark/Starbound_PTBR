@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Uma flor bonita."}, {"op": "replace", "path": "/shortdescription", "value": "Uma flor bonita."}, {"op": "replace", "path": "/floranDescription", "value": "Bonita."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Um flor atraente."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma flor linda.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma flor linda.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bonita.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Declaração. Uma flor atraente.",
+    "path": "/glitchDescription"
+  }
+]

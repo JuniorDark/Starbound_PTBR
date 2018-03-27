@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "O gás liberado aumenta seu poder destrutivo."}, {"op": "replace", "path": "/shortdescription", "value": "Power Booster"}, {"op": "replace", "path": "/floranDescription", "value": "O gásss faz Floran sentir-se forte!"}, {"op": "replace", "path": "/glitchDescription", "value": "Suspeito. Este dispositivo parece ter propriedades que dão força."}, {"op": "replace", "path": "/apexDescription", "value": "Esta máquina parece aumentar a potência do sujeito exposto ao gás."}, {"op": "replace", "path": "/humanDescription", "value": "Um cheiro desse gás é suficiente para me fazer sentir forte."}, {"op": "replace", "path": "/avianDescription", "value": "O gás tem um cheiro forte, isso me faz sentir estranhamente enérgico."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um mau cheiro de gás que fortalece seu corpo e sua mente."}, {"op": "replace", "path": "/novakidDescription", "value": "Este gás parece aumentar minha força."}]
+[
+  {
+    "op": "replace",
+    "value": "Um mau cheiro de gás que fortalece seu corpo e sua mente.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O gásss faz Floran sentir-se forte!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um cheiro desse gás é suficiente para me fazer sentir forte.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Power Booster",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Suspeito. Este dispositivo parece ter propriedades que dão força.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O gás tem um cheiro forte, isso me faz sentir estranhamente enérgico.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O gás liberado aumenta seu poder destrutivo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Este gás parece aumentar minha força.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta máquina parece aumentar a potência do sujeito exposto ao gás.",
+    "path": "/apexDescription"
+  }
+]

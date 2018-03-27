@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Uma pilha de cinzas bem embalada."}, {"op": "replace", "path": "/shortdescription", "value": "Ash Pile"}, {"op": "replace", "path": "/floranDescription", "value": "Grande monte de cinzass."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Uma pilha de cinzas embalada."}, {"op": "replace", "path": "/novakidDescription", "value": "Pilha grande de cinzas."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pilha de cinzas bem embalada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ash Pile",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grande monte de cinzass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pilha grande de cinzas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Uma pilha de cinzas embalada.",
+    "path": "/glitchDescription"
+  }
+]

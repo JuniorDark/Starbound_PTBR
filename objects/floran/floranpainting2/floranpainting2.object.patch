@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "A linguagem escrita Floran parece ser rudimentar na melhor das hipóteses."}, {"op": "replace", "path": "/glitchDescription", "value": "Confuso. Eu estou lutando para traduzir este glifo. O mais próximo que eu conheço é uma palavra Avian."}, {"op": "replace", "path": "/description", "value": "Parece que alguém pintou glifos em um pedaço de couro."}, {"op": "replace", "path": "/shortdescription", "value": "Primitive Glyph Art"}, {"op": "replace", "path": "/floranDescription", "value": "Um Floran começou a marcar papel com palavras."}, {"op": "replace", "path": "/humanDescription", "value": "Isso não é como eu imaginava a linguagem Floran parecer."}, {"op": "replace", "path": "/novakidDescription", "value": "Um rabisco em uma pele bronzeada. Nada especial."}, {"op": "replace", "path": "/avianDescription", "value": "Isso... parece muito com um glifo Avian. Os Floran estão tentando adaptar a língua Avian?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Os Floran estão pegando a caneta? Talvez isso possa ser o início da mudança."}]
+[
+  {
+    "op": "replace",
+    "value": "Um Floran começou a marcar papel com palavras.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um rabisco em uma pele bronzeada. Nada especial.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Floran estão pegando a caneta? Talvez isso possa ser o início da mudança.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Eu estou lutando para traduzir este glifo. O mais próximo que eu conheço é uma palavra Avian.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A linguagem escrita Floran parece ser rudimentar na melhor das hipóteses.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que alguém pintou glifos em um pedaço de couro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Primitive Glyph Art",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso não é como eu imaginava a linguagem Floran parecer.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso... parece muito com um glifo Avian. Os Floran estão tentando adaptar a língua Avian?",
+    "path": "/avianDescription"
+  }
+]

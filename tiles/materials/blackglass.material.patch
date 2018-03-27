@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Interessado. Este vidro foi tão tingido de preto que quase não é transparente."}, {"op": "replace", "path": "/shortdescription", "value": "Black Glass"}, {"op": "replace", "path": "/description", "value": "Uma painel de vidro tingido de preto."}, {"op": "replace", "path": "/novakidDescription", "value": "Vidro tão escuro que o brilho do sol dificilmente vai passar por ele."}, {"op": "replace", "path": "/floranDescription", "value": "Floran pode se esconder atráss de vidro escuro."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma painel de vidro tingido de preto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Black Glass",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran pode se esconder atráss de vidro escuro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vidro tão escuro que o brilho do sol dificilmente vai passar por ele.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Este vidro foi tão tingido de preto que quase não é transparente.",
+    "path": "/glitchDescription"
+  }
+]

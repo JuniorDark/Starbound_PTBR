@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Seu estômago está constantemente transbordando com líquidos venenosos. Ele mal consegue segurá-lo."}, {"op": "replace", "path": "/shortdescription", "value": "Brown Chordopod"}]
+[
+  {
+    "op": "replace",
+    "value": "Brown Chordopod",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Seu estômago está constantemente transbordando com líquidos venenosos. Ele mal consegue segurá-lo.",
+    "path": "/description"
+  }
+]

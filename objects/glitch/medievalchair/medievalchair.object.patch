@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Assento pontudo faz uma boa arma."}, {"op": "replace", "path": "/description", "value": "Uma cadeira dura, que iria ficar desconfortável muito rapidamente."}, {"op": "replace", "path": "/shortdescription", "value": "Medieval Chair"}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Uma cadeira de sala de jantar comum no estilo tipicamente medieval."}, {"op": "replace", "path": "/apexDescription", "value": "Uma cadeira de jantar de madeira dura."}, {"op": "replace", "path": "/humanDescription", "value": "Uma cadeira de jantar elegante. É dura e desconfortável."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um assento de madeira desconfortável, decorado modestamente."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma cadeira de madeira dura."}, {"op": "replace", "path": "/avianDescription", "value": "Um assento de madeira desconfortável. Decorado com modéstia."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira de jantar elegante. É dura e desconfortável.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira dura, que iria ficar desconfortável muito rapidamente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira de madeira dura.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira de jantar de madeira dura.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um assento de madeira desconfortável, decorado modestamente.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um assento de madeira desconfortável. Decorado com modéstia.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Medieval Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Uma cadeira de sala de jantar comum no estilo tipicamente medieval.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Assento pontudo faz uma boa arma.",
+    "path": "/floranDescription"
+  }
+]

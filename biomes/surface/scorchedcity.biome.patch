@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/friendlyName", "value": "Cidade Queimada"}]
+[
+  {
+    "op": "replace",
+    "value": "Cidade Queimada",
+    "path": "/friendlyName"
+  }
+]

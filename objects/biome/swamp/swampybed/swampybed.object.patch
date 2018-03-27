@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Swamp Cot"}, {"op": "replace", "path": "/description", "value": "Uma cama incomum, com os lados feitos de raízes e roupa de cama de folhas."}, {"op": "replace", "path": "/glitchDescription", "value": "Sonolento. Níveis de energia baixos. Modo hibernação necessário."}, {"op": "replace", "path": "/apexDescription", "value": "Esta cama pode ser mais confortável\r\n do que parece pela primeira vez."}, {"op": "replace", "path": "/humanDescription", "value": "Parece um pouco como um barco. Um barco cheio de folhas."}, {"op": "replace", "path": "/avianDescription", "value": "Uma moldura de barco de madeira e folhas como cobertura."}, {"op": "replace", "path": "/hylotlDescription", "value": "Eu me sentiria desconfortável dormindo em uma cama tão malfeita."}, {"op": "replace", "path": "/floranDescription", "value": "Flora dorme nas folhass."}, {"op": "replace", "path": "/novakidDescription", "value": "Este tipo de cama é para viver a vida simples."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma moldura de barco de madeira e folhas como cobertura.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama incomum, com os lados feitos de raízes e roupa de cama de folhas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Sonolento. Níveis de energia baixos. Modo hibernação necessário.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Flora dorme nas folhass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me sentiria desconfortável dormindo em uma cama tão malfeita.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece um pouco como um barco. Um barco cheio de folhas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Swamp Cot",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama pode ser mais confortável\r\n do que parece pela primeira vez.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este tipo de cama é para viver a vida simples.",
+    "path": "/novakidDescription"
+  }
+]

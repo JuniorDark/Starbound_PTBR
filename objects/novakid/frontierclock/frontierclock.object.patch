@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Este relógio estava me esperando aqui, só para mim. Mas eu pensei que o tempo não esperava por ninguém?"}, {"op": "replace", "path": "/apexDescription", "value": "Este relógio fino é de qualidade muito mais elevada do que os produzido em massa que a Miniknog cria."}, {"op": "replace", "path": "/description", "value": "Um relógio longo à moda antiga, com um pêndulo de latão polido."}, {"op": "replace", "path": "/shortdescription", "value": "Frontier Grandfather Clock"}, {"op": "replace", "path": "/floranDescription", "value": "Coisa de metal balançante parece com um machado pequeno. É uma arma?"}, {"op": "replace", "path": "/glitchDescription", "value": "Encantado. Este relógio deve ter levado uma série de cuidados para produzir à mão."}, {"op": "replace", "path": "/avianDescription", "value": "Este relógio parece feito à mão. Estou impressionado com a madeira!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Devo admitir que a construção deste relógio deve ter tomado uma grande quantidade de tempo. Estou quase impressionado."}, {"op": "replace", "path": "/novakidDescription", "value": "Este relógio aqui esta apenas tiquetaqueando as horas."}]
+[
+  {
+    "op": "replace",
+    "value": "Um relógio longo à moda antiga, com um pêndulo de latão polido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Este relógio deve ter levado uma série de cuidados para produzir à mão.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Frontier Grandfather Clock",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Devo admitir que a construção deste relógio deve ter tomado uma grande quantidade de tempo. Estou quase impressionado.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Coisa de metal balançante parece com um machado pequeno. É uma arma?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este relógio estava me esperando aqui, só para mim. Mas eu pensei que o tempo não esperava por ninguém?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este relógio parece feito à mão. Estou impressionado com a madeira!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este relógio fino é de qualidade muito mais elevada do que os produzido em massa que a Miniknog cria.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este relógio aqui esta apenas tiquetaqueando as horas.",
+    "path": "/novakidDescription"
+  }
+]

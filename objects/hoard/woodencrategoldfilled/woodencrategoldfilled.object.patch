@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Como vou guardar todos os meus saques numa caixa sem tampa?"}, {"op": "replace", "path": "/floranDescription", "value": "Caixa de madeira tem tessouro!"}, {"op": "replace", "path": "/description", "value": "Uma caixa de madeira cheia de tesouros."}, {"op": "replace", "path": "/shortdescription", "value": "Treasure Filled Crate"}, {"op": "replace", "path": "/apexDescription", "value": "Português \r\nUma caixa de madeira. Ele contém muito tesouro para o seu tamanho."}, {"op": "replace", "path": "/humanDescription", "value": "Uma caixa cheia de tesouros, segurança claramente não era uma prioridade."}, {"op": "replace", "path": "/avianDescription", "value": "Uma caixa de armazenamento de madeira cheia de ouro."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma caixa simples feita de madeira transbordando de tesouro."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Esta caixa de madeira é insuficiente para esta quantidade de tesouro."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma caixa cheia de tesouros, segurança claramente não era uma prioridade.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa simples feita de madeira transbordando de tesouro.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de madeira cheia de tesouros.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Português \r\nUma caixa de madeira. Ele contém muito tesouro para o seu tamanho.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de armazenamento de madeira cheia de ouro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Como vou guardar todos os meus saques numa caixa sem tampa?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Esta caixa de madeira é insuficiente para esta quantidade de tesouro.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Treasure Filled Crate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Caixa de madeira tem tessouro!",
+    "path": "/floranDescription"
+  }
+]

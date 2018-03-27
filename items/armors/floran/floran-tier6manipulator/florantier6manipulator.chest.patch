@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Shaman's Chestguard"}, {"op": "replace", "path": "/description", "value": "Solarium é tecida em cota de malha para formar a metade inferior desta peitoral resiliente."}]
+[
+  {
+    "op": "replace",
+    "value": "Shaman's Chestguard",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Solarium é tecida em cota de malha para formar a metade inferior desta peitoral resiliente.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Shaman's Skirt"}, {"op": "replace", "path": "/description", "value": "Esta saia é enganosamente forte e extremamente flexível."}]
+[
+  {
+    "op": "replace",
+    "value": "Shaman's Skirt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta saia é enganosamente forte e extremamente flexível.",
+    "path": "/description"
+  }
+]

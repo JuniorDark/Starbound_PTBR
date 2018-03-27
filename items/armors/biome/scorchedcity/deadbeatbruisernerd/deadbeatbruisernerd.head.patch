@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Óculos de proteção acentuam essa máscara chapeada."}, {"op": "replace", "path": "/shortdescription", "value": "Deadbeat Bruiser Glasses"}]
+[
+  {
+    "op": "replace",
+    "value": "Deadbeat Bruiser Glasses",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Óculos de proteção acentuam essa máscara chapeada.",
+    "path": "/description"
+  }
+]

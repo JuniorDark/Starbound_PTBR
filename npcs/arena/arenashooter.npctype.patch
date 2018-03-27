@@ -1,1 +1,37 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/killedTarget/default/default/0", "value": "Alvo derrotado!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/0", "value": "Eu tenho o alvo à vista!"}, {"op": "replace", "path": "/scriptConfig/dialog/reattack/default/default/0", "value": "Eu posso vê-los novamente!"}, {"op": "replace", "path": "/scriptConfig/dialog/cheerOn/default/default/0", "value": "Apenas me dê espaço para um tiro certeiro!"}, {"op": "replace", "path": "/scriptConfig/dialog/lostTarget/default/default/0", "value": "Eu não consigo encontrá-los!"}, {"op": "replace", "path": "/scriptConfig/dialog/cantReach/default/default/0", "value": "Eu não tenho um tiro certeiro, eu preciso chegar mais perto!"}, {"op": "replace", "path": "/scriptConfig/dialog/outOfSight/default/default/0", "value": "Eu não tenho um tiro certeiro!"}]
+[
+  {
+    "op": "replace",
+    "value": "Eu posso vê-los novamente!",
+    "path": "/scriptConfig/dialog/reattack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não consigo encontrá-los!",
+    "path": "/scriptConfig/dialog/lostTarget/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não tenho um tiro certeiro!",
+    "path": "/scriptConfig/dialog/outOfSight/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não tenho um tiro certeiro, eu preciso chegar mais perto!",
+    "path": "/scriptConfig/dialog/cantReach/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu tenho o alvo à vista!",
+    "path": "/scriptConfig/dialog/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas me dê espaço para um tiro certeiro!",
+    "path": "/scriptConfig/dialog/cheerOn/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Alvo derrotado!",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/0"
+  }
+]

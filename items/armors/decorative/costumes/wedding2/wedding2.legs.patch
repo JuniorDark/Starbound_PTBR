@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A saia de um vestido de baile - traje de casamento tradicional na Terra."}, {"op": "replace", "path": "/shortdescription", "value": "Wedding Skirt"}]
+[
+  {
+    "op": "replace",
+    "value": "A saia de um vestido de baile - traje de casamento tradicional na Terra.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Wedding Skirt",
+    "path": "/shortdescription"
+  }
+]

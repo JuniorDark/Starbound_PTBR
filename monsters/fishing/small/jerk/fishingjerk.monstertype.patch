@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Este peixe tem um comportamento grosseiro natural."}, {"op": "replace", "path": "/shortdescription", "value": "Jerkfish"}]
+[
+  {
+    "op": "replace",
+    "value": "Jerkfish",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este peixe tem um comportamento grosseiro natural.",
+    "path": "/description"
+  }
+]

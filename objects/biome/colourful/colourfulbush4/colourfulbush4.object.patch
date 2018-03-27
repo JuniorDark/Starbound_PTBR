@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Isso é planta ou Floran? Floran cutuca pra checar."}, {"op": "replace", "path": "/glitchDescription", "value": "Inspirado. Um arbusto verdadeiramente bonito."}, {"op": "replace", "path": "/apexDescription", "value": "Essa folhagem não me impressiona."}, {"op": "replace", "path": "/humanDescription", "value": "Isso ficaria legal em um pote."}, {"op": "replace", "path": "/avianDescription", "value": "Que arbusto atrativo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Natureza é o artista mais puro."}, {"op": "replace", "path": "/description", "value": "Um arbusto colorido de alto valor estético."}, {"op": "replace", "path": "/shortdescription", "value": "Colourful Bush"}, {"op": "replace", "path": "/novakidDescription", "value": "Acho que esse arbusto tem uma opinião muito elevada de si mesmo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um arbusto colorido de alto valor estético.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Acho que esse arbusto tem uma opinião muito elevada de si mesmo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inspirado. Um arbusto verdadeiramente bonito.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é planta ou Floran? Floran cutuca pra checar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Natureza é o artista mais puro.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa folhagem não me impressiona.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso ficaria legal em um pote.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que arbusto atrativo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Colourful Bush",
+    "path": "/shortdescription"
+  }
+]

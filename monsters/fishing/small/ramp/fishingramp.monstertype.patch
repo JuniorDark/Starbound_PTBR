@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Ele poli a crista diagonal em sua cabeça contra rochas e recifes de coral."}, {"op": "replace", "path": "/shortdescription", "value": "Salt Rampskull"}]
+[
+  {
+    "op": "replace",
+    "value": "Ele poli a crista diagonal em sua cabeça contra rochas e recifes de coral.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Salt Rampskull",
+    "path": "/shortdescription"
+  }
+]

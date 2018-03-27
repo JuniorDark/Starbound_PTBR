@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Uma pilha de pedras cobertas de musgo."}, {"op": "replace", "path": "/floranDescription", "value": "Pedrasss."}, {"op": "replace", "path": "/glitchDescription", "value": "Declaração. Uma pilha de pedras cobertas de musgo."}, {"op": "replace", "path": "/description", "value": "Uma pilha de pedras cobertas de musgo."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pilha de pedras cobertas de musgo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pilha de pedras cobertas de musgo.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedrasss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Declaração. Uma pilha de pedras cobertas de musgo.",
+    "path": "/glitchDescription"
+  }
+]

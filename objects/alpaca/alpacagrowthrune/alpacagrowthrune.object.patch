@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Alpaca Growth Rune"}, {"op": "replace", "path": "/floranDescription", "value": "Floran tem dificuldadesss para entender esta runa."}, {"op": "replace", "path": "/glitchDescription", "value": "Sereno. A Alpaca comunica o conceito de crescimento pessoal com este símbolo."}, {"op": "replace", "path": "/apexDescription", "value": "É uma runa antiga pensada para significar crescimento pessoal."}, {"op": "replace", "path": "/humanDescription", "value": "Esta runa comunica a ideia de crescimento pessoal em apenas um símbolo."}, {"op": "replace", "path": "/avianDescription", "value": "Uma runa antiga semelhante a algumas das nossas próprias runas Avians. Este significa o crescimento pessoal."}, {"op": "replace", "path": "/hylotlDescription", "value": "O conceito de crescimento pessoal é muito bem capturados neste marca antiga."}, {"op": "replace", "path": "/description", "value": "Uma runa antiga que é o símbolo do crescimento pessoal."}, {"op": "replace", "path": "/novakidDescription", "value": "Um símbolo de crescimento pessoal, hein? Coisas avançadas e bonitas."}]
+[
+  {
+    "op": "replace",
+    "value": "Um símbolo de crescimento pessoal, hein? Coisas avançadas e bonitas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alpaca Growth Rune",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma runa antiga semelhante a algumas das nossas próprias runas Avians. Este significa o crescimento pessoal.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma runa antiga que é o símbolo do crescimento pessoal.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran tem dificuldadesss para entender esta runa.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma runa antiga pensada para significar crescimento pessoal.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sereno. A Alpaca comunica o conceito de crescimento pessoal com este símbolo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O conceito de crescimento pessoal é muito bem capturados neste marca antiga.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta runa comunica a ideia de crescimento pessoal em apenas um símbolo.",
+    "path": "/humanDescription"
+  }
+]

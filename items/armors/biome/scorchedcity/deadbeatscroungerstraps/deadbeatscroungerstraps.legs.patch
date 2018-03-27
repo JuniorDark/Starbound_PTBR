@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Calças sujas e esfarrapadas, muitas vezes usada por catadores."}, {"op": "replace", "path": "/shortdescription", "value": "Deadbeat Dirty Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Deadbeat Dirty Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Calças sujas e esfarrapadas, muitas vezes usada por catadores.",
+    "path": "/description"
+  }
+]

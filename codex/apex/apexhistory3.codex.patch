@@ -1,1 +1,32 @@
-[{"op": "replace", "path": "/contentPages/0", "value": "Tentativa #5062: Observações\n\nA filial Theta enviou seu novo lote de sequência de linhas genéticas, então nós ansiosamente as colocamos à prova na cobaia #5062.\n\nEstavamos esperando que os novos ajustes no nível de Proto-Ray que fizemos após as Tentativa #5032-5039 tivesse algum resultado positivo, mas a #5062 infelizmente morreu 002:000 metaclicks no processo, sofrendo de deslocamento cranial surpreendente. Fascinante de observar."}, {"op": "replace", "path": "/contentPages/1", "value": "Tentativa #5062: Conclusões\n\nNíveis de Proto-Ray incompatíveis com a nova sequência de linhas genéticas. Eu aconselho a começar com níveis mais baixos de Proto-Ray e anotar qualquer melhoria."}, {"op": "replace", "path": "/contentPages/2", "value": "Tentativa #5063: Observações\n\nNós tentamos o processo novamente com níveis mais baixos de Proto-Ray como aconselhado. A cobaia inicialmente parecia responder bem. Observação adicional revelou uma queda brusca na atividade mental e habilidades motoras, mas com uma compulsão recém-descoberta para fazer ruídos e chiados altos.\n\nA cobaia foi finalizada a força em 055:106 metaclicks, depois de ter sido considerada muito irritante para manter viva."}, {"op": "replace", "path": "/contentPages/3", "value": "Tentativa #5063: Conclusões\n\nA título de curiosidade, eu investiguei as linhas de genes que nos foi dado. Posso pedir a filial Theta para parar com a tentativa de economizar tempo ao combinar amostras de gene de seu pet doninha, que está nos causando uma grande quantidade de tempo e esforço desperdiçado."}, {"op": "replace", "path": "/description", "value": "Um trecho de um relatório de laboratório confidencial da Miniknog."}, {"op": "replace", "path": "/title", "value": "Relatório do 'Projeto: De-Ape'"}]
+[
+  {
+    "op": "replace",
+    "value": "Relatório do 'Projeto: De-Ape'",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Um trecho de um relatório de laboratório confidencial da Miniknog.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Tentativa #5062: Conclusões\n\nNíveis de Proto-Ray incompatíveis com a nova sequência de linhas genéticas. Eu aconselho a começar com níveis mais baixos de Proto-Ray e anotar qualquer melhoria.",
+    "path": "/contentPages/1"
+  },
+  {
+    "op": "replace",
+    "value": "Tentativa #5062: Observações\n\nA filial Theta enviou seu novo lote de sequência de linhas genéticas, então nós ansiosamente as colocamos à prova na cobaia #5062.\n\nEstavamos esperando que os novos ajustes no nível de Proto-Ray que fizemos após as Tentativa #5032-5039 tivesse algum resultado positivo, mas a #5062 infelizmente morreu 002:000 metaclicks no processo, sofrendo de deslocamento cranial surpreendente. Fascinante de observar.",
+    "path": "/contentPages/0"
+  },
+  {
+    "op": "replace",
+    "value": "Tentativa #5063: Conclusões\n\nA título de curiosidade, eu investiguei as linhas de genes que nos foi dado. Posso pedir a filial Theta para parar com a tentativa de economizar tempo ao combinar amostras de gene de seu pet doninha, que está nos causando uma grande quantidade de tempo e esforço desperdiçado.",
+    "path": "/contentPages/3"
+  },
+  {
+    "op": "replace",
+    "value": "Tentativa #5063: Observações\n\nNós tentamos o processo novamente com níveis mais baixos de Proto-Ray como aconselhado. A cobaia inicialmente parecia responder bem. Observação adicional revelou uma queda brusca na atividade mental e habilidades motoras, mas com uma compulsão recém-descoberta para fazer ruídos e chiados altos.\n\nA cobaia foi finalizada a força em 055:106 metaclicks, depois de ter sido considerada muito irritante para manter viva.",
+    "path": "/contentPages/2"
+  }
+]

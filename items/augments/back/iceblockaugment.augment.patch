@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um módulo de EPP que faz você ser altamente resistente a gelo."}, {"op": "replace", "path": "/shortdescription", "value": "Ice Resist Augment"}]
+[
+  {
+    "op": "replace",
+    "value": "Um módulo de EPP que faz você ser altamente resistente a gelo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ice Resist Augment",
+    "path": "/shortdescription"
+  }
+]

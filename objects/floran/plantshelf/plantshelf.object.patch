@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma prateleira vazia."}, {"op": "replace", "path": "/shortdescription", "value": "Empty Shelf"}, {"op": "replace", "path": "/floranDescription", "value": "Prateleira Floran esstá vazia."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Eu me pergunto o que esta prateleira foi usada para guardar."}, {"op": "replace", "path": "/apexDescription", "value": "Uma prateleira feita de material vegetal reforçado."}, {"op": "replace", "path": "/humanDescription", "value": "Uma prateleira Floran feita de plantas e madeira."}, {"op": "replace", "path": "/avianDescription", "value": "Algumas prateleiras vazias."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma prateleira simples feita de materiais naturais."}, {"op": "replace", "path": "/novakidDescription", "value": "O que quer que estava guardado nesta prateleira não está aqui agora."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma prateleira Floran feita de plantas e madeira.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma prateleira feita de material vegetal reforçado.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma prateleira simples feita de materiais naturais.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma prateleira vazia.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Eu me pergunto o que esta prateleira foi usada para guardar.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Empty Shelf",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Prateleira Floran esstá vazia.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas prateleiras vazias.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que quer que estava guardado nesta prateleira não está aqui agora.",
+    "path": "/novakidDescription"
+  }
+]

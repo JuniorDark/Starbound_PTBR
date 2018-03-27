@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Um saco de dormir com aparência firme feito de plantas."}, {"op": "replace", "path": "/novakidDescription", "value": "Parece um saco de dormir colocado no chão."}, {"op": "replace", "path": "/description", "value": "Um saco de dormir de prisioneiro Floran coberta com um cobertor."}, {"op": "replace", "path": "/shortdescription", "value": "Covered Plant Bedroll"}, {"op": "replace", "path": "/floranDescription", "value": "Prissioneiross de Floran têm sacoss de dormir básico."}, {"op": "replace", "path": "/glitchDescription", "value": "Surpreso. Esta saco básico pode funcionar como uma cama?"}, {"op": "replace", "path": "/apexDescription", "value": "Um saco de dormir de prisão. Pelo menos tem um cobertor."}, {"op": "replace", "path": "/humanDescription", "value": "Pelo menos esse saco de dormir tem um cobertor quente."}, {"op": "replace", "path": "/avianDescription", "value": "Um saco de dormir feito de plantas."}]
+[
+  {
+    "op": "replace",
+    "value": "Um saco de dormir de prisioneiro Floran coberta com um cobertor.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um saco de dormir com aparência firme feito de plantas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um saco de dormir feito de plantas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um saco de dormir de prisão. Pelo menos tem um cobertor.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pelo menos esse saco de dormir tem um cobertor quente.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Covered Plant Bedroll",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Prissioneiross de Floran têm sacoss de dormir básico.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece um saco de dormir colocado no chão.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Esta saco básico pode funcionar como uma cama?",
+    "path": "/glitchDescription"
+  }
+]

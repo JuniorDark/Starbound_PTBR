@@ -1,17 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/category",
-    "value": "tool"
+    "value": "Emite pulsos para analisar a composição de minerais próximos.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/shortdescription",
-    "value": "Ore Detector"
-  },
-  {
-    "op": "replace",
-    "path": "/description",
-    "value": "Emite pulsos para analisar a composição de minerais próximos."
+    "value": "Ore Detector",
+    "path": "/shortdescription"
   }
 ]

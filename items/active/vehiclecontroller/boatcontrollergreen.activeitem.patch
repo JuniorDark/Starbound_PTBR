@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Cria um barco à vela verde de nanites armazenados."}, {"op": "replace", "path": "/shortdescription", "value": "Green Boat Controller"}]
+[
+  {
+    "op": "replace",
+    "value": "Cria um barco à vela verde de nanites armazenados.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Green Boat Controller",
+    "path": "/shortdescription"
+  }
+]

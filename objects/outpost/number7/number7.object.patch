@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Sete."}, {"op": "replace", "path": "/description", "value": "Numero sete."}, {"op": "replace", "path": "/shortdescription", "value": "Seven"}, {"op": "replace", "path": "/avianDescription", "value": "Sete."}, {"op": "replace", "path": "/hylotlDescription", "value": "Sete."}, {"op": "replace", "path": "/floranDescription", "value": "Sssete."}, {"op": "replace", "path": "/humanDescription", "value": "Sete."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Sete."}, {"op": "replace", "path": "/novakidDescription", "value": "Um sete."}]
+[
+  {
+    "op": "replace",
+    "value": "Um sete.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Sete.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Seven",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Numero sete.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Sete.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sete.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sete.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sete.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sssete.",
+    "path": "/floranDescription"
+  }
+]

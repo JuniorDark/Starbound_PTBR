@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Não impressionado. Ferramentas rudimentares como essas não são muito úteis."}, {"op": "replace", "path": "/apexDescription", "value": "Parecem ser ferramentas para algum trabalho de metal rápido e sujo."}, {"op": "replace", "path": "/humanDescription", "value": "Ferramentas simples de Faça você mesmo."}, {"op": "replace", "path": "/avianDescription", "value": "Ferramentas para moldar metal."}, {"op": "replace", "path": "/description", "value": "Ferramentas comuns de oficina usadas para reparos rápidos."}, {"op": "replace", "path": "/shortdescription", "value": "Workshop Tools"}, {"op": "replace", "path": "/floranDescription", "value": "Ferramentass para apertar e essmagar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Ferramentas para moldar metal."}, {"op": "replace", "path": "/novakidDescription", "value": "Algumas ferramentas de elaboração comuns."}]
+[
+  {
+    "op": "replace",
+    "value": "Ferramentas comuns de oficina usadas para reparos rápidos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ferramentas simples de Faça você mesmo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas ferramentas de elaboração comuns.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parecem ser ferramentas para algum trabalho de metal rápido e sujo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ferramentas para moldar metal.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ferramentas para moldar metal.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ferramentass para apertar e essmagar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não impressionado. Ferramentas rudimentares como essas não são muito úteis.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Workshop Tools",
+    "path": "/shortdescription"
+  }
+]

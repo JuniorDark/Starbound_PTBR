@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Kluex Totem"}, {"op": "replace", "path": "/description", "value": "Uma maravilha ameaçadora da tecnologia antiga."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma maravilha ameaçadora da tecnologia antiga.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex Totem",
+    "path": "/shortdescription"
+  }
+]

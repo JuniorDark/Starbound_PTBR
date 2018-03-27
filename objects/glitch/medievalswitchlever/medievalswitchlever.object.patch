@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Um interruptor de algum tipo."}, {"op": "replace", "path": "/hylotlDescription", "value": "A cor vermelha torna ainda mais tentador."}, {"op": "replace", "path": "/humanDescription", "value": "Uma grande alavanca vermelha!"}, {"op": "replace", "path": "/apexDescription", "value": "Hmmm, uma alavanca."}, {"op": "replace", "path": "/shortdescription", "value": "Switch Lever"}, {"op": "replace", "path": "/floranDescription", "value": "Puxarrr!"}, {"op": "replace", "path": "/description", "value": "Uma alavanca misteriosa. Eu me pergunto o que isso faz?"}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Uma alavanca mecânica."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta alavanca é muito tentadora!"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma grande alavanca vermelha!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma alavanca misteriosa. Eu me pergunto o que isso faz?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um interruptor de algum tipo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Uma alavanca mecânica.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hmmm, uma alavanca.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Puxarrr!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Switch Lever",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A cor vermelha torna ainda mais tentador.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta alavanca é muito tentadora!",
+    "path": "/novakidDescription"
+  }
+]

@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/shortdescription", "value": "bigapehologram"}]
+[
+  {
+    "op": "replace",
+    "value": "bigapehologram",
+    "path": "/shortdescription"
+  }
+]

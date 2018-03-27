@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um cérebro em um frasco."}, {"op": "replace", "path": "/shortdescription", "value": " Brain in a Jar "}, {"op": "replace", "path": "/glitchDescription", "value": "Inveja. Um cérebro verdadeiro."}, {"op": "replace", "path": "/apexDescription", "value": "Isto é um cérebro de Apex..."}, {"op": "replace", "path": "/humanDescription", "value": "Isso é um... cérebro?"}, {"op": "replace", "path": "/avianDescription", "value": "Esse cérebro é tão grande."}, {"op": "replace", "path": "/hylotlDescription", "value": "Tolice, acreditar que a mente pode ser confinada a um frasco."}, {"op": "replace", "path": "/floranDescription", "value": "Cérebro em conserva sssuculento."}, {"op": "replace", "path": "/novakidDescription", "value": "Um cérebro em um frasco? Eu não estou confortável com isso."}]
+[
+  {
+    "op": "replace",
+    "value": "Um cérebro em um frasco.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um cérebro em um frasco? Eu não estou confortável com isso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": " Brain in a Jar ",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tolice, acreditar que a mente pode ser confinada a um frasco.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é um... cérebro?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inveja. Um cérebro verdadeiro.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cérebro em conserva sssuculento.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse cérebro é tão grande.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto é um cérebro de Apex...",
+    "path": "/apexDescription"
+  }
+]

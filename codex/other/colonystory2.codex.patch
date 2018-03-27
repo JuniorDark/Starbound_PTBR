@@ -1,17 +1,17 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "O diário de um explorador que se tornou um senhorio."
+    "value": "Como Me Tornei Um Senhorio 2",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "Como Me Tornei Um Senhorio 2"
+    "value": "De manhã eu fui saudado por uma vista espetacular do nascer do sol sobre as copas das árvores lá embaixo. Imaginei que este pequeno barraco poderia ser útil para outras pessoas que se encontrassem perdidas na mata como eu, então eu comecei a remover o mato alto e substituindo algumas vigas apodrecidas para preencher as lacunas nas paredes e pisos. Ele rapidamente se tornou um projeto de renovação muito maior, e eu a fiz de residência semi-permanente por um tempo. Essa pequena cabana começou a parecer como um verdadeiro lar longe de casa para mim, então eu decidi que ela merecia um inquilino.",
+    "path": "/contentPages/0"
   },
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "De manhã eu fui saudado por uma vista espetacular do nascer do sol sobre as copas das árvores lá embaixo. Imaginei que este pequeno barraco poderia ser útil para outras pessoas que se encontrassem perdidas na mata como eu, então eu comecei a remover o mato alto e substituindo algumas vigas apodrecidas para preencher as lacunas nas paredes e pisos. Ele rapidamente se tornou um projeto de renovação muito maior, e eu a fiz de residência semi-permanente por um tempo. Essa pequena cabana começou a parecer como um verdadeiro lar longe de casa para mim, então eu decidi que ela merecia um inquilino."
+    "value": "O diário de um explorador que se tornou um senhorio.",
+    "path": "/description"
   }
 ]

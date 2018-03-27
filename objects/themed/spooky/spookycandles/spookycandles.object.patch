@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Velas. Baixa tecnologia, e a parte mais importante em todas as culturas da história."}, {"op": "replace", "path": "/shortdescription", "value": "Spooky Candles"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não quer ficar tão perto..."}, {"op": "replace", "path": "/glitchDescription", "value": "Aprovação. Um suporte de vela de estilo tradicional."}, {"op": "replace", "path": "/humanDescription", "value": "Um suporte de vela preto. Que pitoresca."}, {"op": "replace", "path": "/avianDescription", "value": "Hmm, eu acredito que isso seria melhor dourado em vez de preto."}, {"op": "replace", "path": "/hylotlDescription", "value": "Isso provavelmente não funcionaria no fundo do mar..."}, {"op": "replace", "path": "/description", "value": "A armação de metal deste suporte de vela ondula como dedos."}, {"op": "replace", "path": "/novakidDescription", "value": "Velas - Uma boa fonte de luz se você não tiver uma lâmpada á gás."}]
+[
+  {
+    "op": "replace",
+    "value": "Um suporte de vela preto. Que pitoresca.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aprovação. Um suporte de vela de estilo tradicional.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Velas - Uma boa fonte de luz se você não tiver uma lâmpada á gás.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Velas. Baixa tecnologia, e a parte mais importante em todas as culturas da história.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não quer ficar tão perto...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hmm, eu acredito que isso seria melhor dourado em vez de preto.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Spooky Candles",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A armação de metal deste suporte de vela ondula como dedos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Isso provavelmente não funcionaria no fundo do mar...",
+    "path": "/hylotlDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma grande cômoda contemporânea."}, {"op": "replace", "path": "/glitchDescription", "value": "Contente. Uma grande cômoda."}, {"op": "replace", "path": "/shortdescription", "value": "Large Stylish Drawers"}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma grande cômoda. Um projeto sem inspiração."}, {"op": "replace", "path": "/novakidDescription", "value": "Armazenamento é sempre útil!"}, {"op": "replace", "path": "/floranDescription", "value": "Cômoda grande, boa para esconder coisass."}, {"op": "replace", "path": "/apexDescription", "value": "Uma volumosa cômoda."}, {"op": "replace", "path": "/humanDescription", "value": "Uma grande cômoda, finalmente, um lugar para todas as minhas roupas!"}, {"op": "replace", "path": "/avianDescription", "value": "Uma grande cômoda."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma volumosa cômoda.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma grande cômoda, finalmente, um lugar para todas as minhas roupas!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma grande cômoda. Um projeto sem inspiração.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma grande cômoda contemporânea.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Contente. Uma grande cômoda.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Large Stylish Drawers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cômoda grande, boa para esconder coisass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma grande cômoda.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Armazenamento é sempre útil!",
+    "path": "/novakidDescription"
+  }
+]

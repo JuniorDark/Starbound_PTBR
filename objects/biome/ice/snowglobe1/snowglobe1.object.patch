@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Leitura. De acordo com o meu tradutor, 'feito na China' esta impresso no fundo. O que isto significa?"}, {"op": "replace", "path": "/description", "value": "Um globo de neve com um boneco de neve dentro. Festivo!"}, {"op": "replace", "path": "/shortdescription", "value": "Snowman Snowglobe"}, {"op": "replace", "path": "/floranDescription", "value": "Floran quer chutar e esmagar globo de neve."}, {"op": "replace", "path": "/apexDescription", "value": "Uma esfera de vidro com um boneco de neve dentro. É adorável."}, {"op": "replace", "path": "/hylotlDescription", "value": "Isso me faz lembrar de um aquário. Mesmo os bonecos de neve  não devem ser mantidos em cativeiro."}, {"op": "replace", "path": "/avianDescription", "value": "Um boneco de neve está sepultado dentro, congelado no tempo."}, {"op": "replace", "path": "/novakidDescription", "value": "Aww, olha só aquele carinha de neve ali."}, {"op": "replace", "path": "/humanDescription", "value": "Um globo de neve com um boneco de neve dentro."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma esfera de vidro com um boneco de neve dentro. É adorável.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um globo de neve com um boneco de neve dentro. Festivo!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um boneco de neve está sepultado dentro, congelado no tempo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aww, olha só aquele carinha de neve ali.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran quer chutar e esmagar globo de neve.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um globo de neve com um boneco de neve dentro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Leitura. De acordo com o meu tradutor, 'feito na China' esta impresso no fundo. O que isto significa?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Snowman Snowglobe",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso me faz lembrar de um aquário. Mesmo os bonecos de neve  não devem ser mantidos em cativeiro.",
+    "path": "/hylotlDescription"
+  }
+]

@@ -1,22 +1,22 @@
 [
   {
     "op": "replace",
-    "path": "/contentPages/1",
-    "value": "Fiquei surpreendido, como ele não havia demonstrado interesse anterior em deixar o planeta que tinha vindo para chamar de lar. Deve ter sido todos os contos emocionantes que eu contava cada vez que vinha para recolher o aluguel e ver como está o carinha folhoso.\n\nEu gostava dele, então eu aceitei a oferta dele. Ele tem sido um médico na minha nave, mesmo entrando em campo comigo de vez em quando. Ele ainda fica enjoado quando usa um teletransportador, mas estamos trabalhando nisso."
+    "value": "Depois de algum tempo, Ambiri começou a me pedir favores. Começou pequeno, plantar vegetais estranhos e cozinhar pratos ocasionalmente. Eu estava feliz, e até mesmo construí uma pequena fazenda perto da casa, para sua conveniência. \n\nGostei muito dessas noites quentes de outono nós compartilhamos na varanda perto da fogueira crepitante. Uma noite, Ambiri anunciou que ele gostaria de se juntar a mim em minhas aventuras e ver o universo por si mesmo.",
+    "path": "/contentPages/0"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "O diário de um explorador que se tornou um senhorio."
+    "value": "Como Me Tornei Um Senhorio 6",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "Como Me Tornei Um Senhorio 6"
+    "value": "Fiquei surpreendido, como ele não havia demonstrado interesse anterior em deixar o planeta que tinha vindo para chamar de lar. Deve ter sido todos os contos emocionantes que eu contava cada vez que vinha para recolher o aluguel e ver como está o carinha folhoso.\n\nEu gostava dele, então eu aceitei a oferta dele. Ele tem sido um médico na minha nave, mesmo entrando em campo comigo de vez em quando. Ele ainda fica enjoado quando usa um teletransportador, mas estamos trabalhando nisso.",
+    "path": "/contentPages/1"
   },
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "Depois de algum tempo, Ambiri começou a me pedir favores. Começou pequeno, plantar vegetais estranhos e cozinhar pratos ocasionalmente. Eu estava feliz, e até mesmo construí uma pequena fazenda perto da casa, para sua conveniência. \n\nGostei muito dessas noites quentes de outono nós compartilhamos na varanda perto da fogueira crepitante. Uma noite, Ambiri anunciou que ele gostaria de se juntar a mim em minhas aventuras e ver o universo por si mesmo."
+    "value": "O diário de um explorador que se tornou um senhorio.",
+    "path": "/description"
   }
 ]

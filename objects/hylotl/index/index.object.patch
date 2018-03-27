@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Tantos pedacinhos de papel. Para quê?"}, {"op": "replace", "path": "/description", "value": "Um índice tradicional cheio de cartões."}, {"op": "replace", "path": "/shortdescription", "value": "Card Index"}, {"op": "replace", "path": "/glitchDescription", "value": "Divertido. Glitchs não precisam indexar nada em cartões minúsculos."}, {"op": "replace", "path": "/humanDescription", "value": "Meu coração vai para a pessoa que mantém esse fóssil."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um monumento glorioso à organização."}, {"op": "replace", "path": "/novakidDescription", "value": "Para que é essa coisa?"}, {"op": "replace", "path": "/apexDescription", "value": "Que trabalho meticuloso para manter esta coisa."}, {"op": "replace", "path": "/avianDescription", "value": "Algumas pessoas devem gostar muito de livros."}]
+[
+  {
+    "op": "replace",
+    "value": "Um monumento glorioso à organização.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um índice tradicional cheio de cartões.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Divertido. Glitchs não precisam indexar nada em cartões minúsculos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Card Index",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Meu coração vai para a pessoa que mantém esse fóssil.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas pessoas devem gostar muito de livros.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tantos pedacinhos de papel. Para quê?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que trabalho meticuloso para manter esta coisa.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para que é essa coisa?",
+    "path": "/novakidDescription"
+  }
+]

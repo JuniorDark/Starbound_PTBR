@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Observador. Uma caixa de ferramentas altamente robusta."}, {"op": "replace", "path": "/shortdescription", "value": "Red Toolbox"}, {"op": "replace", "path": "/description", "value": "Uma caixa de ferramentas de aparência muito robusta."}, {"op": "replace", "path": "/floranDescription", "value": "Caixa de ferramentas vermelha útil! Grande, pesada e faz grande arma contundente."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma caixa de ferramentas de aparência muito robusta.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Uma caixa de ferramentas altamente robusta.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Red Toolbox",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Caixa de ferramentas vermelha útil! Grande, pesada e faz grande arma contundente.",
+    "path": "/floranDescription"
+  }
+]

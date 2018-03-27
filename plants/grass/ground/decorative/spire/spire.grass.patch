@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Uma planta espinhosa em espiral."}, {"op": "replace", "path": "/shortdescription", "value": "Uma planta espinhosa em espiral."}, {"op": "replace", "path": "/floranDescription", "value": "espinhenta e espinhosa."}, {"op": "replace", "path": "/glitchDescription", "value": "Afirmação. Uma planta espinhoso torcida."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma planta espinhosa em espiral.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta espinhosa em espiral.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "espinhenta e espinhosa.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Afirmação. Uma planta espinhoso torcida.",
+    "path": "/glitchDescription"
+  }
+]

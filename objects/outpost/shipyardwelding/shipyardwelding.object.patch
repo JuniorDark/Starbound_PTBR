@@ -1,1 +1,62 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Um pinguim com um maçarico... Eu me sinto um pouco inseguro."}, {"op": "replace", "path": "/glitchDescription", "value": "Fascinado. Eu me pergunto o que esse pinguim esta fazendo?"}, {"op": "replace", "path": "/description", "value": "Ele parece ocupado."}, {"op": "replace", "path": "/chatOptions/0", "value": "Desculpe camarada, se o capitão me ver conversando em vez de trabalhar, ele vai torcer meu pescoço!"}, {"op": "replace", "path": "/chatOptions/1", "value": "Eu estou meio ocupado aqui. Se você tem uma pergunta, vá falar com o negociante."}, {"op": "replace", "path": "/chatOptions/2", "value": "Se você estiver interessado em qualquer uma dessas peças, vá falar com o nosso revendedor."}, {"op": "replace", "path": "/floranDescription", "value": "Este pinguim é minussculo."}, {"op": "replace", "path": "/apexDescription", "value": "Eu não posso dizer se ele está construindo ou desmontando esse objeto."}, {"op": "replace", "path": "/humanDescription", "value": "Aposto que esse pinguim teve problemas pra subir naquela escada."}, {"op": "replace", "path": "/hylotlDescription", "value": "Me deixa nervoso ver um pinguim em uma escada com um maçarico."}, {"op": "replace", "path": "/novakidDescription", "value": "Este pinguim pequeno está tramando alguma coisa."}, {"op": "replace", "path": "/shortdescription", "value": "Welding Penguin"}]
+[
+  {
+    "op": "replace",
+    "value": "Um pinguim com um maçarico... Eu me sinto um pouco inseguro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fascinado. Eu me pergunto o que esse pinguim esta fazendo?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ele parece ocupado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Aposto que esse pinguim teve problemas pra subir naquela escada.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não posso dizer se ele está construindo ou desmontando esse objeto.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu estou meio ocupado aqui. Se você tem uma pergunta, vá falar com o negociante.",
+    "path": "/chatOptions/1"
+  },
+  {
+    "op": "replace",
+    "value": "Se você estiver interessado em qualquer uma dessas peças, vá falar com o nosso revendedor.",
+    "path": "/chatOptions/2"
+  },
+  {
+    "op": "replace",
+    "value": "Me deixa nervoso ver um pinguim em uma escada com um maçarico.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desculpe camarada, se o capitão me ver conversando em vez de trabalhar, ele vai torcer meu pescoço!",
+    "path": "/chatOptions/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este pinguim é minussculo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este pinguim pequeno está tramando alguma coisa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Welding Penguin",
+    "path": "/shortdescription"
+  }
+]

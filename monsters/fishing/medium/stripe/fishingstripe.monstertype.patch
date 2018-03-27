@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "As listras cinzas em seu corpo camuflar-lo contra a crosta rígida da superfície do magma."}, {"op": "replace", "path": "/shortdescription", "value": "Orange Ashlet"}]
+[
+  {
+    "op": "replace",
+    "value": "Orange Ashlet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "As listras cinzas em seu corpo camuflar-lo contra a crosta rígida da superfície do magma.",
+    "path": "/description"
+  }
+]

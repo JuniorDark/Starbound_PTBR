@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Crystal Glass"}, {"op": "replace", "path": "/hylotlDescription", "value": "Cristal requer dedos habilidosos para moldar assim."}, {"op": "replace", "path": "/avianDescription", "value": "Os Avian não tem um método para moldar o cristal desta maneira."}, {"op": "replace", "path": "/floranDescription", "value": "Cheiro nojento de fruta no interior."}, {"op": "replace", "path": "/glitchDescription", "value": "Analítico. O vidro parece ter contido um suco de fruta."}, {"op": "replace", "path": "/apexDescription", "value": "Um copo de suco. Tais sucos foram banidos na proibição."}, {"op": "replace", "path": "/humanDescription", "value": "O cheiro me lembra de sucos de frutas tropicais."}, {"op": "replace", "path": "/description", "value": "Um cheiro suave de suco de fruta persiste."}, {"op": "replace", "path": "/novakidDescription", "value": "Um copo chique para bebidas chiques eu acho."}]
+[
+  {
+    "op": "replace",
+    "value": "Um copo chique para bebidas chiques eu acho.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um copo de suco. Tais sucos foram banidos na proibição.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um cheiro suave de suco de fruta persiste.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Analítico. O vidro parece ter contido um suco de fruta.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Crystal Glass",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cristal requer dedos habilidosos para moldar assim.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Avian não tem um método para moldar o cristal desta maneira.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aroma nojento de frutass dentro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O cheiro me lembra de sucos de frutas tropicais.",
+    "path": "/humanDescription"
+  }
+]

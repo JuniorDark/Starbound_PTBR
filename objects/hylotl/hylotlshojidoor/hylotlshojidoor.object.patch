@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Esta porta não parece segura. Eu poderia fazer um buraco com meu dedo."}, {"op": "replace", "path": "/description", "value": "Uma porta de tela shoji."}, {"op": "replace", "path": "/shortdescription", "value": "Traditional Shoji Door"}, {"op": "replace", "path": "/floranDescription", "value": "Uma vez, Floran caiu através de porta como esssta."}, {"op": "replace", "path": "/glitchDescription", "value": "Crítico. Esta porta é simplesmente perfeita se você abomina a privacidade."}, {"op": "replace", "path": "/apexDescription", "value": "Uma porta simples. Serve a sua finalidade."}, {"op": "replace", "path": "/humanDescription", "value": "Uma porta frágil. Não é muito bom em manter qualquer coisa pra fora."}, {"op": "replace", "path": "/avianDescription", "value": "Uma porta decente que deixa muita luz entrar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os contornos e a construção desta porta permitem um movimento de abertura perfeitamente suave."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta decente que deixa muita luz entrar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta frágil. Não é muito bom em manter qualquer coisa pra fora.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta de tela shoji.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta simples. Serve a sua finalidade.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Crítico. Esta porta é simplesmente perfeita se você abomina a privacidade.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma vez, Floran caiu através de porta como esssta.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os contornos e a construção desta porta permitem um movimento de abertura perfeitamente suave.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta não parece segura. Eu poderia fazer um buraco com meu dedo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Traditional Shoji Door",
+    "path": "/shortdescription"
+  }
+]

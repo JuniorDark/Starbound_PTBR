@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um leve ensopado que desce fácil."}, {"op": "replace", "path": "/shortdescription", "value": "Fish Stew"}]
+[
+  {
+    "op": "replace",
+    "value": "Um leve ensopado que desce fácil.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Fish Stew",
+    "path": "/shortdescription"
+  }
+]

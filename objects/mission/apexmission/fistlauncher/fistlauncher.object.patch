@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Este dispositivo é meticulosamente projetado para lançar punhos com muita força"}, {"op": "replace", "path": "/shortdescription", "value": "Fist Launcher"}]
+[
+  {
+    "op": "replace",
+    "value": "Fist Launcher",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este dispositivo é meticulosamente projetado para lançar punhos com muita força",
+    "path": "/description"
+  }
+]

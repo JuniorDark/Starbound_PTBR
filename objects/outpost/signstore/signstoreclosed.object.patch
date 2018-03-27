@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Este seria um lugar agradável para uma tenda."}, {"op": "replace", "path": "/shortdescription", "value": "Closed Sign Store"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não sabe o que será ate que esteja aberto."}, {"op": "replace", "path": "/glitchDescription", "value": "Animado. A placa acesa nesta tenda diz que vai abrir em breve!"}, {"op": "replace", "path": "/apexDescription", "value": "A placa diz que a tenda vai abrir em breve."}, {"op": "replace", "path": "/humanDescription", "value": "Esta é uma tenda de aparência curiosa. Eu me pergunto qual é o propósito?"}, {"op": "replace", "path": "/avianDescription", "value": "Eu me pergunto o que será quando estiver aberto."}, {"op": "replace", "path": "/hylotlDescription", "value": "O lado desta tensa é pintado com a marca dos Hylotl."}, {"op": "replace", "path": "/novakidDescription", "value": "Que tenda curiosa."}]
+[
+  {
+    "op": "replace",
+    "value": "Este seria um lugar agradável para uma tenda.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Closed Sign Store",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. A placa acesa nesta tenda diz que vai abrir em breve!",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não sabe o que será ate que esteja aberto.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto o que será quando estiver aberto.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A placa diz que a tenda vai abrir em breve.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O lado desta tensa é pintado com a marca dos Hylotl.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é uma tenda de aparência curiosa. Eu me pergunto qual é o propósito?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que tenda curiosa.",
+    "path": "/novakidDescription"
+  }
+]

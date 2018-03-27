@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Seus longos bigodes caídos crescem continuamente. Eles eventualmente podem exceder o comprimento do seu corpo."}, {"op": "replace", "path": "/shortdescription", "value": "Whiskered Chub"}]
+[
+  {
+    "op": "replace",
+    "value": "Seus longos bigodes caídos crescem continuamente. Eles eventualmente podem exceder o comprimento do seu corpo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Whiskered Chub",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Uma mesa de durasteel boa."}, {"op": "replace", "path": "/hylotlDescription", "value": "Normalmente não é meu tipo de mesa, mas isso é bastante impressionante."}, {"op": "replace", "path": "/avianDescription", "value": "Uma mesa de durasteel imensamente resistente."}, {"op": "replace", "path": "/humanDescription", "value": "Uma mesa de durasteel legal."}, {"op": "replace", "path": "/apexDescription", "value": "Esta mesa de durasteel é muito elegante."}, {"op": "replace", "path": "/glitchDescription", "value": "Aprovação. Uma mesa de durasteel muito bem feita."}, {"op": "replace", "path": "/floranDescription", "value": "Mesa boa o suficiente para Floran fatiar carnesss."}, {"op": "replace", "path": "/shortdescription", "value": "Durasteel Table"}, {"op": "replace", "path": "/description", "value": "Uma mesa de durasteel sólida."}]
+[
+  {
+    "op": "replace",
+    "value": "Normalmente não é meu tipo de mesa, mas isso é bastante impressionante.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mesa boa o suficiente para Floran fatiar carnesss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa de durasteel legal.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa de durasteel boa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa de durasteel sólida.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa de durasteel imensamente resistente.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aprovação. Uma mesa de durasteel muito bem feita.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Durasteel Table",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa de durasteel é muito elegante.",
+    "path": "/apexDescription"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/contentPages/0", "value": "Estamos o chamando de Horror de Erchius. Fomos aprisionados aqui com ele desde que a instalação entrou em bloqueio, e acredite em mim, 'Horror' descreve sua natureza perfeitamente.\n\nNós o encontramos em uma vala profunda de cristal Erchius, e ao descobrir a coisa despertou. No começo pensamos que era um cristal sensível, mas um ataque desesperado com um canhão laser de mineração foi descoberto um único olho, que não pisca dentro."}, {"op": "replace", "path": "/contentPages/2", "value": "Um pensamento perturbador ocorre - Esta coisa PODERIA ser um parasita, mas quem pode dizer que criaturas como esta não são em vez disso a fonte dos cristais? Talvez nunca saibamos com certeza, mas espero pelo bem de todos que essa praga não deixe essa lua condenada."}, {"op": "replace", "path": "/contentPages/1", "value": "Ele disparou raios de plasma abrasadores em nós, destruindo a maioria de nossos equipamentos. Atacar de perto era impossível, aqueles que se aproximavam demais foram atraídos para dentro, transformados em criados mutantes para o monstro. Nós fugimos, e os mutantes nos seguiram.\n\nO canhão de laser foi deixado intacto. Talvez uma alma mais corajosa poderia voltar e usá-lo para destruir a criatura. Eles teriam que ser ágeis o bastante para driblar seus raios, e fortes o suficiente para derrotar seus lacaios corrompidos. Eu não tenho mais forças para lutar."}, {"op": "replace", "path": "/description", "value": "O diário de um mineiro empregado da Letheia preso com o Horror."}, {"op": "replace", "path": "/title", "value": "O Horror de Erchius"}]
+[
+  {
+    "op": "replace",
+    "value": "Um pensamento perturbador ocorre - Esta coisa PODERIA ser um parasita, mas quem pode dizer que criaturas como esta não são em vez disso a fonte dos cristais? Talvez nunca saibamos com certeza, mas espero pelo bem de todos que essa praga não deixe essa lua condenada.",
+    "path": "/contentPages/2"
+  },
+  {
+    "op": "replace",
+    "value": "Ele disparou raios de plasma abrasadores em nós, destruindo a maioria de nossos equipamentos. Atacar de perto era impossível, aqueles que se aproximavam demais foram atraídos para dentro, transformados em criados mutantes para o monstro. Nós fugimos, e os mutantes nos seguiram.\n\nO canhão de laser foi deixado intacto. Talvez uma alma mais corajosa poderia voltar e usá-lo para destruir a criatura. Eles teriam que ser ágeis o bastante para driblar seus raios, e fortes o suficiente para derrotar seus lacaios corrompidos. Eu não tenho mais forças para lutar.",
+    "path": "/contentPages/1"
+  },
+  {
+    "op": "replace",
+    "value": "O Horror de Erchius",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "O diário de um mineiro empregado da Letheia preso com o Horror.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estamos o chamando de Horror de Erchius. Fomos aprisionados aqui com ele desde que a instalação entrou em bloqueio, e acredite em mim, 'Horror' descreve sua natureza perfeitamente.\n\nNós o encontramos em uma vala profunda de cristal Erchius, e ao descobrir a coisa despertou. No começo pensamos que era um cristal sensível, mas um ataque desesperado com um canhão laser de mineração foi descoberto um único olho, que não pisca dentro.",
+    "path": "/contentPages/0"
+  }
+]

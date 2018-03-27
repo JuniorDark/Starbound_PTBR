@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Este moinho de vento aqui ajuda a mostrar a força e o ângulo dos ventos soprando."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta hélice giratória pode me informar em que direção o vento está soprando."}, {"op": "replace", "path": "/shortdescription", "value": "Frontier Windmill"}, {"op": "replace", "path": "/description", "value": "Um moinho de vento de latão, madeira e cobre, que gira na direção do vento."}, {"op": "replace", "path": "/floranDescription", "value": "Floran se pergunta se hélice poderia ser arma eficaz..."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. A hélice neste moinho de vento parece indicar a direção que o vento está soprando."}, {"op": "replace", "path": "/apexDescription", "value": "Este moinho de vento simples girará na direção do vento soprando. Um indicador útil."}, {"op": "replace", "path": "/humanDescription", "value": "Esta coisa velha tem uma hélice que gira na direção do vento. Legal!"}, {"op": "replace", "path": "/avianDescription", "value": "A hélice neste moinho de vento pode me dizer a direção que o vento está soprando!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um moinho de vento de latão, madeira e cobre, que gira na direção do vento.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran se pergunta se hélice poderia ser arma eficaz...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Frontier Windmill",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. A hélice neste moinho de vento parece indicar a direção que o vento está soprando.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A hélice neste moinho de vento pode me dizer a direção que o vento está soprando!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este moinho de vento aqui ajuda a mostrar a força e o ângulo dos ventos soprando.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta coisa velha tem uma hélice que gira na direção do vento. Legal!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este moinho de vento simples girará na direção do vento soprando. Um indicador útil.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta hélice giratória pode me informar em que direção o vento está soprando.",
+    "path": "/hylotlDescription"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um bloco feito de matéria vegetal."}, {"op": "replace", "path": "/shortdescription", "value": "Plant Block"}]
+[
+  {
+    "op": "replace",
+    "value": "Um bloco feito de matéria vegetal.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Fascinado. Este bloco é completamente construído a partir de matéria vegetal.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran sente parentesco com este bloco de planta.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me parece um bloco feito de plantas.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plant Block",
+    "path": "/shortdescription"
+  }
+]

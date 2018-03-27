@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um armário contendo quem sabe o quê?"}, {"op": "replace", "path": "/apexDescription", "value": "Um armário."}, {"op": "replace", "path": "/humanDescription", "value": "Um armário."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um armário."}, {"op": "replace", "path": "/shortdescription", "value": "Metal Cabinet"}, {"op": "replace", "path": "/floranDescription", "value": "Um armário para guardar coisass dentro."}, {"op": "replace", "path": "/avianDescription", "value": "Um armário de aparência interessante."}, {"op": "replace", "path": "/novakidDescription", "value": "Um armário básico. Algo dentro?"}, {"op": "replace", "path": "/glitchDescription", "value": "Interessado. Gostaria de saber o que está dentro deste armário?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um armário básico. Algo dentro?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário contendo quem sabe o quê?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário para guardar coisass dentro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário de aparência interessante.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Gostaria de saber o que está dentro deste armário?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Metal Cabinet",
+    "path": "/shortdescription"
+  }
+]

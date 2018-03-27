@@ -1,1 +1,32 @@
-[{"op": "replace", "path": "/contentPages/2", "value": "Infelizmente para Cliphinge ele morreu logo depois, não deixando herdeiros.\n\nEntão a terra passou para a família Washerplate... Quem prontamente perdeu para casa Locknut. Quem caiu rapidamente para o Flyheads. Logo derrubado pelos Fanclips. E assim por diante, infinitamente.\n\nDeve-se notar que apesar da agitação que assola seus escalões superiores, o proletariado permanece firmemente imperturbável (até o ponto de indiferença)."}, {"op": "replace", "path": "/contentPages/3", "value": "Eles simplesmente foram cuidar de seus negócios, como é a intenção de sua programação."}, {"op": "replace", "path": "/description", "value": "Uma história de intriga dinástica Glitch."}, {"op": "replace", "path": "/title", "value": "Maquinações Mecânicas"}, {"op": "replace", "path": "/contentPages/0", "value": "Ao longo da história, o fluxo e o movimento de facções mutantes tem dominado os mantos e os castelos do Glitch.\n\nA primeira família Glitch a governar nesta província foram os nobres Wirebits, que duraram várias gerações.\n\nEm seguida, Se para estender a sua influência, eles casaram seu então herdeiro, Pluglock Wirebit, para o renomado e belo Valvepin Leadkey."}, {"op": "replace", "path": "/contentPages/1", "value": "Tristemente, Leadkey provou ser uma rosa cheia de espinhos, e disputa pelo matrimônio logo foi devolvida dentro e fora da guerra entre as duas casas. Depois de muita rixa, Leadkeys foram vitoriosos.\n\nNo entanto, a regra dos Leadkeys não durou muito tempo; Um notório senhor do norte, Hexkey Cliphinge, vinha observando e conspirando.\n\nEnquanto os Leadkeys ainda estavam esgotados do turbilhão Wirebit, Cliphinge se abateu e facilmente os empurrou para fora."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma história de intriga dinástica Glitch.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Maquinações Mecânicas",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Tristemente, Leadkey provou ser uma rosa cheia de espinhos, e disputa pelo matrimônio logo foi devolvida dentro e fora da guerra entre as duas casas. Depois de muita rixa, Leadkeys foram vitoriosos.\n\nNo entanto, a regra dos Leadkeys não durou muito tempo; Um notório senhor do norte, Hexkey Cliphinge, vinha observando e conspirando.\n\nEnquanto os Leadkeys ainda estavam esgotados do turbilhão Wirebit, Cliphinge se abateu e facilmente os empurrou para fora.",
+    "path": "/contentPages/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eles simplesmente foram cuidar de seus negócios, como é a intenção de sua programação.",
+    "path": "/contentPages/3"
+  },
+  {
+    "op": "replace",
+    "value": "Ao longo da história, o fluxo e o movimento de facções mutantes tem dominado os mantos e os castelos do Glitch.\n\nA primeira família Glitch a governar nesta província foram os nobres Wirebits, que duraram várias gerações.\n\nEm seguida, Se para estender a sua influência, eles casaram seu então herdeiro, Pluglock Wirebit, para o renomado e belo Valvepin Leadkey.",
+    "path": "/contentPages/0"
+  },
+  {
+    "op": "replace",
+    "value": "Infelizmente para Cliphinge ele morreu logo depois, não deixando herdeiros.\n\nEntão a terra passou para a família Washerplate... Quem prontamente perdeu para casa Locknut. Quem caiu rapidamente para o Flyheads. Logo derrubado pelos Fanclips. E assim por diante, infinitamente.\n\nDeve-se notar que apesar da agitação que assola seus escalões superiores, o proletariado permanece firmemente imperturbável (até o ponto de indiferença).",
+    "path": "/contentPages/2"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Mysterious Chestpiece"}, {"op": "replace", "path": "/description", "value": "Uma peça de armadura feita de um material misterioso."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma peça de armadura feita de um material misterioso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Mysterious Chestpiece",
+    "path": "/shortdescription"
+  }
+]

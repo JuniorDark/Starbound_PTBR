@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Estridente e barulhenta, esta buzina é perfeita para irritantemente anunciar sua presença."
+    "value": "Estridente e barulhenta, esta buzina é perfeita para irritantemente anunciar sua presença.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Sports Mech Horn",
+    "path": "/shortdescription"
   }
 ]

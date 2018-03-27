@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Fedida!"}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Uma planta com cheiro podre."}, {"op": "replace", "path": "/description", "value": "Uma planta sulfurosa. Isso cheira."}, {"op": "replace", "path": "/shortdescription", "value": "Uma planta de enxofre."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma planta de enxofre.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta sulfurosa. Isso cheira.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Fedida!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Uma planta com cheiro podre.",
+    "path": "/glitchDescription"
+  }
+]

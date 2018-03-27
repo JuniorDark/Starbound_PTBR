@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Uma mensagem de advertência complicada, nunca chega a um ponto."}, {"op": "replace", "path": "/apexDescription", "value": "Está me avisando de algo, mas não sei bem o que..."}, {"op": "replace", "path": "/humanDescription", "value": "Aviso esquemático."}, {"op": "replace", "path": "/avianDescription", "value": "Não sei o que fazer com este aviso."}, {"op": "replace", "path": "/novakidDescription", "value": "Não sei o que fazer com este chamado \"aviso\"."}, {"op": "replace", "path": "/description", "value": "É um aviso para quem se importa em lê-lo."}, {"op": "replace", "path": "/shortdescription", "value": "Warning Poster"}, {"op": "replace", "path": "/floranDescription", "value": "Algum tipo de aviso."}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. Não tenho certeza do que este placa está me avisando."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma mensagem de advertência complicada, nunca chega a um ponto.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não sei o que fazer com este chamado \"aviso\".",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Não tenho certeza do que este placa está me avisando.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não sei o que fazer com este aviso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um aviso para quem se importa em lê-lo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Está me avisando de algo, mas não sei bem o que...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de aviso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Warning Poster",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aviso esquemático.",
+    "path": "/humanDescription"
+  }
+]

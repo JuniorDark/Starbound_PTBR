@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Calças forrada de durasteel, acompanhada por botas pesadas. Elegante e prática - viva a revolução!"}, {"op": "replace", "path": "/shortdescription", "value": "Revolutionary's Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Calças forrada de durasteel, acompanhada por botas pesadas. Elegante e prática - viva a revolução!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Revolutionary's Trousers",
+    "path": "/shortdescription"
+  }
+]

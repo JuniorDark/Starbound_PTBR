@@ -1,22 +1,22 @@
 [
   {
     "op": "replace",
-    "path": "/contentPages/1",
-    "value": "Um plano foi necessário. Um plano que o rei não iria questionar. Finalmente foi encontrado uma solução; os Glitch iriam hospedar um desfile."
+    "value": "Um plano foi necessário. Um plano que o rei não iria questionar. Finalmente foi encontrado uma solução; os Glitch iriam hospedar um desfile.",
+    "path": "/contentPages/1"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um conto folclórico Glitch."
+    "value": "Os ferreiros Glitch trabalharam dia e noite para criar um exército adequado para o seu senhor Dreadwing. Claro, este exército não lutava, ou até mesmo se movia, mas parecia realmente grande em determinados ângulos.\n\nEventualmente, porém, os ferreiros saíram da sala, e perceberam que portanto, tinha chegado a hora de revelar o seu exército falso. Isto os coloca em um problema. Claro que o exército não era capaz de marchar ao castelo de Dreadwing, nem mesmo marchar em qualquer outro lugar.",
+    "path": "/contentPages/0"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "O Que Queria Ser Rei Parte 4"
+    "value": "O Que Queria Ser Rei Parte 4",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "Os ferreiros Glitch trabalharam dia e noite para criar um exército adequado para o seu senhor Dreadwing. Claro, este exército não lutava, ou até mesmo se movia, mas parecia realmente grande em determinados ângulos.\n\nEventualmente, porém, os ferreiros saíram da sala, e perceberam que portanto, tinha chegado a hora de revelar o seu exército falso. Isto os coloca em um problema. Claro que o exército não era capaz de marchar ao castelo de Dreadwing, nem mesmo marchar em qualquer outro lugar."
+    "value": "Um conto folclórico Glitch.",
+    "path": "/description"
   }
 ]

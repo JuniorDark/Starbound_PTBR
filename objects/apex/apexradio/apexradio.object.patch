@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "O rádio está ligado, mas em silêncio."}, {"op": "replace", "path": "/shortdescription", "value": "Standard Issue Radio"}, {"op": "replace", "path": "/floranDescription", "value": "Dispositivo falante de longo alcance."}, {"op": "replace", "path": "/avianDescription", "value": "Parece ser um rádio. Rádios Avian fazer uso de ressonância de cristal."}, {"op": "replace", "path": "/hylotlDescription", "value": "Silêncio..."}, {"op": "replace", "path": "/glitchDescription", "value": "Interessado. Um rádio, atualmente sem sinal."}, {"op": "replace", "path": "/humanDescription", "value": "O botão de sintonia está preso em um ponto."}, {"op": "replace", "path": "/novakidDescription", "value": "Não parece estar funcionando."}, {"op": "replace", "path": "/apexDescription", "value": "Em casa, esses rádios são usados principalmente para anúncios da Miniknog. Por um tempo a resistência conseguiu executar uma estação de rádio pirata."}]
+[
+  {
+    "op": "replace",
+    "value": "Em casa, esses rádios são usados principalmente para anúncios da Miniknog. Por um tempo a resistência conseguiu executar uma estação de rádio pirata.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Um rádio, atualmente sem sinal.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece ser um rádio. Rádios Avian fazer uso de ressonância de cristal.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não parece estar funcionando.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dispositivo falante de longo alcance.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Silêncio...",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Standard Issue Radio",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O rádio está ligado, mas em silêncio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "O botão de sintonia está preso em um ponto.",
+    "path": "/humanDescription"
+  }
+]

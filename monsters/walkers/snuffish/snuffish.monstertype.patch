@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Snuffish"}, {"op": "replace", "path": "/description", "value": "Eles atacam qualquer um que os surpreende, e eles são facilmente surpreendidos."}]
+[
+  {
+    "op": "replace",
+    "value": "Snuffish",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eles atacam qualquer um que os surpreende, e eles são facilmente surpreendidos.",
+    "path": "/description"
+  }
+]

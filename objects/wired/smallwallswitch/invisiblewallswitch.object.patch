@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "...",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Invisible Wall Switch",
+    "path": "/shortdescription"
+  }
+]

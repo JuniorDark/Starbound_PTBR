@@ -1,32 +1,32 @@
 [
   {
     "op": "replace",
-    "path": "/contentPages/1",
-    "value": "- Não se preocupe em ser deixado em sua nave sozinho, isso não vai acontecer a qualquer hora. Haverá sempre pelo menos três membros da tripulação a bordo de modo que você possa ajudar e apoiar-se mutuamente.\n\n- Cada nave está equipada com um SAIL. Como você deve saber, a IA é uma fonte útil de informação, especialmente quando temperado pela garantia de seus companheiros de tripulação.\n\n- NUNCA DESÇA PARA UM PLANETA QUE VOCÊ NÃO RECONHECE."
+    "value": "- Sempre equipe-se para o clima e nível de ameaça do planeta que você vai visitar. Você será informado pelo seu capitão antes de sair da nave e será capaz de discutir as preocupações, se você tiver qualquer, sobre o novo ambiente. Embora você será emitido com todo o equipamento necessário lembre-se: sempre há perigos incalculáveis.\n\n- Sempre use o seu uniforme do Protetorado Terreno, isso vai permitir que qualquer pessoa que você encontre o identifique como um membro do Protetorado.",
+    "path": "/contentPages/2"
   },
   {
     "op": "replace",
-    "path": "/contentPages/2",
-    "value": "- Sempre equipe-se para o clima e nível de ameaça do planeta que você vai visitar. Você será informado pelo seu capitão antes de sair da nave e será capaz de discutir as preocupações, se você tiver qualquer, sobre o novo ambiente. Embora você será emitido com todo o equipamento necessário lembre-se: sempre há perigos incalculáveis.\n\n- Sempre use o seu uniforme do Protetorado Terreno, isso vai permitir que qualquer pessoa que você encontre o identifique como um membro do Protetorado."
+    "value": "- Não se preocupe em ser deixado em sua nave sozinho, isso não vai acontecer a qualquer hora. Haverá sempre pelo menos três membros da tripulação a bordo de modo que você possa ajudar e apoiar-se mutuamente.\n\n- Cada nave está equipada com um SAIL. Como você deve saber, a IA é uma fonte útil de informação, especialmente quando temperado pela garantia de seus companheiros de tripulação.\n\n- NUNCA DESÇA PARA UM PLANETA QUE VOCÊ NÃO RECONHECE.",
+    "path": "/contentPages/1"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Este livro foi fornecido para oferecer alguns conselhos úteis para Protetores recém-formados."
+    "value": "- Ajude os necessitados. Tente o seu melhor para defender os inocentes sempre que possível, mas não entre em combate acima do seu nível. Chame por reforços quando você precisar dele.\n\nE lembre-se, graduado - onde quer que vá, você sempre terá a Terra para vir para casa.",
+    "path": "/contentPages/3"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "Guia de Campo do Protetorado Terreno"
+    "value": "Guia de Campo do Protetorado Terreno",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "Bem-vindo, novo Protetor(a)!\n\nA primeira coisa que gostaria de dizer é 'não entre em pânico' - você tem treinado para esta posição por anos, e você não teria se formado se você não ganhasse a distinção de fazê-lo.\n\nDicas úteis para ajudá-lo manter a calma:\n- Seu comandante não está lá apenas para dar ordens, mas também para orientar e apoiá-lo. Utilize este apoio e você vai rapidamente familiarizar-se."
+    "value": "Este livro foi fornecido para oferecer alguns conselhos úteis para Protetores recém-formados.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/contentPages/3",
-    "value": "- Ajude os necessitados. Tente o seu melhor para defender os inocentes sempre que possível, mas não entre em combate acima do seu nível. Chame por reforços quando você precisar dele.\n\nE lembre-se, graduado - onde quer que vá, você sempre terá a Terra para vir para casa."
+    "value": "Bem-vindo, novo Protetor(a)!\n\nA primeira coisa que gostaria de dizer é 'não entre em pânico' - você tem treinado para esta posição por anos, e você não teria se formado se você não ganhasse a distinção de fazê-lo.\n\nDicas úteis para ajudá-lo manter a calma:\n- Seu comandante não está lá apenas para dar ordens, mas também para orientar e apoiá-lo. Utilize este apoio e você vai rapidamente familiarizar-se.",
+    "path": "/contentPages/0"
   }
 ]

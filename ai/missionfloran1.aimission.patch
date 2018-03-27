@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/speciesText/default/selectSpeech/text", "value": "A pesquisa de Esther concluiu que esta é a provável localização do Artefato Floran."}, {"op": "replace", "path": "/speciesText/default/buttonText", "value": "As Cavernas Cerimoniais de Caça"}, {"op": "replace", "path": "/speciesText/default/repeatButtonText", "value": "Revisite As Cavernas Cerimoniais de Caça"}]
+[
+  {
+    "op": "replace",
+    "value": "A pesquisa de Esther concluiu que esta é a provável localização do Artefato Floran.",
+    "path": "/speciesText/default/selectSpeech/text"
+  },
+  {
+    "op": "replace",
+    "value": "Revisite As Cavernas Cerimoniais de Caça",
+    "path": "/speciesText/default/repeatButtonText"
+  },
+  {
+    "op": "replace",
+    "value": "As Cavernas Cerimoniais de Caça",
+    "path": "/speciesText/default/buttonText"
+  }
+]

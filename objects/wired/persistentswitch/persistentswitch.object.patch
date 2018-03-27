@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Uma vez acionado, este interruptor permanecerá no seu essstado de comutação."}, {"op": "replace", "path": "/description", "value": "Uma vez acionado, este interruptor permanecerá no seu estado de comutação."}, {"op": "replace", "path": "/shortdescription", "value": "Persistent Switch"}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Uma vez acionado, este interruptor permanecerá no seu estado de comutação."}]
+[
+  {
+    "op": "replace",
+    "value": "Neutro. Uma vez acionado, este interruptor permanecerá no seu estado de comutação.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma vez acionado, este interruptor permanecerá no seu essstado de comutação.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma vez acionado, este interruptor permanecerá no seu estado de comutação.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Persistent Switch",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma estrutura de pedra perfeita para jardins zen alienígenas."}, {"op": "replace", "path": "/shortdescription", "value": "Zen Rock"}, {"op": "replace", "path": "/floranDescription", "value": "Pedra."}, {"op": "replace", "path": "/glitchDescription", "value": "Atento. É uma pedra limpa."}, {"op": "replace", "path": "/apexDescription", "value": "Simplesmente uma pedra."}, {"op": "replace", "path": "/humanDescription", "value": " Um belo monte de pedra."}, {"op": "replace", "path": "/avianDescription", "value": "Uma pedra elegante."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma pedra pacífica. Olhando para ela me faz sentir-se calmo."}, {"op": "replace", "path": "/novakidDescription", "value": "Isso é uma pedra."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pedra pacífica. Olhar para ela me faz sentir-me calmo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": " Um belo monte de pedra.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estrutura de pedra perfeita para jardins zen alienígenas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pedra com aparência elegante.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. É uma pedra de aparência limpa.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Simplesmente uma pedra.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedra.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é uma pedra.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Zen Rock",
+    "path": "/shortdescription"
+  }
+]

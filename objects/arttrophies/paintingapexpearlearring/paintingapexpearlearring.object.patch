@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Esta Apex parece estar olhando por cima do ombro."}, {"op": "replace", "path": "/apexDescription", "value": "Uma obra-prima, mas esta Apex parece estar vestindo roupas humanas."}, {"op": "replace", "path": "/humanDescription", "value": "Esta pintura parece familiar, mas de algum modo me incomoda."}, {"op": "replace", "path": "/description", "value": "Um retrato de uma Apex com um brinco."}, {"op": "replace", "path": "/shortdescription", "value": "Subtle Ape Painting"}, {"op": "replace", "path": "/floranDescription", "value": "Apex olhando sobre o ombro, sssurpreso!"}, {"op": "replace", "path": "/glitchDescription", "value": "Atento. O estilo desta pintura não parece corresponder à sua idade."}, {"op": "replace", "path": "/hylotlDescription", "value": "Técnica bonita, mas não sei sobre o tema principal."}, {"op": "replace", "path": "/novakidDescription", "value": "Bela pintura, mas é uma mulher estranha."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma obra-prima, mas esta Apex parece estar vestindo roupas humanas.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um retrato de uma Apex com um brinco.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Apex olhando sobre o ombro, sssurpreso!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Técnica bonita, mas não sei sobre o tema principal.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bela pintura, mas é uma mulher estranha.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. O estilo desta pintura não parece corresponder à sua idade.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Subtle Ape Painting",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta Apex parece estar olhando por cima do ombro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta pintura parece familiar, mas de algum modo me incomoda.",
+    "path": "/humanDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Standard Issue Wall Panel"}, {"op": "replace", "path": "/glitchDescription", "value": "Não impressionado. Painel de madeira sem sentido. "}, {"op": "replace", "path": "/avianDescription", "value": "O que isso está escondendo?"}, {"op": "replace", "path": "/description", "value": "É apenas um painel de parede."}, {"op": "replace", "path": "/apexDescription", "value": "Um painel de madeira. Estes aparecem em um monte de casas Apex."}, {"op": "replace", "path": "/hylotlDescription", "value": "Isto é puramente decorativo ou tem alguma finalidade?"}, {"op": "replace", "path": "/floranDescription", "value": "Decoração inútil."}, {"op": "replace", "path": "/humanDescription", "value": "Aposto que você poderia esconder um microfone atrás de um destes."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta madeira é tão frágil como um par de botas de uma loja de dez centavos."}]
+[
+  {
+    "op": "replace",
+    "value": "Um painel de madeira. Estes aparecem em um monte de casas Apex.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aposto que você poderia esconder um microfone atrás de um destes.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto é puramente decorativo ou tem alguma finalidade?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É apenas um painel de parede.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Decoração inútil.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Standard Issue Wall Panel",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta madeira é tão frágil como um par de botas de uma loja de dez centavos.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não impressionado. Painel de madeira sem sentido. ",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que isso está escondendo?",
+    "path": "/avianDescription"
+  }
+]

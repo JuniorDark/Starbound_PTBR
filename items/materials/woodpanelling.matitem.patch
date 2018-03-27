@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Wood Panelling"}, {"op": "replace", "path": "/description", "value": "Este painel de madeira estava na moda numa era distante."}]
+[
+  {
+    "op": "replace",
+    "value": "Confuso. Parece que estes painéis de madeira são decorativos.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Painéiss estranhos de madeira para decoração.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este painéis de madeira estavam na moda em uma era distante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Wood Panelling",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Painéis de madeira, é assim que você sabe que esse lugar é chique.",
+    "path": "/novakiddescription"
+  }
+]

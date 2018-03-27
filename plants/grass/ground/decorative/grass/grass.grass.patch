@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Grama. Só grama."}, {"op": "replace", "path": "/shortdescription", "value": "Grama. "}, {"op": "replace", "path": "/floranDescription", "value": "Grama legal."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Grama."}]
+[
+  {
+    "op": "replace",
+    "value": "Grama. ",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grama. Só grama.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Grama legal.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Grama.",
+    "path": "/glitchDescription"
+  }
+]

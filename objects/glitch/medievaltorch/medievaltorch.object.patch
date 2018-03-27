@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Confortado. O tipo de tocha que ilumina os corredores de castelo."}, {"op": "replace", "path": "/description", "value": "Uma tocha de ferro sólida com uma suave chama cintilante."}, {"op": "replace", "path": "/humanDescription", "value": "Uma pequena tocha que cospe brasas."}, {"op": "replace", "path": "/avianDescription", "value": "Uma tocha cintilante."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma tocha ardente."}, {"op": "replace", "path": "/shortdescription", "value": "Medieval Torch"}, {"op": "replace", "path": "/floranDescription", "value": "A chama cossspe."}, {"op": "replace", "path": "/apexDescription", "value": "Uma tocha de ferro."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma tocha de parede de ferro."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma tocha ardente.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tocha cintilante.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pequena tocha que cospe brasas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tocha de ferro sólida com uma suave chama cintilante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tocha de ferro.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tocha de parede de ferro.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Confortado. O tipo de tocha que ilumina os corredores de castelo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Medieval Torch",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A chama cossspe.",
+    "path": "/floranDescription"
+  }
+]

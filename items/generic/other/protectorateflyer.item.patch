@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Este folheto comemora a cerimônia de formatura do Protetorado."}, {"op": "replace", "path": "/shortdescription", "value": "Graduation Flyer"}]
+[
+  {
+    "op": "replace",
+    "value": "Graduation Flyer",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este folheto comemora a cerimônia de formatura do Protetorado.",
+    "path": "/description"
+  }
+]

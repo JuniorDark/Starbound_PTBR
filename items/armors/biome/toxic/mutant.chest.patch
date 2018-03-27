@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Vista isto se você quiser simular crescimentos mutantes em seu corpo."}, {"op": "replace", "path": "/shortdescription", "value": "Mutant Chest"}]
+[
+  {
+    "op": "replace",
+    "value": "Mutant Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vista isto se você quiser simular crescimentos mutantes em seu corpo.",
+    "path": "/description"
+  }
+]

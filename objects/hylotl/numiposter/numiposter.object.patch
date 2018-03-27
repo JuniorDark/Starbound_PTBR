@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Algum personagem de desenho animado para crianças."}, {"op": "replace", "path": "/avianDescription", "value": "Numi? Parece um pouco como um cruzamento entre um Hylotl e um urso. Arrepiante..."}, {"op": "replace", "path": "/floranDescription", "value": "Algum desenhos animado de homem-peixe."}, {"op": "replace", "path": "/humanDescription", "value": "Numi parece ser um mascote para um desenho animado de criança Hylotl."}, {"op": "replace", "path": "/hylotlDescription", "value": "Ahh, eu estou reconhecidamente cansado de ver Numi em todos os lugares."}, {"op": "replace", "path": "/description", "value": "Um cartaz exibindo Numi, mascote de um desenho animado para crianças Hylotl."}, {"op": "replace", "path": "/shortdescription", "value": "Numi Poster"}, {"op": "replace", "path": "/glitchDescription", "value": "Desinteressado. É um anúncio para um desenho animado infantil."}, {"op": "replace", "path": "/apexDescription", "value": "O que é um Numi? Algum tipo de personagem de desenho animado?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um cartaz exibindo Numi, mascote de um desenho animado para crianças Hylotl.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Numi Poster",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ahh, eu estou reconhecidamente cansado de ver Numi em todos os lugares.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desinteressado. É um anúncio para um desenho animado infantil.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Numi parece ser um mascote para um desenho animado de criança Hylotl.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Numi? Parece um pouco como um cruzamento entre um Hylotl e um urso. Arrepiante...",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum personagem de desenho animado para crianças.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum desenhos animado de homem-peixe.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que é um Numi? Algum tipo de personagem de desenho animado?",
+    "path": "/apexDescription"
+  }
+]

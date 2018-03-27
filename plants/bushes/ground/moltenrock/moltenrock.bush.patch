@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Rocha derretida."}, {"op": "replace", "path": "/shortdescription", "value": "Rocha derretida."}, {"op": "replace", "path": "/floranDescription", "value": "Rochas quentes."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Rocha derretida."}]
+[
+  {
+    "op": "replace",
+    "value": "Rochas quentes.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rocha derretida.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Rocha derretida.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Rocha derretida.",
+    "path": "/glitchDescription"
+  }
+]

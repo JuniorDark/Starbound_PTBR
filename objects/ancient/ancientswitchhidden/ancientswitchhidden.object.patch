@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Há algo de errado com esta telha."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma telha estranha."}, {"op": "replace", "path": "/avianDescription", "value": "Essa telha tem uma aparência ruim."}, {"op": "replace", "path": "/humanDescription", "value": "Uma telha que balança."}, {"op": "replace", "path": "/apexDescription", "value": "Esta telha parece ser solta."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Uma telha fora do lugar."}, {"op": "replace", "path": "/floranDescription", "value": "Agitação de telha."}, {"op": "replace", "path": "/shortdescription", "value": "Ancient Hidden Switch"}, {"op": "replace", "path": "/description", "value": "Esta telha parece diferente do resto."}]
+[
+  {
+    "op": "replace",
+    "value": "Ancient Hidden Switch",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um ladrilho barulhento.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um ladrilho estranho.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Um ladrilho ligeiramente fora de lugar.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há algo errado com esse ladrilho.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este ladrilho parece estar solto.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este ladrilho esta mal colocado.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta ladrilho parece diferente do resto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ladrilho balançante.",
+    "path": "/floranDescription"
+  }
+]

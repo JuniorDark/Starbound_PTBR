@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma escotilha de trava a ar resistente."
+    "value": "Uma grande escotilha de trava a ar. Resistente.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Uma grande escotilha de trava a ar. Resistente."
+    "value": "Uma escotilha de trava a ar resistente.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Uma grande e intimidante escotilha de metal."
+    "value": "Uma escotilha resistente.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Homem-peixe constrói grandes portas resistentes! Nada mau, Homem-peixe... Nada mau..."
+    "value": "Uma grande e intimidante escotilha de metal.",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Curioso. Onde está a maçaneta?"
+    "value": "Homem-peixe constrói grandes portas resistentes! Nada mau, Homem-peixe... Nada mau...",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Esta é uma estética tradicional dos Hylotl."
+    "value": "Pressurised Airlock Hatch",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Esta escotilha de trava a ar oferece segurança de alto nível."
+    "value": "Esta escotilha de trava a ar oferece segurança de alto nível.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Uma escotilha resistente."
+    "value": "Curioso. Onde está a maçaneta?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é uma estética tradicional dos Hylotl.",
+    "path": "/humanDescription"
   }
 ]

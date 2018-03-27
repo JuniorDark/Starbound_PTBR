@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Havia alguns materiais de escritório e arquivos de presos neste armário de arquivos."}, {"op": "replace", "path": "/shortdescription", "value": "Rusty Filing Cabinet"}, {"op": "replace", "path": "/glitchDescription", "value": "Espantado. Alguém foi preso por assassinar um imperador. Ele foi mandado para a prisão por uma semana."}, {"op": "replace", "path": "/apexDescription", "value": "Um desses arquivos menciona um homem preso por jogar cascas de banana em veículos. Arrepiante."}, {"op": "replace", "path": "/humanDescription", "value": "Há uma pessoa aqui que parece exatamente comigo. É uma coincidência. Nunca desfigurei um mural público."}, {"op": "replace", "path": "/avianDescription", "value": "Um verdadeiro hospedeiro de escória criminosa. Aparentemente, alguém chutou um Glitch."}, {"op": "replace", "path": "/hylotlDescription", "value": "Alguém foi preso por pescar sem licença. Espero que tenham jogado a chave fora."}, {"op": "replace", "path": "/novakidDescription", "value": "Arquivos de detento. Todos temos nossos segredos obscuros e arrependimentos. Não vou bisbilhotar."}, {"op": "replace", "path": "/floranDescription", "value": "Tantosss arquivos... Este diz que um homem mau incendiou um Floran! Dessssprezível!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um verdadeiro hospedeiro de escória criminosa. Aparentemente, alguém chutou um Glitch.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espantado. Alguém foi preso por assassinar um imperador. Ele foi mandado para a prisão por uma semana.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um desses arquivos menciona um homem preso por jogar cascas de banana em veículos. Arrepiante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rusty Filing Cabinet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém foi preso por pescar sem licença. Espero que tenham jogado a chave fora.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tantosss arquivos... Este diz que um homem mau incendiou um Floran! Dessssprezível!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há uma pessoa aqui que parece exatamente comigo. É uma coincidência. Nunca desfigurei um mural público.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Arquivos de detento. Todos temos nossos segredos obscuros e arrependimentos. Não vou bisbilhotar.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Havia alguns materiais de escritório e arquivos de presos neste armário de arquivos.",
+    "path": "/description"
+  }
+]

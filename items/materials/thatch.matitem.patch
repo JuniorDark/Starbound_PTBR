@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Thatch"}, {"op": "replace", "path": "/description", "value": "Telhado de palha tradicional."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma peça de telhado em camadas feita de palha.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Esta palha me lembra de um tempo mais simples.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Telhado de palha sseca.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Thatch",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Telhado de palha tradicional.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Esta coisa é enorme!"}, {"op": "replace", "path": "/shortdescription", "value": "NPC Bruiser's Broadsword"}]
+[
+  {
+    "op": "replace",
+    "value": "Esta coisa é enorme!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "NPC Bruiser's Broadsword",
+    "path": "/shortdescription"
+  }
+]

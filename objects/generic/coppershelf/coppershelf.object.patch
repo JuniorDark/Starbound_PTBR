@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma prateleira de parede feita de cobre."}, {"op": "replace", "path": "/floranDescription", "value": "Prateleira de metal pendurada."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Esta prateleira de parede é feita de cobre."}, {"op": "replace", "path": "/apexDescription", "value": "É uma prateleira de parede feita de cobre."}, {"op": "replace", "path": "/humanDescription", "value": "É uma prateleira de parede feita de cobre."}, {"op": "replace", "path": "/avianDescription", "value": "Uma prateleira de parede de cobre."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma prateleira de parede de cobre de design muito básico."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma prateleira de cobre pendurada na parede."}, {"op": "replace", "path": "/shortdescription", "value": "Copper Wall Shelf"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma prateleira de cobre pendurada na parede.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma prateleira de parede de cobre de design muito básico.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma prateleira de parede de cobre.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma prateleira de parede feita de cobre.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Copper Wall Shelf",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Prateleira de metal pendurada.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma prateleira de parede feita de cobre.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma prateleira de parede feita de cobre.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Esta prateleira de parede é feita de cobre.",
+    "path": "/glitchDescription"
+  }
+]

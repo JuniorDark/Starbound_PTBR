@@ -1,1 +1,67 @@
-[{"op": "replace", "path": "/charGenTextLabels/8", "value": "AVIAN"}, {"op": "replace", "path": "/charCreationTooltip/description", "value": "Avians são uma raça de homens-pássaro coloridos cuja cultura tribal gira em torno da adoração de Kluex - o deus alado do Éter. Seus soldados são treinados desde o nascimento para se tornarem ferozes guerreiros que protegerão seus templos á qualquer custo."}, {"op": "replace", "path": "/charCreationTooltip/title", "value": "Avian"}, {"op": "replace", "path": "/charGenTextLabels/0", "value": "Cor das penas"}, {"op": "replace", "path": "/charGenTextLabels/1", "value": "Plumagem"}, {"op": "replace", "path": "/charGenTextLabels/2", "value": "Camisa"}, {"op": "replace", "path": "/charGenTextLabels/3", "value": "Calça"}, {"op": "replace", "path": "/charGenTextLabels/4", "value": "Bico"}, {"op": "replace", "path": "/charGenTextLabels/5", "value": "Penugem"}, {"op": "replace", "path": "/charGenTextLabels/6", "value": "Cor da camisa"}, {"op": "replace", "path": "/charGenTextLabels/7", "value": "Cor da calça"}, {"op": "replace", "path": "/charGenTextLabels/9", "value": "Personalidade"}]
+[
+  {
+    "op": "replace",
+    "value": "Calça",
+    "path": "/charGenTextLabels/3"
+  },
+  {
+    "op": "replace",
+    "value": "Ele",
+    "path": "/charCreationTooltip/subTitle"
+  },
+  {
+    "op": "replace",
+    "value": "AVIAN",
+    "path": "/charGenTextLabels/8"
+  },
+  {
+    "op": "replace",
+    "value": "Avian",
+    "path": "/charCreationTooltip/title"
+  },
+  {
+    "op": "replace",
+    "value": "Avians são uma raça de homens-pássaro coloridos cuja cultura tribal gira em torno da adoração de Kluex - o deus alado do Éter. Seus soldados são treinados desde o nascimento para se tornarem ferozes guerreiros que protegerão seus templos á qualquer custo.",
+    "path": "/charCreationTooltip/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bico",
+    "path": "/charGenTextLabels/4"
+  },
+  {
+    "op": "replace",
+    "value": "Cor das penas",
+    "path": "/charGenTextLabels/0"
+  },
+  {
+    "op": "replace",
+    "value": "Penugem",
+    "path": "/charGenTextLabels/5"
+  },
+  {
+    "op": "replace",
+    "value": "Plumagem",
+    "path": "/charGenTextLabels/1"
+  },
+  {
+    "op": "replace",
+    "value": "Cor da calça",
+    "path": "/charGenTextLabels/7"
+  },
+  {
+    "op": "replace",
+    "value": "Personalidade",
+    "path": "/charGenTextLabels/9"
+  },
+  {
+    "op": "replace",
+    "value": "Camisa",
+    "path": "/charGenTextLabels/2"
+  },
+  {
+    "op": "replace",
+    "value": "Cor da camisa",
+    "path": "/charGenTextLabels/6"
+  }
+]

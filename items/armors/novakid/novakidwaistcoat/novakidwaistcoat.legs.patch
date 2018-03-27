@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Formal Pants"}, {"op": "replace", "path": "/description", "value": "Roupa formal lisonjeira e elegante."}]
+[
+  {
+    "op": "replace",
+    "value": "Roupa formal lisonjeira e elegante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Formal Pants",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Cristais brilhantes de geodo natural."}, {"op": "replace", "path": "/shortdescription", "value": "Geode Crystals"}]
+[
+  {
+    "op": "replace",
+    "value": "Espantado. Estes cristais naturais parecem ter crescido de geodos.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Geode Crystals",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Geodo de cristais naturais com um brilho fraco",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas rochas de cristais brilhantes.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Geodo de cristaiss brilhantess.",
+    "path": "/florandescription"
+  }
+]

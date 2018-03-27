@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Armadilha de fogo é o pior inimigo de Floran!"}, {"op": "replace", "path": "/apexDescription", "value": "Uma armadilha de chama, definitivamente uma para evitar."}, {"op": "replace", "path": "/humanDescription", "value": "Uma armadilha de chama fiel e confiável."}, {"op": "replace", "path": "/avianDescription", "value": "Ai! Chamas e penas não se misturam!"}, {"op": "replace", "path": "/hylotlDescription", "value": "O guerreiro rápido não teme a chama."}, {"op": "replace", "path": "/novakidDescription", "value": "Simples, mas mortal. Meu tipo favorito."}, {"op": "replace", "path": "/description", "value": "Uma armadilha de chama projetada para deter invasores."}, {"op": "replace", "path": "/shortdescription", "value": "Avian Flame Trap"}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. É apenas uma pequena armadilha de chama, nada que não possa ser superado."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma armadilha de chama projetada para deter invasores.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Avian Flame Trap",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. É apenas uma pequena armadilha de chama, nada que não possa ser superado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Simples, mas mortal. Meu tipo favorito.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma armadilha de chama, definitivamente uma para evitar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma armadilha de chama fiel e confiável.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Armadilha de fogo é o pior inimigo de Floran!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ai! Chamas e penas não se misturam!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O guerreiro rápido não teme a chama.",
+    "path": "/hylotlDescription"
+  }
+]

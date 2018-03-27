@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/text", "value": "Impetuoso. Dê-me sua espada! ...Hm, talvez eu deveria ser mais específico. Me dê sua ^orange;Broken Broadsword^reset; para que eu possa conserta-la! Esther estava me dizendo como - isso não é nenhum desafio para um espadachim como eu! ^white;\r\nContudo, ^green;eu vou precisar de ^orange;10 Tech Cards^green; para terminar o serviço^reset;."}, {"op": "replace", "path": "/title", "value": "^green;A Forja do Herói"}, {"op": "replace", "path": "/completionText", "value": "Orgulhoso. Aqui está! Melhor do que nova! De nada!"}]
+[
+  {
+    "op": "replace",
+    "value": "Impetuoso. Dê-me sua espada! ...Hm, talvez eu deveria ser mais específico. Me dê sua ^orange;Broken Broadsword^reset; para que eu possa conserta-la! Esther estava me dizendo como - isso não é nenhum desafio para um espadachim como eu! ^white;\nContudo, ^green;eu vou precisar de ^orange;10 Tech Cards^green; para terminar o serviço^reset;.",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "Orgulhoso. Aqui está! Melhor do que nova! De nada!",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "Fale com ^orange;O Barão^reset; no ^orange;posto avançado^reset;",
+    "path": "/scriptConfig/turnInDescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;A Forja do Herói",
+    "path": "/title"
+  }
+]

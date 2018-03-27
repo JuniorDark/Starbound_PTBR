@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Crítico. Talvez os Hylotl devem considerar como sua língua se traduz. Isso faz parecer que eles estão roubando bebês."}, {"op": "replace", "path": "/novakidDescription", "value": "Não tenho tempo para traduzir tudo!"}, {"op": "replace", "path": "/description", "value": "Uma placa buscando Hylotls para coletar desovas da superfície."}, {"op": "replace", "path": "/shortdescription", "value": "Orange Neon Collector Sign"}, {"op": "replace", "path": "/floranDescription", "value": "Zumbido de placa irrita Floran."}, {"op": "replace", "path": "/apexDescription", "value": "Meu tradutor diz que esta placa está pedindo Hylotls para sequestrar bebês. Isso não pode estar certo, certamente?"}, {"op": "replace", "path": "/humanDescription", "value": "Uau, sempre suspeitei que os Hylotl estavam a fazer alguma coisa. Não, isso não pode estar certo."}, {"op": "replace", "path": "/avianDescription", "value": "De acordo com o meu tradutor, os Hylotl estão roubando crianças. Eu acho isso difícil de acreditar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um pedido para Hylotls para coletar desovas da superfície, um ato caridoso e benevolente."}]
+[
+  {
+    "op": "replace",
+    "value": "Um pedido para Hylotls para coletar desovas da superfície, um ato caridoso e benevolente.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa buscando Hylotls para coletar desovas da superfície.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "De acordo com o meu tradutor, os Hylotl estão roubando crianças. Eu acho isso difícil de acreditar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Crítico. Talvez os Hylotl devem considerar como sua língua se traduz. Isso faz parecer que eles estão roubando bebês.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não tenho tempo para traduzir tudo!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Meu tradutor diz que esta placa está pedindo Hylotls para sequestrar bebês. Isso não pode estar certo, certamente?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Orange Neon Collector Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uau, sempre suspeitei que os Hylotl estavam a fazer alguma coisa. Não, isso não pode estar certo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Zumbido de placa irrita Floran.",
+    "path": "/floranDescription"
+  }
+]

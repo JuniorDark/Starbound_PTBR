@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Um extintor de incêndio. Eu duvido que tenha sido usado."}, {"op": "replace", "path": "/avianDescription", "value": "Um extintor de incêndio."}, {"op": "replace", "path": "/hylotlDescription", "value": "É um extintor de incêndio."}, {"op": "replace", "path": "/novakidDescription", "value": "Para extinção de incêndios."}, {"op": "replace", "path": "/apexDescription", "value": "Segurança em primeiro lugar."}, {"op": "replace", "path": "/description", "value": "Um extintor de incêndio para quando o pior acontecer."}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Fire Extinguisher"}, {"op": "replace", "path": "/floranDescription", "value": "Assassino de fogo! Floran odeia fogo."}, {"op": "replace", "path": "/glitchDescription", "value": "Relaxado. Fico feliz que haja algumas precauções de segurança por aqui."}]
+[
+  {
+    "op": "replace",
+    "value": "Um extintor de incêndio.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um extintor de incêndio para quando o pior acontecer.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um extintor de incêndio. Eu duvido que tenha sido usado.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Assassino de fogo! Floran odeia fogo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para extinção de incêndios.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um extintor de incêndio.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Fire Extinguisher",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relaxado. Fico feliz que haja algumas precauções de segurança por aqui.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Segurança em primeiro lugar.",
+    "path": "/apexDescription"
+  }
+]

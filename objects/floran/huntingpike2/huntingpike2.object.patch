@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Ao contrário dos Floran, a cultura Avian honra os mortos."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. O crânio nesta lança parece ser humano."}, {"op": "replace", "path": "/apexDescription", "value": "Um crânio humano enfiado em uma lança."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um crânio enfiado em uma lança de caça Floran."}, {"op": "replace", "path": "/novakidDescription", "value": "Crânio enfiado em uma lança, simplesmente não está certo."}, {"op": "replace", "path": "/description", "value": "Um crânio em uma lança. Um favorito dos Floran."}, {"op": "replace", "path": "/shortdescription", "value": "Skull on a Pike"}, {"op": "replace", "path": "/floranDescription", "value": "Floran exibe seus troféuss de caça em espinhoss."}, {"op": "replace", "path": "/humanDescription", "value": "Este crânio parece desgastado, está neste espinho há algum tempo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um crânio humano enfiado em uma lança.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um crânio em uma lança. Um favorito dos Floran.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um crânio enfiado em uma lança de caça Floran.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran exibe seus troféuss de caça em espinhoss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. O crânio nesta lança parece ser humano.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Skull on a Pike",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Crânio enfiado em uma lança, simplesmente não está certo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este crânio parece desgastado, está neste espinho há algum tempo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ao contrário dos Floran, a cultura Avian honra os mortos.",
+    "path": "/avianDescription"
+  }
+]

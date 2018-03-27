@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "<item>"}, {"op": "replace", "path": "/description", "value": "Desbloqueia o projeto de fabricação do <item>."}]
+[
+  {
+    "op": "replace",
+    "value": "<item>",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desbloqueia o projeto de fabricação do <item>.",
+    "path": "/description"
+  }
+]

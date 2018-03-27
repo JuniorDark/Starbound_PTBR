@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma antiga representação holográfica de uma cena mitológica."}, {"op": "replace", "path": "/shortdescription", "value": "Ancient Hologram"}, {"op": "replace", "path": "/floranDescription", "value": "Homem brilhante do retrato está ajudando planetasss."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Esta cena parece mostrar um ser protegendo planetas."}, {"op": "replace", "path": "/apexDescription", "value": "Este holograma parece representar uma figura antiga com planetas."}, {"op": "replace", "path": "/humanDescription", "value": "Murais antigos adoram ser vagos e misteriosos..."}, {"op": "replace", "path": "/avianDescription", "value": "Esta descrição de uma divindade me lembra de Kluex."}, {"op": "replace", "path": "/hylotlDescription", "value": "O holograma é uma descrição bela e misteriosa de um ser."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta imagem antiga mostra uma misteriosa figura estranha."}]
+[
+  {
+    "op": "replace",
+    "value": "Murais antigos adoram ser vagos e misteriosos...",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Homem brilhante do retrato está ajudando planetasss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Esta cena parece mostrar um ser protegendo planetas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O holograma é uma descrição bela e misteriosa de um ser.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta descrição de uma divindade me lembra de Kluex.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este holograma parece representar uma figura antiga com planetas.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta imagem antiga mostra uma misteriosa figura estranha.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma antiga representação holográfica de uma cena mitológica.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ancient Hologram",
+    "path": "/shortdescription"
+  }
+]

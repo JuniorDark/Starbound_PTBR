@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "A mobília que traz tal alegria é verdadeiramente vale o esforço que toma para produzir."}, {"op": "replace", "path": "/floranDescription", "value": "Floran ama cadeira bonita."}, {"op": "replace", "path": "/description", "value": "Uma cadeira arco-íris gloriosamente colorida."}, {"op": "replace", "path": "/shortdescription", "value": "Rainbow Chair"}, {"op": "replace", "path": "/apexDescription", "value": "Esta cadeira é enormemente edificante."}, {"op": "replace", "path": "/humanDescription", "value": "Que cadeira maravilhosa!"}, {"op": "replace", "path": "/avianDescription", "value": "Uma cadeira colorida de tirar o fôlego."}, {"op": "replace", "path": "/glitchDescription", "value": "Emocional. Esta cadeira me enche com a alegria da vida."}, {"op": "replace", "path": "/novakidDescription", "value": "Se eu sentar nesta cadeira eu vou mudar de cor?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira colorida de tirar o fôlego.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira arco-íris gloriosamente colorida.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Emocional. Esta cadeira me enche com a alegria da vida.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ama cadeira bonita.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A mobília que traz tal alegria é verdadeiramente vale o esforço que toma para produzir.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se eu sentar nesta cadeira eu vou mudar de cor?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rainbow Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cadeira é enormemente edificante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que cadeira maravilhosa!",
+    "path": "/humanDescription"
+  }
+]

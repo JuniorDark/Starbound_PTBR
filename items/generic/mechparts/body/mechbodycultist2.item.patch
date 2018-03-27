@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um corpo de mecha de alta tecnologia, projetado para membros de alto ranking do culto Occasus."
+    "value": "Um corpo de mecha de alta tecnologia, projetado para membros de alto ranking do culto Occasus.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Occasus-2 Mech Body",
+    "path": "/shortdescription"
   }
 ]

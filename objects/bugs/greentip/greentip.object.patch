@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Greentip"}, {"op": "replace", "path": "/description", "value": "Este inseto parece que está usando sapatos verdes minúsculos."}]
+[
+  {
+    "op": "replace",
+    "value": "Greentip",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este inseto parece que está usando sapatos verdes minúsculos.",
+    "path": "/description"
+  }
+]

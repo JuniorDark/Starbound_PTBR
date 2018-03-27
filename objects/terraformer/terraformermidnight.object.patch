@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Dark Terraformer"}, {"op": "replace", "path": "/description", "value": "Transforma o clima de um planeta em um frágil deserto de noite perpétua."}]
+[
+  {
+    "op": "replace",
+    "value": "Dark Terraformer",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Transforma o clima de um planeta em um frágil deserto de noite perpétua.",
+    "path": "/description"
+  }
+]

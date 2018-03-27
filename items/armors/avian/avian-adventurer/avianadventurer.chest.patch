@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma couraça que foi tecida com couro tratado."}, {"op": "replace", "path": "/shortdescription", "value": "Leather Breastplate"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma couraça que foi tecida com couro tratado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Leather Breastplate",
+    "path": "/shortdescription"
+  }
+]

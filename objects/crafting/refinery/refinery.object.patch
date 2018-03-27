@@ -1,1 +1,52 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Uma máquina de pixel. Eu sempre quis ter uma dessas!"}, {"op": "replace", "path": "/humanDescription", "value": "Ela imprime dinheiro! Tipo isso..."}, {"op": "replace", "path": "/description", "value": "A refinaria é usada para produzir pixels brutos de minérios."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um dispositivo complexo para transformar minério em pixels."}, {"op": "replace", "path": "/subtitle", "value": "Transforma minérios em pixels"}, {"op": "replace", "path": "/shortdescription", "value": "^orange;Refinery^white;"}, {"op": "replace", "path": "/floranDescription", "value": "Maquina esmaga rochas, faz dinheiro."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Minério pode ser convertido em pixels aqui."}, {"op": "replace", "path": "/apexDescription", "value": "Eu posso colocar minério aqui para fazer pixels."}, {"op": "replace", "path": "/avianDescription", "value": "Fazendo pixels de minério. Útil."}]
+[
+  {
+    "op": "replace",
+    "value": "Um dispositivo complexo para transformar minério em pixels.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma máquina de pixel. Eu sempre quis ter uma dessas!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso colocar minério aqui para fazer pixels.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ela imprime dinheiro! Tipo isso...",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Maquina esmaga rochas, faz dinheiro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fazendo pixels de minério. Útil.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Minério pode ser convertido em pixels aqui.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A refinaria é usada para produzir pixels brutos de minérios.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Transforma minérios em pixels",
+    "path": "/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Refinery^white;",
+    "path": "/shortdescription"
+  }
+]

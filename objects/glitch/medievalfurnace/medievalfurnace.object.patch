@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "Fundição a moda antiga."}, {"op": "replace", "path": "/description", "value": "Uma fornalha à moda antiga para temperar ferramentas."}, {"op": "replace", "path": "/shortdescription", "value": "Medieval Furnace"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Fornalha Medieval"}, {"op": "replace", "path": "/floranDescription", "value": "Forno tem fogo quente dentro!"}, {"op": "replace", "path": "/apexDescription", "value": "Uma fornalha à moda antiga. Parece que ele é construída para trabalhar metal."}, {"op": "replace", "path": "/glitchDescription", "value": "Surpreso. Forjas como estas são usadas para produzir ferramentas e armamento."}, {"op": "replace", "path": "/avianDescription", "value": "Uma fornalha de pedra, construída para lidar com altas temperaturas."}, {"op": "replace", "path": "/humanDescription", "value": "O velho tipo de fornalha, usada para produzir armas grandes e robustas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma fornalha à moda antiga para trabalhar com metal."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma boa fornalha à moda antiga."}]
+[
+  {
+    "op": "replace",
+    "value": "Fornalha Medieval",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Fundição a moda antiga.",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Uma boa fornalha à moda antiga.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fornalha à moda antiga para temperar ferramentas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fornalha de pedra, construída para lidar com altas temperaturas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Forjas como estas são usadas para produzir ferramentas e armamento.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fornalha à moda antiga para trabalhar com metal.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fornalha à moda antiga. Parece que ele é construída para trabalhar metal.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Forno tem fogo quente dentro!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Medieval Furnace",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O velho tipo de fornalha, usada para produzir armas grandes e robustas.",
+    "path": "/humanDescription"
+  }
+]

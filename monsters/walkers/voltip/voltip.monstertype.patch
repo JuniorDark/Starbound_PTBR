@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "O resultado de um experimento científico que deu errado."}, {"op": "replace", "path": "/shortdescription", "value": "Voltip"}]
+[
+  {
+    "op": "replace",
+    "value": "Voltip",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O resultado de um experimento científico que deu errado.",
+    "path": "/description"
+  }
+]

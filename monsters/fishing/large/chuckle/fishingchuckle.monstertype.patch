@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Eu já não vi este peixe em algum lugar antes?"}, {"op": "replace", "path": "/shortdescription", "value": "Chucklefish"}]
+[
+  {
+    "op": "replace",
+    "value": "Chucklefish",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu já não vi este peixe em algum lugar antes?",
+    "path": "/description"
+  }
+]

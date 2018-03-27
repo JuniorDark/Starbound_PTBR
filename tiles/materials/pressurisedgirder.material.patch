@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Informado. Uma viga feita para acomodar ajustes na pressurização."}, {"op": "replace", "path": "/description", "value": "Uma viga projetada para acomodar mudanças de pressurização."}, {"op": "replace", "path": "/shortdescription", "value": "Pressurised Girder"}, {"op": "replace", "path": "/floranDescription", "value": "Fortess vigas metálicas brilhantes."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma viga metálica resistente."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma viga projetada para acomodar mudanças de pressurização.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma viga metálica resistente.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Informado. Uma viga feita para acomodar ajustes na pressurização.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pressurised Girder",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fortess vigas metálicas brilhantes.",
+    "path": "/floranDescription"
+  }
+]

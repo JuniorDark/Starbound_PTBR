@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Super quente para os humanos, super, super quente para todos os outros."}, {"op": "replace", "path": "/shortdescription", "value": "Chilli"}]
+[
+  {
+    "op": "replace",
+    "value": "Chilli",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Super quente para os humanos, super, super quente para todos os outros.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,127 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/avian/default/3", "value": "Viajantes como você chegam até aqui ocasionalmente. Eu nunca mais os vejo novamente..."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/default/2", "value": "Bem vindo! Você está esperando viver aqui em baixo? Eu poderia ter um vizinho."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/default/1", "value": "Bem-vindo, viajante! Você está nestas cavernas para procurar tesouros?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/0", "value": "Se eu esconder aqui, meus inimigos não vão me encontrar..."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/glitch/default/2", "value": "Acolhedor. Saudações, você está pensando em ficar aqui por algum tempo?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/3", "value": "Estranho! Floran não estava esperando companhia aqui em baixo!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/default/0", "value": "Você veio até aqui para meditar? Ou talvez você esteja perdido?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/default/2", "value": "Você é uma companhia bem-vinda! Tenho sobrevivido até aqui sozinho por algum tempo."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/3", "value": "Estive aqui por algum tempo. Como o Protetorado esta indo?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/1", "value": "Um estranho! Eu não estou acostumado a companhia aqui em baixo. Você veio em paz?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/2", "value": "Você está aqui para minerar? Ou talvez você esteja procurando as portas misteriosas..."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/glitch/default/1", "value": "Chocado. Você é a primeira pessoa que eu vejo em algum tempo."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Eu vivo no subterrâneo! É o melhor estilo de vida."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/3", "value": "Nem mesmo os escoteiros de Miniknog iriam descer nessas cavernas..."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/glitch/default/0", "value": "Surpreso. Eu não estava esperando companhia aqui em baixo."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/default/1", "value": "Estas cavernas podem ser um pouco perigosas."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/default/3", "value": "Saudações, estranho. Você veio a essas cavernas para encontrar a iluminação pessoal?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/glitch/default/3", "value": "Impressionado. Como você conseguiu chegar até aqui? Você deve ser corajoso."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/0", "value": "Floran prefere caçar no subterrâneo. Mais fácil de esgueirar."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/1", "value": "Floran não esta acostumado a ver pessoas aqui em baixo."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/0", "value": "Nem mesmo Big Ape e seu Miniknog poderiam me encontrar aqui em baixo... Essa é a minha esperança."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/2", "value": "Você está aqui embaixo para se esconder também, meu amigo?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/default/0", "value": "Vendo que você enviou um choque através de minhas penas! Não estou acostumado a companhia."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/2", "value": "Floran surpreso de ver estranho aqui! Floran quase sempre sozinho..."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/1", "value": "A escuridão esconde muitas coisas aqui em baixo. Você é um caçador de tesouros?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um estranho! Eu não estou acostumado a companhia aqui em baixo. Você veio em paz?",
+    "path": "/scriptConfig/dialog/converse/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você está aqui embaixo para se esconder também, meu amigo?",
+    "path": "/scriptConfig/dialog/converse/apex/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você está aqui para minerar? Ou talvez você esteja procurando as portas misteriosas...",
+    "path": "/scriptConfig/dialog/converse/human/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você veio até aqui para meditar? Ou talvez você esteja perdido?",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não esta acostumado a ver pessoas aqui em baixo.",
+    "path": "/scriptConfig/dialog/converse/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran prefere caçar no subterrâneo. Mais fácil de esgueirar.",
+    "path": "/scriptConfig/dialog/converse/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran surpreso de ver estranho aqui! Floran quase sempre sozinho...",
+    "path": "/scriptConfig/dialog/converse/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Saudações, estranho. Você veio a essas cavernas para encontrar a iluminação pessoal?",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vivo no subterrâneo! É o melhor estilo de vida.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Estive aqui por algum tempo. Como o Protetorado esta indo?",
+    "path": "/scriptConfig/dialog/converse/human/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Se eu esconder aqui, meus inimigos não vão me encontrar...",
+    "path": "/scriptConfig/dialog/converse/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Como você conseguiu chegar até aqui? Você deve ser corajoso.",
+    "path": "/scriptConfig/dialog/converse/glitch/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Nem mesmo Big Ape e seu Miniknog poderiam me encontrar aqui em baixo... Essa é a minha esperança.",
+    "path": "/scriptConfig/dialog/converse/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Nem mesmo os escoteiros de Miniknog iriam descer nessas cavernas...",
+    "path": "/scriptConfig/dialog/converse/apex/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Vendo que você enviou um choque através de minhas penas! Não estou acostumado a companhia.",
+    "path": "/scriptConfig/dialog/converse/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Chocado. Você é a primeira pessoa que eu vejo em algum tempo.",
+    "path": "/scriptConfig/dialog/converse/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Estranho! Floran não estava esperando companhia aqui em baixo!",
+    "path": "/scriptConfig/dialog/converse/floran/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Eu não estava esperando companhia aqui em baixo.",
+    "path": "/scriptConfig/dialog/converse/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "A escuridão esconde muitas coisas aqui em baixo. Você é um caçador de tesouros?",
+    "path": "/scriptConfig/dialog/converse/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Estas cavernas podem ser um pouco perigosas.",
+    "path": "/scriptConfig/dialog/converse/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Viajantes como você chegam até aqui ocasionalmente. Eu nunca mais os vejo novamente...",
+    "path": "/scriptConfig/dialog/converse/avian/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Bem vindo! Você está esperando viver aqui em baixo? Eu poderia ter um vizinho.",
+    "path": "/scriptConfig/dialog/converse/avian/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Bem-vindo, viajante! Você está nestas cavernas para procurar tesouros?",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Acolhedor. Saudações, você está pensando em ficar aqui por algum tempo?",
+    "path": "/scriptConfig/dialog/converse/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você é uma companhia bem-vinda! Tenho sobrevivido até aqui sozinho por algum tempo.",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/2"
+  }
+]

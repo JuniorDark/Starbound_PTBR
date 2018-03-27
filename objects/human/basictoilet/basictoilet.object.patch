@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Apenas uma privada simples. Sem glamour, mas altamente necessária."}, {"op": "replace", "path": "/apexDescription", "value": "Uma pequena privada. Não parece totalmente higiênica."}, {"op": "replace", "path": "/humanDescription", "value": "Uma privada. Uma visão sempre bem-vinda."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma privada."}, {"op": "replace", "path": "/avianDescription", "value": "Um lugar para excrementos."}, {"op": "replace", "path": "/description", "value": "Uma privada de aparência normal! Graça às estrelas!"}, {"op": "replace", "path": "/shortdescription", "value": "Basic Toilet"}, {"op": "replace", "path": "/floranDescription", "value": "Lugar brilhante para negócioss malcheirososs."}, {"op": "replace", "path": "/glitchDescription", "value": "Desinteressado. Uma privada."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma privada.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma privada de aparência normal! Graça às estrelas!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um lugar para excrementos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pequena privada. Não parece totalmente higiênica.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma privada. Uma visão sempre bem-vinda.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Basic Toilet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desinteressado. Uma privada.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas uma privada simples. Sem glamour, mas altamente necessária.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lugar brilhante para negócioss malcheirososs.",
+    "path": "/floranDescription"
+  }
+]

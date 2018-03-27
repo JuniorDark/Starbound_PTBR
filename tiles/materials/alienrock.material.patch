@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Maravilhado. Esta rocha é de origem alienígena."}, {"op": "replace", "path": "/description", "value": "Esta rocha estranha vem de um mundo alienígena."}, {"op": "replace", "path": "/shortdescription", "value": "Alien Rock"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de rochas estranhass."}, {"op": "replace", "path": "/novakidDescription", "value": "Algum tipo de rocha alienígena."}]
+[
+  {
+    "op": "replace",
+    "value": "Alien Rock",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Maravilhado. Esta rocha é de origem alienígena.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de rochas estranhass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de rocha alienígena.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta rocha estranha vem de um mundo alienígena.",
+    "path": "/description"
+  }
+]

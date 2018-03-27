@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Confuso. A forma desta placa é incomum, o que pretende ser exibido aqui?"}, {"op": "replace", "path": "/novakidDescription", "value": "Esta placa parece certa para pendurar um rifle."}, {"op": "replace", "path": "/hylotlDescription", "value": "Tremo só de pensar no que vai aparecer aqui um dia."}, {"op": "replace", "path": "/avianDescription", "value": "Uma placa aguardando um troféu."}, {"op": "replace", "path": "/humanDescription", "value": "Parece uma placa de caça vazia, talvez seja para mostrar um rifle ou uma lança."}, {"op": "replace", "path": "/apexDescription", "value": "Talvez essa placa aguarde uma cabeça."}, {"op": "replace", "path": "/floranDescription", "value": "Placa de caça para exibição de armass Floran."}, {"op": "replace", "path": "/description", "value": "Uma placa vazia. O que pertence aqui?"}, {"op": "replace", "path": "/shortdescription", "value": "Empty Plaque"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma placa aguardando um troféu.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa vazia. O que pertence aqui?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. A forma desta placa é incomum, o que pretende ser exibido aqui?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Empty Plaque",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Placa de caça para exibição de armass Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tremo só de pensar no que vai aparecer aqui um dia.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece uma placa de caça vazia, talvez seja para mostrar um rifle ou uma lança.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez essa placa aguarde uma cabeça.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta placa parece certa para pendurar um rifle.",
+    "path": "/novakidDescription"
+  }
+]

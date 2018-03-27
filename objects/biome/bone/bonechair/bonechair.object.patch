@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Uma cadeira assustadora. Surpreendentemente confortável. Eu poderia sentar aqui e dar ordens sinistras."}, {"op": "replace", "path": "/description", "value": "Um trono de osso. Para todas as suas necessidades ósseas reais."}, {"op": "replace", "path": "/shortdescription", "value": "Bone Chair"}, {"op": "replace", "path": "/avianDescription", "value": "Eu esperaria encontrar algo como isto em um templo Avian. Um templo Avian muito sinistro."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma cadeira tosca feita de mortos. Horrível."}, {"op": "replace", "path": "/apexDescription", "value": "Eu imagino algum tipo de senhorio tirânico sentado aqui. Talvez Big Ape gostasse disso."}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de assento ósseo. Floran sssenta, pensa sobre ossos saborosos."}, {"op": "replace", "path": "/novakidDescription", "value": "Um trono de osso, apto para um rei osso."}, {"op": "replace", "path": "/glitchDescription", "value": "Reflexivo. O osso aqui vem de uma criatura há muito tempo morta. Possivelmente extinta."}]
+[
+  {
+    "op": "replace",
+    "value": "Um trono de osso, apto para um rei osso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um trono de osso. Para todas as suas necessidades ósseas reais.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira assustadora. Surpreendentemente confortável. Eu poderia sentar aqui e dar ordens sinistras.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira tosca feita de mortos. Horrível.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bone Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de assento ósseo. Floran sssenta, pensa sobre ossos saborosos.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu imagino algum tipo de senhorio tirânico sentado aqui. Talvez Big Ape gostasse disso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu esperaria encontrar algo como isto em um templo Avian. Um templo Avian muito sinistro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Reflexivo. O osso aqui vem de uma criatura há muito tempo morta. Possivelmente extinta.",
+    "path": "/glitchDescription"
+  }
+]

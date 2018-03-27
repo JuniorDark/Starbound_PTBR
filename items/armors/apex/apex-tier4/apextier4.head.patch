@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Revolutionary's Bandana"}, {"op": "replace", "path": "/description", "value": "Esta bandana é perfeita para o futuro revolucionário."}]
+[
+  {
+    "op": "replace",
+    "value": "Revolutionary's Bandana",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta bandana é perfeita para o futuro revolucionário.",
+    "path": "/description"
+  }
+]

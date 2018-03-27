@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/description", "value": "Um aviso de um prefeito Glitch para seus moradores."}, {"op": "replace", "path": "/title", "value": "A Praga da Loucura"}, {"op": "replace", "path": "/contentPages/0", "value": "^orange;OUÇA, CIDADÃOS DA VILA!^white;\n\nIsto é um decreto de seu amado Prefeito. Há uma loucura se espalhando entre a população - Alguns dos nossos irmãos e irmãs falam de uma \"verdade\" - que eles foram despertados e que o resto de nós está vivendo em algum tipo de \"simulação\".\n\nIsso é sem dúvida uma praga, e aqueles atingidos com a loucura devem ser evitados para seu próprio bem."}]
+[
+  {
+    "op": "replace",
+    "value": "Um aviso de um prefeito Glitch para seus moradores.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A Praga da Loucura",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;OUÇA, CIDADÃOS DA VILA!^white;\n\nIsto é um decreto de seu amado Prefeito. Há uma loucura se espalhando entre a população - Alguns dos nossos irmãos e irmãs falam de uma \"verdade\" - que eles foram despertados e que o resto de nós está vivendo em algum tipo de \"simulação\".\n\nIsso é sem dúvida uma praga, e aqueles atingidos com a loucura devem ser evitados para seu próprio bem.",
+    "path": "/contentPages/0"
+  }
+]

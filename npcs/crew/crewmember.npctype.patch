@@ -1,1 +1,947 @@
-[{"op":"replace","path":"/scriptConfig/crew/role/name","value":"Soldado"},{"op":"replace","path":"/scriptConfig/crew/role/field","value":"Segurança"},{"op":"replace","path":"/scriptConfig/crew/ranks/0","value":"<role> Secundário"},{"op":"replace","path":"/scriptConfig/crew/ranks/1","value":"3 Assistente Técnico de <field>"},{"op":"replace","path":"/scriptConfig/crew/ranks/2","value":"<role> Assistente Adjunto"},{"op":"replace","path":"/scriptConfig/crew/ranks/3","value":"<role> Aprendiz Estagiário"},{"op":"replace","path":"/scriptConfig/crew/ranks/4","value":"<role> Substituto Temporário"},{"op":"replace","path":"/scriptConfig/crew/ranks/5","value":"<role> 3 Vice-Tenente"},{"op":"replace","path":"/scriptConfig/crew/ranks/6","value":"<role> de 64 Comodoro"},{"op":"replace","path":"/scriptConfig/crew/ranks/7","value":"Oficial de <field> Permanente"},{"op":"replace","path":"/scriptConfig/crew/ranks/8","value":"Oficial de <field>"},{"op":"replace","path":"/scriptConfig/crew/ranks/9","value":"<role> Executivo Fazedor de Café"},{"op":"replace","path":"/scriptConfig/crew/ranks/10","value":"<field> Mestre de Comando"},{"op":"replace","path":"/scriptConfig/crew/ranks/11","value":"Auditor Independente de <field>"},{"op":"replace","path":"/scriptConfig/crew/ranks/12","value":"Auditor Dependente de <field>"},{"op":"replace","path":"/scriptConfig/crew/ranks/13","value":"Oficial Dreadnought de <field>"},{"op":"replace","path":"/scriptConfig/crew/ranks/14","value":"<field> Estagiário Mestre"},{"op":"replace","path":"/scriptConfig/crew/ranks/15","value":"<field> Chefe Mesquinho de Argumentos"},{"op":"replace","path":"/scriptConfig/crew/ranks/16","value":"<role> Reserva"},{"op":"replace","path":"/scriptConfig/crew/ranks/17","value":"<field> Confiável"},{"op":"replace","path":"/scriptConfig/crew/ranks/18","value":"<field> Conselheiro Teórico"},{"op":"replace","path":"/scriptConfig/crew/ranks/19","value":"<field> Confiável"},{"op":"replace","path":"/scriptConfig/crew/ranks/20","value":"<field> Chefe de Operações"},{"op":"replace","path":"/scriptConfig/crew/ranks/21","value":"<role> Amador"},{"op":"replace","path":"/scriptConfig/crew/ranks/22","value":"<field> Chefe de Relações"},{"op":"replace","path":"/scriptConfig/crew/ranks/23","value":"<role> de Último minuto"},{"op":"replace","path":"/scriptConfig/crew/ranks/24","value":"<field> Especialista em Diplomacia"},{"op":"replace","path":"/scriptConfig/crew/ranks/25","value":"<field> Gerente de Inovação"},{"op":"replace","path":"/scriptConfig/crew/ranks/26","value":"<role> Canhão Solto"},{"op":"replace","path":"/scriptConfig/crew/ranks/27","value":"Diretor de <field> Regional"},{"op":"replace","path":"/scriptConfig/crew/ranks/28","value":"Investigador de <field> Privado"},{"op":"replace","path":"/scriptConfig/crew/ranks/29","value":"<field> Topógrafo Temporal"},{"op":"replace","path":"/scriptConfig/crew/ranks/30","value":"<field> Radical Inovador"},{"op":"replace","path":"/scriptConfig/crew/ranks/31","value":"<field> Chefe Independente de Operações"},{"op":"replace","path":"/scriptConfig/crew/ranks/32","value":"<role> Mediano"},{"op":"replace","path":"/scriptConfig/crew/ranks/33","value":"<role> Amador"},{"op":"replace","path":"/scriptConfig/crew/ranks/34","value":"<field> Mestre dos Assuntos"},{"op":"replace","path":"/scriptConfig/crew/ranks/35","value":"<field> Representante Consultivo Alternativo"},{"op":"replace","path":"/scriptConfig/crew/ranks/36","value":"<field> Oficial de Segundo Lugar"},{"op":"replace","path":"/scriptConfig/crew/ranks/37","value":"Oficial de <field> de Emergência"},{"op":"replace","path":"/scriptConfig/crew/ranks/38","value":"<role> Mediano"},{"op":"replace","path":"/scriptConfig/crew/ranks/39","value":"<field> Estagiário não Remunerado"},{"op":"replace","path":"/scriptConfig/crew/ranks/40","value":"<field> Estudante"},{"op":"replace","path":"/scriptConfig/crew/ranks/41","value":"<field> Estagiário"},{"op":"replace","path":"/scriptConfig/crew/ranks/42","value":"<field> Avaliador"},{"op":"replace","path":"/scriptConfig/crew/ranks/43","value":"<role> 2 Vice-Tenente"},{"op":"replace","path":"/scriptConfig/crew/ranks/44","value":"<field> de Negociações de Baixa Qualidade"},{"op":"replace","path":"/scriptConfig/crew/ranks/45","value":"<field> Especialista em Poltrona"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/glitch/default/0","value":"Animado. Posso acompanhá-lo nas estrelas? Eu tenho habilidades que poderiam ajudá-lo!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/floran/default/1","value":"Floran esta interessado em um emprego a longo prazo. Você pode dar um emprego para Floran?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/floran/default/1","value":"Floran vai ficar aqui."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/novakid/default/0","value":"Eu vi uma luz brilhante... Não, espere, era só eu."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/novakid/default/1","value":"Eu estava morto? Bem, eu acho que não estou agora!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/apex/default/1","value":"Eu tenho habilidades que podem ajudá-lo em seus empreendimentos. Gostaria de me contratar?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/apex/default/2","value":"Talvez a vida a bordo de uma nave é a única para mim. Posso me juntar a você?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/apex/default/3","value":"Estou querendo escapar para uma vida nova. Você está contratando?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/novakid/default/0","value":"Eu posso ter esquecido de onde eu vim, mas eu sei onde eu quero ir - com você, parceiro!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/novakid/default/1","value":"Ei parceiro, você está procurando um velho andarilho estrelado para andar com você?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/novakid/default/2","value":"Você sabe, você e eu poderíamos nos dar muito bem. Gostaria me contratar para a sua tripulação?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/novakid/default/3","value":"Se você quiser alguém para se juntar a sua tripulação, então eu serei seu Alfaiate!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/default/default/2","value":"Você é EXATAMENTE o tipo de pessoa com quem eu deveria trabalhar! Gostaria de contratar?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/default/default/3","value":"Estou à procura de uma tripulação para participar. Você está interessado?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/default/default/4","value":"Estou à procura de um lugar entre uma tripulação. Posso me juntar a sua?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1","value":"Vou ficar enfiado aqui até quando você voltar a precisar dos meus serviços."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/novakid/default/2","value":"Não se preocupe comigo, eu vou ficar aqui até que você precisa de mim novamente, parceiro."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/novakid/default/0","value":"Tudo bem, parceiro, eu vou estar bem aqui."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/novakid/default/1","value":"Eu posso esperar aqui, se você gostaria."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/novakid/default/2","value":"Eu só vou ficar aqui por um momento."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/novakid/default/1","value":"Hora de partir!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/novakid/default/2","value":"Hora de montar, parceiro?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/novakid/default/3","value":"Yee-haw, vamos lá!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/novakid/default/0","value":"Sem tempo para paquerar - vamos montar!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/novakid/default/3","value":"Voltar me da tremedeiras..."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/apex/default/1","value":"Vou permanecer em guarda aqui até que você precise de mim, capitão."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0","value":"Eu vou ficar aqui por enquanto. Venha dizer oi quando você precisar de mim de novo, parceiro."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/default/default/0","value":"Eu vou estar aqui para você se você precisar de alguém para ajudá-lo a lutar contra os bandidos!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/default/default/0","value":"Heh... Morrendo de cócegas."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/default/default/1","value":"O que acabou de acontecer?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/default/default/2","value":"Estou de volta! E vivo!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/hylotl/default/2","value":"Eu acredito que eu poderia ajudá-lo em suas viagens. Talvez eu poderia me tornar um membro da tripulação na sua nave?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/penguin/default/2","value":"Heh... Morrendo de cócegas."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/floran/default/0","value":"Floran se sente engraçado."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/penguin/default/0","value":"Não acredito que morri quando eu estava bem no meio de alguma coisa."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/default/default/6","value":"Minha cabeça dói."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/penguin/default/1","value":"Vamos então."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/floran/default/0","value":"Sim, capitão!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/default/default/3","value":"Vamos, capitão!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/glitch/default/0","value":"Atordoado. Eu estava morto?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/default/default/5","value":"Eu não acho que eu renasci adequadamente..."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/penguin/default/1","value":"Sem auto-respeito pinguim gostaria ficar morto por muito tempo."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/hylotl/default/0","value":"Talvez a vida de viajante é a única para mim? Posso perguntar sobre se juntar a sua tripulação?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/floran/default/3","value":"Floran vai lutar melhor da próxima vez..."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/default/default/7","value":"O que eu estava fazendo exatamente antes de eu morrer?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/glitch/default/1","value":"Alerta. Devemos ir, capitão?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/default/default/3","value":"Estou de volta e inteiro!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/glitch/default/0","value":"Humilde. Te seguirei, capitão."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/hylotl/default/1","value":"Nada soa tão inspirador como a viagem através das estrelas. Posso me juntar a sua nave?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/floran/default/1","value":"Floran não é um fã de morrer."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/penguin/default/3","value":"Estou chegando."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/floran/default/4","value":"Será que estamos indo para algum lugar?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/floran/default/2","value":"Renascer faz cócegas."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/default/default/4","value":"Estou vivo novamente! Isso é bom."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/penguin/default/2","value":"Você é o chefe!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/floran/default/0","value":"Floran quer se juntar a tripulação da nave!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/floran/default/2","value":"Você parece forte. Floran quer se juntar a você!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/penguin/default/3","value":"Renascer faz minha cabeça se sentir confusa. Eu gosto disso."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/glitch/default/3","value":"Confuso. Eu estava morto a quanto tempo?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/default/default/1","value":"Capitão!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/floran/default/3","value":"Floran pronto para ir novamente!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/glitch/default/1","value":"Aliviado. Estou de volta!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/glitch/default/2","value":"Solene. É hora de de mover, capitão?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/default/default/0","value":"Sim, capitão!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/floran/default/1","value":"Vamoss!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/default/default/2","value":"Vamos indo!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/default/default/4","value":"Será que estamos indo para algum lugar?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/glitch/default/3","value":"Curioso. Será que estamos indo para algum lugar?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/penguin/default/0","value":"Sem lei, ateu, que não voa - isso sou eu!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/default/default/4","value":"Vou ficar aqui por agora, então."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/penguin/default/5","value":"Nem todos os pinguins são encrenqueiros! Quem estou enganando, sim nós somos."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/penguin/default/6","value":"Minhas penas estão todas grudentas com óleo de arma."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/glitch/default/2","value":"Ansioso. Eu sou uma pessoa muito útil! Posso me juntar a você?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/penguin/default/7","value":"Ontem eu ri tanto que quase engasguei com minha cavala."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/cantreach/glitch/default/1","value":"Preocupado. Espere por mim!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/cantreach/default/default/3","value":"Não vá muito longe!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/cantreach/default/default/0","value":"Eu não te alcanço!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/penguin/default/8","value":"Ei, eu sou <selfname>, prazer em conhecê-lo!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/cantreach/floran/default/2","value":"Floran não esta perto o suficiente de você!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/penguin/default/1","value":"Eu tenho uma barbatana no gatilho."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/penguin/default/2","value":"Escalei um Apex uma vez. Bela Vista."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/apex/default/0","value":"Se eu entrar na sua tripulação, você pode me proteger do Big Ape?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/cantreach/default/default/4","value":"Deixe-me pegar!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/penguin/default/9","value":"As pessoas pensam que os pinguins são bonitinhos. As pessoas estão erradas."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/default/default/0","value":"Vou esperar aqui."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/cantreach/default/default/1","value":"Você esta muito longe!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/avian/default/0","value":"Para navegar entre as estrelas... Talvez você esteja procurando por alguns tripulantes?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/default/default/5","value":"Eu vou ficar aqui."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/cantreach/floran/default/0","value":"Floran muito longe!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/avian/default/1","value":"Você tem uma nave? Talvez você esteja procurando pessoas para entrar pra uma tripulação?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/default/default/2","value":"Vou ficar aqui por agora, capitão."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/default/default/3","value":"Você precisa que eu fique aqui?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/cantreach/floran/default/1","value":"Floran é deixado para trás!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/penguin/default/3","value":"Nós pinguins somos imperturbáveis."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/penguin/default/4","value":"Mais ninguém se sentir como se tivesse havido alguma turbulência cósmica ultimamente?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/avian/default/2","value":"Diga-me, você está procurando por tripulantes? Porque navegar entre as estrelas seria maravilhoso..."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/default/default/0","value":"Olá aventureiro, se importa se eu acompanhá-lo?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/glitch/default/1","value":"Desesperado. Uma vida entre as estrelas é a única para mim. Por favor, eu posso entrar na sua tripulação?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/cantreach/default/default/2","value":"Ei, espere!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/floran/default/0","value":"Floran deve ficar aqui?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/default/default/1","value":"Se você precisar de proteção, você sabe onde me encontrar!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/floran/default/2","value":"Floran esta aqui para ajudá-lo a lutar se você precisar!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/default/default/2","value":"Se precisar de mim em batalha eu estarei aqui!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/penguin/default/2","value":"Espere ai, grandalhão"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/penguin/default/0","value":"Eu vou estar aqui... Esperando..."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/floran/default/1","value":"Floran é o melhor caçador! Peça a Floran se precisar de ajuda alguma hora."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/0","value":"Se você precisar de apoio na arte da batalha, você pode me encontrar aqui."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/apex/default/3","value":"Se precisar de mim em batalha você sabe onde estou."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3","value":"Ansioso. Se você precisar de alguém para ajudá-lo a lutar, vou estar aqui esperando!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/penguin/default/3","value":"Vou esperar aqui, descansar minhas barbatanas."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1","value":"Corajoso. Se precisar de ajuda em suas viagens, eu estarei aqui."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/penguin/default/0","value":"Vou esperar aqui até que você precise de mim para lutar contra algo para você."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2","value":"Eu sempre posso lhe emprestar minha espada e habilidade em batalha, se você precisar dela."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/1","value":"O combate é uma arte, e eu sou um artista! Estarei aqui se precisar de mim."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/avian/default/2","value":"Vou ficar aqui então você saberá onde estarei se você precisar de proteção!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/penguin/default/1","value":"Não vá muito longe!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0","value":"Velente. Eu estarei aqui se você precisar de um guerreiro para defendê-lo!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/glitch/default/1","value":"Paciente. Posso esperar aqui, capitão."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/apex/default/0","value":"Eu vou ficar aqui até que você precise de reforços."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/apex/default/2","value":"Se você precisar de apoio militar, eu estarei aqui."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/avian/default/0","value":"Eu vou estar aqui por você, se você precisar de alguém para ajudá-lo em batalha."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/floran/default/0","value":"Floran vai ficar aqui até que você precise que Floran esfaqueie ou atire em alguma coisa."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/2","value":"Estarei aqui se precisar de ajuda para se defender"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/penguin/default/2","value":"Posso esperar aqui."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/penguin/default/1","value":"Quando você precisar de minha proteção venha me pegar, chefe."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/penguin/default/2","value":"Eu vou estar esperando aqui  grandalhão, venha me pegar quando for a hora de lutar."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/penguin/default/1","value":"Tudo bem, chefe, eu vou esperar aqui."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/avian/default/1","value":"Se você precisar de uma mão no campo de batalha, você sabe onde me encontrar!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/glitch/default/2","value":"Amigável. Vou ficar aqui se você quiser, capitão."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/glitch/default/3","value":"Agradável. Posso ficar aqui, se preferir, capitão."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/floran/default/2","value":"Capitão quer que Floran siga?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/penguin/default/0","value":"Ok, eu estou pronto, andando."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/floran/default/2","value":"Floran vai ficar, então..."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/default/default/1","value":"Eu vou ficar aqui. Volte quando precisar de mim, capitão!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/penguin/default/0","value":"Ei, grandalhão! Deixe-me acompanha-lo!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/cantreach/glitch/default/0","value":"Frustrado. Eu não consigo te alcançar!"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/glitch/default/2","value":"Preocupado. Espero que eu tenha revivido corretamente. Eu pareço bem?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/glitch/default/4","value":"Cansado. Renascer é desgastante."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/novakid/default/2","value":"Voltar me da tremedeiras..."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/default/default/1","value":"Eu sou <selfname>, e eu realmente quero participar de uma nave. Você quer me contratar?"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/glitch/default/0","value":"Forçado. Vou ficar aqui por agora, então."}]
+[
+  {
+    "op": "replace",
+    "value": "Olá aventureiro, se importa se eu acompanhá-lo?",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Vou esperar aqui.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<role> 3 Vice-Tenente",
+    "path": "/scriptConfig/crew/ranks/5"
+  },
+  {
+    "op": "replace",
+    "value": "3 Assistente Técnico de <field>",
+    "path": "/scriptConfig/crew/ranks/1"
+  },
+  {
+    "op": "replace",
+    "value": "<role> de 64 Comodoro",
+    "path": "/scriptConfig/crew/ranks/6"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Estagiário",
+    "path": "/scriptConfig/crew/ranks/41"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Gerente de Inovação",
+    "path": "/scriptConfig/crew/ranks/25"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Estudante",
+    "path": "/scriptConfig/crew/ranks/40"
+  },
+  {
+    "op": "replace",
+    "value": "Agradável. Posso ficar aqui, se preferir, capitão.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Alerta. Devemos ir, capitão?",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Tudo bem, chefe, eu vou esperar aqui.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/penguin/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Tudo bem, parceiro, eu vou estar bem aqui.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Representante Consultivo Alternativo",
+    "path": "/scriptConfig/crew/ranks/35"
+  },
+  {
+    "op": "replace",
+    "value": "Amigável. Vou ficar aqui se você quiser, capitão.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Mais ninguém se sentir como se tivesse havido alguma turbulência cósmica ultimamente?",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Será que estamos indo para algum lugar?",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Será que estamos indo para algum lugar?",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Especialista em Poltrona",
+    "path": "/scriptConfig/crew/ranks/45"
+  },
+  {
+    "op": "replace",
+    "value": "<role> Assistente Adjunto",
+    "path": "/scriptConfig/crew/ranks/2"
+  },
+  {
+    "op": "replace",
+    "value": "<role> Reserva",
+    "path": "/scriptConfig/crew/ranks/16"
+  },
+  {
+    "op": "replace",
+    "value": "Corajoso. Se precisar de ajuda em suas viagens, eu estarei aqui.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Não acredito que morri quando eu estava bem no meio de alguma coisa.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/penguin/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Capitão quer que Floran siga?",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Capitão!",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "O combate é uma arte, e eu sou um artista! Estarei aqui se precisar de mim.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Voltar me da tremedeiras...",
+    "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Mestre de Comando",
+    "path": "/scriptConfig/crew/ranks/10"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Espero que eu tenha revivido corretamente. Eu pareço bem?",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Espere por mim!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Eu estava morto a quanto tempo?",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Atordoado. Eu estava morto?",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Auditor Dependente de <field>",
+    "path": "/scriptConfig/crew/ranks/12"
+  },
+  {
+    "op": "replace",
+    "value": "Desesperado. Uma vida entre as estrelas é a única para mim. Por favor, eu posso entrar na sua tripulação?",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você precisa que eu fique aqui?",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Não vá muito longe!",
+    "path": "/scriptConfig/dialog/crewmember/penguin/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Não vá muito longe!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Não se preocupe comigo, eu vou ficar aqui até que você precisa de mim novamente, parceiro.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Oficial Dreadnought de <field>",
+    "path": "/scriptConfig/crew/ranks/13"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. Eu sou uma pessoa muito útil! Posso me juntar a você?",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. Se você precisar de alguém para ajudá-lo a lutar, vou estar aqui esperando!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Oficial de <field> de Emergência",
+    "path": "/scriptConfig/crew/ranks/37"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. Posso acompanhá-lo nas estrelas? Eu tenho habilidades que poderiam ajudá-lo!",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<role> Executivo Fazedor de Café",
+    "path": "/scriptConfig/crew/ranks/9"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Especialista em Diplomacia",
+    "path": "/scriptConfig/crew/ranks/24"
+  },
+  {
+    "op": "replace",
+    "value": "<role> Mediano",
+    "path": "/scriptConfig/crew/ranks/38"
+  },
+  {
+    "op": "replace",
+    "value": "Floran se sente engraçado.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran esta aqui para ajudá-lo a lutar se você precisar!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Floran esta interessado em um emprego a longo prazo. Você pode dar um emprego para Floran?",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran é o melhor caçador! Peça a Floran se precisar de ajuda alguma hora.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran é deixado para trás!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não é um fã de morrer.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não esta perto o suficiente de você!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Floran pronto para ir novamente!",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Floran deve ficar aqui?",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran muito longe!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran quer se juntar a tripulação da nave!",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran vai lutar melhor da próxima vez...",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Floran vai ficar aqui.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran vai ficar, então...",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Floran vai ficar aqui até que você precise que Floran esfaqueie ou atire em alguma coisa.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Frustrado. Eu não consigo te alcançar!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Velente. Eu estarei aqui se você precisar de um guerreiro para defendê-lo!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Chefe de Relações",
+    "path": "/scriptConfig/crew/ranks/22"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Chefe de Operações",
+    "path": "/scriptConfig/crew/ranks/20"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Chefe Mesquinho de Argumentos",
+    "path": "/scriptConfig/crew/ranks/15"
+  },
+  {
+    "op": "replace",
+    "value": "Heh... Morrendo de cócegas.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Heh... Morrendo de cócegas.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/penguin/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Ei parceiro, você está procurando um velho andarilho estrelado para andar com você?",
+    "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Ei, eu sou <selfname>, prazer em conhecê-lo!",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Ei, grandalhão! Deixe-me acompanha-lo!",
+    "path": "/scriptConfig/dialog/crewmember/penguin/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ei, espere!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "<role> Amador",
+    "path": "/scriptConfig/crew/ranks/33"
+  },
+  {
+    "op": "replace",
+    "value": "Humilde. Te seguirei, capitão.",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu acredito que eu poderia ajudá-lo em suas viagens. Talvez eu poderia me tornar um membro da tripulação na sua nave?",
+    "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso esperar aqui, se você gostaria.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Posso esperar aqui.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/penguin/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não te alcanço!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Escalei um Apex uma vez. Bela Vista.",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não acho que eu renasci adequadamente...",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Eu tenho habilidades que podem ajudá-lo em seus empreendimentos. Gostaria de me contratar?",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso ter esquecido de onde eu vim, mas eu sei onde eu quero ir - com você, parceiro!",
+    "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vi uma luz brilhante... Não, espere, era só eu.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Vou permanecer em guarda aqui até que você precise de mim, capitão.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vou ficar aqui até que você precise de reforços.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vou estar aqui para você se você precisar de alguém para ajudá-lo a lutar contra os bandidos!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vou estar aqui por você, se você precisar de alguém para ajudá-lo em batalha.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Estarei aqui se precisar de ajuda para se defender",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vou estar esperando aqui  grandalhão, venha me pegar quando for a hora de lutar.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Vou ficar enfiado aqui até quando você voltar a precisar dos meus serviços.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vou ficar aqui por enquanto. Venha dizer oi quando você precisar de mim de novo, parceiro.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu só vou ficar aqui por um momento.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vou estar aqui... Esperando...",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/penguin/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Vou esperar aqui, descansar minhas barbatanas.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/penguin/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Vou ficar aqui por agora, capitão.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Vou ficar aqui por agora, então.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Vou ficar aqui então você saberá onde estarei se você precisar de proteção!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vou ficar aqui.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vou ficar aqui. Volte quando precisar de mim, capitão!",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Vou esperar aqui até que você precise de mim para lutar contra algo para você.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sou <selfname>, e eu realmente quero participar de uma nave. Você quer me contratar?",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Estou vivo novamente! Isso é bom.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Estou de volta e inteiro!",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Estou de volta! E vivo!",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Estou chegando.",
+    "path": "/scriptConfig/dialog/crewmember/follow/penguin/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Estou à procura de um lugar entre uma tripulação. Posso me juntar a sua?",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Estou à procura de uma tripulação para participar. Você está interessado?",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Estou querendo escapar para uma vida nova. Você está contratando?",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Eu tenho uma barbatana no gatilho.",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Se eu entrar na sua tripulação, você pode me proteger do Big Ape?",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Se você quiser alguém para se juntar a sua tripulação, então eu serei seu Alfaiate!",
+    "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Se você precisar de uma mão no campo de batalha, você sabe onde me encontrar!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Se precisar de mim em batalha eu estarei aqui!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Se precisar de mim em batalha você sabe onde estou.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Se você precisar de apoio militar, eu estarei aqui.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Se você precisar de proteção, você sabe onde me encontrar!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Se você precisar de apoio na arte da batalha, você pode me encontrar aqui.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Auditor Independente de <field>",
+    "path": "/scriptConfig/crew/ranks/11"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Chefe Independente de Operações",
+    "path": "/scriptConfig/crew/ranks/31"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Será que estamos indo para algum lugar?",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "<role> Mediano",
+    "path": "/scriptConfig/crew/ranks/32"
+  },
+  {
+    "op": "replace",
+    "value": "<role> de Último minuto",
+    "path": "/scriptConfig/crew/ranks/23"
+  },
+  {
+    "op": "replace",
+    "value": "Sem lei, ateu, que não voa - isso sou eu!",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Deixe-me pegar!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos indo!",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos então.",
+    "path": "/scriptConfig/dialog/crewmember/follow/penguin/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos, capitão!",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Vamoss!",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "<role> Canhão Solto",
+    "path": "/scriptConfig/crew/ranks/26"
+  },
+  {
+    "op": "replace",
+    "value": "<field> de Negociações de Baixa Qualidade",
+    "path": "/scriptConfig/crew/ranks/44"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Mestre dos Assuntos",
+    "path": "/scriptConfig/crew/ranks/34"
+  },
+  {
+    "op": "replace",
+    "value": "Minhas penas estão todas grudentas com óleo de arma.",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Minha cabeça dói.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "<role> 2 Vice-Tenente",
+    "path": "/scriptConfig/crew/ranks/43"
+  },
+  {
+    "op": "replace",
+    "value": "Sem auto-respeito pinguim gostaria ficar morto por muito tempo.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/penguin/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Sem tempo para paquerar - vamos montar!",
+    "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Nem todos os pinguins são encrenqueiros! Quem estou enganando, sim nós somos.",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Nada soa tão inspirador como a viagem através das estrelas. Posso me juntar a sua nave?",
+    "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Forçado. Vou ficar aqui por agora, então.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ok, eu estou pronto, andando.",
+    "path": "/scriptConfig/dialog/crewmember/follow/penguin/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Paciente. Posso esperar aqui, capitão.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "As pessoas pensam que os pinguins são bonitinhos. As pessoas estão erradas.",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez a vida a bordo de uma nave é a única para mim. Posso me juntar a você?",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez a vida de viajante é a única para mim? Posso perguntar sobre se juntar a sua tripulação?",
+    "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Investigador de <field> Privado",
+    "path": "/scriptConfig/crew/ranks/28"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Radical Inovador",
+    "path": "/scriptConfig/crew/ranks/30"
+  },
+  {
+    "op": "replace",
+    "value": "Diretor de <field> Regional",
+    "path": "/scriptConfig/crew/ranks/27"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Confiável",
+    "path": "/scriptConfig/crew/ranks/19"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Confiável",
+    "path": "/scriptConfig/crew/ranks/17"
+  },
+  {
+    "op": "replace",
+    "value": "Aliviado. Estou de volta!",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Voltar me da tremedeiras...",
+    "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Renascer faz minha cabeça se sentir confusa. Eu gosto disso.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/penguin/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Renascer faz cócegas.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Avaliador",
+    "path": "/scriptConfig/crew/ranks/42"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Oficial de Segundo Lugar",
+    "path": "/scriptConfig/crew/ranks/36"
+  },
+  {
+    "op": "replace",
+    "value": "<role> Secundário",
+    "path": "/scriptConfig/crew/ranks/0"
+  },
+  {
+    "op": "replace",
+    "value": "Oficial de <field>",
+    "path": "/scriptConfig/crew/ranks/8"
+  },
+  {
+    "op": "replace",
+    "value": "Solene. É hora de de mover, capitão?",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sempre posso lhe emprestar minha espada e habilidade em batalha, se você precisar dela.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Oficial de <field> Permanente",
+    "path": "/scriptConfig/crew/ranks/7"
+  },
+  {
+    "op": "replace",
+    "value": "Diga-me, você está procurando por tripulantes? Porque navegar entre as estrelas seria maravilhoso...",
+    "path": "/scriptConfig/dialog/crewmember/offer/avian/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Topógrafo Temporal",
+    "path": "/scriptConfig/crew/ranks/29"
+  },
+  {
+    "op": "replace",
+    "value": "<role> Substituto Temporário",
+    "path": "/scriptConfig/crew/ranks/4"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Conselheiro Teórico",
+    "path": "/scriptConfig/crew/ranks/18"
+  },
+  {
+    "op": "replace",
+    "value": "Hora de montar, parceiro?",
+    "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Hora de partir!",
+    "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Cansado. Renascer é desgastante.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Para navegar entre as estrelas... Talvez você esteja procurando por alguns tripulantes?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Estagiário Mestre",
+    "path": "/scriptConfig/crew/ranks/14"
+  },
+  {
+    "op": "replace",
+    "value": "<role> Aprendiz Estagiário",
+    "path": "/scriptConfig/crew/ranks/3"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Estagiário não Remunerado",
+    "path": "/scriptConfig/crew/ranks/39"
+  },
+  {
+    "op": "replace",
+    "value": "Nós pinguins somos imperturbáveis.",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Espere ai, grandalhão",
+    "path": "/scriptConfig/dialog/crewmember/penguin/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu estava morto? Bem, eu acho que não estou agora!",
+    "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "O que acabou de acontecer?",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "O que eu estava fazendo exatamente antes de eu morrer?",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Quando você precisar de minha proteção venha me pegar, chefe.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "<role> Amador",
+    "path": "/scriptConfig/crew/ranks/21"
+  },
+  {
+    "op": "replace",
+    "value": "Você sabe, você e eu poderíamos nos dar muito bem. Gostaria me contratar para a sua tripulação?",
+    "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Yee-haw, vamos lá!",
+    "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Sim, capitão!",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Sim, capitão!",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ontem eu ri tanto que quase engasguei com minha cavala.",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Você é EXATAMENTE o tipo de pessoa com quem eu deveria trabalhar! Gostaria de contratar?",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você tem uma nave? Talvez você esteja procurando pessoas para entrar pra uma tripulação?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você parece forte. Floran quer se juntar a você!",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você é o chefe!",
+    "path": "/scriptConfig/dialog/crewmember/follow/penguin/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você esta muito longe!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Segurança",
+    "path": "/scriptConfig/crew/role/field"
+  },
+  {
+    "op": "replace",
+    "value": "Soldado",
+    "path": "/scriptConfig/crew/role/name"
+  }
+]

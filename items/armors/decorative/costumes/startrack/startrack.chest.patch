@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Este top energizará seu portador."}, {"op": "replace", "path": "/shortdescription", "value": "Space Uniform Top"}]
+[
+  {
+    "op": "replace",
+    "value": "Space Uniform Top",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este top energizará seu portador.",
+    "path": "/description"
+  }
+]

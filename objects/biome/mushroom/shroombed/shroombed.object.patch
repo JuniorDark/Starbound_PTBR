@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma cama de cogumelo. Garantido para lhe dar sonhos estranhos."}, {"op": "replace", "path": "/shortdescription", "value": "Shroom Bed"}, {"op": "replace", "path": "/floranDescription", "value": "Cama balançante."}, {"op": "replace", "path": "/glitchDescription", "value": "Detecção. Esta cama de cogumelo emite esporos alucinógenos leves."}, {"op": "replace", "path": "/apexDescription", "value": "Esta cama é divertida e saltitante."}, {"op": "replace", "path": "/avianDescription", "value": "Esta cama balança. Eu me sinto enjoado."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta cama balança suavemente, como se fosse um barco. Calmante."}, {"op": "replace", "path": "/humanDescription", "value": "Uma cama feita de cogumelos."}, {"op": "replace", "path": "/novakidDescription", "value": "Não sei se esta cama de cogumelo é tão estável..."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cama de cogumelo. Garantido para lhe dar sonhos estranhos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Detecção. Esta cama de cogumelo emite esporos alucinógenos leves.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cama balançante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não sei se esta cama de cogumelo é tão estável...",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama feita de cogumelos.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Shroom Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama balança suavemente, como se fosse um barco. Calmante.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama balança. Eu me sinto enjoado.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama é divertida e saltitante.",
+    "path": "/apexDescription"
+  }
+]

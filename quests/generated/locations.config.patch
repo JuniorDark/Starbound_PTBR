@@ -1,1 +1,2562 @@
-[{"op":"replace","path":"/garden/archway/name","value":"topo da velha passagem arcada"},{"op":"replace","path":"/garden/archway1/name","value":"torre destruída"},{"op":"replace","path":"/garden/archway2/name","value":"torre destruída"},{"op":"replace","path":"/garden/gardenbridge1/name","value":"ponte"},{"op":"replace","path":"/garden/gardenbridge2/name","value":"ponte"},{"op":"replace","path":"/garden/gardenhouseruin1/name","value":"ruínas da antiga casa"},{"op":"replace","path":"/garden/grave1/name","value":"túmulo solitário"},{"op":"replace","path":"/garden/grave2/name","value":"túmulo solitário"},{"op":"replace","path":"/garden/graveyard/name","value":"cemitério"},{"op":"replace","path":"/garden/graveyardflowers/name","value":"cemitério florido"},{"op":"replace","path":"/garden/littlecave1/name","value":"acampamento na pequena caverna"},{"op":"replace","path":"/garden/mediumburiedruin/name","value":"ruínas soterradas"},{"op":"replace","path":"/garden/mediumgardenruin1/name","value":"parede arruinada"},{"op":"replace","path":"/garden/mediumgardenruincamp/name","value":"acampamento no edifício em ruínas"},{"op":"replace","path":"/garden/mediumgardenruinplain/name","value":"pilha de escombros"},{"op":"replace","path":"/garden/mediumgardenruintall/name","value":"grande edifício em ruínas"},{"op":"replace","path":"/garden/mediumruin/name","value":"monte de entulho folhoso"},{"op":"replace","path":"/garden/smallcamp/name","value":"acampamento"},{"op":"replace","path":"/garden/smallpile/name","value":"túmulo solitário"},{"op":"replace","path":"/garden/smallstonehouse/name","value":"antigo edifício de pedra"},{"op":"replace","path":"/garden/smalltower/name","value":"alta torre antiga"},{"op":"replace","path":"/garden/smalltower2/name","value":"torre antiga"},{"op":"replace","path":"/garden/tunnelsmall1/name","value":"porão destruído"},{"op":"replace","path":"/garden/wall1/name","value":"antiga muralha"},{"op":"replace","path":"/garden/wall2/name","value":"muro destruído"},{"op":"replace","path":"/garden/wall3/name","value":"muro destruído"},{"op":"replace","path":"/garden/well1/name","value":"poço"},{"op":"replace","path":"/garden/well1-bottom/name","value":"fundo do poço"},{"op":"replace","path":"/garden/well3/name","value":"poço"},{"op":"replace","path":"/alien/tunnel1/name","value":"túnel pequeno"},{"op":"replace","path":"/alien/lab1/name","value":"laboratório"},{"op":"replace","path":"/alien/lab2/name","value":"laboratório"},{"op":"replace","path":"/alien/lab3/name","value":"laboratório"},{"op":"replace","path":"/alien/lab4/name","value":"laboratório"},{"op":"replace","path":"/alien/lab5/name","value":"laboratório"},{"op":"replace","path":"/alien/podium/name","value":"pódio de pesquisa"},{"op":"replace","path":"/alien/crater/name","value":"cratera"},{"op":"replace","path":"/alpine/house1/name","value":"cabana de pedra"},{"op":"replace","path":"/alpine/house2/name","value":"cabana de pedra"},{"op":"replace","path":"/alpine/cliffhouse1/name","value":"cabana do lado do penhasco"},{"op":"replace","path":"/alpine/cliffhouse2/name","value":"cabana do lado do penhasco"},{"op":"replace","path":"/alpine/cliffhouse3/name","value":"cabana do lado do penhasco"},{"op":"replace","path":"/alpine/cliffhouse4/name","value":"cabana do lado do penhasco"},{"op":"replace","path":"/alpine/cliffhouse5/name","value":"cabana do lado do penhasco"},{"op":"replace","path":"/alpine/cliffhouse6/name","value":"cabana do lado do penhasco"},{"op":"replace","path":"/alpine/cliffhouse7/name","value":"cabana do lado do penhasco"},{"op":"replace","path":"/alpine/cliffhouse8/name","value":"cabana do lado do penhasco"},{"op":"replace","path":"/alpine/cliffhouse9/name","value":"cabana do lado do penhasco"},{"op":"replace","path":"/alpine/cliffhouse10/name","value":"cabana do lado do penhasco"},{"op":"replace","path":"/alpine/storagehut1/name","value":"cabana de armazenamento"},{"op":"replace","path":"/alpine/storagehut2/name","value":"cabana de armazenamento"},{"op":"replace","path":"/alpine/tunnel1/name","value":"túnel de pedra"},{"op":"replace","path":"/bioluminescence/cave1/name","value":"pequena caverna"},{"op":"replace","path":"/bioluminescence/tunnel1/name","value":"pequeno túnel"},{"op":"replace","path":"/bioluminescence/pond1/name","value":"lagoa"},{"op":"replace","path":"/bioluminescence/spire1/name","value":"torre azul"},{"op":"replace","path":"/bioluminescence/spire2/name","value":"torre amarela"},{"op":"replace","path":"/bones/fort1/name","value":"forte pequeno"},{"op":"replace","path":"/bones/fort2/name","value":"forte grande"},{"op":"replace","path":"/bones/grinder/name","value":"moedor de osso"},{"op":"replace","path":"/bones/house1/name","value":"cabana abandonada"},{"op":"replace","path":"/bones/storage1/name","value":"cabana de armazenamento"},{"op":"replace","path":"/bones/storage2/name","value":"cabana de armazenamento"},{"op":"replace","path":"/bones/storage3/name","value":"cabana de armazenamento alta"},{"op":"replace","path":"/bones/storage4/name","value":"cabana de armazenamento"},{"op":"replace","path":"/bones/tunnel1/name","value":"túnel de madeira"},{"op":"replace","path":"/colourful/tunnel1/name","value":"túnel no morro"},{"op":"replace","path":"/colourful/tunnel2/name","value":"grande túnel aberto"},{"op":"replace","path":"/colourful/tunnel3/name","value":"túnel de pedra"},{"op":"replace","path":"/colourful/tunnel4/name","value":"túnel pequeno"},{"op":"replace","path":"/colourful/pond1/name","value":"lagoa de pedra"},{"op":"replace","path":"/colourful/pond2/name","value":"pequeno lago"},{"op":"replace","path":"/colourful/mound1/name","value":"túnel sob uma colina"},{"op":"replace","path":"/dark/cave1/name","value":"entrada da caverna"},{"op":"replace","path":"/dark/crater1/name","value":"pequena cratera"},{"op":"replace","path":"/dark/cliff1/name","value":"lado do penhasco"},{"op":"replace","path":"/dark/cliff2/name","value":"lado do penhasco"},{"op":"replace","path":"/dark/ruins1/name","value":"ruínas antigas"},{"op":"replace","path":"/dark/ruins2/name","value":"ruínas antigas"},{"op":"replace","path":"/dark/ruins3/name","value":"ruínas antigas"},{"op":"replace","path":"/dark/ruins4/name","value":"ruínas antigas"},{"op":"replace","path":"/dark/ruins5/name","value":"ruínas antigas"},{"op":"replace","path":"/dark/altar1/name","value":"pequeno altar"},{"op":"replace","path":"/dark/hill1/name","value":"ruínas alta"},{"op":"replace","path":"/dark/tower1/name","value":"ruína alta"},{"op":"replace","path":"/dark/tower2/name","value":"ampla ruína"},{"op":"replace","path":"/dark/tower3/name","value":"torre arruinada dividida"},{"op":"replace","path":"/dark/tower4/name","value":"ruína alta"},{"op":"replace","path":"/dark/platform1/name","value":"pequena plataforma em ruínas"},{"op":"replace","path":"/dark/platform2/name","value":"plataforma antiga"},{"op":"replace","path":"/dark/platform3/name","value":"túnel sob a plataforma antiga"},{"op":"replace","path":"/dark/smallruin1/name","value":"pequenas ruínas"},{"op":"replace","path":"/dark/smallruin2/name","value":"pequenas ruínas"},{"op":"replace","path":"/dark/smallruin3/name","value":"pequenas ruínas"},{"op":"replace","path":"/dark/spire/name","value":"ruínas antigas"},{"op":"replace","path":"/dark/buried1/name","value":"ruínas soterradas"},{"op":"replace","path":"/desert/arch1/name","value":"velho arco de pedra"},{"op":"replace","path":"/desert/arch2/name","value":"velho arco de pedra"},{"op":"replace","path":"/desert/arch3/name","value":"velhos pilares de pedra"},{"op":"replace","path":"/desert/arch4/name","value":"ruínas de arenito"},{"op":"replace","path":"/desert/column1/name","value":"antigas colunas de pedra"},{"op":"replace","path":"/desert/column2/name","value":"antiga coluna de arenito"},{"op":"replace","path":"/desert/house1/name","value":"casa de madeira pequena"},{"op":"replace","path":"/desert/house2/name","value":"cabana de madeira elevada"},{"op":"replace","path":"/desert/house3/name","value":"casa de madeira pequena"},{"op":"replace","path":"/desert/house4/name","value":"casa de madeira grande"},{"op":"replace","path":"/desert/house5/name","value":"casa de madeira inclinada"},{"op":"replace","path":"/desert/house6/name","value":"casa de arenito"},{"op":"replace","path":"/desert/pyramid1/name","value":"pequena pirâmide"},{"op":"replace","path":"/desert/well1/name","value":"velho poço de arenito"},{"op":"replace","path":"/desert/well2/name","value":"velho poço de arenito"},{"op":"replace","path":"/desert/well3/name","value":"velho poço de arenito"},{"op":"replace","path":"/desert/oldhouse1/name","value":"casa de arenito abandonada"},{"op":"replace","path":"/desert/oldhouse2/name","value":"casa de arenito abandonada"},{"op":"replace","path":"/desert/oldhouse3/name","value":"cabana de arenito abandonada"},{"op":"replace","path":"/eyepatch/arch1/name","value":"arco pequeno"},{"op":"replace","path":"/eyepatch/tunnel1/name","value":"pequena lagoa"},{"op":"replace","path":"/eyepatch/mound1/name","value":"colina com tunel"},{"op":"replace","path":"/eyepatch/mound2/name","value":"colina com tunel"},{"op":"replace","path":"/eyepatch/tower1/name","value":"torre de guarda"},{"op":"replace","path":"/eyepatch/tower2/name","value":"torre de guarda"},{"op":"replace","path":"/eyepatch/tower3/name","value":"antigo posto de guarda"},{"op":"replace","path":"/eyepatch/lab1/name","value":"laboratório de pesquisa"},{"op":"replace","path":"/flesh/tunnel1/name","value":"pequeno cume oco"},{"op":"replace","path":"/flesh/cave1/name","value":"entrada da caverna carnuda"},{"op":"replace","path":"/flesh/pit1/name","value":"pequena vala carnuda"},{"op":"replace","path":"/flesh/clearing1/name","value":"pequena clareira"},{"op":"replace","path":"/forest/clearing1/name","value":"pequena clareira"},{"op":"replace","path":"/forest/clearing2/name","value":"pequena clareira"},{"op":"replace","path":"/forest/clearing3/name","value":"pequena clareira"},{"op":"replace","path":"/forest/cottage1/name","value":"casa de madeira"},{"op":"replace","path":"/forest/well1/name","value":"poço de pedra velho"},{"op":"replace","path":"/forest/well2/name","value":"poço de pedra velho"},{"op":"replace","path":"/forest/hut1/name","value":"pequena cabana de pedra"},{"op":"replace","path":"/forest/hut2/name","value":"pequena cabana de pedra"},{"op":"replace","path":"/forest/hut3/name","value":"casa de pedra alta"},{"op":"replace","path":"/forest/hut4/name","value":"pequena cabana de madeira"},{"op":"replace","path":"/forest/hut5/name","value":"velha ruína de madeira"},{"op":"replace","path":"/forest/hut6/name","value":"cabana de madeira"},{"op":"replace","path":"/forest/hut7/name","value":"velha ruína de madeira"},{"op":"replace","path":"/forest/pond1/name","value":"pequena lagoa de pedra"},{"op":"replace","path":"/forest/pond2/name","value":"pequena lagoa de pedra"},{"op":"replace","path":"/forest/pond3/name","value":"lagoa rasa"},{"op":"replace","path":"/forest/pond4/name","value":"lagoa rasa"},{"op":"replace","path":"/forest/pond5/name","value":"pequena lagoa"},{"op":"replace","path":"/forest/pond6/name","value":"pequena lagoa"},{"op":"replace","path":"/forest/pond7/name","value":"pequena ruína inundada"},{"op":"replace","path":"/forest/pond8/name","value":"lagoa rasa"},{"op":"replace","path":"/forest/pond9/name","value":"pequena lagoa em ruinas"},{"op":"replace","path":"/forest/ruin1/name","value":"pequeno muro em ruínas"},{"op":"replace","path":"/forest/ruin2/name","value":"ponte de pedra arruinada"},{"op":"replace","path":"/forest/ruin3/name","value":"plataforma de pedra elevada"},{"op":"replace","path":"/forest/ruin4/name","value":"ruína de pedra pequena"},{"op":"replace","path":"/forest/ruin5/name","value":"cabana de madeira abandonada"},{"op":"replace","path":"/forest/ruin6/name","value":"cabana folhosa"},{"op":"replace","path":"/forest/ruin7/name","value":"ruína de pedra pequena"},{"op":"replace","path":"/foundry/cliffside1/name","value":"fornalha no penhasco"},{"op":"replace","path":"/foundry/cliffside2/name","value":"fornalha no penhasco"},{"op":"replace","path":"/foundry/cliffside3/name","value":"poço do elevador no penhasco"},{"op":"replace","path":"/foundry/cliffside4/name","value":"poço do elevador no penhasco"},{"op":"replace","path":"/foundry/cliffside5/name","value":"poço do elevador no penhasco"},{"op":"replace","path":"/foundry/cliffside6/name","value":"pequena caverna no penhasco"},{"op":"replace","path":"/foundry/cliffside7/name","value":"poço do elevador no penhasco"},{"op":"replace","path":"/foundry/clearing1/name","value":"pequena clareira"},{"op":"replace","path":"/foundry/clearing2/name","value":"pequena clareira"},{"op":"replace","path":"/foundry/clearing3/name","value":"pequena clareira"},{"op":"replace","path":"/foundry/clearing4/name","value":"pequena clareira"},{"op":"replace","path":"/foundry/factory1/name","value":"pequena plataforma industrial"},{"op":"replace","path":"/foundry/factory2/name","value":"Plataforma industrial elevada"},{"op":"replace","path":"/foundry/factory3/name","value":"pequena clareira"},{"op":"replace","path":"/foundry/factory4/name","value":"torre industrial alta"},{"op":"replace","path":"/geode/crater1/name","value":"par de pequenas crateras"},{"op":"replace","path":"/geode/crater2/name","value":"vala cristalina"},{"op":"replace","path":"/geode/crater3/name","value":"vala cristalina"},{"op":"replace","path":"/geode/cave1/name","value":"caverna larga"},{"op":"replace","path":"/geode/cave2/name","value":"caverna elevada"},{"op":"replace","path":"/geode/cave3/name","value":"pequena caverna oca"},{"op":"replace","path":"/geode/clearing1/name","value":"pequena clareira"},{"op":"replace","path":"/geode/clearing2/name","value":"pequena clareira"},{"op":"replace","path":"/geode/clearing3/name","value":"pequena clareira"},{"op":"replace","path":"/geode/clearing4/name","value":"pequena clareira"},{"op":"replace","path":"/geode/clearing5/name","value":"pequena clareira"},{"op":"replace","path":"/geode/clearing6/name","value":"pequena clareira"},{"op":"replace","path":"/geode/spire1/name","value":"pináculo de cristal pontiagudo"},{"op":"replace","path":"/geode/spire2/name","value":"colina cristalina espinhosa"},{"op":"replace","path":"/geode/hill1/name","value":"pequena colina"},{"op":"replace","path":"/geode/hill2/name","value":"pequena colina"},{"op":"replace","path":"/geode/hill3/name","value":"pequena caverna sob uma colina"},{"op":"replace","path":"/geode/hill4/name","value":"pequena caverna sob uma colina"},{"op":"replace","path":"/geode/cave/name","value":"caverna larga"},{"op":"replace","path":"/giantflowers/bridge1/name","value":"pequena ponte de madeira"},{"op":"replace","path":"/giantflowers/hut1/name","value":"cabana de madeira enterrada"},{"op":"replace","path":"/giantflowers/pond1/name","value":"pequena lagoa"},{"op":"replace","path":"/giantflowers/rocky1/name","value":"afloramento de pedra"},{"op":"replace","path":"/giantflowers/rocky2/name","value":"afloramento de pedra inundado"},{"op":"replace","path":"/giantflowers/rocky3/name","value":"par de colunas de pedra"},{"op":"replace","path":"/giantflowers/rocky4/name","value":"caverna rasa de pedra"},{"op":"replace","path":"/giantflowers/rocky5/name","value":"par de pequenos afloramentos de pedra"},{"op":"replace","path":"/giantflowers/hill4/name","value":"pequena caverna sob uma colina"},{"op":"replace","path":"/giantflowers/cliff1/name","value":"pequeno penhasco"},{"op":"replace","path":"/giantflowers/cliff2/name","value":"pequeno penhasco"},{"op":"replace","path":"/giantflowers/tower1/name","value":"torre de vigia de madeira"},{"op":"replace","path":"/hive/cliff1/name","value":"túnel no penhasco"},{"op":"replace","path":"/hive/cliff2/name","value":"pequena caverna no penhasco"},{"op":"replace","path":"/hive/cliff3/name","value":"pequena caverna no penhasco"},{"op":"replace","path":"/hive/cliff4/name","value":"pequena caverna no penhasco"},{"op":"replace","path":"/hive/cliff5/name","value":"túnel no penhasco"},{"op":"replace","path":"/hive/pit1/name","value":"pequeno buraco"},{"op":"replace","path":"/hive/pit2/name","value":"túnel raso fechado"},{"op":"replace","path":"/hive/pit3/name","value":"pequena clareira"},{"op":"replace","path":"/hive/clearing1/name","value":"pequena clareira elevada"},{"op":"replace","path":"/hive/clearing2/name","value":"clareira submersa"},{"op":"replace","path":"/hive/cave1/name","value":"entrada da pequena caverna"},{"op":"replace","path":"/hive/cave2/name","value":"grande monte oco"},{"op":"replace","path":"/jungle/hut1/name","value":"cabine de madeira abandonada"},{"op":"replace","path":"/jungle/hut2/name","value":"velho caminho no penhasco"},{"op":"replace","path":"/jungle/hut3/name","value":"antiga caverna no penhasco"},{"op":"replace","path":"/jungle/tunnel1/name","value":"antigo túnel no penhasco"},{"op":"replace","path":"/jungle/tunnel2/name","value":"túnel no penhasco coberto"},{"op":"replace","path":"/jungle/tunnel3/name","value":"túnel no penhasco coberto"},{"op":"replace","path":"/jungle/tunnel4/name","value":"túnel no penhasco abandonado"},{"op":"replace","path":"/jungle/tunnel5/name","value":"pequeno túnel"},{"op":"replace","path":"/jungle/bridge1/name","value":"pequena ponte de vime"},{"op":"replace","path":"/jungle/platform1/name","value":"par de plataformas de madeira"},{"op":"replace","path":"/jungle/platform2/name","value":"grupo de velhas plataformas de madeira"},{"op":"replace","path":"/jungle/platform3/name","value":"plataforma de madeira velha"},{"op":"replace","path":"/jungle/platform4/name","value":"caverna com velhas plataformas de madeira"},{"op":"replace","path":"/jungle/platform5/name","value":"grupo de velhas plataformas de madeira"},{"op":"replace","path":"/jungle/platform6/name","value":"pequena plataforma elevada"},{"op":"replace","path":"/jungle/cave1/name","value":"pequena enseada coberta"},{"op":"replace","path":"/jungle/cave2/name","value":"pequena enseada coberta"},{"op":"replace","path":"/jungle/pond1/name","value":"pequena lagoa"},{"op":"replace","path":"/jungle/pond2/name","value":"pequena lagoa"},{"op":"replace","path":"/jungle/tower1/name","value":"torre de vigia de madeira coberta"},{"op":"replace","path":"/jungle/tower2/name","value":"torre de vigia de madeira alta"},{"op":"replace","path":"/oasis/bridge1/name","value":"pequena ponte de madeira"},{"op":"replace","path":"/oasis/hut1/name","value":"pequena cabana de arenito"},{"op":"replace","path":"/oasis/hut2/name","value":"pequena cabana de arenito"},{"op":"replace","path":"/oasis/hut3/name","value":"cabana de arenito alta"},{"op":"replace","path":"/oasis/hut4/name","value":"cabana de armazenamento de madeira abandonada"},{"op":"replace","path":"/oasis/hut5/name","value":"pequena cabana de arenito"},{"op":"replace","path":"/oasis/hut6/name","value":"cabana de arenito ao lado de um poço"},{"op":"replace","path":"/oasis/hut7/name","value":"cabana de arenito ao lado de um poço"},{"op":"replace","path":"/oasis/hut8/name","value":"posto de guarda de madeira"},{"op":"replace","path":"/oasis/hutpond1/name","value":"cabana de madeira ao lado de uma pequena lagoa"},{"op":"replace","path":"/oasis/pond1/name","value":"pequena lagoa"},{"op":"replace","path":"/oasis/pond2/name","value":"pequena lagoa"},{"op":"replace","path":"/oasis/ruin1/name","value":"cabana de arenito afundada"},{"op":"replace","path":"/ocean/column1/name","value":"par de pequenas colunas"},{"op":"replace","path":"/ocean/cave1/name","value":"pequena fenda"},{"op":"replace","path":"/ocean/ruin1/name","value":"ruína de pedra pequena"},{"op":"replace","path":"/ocean/ruin2/name","value":"naufrágio de um navio pequeno"},{"op":"replace","path":"/ocean/ruin3/name","value":"cabana de madeira em ruínas"},{"op":"replace","path":"/ocean/ruin4/name","value":"pilha de escombros de pedra"},{"op":"replace","path":"/ocean/ruin5/name","value":"ruína de pedra afundada"},{"op":"replace","path":"/ocean/ruin6/name","value":"ruínas pedregosas"},{"op":"replace","path":"/ocean/ruin7/name","value":"escombros de pedra"},{"op":"replace","path":"/ocean/ship1/name","value":"naufrágio do navio de madeira"},{"op":"replace","path":"/ocean/ditch1/name","value":"vala pedregosa"},{"op":"replace","path":"/prism/cave1/name","value":"entrada da caverna"},{"op":"replace","path":"/prism/cave2/name","value":"pequena saliência"},{"op":"replace","path":"/prism/cave3/name","value":"pequena caverna oca"},{"op":"replace","path":"/prism/clearing1/name","value":"pequena clareira inundada"},{"op":"replace","path":"/prism/clearing2/name","value":"túnel sob uma pequena saliência"},{"op":"replace","path":"/prism/hill1/name","value":"pequena colina"},{"op":"replace","path":"/prism/hill2/name","value":"pequena colina pontiaguda"},{"op":"replace","path":"/prism/pond1/name","value":"lagoa rasa"},{"op":"replace","path":"/prism/temple1/name","value":"caminho ornamentado"},{"op":"replace","path":"/prism/temple2/name","value":"clareira pavimentada"},{"op":"replace","path":"/prism/temple3/name","value":"templo ornamentado"},{"op":"replace","path":"/prism/tunnel1/name","value":"longo túnel"},{"op":"replace","path":"/savannah/arena1/name","value":"arena de madeira"},{"op":"replace","path":"/savannah/hut1/name","value":"entrada para uma cabana subterrânea"},{"op":"replace","path":"/savannah/hut2/name","value":"cabana subterrânea abandonada"},{"op":"replace","path":"/savannah/hut3/name","value":"entrada estreita da caverna"},{"op":"replace","path":"/savannah/hut4/name","value":"velho chalé"},{"op":"replace","path":"/savannah/hut5/name","value":"ruínas de um chalé"},{"op":"replace","path":"/savannah/hut6/name","value":"chalé alto"},{"op":"replace","path":"/savannah/hut7/name","value":"chalé pequeno"},{"op":"replace","path":"/savannah/hut8/name","value":"chalé elevado"},{"op":"replace","path":"/savannah/hut9/name","value":"par de chalés elevados"},{"op":"replace","path":"/savannah/hut10/name","value":"chalé velho empoeirado"},{"op":"replace","path":"/savannah/hut11/name","value":"chalé velho empoeirado"},{"op":"replace","path":"/savannah/hut12/name","value":"chalé pequeno empoeirado"},{"op":"replace","path":"/savannah/hut13/name","value":"pequeno chalé acima de um túnel"},{"op":"replace","path":"/savannah/hut14/name","value":"chalé alto"},{"op":"replace","path":"/savannah/hut15/name","value":"chalé alto"},{"op":"replace","path":"/savannah/hut16/name","value":"clareira abaixo de um chalé abandonado alto"},{"op":"replace","path":"/savannah/hut17/name","value":"chalé alto abandonado"},{"op":"replace","path":"/savannah/hut18/name","value":"pequeno abrigo de madeira"},{"op":"replace","path":"/savannah/house1/name","value":"chalé velho empoeirado"},{"op":"replace","path":"/savannah/house2/name","value":"casa velha"},{"op":"replace","path":"/savannah/house3/name","value":"casa elevada empoeirada"},{"op":"replace","path":"/savannah/house4/name","value":"pequena passagem de madeira"},{"op":"replace","path":"/savannah/hutwithwell1/name","value":"chalé ao lado de um poço"},{"op":"replace","path":"/savannah/tunnel1/name","value":"túnel de madeira sob um chalé"},{"op":"replace","path":"/savannah/tunnel2/name","value":"túnel de madeira baixo"},{"op":"replace","path":"/savannah/tunnel3/name","value":"túnel de madeira baixo"},{"op":"replace","path":"/savannah/tunnel4/name","value":"grupo de túneis de madeira em uma colina"},{"op":"replace","path":"/savannah/camp1/name","value":"pequeno acampamento"},{"op":"replace","path":"/savannah/camp2/name","value":"pequeno acampamento"},{"op":"replace","path":"/savannah/platform1/name","value":"plataforma de madeira"},{"op":"replace","path":"/savannah/platform2/name","value":"grupo de plataformas de madeira"},{"op":"replace","path":"/savannah/bunker1/name","value":"torre de guarda acima de um bunker"},{"op":"replace","path":"/savannah/bunker2/name","value":"bunker subterrâneo"},{"op":"replace","path":"/savannah/bunker3/name","value":"piso mais baixo de um bunker subterrâneo"},{"op":"replace","path":"/savannah/cliffside1/name","value":"túnel no penhasco empoeirado"},{"op":"replace","path":"/savannah/cliffside2/name","value":"túnel no penhasco empoeirado"},{"op":"replace","path":"/savannah/pond1/name","value":"pequena ponte acima de uma lagoa"},{"op":"replace","path":"/scorchedcity/house1/name","value":"pequeno edifício em ruínas"},{"op":"replace","path":"/scorchedcity/house2/name","value":"pequeno edifício em ruínas"},{"op":"replace","path":"/scorchedcity/shelter1/name","value":"velho abrigo subterrâneo"},{"op":"replace","path":"/scorchedcity/shelter2/name","value":"velho abrigo subterrâneo"},{"op":"replace","path":"/scorchedcity/platform1/name","value":"caminho de metal quebrado"},{"op":"replace","path":"/scorchedcity/platform2/name","value":"cova com uma ponte de metal desabada"},{"op":"replace","path":"/scorchedcity/platform3/name","value":"plataforma ao lado de uma pilha de sucata de metal"},{"op":"replace","path":"/scorchedcity/platform4/name","value":"plataforma ao lado de uma pilha de sucata de metal"},{"op":"replace","path":"/scorchedcity/platform5/name","value":"plataforma submersa ao lado de uma pilha de sucata de metal"},{"op":"replace","path":"/scorchedcity/platform6/name","value":"plataforma ao lado de uma pilha de sucata de metal"},{"op":"replace","path":"/scorchedcity/platform7/name","value":"plataforma ao lado de uma pilha de sucata de metal"},{"op":"replace","path":"/scorchedcity/clearing1/name","value":"clareira com entulho de metal"},{"op":"replace","path":"/scorchedcity/clearing2/name","value":"via de metal coberta de entulho"},{"op":"replace","path":"/scorchedcity/building1/name","value":"prédio abandonado enferrujado"},{"op":"replace","path":"/scorchedcity/building2/name","value":"andar superior de um prédio abandonado"},{"op":"replace","path":"/scorchedcity/building3/name","value":"prédio abandonado enferrujado"},{"op":"replace","path":"/scorchedcity/building4/name","value":"andar superior de um prédio abandonado"},{"op":"replace","path":"/scorchedcity/building5/name","value":"topo de um edifício velho enferrujado"},{"op":"replace","path":"/scorchedcity/building6/name","value":"andar superior de um prédio abandonad"},{"op":"replace","path":"/scorchedcity/building7/name","value":"prédio abandonado enferrujado"},{"op":"replace","path":"/scorchedcity/building8/name","value":"prédio abandonado enferrujado"},{"op":"replace","path":"/scorchedcity/building9/name","value":"teto de um pequeno edifício"},{"op":"replace","path":"/scorchedcity/pile1/name","value":"grande pilha de sucata"},{"op":"replace","path":"/scorchedcity/pile2/name","value":"pilha de sucata"},{"op":"replace","path":"/scorchedcity/pile3/name","value":"pilha de sucata"},{"op":"replace","path":"/scorchedcity/pile4/name","value":"pilha de sucata"},{"op":"replace","path":"/shroom/building1/name","value":"passagem subterrânea de cogumelo"},{"op":"replace","path":"/shroom/building2/name","value":"passagem de cogumelo"},{"op":"replace","path":"/shroom/building3/name","value":"passagem de cogumelo"},{"op":"replace","path":"/shroom/building4/name","value":"cabana de armazenamento de cogumelo"},{"op":"replace","path":"/shroom/building5/name","value":"cabana de cogumelo"},{"op":"replace","path":"/shroom/building6/name","value":"cabana de cogumelo"},{"op":"replace","path":"/shroom/house1/name","value":"casa de cogumelo"},{"op":"replace","path":"/shroom/house2/name","value":"casa de cogumelo"},{"op":"replace","path":"/shroom/house3/name","value":"casa de cogumelo"},{"op":"replace","path":"/shroom/house4/name","value":"pequena casa de cogumelo"},{"op":"replace","path":"/shroom/house5/name","value":"pequena casa de cogumelo"},{"op":"replace","path":"/shroom/house6/name","value":"casa de cogumelo"},{"op":"replace","path":"/shroom/house7/name","value":"casa de cogumelo"},{"op":"replace","path":"/shroom/house8/name","value":"casa de cogumelo"},{"op":"replace","path":"/shroom/house9/name","value":"pequena casa de cogumelo"},{"op":"replace","path":"/shroom/house10/name","value":"pequena casa de cogumelo"},{"op":"replace","path":"/shroom/house11/name","value":"pequena casa de cogumelo"},{"op":"replace","path":"/shroom/ruin1/name","value":"ruína de madeira coberta"},{"op":"replace","path":"/snow/lake1/name","value":"pequeno lago congelado"},{"op":"replace","path":"/snow/lake2/name","value":"pequeno lago congelado"},{"op":"replace","path":"/snow/cave1/name","value":"pequena alcova nevada"},{"op":"replace","path":"/snow/cave2/name","value":"pequena alcova nevada"},{"op":"replace","path":"/snow/cave3/name","value":"pequena alcova nevada"},{"op":"replace","path":"/snow/cave4/name","value":"pequena alcova nevada"},{"op":"replace","path":"/snow/cave5/name","value":"pequena caverna gelada"},{"op":"replace","path":"/snow/cave6/name","value":"pequeno túnel gelado"},{"op":"replace","path":"/snow/house1/name","value":"pequena cabana de toras abandonada"},{"op":"replace","path":"/snow/house2/name","value":"cabana de toras bagunçada"},{"op":"replace","path":"/snow/house3/name","value":"cabana gelada"},{"op":"replace","path":"/snow/house4/name","value":"cabana gelada"},{"op":"replace","path":"/snow/house5/name","value":"pequena cabana de toras abandonada"},{"op":"replace","path":"/snow/house6/name","value":"pequena cabana de toras abandonada"},{"op":"replace","path":"/snow/lab1/name","value":"pequeno laboratório de pesquisa"},{"op":"replace","path":"/snow/beacon/name","value":"farol de metal"},{"op":"replace","path":"/snow/well1/name","value":"pequeno poço gelado"},{"op":"replace","path":"/spring/column1/name","value":"grupo de pequenas colunas de pedra"},{"op":"replace","path":"/spring/pool1/name","value":"pequena lagoa com colunas de pedra nela"},{"op":"replace","path":"/spring/pool2/name","value":"pequena lagoa"},{"op":"replace","path":"/spring/pool3/name","value":"pequena lagoa com colunas de pedra nela"},{"op":"replace","path":"/spring/pool4/name","value":"pequena lagoa com altas colunas de pedra nela"},{"op":"replace","path":"/spring/pool5/name","value":"pequena lagoa com colunas de pedra nela"},{"op":"replace","path":"/spring/pool6/name","value":"lagoa com duas colunas de pedra nela"},{"op":"replace","path":"/spring/ruin1/name","value":"topo de uma ruína de pedra coberta"},{"op":"replace","path":"/spring/ruin2/name","value":"ruína de pedra inundada"},{"op":"replace","path":"/spring/ruin3/name","value":"ruína de pedra inundada"},{"op":"replace","path":"/spring/ruin4/name","value":"ruína de pedra inundada"},{"op":"replace","path":"/spring/ruin5/name","value":"ruína desmoronada inundada"},{"op":"replace","path":"/spring/ruin6/name","value":"clareira com um muro em ruínas"},{"op":"replace","path":"/spring/ruin7/name","value":"ruína de madeira inundada"},{"op":"replace","path":"/spring/clearing1/name","value":"clareira em ruínas com pequenas colunas de pedra"},{"op":"replace","path":"/spring/well1/name","value":"velho poço"},{"op":"replace","path":"/steamspring/building1/name","value":"abrigo de madeira inundado"},{"op":"replace","path":"/steamspring/building2/name","value":"casa de tijolos vazia"},{"op":"replace","path":"/steamspring/building3/name","value":"andar superior da casa de tijolos vazia"},{"op":"replace","path":"/steamspring/building4/name","value":"grande edifício de tijolos"},{"op":"replace","path":"/steamspring/building5/name","value":"pequena cabana de tijolos"},{"op":"replace","path":"/steamspring/building6/name","value":"par de cabanas de madeira"},{"op":"replace","path":"/steamspring/cliffside1/name","value":"piscina no penhasco"},{"op":"replace","path":"/steamspring/cliffside2/name","value":"piscina no penhasco"},{"op":"replace","path":"/steamspring/cliffside3/name","value":"piscina no penhasco"},{"op":"replace","path":"/steamspring/cave1/name","value":"alcova inundada com canos que passa por ela"},{"op":"replace","path":"/swamp/hut1/name","value":"cabana no pântano"},{"op":"replace","path":"/swamp/hut2/name","value":"cabana no pântano"},{"op":"replace","path":"/swamp/hut3/name","value":"cabana no pântano"},{"op":"replace","path":"/swamp/hut4/name","value":"cabana no pântano"},{"op":"replace","path":"/swamp/hut5/name","value":"cabana no pântano"},{"op":"replace","path":"/swamp/hut6/name","value":"cabana no pântano"},{"op":"replace","path":"/swamp/hut7/name","value":"cabana no pântano"},{"op":"replace","path":"/swamp/hut8/name","value":"cabana no pântano"},{"op":"replace","path":"/swamp/hut9/name","value":"cabana no pântano"},{"op":"replace","path":"/swamp/platform1/name","value":"pequena plataforma de madeira"},{"op":"replace","path":"/tarpits/hut1/name","value":"pequena cabana de madeira"},{"op":"replace","path":"/tarpits/hut2/name","value":"cabana pequena"},{"op":"replace","path":"/tarpits/cave1/name","value":"entrada da caverna"},{"op":"replace","path":"/tarpits/clearing1/name","value":"ruína inundada"},{"op":"replace","path":"/tarpits/camp1/name","value":"pequeno acampamento"},{"op":"replace","path":"/toxic/industrial1/name","value":"posto avançado industrial"},{"op":"replace","path":"/toxic/industrial2/name","value":"plataforma industrial"},{"op":"replace","path":"/toxic/industrial3/name","value":"pequeno silo industrial"},{"op":"replace","path":"/toxic/industrial4/name","value":"posto avançado industrial"},{"op":"replace","path":"/toxic/tunnel1/name","value":"túnel de metal debaixo de uma saliência"},{"op":"replace","path":"/toxic/tunnel2/name","value":"túnel sob uma pequena colina"},{"op":"replace","path":"/toxic/tunnel3/name","value":"túnel de metal sob um poço tóxico"},{"op":"replace","path":"/toxic/platform1/name","value":"plataforma de latão acima de um poço tóxico"},{"op":"replace","path":"/toxicoceanfloor/cave1/name","value":"caverna oca larga"},{"op":"replace","path":"/toxicoceanfloor/cave2/name","value":"pequena caverna aberta"},{"op":"replace","path":"/toxicoceanfloor/cave3/name","value":"vala tóxica perto de algumas tubulações"},{"op":"replace","path":"/toxicoceanfloor/cave4/name","value":"caverna sob uma saliência"},{"op":"replace","path":"/toxicoceanfloor/cave5/name","value":"vala tóxica perto de algumas tubulações"},{"op":"replace","path":"/toxicoceanfloor/pipes1/name","value":"grupo de canos verdes"},{"op":"replace","path":"/toxicoceanfloor/pipes2/name","value":"grupo de canos verdes"},{"op":"replace","path":"/tundra/building1/name","value":"estação de metal pequena"},{"op":"replace","path":"/tundra/building2/name","value":"estação de metal"},{"op":"replace","path":"/tundra/building3/name","value":"abrigo de metal bagunçado"},{"op":"replace","path":"/tundra/building4/name","value":"pequeno bunker subterrâneo"},{"op":"replace","path":"/tundra/building5/name","value":"bunker desmoronado"},{"op":"replace","path":"/tundra/building6/name","value":"pequeno bunker subterrâneo"},{"op":"replace","path":"/tundra/building7/name","value":"pequeno posto avançado"},{"op":"replace","path":"/tundra/building8/name","value":"pequeno posto avançado de metal"},{"op":"replace","path":"/tundra/building9/name","value":"grande bunker subterrâneo"},{"op":"replace","path":"/tundra/building10/name","value":"pequeno bunker"},{"op":"replace","path":"/tundra/building11/name","value":"posto avançado de metal alto"},{"op":"replace","path":"/tundra/building12/name","value":"bunker subterrâneo"},{"op":"replace","path":"/tundra/building13/name","value":"bunker de metal subterrâneo"},{"op":"replace","path":"/tundra/building14/name","value":"bunker de metal subterrâneo"},{"op":"replace","path":"/tundra/building15/name","value":"bunker de metal pequeno"},{"op":"replace","path":"/tundra/building16/name","value":"posto avançado de metal alto"},{"op":"replace","path":"/tundra/platform1/name","value":"plataforma industrial"},{"op":"replace","path":"/tundra/platform2/name","value":"plataforma industrial"},{"op":"replace","path":"/tundra/hill1/name","value":"topo de uma pequena colina"},{"op":"replace","path":"/tundra/cave1/name","value":"acampamento debaixo de uma colina"},{"op":"replace","path":"/tundra/cave2/name","value":"abrigo em uma alcova gelada"},{"op":"replace","path":"/tundra/cave3/name","value":"pequena caverna congelada"},{"op":"replace","path":"/tundra/cave4/name","value":"pequeno túnel sob uma colina"},{"op":"replace","path":"/tundra/graveyard1/name","value":"velho cemitério"},{"op":"replace","path":"/tundra/igloo1/name","value":"pequeno iglu"},{"op":"replace","path":"/volcanic/cave1/name","value":"caverna subterrânea rasa"},{"op":"replace","path":"/volcanic/cave2/name","value":"colina com túneis através dela"},{"op":"replace","path":"/volcanic/cave3/name","value":"túnel em um pequeno vulcão"},{"op":"replace","path":"/volcanic/cave4/name","value":"túnel sob um pequeno vulcão"},{"op":"replace","path":"/volcanic/clearing1/name","value":"lado de um pequeno vulcão"},{"op":"replace","path":"/volcanic/clearing2/name","value":"alcova sob uma saliência"},{"op":"replace","path":"/volcanic/clearing3/name","value":"pequena clareira"},{"op":"replace","path":"/naturalcave/entrance/name","value":"entrada da velha mina"},{"op":"replace","path":"/naturalcave/depths/name","value":"profundezas da velha mina"},{"op":"replace","path":"/apextestfacility/lab1/name","value":"entrada para o Laboratório da Miniknog"},{"op":"replace","path":"/apextestfacility/lab2/name","value":"entrada para o Laboratório da Miniknog"},{"op":"replace","path":"/apextestfacility/underground1/name","value":"instalação sob o Laboratório da Miniknog"},{"op":"replace","path":"/apextestfacility/underground2/name","value":"instalação sob o Laboratório da Miniknog"},{"op":"replace","path":"/apextestfacility/underground3/name","value":"instalação sob o Laboratório da Miniknog"},{"op":"replace","path":"/apextestfacility/underground4/name","value":"instalação sob o Laboratório da Miniknog"},{"op":"replace","path":"/apexbase/entrance1/name","value":"entrada da Base da Miniknog"},{"op":"replace","path":"/apexbase/room1/name","value":"Laboratório da Miniknog"},{"op":"replace","path":"/apexbase/room2/name","value":"Laboratório da Miniknog"},{"op":"replace","path":"/apexbase/room3/name","value":"Laboratório da Miniknog"},{"op":"replace","path":"/evilfortress/room1/name","value":"Fortaleza Glitch"},{"op":"replace","path":"/evilfortress/room2/name","value":"Fortaleza Glitch"},{"op":"replace","path":"/evilfortress/room3/name","value":"grande sala de xadrez dentro da Fortaleza Glitch"},{"op":"replace","path":"/evilfortress/room4/name","value":"Fortaleza Glitch"},{"op":"replace","path":"/evilfortress/entrance1/name","value":"porta de entrada esquerda para a Fortaleza Glitch"},{"op":"replace","path":"/evilfortress/entrance2/name","value":"porta de entrada direita para a Fortaleza Glitch"},{"op":"replace","path":"/evilfortress/bridge1/name","value":"ponte de madeira alta na Fortaleza Glitch"},{"op":"replace","path":"/evilfortress/top1/name","value":"topo da Fortaleza Glitch"},{"op":"replace","path":"/dungeoncrawler/entrance1/name","value":"Fortaleza Glitch"},{"op":"replace","path":"/dungeoncrawler/chapel1/name","value":"capela na velha dungeon Glitch"},{"op":"replace","path":"/dungeoncrawler/room1/name","value":"profundezas da velha dungeon Glitch"},{"op":"replace","path":"/dungeoncrawler/room2/name","value":"profundezas da velha dungeon Glitch"},{"op":"replace","path":"/dungeoncrawler/room3/name","value":"profundezas da velha dungeon Glitch"},{"op":"replace","path":"/glitchsewer/entrance/name","value":"entrada do esgoto"},{"op":"replace","path":"/glitchsewer/depths/name","value":"profundezas do esgoto"},{"op":"replace","path":"/humanprison/entrance/name","value":"entrada da Prisão"},{"op":"replace","path":"/humanprison/courtyard/name","value":"pátio da prisão"},{"op":"replace","path":"/humanprison/cellblock/name","value":"bloco de celas da Prisão"},{"op":"replace","path":"/humanprison/cellblockroof/name","value":"telhado do bloco de celas da Prisão"},{"op":"replace","path":"/aviantemple/entrance/name","value":"entrada do Templo Avian"},{"op":"replace","path":"/aviantemple/top/name","value":"topo do Templo Avian"},{"op":"replace","path":"/aviantemple/grandchamber/name","value":"grande câmara do Templo Avian"},{"op":"replace","path":"/aviantemple/depths/name","value":"profundezas do Templo Avian"},{"op":"replace","path":"/aviantomb/entrance/name","value":"entrada da Túmba Avian"},{"op":"replace","path":"/aviantomb/depths/name","value":"profundezas da Túmba Avian"},{"op":"replace","path":"/floranhuntinggrounds/entrance/name","value":"entrada do Campo de Caça Floran"},{"op":"replace","path":"/floranhuntinggrounds/depths/name","value":"profundezas do Campo de Caça Floran"},{"op":"replace","path":"/florancanyon/entrance1/name","value":"Entrada para o vale coberto"},{"op":"replace","path":"/florancanyon/entrance2/name","value":"topo do vale coberto"},{"op":"replace","path":"/florancanyon/depths1/name","value":"profundezas da caverna coberta"},{"op":"replace","path":"/florancanyon/depths2/name","value":"profundezas da caverna coberta"},{"op":"replace","path":"/hylotlruinedcity/entrance1/name","value":"entrada para as antigas ruínas Hylotl"},{"op":"replace","path":"/hylotlruinedcity/depths1/name","value":"profundezas das antigas ruínas Hylotl"},{"op":"replace","path":"/hylotlruinedcity/depths2/name","value":"profundezas das antigas ruínas Hylotl"},{"op":"replace","path":"/hylotlruinedcity/depths3/name","value":"profundezas das antigas ruínas Hylotl"},{"op":"replace","path":"/hylotlruinedcity/depths4/name","value":"profundezas das antigas ruínas Hylotl"},{"op":"replace","path":"/hylotlruinedcity/depths5/name","value":"profundezas das antigas ruínas Hylotl"},{"op":"replace","path":"/hylotlruinedcastle/castletop/name","value":"topo do castelo Hylotl em ruínas"},{"op":"replace","path":"/hylotlruinedcastle/entrance/name","value":"entrada do castelo Hylotl em ruínas"},{"op":"replace","path":"/hylotlruinedcastle/rearentrance/name","value":"entrada traseira do castelo Hylotl em ruínas"}]
+[
+  {
+    "op": "replace",
+    "value": "capela na velha dungeon Glitch",
+    "path": "/dungeoncrawler/chapel1/name"
+  },
+  {
+    "op": "replace",
+    "value": "Fortaleza Glitch",
+    "path": "/dungeoncrawler/entrance1/name"
+  },
+  {
+    "op": "replace",
+    "value": "Fortaleza Glitch",
+    "path": "/evilfortress/room1/name"
+  },
+  {
+    "op": "replace",
+    "value": "Fortaleza Glitch",
+    "path": "/evilfortress/room2/name"
+  },
+  {
+    "op": "replace",
+    "value": "Fortaleza Glitch",
+    "path": "/evilfortress/room4/name"
+  },
+  {
+    "op": "replace",
+    "value": "Laboratório da Miniknog",
+    "path": "/apexbase/room1/name"
+  },
+  {
+    "op": "replace",
+    "value": "Laboratório da Miniknog",
+    "path": "/apexbase/room2/name"
+  },
+  {
+    "op": "replace",
+    "value": "Laboratório da Miniknog",
+    "path": "/apexbase/room3/name"
+  },
+  {
+    "op": "replace",
+    "value": "Local de Teste",
+    "path": "/test/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel no penhasco abandonado",
+    "path": "/jungle/tunnel4/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana abandonada",
+    "path": "/bones/house1/name"
+  },
+  {
+    "op": "replace",
+    "value": "casa de arenito abandonada",
+    "path": "/desert/oldhouse1/name"
+  },
+  {
+    "op": "replace",
+    "value": "casa de arenito abandonada",
+    "path": "/desert/oldhouse2/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de arenito abandonada",
+    "path": "/desert/oldhouse3/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana subterrânea abandonada",
+    "path": "/savannah/hut2/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabine de madeira abandonada",
+    "path": "/jungle/hut1/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de madeira abandonada",
+    "path": "/forest/ruin5/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de armazenamento de madeira abandonada",
+    "path": "/oasis/hut4/name"
+  },
+  {
+    "op": "replace",
+    "value": "alcova sob uma saliência",
+    "path": "/volcanic/clearing2/name"
+  },
+  {
+    "op": "replace",
+    "value": "torre antiga",
+    "path": "/garden/smalltower2/name"
+  },
+  {
+    "op": "replace",
+    "value": "antiga muralha",
+    "path": "/garden/wall1/name"
+  },
+  {
+    "op": "replace",
+    "value": "grande sala de xadrez dentro da Fortaleza Glitch",
+    "path": "/evilfortress/room3/name"
+  },
+  {
+    "op": "replace",
+    "value": "casa de madeira grande",
+    "path": "/desert/house4/name"
+  },
+  {
+    "op": "replace",
+    "value": "torre azul",
+    "path": "/bioluminescence/spire1/name"
+  },
+  {
+    "op": "replace",
+    "value": "moedor de osso",
+    "path": "/bones/grinder/name"
+  },
+  {
+    "op": "replace",
+    "value": "boo",
+    "path": "/volcanic/boo/name"
+  },
+  {
+    "op": "replace",
+    "value": "fundo do poço",
+    "path": "/garden/well1-bottom/name"
+  },
+  {
+    "op": "replace",
+    "value": "plataforma de latão acima de um poço tóxico",
+    "path": "/toxic/platform1/name"
+  },
+  {
+    "op": "replace",
+    "value": "ponte",
+    "path": "/garden/gardenbridge1/name"
+  },
+  {
+    "op": "replace",
+    "value": "ponte",
+    "path": "/garden/gardenbridge2/name"
+  },
+  {
+    "op": "replace",
+    "value": "caminho de metal quebrado",
+    "path": "/scorchedcity/platform1/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruínas soterradas",
+    "path": "/dark/buried1/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruínas soterradas",
+    "path": "/garden/mediumburiedruin/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de madeira enterrada",
+    "path": "/giantflowers/hut1/name"
+  },
+  {
+    "op": "replace",
+    "value": "acampamento",
+    "path": "/garden/smallcamp/name"
+  },
+  {
+    "op": "replace",
+    "value": "acampamento na pequena caverna",
+    "path": "/garden/littlecave1/name"
+  },
+  {
+    "op": "replace",
+    "value": "acampamento no edifício em ruínas",
+    "path": "/garden/mediumgardenruincamp/name"
+  },
+  {
+    "op": "replace",
+    "value": "acampamento debaixo de uma colina",
+    "path": "/tundra/cave1/name"
+  },
+  {
+    "op": "replace",
+    "value": "entrada da caverna",
+    "path": "/prism/cave1/name"
+  },
+  {
+    "op": "replace",
+    "value": "entrada da caverna",
+    "path": "/tarpits/cave1/name"
+  },
+  {
+    "op": "replace",
+    "value": "caverna sob uma saliência",
+    "path": "/toxicoceanfloor/cave4/name"
+  },
+  {
+    "op": "replace",
+    "value": "entrada da caverna",
+    "path": "/dark/cave1/name"
+  },
+  {
+    "op": "replace",
+    "value": "caverna com velhas plataformas de madeira",
+    "path": "/jungle/platform4/name"
+  },
+  {
+    "op": "replace",
+    "value": "bloco de celas da Prisão",
+    "path": "/humanprison/cellblock/name"
+  },
+  {
+    "op": "replace",
+    "value": "clareira abaixo de um chalé abandonado alto",
+    "path": "/savannah/hut16/name"
+  },
+  {
+    "op": "replace",
+    "value": "clareira com um muro em ruínas",
+    "path": "/spring/ruin6/name"
+  },
+  {
+    "op": "replace",
+    "value": "clareira com entulho de metal",
+    "path": "/scorchedcity/clearing1/name"
+  },
+  {
+    "op": "replace",
+    "value": "poço do elevador no penhasco",
+    "path": "/foundry/cliffside3/name"
+  },
+  {
+    "op": "replace",
+    "value": "poço do elevador no penhasco",
+    "path": "/foundry/cliffside4/name"
+  },
+  {
+    "op": "replace",
+    "value": "poço do elevador no penhasco",
+    "path": "/foundry/cliffside5/name"
+  },
+  {
+    "op": "replace",
+    "value": "poço do elevador no penhasco",
+    "path": "/foundry/cliffside7/name"
+  },
+  {
+    "op": "replace",
+    "value": "fornalha no penhasco",
+    "path": "/foundry/cliffside1/name"
+  },
+  {
+    "op": "replace",
+    "value": "fornalha no penhasco",
+    "path": "/foundry/cliffside2/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana do lado do penhasco",
+    "path": "/alpine/cliffhouse1/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana do lado do penhasco",
+    "path": "/alpine/cliffhouse10/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana do lado do penhasco",
+    "path": "/alpine/cliffhouse2/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana do lado do penhasco",
+    "path": "/alpine/cliffhouse3/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana do lado do penhasco",
+    "path": "/alpine/cliffhouse4/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana do lado do penhasco",
+    "path": "/alpine/cliffhouse5/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana do lado do penhasco",
+    "path": "/alpine/cliffhouse6/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana do lado do penhasco",
+    "path": "/alpine/cliffhouse7/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana do lado do penhasco",
+    "path": "/alpine/cliffhouse8/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana do lado do penhasco",
+    "path": "/alpine/cliffhouse9/name"
+  },
+  {
+    "op": "replace",
+    "value": "piscina no penhasco",
+    "path": "/steamspring/cliffside1/name"
+  },
+  {
+    "op": "replace",
+    "value": "piscina no penhasco",
+    "path": "/steamspring/cliffside2/name"
+  },
+  {
+    "op": "replace",
+    "value": "piscina no penhasco",
+    "path": "/steamspring/cliffside3/name"
+  },
+  {
+    "op": "replace",
+    "value": "lado do penhasco",
+    "path": "/dark/cliff1/name"
+  },
+  {
+    "op": "replace",
+    "value": "lado do penhasco",
+    "path": "/dark/cliff2/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel no penhasco",
+    "path": "/hive/cliff1/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel no penhasco",
+    "path": "/hive/cliff5/name"
+  },
+  {
+    "op": "replace",
+    "value": "bunker desmoronado",
+    "path": "/tundra/building5/name"
+  },
+  {
+    "op": "replace",
+    "value": "chalé ao lado de um poço",
+    "path": "/savannah/hutwithwell1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pátio da prisão",
+    "path": "/humanprison/courtyard/name"
+  },
+  {
+    "op": "replace",
+    "value": "cratera",
+    "path": "/alien/crater/name"
+  },
+  {
+    "op": "replace",
+    "value": "vala cristalina",
+    "path": "/geode/crater2/name"
+  },
+  {
+    "op": "replace",
+    "value": "vala cristalina",
+    "path": "/geode/crater3/name"
+  },
+  {
+    "op": "replace",
+    "value": "profundezas do Templo Avian",
+    "path": "/aviantemple/depths/name"
+  },
+  {
+    "op": "replace",
+    "value": "profundezas da Túmba Avian",
+    "path": "/aviantomb/depths/name"
+  },
+  {
+    "op": "replace",
+    "value": "profundezas do Campo de Caça Floran",
+    "path": "/floranhuntinggrounds/depths/name"
+  },
+  {
+    "op": "replace",
+    "value": "profundezas da velha dungeon Glitch",
+    "path": "/dungeoncrawler/room1/name"
+  },
+  {
+    "op": "replace",
+    "value": "profundezas da velha dungeon Glitch",
+    "path": "/dungeoncrawler/room2/name"
+  },
+  {
+    "op": "replace",
+    "value": "profundezas da velha dungeon Glitch",
+    "path": "/dungeoncrawler/room3/name"
+  },
+  {
+    "op": "replace",
+    "value": "profundezas das antigas ruínas Hylotl",
+    "path": "/hylotlruinedcity/depths1/name"
+  },
+  {
+    "op": "replace",
+    "value": "profundezas das antigas ruínas Hylotl",
+    "path": "/hylotlruinedcity/depths2/name"
+  },
+  {
+    "op": "replace",
+    "value": "profundezas das antigas ruínas Hylotl",
+    "path": "/hylotlruinedcity/depths3/name"
+  },
+  {
+    "op": "replace",
+    "value": "profundezas das antigas ruínas Hylotl",
+    "path": "/hylotlruinedcity/depths4/name"
+  },
+  {
+    "op": "replace",
+    "value": "profundezas das antigas ruínas Hylotl",
+    "path": "/hylotlruinedcity/depths5/name"
+  },
+  {
+    "op": "replace",
+    "value": "profundezas da velha mina",
+    "path": "/naturalcave/depths/name"
+  },
+  {
+    "op": "replace",
+    "value": "profundezas da caverna coberta",
+    "path": "/florancanyon/depths1/name"
+  },
+  {
+    "op": "replace",
+    "value": "profundezas da caverna coberta",
+    "path": "/florancanyon/depths2/name"
+  },
+  {
+    "op": "replace",
+    "value": "profundezas do esgoto",
+    "path": "/glitchsewer/depths/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de toras bagunçada",
+    "path": "/snow/house2/name"
+  },
+  {
+    "op": "replace",
+    "value": "abrigo de metal bagunçado",
+    "path": "/tundra/building3/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel no penhasco empoeirado",
+    "path": "/savannah/cliffside1/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel no penhasco empoeirado",
+    "path": "/savannah/cliffside2/name"
+  },
+  {
+    "op": "replace",
+    "value": "chalé velho empoeirado",
+    "path": "/savannah/house1/name"
+  },
+  {
+    "op": "replace",
+    "value": "chalé velho empoeirado",
+    "path": "/savannah/hut10/name"
+  },
+  {
+    "op": "replace",
+    "value": "chalé velho empoeirado",
+    "path": "/savannah/hut11/name"
+  },
+  {
+    "op": "replace",
+    "value": "casa de tijolos vazia",
+    "path": "/steamspring/building2/name"
+  },
+  {
+    "op": "replace",
+    "value": "entrada do Templo Avian",
+    "path": "/aviantemple/entrance/name"
+  },
+  {
+    "op": "replace",
+    "value": "entrada da Túmba Avian",
+    "path": "/aviantomb/entrance/name"
+  },
+  {
+    "op": "replace",
+    "value": "entrada do Campo de Caça Floran",
+    "path": "/floranhuntinggrounds/entrance/name"
+  },
+  {
+    "op": "replace",
+    "value": "entrada da Prisão",
+    "path": "/humanprison/entrance/name"
+  },
+  {
+    "op": "replace",
+    "value": "entrada da velha mina",
+    "path": "/naturalcave/entrance/name"
+  },
+  {
+    "op": "replace",
+    "value": "entrada do castelo Hylotl em ruínas",
+    "path": "/hylotlruinedcastle/entrance/name"
+  },
+  {
+    "op": "replace",
+    "value": "entrada do esgoto",
+    "path": "/glitchsewer/entrance/name"
+  },
+  {
+    "op": "replace",
+    "value": "entrada para uma cabana subterrânea",
+    "path": "/savannah/hut1/name"
+  },
+  {
+    "op": "replace",
+    "value": "entrada para o Laboratório da Miniknog",
+    "path": "/apextestfacility/lab1/name"
+  },
+  {
+    "op": "replace",
+    "value": "entrada para o Laboratório da Miniknog",
+    "path": "/apextestfacility/lab2/name"
+  },
+  {
+    "op": "replace",
+    "value": "entrada para as antigas ruínas Hylotl",
+    "path": "/hylotlruinedcity/entrance1/name"
+  },
+  {
+    "op": "replace",
+    "value": "Entrada para o vale coberto",
+    "path": "/florancanyon/entrance1/name"
+  },
+  {
+    "op": "replace",
+    "value": "instalação sob o Laboratório da Miniknog",
+    "path": "/apextestfacility/underground1/name"
+  },
+  {
+    "op": "replace",
+    "value": "instalação sob o Laboratório da Miniknog",
+    "path": "/apextestfacility/underground2/name"
+  },
+  {
+    "op": "replace",
+    "value": "instalação sob o Laboratório da Miniknog",
+    "path": "/apextestfacility/underground3/name"
+  },
+  {
+    "op": "replace",
+    "value": "instalação sob o Laboratório da Miniknog",
+    "path": "/apextestfacility/underground4/name"
+  },
+  {
+    "op": "replace",
+    "value": "entrada da caverna carnuda",
+    "path": "/flesh/cave1/name"
+  },
+  {
+    "op": "replace",
+    "value": "alcova inundada com canos que passa por ela",
+    "path": "/steamspring/cave1/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruína desmoronada inundada",
+    "path": "/spring/ruin5/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruína inundada",
+    "path": "/tarpits/clearing1/name"
+  },
+  {
+    "op": "replace",
+    "value": "afloramento de pedra inundado",
+    "path": "/giantflowers/rocky2/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruína de pedra inundada",
+    "path": "/spring/ruin2/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruína de pedra inundada",
+    "path": "/spring/ruin3/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruína de pedra inundada",
+    "path": "/spring/ruin4/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruína de madeira inundada",
+    "path": "/spring/ruin7/name"
+  },
+  {
+    "op": "replace",
+    "value": "abrigo de madeira inundado",
+    "path": "/steamspring/building1/name"
+  },
+  {
+    "op": "replace",
+    "value": "cemitério florido",
+    "path": "/garden/graveyardflowers/name"
+  },
+  {
+    "op": "replace",
+    "value": "grande câmara do Templo Avian",
+    "path": "/aviantemple/grandchamber/name"
+  },
+  {
+    "op": "replace",
+    "value": "cemitério",
+    "path": "/garden/graveyard/name"
+  },
+  {
+    "op": "replace",
+    "value": "grupo de canos verdes",
+    "path": "/toxicoceanfloor/pipes1/name"
+  },
+  {
+    "op": "replace",
+    "value": "grupo de canos verdes",
+    "path": "/toxicoceanfloor/pipes2/name"
+  },
+  {
+    "op": "replace",
+    "value": "grupo de velhas plataformas de madeira",
+    "path": "/jungle/platform2/name"
+  },
+  {
+    "op": "replace",
+    "value": "grupo de velhas plataformas de madeira",
+    "path": "/jungle/platform5/name"
+  },
+  {
+    "op": "replace",
+    "value": "grupo de pequenas colunas de pedra",
+    "path": "/spring/column1/name"
+  },
+  {
+    "op": "replace",
+    "value": "grupo de plataformas de madeira",
+    "path": "/savannah/platform2/name"
+  },
+  {
+    "op": "replace",
+    "value": "grupo de túneis de madeira em uma colina",
+    "path": "/savannah/tunnel4/name"
+  },
+  {
+    "op": "replace",
+    "value": "torre de guarda",
+    "path": "/eyepatch/tower1/name"
+  },
+  {
+    "op": "replace",
+    "value": "torre de guarda",
+    "path": "/eyepatch/tower2/name"
+  },
+  {
+    "op": "replace",
+    "value": "torre de guarda acima de um bunker",
+    "path": "/savannah/bunker1/name"
+  },
+  {
+    "op": "replace",
+    "value": "ponte de madeira alta na Fortaleza Glitch",
+    "path": "/evilfortress/bridge1/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel no morro",
+    "path": "/colourful/tunnel1/name"
+  },
+  {
+    "op": "replace",
+    "value": "colina com túneis através dela",
+    "path": "/volcanic/cave2/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana no pântano",
+    "path": "/swamp/hut1/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana no pântano",
+    "path": "/swamp/hut2/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana no pântano",
+    "path": "/swamp/hut3/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana no pântano",
+    "path": "/swamp/hut4/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana no pântano",
+    "path": "/swamp/hut5/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana no pântano",
+    "path": "/swamp/hut6/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana no pântano",
+    "path": "/swamp/hut7/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana no pântano",
+    "path": "/swamp/hut8/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana no pântano",
+    "path": "/swamp/hut9/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana gelada",
+    "path": "/snow/house3/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana gelada",
+    "path": "/snow/house4/name"
+  },
+  {
+    "op": "replace",
+    "value": "posto avançado industrial",
+    "path": "/toxic/industrial1/name"
+  },
+  {
+    "op": "replace",
+    "value": "posto avançado industrial",
+    "path": "/toxic/industrial4/name"
+  },
+  {
+    "op": "replace",
+    "value": "plataforma industrial",
+    "path": "/toxic/industrial2/name"
+  },
+  {
+    "op": "replace",
+    "value": "plataforma industrial",
+    "path": "/tundra/platform1/name"
+  },
+  {
+    "op": "replace",
+    "value": "plataforma industrial",
+    "path": "/tundra/platform2/name"
+  },
+  {
+    "op": "replace",
+    "value": "laboratório",
+    "path": "/alien/lab1/name"
+  },
+  {
+    "op": "replace",
+    "value": "laboratório",
+    "path": "/alien/lab2/name"
+  },
+  {
+    "op": "replace",
+    "value": "laboratório",
+    "path": "/alien/lab3/name"
+  },
+  {
+    "op": "replace",
+    "value": "laboratório",
+    "path": "/alien/lab4/name"
+  },
+  {
+    "op": "replace",
+    "value": "laboratório",
+    "path": "/alien/lab5/name"
+  },
+  {
+    "op": "replace",
+    "value": "grande edifício de tijolos",
+    "path": "/steamspring/building4/name"
+  },
+  {
+    "op": "replace",
+    "value": "forte grande",
+    "path": "/bones/fort2/name"
+  },
+  {
+    "op": "replace",
+    "value": "grande monte oco",
+    "path": "/hive/cave2/name"
+  },
+  {
+    "op": "replace",
+    "value": "grande túnel aberto",
+    "path": "/colourful/tunnel2/name"
+  },
+  {
+    "op": "replace",
+    "value": "grande pilha de sucata",
+    "path": "/scorchedcity/pile1/name"
+  },
+  {
+    "op": "replace",
+    "value": "grande bunker subterrâneo",
+    "path": "/tundra/building9/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana folhosa",
+    "path": "/forest/ruin6/name"
+  },
+  {
+    "op": "replace",
+    "value": "porta de entrada esquerda para a Fortaleza Glitch",
+    "path": "/evilfortress/entrance1/name"
+  },
+  {
+    "op": "replace",
+    "value": "entrada da Base da Miniknog",
+    "path": "/apexbase/entrance1/name"
+  },
+  {
+    "op": "replace",
+    "value": "túmulo solitário",
+    "path": "/garden/grave1/name"
+  },
+  {
+    "op": "replace",
+    "value": "túmulo solitário",
+    "path": "/garden/grave2/name"
+  },
+  {
+    "op": "replace",
+    "value": "túmulo solitário",
+    "path": "/garden/smallpile/name"
+  },
+  {
+    "op": "replace",
+    "value": "longo túnel",
+    "path": "/prism/tunnel1/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel de madeira baixo",
+    "path": "/savannah/tunnel2/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel de madeira baixo",
+    "path": "/savannah/tunnel3/name"
+  },
+  {
+    "op": "replace",
+    "value": "farol de metal",
+    "path": "/snow/beacon/name"
+  },
+  {
+    "op": "replace",
+    "value": "via de metal coberta de entulho",
+    "path": "/scorchedcity/clearing2/name"
+  },
+  {
+    "op": "replace",
+    "value": "estação de metal",
+    "path": "/tundra/building2/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel de metal sob um poço tóxico",
+    "path": "/toxic/tunnel3/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel de metal debaixo de uma saliência",
+    "path": "/toxic/tunnel1/name"
+  },
+  {
+    "op": "replace",
+    "value": "monte de entulho folhoso",
+    "path": "/garden/mediumruin/name"
+  },
+  {
+    "op": "replace",
+    "value": "casa de cogumelo",
+    "path": "/shroom/house1/name"
+  },
+  {
+    "op": "replace",
+    "value": "casa de cogumelo",
+    "path": "/shroom/house2/name"
+  },
+  {
+    "op": "replace",
+    "value": "casa de cogumelo",
+    "path": "/shroom/house3/name"
+  },
+  {
+    "op": "replace",
+    "value": "casa de cogumelo",
+    "path": "/shroom/house6/name"
+  },
+  {
+    "op": "replace",
+    "value": "casa de cogumelo",
+    "path": "/shroom/house7/name"
+  },
+  {
+    "op": "replace",
+    "value": "casa de cogumelo",
+    "path": "/shroom/house8/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de cogumelo",
+    "path": "/shroom/building5/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de cogumelo",
+    "path": "/shroom/building6/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de armazenamento de cogumelo",
+    "path": "/shroom/building4/name"
+  },
+  {
+    "op": "replace",
+    "value": "passagem subterrânea de cogumelo",
+    "path": "/shroom/building1/name"
+  },
+  {
+    "op": "replace",
+    "value": "passagem subterrânea de cogumelo",
+    "path": "/shroom/building2/name"
+  },
+  {
+    "op": "replace",
+    "value": "passagem subterrânea de cogumelo",
+    "path": "/shroom/building3/name"
+  },
+  {
+    "op": "replace",
+    "value": "entrada estreita da caverna",
+    "path": "/savannah/hut3/name"
+  },
+  {
+    "op": "replace",
+    "value": "antiga caverna no penhasco",
+    "path": "/jungle/hut3/name"
+  },
+  {
+    "op": "replace",
+    "value": "velho caminho no penhasco",
+    "path": "/jungle/hut2/name"
+  },
+  {
+    "op": "replace",
+    "value": "antigo túnel no penhasco",
+    "path": "/jungle/tunnel1/name"
+  },
+  {
+    "op": "replace",
+    "value": "velho chalé",
+    "path": "/savannah/hut4/name"
+  },
+  {
+    "op": "replace",
+    "value": "velho cemitério",
+    "path": "/tundra/graveyard1/name"
+  },
+  {
+    "op": "replace",
+    "value": "antigo posto de guarda",
+    "path": "/eyepatch/tower3/name"
+  },
+  {
+    "op": "replace",
+    "value": "casa velha",
+    "path": "/savannah/house2/name"
+  },
+  {
+    "op": "replace",
+    "value": "plataforma antiga",
+    "path": "/dark/platform2/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruínas antigas",
+    "path": "/dark/ruins1/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruínas antigas",
+    "path": "/dark/ruins2/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruínas antigas",
+    "path": "/dark/ruins3/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruínas antigas",
+    "path": "/dark/ruins4/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruínas antigas",
+    "path": "/dark/ruins5/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruínas antigas",
+    "path": "/dark/spire/name"
+  },
+  {
+    "op": "replace",
+    "value": "antiga coluna de arenito",
+    "path": "/desert/column2/name"
+  },
+  {
+    "op": "replace",
+    "value": "velho poço de arenito",
+    "path": "/desert/well1/name"
+  },
+  {
+    "op": "replace",
+    "value": "velho poço de arenito",
+    "path": "/desert/well2/name"
+  },
+  {
+    "op": "replace",
+    "value": "velho poço de arenito",
+    "path": "/desert/well3/name"
+  },
+  {
+    "op": "replace",
+    "value": "velho arco de pedra",
+    "path": "/desert/arch1/name"
+  },
+  {
+    "op": "replace",
+    "value": "velho arco de pedra",
+    "path": "/desert/arch2/name"
+  },
+  {
+    "op": "replace",
+    "value": "antigo edifício de pedra",
+    "path": "/garden/smallstonehouse/name"
+  },
+  {
+    "op": "replace",
+    "value": "antigas colunas de pedra",
+    "path": "/desert/column1/name"
+  },
+  {
+    "op": "replace",
+    "value": "velhos pilares de pedra",
+    "path": "/desert/arch3/name"
+  },
+  {
+    "op": "replace",
+    "value": "poço de pedra velho",
+    "path": "/forest/well1/name"
+  },
+  {
+    "op": "replace",
+    "value": "poço de pedra velho",
+    "path": "/forest/well2/name"
+  },
+  {
+    "op": "replace",
+    "value": "velho abrigo subterrâneo",
+    "path": "/scorchedcity/shelter1/name"
+  },
+  {
+    "op": "replace",
+    "value": "velho abrigo subterrâneo",
+    "path": "/scorchedcity/shelter2/name"
+  },
+  {
+    "op": "replace",
+    "value": "velho poço",
+    "path": "/spring/well1/name"
+  },
+  {
+    "op": "replace",
+    "value": "plataforma de madeira velha",
+    "path": "/jungle/platform3/name"
+  },
+  {
+    "op": "replace",
+    "value": "velha ruína de madeira",
+    "path": "/forest/hut5/name"
+  },
+  {
+    "op": "replace",
+    "value": "velha ruína de madeira",
+    "path": "/forest/hut7/name"
+  },
+  {
+    "op": "replace",
+    "value": "caminho ornamentado",
+    "path": "/prism/temple1/name"
+  },
+  {
+    "op": "replace",
+    "value": "templo ornamentado",
+    "path": "/prism/temple3/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel no penhasco coberto",
+    "path": "/jungle/tunnel2/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel no penhasco coberto",
+    "path": "/jungle/tunnel3/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruína de madeira coberta",
+    "path": "/shroom/ruin1/name"
+  },
+  {
+    "op": "replace",
+    "value": "torre de vigia de madeira coberta",
+    "path": "/jungle/tower1/name"
+  },
+  {
+    "op": "replace",
+    "value": "par de chalés elevados",
+    "path": "/savannah/hut9/name"
+  },
+  {
+    "op": "replace",
+    "value": "par de pequenas colunas",
+    "path": "/ocean/column1/name"
+  },
+  {
+    "op": "replace",
+    "value": "par de pequenas crateras",
+    "path": "/geode/crater1/name"
+  },
+  {
+    "op": "replace",
+    "value": "par de pequenos afloramentos de pedra",
+    "path": "/giantflowers/rocky5/name"
+  },
+  {
+    "op": "replace",
+    "value": "par de colunas de pedra",
+    "path": "/giantflowers/rocky3/name"
+  },
+  {
+    "op": "replace",
+    "value": "par de cabanas de madeira",
+    "path": "/steamspring/building6/name"
+  },
+  {
+    "op": "replace",
+    "value": "par de plataformas de madeira",
+    "path": "/jungle/platform1/name"
+  },
+  {
+    "op": "replace",
+    "value": "clareira pavimentada",
+    "path": "/prism/temple2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pilha de escombros",
+    "path": "/garden/mediumgardenruinplain/name"
+  },
+  {
+    "op": "replace",
+    "value": "pilha de sucata",
+    "path": "/scorchedcity/pile2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pilha de sucata",
+    "path": "/scorchedcity/pile3/name"
+  },
+  {
+    "op": "replace",
+    "value": "pilha de sucata",
+    "path": "/scorchedcity/pile4/name"
+  },
+  {
+    "op": "replace",
+    "value": "pilha de escombros de pedra",
+    "path": "/ocean/ruin4/name"
+  },
+  {
+    "op": "replace",
+    "value": "cova com uma ponte de metal desabada",
+    "path": "/scorchedcity/platform2/name"
+  },
+  {
+    "op": "replace",
+    "value": "plataforma ao lado de uma pilha de sucata de metal",
+    "path": "/scorchedcity/platform3/name"
+  },
+  {
+    "op": "replace",
+    "value": "plataforma ao lado de uma pilha de sucata de metal",
+    "path": "/scorchedcity/platform4/name"
+  },
+  {
+    "op": "replace",
+    "value": "plataforma ao lado de uma pilha de sucata de metal",
+    "path": "/scorchedcity/platform6/name"
+  },
+  {
+    "op": "replace",
+    "value": "plataforma ao lado de uma pilha de sucata de metal",
+    "path": "/scorchedcity/platform7/name"
+  },
+  {
+    "op": "replace",
+    "value": "pináculo de cristal pontiagudo",
+    "path": "/geode/spire1/name"
+  },
+  {
+    "op": "replace",
+    "value": "lagoa",
+    "path": "/bioluminescence/pond1/name"
+  },
+  {
+    "op": "replace",
+    "value": "lagoa com duas colunas de pedra nela",
+    "path": "/spring/pool6/name"
+  },
+  {
+    "op": "replace",
+    "value": "caverna elevada",
+    "path": "/geode/cave2/name"
+  },
+  {
+    "op": "replace",
+    "value": "chalé elevado",
+    "path": "/savannah/hut8/name"
+  },
+  {
+    "op": "replace",
+    "value": "casa elevada empoeirada",
+    "path": "/savannah/house3/name"
+  },
+  {
+    "op": "replace",
+    "value": "Plataforma industrial elevada",
+    "path": "/foundry/factory2/name"
+  },
+  {
+    "op": "replace",
+    "value": "plataforma de pedra elevada",
+    "path": "/forest/ruin3/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de madeira elevada",
+    "path": "/desert/house2/name"
+  },
+  {
+    "op": "replace",
+    "value": "entrada traseira do castelo Hylotl em ruínas",
+    "path": "/hylotlruinedcastle/rearentrance/name"
+  },
+  {
+    "op": "replace",
+    "value": "laboratório de pesquisa",
+    "path": "/eyepatch/lab1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pódio de pesquisa",
+    "path": "/alien/podium/name"
+  },
+  {
+    "op": "replace",
+    "value": "porta de entrada direita para a Fortaleza Glitch",
+    "path": "/evilfortress/entrance2/name"
+  },
+  {
+    "op": "replace",
+    "value": "telhado do bloco de celas da Prisão",
+    "path": "/humanprison/cellblockroof/name"
+  },
+  {
+    "op": "replace",
+    "value": "porão destruído",
+    "path": "/garden/tunnelsmall1/name"
+  },
+  {
+    "op": "replace",
+    "value": "clareira em ruínas com pequenas colunas de pedra",
+    "path": "/spring/clearing1/name"
+  },
+  {
+    "op": "replace",
+    "value": "ponte de pedra arruinada",
+    "path": "/forest/ruin2/name"
+  },
+  {
+    "op": "replace",
+    "value": "muro destruído",
+    "path": "/garden/mediumgardenruin1/name"
+  },
+  {
+    "op": "replace",
+    "value": "muro destruído",
+    "path": "/garden/wall2/name"
+  },
+  {
+    "op": "replace",
+    "value": "muro destruído",
+    "path": "/garden/wall3/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruínas de um chalé",
+    "path": "/savannah/hut5/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruínas da antiga casa",
+    "path": "/garden/gardenhouseruin1/name"
+  },
+  {
+    "op": "replace",
+    "value": "prédio abandonado enferrujado",
+    "path": "/scorchedcity/building1/name"
+  },
+  {
+    "op": "replace",
+    "value": "prédio abandonado enferrujado",
+    "path": "/scorchedcity/building3/name"
+  },
+  {
+    "op": "replace",
+    "value": "prédio abandonado enferrujado",
+    "path": "/scorchedcity/building7/name"
+  },
+  {
+    "op": "replace",
+    "value": "prédio abandonado enferrujado",
+    "path": "/scorchedcity/building8/name"
+  },
+  {
+    "op": "replace",
+    "value": "casa de arenito",
+    "path": "/desert/house6/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de arenito ao lado de um poço",
+    "path": "/oasis/hut6/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de arenito ao lado de um poço",
+    "path": "/oasis/hut7/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruínas de arenito",
+    "path": "/desert/arch4/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel raso fechado",
+    "path": "/hive/pit2/name"
+  },
+  {
+    "op": "replace",
+    "value": "lagoa rasa",
+    "path": "/forest/pond3/name"
+  },
+  {
+    "op": "replace",
+    "value": "lagoa rasa",
+    "path": "/forest/pond4/name"
+  },
+  {
+    "op": "replace",
+    "value": "lagoa rasa",
+    "path": "/forest/pond8/name"
+  },
+  {
+    "op": "replace",
+    "value": "lagoa rasa",
+    "path": "/prism/pond1/name"
+  },
+  {
+    "op": "replace",
+    "value": "caverna subterrânea rasa",
+    "path": "/volcanic/cave1/name"
+  },
+  {
+    "op": "replace",
+    "value": "teto de um pequeno edifício",
+    "path": "/scorchedcity/building9/name"
+  },
+  {
+    "op": "replace",
+    "value": "abrigo em uma alcova gelada",
+    "path": "/tundra/cave2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena caverna oca",
+    "path": "/prism/cave3/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena colina pontiaguda",
+    "path": "/prism/hill2/name"
+  },
+  {
+    "op": "replace",
+    "value": "lado de um pequeno vulcão",
+    "path": "/volcanic/clearing1/name"
+  },
+  {
+    "op": "replace",
+    "value": "casa de madeira inclinada",
+    "path": "/desert/house5/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena cabana de toras abandonada",
+    "path": "/snow/house1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena cabana de toras abandonada",
+    "path": "/snow/house5/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena cabana de toras abandonada",
+    "path": "/snow/house6/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno altar",
+    "path": "/dark/altar1/name"
+  },
+  {
+    "op": "replace",
+    "value": "arco pequeno",
+    "path": "/eyepatch/arch1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena cabana de tijolos",
+    "path": "/steamspring/building5/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena ponte acima de uma lagoa",
+    "path": "/savannah/pond1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno bunker",
+    "path": "/tundra/building10/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno acampamento",
+    "path": "/savannah/camp1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno acampamento",
+    "path": "/savannah/camp2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno acampamento",
+    "path": "/tarpits/camp1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena caverna",
+    "path": "/bioluminescence/cave1/name"
+  },
+  {
+    "op": "replace",
+    "value": "entrada da pequena caverna",
+    "path": "/hive/cave1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena caverna sob uma colina",
+    "path": "/geode/hill3/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena caverna sob uma colina",
+    "path": "/geode/hill4/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena caverna sob uma colina",
+    "path": "/giantflowers/hill4/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena clareira",
+    "path": "/flesh/clearing1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena clareira",
+    "path": "/forest/clearing1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena clareira",
+    "path": "/forest/clearing2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena clareira",
+    "path": "/forest/clearing3/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena clareira",
+    "path": "/foundry/clearing1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena clareira",
+    "path": "/foundry/clearing2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena clareira",
+    "path": "/foundry/clearing3/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena clareira",
+    "path": "/foundry/clearing4/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena clareira",
+    "path": "/foundry/factory3/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena clareira",
+    "path": "/geode/clearing1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena clareira",
+    "path": "/geode/clearing2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena clareira",
+    "path": "/geode/clearing3/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena clareira",
+    "path": "/geode/clearing4/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena clareira",
+    "path": "/geode/clearing5/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena clareira",
+    "path": "/geode/clearing6/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena clareira",
+    "path": "/hive/pit3/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena clareira",
+    "path": "/volcanic/clearing3/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno penhasco",
+    "path": "/giantflowers/cliff1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno penhasco",
+    "path": "/giantflowers/cliff2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena caverna no penhasco",
+    "path": "/foundry/cliffside6/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena caverna no penhasco",
+    "path": "/hive/cliff2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena caverna no penhasco",
+    "path": "/hive/cliff3/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena caverna no penhasco",
+    "path": "/hive/cliff4/name"
+  },
+  {
+    "op": "replace",
+    "value": "chalé pequeno",
+    "path": "/savannah/hut7/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno chalé acima de um túnel",
+    "path": "/savannah/hut13/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena cratera",
+    "path": "/dark/crater1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena fenda",
+    "path": "/ocean/cave1/name"
+  },
+  {
+    "op": "replace",
+    "value": "chalé pequeno empoeirado",
+    "path": "/savannah/hut12/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena vala carnuda",
+    "path": "/flesh/pit1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena clareira inundada",
+    "path": "/prism/clearing1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena ruína inundada",
+    "path": "/forest/pond7/name"
+  },
+  {
+    "op": "replace",
+    "value": "forte pequeno",
+    "path": "/bones/fort1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena caverna congelada",
+    "path": "/tundra/cave3/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno lago congelado",
+    "path": "/snow/lake1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno lago congelado",
+    "path": "/snow/lake2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena colina",
+    "path": "/geode/hill1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena colina",
+    "path": "/geode/hill2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena colina",
+    "path": "/prism/hill1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena caverna oca",
+    "path": "/geode/cave3/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno cume oco",
+    "path": "/flesh/tunnel1/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana pequena",
+    "path": "/tarpits/hut2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena caverna gelada",
+    "path": "/snow/cave5/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno túnel gelado",
+    "path": "/snow/cave6/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno poço gelado",
+    "path": "/snow/well1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno iglu",
+    "path": "/tundra/igloo1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena plataforma industrial",
+    "path": "/foundry/factory1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno silo industrial",
+    "path": "/toxic/industrial3/name"
+  },
+  {
+    "op": "replace",
+    "value": "bunker de metal pequeno",
+    "path": "/tundra/building15/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno posto avançado de metal",
+    "path": "/tundra/building8/name"
+  },
+  {
+    "op": "replace",
+    "value": "estação de metal pequena",
+    "path": "/tundra/building1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena casa de cogumelo",
+    "path": "/shroom/house4/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena casa de cogumelo",
+    "path": "/shroom/house5/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena casa de cogumelo",
+    "path": "/shroom/house10/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena casa de cogumelo",
+    "path": "/shroom/house11/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena casa de cogumelo",
+    "path": "/shroom/house9/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena caverna aberta",
+    "path": "/toxicoceanfloor/cave2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno posto avançado",
+    "path": "/tundra/building7/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena enseada coberta",
+    "path": "/jungle/cave1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena enseada coberta",
+    "path": "/jungle/cave2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena saliência",
+    "path": "/prism/cave2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno buraco",
+    "path": "/hive/pit1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena lagoa",
+    "path": "/colourful/pond2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena lagoa",
+    "path": "/eyepatch/tunnel1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena lagoa",
+    "path": "/forest/pond5/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena lagoa",
+    "path": "/forest/pond6/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena lagoa",
+    "path": "/giantflowers/pond1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena lagoa",
+    "path": "/jungle/pond1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena lagoa",
+    "path": "/jungle/pond2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena lagoa",
+    "path": "/oasis/pond1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena lagoa",
+    "path": "/oasis/pond2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena lagoa",
+    "path": "/spring/pool2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena lagoa em ruinas",
+    "path": "/forest/pond9/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena lagoa com colunas de pedra nela",
+    "path": "/spring/pool1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena lagoa com colunas de pedra nela",
+    "path": "/spring/pool3/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena lagoa com colunas de pedra nela",
+    "path": "/spring/pool5/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena lagoa com altas colunas de pedra nela",
+    "path": "/spring/pool4/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena pirâmide",
+    "path": "/desert/pyramid1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena clareira elevada",
+    "path": "/hive/clearing1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena plataforma elevada",
+    "path": "/jungle/platform6/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno laboratório de pesquisa",
+    "path": "/snow/lab1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno edifício em ruínas",
+    "path": "/scorchedcity/house1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno edifício em ruínas",
+    "path": "/scorchedcity/house2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena plataforma em ruínas",
+    "path": "/dark/platform1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno muro em ruínas",
+    "path": "/forest/ruin1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequenas ruínas",
+    "path": "/dark/smallruin1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequenas ruínas",
+    "path": "/dark/smallruin2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequenas ruínas",
+    "path": "/dark/smallruin3/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena cabana de arenito",
+    "path": "/oasis/hut1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena cabana de arenito",
+    "path": "/oasis/hut2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena cabana de arenito",
+    "path": "/oasis/hut5/name"
+  },
+  {
+    "op": "replace",
+    "value": "naufrágio de um navio pequeno",
+    "path": "/ocean/ruin2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena alcova nevada",
+    "path": "/snow/cave1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena alcova nevada",
+    "path": "/snow/cave2/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena alcova nevada",
+    "path": "/snow/cave3/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena alcova nevada",
+    "path": "/snow/cave4/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena cabana de pedra",
+    "path": "/forest/hut1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena cabana de pedra",
+    "path": "/forest/hut2/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruína de pedra pequena",
+    "path": "/forest/ruin4/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruína de pedra pequena",
+    "path": "/ocean/ruin1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena lagoa de pedra",
+    "path": "/forest/pond1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena lagoa de pedra",
+    "path": "/forest/pond2/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruína de pedra pequena",
+    "path": "/forest/ruin7/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno túnel",
+    "path": "/alien/tunnel1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno túnel",
+    "path": "/bioluminescence/tunnel1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno túnel",
+    "path": "/colourful/tunnel4/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno túnel",
+    "path": "/jungle/tunnel5/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno túnel sob uma colina",
+    "path": "/tundra/cave4/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno bunker subterrâneo",
+    "path": "/tundra/building4/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno bunker subterrâneo",
+    "path": "/tundra/building6/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena ponte de vime",
+    "path": "/jungle/bridge1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena ponte de madeira",
+    "path": "/giantflowers/bridge1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena ponte de madeira",
+    "path": "/oasis/bridge1/name"
+  },
+  {
+    "op": "replace",
+    "value": "casa de madeira pequena",
+    "path": "/desert/house1/name"
+  },
+  {
+    "op": "replace",
+    "value": "casa de madeira pequena",
+    "path": "/desert/house3/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena cabana de madeira",
+    "path": "/forest/hut4/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena cabana de madeira",
+    "path": "/tarpits/hut1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena passagem de madeira",
+    "path": "/savannah/house4/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequena plataforma de madeira",
+    "path": "/swamp/platform1/name"
+  },
+  {
+    "op": "replace",
+    "value": "pequeno abrigo de madeira",
+    "path": "/savannah/hut18/name"
+  },
+  {
+    "op": "replace",
+    "value": "colina cristalina espinhosa",
+    "path": "/geode/spire2/name"
+  },
+  {
+    "op": "replace",
+    "value": "torre arruinada dividida",
+    "path": "/dark/tower3/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de pedra",
+    "path": "/alpine/house1/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de pedra",
+    "path": "/alpine/house2/name"
+  },
+  {
+    "op": "replace",
+    "value": "escombros de pedra",
+    "path": "/ocean/ruin7/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel de pedra",
+    "path": "/alpine/tunnel1/name"
+  },
+  {
+    "op": "replace",
+    "value": "vala pedregosa",
+    "path": "/ocean/ditch1/name"
+  },
+  {
+    "op": "replace",
+    "value": "afloramento de pedra",
+    "path": "/giantflowers/rocky1/name"
+  },
+  {
+    "op": "replace",
+    "value": "lagoa de pedra",
+    "path": "/colourful/pond1/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruínas pedregosas",
+    "path": "/ocean/ruin6/name"
+  },
+  {
+    "op": "replace",
+    "value": "caverna rasa de pedra",
+    "path": "/giantflowers/rocky4/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel de pedra",
+    "path": "/colourful/tunnel3/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de armazenamento",
+    "path": "/alpine/storagehut1/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de armazenamento",
+    "path": "/alpine/storagehut2/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de armazenamento",
+    "path": "/bones/storage1/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de armazenamento",
+    "path": "/bones/storage2/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de armazenamento",
+    "path": "/bones/storage4/name"
+  },
+  {
+    "op": "replace",
+    "value": "clareira submersa",
+    "path": "/hive/clearing2/name"
+  },
+  {
+    "op": "replace",
+    "value": "plataforma submersa ao lado de uma pilha de sucata de metal",
+    "path": "/scorchedcity/platform5/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de arenito afundada",
+    "path": "/oasis/ruin1/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruína de pedra afundada",
+    "path": "/ocean/ruin5/name"
+  },
+  {
+    "op": "replace",
+    "value": "chalé alto abandonado",
+    "path": "/savannah/hut17/name"
+  },
+  {
+    "op": "replace",
+    "value": "chalé alto",
+    "path": "/savannah/hut14/name"
+  },
+  {
+    "op": "replace",
+    "value": "chalé alto",
+    "path": "/savannah/hut15/name"
+  },
+  {
+    "op": "replace",
+    "value": "chalé alto",
+    "path": "/savannah/hut6/name"
+  },
+  {
+    "op": "replace",
+    "value": "torre industrial alta",
+    "path": "/foundry/factory4/name"
+  },
+  {
+    "op": "replace",
+    "value": "posto avançado de metal alto",
+    "path": "/tundra/building11/name"
+  },
+  {
+    "op": "replace",
+    "value": "posto avançado de metal alto",
+    "path": "/tundra/building16/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruína alta",
+    "path": "/dark/tower4/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruínas alta",
+    "path": "/dark/hill1/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de arenito alta",
+    "path": "/oasis/hut3/name"
+  },
+  {
+    "op": "replace",
+    "value": "casa de pedra alta",
+    "path": "/forest/hut3/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de armazenamento alta",
+    "path": "/bones/storage3/name"
+  },
+  {
+    "op": "replace",
+    "value": "torre de vigia de madeira alta",
+    "path": "/jungle/tower2/name"
+  },
+  {
+    "op": "replace",
+    "value": "alta torre antiga",
+    "path": "/garden/smalltower/name"
+  },
+  {
+    "op": "replace",
+    "value": "piso mais baixo de um bunker subterrâneo",
+    "path": "/savannah/bunker3/name"
+  },
+  {
+    "op": "replace",
+    "value": "andar superior de um prédio abandonado",
+    "path": "/scorchedcity/building2/name"
+  },
+  {
+    "op": "replace",
+    "value": "andar superior de um prédio abandonado",
+    "path": "/scorchedcity/building4/name"
+  },
+  {
+    "op": "replace",
+    "value": "andar superior de um prédio abandonado",
+    "path": "/scorchedcity/building6/name"
+  },
+  {
+    "op": "replace",
+    "value": "andar superior da casa de tijolos vazia",
+    "path": "/steamspring/building3/name"
+  },
+  {
+    "op": "replace",
+    "value": "topo de uma pequena colina",
+    "path": "/tundra/hill1/name"
+  },
+  {
+    "op": "replace",
+    "value": "topo de um edifício velho enferrujado",
+    "path": "/scorchedcity/building5/name"
+  },
+  {
+    "op": "replace",
+    "value": "topo de uma ruína de pedra coberta",
+    "path": "/spring/ruin1/name"
+  },
+  {
+    "op": "replace",
+    "value": "topo do Templo Avian",
+    "path": "/aviantemple/top/name"
+  },
+  {
+    "op": "replace",
+    "value": "topo da Fortaleza Glitch",
+    "path": "/evilfortress/top1/name"
+  },
+  {
+    "op": "replace",
+    "value": "topo da velha passagem arcada",
+    "path": "/garden/archway/name"
+  },
+  {
+    "op": "replace",
+    "value": "topo do vale coberto",
+    "path": "/florancanyon/entrance2/name"
+  },
+  {
+    "op": "replace",
+    "value": "topo do castelo Hylotl em ruínas",
+    "path": "/hylotlruinedcastle/castletop/name"
+  },
+  {
+    "op": "replace",
+    "value": "ruína alta",
+    "path": "/dark/tower1/name"
+  },
+  {
+    "op": "replace",
+    "value": "vala tóxica perto de algumas tubulações",
+    "path": "/toxicoceanfloor/cave3/name"
+  },
+  {
+    "op": "replace",
+    "value": "vala tóxica perto de algumas tubulações",
+    "path": "/toxicoceanfloor/cave5/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel sob uma pequena saliência",
+    "path": "/prism/clearing2/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel em um pequeno vulcão",
+    "path": "/volcanic/cave3/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel sob uma colina",
+    "path": "/colourful/mound1/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel sob uma pequena colina",
+    "path": "/toxic/tunnel2/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel sob um pequeno vulcão",
+    "path": "/volcanic/cave4/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel sob a plataforma antiga",
+    "path": "/dark/platform3/name"
+  },
+  {
+    "op": "replace",
+    "value": "colina com tunel",
+    "path": "/eyepatch/mound1/name"
+  },
+  {
+    "op": "replace",
+    "value": "colina com tunel",
+    "path": "/eyepatch/mound2/name"
+  },
+  {
+    "op": "replace",
+    "value": "bunker subterrâneo",
+    "path": "/savannah/bunker2/name"
+  },
+  {
+    "op": "replace",
+    "value": "bunker subterrâneo",
+    "path": "/tundra/building12/name"
+  },
+  {
+    "op": "replace",
+    "value": "bunker de metal subterrâneo",
+    "path": "/tundra/building13/name"
+  },
+  {
+    "op": "replace",
+    "value": "bunker de metal subterrâneo",
+    "path": "/tundra/building14/name"
+  },
+  {
+    "op": "replace",
+    "value": "poço",
+    "path": "/garden/well1/name"
+  },
+  {
+    "op": "replace",
+    "value": "poço",
+    "path": "/garden/well3/name"
+  },
+  {
+    "op": "replace",
+    "value": "caverna larga",
+    "path": "/geode/cave/name"
+  },
+  {
+    "op": "replace",
+    "value": "caverna larga",
+    "path": "/geode/cave1/name"
+  },
+  {
+    "op": "replace",
+    "value": "caverna oca larga",
+    "path": "/toxicoceanfloor/cave1/name"
+  },
+  {
+    "op": "replace",
+    "value": "ampla ruína",
+    "path": "/dark/tower2/name"
+  },
+  {
+    "op": "replace",
+    "value": "grande edifício em ruínas",
+    "path": "/garden/mediumgardenruintall/name"
+  },
+  {
+    "op": "replace",
+    "value": "arena de madeira",
+    "path": "/savannah/arena1/name"
+  },
+  {
+    "op": "replace",
+    "value": "casa de madeira",
+    "path": "/forest/cottage1/name"
+  },
+  {
+    "op": "replace",
+    "value": "posto de guarda de madeira",
+    "path": "/oasis/hut8/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de madeira",
+    "path": "/forest/hut6/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de madeira ao lado de uma pequena lagoa",
+    "path": "/oasis/hutpond1/name"
+  },
+  {
+    "op": "replace",
+    "value": "plataforma de madeira",
+    "path": "/savannah/platform1/name"
+  },
+  {
+    "op": "replace",
+    "value": "cabana de madeira em ruínas",
+    "path": "/ocean/ruin3/name"
+  },
+  {
+    "op": "replace",
+    "value": "naufrágio do navio de madeira",
+    "path": "/ocean/ship1/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel de madeira",
+    "path": "/bones/tunnel1/name"
+  },
+  {
+    "op": "replace",
+    "value": "túnel de madeira sob um chalé",
+    "path": "/savannah/tunnel1/name"
+  },
+  {
+    "op": "replace",
+    "value": "torre de vigia de madeira",
+    "path": "/giantflowers/tower1/name"
+  },
+  {
+    "op": "replace",
+    "value": "torre destruída",
+    "path": "/garden/archway1/name"
+  },
+  {
+    "op": "replace",
+    "value": "torre destruída",
+    "path": "/garden/archway2/name"
+  },
+  {
+    "op": "replace",
+    "value": "torre amarela",
+    "path": "/bioluminescence/spire2/name"
+  }
+]

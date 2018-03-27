@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um peixe frito saboroso em forma de palito. Onde está o creme?"}, {"op": "replace", "path": "/shortdescription", "value": "Fish Fingers"}]
+[
+  {
+    "op": "replace",
+    "value": "Fish Fingers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um peixe frito saboroso em forma de palito. Onde está o creme?",
+    "path": "/description"
+  }
+]

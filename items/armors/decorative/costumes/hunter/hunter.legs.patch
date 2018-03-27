@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Hunter's Trousers"}, {"op": "replace", "path": "/description", "value": "Grande proteção... a menos que tenha dentes... ou mandíbulas... ou ferrões."}]
+[
+  {
+    "op": "replace",
+    "value": "Grande proteção... a menos que tenha dentes... ou mandíbulas... ou ferrões.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Hunter's Trousers",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Grassy Rock"}, {"op": "replace", "path": "/description", "value": "Pedra áspera coberta de grama."}]
+[
+  {
+    "op": "replace",
+    "value": "Rochasss gramadass.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grassy Rock",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Grama está crescendo nas fendas da rocha.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedra áspera, coberta de grama.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas rochas com grama crescendo.",
+    "path": "/novakiddescription"
+  }
+]

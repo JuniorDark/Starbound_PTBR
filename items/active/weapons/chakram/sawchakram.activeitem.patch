@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Saw Chakram ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Uma arma favorita da ordem sagrada dos lumbermonks."}, {"op": "replace", "path": "/shortdescription", "value": "Saw Chakram"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma arma favorita da ordem sagrada dos lumbermonks.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Saw Chakram",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Saw Chakram ^yellow;^reset;",
+    "path": "/upgradeParameters/shortdescription"
+  }
+]

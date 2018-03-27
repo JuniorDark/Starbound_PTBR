@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Não consigo acreditar que a planta em que esta tocha é feita não está queimando."}, {"op": "replace", "path": "/apexDescription", "value": "Uma tocha ardente, mantida junto por uma planta."}, {"op": "replace", "path": "/description", "value": "Esta tocha está envolvida em uma cobertura vegetal."}, {"op": "replace", "path": "/floranDescription", "value": "Floran ussa plantass especiais para conter fogo."}, {"op": "replace", "path": "/avianDescription", "value": "A planta enrolada em torno desta tocha não é chamuscada pelas chamas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Algum componente da planta nesta tocha está alimentando a chama."}, {"op": "replace", "path": "/novakidDescription", "value": "Como a planta segurando essa tocha não está queimando?"}, {"op": "replace", "path": "/glitchDescription", "value": "Surpreso. Esta tocha é feita de uma planta que não queima."}, {"op": "replace", "path": "/shortdescription", "value": "Plant Torch"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma tocha ardente, mantida junto por uma planta.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ussa plantass especiais para conter fogo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Como a planta segurando essa tocha não está queimando?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não consigo acreditar que a planta em que esta tocha é feita não está queimando.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plant Torch",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum componente da planta nesta tocha está alimentando a chama.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Esta tocha é feita de uma planta que não queima.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A planta enrolada em torno desta tocha não é chamuscada pelas chamas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta tocha está envolvida em uma cobertura vegetal.",
+    "path": "/description"
+  }
+]

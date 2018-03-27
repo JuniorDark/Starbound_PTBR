@@ -1,22 +1,22 @@
 [
   {
     "op": "replace",
-    "path": "/contentPages/1",
-    "value": "O artesanato é bem o que você esperaria dos Floran - cru para dizer o mínimo - mas há um certo charme inegável. Eu tive muito tempo para estudar isso, já que estive escondido em uma das suas casas na árvore por três dias, esperando minha chance de escapar despercebido. Ah, que aventura divertida essa!"
+    "value": "Arquitetura Floran",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um trecho do diário de Hiraki Corale, Hylotl Aventureiro."
+    "value": "O artesanato é bem o que você esperaria dos Floran - cru para dizer o mínimo - mas há um certo charme inegável. Eu tive muito tempo para estudar isso, já que estive escondido em uma das suas casas na árvore por três dias, esperando minha chance de escapar despercebido. Ah, que aventura divertida essa!",
+    "path": "/contentPages/1"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "Arquitetura Floran"
+    "value": "por Hiraki Corale, Hylotl Aventureiro\n\nÁrvores! Eles vivem em árvores. Essas pessoas-plantas silvestres e selvagens vivem em enormes casas na árvore construídas com cuidado e atenção. Bem, nem todos eles. Quero dizer, eles também vivem em cavernas, e nas fendas ocasionais. É muito longe dos nossos maravilhosos paraísos oceânicos, é claro, mas é preciso admirar a tenacidade com que esta espécie tenta esculpir um nicho para chamar de seu.",
+    "path": "/contentPages/0"
   },
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "por Hiraki Corale, Hylotl Aventureiro\n\nÁrvores! Eles vivem em árvores. Essas pessoas-plantas silvestres e selvagens vivem em enormes casas na árvore construídas com cuidado e atenção. Bem, nem todos eles. Quero dizer, eles também vivem em cavernas, e nas fendas ocasionais. É muito longe dos nossos maravilhosos paraísos oceânicos, é claro, mas é preciso admirar a tenacidade com que esta espécie tenta esculpir um nicho para chamar de seu."
+    "value": "Um trecho do diário de Hiraki Corale, Hylotl Aventureiro.",
+    "path": "/description"
   }
 ]

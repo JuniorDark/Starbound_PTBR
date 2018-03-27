@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um fio de pequenos pisca-piscas piscantes. "}, {"op": "replace", "path": "/shortdescription", "value": "Fairy Lights"}, {"op": "replace", "path": "/floranDescription", "value": "Muitas luzess brilhantess."}, {"op": "replace", "path": "/glitchDescription", "value": "Contentamento. Essas luzes cintilantes ajudam a construir uma atmosfera descontraída."}, {"op": "replace", "path": "/apexDescription", "value": "Essas pequenas luzes são bastante bonitas."}, {"op": "replace", "path": "/humanDescription", "value": "Eu sempre gostei de pisca-piscas."}, {"op": "replace", "path": "/avianDescription", "value": "É difícil não amar essas belas luzinhas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Que beleza simples."}, {"op": "replace", "path": "/novakidDescription", "value": "Um punhado de luzes cintilantes todas penduradas."}]
+[
+  {
+    "op": "replace",
+    "value": "Um fio de pequenos pisca-piscas piscantes. ",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um punhado de luzes cintilantes todas penduradas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Contentamento. Essas luzes cintilantes ajudam a construir uma atmosfera descontraída.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Muitas luzess brilhantess.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fairy Lights",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sempre gostei de pisca-piscas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É difícil não amar essas belas luzinhas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que beleza simples.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas luzinhas são bastante bonitas.",
+    "path": "/apexDescription"
+  }
+]

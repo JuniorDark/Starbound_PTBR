@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Infiltrator's Greaves"}, {"op": "replace", "path": "/description", "value": "Um conjunto de armadura de perna com grevas reforçada com solarium que pouco pode penetrar."}]
+[
+  {
+    "op": "replace",
+    "value": "Um conjunto de armadura de perna com grevas reforçada com solarium que pouco pode penetrar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Infiltrator's Greaves",
+    "path": "/shortdescription"
+  }
+]

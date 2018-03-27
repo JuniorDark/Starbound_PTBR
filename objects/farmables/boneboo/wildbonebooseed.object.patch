@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Boneboos não são para o paladar Avian."}, {"op": "replace", "path": "/hylotlDescription", "value": "Muitas refeições vegetarianas Hylotl são feitas com a planta de boneboo."}, {"op": "replace", "path": "/description", "value": "Boneboo, uma boa fonte de cálcio."}, {"op": "replace", "path": "/shortdescription", "value": "Boneboo Seed"}, {"op": "replace", "path": "/humanDescription", "value": "Esta planta pode não ser adequada para vegetarianos."}, {"op": "replace", "path": "/glitchDescription", "value": "Desinteressado. Esta planta aparentemente parece ter anatomia interna orgânica. Os Glitch não tem tais partes."}, {"op": "replace", "path": "/apexDescription", "value": "Uma planta particularmente incomum. Talo crocante, frutos carnosos."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma fruta que tem gosto de carne. Confuso!"}, {"op": "replace", "path": "/floranDescription", "value": "Comida crocante, mastigável, carnuda."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma fruta que tem gosto de carne. Confuso!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta particularmente incomum. Talo crocante, frutos carnosos.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Boneboo Seed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Boneboo, uma boa fonte de cálcio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Boneboos não são para o paladar Avian.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Comida crocante, mastigável, carnuda.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desinteressado. Esta planta aparentemente parece ter anatomia interna orgânica. Os Glitch não tem tais partes.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Muitas refeições vegetarianas Hylotl são feitas com a planta de boneboo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta planta pode não ser adequada para vegetarianos.",
+    "path": "/humanDescription"
+  }
+]

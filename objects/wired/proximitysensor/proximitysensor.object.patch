@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Um sensor de proximidade."}, {"op": "replace", "path": "/avianDescription", "value": "Não se aproxime muito!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Um sensor."}, {"op": "replace", "path": "/apexDescription", "value": "Isso vai desligar se eu chegar muito perto."}, {"op": "replace", "path": "/description", "value": "Esta placa de pressão é ativada quando pisada."}, {"op": "replace", "path": "/shortdescription", "value": "Pressure Plate"}, {"op": "replace", "path": "/floranDescription", "value": "Floran sabe ter cuidado com isso!"}, {"op": "replace", "path": "/glitchDescription", "value": "Cauteloso. Um sensor de proximidade."}, {"op": "replace", "path": "/novakidDescription", "value": "Pise com cuidado."}]
+[
+  {
+    "op": "replace",
+    "value": "Pressure Plate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um sensor de proximidade.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um sensor.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não se aproxime muito!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso vai desligar se eu chegar muito perto.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pise com cuidado.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. Um sensor de proximidade.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran sabe ter cuidado com isso!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta placa de pressão é ativada quando pisada.",
+    "path": "/description"
+  }
+]

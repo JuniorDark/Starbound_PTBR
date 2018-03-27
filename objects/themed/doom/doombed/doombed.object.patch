@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Uma cama confortável e excepcionalmente agradável. Invulgarmente assustadora de olhar."}, {"op": "replace", "path": "/description", "value": "Uma cama sublime. É um pouco espetada, no entanto."}, {"op": "replace", "path": "/shortdescription", "value": "Doom Bed"}, {"op": "replace", "path": "/floranDescription", "value": "Floran descansa em grande cama com dentes."}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. A aparência desta cama é inquietante."}, {"op": "replace", "path": "/avianDescription", "value": "Este é um bom lugar como qualquer outro para descansar as minhas penas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Grande qualidade de construção. Eu gosto disso. Não tenho tanta certeza sobre sua aparência."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta cama é confortável para algo tão espetado."}, {"op": "replace", "path": "/humanDescription", "value": "Uma cama fantástica. Deve ser facilmente capaz de descansar aqui, desde que não me dê pesadelos."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cama confortável e excepcionalmente agradável. Invulgarmente assustadora de olhar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama fantástica. Deve ser facilmente capaz de descansar aqui, desde que não me dê pesadelos.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama sublime. É um pouco espetada, no entanto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. A aparência desta cama é inquietante.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Doom Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran descansa em grande cama com dentes.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grande qualidade de construção. Eu gosto disso. Não tenho tanta certeza sobre sua aparência.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama é confortável para algo tão espetado.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este é um bom lugar como qualquer outro para descansar as minhas penas.",
+    "path": "/avianDescription"
+  }
+]

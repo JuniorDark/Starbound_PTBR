@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Shadow Spike Block"}, {"op": "replace", "path": "/description", "value": "Um bloco cravado formado de material sombrio."}]
+[
+  {
+    "op": "replace",
+    "value": "Um bloco espinhento formado de material sombrio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Blocoss escuros são pretos como a noite.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Este bloco é feito de um material desconhecido.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Shadow Spike Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes blocos são mais escuros que uma noite sem lua.",
+    "path": "/novakiddescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Um poster para um grupo de estudo. Incentivar os prisioneiros a aprender é algo que todas as culturas devem fazer."}, {"op": "replace", "path": "/avianDescription", "value": "Um panfleto para um grupo de estudo de prisioneiros. É bom ver os prisioneiros tentando melhorar a si mesmos."}, {"op": "replace", "path": "/shortdescription", "value": "Event Memo"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não ssabe ler bem. Floran não entende isso."}, {"op": "replace", "path": "/apexDescription", "value": "Parece que os prisioneiros foram autorizados a obter uma educação, algo que a Miniknog proíbe expressamente."}, {"op": "replace", "path": "/description", "value": "Grupo de Estudo de Detentos #2162 para Criminosos Que Não Sabem Ler Bem"}, {"op": "replace", "path": "/novakidDescription", "value": "Um panfleto para um grupo de estudo de prisioneiros."}, {"op": "replace", "path": "/humanDescription", "value": "Um panfleto do grupo de estudo. Se eu soubesse que a prisão poderia ser educacional, eu teria ido para a cadeia em vez da escola."}, {"op": "replace", "path": "/glitchDescription", "value": "Otimista. Um panfleto para um grupo de estudo. O conceito de prisioneiros aprendendo habilidades enquanto presos me enche de positividade."}]
+[
+  {
+    "op": "replace",
+    "value": "Um panfleto para um grupo de estudo de prisioneiros.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um panfleto para um grupo de estudo de prisioneiros. É bom ver os prisioneiros tentando melhorar a si mesmos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um poster para um grupo de estudo. Incentivar os prisioneiros a aprender é algo que todas as culturas devem fazer.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um panfleto do grupo de estudo. Se eu soubesse que a prisão poderia ser educacional, eu teria ido para a cadeia em vez da escola.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Event Memo",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não ssabe ler bem. Floran não entende isso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grupo de Estudo de Detentos #2162 para Criminosos Que Não Sabem Ler Bem",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que os prisioneiros foram autorizados a obter uma educação, algo que a Miniknog proíbe expressamente.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Otimista. Um panfleto para um grupo de estudo. O conceito de prisioneiros aprendendo habilidades enquanto presos me enche de positividade.",
+    "path": "/glitchDescription"
+  }
+]

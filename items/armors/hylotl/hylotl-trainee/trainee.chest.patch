@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Esta camisa não impede que os braços se movam ao praticar o combate."}, {"op": "replace", "path": "/shortdescription", "value": "Trainee Shirt"}]
+[
+  {
+    "op": "replace",
+    "value": "Esta camisa não impede que os braços se movam ao praticar o combate.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Trainee Shirt",
+    "path": "/shortdescription"
+  }
+]

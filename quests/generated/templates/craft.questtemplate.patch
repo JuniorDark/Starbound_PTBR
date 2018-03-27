@@ -1,1 +1,62 @@
-[{"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "O próximo passo requer ^green;reunir ^orange;<craftedItems>^white;. Eu gostaria de fazer isso sozinho, mas minhas habilidades de fabricação são terríveis! Se você quiser tentar, você deve ter tudo o que precisa."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Em seguida você precisa ^green;montar ^orange;<craftedItems>^white;. Você deve ser capaz de ^green;usar o ^orange;<ingredients>^white; que você coletou mais cedo."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Preocupado. Aqui está o ponto em que eu vacilei. Minha capacidade criativa esta abaixo da média, você seria tão gentil para criar ^orange;<craftedItems>^white; em meu nome? Você pode usar o ^orange;<ingredients>^white; que obtivemos mais cedo."}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Encantado. Sua habilidade é realmente esplêndida! Eu com certeza vou te chamar novamente no futuro."}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Habilidosamente criado, <player>! Agora Floran tem um outro pedido."}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "Você fez isso parecer fácil! Eu suspeito que você tenha feito alguma fabricação antes. Com isso, podemos finalmente avançar. Obrigado!"}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Agora você tem os ingredientess de fabricação que precisamos. ^green;Faça para Floran ^orange;<craftedItems>."}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Aliviado. A espera tem sido angustiante mas finalmente meus planos podem prosseguir, tudo graças a você!"}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "<craftedItems> será muito útil. Floran te agradece por fazer estes."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Floran precisa de ^orange;<craftedItems>.^green; Eles podem ser criados a partir de ^orange;<ingredients>. Você pode ajudar?"}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Uau, muito bem construído. Obrigado, isso vai funcionar muito bem para o que eu planejei."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Focado. Agora para a verdadeira tarefa em mãos, ^green;você deve criar ^orange;<craftedItems>^white; para mim. Você já tem todos os materiais que você precisa, e minha gratidão."}]
+[
+  {
+    "op": "replace",
+    "value": "<craftedItems> será muito útil. Floran te agradece por fazer estes.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Aqui está o ponto em que eu vacilei. Minha capacidade criativa esta abaixo da média, você seria tão gentil para criar ^orange;<craftedItems>^white; em meu nome? Você pode usar o ^orange;<ingredients>^white; que obtivemos mais cedo.",
+    "path": "/scriptConfig/generatedText/text/default/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Sua habilidade é realmente esplêndida! Eu com certeza vou te chamar novamente no futuro.",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran precisa de ^orange;<craftedItems>.^green; Eles podem ser criados a partir de ^orange;<ingredients>. Você pode ajudar?",
+    "path": "/scriptConfig/generatedText/text/default/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Focado. Agora para a verdadeira tarefa em mãos, ^green;você deve criar ^orange;<craftedItems>^white; para mim. Você já tem todos os materiais que você precisa, e minha gratidão.",
+    "path": "/scriptConfig/generatedText/text/default/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Em seguida você precisa ^green;montar ^orange;<craftedItems>^white;. Você deve ser capaz de ^green;usar o ^orange;<ingredients>^white; que você coletou mais cedo.",
+    "path": "/scriptConfig/generatedText/text/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Agora você tem os ingredientess de fabricação que precisamos. ^green;Faça para Floran ^orange;<craftedItems>.",
+    "path": "/scriptConfig/generatedText/text/default/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aliviado. A espera tem sido angustiante mas finalmente meus planos podem prosseguir, tudo graças a você!",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Habilidosamente criado, <player>! Agora Floran tem um outro pedido.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "O próximo passo requer ^green;reunir ^orange;<craftedItems>^white;. Eu gostaria de fazer isso sozinho, mas minhas habilidades de fabricação são terríveis! Se você quiser tentar, você deve ter tudo o que precisa.",
+    "path": "/scriptConfig/generatedText/text/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Uau, muito bem construído. Obrigado, isso vai funcionar muito bem para o que eu planejei.",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você fez isso parecer fácil! Eu suspeito que você tenha feito alguma fabricação antes. Com isso, podemos finalmente avançar. Obrigado!",
+    "path": "/scriptConfig/generatedText/completionText/default/default/1"
+  }
+]

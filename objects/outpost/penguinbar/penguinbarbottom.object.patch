@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um bar adequado para um pinguim."}, {"op": "replace", "path": "/shortdescription", "value": "Penguin Bar"}, {"op": "replace", "path": "/floranDescription", "value": "Este bar é feito de madeira barata."}, {"op": "replace", "path": "/glitchDescription", "value": "Não impressionado. Este bar está riscado e sujo."}, {"op": "replace", "path": "/apexDescription", "value": "Este bar sem dúvida já viu dias melhores."}, {"op": "replace", "path": "/avianDescription", "value": "Esta bar pode ter sido bonito uma vez."}, {"op": "replace", "path": "/humanDescription", "value": "Este bar é tão barato quanto eles vêm. Ele acrescenta caráter!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Este bar está em tão má forma estou surpreso que ainda está de pé."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta bar não está desativado, é só bem amado!."}]
+[
+  {
+    "op": "replace",
+    "value": "Penguin Bar",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta bar não está desativado, é só bem amado!.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este bar sem dúvida já viu dias melhores.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este bar é tão barato quanto eles vêm. Ele acrescenta caráter!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este bar está em tão má forma estou surpreso que ainda está de pé.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta bar pode ter sido bonito uma vez.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este bar é feito de madeira barata.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não impressionado. Este bar está riscado e sujo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um bar adequado para um pinguim.",
+    "path": "/description"
+  }
+]

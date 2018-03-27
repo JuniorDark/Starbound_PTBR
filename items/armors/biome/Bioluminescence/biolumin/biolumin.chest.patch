@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um terno luminescente - brilhe como uma estrela!"}, {"op": "replace", "path": "/shortdescription", "value": "Glow Suit"}]
+[
+  {
+    "op": "replace",
+    "value": "Um terno luminescente - brilhe como uma estrela!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Glow Suit",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,52 @@
-[{"op": "replace", "path": "/paneLayout/lblSchematics/value", "value": "^#b9b5b2;PROJETOS"}, {"op": "replace", "path": "/paneLayout/btnCraft/caption", "value": "Criar"}, {"op": "replace", "path": "/paneLayout/lblProduct/value", "value": "MATERIAIS DISPONÍVEIS"}, {"op": "replace", "path": "/paneLayout/filter/hint", "value": "Procurar"}, {"op": "replace", "path": "/paneLayout/lblProducttitle/value", "value": "^#b9b5b2;PRODUTO"}, {"op": "replace", "path": "/paneLayout/windowtitle/subtitle", "value": "Crie todos os tipos de coisas maravilhosas!"}, {"op": "replace", "path": "/paneLayout/windowtitle/title", "value": "Fabricação"}]
+[
+  {
+    "op": "replace",
+    "value": "0",
+    "path": "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Replace Me",
+    "path": "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+  },
+  {
+    "op": "replace",
+    "value": "Criar",
+    "path": "/paneLayout/btnCraft/caption"
+  },
+  {
+    "op": "replace",
+    "value": "MATERIAIS DISPONIVEIS",
+    "path": "/paneLayout/lblProduct/value"
+  },
+  {
+    "op": "replace",
+    "value": "Pesquisar",
+    "path": "/paneLayout/filter/hint"
+  },
+  {
+    "op": "replace",
+    "value": "Outpost - 2 Stop Teleshop",
+    "path": "/paneLayout/tbSpinCount/regex"
+  },
+  {
+    "op": "replace",
+    "value": "Fabricação",
+    "path": "/paneLayout/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Crie todos os tipos de coisas maravilhosas!",
+    "path": "/paneLayout/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;PRODUTO",
+    "path": "/paneLayout/lblProducttitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;ESQUEMÁTICOS",
+    "path": "/paneLayout/lblSchematics/value"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Um teletransportador pessoal, ostenta um design personalizado."}, {"op": "replace", "path": "/description", "value": "Um teletransportador pessoal, conecta-se a locais marcados. \n^red;Destruído quando quebrado."}, {"op": "replace", "path": "/floranDescription", "value": "Teletransportador pessoal é chique!"}, {"op": "replace", "path": "/glitchDescription", "value": "Seduzido. Um teletransportador pessoal, com um design personalizado."}, {"op": "replace", "path": "/apexDescription", "value": "Um teletransportador pessoal. Uma peça de equipamento divertida."}, {"op": "replace", "path": "/humanDescription", "value": "Um teletransportador pessoal! Agora isto é viajar em grande estilo."}, {"op": "replace", "path": "/novakidDescription", "value": "Um teletransportador pessoal de aparência chique."}, {"op": "replace", "path": "/avianDescription", "value": "Eu amo o balançar das minhas penas quando eu teleporto!"}, {"op": "replace", "path": "/shortdescription", "value": "Tomb Teleporter"}]
+[
+  {
+    "op": "replace",
+    "value": "Um teletransportador pessoal! Agora isto é viajar em grande estilo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um teletransportador pessoal, conecta-se a locais marcados. \n^red;Destruído quando quebrado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um teletransportador pessoal, ostenta um design personalizado.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um teletransportador pessoal. Uma peça de equipamento divertida.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um teletransportador pessoal de aparência chique!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Seduzido. Um teletransportador pessoal, com um design personalizado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu amo o balançar das minhas penas quando eu teleporto!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Teletransportador pessoal é chique!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tomb Teleporter",
+    "path": "/shortdescription"
+  }
+]

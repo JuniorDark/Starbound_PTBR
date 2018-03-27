@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma máscara perfeita para trazer para fora seu caçador sanguinário interior."}, {"op": "replace", "path": "/shortdescription", "value": "Predatory Head"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma máscara perfeita para trazer para fora seu caçador sanguinário interior.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Predatory Head",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Buggy Microformer"}, {"op": "replace", "path": "/description", "value": "Transforma uma área de um planeta em uma colméia de alienígenas invertebrados. \n^red;Microformers são itens de uso único."}]
+[
+  {
+    "op": "replace",
+    "value": "Buggy Microformer",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Transforma uma área de um planeta em uma colméia de alienígenas invertebrados. \n^red;Microformers são itens de uso único.",
+    "path": "/description"
+  }
+]

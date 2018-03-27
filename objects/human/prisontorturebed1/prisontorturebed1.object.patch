@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Ei, uma atração de feira! O que está fazendo numa prisão? Uh, certo, é uma cama de tortura."}, {"op": "replace", "path": "/avianDescription", "value": "Uma cama de tortura ameaçadora. Eu nem quero pensar sobre o que aconteceu aqui."}, {"op": "replace", "path": "/hylotlDescription", "value": "A tortura deve ser proibida. Bárbaro e cruel. É um universo doente e triste."}, {"op": "replace", "path": "/description", "value": "Uma cama de tortura. Terrível! Graças a deus pelo travesseiro."}, {"op": "replace", "path": "/shortdescription", "value": "Upright Torture Bed"}, {"op": "replace", "path": "/apexDescription", "value": "Uma cama de tortura. Já estou a ter flashbacks."}, {"op": "replace", "path": "/floranDescription", "value": "Floran acha que parece confortável! É realmente usssada para punição?"}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Eu me pergunto quais os métodos de tortura que os humanos atualmente empregam."}, {"op": "replace", "path": "/novakidDescription", "value": "O estofamento parece macio o suficiente, mas as cintas contam uma história diferente..."}]
+[
+  {
+    "op": "replace",
+    "value": "Upright Torture Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama de tortura ameaçadora. Eu nem quero pensar sobre o que aconteceu aqui.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama de tortura. Já estou a ter flashbacks.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama de tortura. Terrível! Graças a deus pelo travesseiro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Eu me pergunto quais os métodos de tortura que os humanos atualmente empregam.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran acha que parece confortável! É realmente usssada para punição?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ei, uma atração de feira! O que está fazendo numa prisão? Uh, certo, é uma cama de tortura.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O estofamento parece macio o suficiente, mas as cintas contam uma história diferente...",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A tortura deve ser proibida. Bárbaro e cruel. É um universo doente e triste.",
+    "path": "/hylotlDescription"
+  }
+]

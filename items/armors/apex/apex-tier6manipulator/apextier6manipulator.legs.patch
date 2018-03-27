@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Não se deixe enganar por sua aparência elegante, estas calças são extraordinariamente duráveis."}, {"op": "replace", "path": "/shortdescription", "value": "Usurper's Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Não se deixe enganar por sua aparência elegante, estas calças são extraordinariamente duráveis.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Usurper's Trousers",
+    "path": "/shortdescription"
+  }
+]

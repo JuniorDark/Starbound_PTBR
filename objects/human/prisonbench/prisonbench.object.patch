@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um banco simples, exceto pelo fato de que as pernas estão pregados no chão."}, {"op": "replace", "path": "/shortdescription", "value": "Metal Bench"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não se importaria de sssentar aqui por um minuto."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Um banco relativamente confortável."}, {"op": "replace", "path": "/apexDescription", "value": "Um banco. É muito mais confortável do que você esperaria."}, {"op": "replace", "path": "/humanDescription", "value": "Um banco. Esta pregado no chão. Desapontante. "}, {"op": "replace", "path": "/avianDescription", "value": "Um banco de metal bastante confortável."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um banco seguro. Ninguém vai roubar isso com pressa."}, {"op": "replace", "path": "/novakidDescription", "value": "Um lugar para aqueles que perderam o seu caminho."}]
+[
+  {
+    "op": "replace",
+    "value": "Um banco. É muito mais confortável do que você esperaria.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um banco. Esta pregado no chão. Desapontante. ",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um banco de metal bastante confortável.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um lugar para aqueles que perderam o seu caminho.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um banco seguro. Ninguém vai roubar isso com pressa.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um banco simples, exceto pelo fato de que as pernas estão pregados no chão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não se importaria de sssentar aqui por um minuto.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Metal Bench",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Um banco relativamente confortável.",
+    "path": "/glitchDescription"
+  }
+]

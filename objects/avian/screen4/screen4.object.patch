@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Estes símbolos são estranhos para mim. Não há motivo para tentar interpretá-los."}, {"op": "replace", "path": "/floranDescription", "value": "Fotos bobasss. Floran não pode reconhecer."}, {"op": "replace", "path": "/glitchDescription", "value": "Decepcionado. Não posso traduzir isso."}, {"op": "replace", "path": "/apexDescription", "value": "Glifos. Não consigo lê-los."}, {"op": "replace", "path": "/humanDescription", "value": "Glifos. Meu tradutor não pode lê-los."}, {"op": "replace", "path": "/avianDescription", "value": "Somente os stargazers podem realmente ler isso. Eu reconheço o glifo do sacrifício."}, {"op": "replace", "path": "/hylotlDescription", "value": "Símbolos antigos. O meu tradutor não pode decifrar."}, {"op": "replace", "path": "/shortdescription", "value": "Glyph Screen"}, {"op": "replace", "path": "/description", "value": "Glifos pulsam ameaçadoramente... o que significam?"}]
+[
+  {
+    "op": "replace",
+    "value": "Símbolos antigos. O meu tradutor não pode decifrar.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Decepcionado. Não posso traduzir isso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Glyph Screen",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Glifos pulsam ameaçadoramente... o que significam?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Glifos. Não consigo lê-los.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Glifos. Meu tradutor não pode lê-los.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Somente os stargazers podem realmente ler isso. Eu reconheço o glifo do sacrifício.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fotos bobasss. Floran não pode reconhecer.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes símbolos são estranhos para mim. Não há motivo para tentar interpretá-los.",
+    "path": "/novakidDescription"
+  }
+]

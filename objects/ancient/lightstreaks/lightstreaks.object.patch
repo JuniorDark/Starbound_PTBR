@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Raios de luz brilhante."}, {"op": "replace", "path": "/shortdescription", "value": "Light Streaks"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de luz sssolar!"}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. A luz está iluminando as ruínas apenas o suficiente para ver."}, {"op": "replace", "path": "/apexDescription", "value": "A luz está a jorrar de cima."}, {"op": "replace", "path": "/humanDescription", "value": "Feixes de luz - Para definir o humor!"}, {"op": "replace", "path": "/avianDescription", "value": "Um brilho celestial."}, {"op": "replace", "path": "/hylotlDescription", "value": "A luz atravessa a escuridão como raios de sol em um oceano."}, {"op": "replace", "path": "/novakidDescription", "value": "Esses raios de luz são tranquilos."}]
+[
+  {
+    "op": "replace",
+    "value": "Um brilho celestial.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Raios de luz brilhante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de luz sssolar!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Light Streaks",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Feixes de luz - Para definir o humor!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. A luz está iluminando as ruínas apenas o suficiente para ver.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A luz está a jorrar de cima.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A luz atravessa a escuridão como raios de sol em um oceano.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esses raios de luz são tranquilos.",
+    "path": "/novakidDescription"
+  }
+]

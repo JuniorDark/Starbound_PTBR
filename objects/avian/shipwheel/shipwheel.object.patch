@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Yarrrr, marujos!"}, {"op": "replace", "path": "/shortdescription", "value": "Wooden Ship Wheel"}, {"op": "replace", "path": "/floranDescription", "value": "Gire a roda, dirija o navio."}, {"op": "replace", "path": "/hylotlDescription", "value": "Parece adequado para dirigir um navio nas ondas, não no ar."}, {"op": "replace", "path": "/novakidDescription", "value": "Um timão. Já vi alguns antes."}, {"op": "replace", "path": "/glitchDescription", "value": "Crítico. Um método impreciso de controle de navios."}, {"op": "replace", "path": "/apexDescription", "value": "Um dispositivo de controle."}, {"op": "replace", "path": "/humanDescription", "value": "Um timão de capitão!"}, {"op": "replace", "path": "/avianDescription", "value": "Para dirigir um navio voador Avian."}]
+[
+  {
+    "op": "replace",
+    "value": "Um timão de capitão!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um dispositivo de controle.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um timão. Já vi alguns antes.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Crítico. Um método impreciso de controle de navios.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para dirigir um navio voador Avian.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece adequado para dirigir um navio nas ondas, não no ar.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gire a roda, dirija o navio.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wooden Ship Wheel",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Yarrrr, marujos!",
+    "path": "/description"
+  }
+]

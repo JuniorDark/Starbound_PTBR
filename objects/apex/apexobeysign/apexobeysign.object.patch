@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Obey Sign"}, {"op": "replace", "path": "/floranDescription", "value": "Hsssss Floran não obedece jantar."}, {"op": "replace", "path": "/apexDescription", "value": "Obedeça... Eu fiz... por tanto tempo."}, {"op": "replace", "path": "/humanDescription", "value": "Propaganda Apex. Eu deveria desenhar um bigode engraçado nela."}, {"op": "replace", "path": "/avianDescription", "value": "Obedeça? Big Ape é o deus Apex?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Somente aqueles que governam com medo precisariam de tal cartaz."}, {"op": "replace", "path": "/description", "value": "É melhor eu fazer o que eles dizem... ha!"}, {"op": "replace", "path": "/glitchDescription", "value": "Corajoso. Nunca!!!"}, {"op": "replace", "path": "/novakidDescription", "value": "Não vo receber ordens de imagem nenhuma."}]
+[
+  {
+    "op": "replace",
+    "value": "Propaganda Apex. Eu deveria desenhar um bigode engraçado nela.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Corajoso. Nunca!!!",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hsssss Floran não obedece jantar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não vo receber ordens de imagem nenhuma.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É melhor eu fazer o que eles dizem... ha!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Obey Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Obedeça... Eu fiz... por tanto tempo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Obedeça? Big Ape é o deus Apex?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Somente aqueles que governam com medo precisariam de tal cartaz.",
+    "path": "/hylotlDescription"
+  }
+]

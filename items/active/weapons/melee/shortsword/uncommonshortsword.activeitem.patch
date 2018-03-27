@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Uncommon Shortsword"}, {"op": "replace", "path": "/description", "value": "Uma espada de uma mão robusta."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma espada de uma mão robusta.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uncommon Shortsword",
+    "path": "/shortdescription"
+  }
+]

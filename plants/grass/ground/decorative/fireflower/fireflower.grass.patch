@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Uma flor de fogo vibrante."}, {"op": "replace", "path": "/shortdescription", "value": "Uma flor de fogo."}, {"op": "replace", "path": "/floranDescription", "value": "Flor quente confunde Floran."}, {"op": "replace", "path": "/glitchDescription", "value": "Declaração. Uma flor de fogo."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma flor de fogo.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma flor de fogo vibrante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Flor quente confunde Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Declaração. Uma flor de fogo.",
+    "path": "/glitchDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/instructionLabel/value", "value": "Equipe na vara de pesca com botão direito"}]
+[
+  {
+    "op": "replace",
+    "value": "0",
+    "path": "/priceLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Equipe na vara de pesca com botão direito",
+    "path": "/instructionLabel/value"
+  }
+]

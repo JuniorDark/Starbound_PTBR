@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "A placa mostra preocupação com a minha segurança. Que atencioso."}, {"op": "replace", "path": "/shortdescription", "value": "Mining Hazard Sign"}, {"op": "replace", "path": "/description", "value": "Uma placa de metal que diz \"PERIGO!\""}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. Perigo? Onde?!"}, {"op": "replace", "path": "/apexDescription", "value": "Uma placa que diz \"Perigo\"."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu não tenho medo de um pouco de problemas."}, {"op": "replace", "path": "/avianDescription", "value": "A placa é um aviso para algo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma placa para alertar as pessoas de algum perigo próximo evitável."}, {"op": "replace", "path": "/floranDescription", "value": "O que quer que isso diga, Floran ignora."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma placa de metal que diz \"PERIGO!\"",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa que diz \"Perigo\".",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa para alertar as pessoas de algum perigo próximo evitável.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não tenho medo de um pouco de problemas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mining Hazard Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A placa é um aviso para algo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A placa mostra preocupação com a minha segurança. Que atencioso.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que quer que isso diga, Floran ignora.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Perigo? Onde?!",
+    "path": "/glitchDescription"
+  }
+]

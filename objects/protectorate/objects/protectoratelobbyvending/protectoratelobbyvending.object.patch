@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Desapontado. Essas bebidas energéticas fazem pouco para Glitch."}, {"op": "replace", "path": "/description", "value": "Uma máquina de venda do Hall de entrada do Protetorado."}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Vending Machine"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Maquina de Vendas"}, {"op": "replace", "path": "/floranDescription", "value": "Bebidasss energéticas ajudam Floran essstudar para os exames!"}, {"op": "replace", "path": "/apexDescription", "value": "Esta máquina de vendas vende bebidas e petiscos."}, {"op": "replace", "path": "/humanDescription", "value": "Oh cara. Eu bebi muitas dessas bebidas energéticas."}, {"op": "replace", "path": "/avianDescription", "value": "Você pode comprar bebidas energizantes desta máquina."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma máquina de venda para a compra de bebidas açucaradas e lanches."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "Lanches Saborosos"}, {"op": "replace", "path": "/novakidDescription", "value": "Essas bebidas energéticas podem mantê-lo acordado a noite toda. Louco, eu lhe digo."}]
+[
+  {
+    "op": "replace",
+    "value": "Maquina de Venda",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": " Lanches Saborosos",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Uma máquina de venda para a compra de bebidas açucaradas e lanches.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma máquina de venda do Hall de entrada do Protetorado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Desapontado. Essas bebidas energéticas fazem pouco para Glitch.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bebidasss energéticas ajudam Floran essstudar para os exames!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Oh cara. Eu bebi muitas dessas bebidas energéticas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Vending Machine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas bebidas energéticas podem mantê-lo acordado a noite toda. Louco, eu lhe digo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta máquina de vendas vende bebidas e petiscos.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Você pode comprar bebidas energizantes desta máquina.",
+    "path": "/avianDescription"
+  }
+]

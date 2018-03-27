@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um módulo de EPP que restaura lentamente sua vida ao longo do tempo."}, {"op": "replace", "path": "/shortdescription", "value": "Healing I Augment"}]
+[
+  {
+    "op": "replace",
+    "value": "Um módulo de EPP que restaura lentamente sua vida ao longo do tempo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Healing I Augment",
+    "path": "/shortdescription"
+  }
+]

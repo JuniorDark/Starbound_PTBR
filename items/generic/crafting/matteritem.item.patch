@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um bloco de matéria."}, {"op": "replace", "path": "/shortdescription", "value": "Matter Block"}]
+[
+  {
+    "op": "replace",
+    "value": "Um bloco de matéria.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Matter Block",
+    "path": "/shortdescription"
+  }
+]

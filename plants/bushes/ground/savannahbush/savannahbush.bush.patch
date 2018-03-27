@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Um arbusto frágil e morto."}, {"op": "replace", "path": "/shortdescription", "value": "Um arbusto frágil e morto."}, {"op": "replace", "path": "/floranDescription", "value": "Arbusto morto."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Um arbusto frágil e morto."}]
+[
+  {
+    "op": "replace",
+    "value": "Um arbusto frágil e morto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um arbusto frágil e morto.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Arbusto morto.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Um arbusto frágil e morto.",
+    "path": "/glitchDescription"
+  }
+]

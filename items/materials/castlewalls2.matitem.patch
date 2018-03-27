@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Lajes de pedra pequenas, perfeita para os mais pequenos detalhes."}, {"op": "replace", "path": "/shortdescription", "value": "Small Stone Brick"}]
+[
+  {
+    "op": "replace",
+    "value": "Interessado. Parece que esses tijolos foram todos cortados da mesma pedra.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Small Stone Brick",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lajes de pedra pequenas, perfeita para os mais pequenos detalhes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns tijolos esculpidos de rocha.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes blocoss de pedra são pequenoss.",
+    "path": "/florandescription"
+  }
+]

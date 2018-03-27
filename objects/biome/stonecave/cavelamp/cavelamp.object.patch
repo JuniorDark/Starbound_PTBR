@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Curioso. Como eles conseguiram colocar a luz dentro dessa estalactite?"}, {"op": "replace", "path": "/shortdescription", "value": "Stalactite Lamp"}, {"op": "replace", "path": "/description", "value": "Uma estalactite brilhante."}, {"op": "replace", "path": "/floranDescription", "value": "Uma lâmpada pontuda."}, {"op": "replace", "path": "/apexDescription", "value": "É uma fonte de luz primitiva."}, {"op": "replace", "path": "/humanDescription", "value": "Espero que não caia na minha cabeça."}, {"op": "replace", "path": "/hylotlDescription", "value": "Parece insegura, mas fornece uma fonte de luz."}, {"op": "replace", "path": "/avianDescription", "value": "Eu vou evitar ficar logo abaixo, por segurança."}, {"op": "replace", "path": "/novakidDescription", "value": "É uma estalactite brilhante."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estalactite brilhante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada pontuda.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Como eles conseguiram colocar a luz dentro dessa estalactite?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que não caia na minha cabeça.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vou evitar ficar logo abaixo, por segurança.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece insegura, mas fornece uma fonte de luz.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma estalactite brilhante.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma fonte de luz primitiva.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Stalactite Lamp",
+    "path": "/shortdescription"
+  }
+]

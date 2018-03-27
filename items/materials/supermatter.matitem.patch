@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Erchius Crystal"}, {"op": "replace", "path": "/description", "value": "Um cristal utilizado para alimentar a tecnologia FTL. Ainda não está totalmente compreendido."}]
+[
+  {
+    "op": "replace",
+    "value": "Um grande cristal de erchius.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um cristal utilizado para alimentar a tecnologia FTL. Ainda não é totalmente compreendido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Erchius Crystal",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Os cristais de Erchius contêm um poder misterioso.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cristaiss gigantes brilhantes.",
+    "path": "/florandescription"
+  }
+]

@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "O Shockhopper MK II, um corpo projetado para encaixar com componentes de mecha modular."
+    "value": "Shockhopper Mech Body",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O Shockhopper MK II, um corpo projetado para encaixar com componentes de mecha modulares.",
+    "path": "/description"
   }
 ]

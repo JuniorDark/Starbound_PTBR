@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma estátua representando o poder da divindade Kluex."}, {"op": "replace", "path": "/shortdescription", "value": "Kluex Serpentine Statue"}, {"op": "replace", "path": "/floranDescription", "value": "Estátua parece coisa grande para Floran lutar!"}, {"op": "replace", "path": "/glitchDescription", "value": "Intimidado. Esta estátua retrata o deus Kluex em uma poderosa forma de serpente, bem como histórias sobre ele."}, {"op": "replace", "path": "/apexDescription", "value": "A base desta estátua algumas das mitologias por trás do deus Avian Kluex."}, {"op": "replace", "path": "/humanDescription", "value": "Esta estátua antiga tem ambos a história de Kluex e uma estátua dele. Ele parece longo, como uma cobra!"}, {"op": "replace", "path": "/avianDescription", "value": "Esta estátua descreve o poder de Kluex, que é esculpido aqui em uma forma serpente."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os escritos aqui descrevem a vontade intransigente de Kluex. Seu corpo é retratado longo e fluindo, como um rio."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu não gostaria de discutir com essa cobra... ou é um pássaro?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estátua representando o poder da divindade Kluex.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não gostaria de discutir com essa cobra... ou é um pássaro?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intimidado. Esta estátua retrata o deus Kluex em uma poderosa forma de serpente, bem como histórias sobre ele.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex Serpentine Statue",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estátua parece coisa grande para Floran lutar!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A base desta estátua algumas das mitologias por trás do deus Avian Kluex.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os escritos aqui descrevem a vontade intransigente de Kluex. Seu corpo é retratado longo e fluindo, como um rio.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta estátua antiga tem ambos a história de Kluex e uma estátua dele. Ele parece longo, como uma cobra!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta estátua descreve o poder de Kluex, que é esculpido aqui em uma forma serpente.",
+    "path": "/avianDescription"
+  }
+]

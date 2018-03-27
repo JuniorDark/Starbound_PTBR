@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um botão."}, {"op": "replace", "path": "/apexDescription", "value": "Um botão tentador."}, {"op": "replace", "path": "/avianDescription", "value": "Um botão, para apertar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um botão."}, {"op": "replace", "path": "/shortdescription", "value": "Wall Mounted Button"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de apertar botões."}, {"op": "replace", "path": "/glitchDescription", "value": "Animado. Um botão!"}, {"op": "replace", "path": "/humanDescription", "value": "Tentador..."}, {"op": "replace", "path": "/novakidDescription", "value": "Vou aperta-lo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um botão, para apertar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um botão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um botão.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um botão tentador.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. Um botão!",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de apertar botões.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vou aperta-lo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tentador...",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wall Mounted Button",
+    "path": "/shortdescription"
+  }
+]

@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um grande recipiente especializado para transporte espacial."
+    "value": "Um grande recipiente especializado para transporte espacial.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Uma caixa de transporte espacial padrão."
+    "value": "Um grande recipiente de transporte, feito para transporte de mercadorias.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Este recipiente é grande, isso significa muito espaço para armazenar coisas dentro."
+    "value": "Uma caixa de transporte espacial padrão.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Grande caixa listrada de metal."
+    "value": "Uma caixa de transporte de grandes dimensões, isso pode armazenar muita coisa dentro.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Interessado. Os metais utilizados nesta caixa a tornam forte, mas bastante leve."
+    "value": "Astro Crate",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Uma caixa de transporte de grandes dimensões, isso pode armazenar muita coisa dentro."
+    "value": "Grande caixa listrada de metal.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Um grande recipiente de transporte, feito para transporte de mercadorias."
+    "value": "Eu acreditaria que você poderia armazenar qualquer coisa nessa grande caixa.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Eu acreditaria que você poderia armazenar qualquer coisa nessa grande caixa."
+    "value": "Interessado. Os metais utilizados nesta caixa a tornam forte, mas bastante leve.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este recipiente é grande, isso significa muito espaço para armazenar coisas dentro.",
+    "path": "/avianDescription"
   }
 ]

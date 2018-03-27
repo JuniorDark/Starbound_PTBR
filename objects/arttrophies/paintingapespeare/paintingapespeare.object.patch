@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma pintura de um grande poeta Apex. Ele...parece familiar."}, {"op": "replace", "path": "/shortdescription", "value": "Apex Poet Portrait"}, {"op": "replace", "path": "/floranDescription", "value": "Macaco velho, traje bobo."}, {"op": "replace", "path": "/glitchDescription", "value": "Divertido. O Apex parece estar vestido com a moda Glitch atual."}, {"op": "replace", "path": "/apexDescription", "value": "A poesia Apex foi queimada e banida há muitos anos."}, {"op": "replace", "path": "/humanDescription", "value": "Esta foto parece familiar..."}, {"op": "replace", "path": "/avianDescription", "value": "Um Apex com um pescoço emplumado?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Um Apex das Artes, sem dúvida."}, {"op": "replace", "path": "/novakidDescription", "value": "Um Apex sofisticado com alguns babados no pescoço."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pintura de um grande poeta Apex. Ele...parece familiar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Divertido. O Apex parece estar vestido com a moda Glitch atual.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um Apex sofisticado com alguns babados no pescoço.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um Apex das Artes, sem dúvida.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um Apex com um pescoço emplumado?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apex Poet Portrait",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A poesia Apex foi queimada e banida há muitos anos.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Macaco velho, traje bobo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta foto parece familiar...",
+    "path": "/humanDescription"
+  }
+]

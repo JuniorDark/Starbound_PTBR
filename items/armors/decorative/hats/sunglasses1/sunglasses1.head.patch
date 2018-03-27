@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Sunglasses"}, {"op": "replace", "path": "/description", "value": "Estes protegerão elegantemente meus olhos do sol brilhante."}]
+[
+  {
+    "op": "replace",
+    "value": "Sunglasses",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes protegerão elegantemente meus olhos do sol brilhante.",
+    "path": "/description"
+  }
+]

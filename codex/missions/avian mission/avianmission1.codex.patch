@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/contentPages/1", "value": "Eles sabem que eu estou aqui para roubar os seus tesouros; seus olhos vermelhos me assombram na escuridão. Hoje tive um vislumbramento de um indivíduo totalmente monstruoso, duas vezes maior que qualquer outro que eu já vi. Ele dormia em uma câmara cavernosa, mal iluminada por pedras preciosas. Seu rosto era o de um pássaro e seu corpo foi decorado com asas de penas de cristal. Talvez seja o seu deus, Kluex? Eu quase podia acreditar, aqui na escuridão. Talvez seja o seu avatar. Vou deixá-lo dormir."}, {"op": "replace", "path": "/contentPages/0", "value": "Estes guardiões Avian são ferozes. Faz dias desde que entrei pela primeira vez neste templo labiríntico, e eu não dormi uma vez sequer por medo deles. Em todos os meus anos de saqueador eu nunca me deparei com tais criaturas temíveis... Embora criaturas é uma descrição imprecisa deles... Eles devem ser inertes - formados a partir de pedras e cristais - mas eles parecem estar vivos. Eles são autômatos sem mente, ou será que algum propósito os guia? Me contaram histórias de golems quando criança..."}, {"op": "replace", "path": "/description", "value": "O diário esfarrapado de um caçador de tesouros desconhecido."}, {"op": "replace", "path": "/title", "value": "Uma Expedição Deserta"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma Expedição Deserta",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "O diário esfarrapado de um caçador de tesouros desconhecido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estes guardiões Avian são ferozes. Faz dias desde que entrei pela primeira vez neste templo labiríntico, e eu não dormi uma vez sequer por medo deles. Em todos os meus anos de saqueador eu nunca me deparei com tais criaturas temíveis... Embora criaturas é uma descrição imprecisa deles... Eles devem ser inertes - formados a partir de pedras e cristais - mas eles parecem estar vivos. Eles são autômatos sem mente, ou será que algum propósito os guia? Me contaram histórias de golems quando criança...",
+    "path": "/contentPages/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eles sabem que eu estou aqui para roubar os seus tesouros; seus olhos vermelhos me assombram na escuridão. Hoje tive um vislumbramento de um indivíduo totalmente monstruoso, duas vezes maior que qualquer outro que eu já vi. Ele dormia em uma câmara cavernosa, mal iluminada por pedras preciosas. Seu rosto era o de um pássaro e seu corpo foi decorado com asas de penas de cristal. Talvez seja o seu deus, Kluex? Eu quase podia acreditar, aqui na escuridão. Talvez seja o seu avatar. Vou deixá-lo dormir.",
+    "path": "/contentPages/1"
+  }
+]

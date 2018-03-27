@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "O que isso QUER DIZER?"}, {"op": "replace", "path": "/shortdescription", "value": "Modern Painting"}, {"op": "replace", "path": "/floranDescription", "value": "Essas formas confundem Floran."}, {"op": "replace", "path": "/glitchDescription", "value": "Apreciativo. Arte geométrica precisa."}, {"op": "replace", "path": "/apexDescription", "value": "Isso saiu de moda há muitos anos."}, {"op": "replace", "path": "/humanDescription", "value": "Meu deus, esta arte é antiquada."}, {"op": "replace", "path": "/hylotlDescription", "value": "Dizem que a arte alimenta a alma, mas alguns alimentos são melhores do que outros."}, {"op": "replace", "path": "/novakidDescription", "value": "Por do sol colorido em forma de um quadro."}, {"op": "replace", "path": "/avianDescription", "value": "Que decoração interessante."}]
+[
+  {
+    "op": "replace",
+    "value": "Modern Painting",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apreciativo. Arte geométrica precisa.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Meu deus, esta arte é antiquada.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas formas confundem Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que decoração interessante.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Por do sol colorido em forma de um quadro.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dizem que a arte alimenta a alma, mas alguns alimentos são melhores do que outros.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso saiu de moda há muitos anos.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que isso QUER DIZER?",
+    "path": "/description"
+  }
+]

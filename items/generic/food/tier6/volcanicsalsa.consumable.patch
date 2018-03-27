@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um molho ardente feito de frutas e vegetais que pode realmente deixar com calor!"}, {"op": "replace", "path": "/shortdescription", "value": "Volcanic Salsa"}]
+[
+  {
+    "op": "replace",
+    "value": "Um molho ardente feito de frutas e vegetais que pode realmente deixar com calor!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Volcanic Salsa",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Stylish Thief Wasteland é muitas vezes criticado por suas representações de violência, mas você deve admirar seu senso de moda."}, {"op": "replace", "path": "/floranDescription", "value": "Ssstylish Thief Wassteland! Floran gosta deste jogo!"}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Stylish Thief Wasteland tem ladrões elegantes enfrentando outros ladrões elegantes. 8/10."}, {"op": "replace", "path": "/apexDescription", "value": "Stylish Thief Wasteland é sobre ladrões roubando outros ladrões. O ladrão mais elegante ganha!"}, {"op": "replace", "path": "/humanDescription", "value": "Stylish Thief Wasteland é o melhor! Eu vou ser o ladrão mais elegante de todos."}, {"op": "replace", "path": "/avianDescription", "value": "É preciso um pouco de habilidade e sorte para se dar bem em Stylish Thief Wasteland."}, {"op": "replace", "path": "/novakidDescription", "value": "Há algo sobre Stylish Thief Wasteland que eu realmente posso me relacionar."}, {"op": "replace", "path": "/description", "value": "Esta máquina tem um jogo chamado 'Stylish Thief Wasteland'."}, {"op": "replace", "path": "/shortdescription", "value": "Green Arcade Machine"}]
+[
+  {
+    "op": "replace",
+    "value": "Green Arcade Machine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Stylish Thief Wasteland tem ladrões elegantes enfrentando outros ladrões elegantes. 8/10.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É preciso um pouco de habilidade e sorte para se dar bem em Stylish Thief Wasteland.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ssstylish Thief Wassteland! Floran gosta deste jogo!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Stylish Thief Wasteland é sobre ladrões roubando outros ladrões. O ladrão mais elegante ganha!",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Stylish Thief Wasteland é muitas vezes criticado por suas representações de violência, mas você deve admirar seu senso de moda.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Stylish Thief Wasteland é o melhor! Eu vou ser o ladrão mais elegante de todos.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há algo sobre Stylish Thief Wasteland que eu realmente posso me relacionar.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta máquina tem um jogo chamado 'Stylish Thief Wasteland'.",
+    "path": "/description"
+  }
+]

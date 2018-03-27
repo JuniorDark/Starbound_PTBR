@@ -1,1 +1,62 @@
-[{"op": "replace", "path": "/description", "value": "Estalando silenciosamente, o cheiro da fumaça de carya é deliciosa."}, {"op": "replace", "path": "/shortdescription", "value": "Rustic Oven"}, {"op": "replace", "path": "/floranDescription", "value": "Forno de pedra cozinha carne boa."}, {"op": "replace", "path": "/glitchDescription", "value": "Informativo. Os tijolos refletem o calor, cozinhando rapidamente e uniformemente."}, {"op": "replace", "path": "/apexDescription", "value": "Um forno agradável."}, {"op": "replace", "path": "/humanDescription", "value": "Um forno adorável."}, {"op": "replace", "path": "/avianDescription", "value": "Os grounded amam cozinhar em pequenos fornos como estes."}, {"op": "replace", "path": "/hylotlDescription", "value": "Muito charme."}, {"op": "replace", "path": "/subtitle", "value": "Cozinhando a lenha."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Forno Rústico"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "Cozinhando a lenha"}, {"op": "replace", "path": "/novakidDescription", "value": "Bem se isso não é o forninho mais fofo que eu já vi!"}]
+[
+  {
+    "op": "replace",
+    "value": "Cozinhar a lenha",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Forno Rústico",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Um forno agradável.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um forno adorável.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estalando silenciosamente, o cheiro da fumaça de carya é deliciosa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Informativo. Os tijolos refletem o calor, cozinhando rapidamente e uniformemente.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rustic Oven",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Muito charme.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Forno de pedra cozinha carne boa.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os grounded amam cozinhar em pequenos fornos como estes.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bem se isso não é o forninho mais fofo que eu já vi!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cozinhando a lenha.",
+    "path": "/subtitle"
+  }
+]

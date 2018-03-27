@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/text", "value": "Eu estava pensando em abrir um museu. Você acha que os Florans gostam de coisas assim? Eu realmente gostaria de conhecer Nuru melhor... de qualquer forma, eu preciso de exposições! Você poderia por favor ^green;traga-me um ^orange;Grand Avian Sarcophagus^white;? Você tem mais chance encontrar um em uma Tumba Avian."}, {"op": "replace", "path": "/title", "value": "^green;Pedido de Koichi"}, {"op": "replace", "path": "/completionText", "value": "Muito obrigado! Isso será a peça principal, perfeita para a exposição Avian. Tenho certeza de que Nuru vai desfrutar muito desta peça maravilhosa! E a gente também, é claro..."}]
+[
+  {
+    "op": "replace",
+    "value": "Eu estava pensando em abrir um museu. Você acha que os Florans gostam de coisas assim? Eu realmente gostaria de conhecer Nuru melhor... de qualquer forma, eu preciso de exposições! Você poderia por favor ^green;traga-me um ^orange;Grand Avian Sarcophagus^white;? Você tem mais chance encontrar um em uma Tumba Avian.",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "Muito obrigado! Isso será a peça principal, perfeita para a exposição Avian. Tenho certeza de que Nuru vai desfrutar muito desta peça maravilhosa! E a gente também, é claro...",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Pedido de Koichi",
+    "path": "/title"
+  }
+]

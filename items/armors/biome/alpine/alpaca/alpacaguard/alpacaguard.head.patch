@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Alpaca Guard Real Head"}, {"op": "replace", "path": "/description", "value": "Uma cabeça de Alpaca com um capacete de combate com chifres."}]
+[
+  {
+    "op": "replace",
+    "value": "Alpaca Guard Real Head",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cabeça de Alpaca com um capacete de combate com chifres.",
+    "path": "/description"
+  }
+]

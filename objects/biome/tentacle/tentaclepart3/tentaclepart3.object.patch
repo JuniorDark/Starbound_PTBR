@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Isso é enervante."}, {"op": "replace", "path": "/shortdescription", "value": "Tentacle part"}, {"op": "replace", "path": "/description", "value": "Algo orgânico e viscoso..."}, {"op": "replace", "path": "/floranDescription", "value": "Aspecto viscossso."}, {"op": "replace", "path": "/glitchDescription", "value": "Desconfortável. Parece ser algo orgânico."}, {"op": "replace", "path": "/humanDescription", "value": "Eca. O que é isso mesmo?"}, {"op": "replace", "path": "/avianDescription", "value": "Que nojo. Está vivo?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma estrutura orgânica totalmente repulsiva."}, {"op": "replace", "path": "/novakidDescription", "value": "Não sei o que é. Não sei se quero saber."}]
+[
+  {
+    "op": "replace",
+    "value": "Não sei o que é. Não sei se quero saber.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que nojo. Está vivo?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estrutura orgânica totalmente repulsiva.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algo orgânico e viscoso...",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Aspecto viscossso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tentacle part",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é enervante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desconfortável. Parece ser algo orgânico.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eca. O que é isso mesmo?",
+    "path": "/humanDescription"
+  }
+]

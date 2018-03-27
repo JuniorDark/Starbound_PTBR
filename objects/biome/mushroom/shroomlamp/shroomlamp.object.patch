@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Uma lâmpada que você poderia abraçar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta lâmpada de cogumelo é prática e útil."}, {"op": "replace", "path": "/description", "value": "Um cogumelo que brilha no escuro. Prático E fofo."}, {"op": "replace", "path": "/shortdescription", "value": "Shroom Lamp"}, {"op": "replace", "path": "/apexDescription", "value": "Um cogumelo brilhante fofo. Ótimo para uma luz noturna."}, {"op": "replace", "path": "/avianDescription", "value": "O brilho deste cogumelo ilumina qualquer sala."}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de cogumelo brilhante."}, {"op": "replace", "path": "/novakidDescription", "value": "É um cogumelo brilhante! Está deixando a sala aconchegante."}, {"op": "replace", "path": "/glitchDescription", "value": "Análise. O brilho é produzido por esporos que parecem exibir comportamentos parasitas."}]
+[
+  {
+    "op": "replace",
+    "value": "Um cogumelo brilhante fofo. Ótimo para uma luz noturna.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um cogumelo que brilha no escuro. Prático E fofo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada que você poderia abraçar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Análise. O brilho é produzido por esporos que parecem exibir comportamentos parasitas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de cogumelo brilhante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um cogumelo brilhante! Está deixando a sala aconchegante.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Shroom Lamp",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lâmpada de cogumelo é prática e útil.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O brilho deste cogumelo ilumina qualquer sala.",
+    "path": "/avianDescription"
+  }
+]

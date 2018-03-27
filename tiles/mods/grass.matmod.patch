@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/description", "value": "Grama grossa e exuberante está crescendo aqui."}]
+[
+  {
+    "op": "replace",
+    "value": "Grama grossa e exuberante está crescendo aqui.",
+    "path": "/description"
+  }
+]

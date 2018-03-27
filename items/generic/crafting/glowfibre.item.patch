@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Glow Fibre"}, {"op": "replace", "path": "/description", "value": "Fibras vegetais bioluminescentes. Elas brilham com muitas cores!"}]
+[
+  {
+    "op": "replace",
+    "value": "Fibras vegetais bioluminescentes. Elas brilham com muitas cores!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Glow Fibre",
+    "path": "/shortdescription"
+  }
+]

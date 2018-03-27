@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Broken Candy Cane"}, {"op": "replace", "path": "/floranDescription", "value": "Muito doce."}, {"op": "replace", "path": "/glitchDescription", "value": "Faminto. Eu apostaria que essa bengala tem gosto de hortelã."}, {"op": "replace", "path": "/apexDescription", "value": "Estou tentado a comê-lo. É real?"}, {"op": "replace", "path": "/humanDescription", "value": "Parece um bastão de doce real. Devo tentar comer?"}, {"op": "replace", "path": "/avianDescription", "value": "Parece ser bom o suficiente para comer!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Doces como decoração? Nunca ouvi falar de tal coisa."}, {"op": "replace", "path": "/description", "value": "Um bastão de doce vermelho decorativo. Está quebrado."}, {"op": "replace", "path": "/novakidDescription", "value": "Nunca ouvi falar de decorar com doces."}]
+[
+  {
+    "op": "replace",
+    "value": "Um bastão de doce vermelho decorativo. Está quebrado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Broken Candy Cane",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Doces como decoração? Nunca ouvi falar de tal coisa.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estou tentado a comê-lo. É real?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece um bastão de doce real. Devo tentar comer?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece ser bom o suficiente para comer!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Muito doce.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Faminto. Eu apostaria que essa bengala tem gosto de hortelã.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nunca ouvi falar de decorar com doces.",
+    "path": "/novakidDescription"
+  }
+]

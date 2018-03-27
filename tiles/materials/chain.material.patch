@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran usa correntes para capturar presas."}, {"op": "replace", "path": "/description", "value": "Correntes de tungstênio, não são muito divertidas."}, {"op": "replace", "path": "/shortdescription", "value": "Tungsten Chain"}, {"op": "replace", "path": "/novakidDescription", "value": "Algumas correntes feitas de tungstênio."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Estas correntes são muito fortes."}]
+[
+  {
+    "op": "replace",
+    "value": "Floran usa correntes para capturar presas.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Estas correntes são muito fortes.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas correntes feitas de tungstênio.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tungsten Chain",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Correntes feitas de tungstênio.",
+    "path": "/description"
+  }
+]

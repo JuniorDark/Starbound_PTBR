@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Rochas de areia."}, {"op": "replace", "path": "/shortdescription", "value": "Rochas de areia."}, {"op": "replace", "path": "/floranDescription", "value": "Rochas de areia!"}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Rochas feitas de areia."}]
+[
+  {
+    "op": "replace",
+    "value": "Rochas de areia.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Rochas de areia.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rochas de areia!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Rochas feitas de areia.",
+    "path": "/glitchDescription"
+  }
+]

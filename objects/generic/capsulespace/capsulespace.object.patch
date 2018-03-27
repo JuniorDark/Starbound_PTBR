@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma grande cápsula quebrável. Queria saber o que está dentro."
+    "value": "Acho que há algo dentro. Provavelmente posso quebrar para abri-la.\"",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Uma cápsula. Isso geralmente contém suprimentos."
+    "value": "Às vezes, a força pode render recompensas.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Uma cápsula. Algo está dentro, eu me pergunto o que é..."
+    "value": "Quebra-la! Obter os presentes dentro!",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Quebra-la! Obter os presentes dentro!"
+    "value": "Surface-Mounted Capsule",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Destrutivo. É difícil resistir ao desejo de quebrar essa cápsula."
+    "value": "Uma cápsula. Algo está dentro, eu me pergunto o que é...",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Eu acho que há algo dentro. Provavelmente posso abri-la."
+    "value": "Uma cápsula. Isso geralmente contém suprimentos.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Às vezes, a força pode render recompensas."
+    "value": "Uma grande cápsula quebrável. Queria saber o que está dentro.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Esta cápsula seria perfeita para praticar tiro ao alvo."
+    "value": "Destrutivo. É difícil resistir ao desejo de quebrar essa cápsula.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cápsula seria perfeita para praticar tiro ao alvo.",
+    "path": "/novakidDescription"
   }
 ]

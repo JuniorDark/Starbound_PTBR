@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma camada dourada crocante protege a batata macia e fofa dentro."}, {"op": "replace", "path": "/shortdescription", "value": "Potato Grids"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma camada dourada crocante protege a batata macia e fofa dentro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Potato Grids",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Derrube-o!"}, {"op": "replace", "path": "/shortdescription", "value": "Bowling Pin"}, {"op": "replace", "path": "/floranDescription", "value": "Floran quer derrubá-lo."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Está alinhado para ser derrubado novamente."}, {"op": "replace", "path": "/apexDescription", "value": "É um pino de boliche."}, {"op": "replace", "path": "/humanDescription", "value": "Um pino de boliche. Quero derrubá-lo."}, {"op": "replace", "path": "/avianDescription", "value": "Uma peça usada para um jogo competitivo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Ele foi derrubado muitas vezes, mas mesmo assim continua se levantando novamente."}, {"op": "replace", "path": "/novakidDescription", "value": "Este pino de boliche está implorando para ser derrubado."}]
+[
+  {
+    "op": "replace",
+    "value": "Um pino de boliche. Quero derrubá-lo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma peça usada para um jogo competitivo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bowling Pin",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Está alinhado para ser derrubado novamente.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran quer derrubá-lo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um pino de boliche.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ele foi derrubado muitas vezes, mas mesmo assim continua se levantando novamente.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Derrube-o!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Este pino de boliche está implorando para ser derrubado.",
+    "path": "/novakidDescription"
+  }
+]

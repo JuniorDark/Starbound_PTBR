@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Wrangler's Hat"}, {"op": "replace", "path": "/description", "value": "Um chapéu resistente com proteção facial reforçada."}]
+[
+  {
+    "op": "replace",
+    "value": "Um chapéu resistente com proteção facial reforçada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Wrangler's Hat",
+    "path": "/shortdescription"
+  }
+]

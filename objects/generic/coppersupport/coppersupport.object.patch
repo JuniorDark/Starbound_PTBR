@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Observador. Esta viga de cobre não está realmente suportando qualquer peso estrutural."}, {"op": "replace", "path": "/description", "value": "Uma viga de suporte estrutural de cobre."}, {"op": "replace", "path": "/floranDescription", "value": "Viga de suporte feita de cobre."}, {"op": "replace", "path": "/apexDescription", "value": "Uma viga de suporte de cobre."}, {"op": "replace", "path": "/humanDescription", "value": "É uma viga de suporte de cobre."}, {"op": "replace", "path": "/avianDescription", "value": "Um suporte estrutural de metal."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um suporte de cobre solidamente construído."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma grande viga de cobre."}, {"op": "replace", "path": "/shortdescription", "value": "Copper Support"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma grande viga de cobre.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma viga de suporte estrutural de cobre.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma viga de suporte de cobre.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um suporte estrutural de metal.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um suporte de cobre solidamente construído.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Copper Support",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma viga de suporte de cobre.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Esta viga de cobre não está realmente suportando qualquer peso estrutural.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Viga de suporte feita de cobre.",
+    "path": "/floranDescription"
+  }
+]

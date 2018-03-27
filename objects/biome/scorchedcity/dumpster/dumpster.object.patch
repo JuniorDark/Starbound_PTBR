@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma caçamba de lixo."}, {"op": "replace", "path": "/shortdescription", "value": "Dumpster"}, {"op": "replace", "path": "/floranDescription", "value": "Caçamba de lixo"}, {"op": "replace", "path": "/glitchDescription", "value": "Surpreso. Uma caçamba de lixo."}, {"op": "replace", "path": "/apexDescription", "value": "Uma caçamba de lixo padrão."}, {"op": "replace", "path": "/humanDescription", "value": "O dumpster diving é ainda uma coisa?"}, {"op": "replace", "path": "/avianDescription", "value": "Uma caçamba de lixo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma caçamba de lixo. Imunda mas necessária."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma grande caçamba de lixo."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma grande caçamba de lixo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caçamba de lixo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caçamba de lixo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caçamba de lixo. Imunda mas necessária.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caçamba de lixo padrão.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Caçamba de lixo",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dumpster",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O dumpster diving é ainda uma coisa?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Uma caçamba de lixo.",
+    "path": "/glitchDescription"
+  }
+]

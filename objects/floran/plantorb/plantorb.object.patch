@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "A luz que este orbe lança é assombrosamente bela."}, {"op": "replace", "path": "/novakidDescription", "value": "Não parece grande coisa, mas nunca se sabe o que se esconde lá dentro."}, {"op": "replace", "path": "/floranDescription", "value": "Orbes de luzess se fazem bons recipientesss."}, {"op": "replace", "path": "/glitchDescription", "value": "Espantado. Esta esfera é uma fonte impressionante de luz natural."}, {"op": "replace", "path": "/humanDescription", "value": "Há espaço para armazenar algumas coisas dentro deste pequeno orbe."}, {"op": "replace", "path": "/avianDescription", "value": "Uma planta brilhante, a esfera é oca por dentro."}, {"op": "replace", "path": "/description", "value": "Um orbe brilhante. Parece que há espaço para armazenar coisas dentro."}, {"op": "replace", "path": "/shortdescription", "value": "Glowing Orb"}, {"op": "replace", "path": "/apexDescription", "value": "Esta planta emite um brilho verde."}]
+[
+  {
+    "op": "replace",
+    "value": "Um orbe brilhante. Parece que há espaço para armazenar coisas dentro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta brilhante, a esfera é oca por dentro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espantado. Esta esfera é uma fonte impressionante de luz natural.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Glowing Orb",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não parece grande coisa, mas nunca se sabe o que se esconde lá dentro.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Orbes de luzess se fazem bons recipientesss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A luz que este orbe lança é assombrosamente bela.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há espaço para armazenar algumas coisas dentro deste pequeno orbe.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta planta emite um brilho verde.",
+    "path": "/apexDescription"
+  }
+]

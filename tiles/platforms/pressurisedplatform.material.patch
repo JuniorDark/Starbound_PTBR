@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Aprovação. Estas plataformas fortes são reforçadas para suportar mudanças de pressurização."}, {"op": "replace", "path": "/description", "value": "Plataforma pressurizada resistente para ambientes potencialmente pressionados!"}, {"op": "replace", "path": "/shortdescription", "value": "Pressurised Platform"}, {"op": "replace", "path": "/floranDescription", "value": "Plataformass de metal fortess são frias."}, {"op": "replace", "path": "/novakidDescription", "value": "Algum tipo de plataforma de aparência brilhante."}]
+[
+  {
+    "op": "replace",
+    "value": "Aprovação. Estas plataformas fortes são reforçadas para suportar mudanças de pressurização.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pressurised Platform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de plataforma de aparência brilhante.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plataformass de metal fortess são frias.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plataforma pressurizada resistente para ambientes potencialmente pressionados!",
+    "path": "/description"
+  }
+]

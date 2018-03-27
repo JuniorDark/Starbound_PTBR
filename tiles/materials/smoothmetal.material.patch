@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Metal lissso."}, {"op": "replace", "path": "/description", "value": "Metal liso, frio ao toque."}, {"op": "replace", "path": "/shortdescription", "value": "Smooth Metal"}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Metal polido tão suave como um chassi de Glitch."}, {"op": "replace", "path": "/novakidDescription", "value": "Estes painéis de metal são muito lisos."}]
+[
+  {
+    "op": "replace",
+    "value": "Impressionado. Metal polido tão suave como um chassi de Glitch.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Smooth Metal",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Metal liso, frio ao toque.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Metal lissso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes painéis de metal são muito lisos.",
+    "path": "/novakidDescription"
+  }
+]

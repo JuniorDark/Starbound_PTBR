@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma revólver grande que da um coice e tanto."}, {"op": "replace", "path": "/shortdescription", "value": "Iron Revolver"}]
+[
+  {
+    "op": "replace",
+    "value": "Iron Revolver",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um revólver grande que da um coice e tanto.",
+    "path": "/description"
+  }
+]

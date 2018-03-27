@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma fita vermelha elegante."}, {"op": "replace", "path": "/floranDescription", "value": "Fita vermelha aveludada... Faz Floran sentir fome!"}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Uma fita vermelha."}, {"op": "replace", "path": "/apexDescription", "value": "Uma bela fita de veludo."}, {"op": "replace", "path": "/humanDescription", "value": "É uma fita vermelha."}, {"op": "replace", "path": "/avianDescription", "value": "Uma fita de veludo. Chique!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma fita vermelha."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma simples corda vermelha."}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Ribbon"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma fita vermelha elegante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bela fita de veludo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fita vermelha.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma simples corda vermelha.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fita de veludo. Chique!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma fita vermelha.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Uma fita vermelha.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Ribbon",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fita vermelha aveludada... Faz Floran sentir fome!",
+    "path": "/floranDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Portas como esta são muitas vezes utilizadas para deter aqueles que os profanam."}, {"op": "replace", "path": "/description", "value": "Este rastrilho de ferro pesado abre para cima."}, {"op": "replace", "path": "/shortdescription", "value": "Portcullis"}, {"op": "replace", "path": "/floranDescription", "value": "Porta é pesada, espinhoss de metal afiado faz porta."}, {"op": "replace", "path": "/glitchDescription", "value": "Presunçoso. Os Glitch criam seu rastrilhos em uma escala muito maior."}, {"op": "replace", "path": "/apexDescription", "value": "Parece que esta porta de ferro se abre para cima"}, {"op": "replace", "path": "/humanDescription", "value": "Eu odeio ficar preso sob isso quando ele fecha."}, {"op": "replace", "path": "/hylotlDescription", "value": "Ferro sólido. Função sobre forma."}, {"op": "replace", "path": "/novakidDescription", "value": "Estas são umas barras de ferro bastante duras."}]
+[
+  {
+    "op": "replace",
+    "value": "Eu odiaria ficar preso sob isso quando ele fechar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Presunçoso. Os Glitch criam seus rastrilhos em uma escala muito maior.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Porta é pesada, espinhoss de metal afiado faz porta.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Portas como esta são muitas vezes utilizadas para deter aqueles que os profanam.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que esta porta de ferro se abre para cima",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Portcullis",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ferro sólido. Função sobre forma.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas são umas barras de ferro bastante duras.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este rastrilho de ferro pesado abre para cima.",
+    "path": "/description"
+  }
+]

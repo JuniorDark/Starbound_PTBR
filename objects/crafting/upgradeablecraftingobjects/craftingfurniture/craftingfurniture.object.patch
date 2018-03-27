@@ -1,1 +1,157 @@
-[{"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription", "value": "Tudo que você precisa para transformar uma casa em um lar."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription", "value": "Eu poderia fazer alguns móveis finos com essa mesa."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription", "value": "Inspirado. Módulo de criação ativado."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/floranDescription", "value": "Floran usssa mesa para fazer casa bonita."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/description", "value": "A bancada de trabalho industrial é usada para produzir materiais e objetos necessários para construir um assentamento."}, {"op": "replace", "path": "/description", "value": "Pode ser usada para produzir materiais e objetos necessários para construir um assentamento."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/shortdescription", "value": "^orange;Wooden Workbench^white;"}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/shortdescription", "value": "^orange;Industrial Workbench^white;"}, {"op": "replace", "path": "/shortdescription", "value": "^orange;Wooden Workbench^white;"}, {"op": "replace", "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title", "value": "Bancada de Madeira"}, {"op": "replace", "path": "/hylotlDescription", "value": "Tudo que você precisa para transformar uma casa em um lar."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription", "value": "Inspirado. Módulo de criação ativado."}, {"op": "replace", "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "^#b9b5b2;Móveis e blocos"}, {"op": "replace", "path": "/novakidDescription", "value": "Eu poderia fazer alguns móveis finos com essa mesa."}, {"op": "replace", "path": "/glitchDescription", "value": "Inspirado. Módulo de criação ativado."}, {"op": "replace", "path": "/avianDescription", "value": "Uma chance de demostrar as habilidades de carpintaria."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/humanDescription", "value": "Eu poderia fazer uma casa bem mobilhada com isso."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/avianDescription", "value": "Uma chance de demostrar as habilidades de carpintaria."}, {"op": "replace", "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title", "value": "Bancada Industrial"}, {"op": "replace", "path": "/floranDescription", "value": "Floran usssa mesa para fazer casa bonita."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/floranDescription", "value": "Floran usssa mesa para fazer casa bonita."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/apexDescription", "value": "Uma mesa que serve para carpintaria básica."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/apexDescription", "value": "Uma mesa que serve para carpintaria básica."}, {"op": "replace", "path": "/apexDescription", "value": "Uma mesa que serve para carpintaria básica."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/humanDescription", "value": "Eu poderia fazer uma casa bem mobilhada com isso."}, {"op": "replace", "path": "/humanDescription", "value": "Eu poderia fazer uma casa bem mobilhada com isso."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/avianDescription", "value": "Uma chance de demostrar as habilidades de carpintaria."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription", "value": "Tudo que você precisa para transformar uma casa em um lar."}, {"op": "replace", "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "^#b9b5b2;Objetos e blocos"}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription", "value": "Eu poderia fazer alguns móveis finos com essa mesa."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/description", "value": "A bancada de trabalho de madeira é usada para produzir materiais e objetos necessários para construir um assentamento."}]
+[
+  {
+    "op": "replace",
+    "value": "Inspirado. Módulo de fabricação ativado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inspirado. Módulo de fabricação ativado.",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inspirado. Módulo de fabricação ativado.",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bancada Industrial",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Bancada de Madeira",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Móveis e blocos",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Objetos e blocos",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Uma chance de demostrar as habilidades de carpintaria.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma chance de demostrar as habilidades de carpintaria.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma chance de demostrar as habilidades de carpintaria.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa que serve para carpintaria básica.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa que serve para carpintaria básica.",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa que serve para carpintaria básica.",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tudo que você precisa para transformar uma casa em um lar.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tudo que você precisa para transformar uma casa em um lar.",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tudo que você precisa para transformar uma casa em um lar.",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pode ser usada para produzir materiais e objetos necessários para construir um assentamento.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran usssa mesa para fazer casa bonita.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran usssa mesa para fazer casa bonita.",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran usssa mesa para fazer casa bonita.",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu poderia fazer uma casa bem mobilhada com isso.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu poderia fazer uma casa bem mobilhada com isso.",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu poderia fazer uma casa bem mobilhada com isso.",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu poderia fazer alguns móveis finos com essa mesa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu poderia fazer alguns móveis finos com essa mesa.",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu poderia fazer alguns móveis finos com essa mesa.",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A bancada de trabalho industrial é usada para produzir materiais e objetos necessários para construir um assentamento.",
+    "path": "/upgradeStages/1/itemSpawnParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "A bancada de trabalho de madeira é usada para produzir materiais e objetos necessários para construir um assentamento.",
+    "path": "/upgradeStages/0/itemSpawnParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Industrial Workbench^white;",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Wooden Workbench^white;",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Wooden Workbench^white;",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Acho que há algo lá dentro. Provavelmente, posso abri-lo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Às vezes, força pode render recompensas."}, {"op": "replace", "path": "/floranDescription", "value": "Esmagar! Obter guloseimas de dentro!"}, {"op": "replace", "path": "/apexDescription", "value": "Uma cápsula. Estas, muitas vezes contêm suprimentos."}, {"op": "replace", "path": "/avianDescription", "value": "Uma cápsula. Algo está dentro, eu me pergunto o que é..."}, {"op": "replace", "path": "/shortdescription", "value": "Large Capsule"}, {"op": "replace", "path": "/description", "value": "Uma grande cápsula quebrável. Pergunto o que há dentro."}, {"op": "replace", "path": "/glitchDescription", "value": "Destrutivo. É difícil resistir ao desejo de quebrar esta cápsula."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta cápsula deve ser perfeita para a prática de tiro ao alvo."}]
+[
+  {
+    "op": "replace",
+    "value": "Acho que há algo dentro. Provavelmente posso quebrar para abri-la.\"",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Às vezes, a força pode render recompensas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quebra-la! Obter os presentes dentro!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Large Capsule",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cápsula. Algo está dentro, eu me pergunto o que é...",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cápsula. Isso geralmente contém suprimentos.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma grande cápsula quebrável. Queria saber o que está dentro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Destrutivo. É difícil resistir ao desejo de quebrar essa cápsula.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cápsula seria perfeita para praticar tiro ao alvo.",
+    "path": "/novakidDescription"
+  }
+]

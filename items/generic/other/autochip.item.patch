@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Auto Chip"}, {"op": "replace", "path": "/description", "value": "Um componente crucial de reparação de veículos."}]
+[
+  {
+    "op": "replace",
+    "value": "Um componente crucial de reparação de veículos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Auto Chip",
+    "path": "/shortdescription"
+  }
+]

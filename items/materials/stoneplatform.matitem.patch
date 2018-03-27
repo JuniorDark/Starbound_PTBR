@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Stone Platform"}, {"op": "replace", "path": "/description", "value": "Uma plataforma esculpida em pedra."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma plataforma feita de pedra.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Esta plataforma foi esculpida de pedra sólida.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Deve ter levado uma eternidade para esculpir estas plataformas de pedra.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedra essculpida em plataformass.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Stone Platform",
+    "path": "/shortdescription"
+  }
+]

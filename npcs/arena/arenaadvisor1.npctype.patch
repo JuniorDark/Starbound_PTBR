@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/3", "value": "A espada elétrica do Berserker vai te deixar lento, deixando você vulnerável aos ataques do Brutamonte. Mantenha distância."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Existem três gladiadores, cada um com um estilo de luta diferente."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/2", "value": "A atiradora vai manter distância de você. Se você conseguir chegar perto, ela será um alvo mais fácil."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/1", "value": "O Brutamonte é o maior e o mais forte dos gladiadores, mas o tamanho o torna lento e um alvo fácil."}]
+[
+  {
+    "op": "replace",
+    "value": "A espada elétrica do Berserker vai te deixar lento, deixando você vulnerável aos ataques do Brutamonte. Mantenha distância.",
+    "path": "/scriptConfig/dialog/converse/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "O Brutamonte é o maior e o mais forte dos gladiadores, mas o tamanho o torna lento e um alvo fácil.",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "A atiradora vai manter distância de você. Se você conseguir chegar perto, ela será um alvo mais fácil.",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Existem três gladiadores, cada um com um estilo de luta diferente.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

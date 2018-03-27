@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um modelo detalhado do planeta mais distante do Sistema Solar, Netuno."}, {"op": "replace", "path": "/shortdescription", "value": "Neptune Model"}, {"op": "replace", "path": "/avianDescription", "value": "Netuno é o nome de um antigo deus do mar da Terra e suas luas tem o nome de deuses do mar menores."}, {"op": "replace", "path": "/hylotlDescription", "value": "Netuno tem a Grande Mancha Escura e a Pequena Mancha Escura. Se tivesse uma terceira seria perfeito."}, {"op": "replace", "path": "/novakidDescription", "value": "Lendas de um grande bandido escondendo sua nave nas nuvens Neptunianas persistem devido a estranhos desaparecimentos de naves comuns."}, {"op": "replace", "path": "/floranDescription", "value": "Netuno é o sssegundo gigante de gelo no Sssistema Solar."}, {"op": "replace", "path": "/glitchDescription", "value": "Tristeza. Um acidente de transporte Glitch pousou em Netuno devido a uma falha no sistema há alguns anos. Todos estavam perdidos."}, {"op": "replace", "path": "/humanDescription", "value": "Netuno é o planeta mais distante do meu sistema natal, o Sistema Solar."}, {"op": "replace", "path": "/apexDescription", "value": "É Netuno. A Grande Mancha Escura nele assemelha-se a Grande Mancha Vermelha em Júpiter."}]
+[
+  {
+    "op": "replace",
+    "value": "Um modelo detalhado do planeta mais distante do Sistema Solar, Netuno.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "É Netuno. A Grande Mancha Escura nele assemelha-se a Grande Mancha Vermelha em Júpiter.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lendas de um grande bandido escondendo sua nave nas nuvens Neptunianas persistem devido a estranhos desaparecimentos de naves comuns.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neptune Model",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Netuno tem a Grande Mancha Escura e a Pequena Mancha Escura. Se tivesse uma terceira seria perfeito.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Netuno é o nome de um antigo deus do mar da Terra e suas luas tem o nome de deuses do mar menores.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Netuno é o planeta mais distante do meu sistema natal, o Sistema Solar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Netuno é o sssegundo gigante de gelo no Sssistema Solar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tristeza. Um acidente de transporte Glitch pousou em Netuno devido a uma falha no sistema há alguns anos. Todos estavam perdidos.",
+    "path": "/glitchDescription"
+  }
+]

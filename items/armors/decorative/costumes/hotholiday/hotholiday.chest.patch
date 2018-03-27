@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Holiday Top"}, {"op": "replace", "path": "/description", "value": "Isso não parece muito eficaz em mantê-lo aquecido."}]
+[
+  {
+    "op": "replace",
+    "value": "Holiday Top",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso não parece muito eficaz em mantê-lo aquecido.",
+    "path": "/description"
+  }
+]

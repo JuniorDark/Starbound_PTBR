@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um saco de dormir básico em uma armação de madeira com rodas."}, {"op": "replace", "path": "/shortdescription", "value": "Wheeled Bed"}, {"op": "replace", "path": "/floranDescription", "value": "Prissioneiross de Floran não têm camass chiquess."}, {"op": "replace", "path": "/glitchDescription", "value": "Suspeito. Não tenho certeza se esta moldura pode suportar meu peso."}, {"op": "replace", "path": "/apexDescription", "value": "Uma cama de prisão de madeira com rodas."}, {"op": "replace", "path": "/humanDescription", "value": "Uma moldura de cama de madeira forrada com algumas plantas. Não parece confortável"}, {"op": "replace", "path": "/avianDescription", "value": "Esta cama de prisão tem rodas para movê-la."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta cama parece muito desconfortável, e não inclui cobertas."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma cama de prisão de madeira com rodas."}]
+[
+  {
+    "op": "replace",
+    "value": "Um saco de dormir básico em uma armação de madeira com rodas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma moldura de cama de madeira forrada com algumas plantas. Não parece confortável",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama de prisão de madeira com rodas.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Prissioneiross de Floran não têm camass chiquess.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama de prisão de madeira com rodas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Suspeito. Não tenho certeza se esta moldura pode suportar meu peso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama parece muito desconfortável, e não inclui cobertas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama de prisão tem rodas para movê-la.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wheeled Bed",
+    "path": "/shortdescription"
+  }
+]

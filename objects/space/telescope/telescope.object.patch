@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um telescópio científico, perfeito para observar as estrelas."
+    "value": "Um grande telescópio para olhar as estrelas.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Este grande telescópio pode me permitir ver objetos distantes."
+    "value": "Um telescópio científico, perfeito para observar as estrelas.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Um telescópio especialmente feito para olhar as estrelas."
+    "value": "Um telescópio especialmente feito para olhar as estrelas.",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Telessscópios permitem Floran olhar atentamente para as estrelas."
+    "value": "Astronomy Telescope",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Animado. Este telescópio é a ferramenta perfeita para inspecionar as estrelas de longe."
+    "value": "Animado. Este telescópio é a ferramenta perfeita para inspecionar as estrelas de longe.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Este telescópio grande parece especialmente desenhado para astronomia."
+    "value": "Espelhos em telescópios como este devem ser posicionados de forma muito precisa.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Espelhos em telescópios como este devem ser posicionados de forma muito precisa."
+    "value": "Telessscópios permitem Floran olhar atentamente para as estrelas.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Um grande telescópio para olhar as estrelas."
+    "value": "Este telescópio grande parece especialmente desenhado para astronomia.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este grande telescópio pode me permitir ver objetos distantes.",
+    "path": "/apexDescription"
   }
 ]

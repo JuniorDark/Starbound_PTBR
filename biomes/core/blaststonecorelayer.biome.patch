@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/friendlyName", "value": "Camada de Núcleo Pedra Explosiva"}]
+[
+  {
+    "op": "replace",
+    "value": "Camada de Núcleo Pedra Explosiva",
+    "path": "/friendlyName"
+  }
+]

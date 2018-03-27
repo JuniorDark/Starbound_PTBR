@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran quer puxar alavanca."}, {"op": "replace", "path": "/novakidDescription", "value": "Me pergunto o que esta alavanca faz..."}, {"op": "replace", "path": "/shortdescription", "value": "Standard Lever"}, {"op": "replace", "path": "/glitchDescription", "value": "Tentado. Gostaria de ver o que acontece se eu puxar essa alavanca."}, {"op": "replace", "path": "/apexDescription", "value": "Devo virar esta alavanca?"}, {"op": "replace", "path": "/humanDescription", "value": "Hmm, eu sinto que devo puxar essa alavanca."}, {"op": "replace", "path": "/avianDescription", "value": "Gostaria muito de puxar essa alavanca."}, {"op": "replace", "path": "/hylotlDescription", "value": "Por mais tentador que seja puxar esta alavanca, eu devo resistir."}, {"op": "replace", "path": "/description", "value": "É uma alavanca muito tentadora."}]
+[
+  {
+    "op": "replace",
+    "value": "Por mais tentador que seja puxar esta alavanca, eu devo resistir.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran quer puxar alavanca.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hmm, eu sinto que devo puxar essa alavanca.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gostaria muito de puxar essa alavanca.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma alavanca muito tentadora.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Devo virar esta alavanca?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Standard Lever",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tentado. Gostaria de ver o que acontece se eu puxar essa alavanca.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me pergunto o que esta alavanca faz...",
+    "path": "/novakidDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Numero zero."}, {"op": "replace", "path": "/shortdescription", "value": "Zero"}, {"op": "replace", "path": "/floranDescription", "value": "Círculo."}, {"op": "replace", "path": "/apexDescription", "value": "Zero."}, {"op": "replace", "path": "/humanDescription", "value": "Zero."}, {"op": "replace", "path": "/avianDescription", "value": "Zero."}, {"op": "replace", "path": "/hylotlDescription", "value": "Nada."}, {"op": "replace", "path": "/novakidDescription", "value": "Um zero."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Zero."}]
+[
+  {
+    "op": "replace",
+    "value": "Um zero.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Círculo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Zero.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nada.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Zero",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Numero zero.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Zero.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Zero.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Zero.",
+    "path": "/humanDescription"
+  }
+]

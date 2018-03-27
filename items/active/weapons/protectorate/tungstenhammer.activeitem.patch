@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Pesado, mas bate forte."}, {"op": "replace", "path": "/shortdescription", "value": "Tungsten Hammer"}]
+[
+  {
+    "op": "replace",
+    "value": "Pesado, mas bate forte.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Tungsten Hammer",
+    "path": "/shortdescription"
+  }
+]

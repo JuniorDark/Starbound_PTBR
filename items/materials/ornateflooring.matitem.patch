@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Piso ornamentado agradável."}, {"op": "replace", "path": "/shortdescription", "value": "Ornate Flooring"}]
+[
+  {
+    "op": "replace",
+    "value": "Encantado. Um belo piso de madeira ornamentado.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Piso ornamentado agradável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran se sente chique caminhando em chão ornamentado.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ornate Flooring",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns pisos ornamentados chique.",
+    "path": "/novakiddescription"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Outpost Thick Wall"}, {"op": "replace", "path": "/description", "value": "Um tipo de parede grossa desenvolvida para a exposição a elementos extremos."}]
+[
+  {
+    "op": "replace",
+    "value": "Um tipo de parede grossa desenvolvida para a exposição a elementos extremos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Nada vai mover essa parede grossa.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Outpost Thick Wall",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Nada moverá esta parede estruturalmente reforçada.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esssa parede é tão forte.",
+    "path": "/florandescription"
+  }
+]

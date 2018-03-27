@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Usado para impedir tanques."}, {"op": "replace", "path": "/shortdescription", "value": "Tank Trap"}, {"op": "replace", "path": "/floranDescription", "value": "Armadilhasss de tanque!"}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Uma forma de metal irregular usada para interceptar veículos."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma forma de metal irregulares usada para capturar tanques."}, {"op": "replace", "path": "/apexDescription", "value": "Uma forma de metal irregulares usada para capturar tanques."}, {"op": "replace", "path": "/humanDescription", "value": "Isso poderia parar um tanque!"}, {"op": "replace", "path": "/avianDescription", "value": "Isso pode parar um tanque!"}, {"op": "replace", "path": "/novakidDescription", "value": "Essas coisas poderiam parar qualquer veiculo. Clássico."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma forma de metal irregulares usada para capturar tanques.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma forma de metal irregulares usada para capturar tanques.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Uma forma de metal irregular usada para interceptar veículos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tank Trap",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Armadilhasss de tanque!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso pode parar um tanque!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas coisas poderiam parar qualquer veiculo. Clássico.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso poderia parar um tanque!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Usado para impedir tanques.",
+    "path": "/description"
+  }
+]

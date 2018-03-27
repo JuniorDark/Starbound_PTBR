@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um tambor de aço. Vamos fazer barulho."}, {"op": "replace", "path": "/shortdescription", "value": "Steel Drum"}]
+[
+  {
+    "op": "replace",
+    "value": "Um tambor de aço. Vamos fazer barulho.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Steel Drum",
+    "path": "/shortdescription"
+  }
+]

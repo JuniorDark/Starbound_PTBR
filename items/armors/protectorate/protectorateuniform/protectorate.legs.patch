@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uniforme edição padrão para todos os membros do Protetorado Terreno."}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Protectorate Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uniforme edição padrão para todos os membros do Protetorado Terreno.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Posso obter itens lendários aqui! Mas só se eu puder trocar algumas coisas muito raras."}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Uma loja que negocia por objetos ao invés de pixels?"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "Transforme itens raros em recompensas generosas!"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Troféus Valiosos"}, {"op": "replace", "path": "/description", "value": "Tem algo raro? Temos algo mais raro."}, {"op": "replace", "path": "/floranDescription", "value": "Este comerciante quer itens raros em troca de suas mercadorias."}, {"op": "replace", "path": "/apexDescription", "value": "Posso trocar coisas raras por coisas mais raras aqui."}, {"op": "replace", "path": "/avianDescription", "value": "Um lugar para trocar itens raros por objetos exclusivos."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu trocaria minhas botas por algumas dessas coisas! Mas este comerciante não está procurando por botas..."}, {"op": "replace", "path": "/shortdescription", "value": "Treasured Trophies"}, {"op": "replace", "path": "/hylotlDescription", "value": "Eu posso trocar alguns dos meus itens mais raros pelos produtos nesta carroça."}]
+[
+  {
+    "op": "replace",
+    "value": "Um lugar para trocar itens raros por objetos exclusivos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tem algo raro? Temos algo mais raro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Posso obter itens lendários aqui! Mas só se eu puder trocar algumas coisas muito raras.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso trocar coisas raras por coisas mais raras aqui.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso trocar alguns dos meus itens mais raros pelos produtos nesta carroça.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu trocaria minhas botas por algumas dessas coisas! Mas este comerciante não está procurando por botas...",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Uma loja que negocia por objetos ao invés de pixels?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este comerciante quer itens raros em troca de suas mercadorias.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Treasured Trophies",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Treasured Trophies",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Transforme itens raros em recompensas generosas!",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  }
+]

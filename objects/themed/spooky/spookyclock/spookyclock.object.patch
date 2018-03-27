@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran gosta de morcego falso. Não tenho certeza sobre o resto."}, {"op": "replace", "path": "/description", "value": "Um velho relógio de pêndulo, coberto com uma escultura de morcego arrepiante."}, {"op": "replace", "path": "/shortdescription", "value": "Spooky Clock"}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. O dispositivo usa engrenagens para rastrear a hora atual."}, {"op": "replace", "path": "/apexDescription", "value": "Eu prefiro relógios digitais - O tiquetaque não chama a atenção para você."}, {"op": "replace", "path": "/humanDescription", "value": "Sabe, conseguir um relógio seria mais barato que isso."}, {"op": "replace", "path": "/avianDescription", "value": "Este relógio parece estar preso a uma certa hora..."}, {"op": "replace", "path": "/hylotlDescription", "value": "O objetivo disso é causar medo? Ele falhou."}, {"op": "replace", "path": "/novakidDescription", "value": "Este relógio velho está me dando arrepios."}]
+[
+  {
+    "op": "replace",
+    "value": "Um velho relógio de pêndulo, coberto com uma escultura de morcego arrepiante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de morcego falso. Não tenho certeza sobre o resto.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu prefiro relógios digitais - O tiquetaque não chama a atenção para você.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. O dispositivo usa engrenagens para rastrear a hora atual.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O objetivo disso é causar medo? Ele falhou.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Spooky Clock",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este relógio parece estar preso a uma certa hora...",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este relógio velho está me dando arrepios.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sabe, conseguir um relógio seria mais barato que isso.",
+    "path": "/humanDescription"
+  }
+]

@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Amarelado."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Um arbusto amarelado."}, {"op": "replace", "path": "/description", "value": "Um arbusto amarelado."}, {"op": "replace", "path": "/shortdescription", "value": "Um arbusto amarelado."}]
+[
+  {
+    "op": "replace",
+    "value": "Um arbusto amarelado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um arbusto amarelado.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Amarelado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Um arbusto amarelado.",
+    "path": "/glitchDescription"
+  }
+]

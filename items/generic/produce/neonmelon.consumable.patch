@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Neonmelon"}, {"op": "replace", "path": "/description", "value": "Uma fatia de neonmelon com sabor de chiclete."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma fatia de neonmelon com sabor de chiclete.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Neonmelon",
+    "path": "/shortdescription"
+  }
+]

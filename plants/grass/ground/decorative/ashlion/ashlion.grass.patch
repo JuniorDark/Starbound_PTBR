@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Flor Queimadasss"}, {"op": "replace", "path": "/description", "value": "Um ashlion."}, {"op": "replace", "path": "/shortdescription", "value": "Um ashlion."}, {"op": "replace", "path": "/glitchDescription", "value": "Declaração. Um ashlion."}]
+[
+  {
+    "op": "replace",
+    "value": "Um ashlion.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um ashlion.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Flor Queimadasss",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Declaração. Um ashlion.",
+    "path": "/glitchDescription"
+  }
+]

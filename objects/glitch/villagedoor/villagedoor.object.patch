@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Uma porta de madeira humilde."}, {"op": "replace", "path": "/humanDescription", "value": "Uma porta de madeira básica."}, {"op": "replace", "path": "/avianDescription", "value": "Uma porta simples com uma maçaneta de ferro."}, {"op": "replace", "path": "/description", "value": "Uma porta de madeira barata."}, {"op": "replace", "path": "/shortdescription", "value": "Village Door"}, {"op": "replace", "path": "/floranDescription", "value": "Porta de árvore sssimples."}, {"op": "replace", "path": "/glitchDescription", "value": "Explicação. Uma porta simples que você esperaria ver uma centena de vezes em qualquer aldeia."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma porta de aldeia humilde."}, {"op": "replace", "path": "/novakidDescription", "value": "Apenas uma porta de madeira de aparência simples."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta de madeira barata.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta de aldeia humilde.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta simples com uma maçaneta de ferro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Explicação. Uma porta simples que você esperaria ver uma centena de vezes em qualquer aldeia.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas uma porta de madeira de aparência simples.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Porta de árvore sssimples.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Village Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta de madeira básica.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta de madeira humilde.",
+    "path": "/apexDescription"
+  }
+]

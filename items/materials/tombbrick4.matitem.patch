@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Dark Tomb Brick"}, {"op": "replace", "path": "/description", "value": "Escuro e frio ao toque, esses tijolos parecem aspirar o calor da sala."}]
+[
+  {
+    "op": "replace",
+    "value": "Grandes tijoloss de pedra são duross e frioss.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dark Tomb Brick",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Escuro e frio ao toque, esses tijolos parecem sugar o calor da sala.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pedra muito forte. É muito fria ao toque.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não impressionado. Estes tijolos grandes não são uniformes em tamanho.",
+    "path": "/glitchdescription"
+  }
+]

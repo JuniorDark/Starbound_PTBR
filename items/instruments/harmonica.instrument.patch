@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma harmônica. Instrumento favorito de capitães espaciais grisalhos."}, {"op": "replace", "path": "/shortdescription", "value": "Harmonica"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma harmônica. Instrumento favorito de capitães espaciais grisalhos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Harmonica",
+    "path": "/shortdescription"
+  }
+]

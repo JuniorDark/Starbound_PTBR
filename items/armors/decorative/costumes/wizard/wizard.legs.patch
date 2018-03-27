@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Wizard Robe Bottoms"}, {"op": "replace", "path": "/description", "value": "É como um roupão de banho, mas foi feito para Bruxos de verdade. Será que bruxos tomam banho?"}]
+[
+  {
+    "op": "replace",
+    "value": "É como um roupão de banho, mas foi feito para Bruxos de verdade. Será que bruxos tomam banho?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Wizard Robe Bottoms",
+    "path": "/shortdescription"
+  }
+]

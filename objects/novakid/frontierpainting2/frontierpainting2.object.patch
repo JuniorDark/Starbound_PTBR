@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Esta pintura parece ser uma carroça verde puxada por um animal. Eu não entendo."}, {"op": "replace", "path": "/description", "value": "Uma estranha pintura de uma carroça puxada."}, {"op": "replace", "path": "/shortdescription", "value": "Frontier Wagon Painting"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não entende pintura."}, {"op": "replace", "path": "/glitchDescription", "value": "Confuso. Eu não sou completamente certo porque esta pintura é verde."}, {"op": "replace", "path": "/humanDescription", "value": "Esta parece ser uma pintura de uma carroça, exceto que é verde. Eu não entendo."}, {"op": "replace", "path": "/avianDescription", "value": "Eu não estou muito certo o que esta pintura pretende representar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Não consigo discernir o significado dessa curiosa pintura."}, {"op": "replace", "path": "/novakidDescription", "value": "Este é um quadro muito estranho, eu admito."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estranha pintura de uma carroça puxada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Eu não sou completamente certo porque esta pintura é verde.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não entende pintura.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Frontier Wagon Painting",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não consigo discernir o significado dessa curiosa pintura.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não estou muito certo o que esta pintura pretende representar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta parece ser uma pintura de uma carroça, exceto que é verde. Eu não entendo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este é um quadro muito estranho, eu admito.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta pintura parece ser uma carroça verde puxada por um animal. Eu não entendo.",
+    "path": "/apexDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Eu... eu sento nisso ou...?"}, {"op": "replace", "path": "/humanDescription", "value": "Um mictório."}, {"op": "replace", "path": "/shortdescription", "value": "Bathroom Urinal"}, {"op": "replace", "path": "/avianDescription", "value": "Eu não sei o que é isso."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um mictório básico."}, {"op": "replace", "path": "/description", "value": "Um mictório de banheiro. Útil para alguns."}, {"op": "replace", "path": "/glitchDescription", "value": "Impassível. Um mictório."}, {"op": "replace", "path": "/novakidDescription", "value": "Um mictório sujo."}, {"op": "replace", "path": "/floranDescription", "value": "Floran não tem certeza sobre assento malcheiroso."}]
+[
+  {
+    "op": "replace",
+    "value": "Um mictório básico.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um mictório de banheiro. Útil para alguns.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um mictório sujo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um mictório.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bathroom Urinal",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu... eu sento nisso ou...?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não tem certeza sobre assento malcheiroso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não sei o que é isso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impassível. Um mictório.",
+    "path": "/glitchDescription"
+  }
+]

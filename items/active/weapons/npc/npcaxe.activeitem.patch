@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Projetado para cortar eficaz."}, {"op": "replace", "path": "/shortdescription", "value": "NPC Axe"}]
+[
+  {
+    "op": "replace",
+    "value": "Projetado para cortar eficazmente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "NPC Axe",
+    "path": "/shortdescription"
+  }
+]

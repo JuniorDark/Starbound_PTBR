@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "O rack esta preenchido com lanças Avian antigas."}, {"op": "replace", "path": "/shortdescription", "value": "Avian Spear Rack"}, {"op": "replace", "path": "/floranDescription", "value": "Homem-pássaro coleciona Galhoss afiadosss."}, {"op": "replace", "path": "/glitchDescription", "value": "Desapontado. Há três lanças aqui."}, {"op": "replace", "path": "/humanDescription", "value": "Um conjunto de lanças Avian."}, {"op": "replace", "path": "/avianDescription", "value": "A lança é a arma preferida de um guardião Avian."}, {"op": "replace", "path": "/hylotlDescription", "value": "Lanças são úteis para o combate abaixo das ondas."}, {"op": "replace", "path": "/apexDescription", "value": "Lanças afiadas. Eles parecem ter uma coleção."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu prefiro uma arma, mas essas pessoas provavelmente não tiveram muita escolha."}]
+[
+  {
+    "op": "replace",
+    "value": "Um conjunto de lanças Avian.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avian Spear Rack",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Homem-pássaro coleciona Galhoss afiadosss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desapontado. Há três lanças aqui.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu prefiro uma arma, mas essas pessoas provavelmente não tiveram muita escolha.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lanças afiadas. Eles parecem ter uma coleção.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lanças são úteis para o combate abaixo das ondas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O rack esta preenchido com lanças Avian antigas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A lança é a arma preferida de um guardião Avian.",
+    "path": "/avianDescription"
+  }
+]

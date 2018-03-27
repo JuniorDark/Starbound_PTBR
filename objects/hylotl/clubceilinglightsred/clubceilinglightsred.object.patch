@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Luz vermelha e brilhante."}, {"op": "replace", "path": "/glitchDescription", "value": "Desinteressado. É uma luz vermelha."}, {"op": "replace", "path": "/avianDescription", "value": "Gostaria de saber que tipo de cristal poderia dar uma luz azul?"}, {"op": "replace", "path": "/apexDescription", "value": "Só preciso de uma máquina de fumaça para realmente dar a este lugar uma vibração de boate."}, {"op": "replace", "path": "/humanDescription", "value": "Luzes de ambiente para definir o humor. Qual humor? Não tenho certeza."}, {"op": "replace", "path": "/hylotlDescription", "value": "Luzes de ambiente de clube vermelha."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta luz vermelha com certeza ilumina a sala."}, {"op": "replace", "path": "/description", "value": "Luzes coloridas encontradas em clubes."}, {"op": "replace", "path": "/shortdescription", "value": "Red Club Lights"}]
+[
+  {
+    "op": "replace",
+    "value": "Luzes de ambiente de clube vermelha.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gostaria de saber que tipo de cristal poderia dar uma luz azul?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Red Club Lights",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luz vermelha e brilhante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz vermelha com certeza ilumina a sala.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desinteressado. É uma luz vermelha.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luzes ambiente para definir o humor. Qual humor? Não tenho certeza.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Só precisa de uma máquina de fumaça para realmente dar a este lugar uma vibração de boate.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luzes coloridas encontradas em clubes.",
+    "path": "/description"
+  }
+]

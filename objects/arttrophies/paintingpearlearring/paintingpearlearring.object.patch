@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Interrogativo. A humana está virada para olhar o que?"}, {"op": "replace", "path": "/apexDescription", "value": "Muitas emoções sutis são capturadas nesta peça."}, {"op": "replace", "path": "/humanDescription", "value": "Uma pintura antiga da minha espécie. Fico feliz que ainda esteja por perto."}, {"op": "replace", "path": "/avianDescription", "value": "Esta mulher está se virando para olhar para algo, talvez."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma obra-prima da emoção capturada."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma pintura de uma dama bonita com um cachecol elegante."}, {"op": "replace", "path": "/description", "value": "Um retrato de uma mulher com um brinco."}, {"op": "replace", "path": "/shortdescription", "value": "Subtle Painting"}, {"op": "replace", "path": "/floranDescription", "value": "Humana sssurpresa prestes a ser emboscada!"}]
+[
+  {
+    "op": "replace",
+    "value": "Muitas emoções sutis são capturadas nesta peça.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pintura de uma dama bonita com um cachecol elegante.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um retrato de uma mulher com um brinco.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pintura antiga da minha espécie. Fico feliz que ainda esteja por perto.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interrogativo. A humana está virada para olhar o que?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Humana sssurpresa prestes a ser emboscada!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Subtle Painting",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mulher está se virando para olhar para algo, talvez.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma obra-prima da emoção capturada.",
+    "path": "/hylotlDescription"
+  }
+]

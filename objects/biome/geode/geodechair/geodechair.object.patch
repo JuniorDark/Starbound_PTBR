@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um grande geodo oco esculpido em uma cadeira."}, {"op": "replace", "path": "/humanDescription", "value": "Este geodo oco é grande o suficiente para sentar-se dentro."}, {"op": "replace", "path": "/shortdescription", "value": "Geode Chair"}, {"op": "replace", "path": "/avianDescription", "value": "Esta cadeira não parece confortável, mas faz o trabalho."}, {"op": "replace", "path": "/hylotlDescription", "value": "O que lhe falta no conforto compensa na beleza."}, {"op": "replace", "path": "/floranDescription", "value": "Rocha gigante faz assento pobre."}, {"op": "replace", "path": "/novakidDescription", "value": "Quase a rocha de sentar mais incrível que eu já vi."}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. Sentar nesta cadeira por muito tempo seria certo para causar desconforto."}, {"op": "replace", "path": "/apexDescription", "value": "Este geode tem a forma certa para um assento."}]
+[
+  {
+    "op": "replace",
+    "value": "Um grande geodo oco esculpido em uma cadeira.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Sentar nesta cadeira por muito tempo seria certo para causar desconforto.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Geode Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rocha gigante faz assento pobre.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quase a rocha de sentar mais incrível que eu já vi.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cadeira não parece confortável, mas faz o trabalho.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este geode tem a forma certa para um assento.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este geodo oco é grande o suficiente para sentar-se dentro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que lhe falta no conforto compensa na beleza.",
+    "path": "/hylotlDescription"
+  }
+]

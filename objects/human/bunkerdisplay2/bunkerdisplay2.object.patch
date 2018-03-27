@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Sarcástico. Um gráfico de pizza fascinante que detalha despesas estacionárias."}, {"op": "replace", "path": "/description", "value": "Uma tela com um gráfico de pizza representando estatísticas orçamentais."}, {"op": "replace", "path": "/shortdescription", "value": "Statistical Display"}, {"op": "replace", "path": "/floranDescription", "value": "Dados estranhosss e desinteressantess."}, {"op": "replace", "path": "/apexDescription", "value": "Um gráfico de pizza. Não parece muito saboroso."}, {"op": "replace", "path": "/humanDescription", "value": "Ooh, um info-gráfico. Infelizmente não um daqueles engraçados da Internet."}, {"op": "replace", "path": "/avianDescription", "value": "Este tipo de gráfico parece uma torta, com um pedaço faltando."}, {"op": "replace", "path": "/hylotlDescription", "value": "Faz sentido para humanos manter um olho cuidadoso em suas despesas."}, {"op": "replace", "path": "/novakidDescription", "value": "Não estou certo o que este grande círculo é suposto ilustrar. Mas falta um pedaço."}]
+[
+  {
+    "op": "replace",
+    "value": "Um gráfico de pizza. Não parece muito saboroso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tela com um gráfico de pizza representando estatísticas orçamentais.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Não estou certo o que este grande círculo é suposto ilustrar. Mas falta um pedaço.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Faz sentido para humanos manter um olho cuidadoso em suas despesas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ooh, um info-gráfico. Infelizmente não um daqueles engraçados da Internet.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sarcástico. Um gráfico de pizza fascinante que detalha despesas estacionárias.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dados estranhosss e desinteressantess.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Statistical Display",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este tipo de gráfico parece uma torta, com um pedaço faltando.",
+    "path": "/avianDescription"
+  }
+]

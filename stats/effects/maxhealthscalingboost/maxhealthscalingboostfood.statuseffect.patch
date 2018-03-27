@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/label", "value": "Bonus de Vida"}]
+[
+  {
+    "op": "replace",
+    "value": "Bonus de Vida",
+    "path": "/label"
+  }
+]

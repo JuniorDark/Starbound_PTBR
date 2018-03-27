@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Isso é simplesmente horrível."}, {"op": "replace", "path": "/description", "value": "Um arbusto carnudo. Mole."}, {"op": "replace", "path": "/shortdescription", "value": "Flesh Bush"}, {"op": "replace", "path": "/floranDescription", "value": "Floran sente que Floran deve esfaquear arbusto."}, {"op": "replace", "path": "/glitchDescription", "value": "Desconfortável. Este arbusto é bastante vil."}, {"op": "replace", "path": "/apexDescription", "value": "Um arbusto grotesco."}, {"op": "replace", "path": "/humanDescription", "value": "É um arbusto ou um tumor?"}, {"op": "replace", "path": "/avianDescription", "value": "Não é algo que eu quero no meu jardim."}, {"op": "replace", "path": "/hylotlDescription", "value": "Às vezes a natureza repulsa mesmo a mim mesmo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um arbusto carnudo. Mole.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um arbusto grotesco.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Flesh Bush",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran sente que Floran deve esfaquear arbusto.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um arbusto ou um tumor?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não é algo que eu quero no meu jardim.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Às vezes a natureza repulsa mesmo a mim mesmo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é simplesmente horrível.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desconfortável. Este arbusto é bastante vil.",
+    "path": "/glitchDescription"
+  }
+]

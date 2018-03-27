@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Algumas calças espaciais a moda antiga!"}, {"op": "replace", "path": "/shortdescription", "value": "Spacesuit Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Algumas calças espaciais a moda antiga!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Spacesuit Trousers",
+    "path": "/shortdescription"
+  }
+]

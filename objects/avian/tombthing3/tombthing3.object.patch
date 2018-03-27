@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Um lugar deprimente para passar a eternidade. Parece que o ocupante do túmulo sentiu o mesmo."}, {"op": "replace", "path": "/description", "value": "Um túmulo de pedra aberto. Cheira mal."}, {"op": "replace", "path": "/shortdescription", "value": "Open Stone Tomb"}, {"op": "replace", "path": "/floranDescription", "value": "Floran acredita que os mortosss devem voltar ao ssolo. Talvez o morto concordasse."}, {"op": "replace", "path": "/apexDescription", "value": "Um túmulo sem decoração. Ou um corpo."}, {"op": "replace", "path": "/avianDescription", "value": "Um túmulo para aqueles que não podiam pagar um sarcófago. Este foi aberto."}, {"op": "replace", "path": "/hylotlDescription", "value": "Talvez o corpo tenha recebido um lugar de descanso mais honorável."}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Os Glitch colhem os mortos para peças sobressalentes. O mesmo pode ter acontecido aqui."}, {"op": "replace", "path": "/novakidDescription", "value": "Está vazio. Para onde foi o corpo?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um lugar deprimente para passar a eternidade. Parece que o ocupante do túmulo sentiu o mesmo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um túmulo para aqueles que não podiam pagar um sarcófago. Este foi aberto.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um túmulo sem decoração. Ou um corpo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um túmulo de pedra aberto. Cheira mal.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran acredita que os mortosss devem voltar ao ssolo. Talvez o morto concordasse.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Os Glitch colhem os mortos para peças sobressalentes. O mesmo pode ter acontecido aqui.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Está vazio. Para onde foi o corpo?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Open Stone Tomb",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez o corpo tenha recebido um lugar de descanso mais honorável.",
+    "path": "/hylotlDescription"
+  }
+]

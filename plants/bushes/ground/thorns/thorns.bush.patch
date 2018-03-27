@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Um arbusto com espinho."}, {"op": "replace", "path": "/shortdescription", "value": "Um arbusto com espinho."}, {"op": "replace", "path": "/floranDescription", "value": "Um arbusto espinhudo."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Um arbusto com espinho."}]
+[
+  {
+    "op": "replace",
+    "value": "Um arbusto com espinho.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um arbusto com espinho.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um arbusto espinhudo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Um arbusto com espinho.",
+    "path": "/glitchDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Essa lança de aparência afiada parece ter pertencido a um velho caçador."}, {"op": "replace", "path": "/glitchDescription", "value": "Inspirado. Esta lança pertencia a um poderoso guerreiro Floran que ganhou algum tipo de grande caça."}, {"op": "replace", "path": "/description", "value": "Uma exibição comemorando a lança de um Floran que ganhou uma cerimônia de caça."}, {"op": "replace", "path": "/shortdescription", "value": "Champion's Spear Display"}, {"op": "replace", "path": "/floranDescription", "value": "Lança deve ter pertencido a forte caçador Floran."}, {"op": "replace", "path": "/apexDescription", "value": "Esta parece ser uma lança usada por um caçador Floran campeão de tempos atrás."}, {"op": "replace", "path": "/humanDescription", "value": "De acordo com a inscrição na base desta lança, esta lança uma vez pertenceu a um caçador Floran vitorioso."}, {"op": "replace", "path": "/avianDescription", "value": "Os Florans parecem honrar caçadores vitoriosos com exposições como esta."}, {"op": "replace", "path": "/hylotlDescription", "value": "Se as inscrições estiverem corretas, esta lança uma vez pertenceu a um caçador Floran vitorioso."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma exibição comemorando a lança de um Floran que ganhou uma cerimônia de caça.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "De acordo com a inscrição na base desta lança, esta lança uma vez pertenceu a um caçador Floran vitorioso.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Champion's Spear Display",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se as inscrições estiverem corretas, esta lança uma vez pertenceu a um caçador Floran vitorioso.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inspirado. Esta lança pertencia a um poderoso guerreiro Floran que ganhou algum tipo de grande caça.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lança deve ter pertencido a forte caçador Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Florans parecem honrar caçadores vitoriosos com exposições como esta.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta parece ser uma lança usada por um caçador Floran campeão de tempos atrás.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa lança de aparência afiada parece ter pertencido a um velho caçador.",
+    "path": "/novakidDescription"
+  }
+]

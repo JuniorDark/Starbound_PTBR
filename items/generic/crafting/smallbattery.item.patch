@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Esta bateria pode ser usada para alimentar dispositivos eletrônicos pequenos!"}, {"op": "replace", "path": "/shortdescription", "value": "AA Battery"}]
+[
+  {
+    "op": "replace",
+    "value": "AA Battery",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta bateria pode ser usada para alimentar dispositivos eletrônicos pequenos!",
+    "path": "/description"
+  }
+]

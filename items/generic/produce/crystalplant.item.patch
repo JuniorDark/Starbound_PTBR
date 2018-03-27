@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma planta formada de cristal. Mágico!"}, {"op": "replace", "path": "/shortdescription", "value": "Crystal Plant"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma planta formada de cristal. Mágico!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Crystal Plant",
+    "path": "/shortdescription"
+  }
+]

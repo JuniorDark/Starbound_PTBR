@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Pobre manequim, vou chamá-lo de Freddie!"}, {"op": "replace", "path": "/shortdescription", "value": "Target Dummy"}, {"op": "replace", "path": "/apexDescription", "value": "Um manequim cheio de palha. Usado para treinamento de combate."}, {"op": "replace", "path": "/avianDescription", "value": "Um homem de palha. Ele não me assusta."}, {"op": "replace", "path": "/humanDescription", "value": "Parece uma espécie de manequim de treino. Esgrima, talvez."}, {"op": "replace", "path": "/floranDescription", "value": "Homem de metal faz homem de palha."}, {"op": "replace", "path": "/glitchDescription", "value": "Lembrança. Um boneco de treino. Os cavaleiros praticam esgrima nestes."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um homem cheio de palha. Talvez alguém pratique combate com estes."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu poderia atirar nisso, mas acho que é projetado para flechas."}]
+[
+  {
+    "op": "replace",
+    "value": "Um manequim cheio de palha. Usado para treinamento de combate.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um homem cheio de palha. Talvez alguém pratique combate com estes.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um homem de palha. Ele não me assusta.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu poderia atirar nisso, mas acho que é projetado para flechas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece uma espécie de manequim de treino. Esgrima, talvez.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Homem de metal faz homem de palha.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pobre manequim, vou chamá-lo de Freddie!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Lembrança. Um boneco de treino. Os cavaleiros praticam esgrima nestes.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Target Dummy",
+    "path": "/shortdescription"
+  }
+]

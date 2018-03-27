@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma camiseta de algodão simples. Vestuário apropriado para todas as ocasiões e cenários."}, {"op": "replace", "path": "/shortdescription", "value": "Plain T-Shirt"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma camiseta de algodão simples. Vestuário apropriado para todas as ocasiões e cenários.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Plain T-Shirt",
+    "path": "/shortdescription"
+  }
+]

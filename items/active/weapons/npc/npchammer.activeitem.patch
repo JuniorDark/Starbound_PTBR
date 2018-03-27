@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Lento, pesado e eficaz."}, {"op": "replace", "path": "/shortdescription", "value": "NPC Hammer"}]
+[
+  {
+    "op": "replace",
+    "value": "Lento, pesado e eficaz.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "NPC Hammer",
+    "path": "/shortdescription"
+  }
+]

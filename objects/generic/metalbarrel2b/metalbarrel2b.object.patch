@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Temeroso. O rótulo deste barril sugere que contém material radioativo."}, {"op": "replace", "path": "/description", "value": "Um barril cheio de material radioativo."}, {"op": "replace", "path": "/shortdescription", "value": "Radioactive Barrel"}, {"op": "replace", "path": "/apexDescription", "value": "Um barril de metal. A julgar pelo símbolo é melhor não abri-lo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Recipiente de metal. Ele está fechado. Eu me pergunto o que está dentro."}, {"op": "replace", "path": "/avianDescription", "value": "Recipiente de metal. Não consigo entrar nisso. O que significa o símbolo?"}, {"op": "replace", "path": "/floranDescription", "value": "Cubo redondo do metal. Sem porta. Este metal tem um gosto estranho."}, {"op": "replace", "path": "/humanDescription", "value": "Um tambor de metal selado com conteúdo questionável."}, {"op": "replace", "path": "/novakidDescription", "value": "Um barril de metal selado. Eu não quero abri-lo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um barril cheio de material radioativo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um barril de metal. A julgar pelo símbolo é melhor não abri-lo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um barril de metal selado. Eu não quero abri-lo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um tambor de metal selado com conteúdo questionável.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Temeroso. O rótulo deste barril sugere que contém material radioativo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Recipiente de metal. Não consigo entrar nisso. O que significa o símbolo?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Recipiente de metal. Ele está fechado. Eu me pergunto o que está dentro.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Radioactive Barrel",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cubo redondo do metal. Sem porta. Este metal tem um gosto estranho.",
+    "path": "/floranDescription"
+  }
+]

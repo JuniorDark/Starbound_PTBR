@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Escultura Grega antiga de mármore, Venus De Pixel. Escultor Desconhecido."}, {"op": "replace", "path": "/shortdescription", "value": "Venus de Pixel"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de homem de carne de pedra. Homem de pedra?"}, {"op": "replace", "path": "/glitchDescription", "value": "Surpreso. Isso parece ser esculpido de um único pedaço de mármore."}, {"op": "replace", "path": "/apexDescription", "value": "Uma estátua humana incomum."}, {"op": "replace", "path": "/humanDescription", "value": "Ah, uma explosão do passado."}, {"op": "replace", "path": "/avianDescription", "value": "Um humano de pedra. Seus braços estão faltando."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma escultura de pedra bruta. Parece ser humanóide."}, {"op": "replace", "path": "/novakidDescription", "value": "Onde seus braços foram parar?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma escultura de pedra bruta. Parece ser humanóide.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um humano de pedra. Seus braços estão faltando.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ah, uma explosão do passado.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Isso parece ser esculpido de um único pedaço de mármore.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estátua humana incomum.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Escultura Grega antiga de mármore, Venus De Pixel. Escultor Desconhecido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de homem de carne de pedra. Homem de pedra?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Venus de Pixel",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Onde seus braços foram parar?",
+    "path": "/novakidDescription"
+  }
+]

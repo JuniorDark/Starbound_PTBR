@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Observador. Esta lápide está começando a desmoronar."}, {"op": "replace", "path": "/description", "value": "Estes símbolos significam um túmulo comum."}, {"op": "replace", "path": "/shortdescription", "value": "Mass Tombstone"}, {"op": "replace", "path": "/floranDescription", "value": "Floran marca morto com broto de flor."}, {"op": "replace", "path": "/apexDescription", "value": "Uma lápide desbotada. Muito antiga."}, {"op": "replace", "path": "/humanDescription", "value": "Uma lápide muito antiga. As palavras estão largamente desbotadas."}, {"op": "replace", "path": "/avianDescription", "value": "Uma lápide padrão. Estas são antigas e numerosas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os mortos merecem mais honra do que isso."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta antiga lápide marca o túmulo de alguém."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lápide desbotada. Muito antiga.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lápide padrão. Estas são antigas e numerosas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lápide muito antiga. As palavras estão largamente desbotadas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran marca morto com broto de flor.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Esta lápide está começando a desmoronar.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os mortos merecem mais honra do que isso.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta antiga lápide marca o túmulo de alguém.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mass Tombstone",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes símbolos significam um túmulo comum.",
+    "path": "/description"
+  }
+]

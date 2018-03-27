@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Analítico. A medicina Glitch ainda é muito primitiva. Grande parte desse diagrama de anatomia esta errado."}, {"op": "replace", "path": "/avianDescription", "value": "É assim que os Glitch são montados?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Os Glitch parecem estar investigando sua anatomia. Talvez a medicina Glitch se beneficie."}, {"op": "replace", "path": "/humanDescription", "value": "Parece um diagrama de anatomia."}, {"op": "replace", "path": "/novakidDescription", "value": "Olhe todos esses braços e pernas. Parece que isso tornaria o movimento complicado."}, {"op": "replace", "path": "/description", "value": "Um esboço bastante detalhado da anatomia Glitch."}, {"op": "replace", "path": "/shortdescription", "value": "Glitchian Man"}, {"op": "replace", "path": "/floranDescription", "value": "Manual de insstruções Glitch. Parece difícil."}, {"op": "replace", "path": "/apexDescription", "value": "Parece ser anatomia Glitch."}]
+[
+  {
+    "op": "replace",
+    "value": "Um esboço bastante detalhado da anatomia Glitch.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Analítico. A medicina Glitch ainda é muito primitiva. Grande parte desse diagrama de anatomia esta errado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Manual de insstruções Glitch. Parece difícil.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Glitchian Man",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "É assim que os Glitch são montados?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece ser anatomia Glitch.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece um diagrama de anatomia.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Olhe todos esses braços e pernas. Parece que isso tornaria o movimento complicado.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Glitch parecem estar investigando sua anatomia. Talvez a medicina Glitch se beneficie.",
+    "path": "/hylotlDescription"
+  }
+]

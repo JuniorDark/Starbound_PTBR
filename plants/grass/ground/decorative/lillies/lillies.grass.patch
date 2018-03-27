@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Lírios bonitos."}, {"op": "replace", "path": "/shortdescription", "value": "Lírios."}, {"op": "replace", "path": "/floranDescription", "value": "Lírios bonitos."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Um lírio atraente."}]
+[
+  {
+    "op": "replace",
+    "value": "Lírios.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lírios bonitos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Lírios bonitos.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Um lírio atraente.",
+    "path": "/glitchDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Templar's Helm"}, {"op": "replace", "path": "/description", "value": "Seus inimigos se acovardarão sob o brilho deste elmo de seis olhos."}]
+[
+  {
+    "op": "replace",
+    "value": "Templar's Helm",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Seus inimigos se acovardarão sob o brilho deste elmo de seis olhos.",
+    "path": "/description"
+  }
+]

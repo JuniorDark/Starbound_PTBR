@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Alguns ossos velhos - ossos de pedra! O que eles chamam isso? Ah, fósseis!"}, {"op": "replace", "path": "/description", "value": "Algum tipo de fóssil, todo coberto de lama e rocha. Vai precisar de uma limpeza cuidadosa para obtê-lo inteiro."}, {"op": "replace", "path": "/shortdescription", "value": "Fossil"}, {"op": "replace", "path": "/floranDescription", "value": "Um fósssil preso na terra. Eu me pergunto o que cossstumava ser."}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Eu gostaria de ver este fóssil inteiro."}, {"op": "replace", "path": "/apexDescription", "value": "Um fóssil embutido na terra. Vai levar um trabalho cuidadoso para obtê-lo intacto."}, {"op": "replace", "path": "/humanDescription", "value": "Um Fóssil! Me pergunto se eu poderia tirá-lo da terra?"}, {"op": "replace", "path": "/avianDescription", "value": "Este fóssil parece interessante, eu me pergunto se eu poderia desenterrá-lo sem danificá-lo?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma criatura fossilizada, antiga e delicada, sepultada na rocha."}]
+[
+  {
+    "op": "replace",
+    "value": "Um Fóssil! Me pergunto se eu poderia tirá-lo da terra?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um fóssil embutido na terra. Vai levar um trabalho cuidadoso para obtê-lo intacto.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma criatura fossilizada, antiga e delicada, sepultada na rocha.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um fósssil preso na terra. Eu me pergunto o que cossstumava ser.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Eu gostaria de ver este fóssil inteiro.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de fóssil, todo coberto de lama e rocha. Vai precisar de uma limpeza cuidadosa para obtê-lo inteiro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns ossos velhos - ossos de pedra! O que eles chamam isso? Ah, fósseis!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este fóssil parece interessante, eu me pergunto se eu poderia desenterrá-lo sem danificá-lo?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fossil",
+    "path": "/shortdescription"
+  }
+]

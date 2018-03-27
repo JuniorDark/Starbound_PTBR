@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Nada realmente está perdido para nós enquanto nós lembramos disto."}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Flower"}]
+[
+  {
+    "op": "replace",
+    "value": "Protectorate Flower",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nada realmente está perdido para nós enquanto nós lembramos disto.",
+    "path": "/description"
+  }
+]

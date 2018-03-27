@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Uma arma clássica, um aprendiz treina por anos antes mesmo de forjar uma."}, {"op": "replace", "path": "/apexDescription", "value": "Uma impressionante exibição de armamento tradicional."}, {"op": "replace", "path": "/description", "value": "Um rack de espadas tradicionais."}, {"op": "replace", "path": "/shortdescription", "value": "Traditional Sword Rack"}, {"op": "replace", "path": "/floranDescription", "value": "Espadass afiadas brilhantes."}, {"op": "replace", "path": "/glitchDescription", "value": "Fascinado. Muitos anos de habilidade foram necessários para formar estas lâminas."}, {"op": "replace", "path": "/humanDescription", "value": "Um rack inteiro de espadas... Eu quero balançar uma dessas."}, {"op": "replace", "path": "/avianDescription", "value": "Uma rack inteiro cheio de espadas afiadas."}, {"op": "replace", "path": "/novakidDescription", "value": "Um rack de espadas, estas certamente são... Clássica."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma arma clássica, um aprendiz treina por anos antes mesmo de forjar uma.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um rack de espadas, estas certamente são... Clássica.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um rack de espadas tradicionais.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um rack inteiro de espadas... Eu quero balançar uma dessas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma rack inteiro cheio de espadas afiadas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma impressionante exibição de armamento tradicional.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fascinado. Muitos anos de habilidade foram necessários para formar estas lâminas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espadass afiadas brilhantes.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Traditional Sword Rack",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Engane-me uma vez, que vergonha. Engane-me duas vezes, este chapéu é para você."}, {"op": "replace", "path": "/shortdescription", "value": "Jester's Hat"}]
+[
+  {
+    "op": "replace",
+    "value": "Engane-me uma vez, que vergonha. Engane-me duas vezes, este chapéu é para você.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Jester's Hat",
+    "path": "/shortdescription"
+  }
+]

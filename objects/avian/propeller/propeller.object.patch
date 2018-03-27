@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Máquina giratória faz navios voar."}, {"op": "replace", "path": "/description", "value": "Uma hélice lindamente trabalhada."}, {"op": "replace", "path": "/shortdescription", "value": "Propeller"}, {"op": "replace", "path": "/apexDescription", "value": "Uma hélice enorme."}, {"op": "replace", "path": "/humanDescription", "value": "A hélice é muito alta."}, {"op": "replace", "path": "/hylotlDescription", "value": "Alta e desagradável, mas apta para propósito."}, {"op": "replace", "path": "/novakidDescription", "value": "É uma hélice maciça. Acho que é para manter os dirigíveis funcionando."}, {"op": "replace", "path": "/glitchDescription", "value": "Atento. Essas hélices devem girar muito rapidamente para manter um navio inteiro no ar."}, {"op": "replace", "path": "/avianDescription", "value": "Elas podem não ser asas, mas hélices como estas mantêm os dirigíveis Avian no alto."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma hélice lindamente trabalhada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma hélice enorme.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alta e desagradável, mas apta para propósito.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Essas hélices devem girar muito rapidamente para manter um navio inteiro no ar.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Propeller",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Máquina giratória faz navios voar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma hélice maciça. Acho que é para manter os dirigíveis funcionando.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A hélice é muito alta.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Elas podem não ser asas, mas hélices como estas mantêm os dirigíveis Avian no alto.",
+    "path": "/avianDescription"
+  }
+]

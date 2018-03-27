@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Ugly Temple Jar"}, {"op": "replace", "path": "/floranDescription", "value": "Jarro feio. Floran vai esssmagar!"}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Quebrar este jarro pode revelar o que está dentro."}, {"op": "replace", "path": "/apexDescription", "value": "Um jarro pouco atraente. Pouco cuidado levou a isso."}, {"op": "replace", "path": "/humanDescription", "value": "Vamos quebrar isso. É muito pouco atraente."}, {"op": "replace", "path": "/avianDescription", "value": "Este jarro poderia ter sido produzido por iniciados. É muito feio."}, {"op": "replace", "path": "/hylotlDescription", "value": "Não há valor aqui. Vamos abri-lo."}, {"op": "replace", "path": "/description", "value": "Que jarro feio."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu poderia usar este jarro para praticar tiro ao alvo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um jarro pouco atraente. Pouco cuidado levou a isso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu poderia usar este jarro para praticar tiro ao alvo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Quebrar este jarro pode revelar o que está dentro.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos quebrar isso. É muito pouco atraente.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não há valor aqui. Vamos abri-lo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este jarro poderia ter sido produzido por iniciados. É muito feio.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ugly Temple Jar",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Jarro feio. Floran vai esssmagar!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que jarro feio.",
+    "path": "/description"
+  }
+]

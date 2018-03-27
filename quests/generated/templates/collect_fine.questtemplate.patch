@@ -1,1 +1,357 @@
-[{"op":"replace","path":"/scriptConfig/objectives/0/text","value":"Pegue <item> de <target>"},{"op":"replace","path":"/scriptConfig/objectives/1/text","value":"Volte para <questGiver>"},{"op":"replace","path":"/scriptConfig/generatedText/text/first/default/0","value":"Eu tenho muitas evidências aqui para provar que ^orange;<target>^white; não tem sido bom. ^green;Entregue este ^orange;aviso de multa^green; para <target.pronoun.object>.^white; <target.pronoun.capitalSubject> já concordou em desistir do ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento."},{"op":"replace","path":"/scriptConfig/generatedText/text/first/default/1","value":"A primeira coisa na nossa agenda envolve ^orange;<target>^white;. Certas provas veio à tona que <target.pronoun.subject> é um indivíduo muito sombrio. ^green;Entregue este ^orange;aviso de multa^green; e colete o ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento."},{"op":"replace","path":"/scriptConfig/generatedText/text/next/floran/0","value":"Floran tem outra tarefa para você. ^orange;<target> ^white;fez algo vergonhoso e Floran quer justiça! ^green;Vá e dê esta ^orange;aviso de crime^green; para <target.pronoun.object> e pegue um ^orange;<item>^green; como pagamento."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/next/floran/1","value":"Obrigado! Esperançosamente <target> vai ficar bom a partir de agora. Este <item> pode também ser útil para Floran..."},{"op":"replace","path":"/scriptConfig/generatedText/goalText/default/1","value":"^cyan;<target> tem causado incomodo por aqui ultimamente - É hora de por <target.pronoun.object> na linha."},{"op":"replace","path":"/scriptConfig/generatedText/title/0","value":"Colete a indenização de <target>"},{"op":"replace","path":"/scriptConfig/generatedText/title/1","value":"Puna <target> "},{"op":"replace","path":"/scriptConfig/generatedText/text/default/glitch/1","value":"Determinado. ^orange;<target>^white; tem andado a fazer algum negócio antiético, e eu gostaria de ensinar a <target.pronoun.object> uma lição. ^green;Entregue este ^orange;aviso de crime^white; para <target.pronoun.object>,^white; e ^green;pegue o ^orange;<item>^white; \r\n <target.pronoun.possessiveDet> como indenização pelo comportamento <target.pronoun.possessiveDet>. Esperançosamente <target.pronoun.subject> vai aprender!"},{"op":"replace","path":"/scriptConfig/generatedText/text/default/default/1","value":"^green;Entregue este ^orange;aviso de crime^green; para ^orange;<target>^white;. <target.pronoun.capitalSubject> concordou em dar o ^orange;<item>^white; \r\n <target.pronoun.possessiveDet> como indenização pelo comportamento <target.pronoun.possessiveDet>."},{"op":"replace","path":"/scriptConfig/generatedText/text/default/default/0","value":"^green;Eu preciso que você leve este ^orange;aviso de multa^white; para ^orange;<target>^white;. <target.pronoun.capitalSubject> já concordou em desistir do ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento pelos danos."},{"op":"replace","path":"/scriptConfig/generatedText/goalText/glitch/0","value":"^cyan;Vago. Pelo visto <target> tem quebrado as regras... Acho que devemos infligir um pouco de justiça."},{"op":"replace","path":"/scriptConfig/generatedText/goalText/floran/0","value":"^cyan;Ajude Floran fazer jussstiça para <target>!"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/0","value":"crime"},{"op":"replace","path":"/scriptConfig/generatedText/goalText/glitch/1","value":"^cyan;Obsessivo. Você vai me ajudar trazer justiça para <target>? Eu tenho um plano..."},{"op":"replace","path":"/scriptConfig/generatedText/goalText/default/0","value":"^cyan;Parece que você pode lidar com você mesmo. Você vai me ajudar trazer justiça para <target>?"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/1/7","value":"estragar a diversão"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/first/default/1","value":" <target> sem dúvida aprendeu <target.pronoun.possessiveDet> uma lição... Esse <item> sera útil também!"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/1/3","value":"comportamento malicioso"},{"op":"replace","path":"/scriptConfig/generatedText/goalText/floran/1","value":"^cyan;Faça <target> pagar por quebrar as regrasss!"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/1/4","value":"perturbar a paz"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/1/6","value":"perturbar os outros"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/1/1","value":"intrusão"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/first/floran/0","value":"Você é tão bom nisso! Você vai fazer mais alguma coisa para Floran?"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/first/floran/1","value":"Floran trouxe jussstiça, e temos um <item> disso. Floran pode encontrar uso para isso..."},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/1/2","value":"pequenos roubos"},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/1/5","value":"comportamento hostil"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/last/floran/1","value":"Obrigado pela ajuda! Você pode ficar com esse <item>, Floran não precisa dele."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/last/floran/0","value":"Justiça! Talvez você deveria estar fazendo este trabalho em vez de Floran..."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/first/glitch/1","value":"Satisfeito. <target> sem dúvida aprendeu <target.pronoun.possessiveDet> uma lição... E esse <item> sera útil também!"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/first/default/0","value":"Muito bem cobrando a multa de <target>! Este <item> vai fazer muito bem. Você acha que você poderia fazer mais alguma coisa para mim?"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/default/glitch/0","value":"Extático.Você cobrou a multa de <target>! Isso é mais uma coisa que posso riscar da minha lista de coisas a fazer!"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/default/floran/0","value":"Isso foi uma grande defesa do direito! Você deveria fazer isso mais vezes."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/default/floran/1","value":"Esperançosamente <target> aprendeu uma lição - nunca seja pego fazendo coisas ruinss... Você pode ficar com esse <item> se você gostar."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/next/floran/0","value":"Jussstiça foi feita! Você é bom nisso! Você vai fazer uma última coisssa para Floran?"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/default/default/0","value":"Você fez um bom trabalho! Fique com o <item> como pagamento por seus serviços. Eu só queria mostrar a <target> que ninguém está acima da lei."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/default/default/1","value":"Obrigado pela ajuda! <target> deve compreender que nós temos que seguir as regras por aqui. Você pode ficar com esse <item> se você gostar."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/next/glitch/1","value":"Satisfeito. Obrigado por ajudar a ensinar a <target> que há conseqüências para <target.pronoun.possessiveDet> ações. Este <item> virá a ser útil, também."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/next/default/1","value":"Obrigado por ajudar a ensinar a <target> que há conseqüências para <target.pronoun.possessiveDet> ações! Eu já posso ver alguns usos para este <item>."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/default/glitch/1","value":"Grato. Obrigado por ensinar a <target> que seguimos as regras por aqui, mesmo que essas regras são vagas e que não estão realmente escritas em qualquer lugar. Fique com esse <item> também, se quiser."},{"op":"replace","path":"/scriptConfig/generatedText/text/default/glitch/0","value":"Desleixado. Você não estaria ocupado, não é? ^orange;<target>^white; infringiu a lei e deve uma multa. Você poderia ^green;entregar este ^orange;aviso^green; para <target.pronoun.object>^white; e ^green;coletar o ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento? Gostaria de fazer eu mesmo, mas eu... Não quero."},{"op":"replace","path":"/scriptConfig/generatedText/text/next/default/1","value":"Próximo na nossa lista envolve ^orange;<target>, ^white;<target.pronoun.subject> está provado <target.pronoun.reflexive> em ser um belo violador da lei. ^green;Entregue este ^orange;aviso^green; por danos a <target.pronoun.object>,^white; <target.pronoun.subject> já concordou em dar o ^orange;<item> \r\n ^white;<target.pronoun.possessiveDet> como indenização."},{"op":"replace","path":"/scriptConfig/generatedText/text/default/floran/1","value":"Floran dessscobriu que ^orange;<target>^white; fez algumas coisas ruins! Aqui está um ^orange;aviso de crime. ^green;Leve isso para <target.pronoun.object> e pegue um ^orange;<item> ^green;como pagamento^white; por <target.pronoun.possessiveDet> ssafadeza."},{"op":"replace","path":"/scriptConfig/generatedText/text/first/floran/1","value":"Floran ouviu que ^orange;<target>^white; não está sendo muito bom. Floran quer que você resolva isso silenciosamente - ^green;leve esse ^orange;aviso de crime^green; para <target.pronoun.object> e colete um ^orange;<item> ^green;de <target.pronoun.object> ^white;como pagamento."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/last/default/1","value":"Obrigado por ensinar uma lição a <target>. Eu espero que <target.pronoun.subject> perceba que ninguém está acima da lei. Você pode ficar com o <item>. Você merece."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/last/default/0","value":"Bom trabalho cobrando a multa de <target>. Eu estava um pouco preocupado que <target.pronoun.subject> iria tentar esquivar-se dela. Você pode ficar com esse <item> como pagamento."},{"op":"replace","path":"/scriptConfig/generatedText/text/first/floran/0","value":"Floran tem muito a fazer, muito ocupado. Você vai ajudar Floran? ^orange;<target> ^white;cometeu um crime vergonhoso e a lei deve ser cumprida! ^green;Vá e dê este ^orange;aviso de crime^green; para <target.pronoun.object> e pegue um ^orange;<item>^green; como pagamento."},{"op":"replace","path":"/scriptConfig/generatedText/failureText/3","value":"Eu não consegui coletar a multa de <target>. Talvez <questGiver> deva perseguir <target.pronoun.object <questGiver.pronoun.reflexive>."},{"op":"replace","path":"/scriptConfig/generatedText/text/first/glitch/0","value":"Distraído. ^orange;<target>^white; cometeu um crime e deve uma multa. Você poderia ^green;entregar este ^orange;aviso^green; para <target.pronoun.object>^white; e ^green;pegar o ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento pelos danos? É uma tarefa trivial e eu estou muito ocupado para ela."},{"op":"replace","path":"/scriptConfig/generatedText/text/first/glitch/1","value":"Determinado. Primeiramente, lamento informá-lo que o nosso associado aparentemente inocente ^orange;<target>^white; recentemente cometeu um crime. ^green;Entregue este ^orange;aviso de crime^white; e pegue o ^orange;<item>^white;\r\n <target.pronoun.possessiveDet> como indenização."},{"op":"replace","path":"/scriptConfig/generatedText/failureText/1","value":"Eu não consegui obter uma indenização de <target> por <target.pronoun.possessiveDet> ações. Eu acho que o crime compensa, afinal das contas."},{"op":"replace","path":"/scriptConfig/generatedText/text/last/glitch/1","value":"Sério. É hora de fazer ^orange;<target>^white; pagar por <target.pronoun.possessiveDet> crimes. ^green;Entregue este ^orange;aviso de crime^green; para <target.pronoun.object>,^white; e pegue o ^orange;<item>^white; <target.pronoun.possessiveDet> como indenização. Esperançosamente <target.pronoun.subject> vai se comportar no futuro!"},{"op":"replace","path":"/scriptConfig/generatedText/text/last/default/1","value":"Finalmente, precisamos que ^orange;<target>^white; pague por <target.pronoun.possessiveDet> práticas obscuras. ^green;Entregue este ^orange;aviso^green; para <target.pronoun.object>,^white; é um recibo por danos criminais. ^green;Colete o ^orange;<item>^white; <target.pronoun.possessiveDet> como indenização."},{"op":"replace","path":"/scriptConfig/generatedText/text/last/floran/0","value":"Floran tem um último trabalho para você. ^orange;<target> ^white;cometeu um crime vergonhoso e justiça deve ser servida! ^green;Vá e dê este ^orange;aviso de crime^green; para <target.pronoun.object> e pegue um ^orange;<item>^green; como pagamento."},{"op":"replace","path":"/scriptConfig/generatedText/failureText/0","value":"Não consegui entregar o aviso de crime para <target> e coletar o <item> como garantia. Talvez eu não esteja pronto para ser um cobrador de dívidas."},{"op":"replace","path":"/scriptConfig/generatedText/text/next/default/0","value":"Agora, ^orange;<target>^white; deve uma multa por ser um criminoso. ^green;Você vai entregar este ^orange;aviso de multa?^white; <target.pronoun.capitalSubject> concordou em dar o ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento pelos danos."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/last/glitch/0","value":"Satisfeito. Bom trabalho cobrando a multa de <target>! Isso certamente me salvou de um monte de problemas."},{"op":"replace","path":"/scriptConfig/generatedText/text/default/floran/0","value":"<target> cometeu um crime desprezível e deve enfrentar a justiça! Floran acha que você é o melhor para esste trabalho! ^green;Vá e dê este ^orange;aviso de crime^green; para ^orange;<target>^green; e pegue o ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/last/glitch/1","value":"Aliviado. Obrigado por ensinar a <target> uma lição. Você pode ficar com esse <item>, você merece."},{"op":"replace","path":"/scriptConfig/generatedText/fluff/0/1/0","value":"ser um idiota"},{"op":"replace","path":"/scriptConfig/generatedText/completionText/next/glitch/0","value":"Satisfeito. Obrigado por cobrar a multa de <target>! Eu certamente não teria tempo para isso, mas parece que você tem bastante tempo em suas mãos."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/next/default/0","value":"Obrigado por cobrar a multa de <target>! Eu não tinha certeza se <target.pronoun.subject> iria pagar se eu mesmo fosse. Felizmente, você parece com alguém que <target> não gostaria de mexer."},{"op":"replace","path":"/scriptConfig/generatedText/completionText/first/glitch/0","value":"Satisfeito. Muito bem cobrando a multa de <target>! Isso é mais uma coisa que posso riscar da minha lista de coisas a fazer. Você acha que você poderia fazer mais alguma coisa para mim?"},{"op":"replace","path":"/scriptConfig/generatedText/failureText/2","value":"Eu não consegui coletar a multa de <target>. Talvez <questGiver> deva parar de pedir aos outros para fazer o trabalho de <target.pronoun.possessiveDet> para <target.pronoun.object>."},{"op":"replace","path":"/scriptConfig/generatedText/text/next/glitch/0","value":"Desatento. Eu preciso de você para fazer outra coisa para mim - manter a lei é muito importante e tudo, mas também tem pausas para o almoço. ^orange;<target>^white; deve uma multa - você vai ^green;entregar este ^orange;aviso^green; para <target.pronoun.object>^white; e ^green;pegar o ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento pelos danos?"},{"op":"replace","path":"/scriptConfig/generatedText/text/next/glitch/1","value":"Determinado. Ouvi dizer que ^orange;<target>^white; foi pego cometendo um crime! Eu não vou deixar isso passar - ^green;Entregue este ^orange;aviso de crime^green; para <target.pronoun.object>^white; e ^green;pegue  o ^orange;<item>^white; <target.pronoun.possessiveDet> como indenização."},{"op":"replace","path":"/scriptConfig/generatedText/text/next/floran/1","value":"Floran ouviu falar que ^orange;<target> ^white;esta fazendo algumasss coisass terríveiss. Floran escreveu um ^orange;aviso de crime^white; para <target.pronoun.object>. ^green;Entregue isso, e pegue um ^orange;<item>^green; como pagamento."},{"op":"replace","path":"/scriptConfig/generatedText/text/last/glitch/0","value":"Irritado. Por fim, ^orange;<target>^white; infringiu a lei e deve a uma multa. Estou ocupado demais para recolhê-la. Você poderia ^green;entregar este aviso para ^orange;<target>^white; e ^green;coletar o ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento pelos danos? Eu ficaria muito grato."},{"op":"replace","path":"/scriptConfig/generatedText/text/last/floran/1","value":"É hora de fazer jussstiça para ^orange;<target>! ^green;Entregue este ^orange;aviso de crime ^white;que Floran escreveu, e ^green;pegue um ^orange;<item>^green; como pagamento."},{"op":"replace","path":"/scriptConfig/generatedText/text/last/default/0","value":"Por fim, ^orange;<target>^white; deve uma multa. ^green;Entregue este ^orange;aviso^white; e ^green;colete o ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento pelos danos."},{"op":"replace","path":"/scriptConfig/crimeNotice/0","value":"<target>, você está sendo procurado por <crime>. Pague 1 <item>."},{"op":"replace","path":"/scriptConfig/crimeNotice/1","value":"<target> está sendo acusado de: <crime>. <target.pronoun.capitalSubject> deve pagar 1 <item>."},{"op":"replace","path":"/scriptConfig/crimeNotice/2","value":"<target> pague 1 <item>, você é um trapaceiro, não pagou 200 pixels."},{"op":"replace","path":"/scriptConfig/crimeNotice/3","value":"Para limpar o seu registo criminal, por favor pague a <player> 1 <item>."}]
+[
+  {
+    "op": "replace",
+    "value": "Volte a <questGiver>",
+    "path": "/scriptConfig/objectives/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "<target> cometeu um crime desprezível e deve enfrentar a justiça! Floran acha que você é o melhor para esste trabalho! ^green;Vá e dê este ^orange;aviso de crime^green; para ^orange;<target>^green; e pegue o ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento.",
+    "path": "/scriptConfig/generatedText/text/default/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": " <target> sem dúvida aprendeu <target.pronoun.possessiveDet> uma lição... Esse <item> sera útil também!",
+    "path": "/scriptConfig/generatedText/completionText/first/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Puna <target> ",
+    "path": "/scriptConfig/generatedText/title/1"
+  },
+  {
+    "op": "replace",
+    "value": "Colete a indenização de <target>",
+    "path": "/scriptConfig/generatedText/title/0"
+  },
+  {
+    "op": "replace",
+    "value": "Criminoso McCriminalson",
+    "path": "/parameters/target/example/name"
+  },
+  {
+    "op": "replace",
+    "value": "Determinado. Ouvi dizer que ^orange;<target>^white; foi pego cometendo um crime! Eu não vou deixar isso passar - ^green;Entregue este ^orange;aviso de crime^green; para <target.pronoun.object>^white; e ^green;pegue  o ^orange;<item>^white; <target.pronoun.possessiveDet> como indenização.",
+    "path": "/scriptConfig/generatedText/text/next/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Determinado. ^orange;<target>^white; tem andado a fazer algum negócio antiético, e eu gostaria de ensinar a <target.pronoun.object> uma lição. ^green;Entregue este ^orange;aviso de crime^white; para <target.pronoun.object>,^white; e ^green;pegue o ^orange;<item>^white; \n <target.pronoun.possessiveDet> como indenização pelo comportamento <target.pronoun.possessiveDet>. Esperançosamente <target.pronoun.subject> vai aprender!",
+    "path": "/scriptConfig/generatedText/text/default/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Distraído. ^orange;<target>^white; cometeu um crime e deve uma multa. Você poderia ^green;entregar este ^orange;aviso^green; para <target.pronoun.object>^white; e ^green;pegar o ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento pelos danos? É uma tarefa trivial e eu estou muito ocupado para ela.",
+    "path": "/scriptConfig/generatedText/text/first/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Extático.Você cobrou a multa de <target>! Isso é mais uma coisa que posso riscar da minha lista de coisas a fazer!",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Finalmente, precisamos que ^orange;<target>^white; pague por <target.pronoun.possessiveDet> práticas obscuras. ^green;Entregue este ^orange;aviso^green; para <target.pronoun.object>,^white; é um recibo por danos criminais. ^green;Colete o ^orange;<item>^white; <target.pronoun.possessiveDet> como indenização.",
+    "path": "/scriptConfig/generatedText/text/last/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran tem outra tarefa para você. ^orange;<target> ^white;fez algo vergonhoso e Floran quer justiça! ^green;Vá e dê esta ^orange;aviso de crime^green; para <target.pronoun.object> e pegue um ^orange;<item>^green; como pagamento.",
+    "path": "/scriptConfig/generatedText/text/next/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran trouxe jussstiça, e temos um <item> disso. Floran pode encontrar uso para isso...",
+    "path": "/scriptConfig/generatedText/completionText/first/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran dessscobriu que ^orange;<target>^white; fez algumas coisas ruins! Aqui está um ^orange;aviso de crime. ^green;Leve isso para <target.pronoun.object> e pegue um ^orange;<item> ^green;como pagamento^white; por <target.pronoun.possessiveDet> ssafadeza.",
+    "path": "/scriptConfig/generatedText/text/default/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran tem muito a fazer, muito ocupado. Você vai ajudar Floran? ^orange;<target> ^white;cometeu um crime vergonhoso e a lei deve ser cumprida! ^green;Vá e dê este ^orange;aviso de crime^green; para <target.pronoun.object> e pegue um ^orange;<item>^green; como pagamento.",
+    "path": "/scriptConfig/generatedText/text/first/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran tem um último trabalho para você. ^orange;<target> ^white;cometeu um crime vergonhoso e justiça deve ser servida! ^green;Vá e dê este ^orange;aviso de crime^green; para <target.pronoun.object> e pegue um ^orange;<item>^green; como pagamento.",
+    "path": "/scriptConfig/generatedText/text/last/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ouviu que ^orange;<target>^white; não está sendo muito bom. Floran quer que você resolva isso silenciosamente - ^green;leve esse ^orange;aviso de crime^green; para <target.pronoun.object> e colete um ^orange;<item> ^green;de <target.pronoun.object> ^white;como pagamento.",
+    "path": "/scriptConfig/generatedText/text/first/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ouviu falar que ^orange;<target> ^white;esta fazendo algumasss coisass terríveiss. Floran escreveu um ^orange;aviso de crime^white; para <target.pronoun.object>. ^green;Entregue isso, e pegue um ^orange;<item>^green; como pagamento.",
+    "path": "/scriptConfig/generatedText/text/next/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Grato. Obrigado por ensinar a <target> que seguimos as regras por aqui, mesmo que essas regras são vagas e que não estão realmente escritas em qualquer lugar. Fique com esse <item> também, se quiser.",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Esperançosamente <target> aprendeu uma lição - nunca seja pego fazendo coisas ruinss... Você pode ficar com esse <item> se você gostar.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não consegui coletar a multa de <target>. Talvez <questGiver> deva perseguir <target.pronoun.object <questGiver.pronoun.reflexive>.",
+    "path": "/scriptConfig/generatedText/failureText/3"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não consegui coletar a multa de <target>. Talvez <questGiver> deva parar de pedir aos outros para fazer o trabalho de <target.pronoun.possessiveDet> para <target.pronoun.object>.",
+    "path": "/scriptConfig/generatedText/failureText/2"
+  },
+  {
+    "op": "replace",
+    "value": "Não consegui entregar o aviso de crime para <target> e coletar o <item> como garantia. Talvez eu não esteja pronto para ser um cobrador de dívidas.",
+    "path": "/scriptConfig/generatedText/failureText/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não consegui obter uma indenização de <target> por <target.pronoun.possessiveDet> ações. Eu acho que o crime compensa, afinal das contas.",
+    "path": "/scriptConfig/generatedText/failureText/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu tenho muitas evidências aqui para provar que ^orange;<target>^white; não tem sido bom. ^green;Entregue este ^orange;aviso de multa^green; para <target.pronoun.object>.^white; <target.pronoun.capitalSubject> já concordou em desistir do ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento.",
+    "path": "/scriptConfig/generatedText/text/first/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Desatento. Eu preciso de você para fazer outra coisa para mim - manter a lei é muito importante e tudo, mas também tem pausas para o almoço. ^orange;<target>^white; deve uma multa - você vai ^green;entregar este ^orange;aviso^green; para <target.pronoun.object>^white; e ^green;pegar o ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento pelos danos?",
+    "path": "/scriptConfig/generatedText/text/next/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Irritado. Por fim, ^orange;<target>^white; infringiu a lei e deve a uma multa. Estou ocupado demais para recolhê-la. Você poderia ^green;entregar este aviso para ^orange;<target>^white; e ^green;coletar o ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento pelos danos? Eu ficaria muito grato.",
+    "path": "/scriptConfig/generatedText/text/last/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "É hora de fazer jussstiça para ^orange;<target>! ^green;Entregue este ^orange;aviso de crime ^white;que Floran escreveu, e ^green;pegue um ^orange;<item>^green; como pagamento.",
+    "path": "/scriptConfig/generatedText/text/last/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Jussstiça foi feita! Você é bom nisso! Você vai fazer uma última coisssa para Floran?",
+    "path": "/scriptConfig/generatedText/completionText/next/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Justiça! Talvez você deveria estar fazendo este trabalho em vez de Floran...",
+    "path": "/scriptConfig/generatedText/completionText/last/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Desleixado. Você não estaria ocupado, não é? ^orange;<target>^white; infringiu a lei e deve uma multa. Você poderia ^green;entregar este ^orange;aviso^green; para <target.pronoun.object>^white; e ^green;coletar o ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento? Gostaria de fazer eu mesmo, mas eu... Não quero.",
+    "path": "/scriptConfig/generatedText/text/default/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Por fim, ^orange;<target>^white; deve uma multa. ^green;Entregue este ^orange;aviso^white; e ^green;colete o ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento pelos danos.",
+    "path": "/scriptConfig/generatedText/text/last/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Próximo na nossa lista envolve ^orange;<target>, ^white;<target.pronoun.subject> está provado <target.pronoun.reflexive> em ser um belo violador da lei. ^green;Entregue este ^orange;aviso^green; por danos a <target.pronoun.object>,^white; <target.pronoun.subject> já concordou em dar o ^orange;<item> \r\n ^white;<target.pronoun.possessiveDet> como indenização.",
+    "path": "/scriptConfig/generatedText/text/next/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Bom trabalho cobrando a multa de <target>. Eu estava um pouco preocupado que <target.pronoun.subject> iria tentar esquivar-se dela. Você pode ficar com esse <item> como pagamento.",
+    "path": "/scriptConfig/generatedText/completionText/last/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Agora, ^orange;<target>^white; deve uma multa por ser um criminoso. ^green;Você vai entregar este ^orange;aviso de multa?^white; <target.pronoun.capitalSubject> concordou em dar o ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento pelos danos.",
+    "path": "/scriptConfig/generatedText/text/next/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. <target> sem dúvida aprendeu <target.pronoun.possessiveDet> uma lição... E esse <item> sera útil também!",
+    "path": "/scriptConfig/generatedText/completionText/first/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Bom trabalho cobrando a multa de <target>! Isso certamente me salvou de um monte de problemas.",
+    "path": "/scriptConfig/generatedText/completionText/last/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Obrigado por cobrar a multa de <target>! Eu certamente não teria tempo para isso, mas parece que você tem bastante tempo em suas mãos.",
+    "path": "/scriptConfig/generatedText/completionText/next/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Obrigado por ajudar a ensinar a <target> que há conseqüências para <target.pronoun.possessiveDet> ações. Este <item> virá a ser útil, também.",
+    "path": "/scriptConfig/generatedText/completionText/next/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Muito bem cobrando a multa de <target>! Isso é mais uma coisa que posso riscar da minha lista de coisas a fazer. Você acha que você poderia fazer mais alguma coisa para mim?",
+    "path": "/scriptConfig/generatedText/completionText/first/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aliviado. Obrigado por ensinar a <target> uma lição. Você pode ficar com esse <item>, você merece.",
+    "path": "/scriptConfig/generatedText/completionText/last/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Determinado. Primeiramente, lamento informá-lo que o nosso associado aparentemente inocente ^orange;<target>^white; recentemente cometeu um crime. ^green;Entregue este ^orange;aviso de crime^white; e pegue o ^orange;<item>^white;\r\n <target.pronoun.possessiveDet> como indenização.",
+    "path": "/scriptConfig/generatedText/text/first/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Sério. É hora de fazer ^orange;<target>^white; pagar por <target.pronoun.possessiveDet> crimes. ^green;Entregue este ^orange;aviso de crime^green; para <target.pronoun.object>,^white; e pegue o ^orange;<item>^white; <target.pronoun.possessiveDet> como indenização. Esperançosamente <target.pronoun.subject> vai se comportar no futuro!",
+    "path": "/scriptConfig/generatedText/text/last/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você é tão bom nisso! Você vai fazer mais alguma coisa para Floran?",
+    "path": "/scriptConfig/generatedText/completionText/first/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado por cobrar a multa de <target>! Eu não tinha certeza se <target.pronoun.subject> iria pagar se eu mesmo fosse. Felizmente, você parece com alguém que <target> não gostaria de mexer.",
+    "path": "/scriptConfig/generatedText/completionText/next/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado por ajudar a ensinar a <target> que há conseqüências para <target.pronoun.possessiveDet> ações! Eu já posso ver alguns usos para este <item>.",
+    "path": "/scriptConfig/generatedText/completionText/next/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado por ensinar uma lição a <target>. Eu espero que <target.pronoun.subject> perceba que ninguém está acima da lei. Você pode ficar com o <item>. Você merece.",
+    "path": "/scriptConfig/generatedText/completionText/last/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado pela ajuda! <target> deve compreender que nós temos que seguir as regras por aqui. Você pode ficar com esse <item> se você gostar.",
+    "path": "/scriptConfig/generatedText/completionText/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado! Esperançosamente <target> vai ficar bom a partir de agora. Este <item> pode também ser útil para Floran...",
+    "path": "/scriptConfig/generatedText/completionText/next/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado pela ajuda! Você pode ficar com esse <item>, Floran não precisa dele.",
+    "path": "/scriptConfig/generatedText/completionText/last/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Isso foi uma grande defesa do direito! Você deveria fazer isso mais vezes.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "A primeira coisa na nossa agenda envolve ^orange;<target>^white;. Certas provas veio à tona que <target.pronoun.subject> é um indivíduo muito sombrio. ^green;Entregue este ^orange;aviso de multa^green; e colete o ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento.",
+    "path": "/scriptConfig/generatedText/text/first/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Muito bem cobrando a multa de <target>! Este <item> vai fazer muito bem. Você acha que você poderia fazer mais alguma coisa para mim?",
+    "path": "/scriptConfig/generatedText/completionText/first/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você fez um bom trabalho! Fique com o <item> como pagamento por seus serviços. Eu só queria mostrar a <target> que ninguém está acima da lei.",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "^cyan;<target> tem causado incomodo por aqui ultimamente - É hora de por <target.pronoun.object> na linha.",
+    "path": "/scriptConfig/generatedText/goalText/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "^cyan;Ajude Floran fazer jussstiça para <target>!",
+    "path": "/scriptConfig/generatedText/goalText/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "^cyan;Faça <target> pagar por quebrar as regrasss!",
+    "path": "/scriptConfig/generatedText/goalText/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "^cyan;Obsessivo. Você vai me ajudar trazer justiça para <target>? Eu tenho um plano...",
+    "path": "/scriptConfig/generatedText/goalText/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "^cyan;Vago. Pelo visto <target> tem quebrado as regras... Acho que devemos infligir um pouco de justiça.",
+    "path": "/scriptConfig/generatedText/goalText/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "^cyan;Parece que você pode lidar com você mesmo. Você vai me ajudar trazer justiça para <target>?",
+    "path": "/scriptConfig/generatedText/goalText/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Entregue este ^orange;aviso de crime^green; para ^orange;<target>^white;. <target.pronoun.capitalSubject> concordou em dar o ^orange;<item>^white; \r\n <target.pronoun.possessiveDet> como indenização pelo comportamento <target.pronoun.possessiveDet>.",
+    "path": "/scriptConfig/generatedText/text/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Eu preciso que você leve este ^orange;aviso de multa^white; para ^orange;<target>^white;. <target.pronoun.capitalSubject> já concordou em desistir do ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento pelos danos.",
+    "path": "/scriptConfig/generatedText/text/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "ser um idiota",
+    "path": "/scriptConfig/generatedText/fluff/0/1/0"
+  },
+  {
+    "op": "replace",
+    "value": "perturbar a paz",
+    "path": "/scriptConfig/generatedText/fluff/0/1/4"
+  },
+  {
+    "op": "replace",
+    "value": "intrusão",
+    "path": "/scriptConfig/generatedText/fluff/0/1/1"
+  },
+  {
+    "op": "replace",
+    "value": "comportamento malicioso",
+    "path": "/scriptConfig/generatedText/fluff/0/1/3"
+  },
+  {
+    "op": "replace",
+    "value": "pequenos roubos",
+    "path": "/scriptConfig/generatedText/fluff/0/1/2"
+  },
+  {
+    "op": "replace",
+    "value": "estragar a diversão",
+    "path": "/scriptConfig/generatedText/fluff/0/1/7"
+  },
+  {
+    "op": "replace",
+    "value": "comportamento hostil",
+    "path": "/scriptConfig/generatedText/fluff/0/1/5"
+  },
+  {
+    "op": "replace",
+    "value": "perturbar os outros",
+    "path": "/scriptConfig/generatedText/fluff/0/1/6"
+  },
+  {
+    "op": "replace",
+    "value": "Adquira <item> de <target>",
+    "path": "/scriptConfig/objectives/0/text"
+  }
+]

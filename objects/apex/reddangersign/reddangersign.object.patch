@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Por que os Apex precisam marcar o perigo tão claramente?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Devemos proceder com cautela."}, {"op": "replace", "path": "/apexDescription", "value": "Pouco na vida Apex não é perigoso."}, {"op": "replace", "path": "/humanDescription", "value": "Um pouquinho de perigo nunca machuca ninguém."}, {"op": "replace", "path": "/shortdescription", "value": "Red Danger Sign"}, {"op": "replace", "path": "/floranDescription", "value": "Floran vive e respira perigo."}, {"op": "replace", "path": "/glitchDescription", "value": "Pessimista. Claramente nada para se preocupar então."}, {"op": "replace", "path": "/description", "value": "Uma placa que diz \"Perigo!\". Não poderia realmente enviar uma mensagem mais clara."}, {"op": "replace", "path": "/novakidDescription", "value": "Não sou estranho para o perigo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um pouquinho de perigo nunca machuca ninguém.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa que diz \"Perigo!\". Não poderia realmente enviar uma mensagem mais clara.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran vive e respira perigo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não sou estranho para o perigo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pouco na vida Apex não é perigoso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pessimista. Claramente nada para se preocupar então.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Red Danger Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Devemos proceder com cautela.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Por que os Apex precisam marcar o perigo tão claramente?",
+    "path": "/avianDescription"
+  }
+]

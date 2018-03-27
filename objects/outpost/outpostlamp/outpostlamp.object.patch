@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Esta luz é boa, mas não é tão brilhante quanto eu!"}, {"op": "replace", "path": "/description", "value": "Uma luz de parede."}, {"op": "replace", "path": "/apexDescription", "value": "Uma luz de parede funcional."}, {"op": "replace", "path": "/avianDescription", "value": "É uma luz de parede."}, {"op": "replace", "path": "/shortdescription", "value": "LED Wall Light"}, {"op": "replace", "path": "/floranDescription", "value": "Luz brilhante!"}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Esta luz de parede é eficaz."}, {"op": "replace", "path": "/humanDescription", "value": "Uma luz de parede bastante padrão."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma luz de parede. É funcional mas desagradável."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz de parede.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "É uma luz de parede.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "LED Wall Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz de parede funcional.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz de parede bastante padrão.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz de parede. É funcional mas desagradável.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Esta luz de parede é eficaz.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luz brilhante!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz é boa, mas não é tão brilhante quanto eu!",
+    "path": "/novakidDescription"
+  }
+]

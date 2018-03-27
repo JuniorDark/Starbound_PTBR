@@ -1,22 +1,22 @@
 [
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "por Hiraki Corale, Hylotl Aventureiro\n\nComo uma das minhas freqüentes tentativas de sensibilidade cultural, decidi tentar me integrar ainda mais com meus anfitriões. Ao explorar o castelo, eu encontrei varias armaduras que parecem representar grandes guerreiros Glitch. Naturalmente, para fazer meus companheiros confortáveis, eu vesti uma."
+    "value": "Um Leve Mal-Entedido",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/contentPages/1",
-    "value": "Era difícil andar com a armadura, então eu perdi o equilíbrio algumas vezes. Na verdade, eu cai das escadas e rolei para o salão principal, e todos os olhos dos Glitch estavam em mim. Em vez da saudação cordial que eu merecia, eles começaram a se lamentar e a gritar. Eu ouvi as palavras \"Raiva\" e \"Nojo\" várias vezes. E então eles começaram a me perseguir."
+    "value": "Era difícil andar com a armadura, então eu perdi o equilíbrio algumas vezes. Na verdade, eu cai das escadas e rolei para o salão principal, e todos os olhos dos Glitch estavam em mim. Em vez da saudação cordial que eu merecia, eles começaram a se lamentar e a gritar. Eu ouvi as palavras \"Raiva\" e \"Nojo\" várias vezes. E então eles começaram a me perseguir.",
+    "path": "/contentPages/1"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um trecho do diário de Hiraki Corale, Hylotl Aventureiro."
+    "value": "por Hiraki Corale, Hylotl Aventureiro\n\nComo uma das minhas freqüentes tentativas de sensibilidade cultural, decidi tentar me integrar ainda mais com meus anfitriões. Ao explorar o castelo, eu encontrei varias armaduras que parecem representar grandes guerreiros Glitch. Naturalmente, para fazer meus companheiros confortáveis, eu vesti uma.",
+    "path": "/contentPages/0"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "Um Leve Mal-Entedido"
+    "value": "Um trecho do diário de Hiraki Corale, Hylotl Aventureiro.",
+    "path": "/description"
   }
 ]

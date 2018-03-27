@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Alien Alpaca Real Torso"}, {"op": "replace", "path": "/description", "value": "Este torso é feito de Alpaca de verdade."}]
+[
+  {
+    "op": "replace",
+    "value": "Alien Alpaca Real Torso",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este torso é feito de Alpaca de verdade.",
+    "path": "/description"
+  }
+]

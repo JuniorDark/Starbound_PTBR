@@ -1,32 +1,32 @@
 [
   {
     "op": "replace",
-    "path": "/text",
-    "value": "Você tem quatro tripulantes! Com uma equipe deste tamanho, agora você se qualifica para a Kestrel License. Parabéns! ^green;Visite Pinguim Pete^reset; com ^orange;4 Upgrade Modules^reset; para atualizar a sua nave."
+    "value": "Penguin Pete",
+    "path": "/scriptConfig/portraits/questComplete/title"
   },
   {
     "op": "replace",
-    "path": "/completionText",
-    "value": "Sua nave vai ser atualizada imediatamente. Os pinguins sempre fazem um bom trabalho."
+    "value": "Entregue ^orange;Upgrade Modules^reset; para ^orange;Penguin Pete^reset; no ^orange;posto avançado^reset;.",
+    "path": "/scriptConfig/turnInDescription"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/portraits/questComplete/title",
-    "value": "Pinguim Pete"
+    "value": "Encontre ^orange;<itemName>^reset;: ^green;<current> / <required>^reset;",
+    "path": "/scriptConfig/conditions/0/description"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "^green;Atualização de Nave Kestrel"
+    "value": "Sua nave vai ser atualizada imediatamente. Os pinguins sempre fazem um bom trabalho.",
+    "path": "/completionText"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/turnInDescription",
-    "value": "Entregue ^orange;Upgrade Modules^reset; para ^orange;Penguin Pete^reset; no ^orange;posto avançado^reset;."
+    "value": "Você tem quatro tripulantes! Com uma equipe deste tamanho, agora você se qualifica para a Kestrel License. Parabéns! ^green;Visite Pinguim Pete^reset; com ^orange;4 Upgrade Modules^reset; para atualizar a sua nave.",
+    "path": "/text"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/conditions/0/description",
-    "value": "Encontre ^orange;<itemName>^reset;: ^green;<current> / <required>^reset;"
+    "value": "^green;Atualização de Nave Kestrel",
+    "path": "/title"
   }
 ]

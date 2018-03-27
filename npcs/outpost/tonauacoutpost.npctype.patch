@@ -1,1 +1,32 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/bless/default/default/2", "value": "Aqui, tome uma bênção!"}, {"op": "replace", "path": "/scriptConfig/dialog/bless/default/default/3", "value": "Este lugar é ainda mais antigo que o Templo Sovereign! Aqui, pegue uma bênção!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Que ruínas antigas grandes... Não tenho dúvidas que Kluex fez elas!"}, {"op": "replace", "path": "/scriptConfig/dialog/bless/default/default/0", "value": "E Kluex disse, 'Que haja bênçãos sobre meus guerreiros!'"}, {"op": "replace", "path": "/scriptConfig/dialog/bless/default/default/1", "value": "Avoscript Verso 81:1:6 - 'Aqueles que seguem os passos de Kluex são melhores que as outras pessoas.."}]
+[
+  {
+    "op": "replace",
+    "value": "Tonauac",
+    "path": "/npcname"
+  },
+  {
+    "op": "replace",
+    "value": "E Kluex disse, 'Que haja bênçãos sobre meus guerreiros!'",
+    "path": "/scriptConfig/dialog/bless/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Avoscript Verso 81:1:6 - 'Aqueles que seguem os passos de Kluex são melhores que as outras pessoas..",
+    "path": "/scriptConfig/dialog/bless/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui, tome uma bênção!",
+    "path": "/scriptConfig/dialog/bless/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Que ruínas antigas grandes... Não tenho dúvidas que Kluex fez elas!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este lugar é ainda mais antigo que o Templo Sovereign! Aqui, pegue uma bênção!",
+    "path": "/scriptConfig/dialog/bless/default/default/3"
+  }
+]

@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/completeSetDescriptions/shortdescription", "value": "Avian Fossil"}, {"op": "replace", "path": "/completeSetDescriptions/description", "value": "As características de interesse neste Avian fossilizado são os ossos ocos e o bico curto flexível."}, {"op": "replace", "path": "/description", "value": "Um crânio de Avian fossilizado."}, {"op": "replace", "path": "/shortdescription", "value": "Avian Skull"}]
+[
+  {
+    "op": "replace",
+    "value": "Avian Fossil",
+    "path": "/completeSetDescriptions/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "As características de interesse neste Avian fossilizado são os ossos ocos e o bico curto flexível.",
+    "path": "/completeSetDescriptions/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um crânio de Avian fossilizado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Avian Skull",
+    "path": "/shortdescription"
+  }
+]

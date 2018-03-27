@@ -1,17 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/category",
-    "value": "tool"
+    "value": "Fossil Extractor",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Usada para desenterrar fósseis. Qualquer outra coisa poderia quebrá-los. Esta ferramenta tem uma durabilidade muito baixa."
-  },
-  {
-    "op": "replace",
-    "path": "/shortdescription",
-    "value": "Fossil Extractor"
+    "value": "Usada para desenterrar fósseis. Qualquer outra coisa poderia quebrá-los. Esta ferramenta tem uma durabilidade muito baixa.",
+    "path": "/description"
   }
 ]

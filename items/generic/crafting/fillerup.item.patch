@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Enche o combustível da sua nave"}, {"op": "replace", "path": "/shortdescription", "value": "Fill 'Er Up"}]
+[
+  {
+    "op": "replace",
+    "value": "Fill 'Er Up",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Enche o combustível da sua nave",
+    "path": "/description"
+  }
+]

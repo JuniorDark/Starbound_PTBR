@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Pedra lunar bela e suave."}, {"op": "replace", "path": "/shortdescription", "value": "Moonstone"}]
+[
+  {
+    "op": "replace",
+    "value": "Pedra lunar bela e suave.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Esta pedra única é ocasionalmente encontrada em luas.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece ser pedra lunar.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Moonstone",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedra lunar ssuave.",
+    "path": "/florandescription"
+  }
+]

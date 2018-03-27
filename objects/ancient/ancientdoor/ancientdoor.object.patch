@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma porta de aparência antiga."}, {"op": "replace", "path": "/shortdescription", "value": "Ancient Door"}, {"op": "replace", "path": "/floranDescription", "value": "Parece com uma porta ancestral."}, {"op": "replace", "path": "/glitchDescription", "value": "Cauteloso. Não seria surpresa se esta porta ancestral falhasse ao abrir."}, {"op": "replace", "path": "/apexDescription", "value": "Uma porta feita de uma pedra ancestral."}, {"op": "replace", "path": "/humanDescription", "value": "Aposto que essas runas dizem 'abrir' e 'fechar'."}, {"op": "replace", "path": "/avianDescription", "value": "Uma porta resistente de origem ancestral."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta porta é uma relíquia de um passado muito longo."}, {"op": "replace", "path": "/novakidDescription", "value": "Essa porta é uma relíquia."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta feita de uma pedra ancestral.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta resistente de origem ancestral.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta de aparência antiga.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ancient Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. Não seria surpresa se esta porta ancestral falhasse ao abrir.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aposto que essas runas dizem 'abrir' e 'fechar'.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece com uma porta ancestral.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa porta é uma relíquia.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta é uma relíquia de um passado muito longo.",
+    "path": "/hylotlDescription"
+  }
+]

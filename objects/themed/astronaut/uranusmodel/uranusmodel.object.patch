@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Urano é o nome de um deus do céu da Terra. A lenda é pálida em comparação com os deuses Avian do céu."}, {"op": "replace", "path": "/description", "value": "Um modelo detalhado do planeta Urano do Sistema Solar."}, {"op": "replace", "path": "/floranDescription", "value": "Urano é o sétimo planeta do Sssistema Solar. Tem anéisss fracos."}, {"op": "replace", "path": "/glitchDescription", "value": "Fascinado. Urano é o planeta mais frio do Sistema Solar."}, {"op": "replace", "path": "/humanDescription", "value": "Urano pode ser nomeado em homenagem a um deus... mas com certeza soa engraçado."}, {"op": "replace", "path": "/hylotlDescription", "value": "Urano é curioso por seu eixo desequilibrado, o que o torna único no Sistema Solar."}, {"op": "replace", "path": "/shortdescription", "value": "Uranus Model"}, {"op": "replace", "path": "/novakidDescription", "value": "Urano é um gigante de gelo que é bem conhecido por ser bom em mascarar as emissões do motor de naves escondidas."}, {"op": "replace", "path": "/apexDescription", "value": "O eixo de Urano é inclinado a um extremo de mais de noventa e sete graus."}]
+[
+  {
+    "op": "replace",
+    "value": "Um modelo detalhado do planeta Urano do Sistema Solar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Fascinado. Urano é o planeta mais frio do Sistema Solar.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uranus Model",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Urano é um gigante de gelo que é bem conhecido por ser bom em mascarar as emissões do motor de naves escondidas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Urano é curioso por seu eixo desequilibrado, o que o torna único no Sistema Solar.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Urano é o nome de um deus do céu da Terra. A lenda é pálida em comparação com os deuses Avian do céu.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Urano é o sétimo planeta do Sssistema Solar. Tem anéisss fracos.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Urano pode ser nomeado em homenagem a um deus... mas com certeza soa engraçado.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O eixo de Urano é inclinado a um extremo de mais de noventa e sete graus.",
+    "path": "/apexDescription"
+  }
+]

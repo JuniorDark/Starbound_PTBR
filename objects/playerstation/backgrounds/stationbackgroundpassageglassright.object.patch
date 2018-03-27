@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Glass passage right piece background",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Glass passage right piece background",
+    "path": "/shortdescription"
+  }
+]

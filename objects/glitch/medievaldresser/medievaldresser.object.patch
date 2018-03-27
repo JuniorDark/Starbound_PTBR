@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Uma cômoda empoeirada, provavelmente para roupas."}, {"op": "replace", "path": "/avianDescription", "value": "Uma unidade de armazenamento e uma mesa em uma."}, {"op": "replace", "path": "/description", "value": "Esta cômoda tem cheiro de mofo. Não parece muito limpa."}, {"op": "replace", "path": "/shortdescription", "value": "Medieval Dresser"}, {"op": "replace", "path": "/floranDescription", "value": "Floran cheira móvel velho. Floran fica com o nariz cheio de poeira."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Uma cômoda velha."}, {"op": "replace", "path": "/apexDescription", "value": "Uma cômoda simples, provavelmente cheia de roupas simples."}, {"op": "replace", "path": "/humanDescription", "value": "Uma cômoda de madeira antiga e empoeirada."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma antiga unidade de armazenamento, possivelmente para roupas."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cômoda empoeirada, provavelmente para roupas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cômoda simples, provavelmente cheia de roupas simples.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma unidade de armazenamento e uma mesa em uma.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cômoda de madeira antiga e empoeirada.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma antiga unidade de armazenamento, possivelmente para roupas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran cheira móvel velho. Floran fica com o nariz cheio de poeira.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Medieval Dresser",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Uma cômoda velha.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cômoda tem cheiro de mofo. Não parece muito limpa.",
+    "path": "/description"
+  }
+]

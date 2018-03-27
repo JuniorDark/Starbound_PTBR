@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Prism Shard"}, {"op": "replace", "path": "/description", "value": "É um caco de prisma!"}]
+[
+  {
+    "op": "replace",
+    "value": "É um caco de prisma!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Prism Shard",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Aliviado. Eu posso usar esta nave espacial para fugir em segurança!"}, {"op": "replace", "path": "/description", "value": "Uma nave da Academia do Protetorado."}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Ship"}, {"op": "replace", "path": "/floranDescription", "value": "Nave espacial! Floran encontrou veículo de fuga!"}, {"op": "replace", "path": "/apexDescription", "value": "Uma nave espacial! Esta é a minha saída!"}, {"op": "replace", "path": "/humanDescription", "value": "Assim como eu esperava! Esta nave é a minha saída daqui."}, {"op": "replace", "path": "/avianDescription", "value": "Graça ao criador! Esta pode ser a minha chance de sair daqui!"}, {"op": "replace", "path": "/hylotlDescription", "value": "É isso aí! Esta nave espacial me levará para um lugar mais seguro."}, {"op": "replace", "path": "/novakidDescription", "value": "Vou levar essa nave espacial para um lugar seguro!"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma nave da Academia do Protetorado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma nave espacial! Esta é a minha saída!",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vou levar essa nave espacial para um lugar seguro!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Assim como eu esperava! Esta nave é a minha saída daqui.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Ship",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aliviado. Eu posso usar esta nave espacial para fugir em segurança!",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nave espacial! Floran encontrou veículo de fuga!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Graça ao criador! Esta pode ser a minha chance de sair daqui!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É isso aí! Esta nave espacial me levará para um lugar mais seguro.",
+    "path": "/hylotlDescription"
+  }
+]

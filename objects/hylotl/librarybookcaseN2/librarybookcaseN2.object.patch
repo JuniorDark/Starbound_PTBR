@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Contente. Existem muitas estantes para livros como esta."}, {"op": "replace", "path": "/humanDescription", "value": "Uma estante de livros resistente."}, {"op": "replace", "path": "/avianDescription", "value": "Uma estante velha cheia de livros."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma variedade de poemas e prosa alinha as prateleiras."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma estante cheia de livros."}, {"op": "replace", "path": "/description", "value": "Uma estante bastante grande cheia de livros."}, {"op": "replace", "path": "/shortdescription", "value": "Ornate Bookcase"}, {"op": "replace", "path": "/floranDescription", "value": "Livrosss."}, {"op": "replace", "path": "/apexDescription", "value": "Uma estante padrão e ornamentada."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estante bastante grande cheia de livros.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estante padrão e ornamentada.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma variedade de poemas e prosa alinha as prateleiras.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estante velha cheia de livros.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Contente. Existem muitas estantes para livros como esta.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ornate Bookcase",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estante cheia de livros.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estante de livros resistente.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Livrosss.",
+    "path": "/floranDescription"
+  }
+]

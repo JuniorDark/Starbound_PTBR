@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A etiqueta diz, \"O seu movimento é determinado pelos níveis de temperatura na atmosfera.\""}, {"op": "replace", "path": "/shortdescription", "value": "Squeem Figurine"}]
+[
+  {
+    "op": "replace",
+    "value": "Squeem Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"O seu movimento é determinado pelos níveis de temperatura na atmosfera.\"",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/contentPages/0", "value": "LIVRO DE ANOTAÇÕES DE CAÇA FLORAN\n\n As pessoas de carne pensam que plantas não gostam de caçar, que todas as plantas são como árvores\n\n Pessoas de carne burras, Floran vai caça-las e vai se divertir fazendo isso\n\n Passo Um - Correr mais rápido que a presa para poder pega-la\n\n Dica 2 - Os esfaqueie mais rápido do que eles te esfaqueiem\n\n APROVEITE A CAÇA"}, {"op": "replace", "path": "/description", "value": "Um velho livro Floran de técnicas de caça. A capa é feita de um osso rachado."}, {"op": "replace", "path": "/title", "value": "Como Conseguir Carne"}]
+[
+  {
+    "op": "replace",
+    "value": "Um velho livro Floran de técnicas de caça. A capa é feita de um osso rachado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "LIVRO DE ANOTAÇÕES DE CAÇA FLORAN\n\n As pessoas de carne pensam que plantas não gostam de caçar, que todas as plantas são como árvores\n\n Pessoas de carne burras, Floran vai caça-las e vai se divertir fazendo isso\n\n Passo Um - Correr mais rápido que a presa para poder pega-la\n\n Dica 2 - Os esfaqueie mais rápido do que eles te esfaqueiem\n\n APROVEITE A CAÇA",
+    "path": "/contentPages/0"
+  },
+  {
+    "op": "replace",
+    "value": "Como Conseguir Carne",
+    "path": "/title"
+  }
+]

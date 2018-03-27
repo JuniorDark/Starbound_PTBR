@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Eu gosto deste lugar, é assustador!"}]
+[
+  {
+    "op": "replace",
+    "value": "Nuru",
+    "path": "/npcname"
+  },
+  {
+    "op": "replace",
+    "value": "Eu gosto deste lugar, é assustador!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

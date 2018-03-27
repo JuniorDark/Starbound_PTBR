@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um saco de ovos com forma estranha."}, {"op": "replace", "path": "/shortdescription", "value": "Hive Egg Sac"}, {"op": "replace", "path": "/floranDescription", "value": "Ovosss?"}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Este parece ser um saco de ovos de uma espécie nativa deste bioma."}, {"op": "replace", "path": "/apexDescription", "value": "Este deve ser um saco de ovos de uma espécie nativa deste lugar."}, {"op": "replace", "path": "/humanDescription", "value": "Isso é um saco de ovos? Eu não acho que eu quero comer esses ovos."}, {"op": "replace", "path": "/avianDescription", "value": "Parece uma espécie de saco de ovos."}, {"op": "replace", "path": "/hylotlDescription", "value": "Que saco de ovos estranho!"}, {"op": "replace", "path": "/novakidDescription", "value": "Isso é um saco de ovos? Esta todo... sinuoso."}]
+[
+  {
+    "op": "replace",
+    "value": "Um saco de ovos com forma estranha.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Este parece ser um saco de ovos de uma espécie nativa deste bioma.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ovosss?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hive Egg Sac",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é um saco de ovos? Eu não acho que eu quero comer esses ovos.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é um saco de ovos? Esta todo... sinuoso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece uma espécie de saco de ovos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este deve ser um saco de ovos de uma espécie nativa deste lugar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que saco de ovos estranho!",
+    "path": "/hylotlDescription"
+  }
+]

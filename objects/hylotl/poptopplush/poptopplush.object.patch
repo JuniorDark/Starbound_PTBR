@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Awww, Floran gosta de Poptop de pelúcia."}, {"op": "replace", "path": "/novakidDescription", "value": "Muito fofo para ser um Poptop real."}, {"op": "replace", "path": "/description", "value": "Um Poptop de pelúcia de brinquedo suave."}, {"op": "replace", "path": "/shortdescription", "value": "Poptop Plushie"}, {"op": "replace", "path": "/glitchDescription", "value": "Em Conflito. Poptops são criaturas mortais, mas são muito bonitos."}, {"op": "replace", "path": "/apexDescription", "value": "Poptops me dá arrepios, mas este é quase bonitinho."}, {"op": "replace", "path": "/humanDescription", "value": "Aww, é quase o suficiente para fazer você esquecer o quão assustador Poptops reais são."}, {"op": "replace", "path": "/avianDescription", "value": "Por que fazer pelúcias de uma criatura tão aterrorizante?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta é uma pelúcia adorável de uma criatura bastante assustadora."}]
+[
+  {
+    "op": "replace",
+    "value": "Um Poptop de pelúcia de brinquedo suave.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Aww, é quase o suficiente para fazer você esquecer o quão assustador Poptops reais são.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Awww, Floran gosta de Poptop de pelúcia.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Em Conflito. Poptops são criaturas mortais, mas são muito bonitos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Poptop Plushie",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Poptops me dá arrepios, mas este é quase bonitinho.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é uma pelúcia adorável de uma criatura bastante assustadora.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Muito fofo para ser um Poptop real.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Por que fazer pelúcias de uma criatura tão aterrorizante?",
+    "path": "/avianDescription"
+  }
+]

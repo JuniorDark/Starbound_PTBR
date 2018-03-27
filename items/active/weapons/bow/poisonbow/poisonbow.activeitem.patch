@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Poison Bow ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Dispara flechas revestidas com veneno mortal."}, {"op": "replace", "path": "/shortdescription", "value": "Poison Bow"}]
+[
+  {
+    "op": "replace",
+    "value": "Dispara flechas revestidas com veneno mortal.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Poison Bow",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Poison Bow ^yellow;^reset;",
+    "path": "/upgradeParameters/shortdescription"
+  }
+]

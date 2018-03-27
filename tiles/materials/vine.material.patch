@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Uma espesso maço de vinhas. Elas parecem fortes."}, {"op": "replace", "path": "/shortdescription", "value": "Vine"}, {"op": "replace", "path": "/novakidDescription", "value": "Estas vinhas são enormes."}, {"op": "replace", "path": "/floranDescription", "value": "Vinhas crescem forte como Floran."}, {"op": "replace", "path": "/glitchDescription", "value": "Fascinado. Parece que estas vinhas fortes foram tecidas juntas enquanto elas foram cultivadas."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma espesso maço de vinhas. Elas parecem fortes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Fascinado. Parece que estas vinhas fortes foram tecidas juntas enquanto elas foram cultivadas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas vinhas são enormes.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vinhas crescem forte como Floran.",
+    "path": "/floranDescription"
+  }
+]

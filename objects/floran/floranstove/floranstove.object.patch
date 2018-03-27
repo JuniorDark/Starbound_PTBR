@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/avianDescription", "value": "O fogão em si parece ser feito de osso."}, {"op": "replace", "path": "/glitchDescription", "value": "Cauteloso. Este fogão não parece particularmente higiênico."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Fogão Primitivo"}, {"op": "replace", "path": "/description", "value": "Uma panela muito básica suspendida sobre uma fogueira."}, {"op": "replace", "path": "/humanDescription", "value": "Quem poderia dizer o que foi cozido nesta panela."}, {"op": "replace", "path": "/hylotlDescription", "value": "Prefiro não comer alimentos cozidos sobre essa geringonça."}, {"op": "replace", "path": "/novakidDescription", "value": "Tudo que você precisa para fazer uma refeição."}, {"op": "replace", "path": "/shortdescription", "value": "Primitive Stove"}, {"op": "replace", "path": "/apexDescription", "value": "Um fogão. Um pote de ossos pendurado escurecido pela chama."}, {"op": "replace", "path": "/floranDescription", "value": "Floran cozinha alimento, desfruta de sucoss docess."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "Para aquele autêntico sabor rústico"}]
+[
+  {
+    "op": "replace",
+    "value": "Para aquele autêntico sabor rústico",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Fogão Primitivo",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Um fogão. Um pote de ossos pendurado escurecido pela chama.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma panela muito básica suspendida sobre uma fogueira.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Tudo que você precisa para fazer uma refeição.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. Este fogão não parece particularmente higiênico.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran cozinha alimento, desfruta de sucoss docess.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Prefiro não comer alimentos cozidos sobre essa geringonça.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Primitive Stove",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O fogão em si parece ser feito de osso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quem poderia dizer o que foi cozido nesta panela.",
+    "path": "/humanDescription"
+  }
+]

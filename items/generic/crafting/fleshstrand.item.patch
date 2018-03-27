@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um longo e forte cordão de carne."}, {"op": "replace", "path": "/shortdescription", "value": "Flesh Strand"}]
+[
+  {
+    "op": "replace",
+    "value": "Um longo e forte cordão de carne.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Flesh Strand",
+    "path": "/shortdescription"
+  }
+]

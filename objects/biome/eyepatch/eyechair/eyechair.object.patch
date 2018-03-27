@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma cadeira de olho. Não deve ser confundida com uma cadeira alta."}, {"op": "replace", "path": "/shortdescription", "value": "Eye Chair"}, {"op": "replace", "path": "/floranDescription", "value": "Floran olha para a cadeira, espera até a cadeira piscar. Ficar cansado. Sssenta-se."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Apesar das aparências, esta cadeira não pode realmente ver."}, {"op": "replace", "path": "/apexDescription", "value": "Eu sinto que eu deveria estar verificando este olho por câmeras escondidas da Miniknog."}, {"op": "replace", "path": "/humanDescription", "value": "Sentar aqui me faz sentir como se a cadeira está olhando para o meu cérebro. Espero que não seja julgador."}, {"op": "replace", "path": "/avianDescription", "value": "Essa cadeira parece quase... viva."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma cadeira bizarra mas confortável. Tem um olho nela."}, {"op": "replace", "path": "/novakidDescription", "value": "Você não terá um único momento de relaxamento nesta cadeira. Constantemente se sentido observado..."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira bizarra mas confortável. Tem um olho nela.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira de olho. Não deve ser confundida com uma cadeira alta.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Eye Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran olha para a cadeira, espera até a cadeira piscar. Ficar cansado. Sssenta-se.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sinto que eu deveria estar verificando este olho por câmeras escondidas da Miniknog.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Apesar das aparências, esta cadeira não pode realmente ver.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sentar aqui me faz sentir como se a cadeira está olhando para o meu cérebro. Espero que não seja julgador.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa cadeira parece quase... viva.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Você não terá um único momento de relaxamento nesta cadeira. Constantemente se sentido observado...",
+    "path": "/novakidDescription"
+  }
+]

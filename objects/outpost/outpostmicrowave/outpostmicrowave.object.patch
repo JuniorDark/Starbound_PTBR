@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran gosta de carne crua, às vezesss carne cozida é bom também."}, {"op": "replace", "path": "/description", "value": "Um microondas. Para quando você está com fome o suficiente para bombardear sua comida."}, {"op": "replace", "path": "/humanDescription", "value": "Um microondas. Tenho que pegar algumas batatas."}, {"op": "replace", "path": "/avianDescription", "value": "Um dispositivo de cozimento bizarro."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um estranho forno giratório."}, {"op": "replace", "path": "/shortdescription", "value": "Microwave Oven"}, {"op": "replace", "path": "/glitchDescription", "value": "Está coberto com comida salpicada, que deixou isso neste estado?"}, {"op": "replace", "path": "/apexDescription", "value": "Um tipo de forno."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "Conveniência de cozinhar"}, {"op": "replace", "path": "/novakidDescription", "value": "Este pequeno forno rotativo cozinha a comida rapidamente!"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Forno Micro-ondas"}]
+[
+  {
+    "op": "replace",
+    "value": "Conveniência de cozinhar",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Forno Micro-ondas",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Um dispositivo de cozimento bizarro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um microondas. Para quando você está com fome o suficiente para bombardear sua comida.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um microondas. Tenho que pegar algumas batatas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um estranho forno giratório.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um tipo de forno.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de carne crua, às vezesss carne cozida é bom também.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Está coberto com comida salpicada, que deixou isso neste estado?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Microwave Oven",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este pequeno forno rotativo cozinha a comida rapidamente!",
+    "path": "/novakidDescription"
+  }
+]

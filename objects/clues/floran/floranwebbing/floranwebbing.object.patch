@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Este rack de troféus esta coberto por uma teia nojenta."}, {"op": "replace", "path": "/shortdescription", "value": "Web Rack"}, {"op": "replace", "path": "/floranDescription", "value": "Esta teia ssse faz um bom troféu. É terrível embora."}, {"op": "replace", "path": "/glitchDescription", "value": "Aterrorizado. Apenas uma enorme teia pegajosa, nada a ter medo."}, {"op": "replace", "path": "/apexDescription", "value": "Ugh... é uma espécie de teia."}, {"op": "replace", "path": "/humanDescription", "value": "Parece ser algum tipo de teia. Nojento!"}, {"op": "replace", "path": "/avianDescription", "value": "É um tipo de teia. É melhor não tocá-la!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma teia produzida por alguma criatura estranha."}, {"op": "replace", "path": "/novakidDescription", "value": "Teia grudenta de aparência desagradável."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma teia produzida por alguma criatura estranha.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece ser algum tipo de teia. Nojento!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um tipo de teia. É melhor não tocá-la!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Teia grudenta de aparência desagradável.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aterrorizado. Apenas uma enorme teia pegajosa, nada a ter medo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este rack de troféus esta coberto por uma teia nojenta.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta teia ssse faz um bom troféu. É terrível embora.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ugh... é uma espécie de teia.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Web Rack",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Determinado. Não devo me tornar o alvo."}, {"op": "replace", "path": "/apexDescription", "value": "Sempre pronta para disparar."}, {"op": "replace", "path": "/humanDescription", "value": "Uma arma de segurança automatizada. Que obra maldosa."}, {"op": "replace", "path": "/avianDescription", "value": "Devo me mover como o vento para permanecer invisível para esta torre."}, {"op": "replace", "path": "/description", "value": "A melhor torre de segurança automatizada por aí."}, {"op": "replace", "path": "/floranDescription", "value": "Lasersss tão brilhantes. Não quer estar em sua mira."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma arma de segurança automatizada. Que obra maldosa."}, {"op": "replace", "path": "/shortdescription", "value": "Hi-tech Turret"}, {"op": "replace", "path": "/novakidDescription", "value": "Uma arma automatizada não tem alma para mante-la rm controle."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma arma de segurança automatizada. Que obra maldosa.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sempre pronta para disparar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma arma automatizada não tem alma para mante-la rm controle.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma arma de segurança automatizada. Que obra maldosa.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Determinado. Não devo me tornar o alvo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hi-tech Turret",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Devo me mover como o vento para permanecer invisível para esta torre.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lasersss tão brilhantes. Não quer estar em sua mira.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A melhor torre de segurança automatizada por aí.",
+    "path": "/description"
+  }
+]

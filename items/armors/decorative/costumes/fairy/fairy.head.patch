@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Crown"}, {"op": "replace", "path": "/description", "value": "Uma coroa com jóias. Parece real!"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma coroa com jóias. Parece real!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Crown",
+    "path": "/shortdescription"
+  }
+]

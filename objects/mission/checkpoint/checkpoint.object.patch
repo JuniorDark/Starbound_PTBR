@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Tecnologia moderna é incrível, se eu morrer, eu vou reaparecer aqui!"}, {"op": "replace", "path": "/description", "value": "Se você morrer, você vai reaparecer neste local."}, {"op": "replace", "path": "/shortdescription", "value": "Mission Checkpoint"}, {"op": "replace", "path": "/floranDescription", "value": "Isso permite que Floran volte aqui se as coisasss deram errado!"}, {"op": "replace", "path": "/glitchDescription", "value": "Pensativo. Podemos realmente morrer se nós sempre reaparecer?"}, {"op": "replace", "path": "/apexDescription", "value": "Isso me permitirá continuar... Se eu falhar."}, {"op": "replace", "path": "/avianDescription", "value": "Parece que se eu morrer eu vou voltar a este ponto."}, {"op": "replace", "path": "/hylotlDescription", "value": "Bastante interessante, eu posso viver novamente se eu morrer através disso."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu não entendo muito bem, mas eu voltarei aqui se eu morrer."}]
+[
+  {
+    "op": "replace",
+    "value": "Eu não entendo muito bem, mas eu voltarei aqui se eu morrer.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se você morrer, você vai reaparecer neste local.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que se eu morrer eu vou voltar a este ponto.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mission Checkpoint",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tecnologia moderna é incrível, se eu morrer, eu vou reaparecer aqui!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bastante interessante, eu posso viver novamente se eu morrer através disso.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso me permitirá continuar... Se eu falhar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso permite que Floran volte aqui se as coisasss deram errado!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pensativo. Podemos realmente morrer se nós sempre reaparecer?",
+    "path": "/glitchDescription"
+  }
+]

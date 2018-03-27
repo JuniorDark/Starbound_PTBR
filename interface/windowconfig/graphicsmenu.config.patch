@@ -1,1 +1,67 @@
-[{"op":"replace","path":"/paneLayout/title/value","value":"GRÁFICOS"},{"op":"replace","path":"/paneLayout/accept/caption","value":"Aplicar"},{"op":"replace","path":"/paneLayout/cancel/caption","value":"Voltar"},{"op":"replace","path":"/paneLayout/fullscreenLabel/value","value":"TELA CHEIA"},{"op":"replace","path":"/paneLayout/borderlessLabel/value","value":"JANELA SEM BORDAS"},{"op":"replace","path":"/paneLayout/monochromeLabel/value","value":"LUZES MONOCROMÁTICA"},{"op":"replace","path":"/paneLayout/interactiveHighlightLabel/value","value":"DESTACAR ALVO"},{"op":"replace","path":"/paneLayout/speechBubbleLabel/value","value":"BALÕES DE FALA"},{"op":"replace","path":"/paneLayout/textureLimitLabel/value","value":"LIMITE DE TEXTURA"},{"op":"replace","path":"/paneLayout/resLabel/value","value":"RESOLUÇÃO DE TELA CHEIA"},{"op":"replace","path":"/paneLayout/zoomLabel/value","value":"NÍVEL DE ZOOM"}]
+[
+  {
+    "op": "replace",
+    "value": "Replace Me",
+    "path": "/paneLayout/resValueLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Replace Me",
+    "path": "/paneLayout/zoomValueLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Voltar",
+    "path": "/paneLayout/cancel/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Aplicar",
+    "path": "/paneLayout/accept/caption"
+  },
+  {
+    "op": "replace",
+    "value": "JANELA SEM BORDAS",
+    "path": "/paneLayout/borderlessLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "TELA CHEIA",
+    "path": "/paneLayout/fullscreenLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "RESOLUÇÃO DE TELA CHEIA",
+    "path": "/paneLayout/resLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "GRÁFICOS",
+    "path": "/paneLayout/title/value"
+  },
+  {
+    "op": "replace",
+    "value": "LUZES MONOCROMÁTICA",
+    "path": "/paneLayout/monochromeLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "BALÕES DE FALA",
+    "path": "/paneLayout/speechBubbleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "DESTACAR ALVO",
+    "path": "/paneLayout/interactiveHighlightLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "LIMITE DE TEXTURA",
+    "path": "/paneLayout/textureLimitLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "NÍVEL DE ZOOM",
+    "path": "/paneLayout/zoomLabel/value"
+  }
+]

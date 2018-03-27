@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma dançarina havaiana. Aloha!"}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Hula Girl"}, {"op": "replace", "path": "/novakidDescription", "value": "Olhe para ela, tocando seu ukulele pequenino."}, {"op": "replace", "path": "/floranDescription", "value": "Brinquedosss humanos brega..."}, {"op": "replace", "path": "/glitchDescription", "value": "Em Transe. O movimento oscilante tem um efeito quase hipnótico."}, {"op": "replace", "path": "/apexDescription", "value": "O humano balançante parece estar tocando um ukulele."}, {"op": "replace", "path": "/humanDescription", "value": "Aloha!"}, {"op": "replace", "path": "/avianDescription", "value": "Esta dançarina está vestindo uma saia de grama."}, {"op": "replace", "path": "/hylotlDescription", "value": "Isso me lembra as areias brancas e os mares azuis."}]
+[
+  {
+    "op": "replace",
+    "value": "Protectorate Hula Girl",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Brinquedosss humanos brega...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma dançarina havaiana. Aloha!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Aloha!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Em Transe. O movimento oscilante tem um efeito quase hipnótico.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso me lembra as areias brancas e os mares azuis.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Olhe para ela, tocando seu ukulele pequenino.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O humano balançante parece estar tocando um ukulele.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta dançarina está vestindo uma saia de grama.",
+    "path": "/avianDescription"
+  }
+]

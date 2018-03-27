@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Wooden Fence"}, {"op": "replace", "path": "/floranDescription", "value": "Cerca resissstente."}, {"op": "replace", "path": "/description", "value": "Uma cerca de madeira resistente."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Este cerca de madeira é muito resistente."}, {"op": "replace", "path": "/novakidDescription", "value": "Nada como uma cerca de madeira resistente."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cerca de madeira resistente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Nada como uma cerca de madeira resistente.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Este cerca de madeira é muito resistente.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cerca resissstente.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wooden Fence",
+    "path": "/shortdescription"
+  }
+]

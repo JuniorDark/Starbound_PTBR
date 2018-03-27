@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Wrecked Generator"}, {"op": "replace", "path": "/humanDescription", "value": "Isto já foi um gerador poderoso."}, {"op": "replace", "path": "/hylotlDescription", "value": "Isto já foi um gerador poderoso."}, {"op": "replace", "path": "/description", "value": "Era uma vez, um par dessas coisas poderia alimentar um nave inteira."}, {"op": "replace", "path": "/apexDescription", "value": "Este gerador teria gerado grandes quantidades de energia quando estava funcionando."}, {"op": "replace", "path": "/novakidDescription", "value": "Um gerador elétrico quebrado."}, {"op": "replace", "path": "/floranDescription", "value": "Máquina quebrada esstranha."}, {"op": "replace", "path": "/glitchDescription", "value": "Decepcionado. Um gerador elétrico quebrado."}, {"op": "replace", "path": "/avianDescription", "value": "Um enorme gerador elétrico."}]
+[
+  {
+    "op": "replace",
+    "value": "Um enorme gerador elétrico.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Decepcionado. Um gerador elétrico quebrado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto já foi um gerador poderoso.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Era uma vez, um par dessas coisas poderia alimentar um nave inteira.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Máquina quebrada esstranha.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este gerador teria gerado grandes quantidades de energia quando estava funcionando.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um gerador elétrico quebrado.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto já foi um gerador poderoso.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wrecked Generator",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um ensopado surpreendentemente saboroso, se você tomar cuidado com os pedaços de metal."}, {"op": "replace", "path": "/shortdescription", "value": "Automato Stew"}]
+[
+  {
+    "op": "replace",
+    "value": "Um ensopado surpreendentemente saboroso, se você tomar cuidado com os pedaços de metal.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Automato Stew",
+    "path": "/shortdescription"
+  }
+]

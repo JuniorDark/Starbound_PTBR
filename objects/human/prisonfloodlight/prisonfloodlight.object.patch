@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Furtivo. Analisando os padrões do holofote, seria fácil esgueirar-se ao redor dele."}, {"op": "replace", "path": "/shortdescription", "value": "Small Floodlight"}, {"op": "replace", "path": "/description", "value": "Parece que estou no palco!"}, {"op": "replace", "path": "/floranDescription", "value": "Floran se ssente como centro das atenções."}, {"op": "replace", "path": "/apexDescription", "value": "Esses holofotes são usados pela Miniknog para forçar as pessoas a falar. Holofotes, e pior..."}, {"op": "replace", "path": "/humanDescription", "value": "Eu sempre quis estar no centro das atenções."}, {"op": "replace", "path": "/avianDescription", "value": "Uma luz irritante e ofuscante."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um holofote luminoso e penetrante."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma luz brilhante."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz brilhante.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que estou no palco!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Small Floodlight",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um holofote luminoso e penetrante.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz irritante e ofuscante.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran se ssente como centro das atenções.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sempre quis estar no centro das atenções.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Furtivo. Analisando os padrões do holofote, seria fácil esgueirar-se ao redor dele.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esses holofotes são usados pela Miniknog para forçar as pessoas a falar. Holofotes, e pior...",
+    "path": "/apexDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Minas terrestres, menores que as minas marinhas, mas ainda letais."}, {"op": "replace", "path": "/description", "value": "Uma antiga e esquecida mina terrestre. Ainda pode estar ativa!"}, {"op": "replace", "path": "/shortdescription", "value": "Rusty Land Mine"}, {"op": "replace", "path": "/floranDescription", "value": "Cuidado onde pisssa."}, {"op": "replace", "path": "/glitchDescription", "value": "Cauteloso. Uma mina terrestre ativa, eu deveria ter cuidado."}, {"op": "replace", "path": "/apexDescription", "value": "Uma mina terrestre, ainda pode estar ativa."}, {"op": "replace", "path": "/avianDescription", "value": "Uh oh! Eu não quero pisar nisso."}, {"op": "replace", "path": "/novakidDescription", "value": "Isso ainda poderia explodir!"}, {"op": "replace", "path": "/humanDescription", "value": "Não quero arriscar, esta coisa ainda pode explodir."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma mina terrestre, ainda pode estar ativa.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. Uma mina terrestre ativa, eu deveria ter cuidado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não quero arriscar, esta coisa ainda pode explodir.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Minas terrestres, menores do que as minas marítimas, mas ainda letal.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso ainda poderia explodir!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uh oh! Eu não quero pisar nisso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cuidado onde pisssa.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma antiga e esquecida mina terrestre. Ainda pode estar ativa!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Rusty Land Mine",
+    "path": "/shortdescription"
+  }
+]

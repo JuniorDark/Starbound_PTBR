@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Para mim parece um monte de lama."}, {"op": "replace", "path": "/description", "value": "Lama espessa e pegajosa."}, {"op": "replace", "path": "/shortdescription", "value": "Mud"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gossta de bagunçar com lama."}, {"op": "replace", "path": "/glitchDescription", "value": "Com nojo. Esta lama é grossa e pegajosa."}]
+[
+  {
+    "op": "replace",
+    "value": "Com nojo. Esta lama é grossa e pegajosa.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gossta de bagunçar com lama.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para mim parece um monte de lama.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mud",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lama espessa e pegajosa.",
+    "path": "/description"
+  }
+]

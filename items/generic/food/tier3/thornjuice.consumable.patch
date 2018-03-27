@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Mais espinho do que suco."}, {"op": "replace", "path": "/shortdescription", "value": "Thorn Juice"}]
+[
+  {
+    "op": "replace",
+    "value": "Mais espinho do que suco.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Thorn Juice",
+    "path": "/shortdescription"
+  }
+]

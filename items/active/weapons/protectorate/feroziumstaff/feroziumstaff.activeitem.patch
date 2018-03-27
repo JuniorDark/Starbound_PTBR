@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Este cajado de ferozium endurecido concentra energia a uma distância impressionante."}, {"op": "replace", "path": "/shortdescription", "value": "Ferozium Staff"}]
+[
+  {
+    "op": "replace",
+    "value": "Ferozium Staff",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este cajado de ferozium endurecido concentra energia a uma distância impressionante.",
+    "path": "/description"
+  }
+]

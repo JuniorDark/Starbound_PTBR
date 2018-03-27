@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Tijolos pequenos, relativamente antigos com alguns hieróglifos Avian esculpidos."}, {"op": "replace", "path": "/shortdescription", "value": "Temple Bricks"}]
+[
+  {
+    "op": "replace",
+    "value": "Tijolos pequenos, relativamente antigos com alguns hieróglifos Avian esculpidos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Fascinado. A idade destes tijolos não pode ser determinada com precisão.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gossta de tijoloss velhoss.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esses tijolos já estão ai a um bom tempo.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Temple Bricks",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Melancólico. Esta caldeira vai vazar quando a ferrugem passar."}, {"op": "replace", "path": "/description", "value": "Uma caldeira velha. Um eco de gotejamento vem de dentro."}, {"op": "replace", "path": "/shortdescription", "value": "Wrecked Boiler"}, {"op": "replace", "path": "/floranDescription", "value": "Um velho tanque de caldeira enferrujado."}, {"op": "replace", "path": "/apexDescription", "value": "Um aquecedor de água velho e enferrujado."}, {"op": "replace", "path": "/humanDescription", "value": "A água deixada dentro desta caldeira cheira mal."}, {"op": "replace", "path": "/avianDescription", "value": "Esta caldeira já passou do seu melhor."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um velho tanque de caldeira cheio de água fétida."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma caldeira sem valor e enferrujada."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma caldeira sem valor e enferrujada.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um velho tanque de caldeira cheio de água fétida.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caldeira velha. Um eco de gotejamento vem de dentro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um velho tanque de caldeira enferrujado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um aquecedor de água velho e enferrujado.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Melancólico. Esta caldeira vai vazar quando a ferrugem passar.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A água deixada dentro desta caldeira cheira mal.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta caldeira já passou do seu melhor.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wrecked Boiler",
+    "path": "/shortdescription"
+  }
+]

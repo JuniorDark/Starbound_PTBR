@@ -1,22 +1,32 @@
 [
   {
     "op": "replace",
-    "path": "/title",
-    "value": "^orange;Desenvolvimento de Pulo"
+    "value": "Elliott",
+    "path": "/scriptConfig/portraits/questComplete/title"
   },
   {
     "op": "replace",
-    "path": "/text",
-    "value": "Eu estive trabalhando em uma tecnologia que permite o usuário executar um salto no ar, permitindo alcançar incríveis alturas! Infelizmente, eu preciso de mais alguns componentes antes que eu possa terminar. ^green;Você poderia me trazer ^orange;10 Silver Bars^white;?"
+    "value": "Elliott",
+    "path": "/scriptConfig/portraits/questStarted/title"
   },
   {
     "op": "replace",
-    "path": "/completionText",
-    "value": "Maravilhoso! Com estas adições a ^orange;Tecnologia de Pulo de Pulso^white; está pronta para teste! Venha falar comigo se você gostaria de ajudar."
+    "value": "Fale com ^orange;Elliott^reset; no ^orange;Posto Avançado^reset;",
+    "path": "/scriptConfig/turnInDescription"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/turnInDescription",
-    "value": "Fale com ^orange;Elliott^reset; no ^orange;Posto Avançado^reset;"
+    "value": "Eu estive trabalhando em uma tecnologia que permite o usuário executar um salto no ar, permitindo alcançar incríveis alturas! Infelizmente, eu preciso de mais alguns componentes antes que eu possa terminar. ^green;Você poderia me trazer ^orange;10 Silver Bars^white;?",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "Maravilhoso! Com estas adições a ^orange;Tecnologia de Pulo de Pulso^white; está pronta para teste! Venha falar comigo se você gostaria de ajudar.",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Desenvolvimento de Pulo",
+    "path": "/title"
   }
 ]

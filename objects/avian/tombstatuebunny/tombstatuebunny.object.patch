@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma estátua de um coelho."}, {"op": "replace", "path": "/shortdescription", "value": "Avian Bunny Statue"}, {"op": "replace", "path": "/floranDescription", "value": "Homem-coelho gigante faz lanche sssaboroso."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Creio que o coelho tem um significado na sociedade Avian."}, {"op": "replace", "path": "/apexDescription", "value": "Uma estátua de coelho. O que isso significa?"}, {"op": "replace", "path": "/humanDescription", "value": "Uma estátua de coelho. Isso deve significar algo para os Avians."}, {"op": "replace", "path": "/avianDescription", "value": "Esta estátua marca o túmulo de um destinado a nunca receber asas na vida após a morte. Eles vão saltar como um coelho para toda a eternidade."}, {"op": "replace", "path": "/hylotlDescription", "value": "O coelho é algum tipo de insulto? Isso marca um Avian caído da graça?"}, {"op": "replace", "path": "/novakidDescription", "value": "É uma estátua de um animal. Um coelho para ser preciso."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estátua de coelho. Isso deve significar algo para os Avians.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estátua de coelho. O que isso significa?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estátua de um coelho.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Avian Bunny Statue",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Homem-coelho gigante faz lanche sssaboroso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O coelho é algum tipo de insulto? Isso marca um Avian caído da graça?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma estátua de um animal. Um coelho para ser preciso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Creio que o coelho tem um significado na sociedade Avian.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta estátua marca o túmulo de um destinado a nunca receber asas na vida após a morte. Eles vão saltar como um coelho para toda a eternidade.",
+    "path": "/avianDescription"
+  }
+]

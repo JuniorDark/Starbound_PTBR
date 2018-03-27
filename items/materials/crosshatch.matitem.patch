@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Window Lattice"}, {"op": "replace", "path": "/description", "value": "Uma estrutura simples feita de madeira."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estrutura simples feita de madeira.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de treliça de madeira.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inspirado. Esta treliça funciona bem tanto como uma cerca ou janela.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tiras de madeira finas todas cruzada juntas.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Window Lattice",
+    "path": "/shortdescription"
+  }
+]

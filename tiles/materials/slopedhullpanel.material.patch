@@ -1,22 +1,27 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Painéis baratos e resilientes amplamente utilizados para a construção de naves e estações."
+    "value": "Painéis baratos e resilientes amplamente utilizados para a construção de naves e estações.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Observador. Este é um painel amplamente usado para construção de naves e estações."
+    "value": "Hull Panel",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Metal lissso brilhante do espaço."
+    "value": "Observador. Este é um painel amplamente usado para construção de naves e estações.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Alguns painéis de metal espesso, parece muito sólido."
+    "value": "Metal lissso brilhante do espaço.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns painéis de metal espesso, parece muito sólido.",
+    "path": "/novakidDescription"
   }
 ]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma estante de livros bastante grande, apenas preenchida parcialmente com livros."}, {"op": "replace", "path": "/shortdescription", "value": "Deprived Bookcase"}, {"op": "replace", "path": "/floranDescription", "value": "Livrosss."}, {"op": "replace", "path": "/humanDescription", "value": "Uma estante de livros resistente."}, {"op": "replace", "path": "/avianDescription", "value": "Uma estante antiga."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma grande variedade de poemas e prosa normalmente alinharia essas prateleiras."}, {"op": "replace", "path": "/apexDescription", "value": "Uma estante padrão ornamentada. Muitos livros parecem estar faltando."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma estante de livros, um tanto desprovida de livros."}, {"op": "replace", "path": "/glitchDescription", "value": "Chateado. Existem muitas estantes como essa com livros perdidos."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estante de livros, um tanto desprovida de livros.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estante de livros bastante grande, apenas preenchida parcialmente com livros.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma grande variedade de poemas e prosa normalmente alinharia essas prateleiras.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estante padrão ornamentada. Muitos livros parecem estar faltando.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estante antiga.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Deprived Bookcase",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Chateado. Existem muitas estantes como essa com livros perdidos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estante de livros resistente.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Livrosss.",
+    "path": "/floranDescription"
+  }
+]

@@ -1,1 +1,92 @@
-[{"op":"replace","path":"/1/up/0","value":"Isso é uma piada?"},{"op":"replace","path":"/1/down/0","value":"Adeus mundo cruel"},{"op":"replace","path":"/5/up/0","value":"Eu vou morrer se eu não conseguir mais"},{"op":"replace","path":"/5/down/0","value":"Eu vejo uma luz..."},{"op":"replace","path":"/10/up/0","value":"Mais mais! Eu preciso de mais!"},{"op":"replace","path":"/10/down/0","value":"Eu mal consigo ficar de pé."},{"op":"replace","path":"/15/up/0","value":"Preciso encontrar mais comida!"},{"op":"replace","path":"/15/down/0","value":"Não aguento mais!"},{"op":"replace","path":"/25/up/0","value":"Eu preciso de mais!"},{"op":"replace","path":"/25/down/0","value":"Tãooooo faminto..."},{"op":"replace","path":"/50/up/0","value":"Continuo com fome"},{"op":"replace","path":"/50/down/0","value":"Ficando com muita fome"},{"op":"replace","path":"/75/up/0","value":"Um pouco melhor"},{"op":"replace","path":"/75/down/0","value":"Ficando com fome"},{"op":"replace","path":"/99/up/0","value":"Mmm, Estou cheio!"},{"op":"replace","path":"/99/down/0","value":"Mmm, Estou cheio!"},{"op":"replace","path":"/100/up/0","value":"Mmm, Estou cheio!"},{"op":"replace","path":"/100/down/0","value":"Mmm, Estou cheio!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um pouco melhor",
+    "path": "/75/up/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ficando com fome",
+    "path": "/75/down/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ficando com muita fome",
+    "path": "/50/down/0"
+  },
+  {
+    "op": "replace",
+    "value": "Adeus mundo cruel",
+    "path": "/1/down/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu mal consigo ficar de pé.",
+    "path": "/10/down/0"
+  },
+  {
+    "op": "replace",
+    "value": "Não aguento mais!",
+    "path": "/15/down/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu preciso de mais!",
+    "path": "/25/up/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vejo uma luz...",
+    "path": "/5/down/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vou morrer se eu não conseguir mais",
+    "path": "/5/up/0"
+  },
+  {
+    "op": "replace",
+    "value": "Continuo com fome",
+    "path": "/50/up/0"
+  },
+  {
+    "op": "replace",
+    "value": "Mmm, Estou cheio!",
+    "path": "/100/down/0"
+  },
+  {
+    "op": "replace",
+    "value": "Mmm, Estou cheio!",
+    "path": "/100/up/0"
+  },
+  {
+    "op": "replace",
+    "value": "Mmm, Estou cheio!",
+    "path": "/99/down/0"
+  },
+  {
+    "op": "replace",
+    "value": "Mmm, Estou cheio!",
+    "path": "/99/up/0"
+  },
+  {
+    "op": "replace",
+    "value": "Mais mais! Eu preciso de mais!",
+    "path": "/10/up/0"
+  },
+  {
+    "op": "replace",
+    "value": "Preciso encontrar mais comida!",
+    "path": "/15/up/0"
+  },
+  {
+    "op": "replace",
+    "value": "Tãooooo faminto...",
+    "path": "/25/down/0"
+  },
+  {
+    "op": "replace",
+    "value": "Isso e uma piada?",
+    "path": "/1/up/0"
+  }
+]

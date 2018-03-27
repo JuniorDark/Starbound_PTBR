@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/cannotTeleportText", "value": "NÃO PODE TELEPORTAR:"}]
+[
+  {
+    "op": "replace",
+    "value": "Replace Me",
+    "path": "/gui/messages/children/list/schema/listTemplate/message/value"
+  },
+  {
+    "op": "replace",
+    "value": "NÃO PODE TELEPORTAR:",
+    "path": "/cannotTeleportText"
+  }
+]

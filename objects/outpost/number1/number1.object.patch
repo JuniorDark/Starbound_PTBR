@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Um."}, {"op": "replace", "path": "/avianDescription", "value": "Um."}, {"op": "replace", "path": "/description", "value": "Numero um."}, {"op": "replace", "path": "/shortdescription", "value": "One"}, {"op": "replace", "path": "/humanDescription", "value": "Um."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um."}, {"op": "replace", "path": "/floranDescription", "value": "Um."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Um."}, {"op": "replace", "path": "/novakidDescription", "value": "Um."}]
+[
+  {
+    "op": "replace",
+    "value": "Um.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Um.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "One",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Numero um.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um.",
+    "path": "/floranDescription"
+  }
+]

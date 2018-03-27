@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma pequena mesa danificada."}, {"op": "replace", "path": "/apexDescription", "value": "Uma pequena mesa danificada."}, {"op": "replace", "path": "/shortdescription", "value": "Small Wrecked Table"}, {"op": "replace", "path": "/floranDescription", "value": "Mesa velha está em condições precárias."}, {"op": "replace", "path": "/glitchDescription", "value": "Enojado. Esta velha mesa está em um estado horrendo."}, {"op": "replace", "path": "/humanDescription", "value": "Esta mesa é um pedaço de lixo."}, {"op": "replace", "path": "/avianDescription", "value": "Uma mesa antiga. Está em muito mau estado."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta mesa é velha, quebrada e irrecuperável."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta mesa está em péssimo estado."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma mesa antiga. Está em muito mau estado.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Enojado. Esta velha mesa está em um estado horrendo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mesa velha está em condições precárias.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa é um pedaço de lixo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa é velha, quebrada e irrecuperável.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa está em péssimo estado.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pequena mesa danificada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pequena mesa danificada.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Small Wrecked Table",
+    "path": "/shortdescription"
+  }
+]

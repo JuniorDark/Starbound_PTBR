@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Imaginação é a chave para o verdadeiro poder!"}, {"op": "replace", "path": "/shortdescription", "value": "Cardboard Box Armor"}]
+[
+  {
+    "op": "replace",
+    "value": "Cardboard Box Armor",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Imaginação é a chave para o verdadeiro poder!",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Acho que... o propósito disto é lembrar-nos de toda a vida após a morte?"}, {"op": "replace", "path": "/novakidDescription", "value": "Eu diria que esta cadeira é de mau gosto, eu mesmo."}, {"op": "replace", "path": "/description", "value": "Descanse em paz com esta cadeira ornamental acolchoada."}, {"op": "replace", "path": "/shortdescription", "value": "Spooky Tomb Chair"}, {"op": "replace", "path": "/glitchDescription", "value": "Alarmado. Por que você faria móveis assim?"}, {"op": "replace", "path": "/apexDescription", "value": "Esta cadeira deveria ter sido feita para ser mais confortável. Quero dizer, olhe para isso!"}, {"op": "replace", "path": "/humanDescription", "value": "Não posso dizer se esta é uma cadeira de bom gosto ou não."}, {"op": "replace", "path": "/hylotlDescription", "value": "Isto é algum tipo de cadeira de lápide? Que bárbaro."}, {"op": "replace", "path": "/floranDescription", "value": "Floran quer ssse esconder atrás de cadeira de pedra."}]
+[
+  {
+    "op": "replace",
+    "value": "Alarmado. Por que você faria móveis assim?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran quer ssse esconder atrás de cadeira de pedra.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não posso dizer se esta é uma cadeira de bom gosto ou não.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Acho que... o propósito disto é lembrar-nos de toda a vida após a morte?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu diria que esta cadeira é de mau gosto, eu mesmo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto é algum tipo de cadeira de lápide? Que bárbaro.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Descanse em paz com esta cadeira ornamental acolchoada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Spooky Tomb Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cadeira deveria ter sido feita para ser mais confortável. Quero dizer, olhe para isso!",
+    "path": "/apexDescription"
+  }
+]

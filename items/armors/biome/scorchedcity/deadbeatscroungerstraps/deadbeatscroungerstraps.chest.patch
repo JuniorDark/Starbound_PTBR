@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Cintas de couro freqüentemente usadas por catadores de terreno baldio."}, {"op": "replace", "path": "/shortdescription", "value": "Deadbeat Scrounger Straps"}]
+[
+  {
+    "op": "replace",
+    "value": "Deadbeat Scrounger Straps",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cintas de couro freqüentemente usadas por catadores de terreno baldio.",
+    "path": "/description"
+  }
+]

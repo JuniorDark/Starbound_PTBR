@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/completeSetDescriptions/shortdescription", "value": "T-Rex Fossil"}, {"op": "replace", "path": "/completeSetDescriptions/description", "value": "Um dinossauro uma vez nativo da Terra, espalhado através das estrelas por cientistas ansiosos demais."}, {"op": "replace", "path": "/description", "value": "Um crânio de T-Rex fossilizado."}, {"op": "replace", "path": "/shortdescription", "value": "T-Rex Skull"}]
+[
+  {
+    "op": "replace",
+    "value": "Um dinossauro uma vez nativo da Terra, espalhado através das estrelas por cientistas ansiosos demais.",
+    "path": "/completeSetDescriptions/description"
+  },
+  {
+    "op": "replace",
+    "value": "T-Rex Fossil",
+    "path": "/completeSetDescriptions/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um crânio de T-Rex fossilizado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "T-Rex Skull",
+    "path": "/shortdescription"
+  }
+]

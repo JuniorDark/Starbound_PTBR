@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Telhado coberto de grama, algo agradável sobre a simplicidade dele."}, {"op": "replace", "path": "/shortdescription", "value": "Sod Block"}, {"op": "replace", "path": "/description", "value": "Um bloco de telhado com grama crescendo nele."}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de telhadoss com grama."}, {"op": "replace", "path": "/glitchDescription", "value": "Encantado. Parece este telhado tem grama viva."}]
+[
+  {
+    "op": "replace",
+    "value": "Um bloco de telhado com grama crescendo nele.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Parece este telhado tem grama viva.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de telhadoss com grama.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Telhado coberto de grama, algo agradável sobre a simplicidade dele.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sod Block",
+    "path": "/shortdescription"
+  }
+]

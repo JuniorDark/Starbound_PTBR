@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Estas calças são surpreendentemente duráveis, considerando quão confortáveis elas são."}, {"op": "replace", "path": "/shortdescription", "value": "Voyager's Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Estas calças são surpreendentemente duráveis, considerando quão confortáveis elas são.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Voyager's Trousers",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Vanguard's Helm"}, {"op": "replace", "path": "/description", "value": "Este capacete de aegisalt é leve e durável... Além disso, quem não fica bem em verde?"}]
+[
+  {
+    "op": "replace",
+    "value": "Este capacete de aegisalt é leve e durável... Além disso, quem não fica bem em verde?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Vanguard's Helm",
+    "path": "/shortdescription"
+  }
+]

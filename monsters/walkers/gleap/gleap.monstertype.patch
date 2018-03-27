@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Ele é feito de uma substância esponjosa."}, {"op": "replace", "path": "/shortdescription", "value": "Gleap"}]
+[
+  {
+    "op": "replace",
+    "value": "Gleap",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ele é feito de uma substância esponjosa.",
+    "path": "/description"
+  }
+]

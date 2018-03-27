@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Frontliner's Greaves"}, {"op": "replace", "path": "/description", "value": "Sapatos extremamente assustadores."}]
+[
+  {
+    "op": "replace",
+    "value": "Frontliner's Greaves",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sapatos extremamente assustadores.",
+    "path": "/description"
+  }
+]

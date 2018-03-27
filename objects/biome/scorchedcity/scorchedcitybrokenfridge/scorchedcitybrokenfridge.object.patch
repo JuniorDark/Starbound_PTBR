@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Decepcionado. Esta geladeira já foi um dispositivo tão útil."}, {"op": "replace", "path": "/description", "value": "Uma geladeira quebrada."}, {"op": "replace", "path": "/shortdescription", "value": "Rusty Stylish Fridge"}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma geladeira estragada."}, {"op": "replace", "path": "/novakidDescription", "value": "Agora é só um pedaço de lixo."}, {"op": "replace", "path": "/floranDescription", "value": "Quebrada e vazia."}, {"op": "replace", "path": "/apexDescription", "value": "Quebrada e enferrujada além do reparo."}, {"op": "replace", "path": "/humanDescription", "value": "Nada mais para ninguém"}, {"op": "replace", "path": "/avianDescription", "value": "Esta geladeira é inútil agora."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma geladeira quebrada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma geladeira estragada.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quebrada e vazia.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quebrada e enferrujada além do reparo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Decepcionado. Esta geladeira já foi um dispositivo tão útil.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nada mais para ninguém",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Agora é só um pedaço de lixo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rusty Stylish Fridge",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta geladeira é inútil agora.",
+    "path": "/avianDescription"
+  }
+]

@@ -1,1 +1,32 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/attack/avian/default/1", "value": "Raiders rivais - leve-os para fora!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/avian/default/2", "value": "Você não consegue ver que estamos ocupados aqui?!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/avian/default/4", "value": "Este lugar é NOSSO pra pegar leve!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/0", "value": "Ataque!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/avian/default/0", "value": "Saia daqui!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/avian/default/3", "value": "Nós vamos enterrá-lo aqui!"}]
+[
+  {
+    "op": "replace",
+    "value": "Atacar!",
+    "path": "/scriptConfig/dialog/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você não consegue ver que estamos ocupados aqui?!",
+    "path": "/scriptConfig/dialog/attack/avian/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Saia daqui!",
+    "path": "/scriptConfig/dialog/attack/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Raiders rivais - leve-os para fora!",
+    "path": "/scriptConfig/dialog/attack/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este lugar é NOSSO pra pegar leve!",
+    "path": "/scriptConfig/dialog/attack/avian/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Nós vamos enterrá-lo aqui!",
+    "path": "/scriptConfig/dialog/attack/avian/default/3"
+  }
+]

@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Ship Repair Kit"}, {"op": "replace", "path": "/description", "value": "Não é muito, mas isso vai ajudá-lo a obter a sua nave de volta em forma de nave."}, {"op": "replace", "path": "/unlockMessage", "value": "Ótimo! Embora ainda haja algum trabalho a ser feito no motor FTL, você deve ser capaz de pelo menos chegar a outro planeta no sistema solar agora."}]
+[
+  {
+    "op": "replace",
+    "value": "Ótimo! Embora ainda haja algum trabalho a ser feito no motor FTL, você deve ser capaz de pelo menos chegar a outro planeta no sistema solar agora.",
+    "path": "/unlockMessage"
+  },
+  {
+    "op": "replace",
+    "value": "Não é muito, mas isso vai ajudá-lo a obter a sua nave de volta em forma de nave.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ship Repair Kit",
+    "path": "/shortdescription"
+  }
+]

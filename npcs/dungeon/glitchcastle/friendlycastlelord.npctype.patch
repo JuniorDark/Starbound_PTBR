@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/attack/glitch/0", "value": "Aterrorizado. Guardas! Venham!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/glitch/1", "value": "Com Medo. Um bandido! Guardas!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/glitch/2", "value": "Petrificado. Eu sou muito jovem para morrer!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/glitch/3", "value": "Assustado. Guardas! Guardas, socorro!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/glitch/4", "value": "Desafiador. Guardas, corte esse canalha em pedaços!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/glitch/5", "value": "Desdenhosa. Eu acabaria com você, mas eu tenho guardas para isso."}, {"op": "replace", "path": "/scriptConfig/dialog/attack/glitch/6", "value": "Furioso. Você vai lamentar o dia em que você invadiu este lugar, trapaceiro!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/glitch/7", "value": "Agressivo. Você vai deixar este lugar... em pedaços!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/0", "value": "Aterrorizado. Guardas! Venham!"}]
+[
+  {
+    "op": "replace",
+    "value": "Com Medo. Um bandido! Guardas!",
+    "path": "/scriptConfig/dialog/attack/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Agressivo. Você vai deixar este lugar... em pedaços!",
+    "path": "/scriptConfig/dialog/attack/glitch/7"
+  },
+  {
+    "op": "replace",
+    "value": "Desafiador. Guardas, corte esse canalha em pedaços!",
+    "path": "/scriptConfig/dialog/attack/glitch/4"
+  },
+  {
+    "op": "replace",
+    "value": "Assustado. Guardas! Guardas, socorro!",
+    "path": "/scriptConfig/dialog/attack/glitch/3"
+  },
+  {
+    "op": "replace",
+    "value": "Furioso. Você vai lamentar o dia em que você invadiu este lugar, trapaceiro!",
+    "path": "/scriptConfig/dialog/attack/glitch/6"
+  },
+  {
+    "op": "replace",
+    "value": "Petrificado. Eu sou muito jovem para morrer!",
+    "path": "/scriptConfig/dialog/attack/glitch/2"
+  },
+  {
+    "op": "replace",
+    "value": "Desdenhosa. Eu acabaria com você, mas eu tenho guardas para isso.",
+    "path": "/scriptConfig/dialog/attack/glitch/5"
+  },
+  {
+    "op": "replace",
+    "value": "Aterrorizado. Guardas! Venham!",
+    "path": "/scriptConfig/dialog/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aterrorizado. Guardas! Venham!",
+    "path": "/scriptConfig/dialog/attack/glitch/0"
+  }
+]

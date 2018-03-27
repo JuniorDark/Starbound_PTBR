@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma televisão! Eu acho que isso não funciona a um bom tempo."}, {"op": "replace", "path": "/shortdescription", "value": "Old Television"}, {"op": "replace", "path": "/floranDescription", "value": "Imagens piscantess em movimento."}, {"op": "replace", "path": "/apexDescription", "value": "Um aparelho de televisão. Eu continuo esperando ver o rosto de Big Ape."}, {"op": "replace", "path": "/hylotlDescription", "value": "Enquanto a tecnologia é impressionante, muitos programas de televisão são desprovidos de mérito artístico."}, {"op": "replace", "path": "/glitchDescription", "value": "Apreciativo. A televisão é verdadeiramente a exportação mais valiosa da humanidade."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma boa e velha televisão. Eu gosto de assistir filmes de faroeste."}, {"op": "replace", "path": "/avianDescription", "value": "Um monitor, para assistir programas antigos."}, {"op": "replace", "path": "/humanDescription", "value": "Nada melhor do que relaxar no sofá assistindo desenhos animados de sábado de manhã."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma boa e velha televisão. Eu gosto de assistir filmes de faroeste.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um monitor, para assistir programas antigos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um aparelho de televisão. Eu continuo esperando ver o rosto de Big Ape.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma televisão! Eu acho que isso não funciona a um bom tempo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Apreciativo. A televisão é verdadeiramente a exportação mais valiosa da humanidade.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Imagens piscantess em movimento.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nada melhor do que relaxar no sofá assistindo desenhos animados de sábado de manhã.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Old Television",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Enquanto a tecnologia é impressionante, muitos programas de televisão são desprovidos de mérito artístico.",
+    "path": "/hylotlDescription"
+  }
+]

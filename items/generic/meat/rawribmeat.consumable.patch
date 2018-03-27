@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Corte de carne crua de algumas costelas de criaturas desafortunadas. Parece saborosa, mas isto deve ser cozido."}, {"op": "replace", "path": "/shortdescription", "value": "Raw Ribs"}]
+[
+  {
+    "op": "replace",
+    "value": "Raw Ribs",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Corte de carne crua de algumas costelas de criaturas desafortunadas. Parece saborosa, mas isto deve ser cozido.",
+    "path": "/description"
+  }
+]

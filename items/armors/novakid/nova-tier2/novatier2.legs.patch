@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Faça a fuga perfeita nestas calças de bandido."}, {"op": "replace", "path": "/shortdescription", "value": "Bandit Chaps"}]
+[
+  {
+    "op": "replace",
+    "value": "Bandit Chaps",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Faça a fuga perfeita nestas calças de bandido.",
+    "path": "/description"
+  }
+]

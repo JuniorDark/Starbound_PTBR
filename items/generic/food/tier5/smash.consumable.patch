@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um famoso chef Glitch tentou imitar purê de batatas. Ele conseguiu. Meio que."}, {"op": "replace", "path": "/shortdescription", "value": "Zmash"}]
+[
+  {
+    "op": "replace",
+    "value": "Um famoso chef Glitch tentou imitar purê de batatas. Ele conseguiu. Meio que.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Zmash",
+    "path": "/shortdescription"
+  }
+]

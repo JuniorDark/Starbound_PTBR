@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Confuso. Este mapa não é muito preciso."}, {"op": "replace", "path": "/hylotlDescription", "value": "O foco dos Hylotl em mapear os oceanos em vez da terra."}, {"op": "replace", "path": "/description", "value": "Um mapa de um mundo desconhecido."}, {"op": "replace", "path": "/shortdescription", "value": "Medieval Map"}, {"op": "replace", "path": "/floranDescription", "value": "Mapa antigo! Vamos caçar!"}, {"op": "replace", "path": "/humanDescription", "value": "Os sensores da minha nave sugerem que este mapa está todo errado."}, {"op": "replace", "path": "/avianDescription", "value": "Um mapa antigo impreciso. Não leva a lugar algum."}, {"op": "replace", "path": "/novakidDescription", "value": "Um mapa. Aqui está a esperança que leva ao tesouro!"}, {"op": "replace", "path": "/apexDescription", "value": "Um mapa antigo. As varreduras da minha nave sugere que não é preciso."}]
+[
+  {
+    "op": "replace",
+    "value": "Um mapa de um mundo desconhecido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um mapa. Aqui está a esperança que leva ao tesouro!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um mapa antigo impreciso. Não leva a lugar algum.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um mapa antigo. As varreduras da minha nave sugere que não é preciso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Este mapa não é muito preciso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Medieval Map",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os sensores da minha nave sugerem que este mapa está todo errado.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mapa antigo! Vamos caçar!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O foco dos Hylotl em mapear os oceanos em vez da terra.",
+    "path": "/hylotlDescription"
+  }
+]

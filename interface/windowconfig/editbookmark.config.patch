@@ -1,1 +1,32 @@
-[{"op":"replace","path":"/paneLayout/ok/caption","value":"Aceitar"},{"op":"replace","path":"/paneLayout/remove/caption","value":"Deletar"},{"op":"replace","path":"/paneLayout/close/caption","value":"Cancelar"},{"op":"replace","path":"/paneLayout/lblTitle/value","value":"Novo Favorito"},{"op":"replace","path":"/paneLayout/name/hint","value":"Insira o nome do favorito"},{"op":"replace","path":"/paneLayout/name/regex","value":"[a-zA-ZÀ-ɏ0-9 '-?!.]{0,28}"}]
+[
+  {
+    "op": "replace",
+    "value": "Cancelar",
+    "path": "/paneLayout/close/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Aceitar",
+    "path": "/paneLayout/ok/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Deletar",
+    "path": "/paneLayout/remove/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Insira o nome do favorito",
+    "path": "/paneLayout/name/hint"
+  },
+  {
+    "op": "replace",
+    "value": "Novo Favorito",
+    "path": "/paneLayout/lblTitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "[a-zA-ZÀ-ɏ0-9 '-?!.]{0,28}",
+    "path": "/paneLayout/name/regex"
+  }
+]

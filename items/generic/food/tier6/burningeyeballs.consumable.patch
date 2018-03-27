@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Cuidado, eles são super picantes!"}, {"op": "replace", "path": "/shortdescription", "value": "Burning Eyeballs"}]
+[
+  {
+    "op": "replace",
+    "value": "Burning Eyeballs",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cuidado, eles são super picantes!",
+    "path": "/description"
+  }
+]

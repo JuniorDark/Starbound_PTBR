@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Divertido. Apesar da placa de aviso, esta caixa contem realmente uma coleção de meias impares."}, {"op": "replace", "path": "/floranDescription", "value": "Caixa de metal perigosa? Não pode ser mais perigosa do que Floran!"}, {"op": "replace", "path": "/apexDescription", "value": "Um armário de metal. Um cheiro estranho emana de dentro."}, {"op": "replace", "path": "/humanDescription", "value": "Um cheiro vil sai de debaixo da tampa. Me lembra de minha adolescência."}, {"op": "replace", "path": "/avianDescription", "value": "O conteúdo parece perigoso. Tóxico ou explosivo, talvez."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um recipiente perigoso. Aparentemente, os humanos frequentemente descartavam tais coisas em seus oceanos."}, {"op": "replace", "path": "/novakidDescription", "value": "Um recipiente com listras de advertência. Eu não vou abri-lo."}, {"op": "replace", "path": "/description", "value": "Parece que está cheia de materiais perigosos."}, {"op": "replace", "path": "/shortdescription", "value": "Metal Cabinet"}]
+[
+  {
+    "op": "replace",
+    "value": "Um recipiente com listras de advertência. Eu não vou abri-lo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um recipiente perigoso. Aparentemente, os humanos frequentemente descartavam tais coisas em seus oceanos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário de metal. Um cheiro estranho emana de dentro.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um cheiro vil sai de debaixo da tampa. Me lembra de minha adolescência.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Divertido. Apesar da placa de aviso, esta caixa contem realmente uma coleção de meias impares.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Caixa de metal perigosa? Não pode ser mais perigosa do que Floran!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que está cheia de materiais perigosos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "O conteúdo parece perigoso. Tóxico ou explosivo, talvez.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Metal Cabinet",
+    "path": "/shortdescription"
+  }
+]

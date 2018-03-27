@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Countdown Timer"}, {"op": "replace", "path": "/description", "value": "Um temporizador que permanece ativo por um período definido."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Um temporizador que permanece ativo por um período definido."}, {"op": "replace", "path": "/floranDescription", "value": "Um temporizador que permanece ativo por um período definido."}]
+[
+  {
+    "op": "replace",
+    "value": "Um temporizador que permanece ativo por um período definido.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um temporizador que permanece ativo por um período definido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Countdown Timer",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Um temporizador que permanece ativo por um período definido.",
+    "path": "/glitchDescription"
+  }
+]

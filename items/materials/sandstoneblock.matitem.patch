@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Sandstone Bricks"}, {"op": "replace", "path": "/description", "value": "Tijolos feitos de arenito suavizado."}]
+[
+  {
+    "op": "replace",
+    "value": "Tijolos feitos de arenito suavizado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Perceptivo. Estes tijolos são feitos de um arenito forte.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sandstone Bricks",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns tijolos feitos de arenito.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijoloss de arenito resistentess.",
+    "path": "/florandescription"
+  }
+]

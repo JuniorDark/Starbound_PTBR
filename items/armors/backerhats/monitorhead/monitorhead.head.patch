@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Monitor Helm"}, {"op": "replace", "path": "/description", "value": "É um capacete reaproveitado de um desses antigos monitores de computador."}]
+[
+  {
+    "op": "replace",
+    "value": "É um capacete reaproveitado de um desses antigos monitores de computador.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Monitor Helm",
+    "path": "/shortdescription"
+  }
+]

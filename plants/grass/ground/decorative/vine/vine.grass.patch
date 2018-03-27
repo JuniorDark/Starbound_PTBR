@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Afirmação. Uma vinha."}, {"op": "replace", "path": "/description", "value": "Uma vinha."}, {"op": "replace", "path": "/shortdescription", "value": "Uma vinha."}, {"op": "replace", "path": "/floranDescription", "value": "Vinha."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma vinha.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma vinha.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Afirmação. Uma vinha.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vinha.",
+    "path": "/floranDescription"
+  }
+]

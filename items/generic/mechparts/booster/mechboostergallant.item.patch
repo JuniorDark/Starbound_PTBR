@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um conjunto de propulsores mecânicos lisos construídos com circuitos intrincados para alto desempenho."
+    "value": "Um conjunto de propulsores de mecha lisos construídos com circuitos complexos para alto desempenho.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Gallant Mech Boosters",
+    "path": "/shortdescription"
   }
 ]

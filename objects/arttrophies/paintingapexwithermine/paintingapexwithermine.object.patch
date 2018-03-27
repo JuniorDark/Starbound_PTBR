@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma pintura tranquila de um Apex com um animal de estimação."}, {"op": "replace", "path": "/shortdescription", "value": "Pet Painting"}, {"op": "replace", "path": "/floranDescription", "value": "Um lanche peludo! Floran quer arrancá-lo da pintura!"}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Este animal deve ter permanecido quieto por algum tempo para esta pintura."}, {"op": "replace", "path": "/apexDescription", "value": "Os Apex com certeza amam suas doninhas. Eles têm muito mais caráter do que gatos!"}, {"op": "replace", "path": "/avianDescription", "value": "Esta figura esta adorando este animal? Ou será que eles simplesmente possuí-lo?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta figura é um com a natureza, ou pelo menos, um com este animal."}, {"op": "replace", "path": "/humanDescription", "value": "Isso é um arminho, ou uma doninha?"}, {"op": "replace", "path": "/novakidDescription", "value": "Esse é um animal de estimação engraçado para segurar se para uma pintura."}]
+[
+  {
+    "op": "replace",
+    "value": "Um lanche peludo! Floran quer arrancá-lo da pintura!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pintura tranquila de um Apex com um animal de estimação.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Este animal deve ter permanecido quieto por algum tempo para esta pintura.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é um arminho, ou uma doninha?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta figura esta adorando este animal? Ou será que eles simplesmente possuí-lo?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pet Painting",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse é um animal de estimação engraçado para segurar se para uma pintura.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Apex com certeza amam suas doninhas. Eles têm muito mais caráter do que gatos!",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta figura é um com a natureza, ou pelo menos, um com este animal.",
+    "path": "/hylotlDescription"
+  }
+]

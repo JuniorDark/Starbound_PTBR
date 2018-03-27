@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Para quando você quer deixar para depois."}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Games Console"}, {"op": "replace", "path": "/floranDescription", "value": "Jogosss de tiro são os favoritos de Floran!"}, {"op": "replace", "path": "/glitchDescription", "value": "Animado. Meu console de jogos! Eu tento não deixar isso me distrair durante a temporada de exames."}, {"op": "replace", "path": "/apexDescription", "value": "Às vezes eu ligo e jogo alguns jogos com meus companheiros de quarto."}, {"op": "replace", "path": "/humanDescription", "value": "Cara... Eu gostaria de poder jogar alguns jogos agora."}, {"op": "replace", "path": "/hylotlDescription", "value": "Não posso me distrair com jogos agora."}, {"op": "replace", "path": "/novakidDescription", "value": "Trabalhe duro, jogue duro. É o que fazemos por aqui."}, {"op": "replace", "path": "/avianDescription", "value": "Ah, meu antigo console de jogos. Eu tenho me concentrado em meus estudos, então parece um pouco empoeirado..."}]
+[
+  {
+    "op": "replace",
+    "value": "Ah, meu antigo console de jogos. Eu tenho me concentrado em meus estudos, então parece um pouco empoeirado...",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. Meu console de jogos! Eu tento não deixar isso me distrair durante a temporada de exames.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para quando você quer deixar para depois.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Não posso me distrair com jogos agora.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cara... Eu gostaria de poder jogar alguns jogos agora.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Games Console",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Jogosss de tiro são os favoritos de Floran!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Às vezes eu ligo e jogo alguns jogos com meus companheiros de quarto.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Trabalhe duro, jogue duro. É o que fazemos por aqui.",
+    "path": "/novakidDescription"
+  }
+]

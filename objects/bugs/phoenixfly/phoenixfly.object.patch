@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Phoenixfly"}, {"op": "replace", "path": "/description", "value": "Este inseto esfrega suas pernas juntas para produzir pequenas faíscas."}]
+[
+  {
+    "op": "replace",
+    "value": "Phoenixfly",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este inseto esfrega suas pernas juntas para produzir pequenas faíscas.",
+    "path": "/description"
+  }
+]

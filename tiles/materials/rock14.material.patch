@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Granite Block"}, {"op": "replace", "path": "/novakidDescription", "value": "Parece-me um pouco de granito básico."}, {"op": "replace", "path": "/description", "value": "Tijolos de granito natural empilhados."}, {"op": "replace", "path": "/floranDescription", "value": "Floran gossssta de muito granito."}, {"op": "replace", "path": "/glitchDescription", "value": "Interessado. Mineração deste granito só irá produzir paralelepípedos."}]
+[
+  {
+    "op": "replace",
+    "value": "Floran gossssta de muito granito.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Mineração deste granito só irá produzir paralelepípedos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece-me um pouco de granito básico.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijolos de granito natural empilhados.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Granite Block",
+    "path": "/shortdescription"
+  }
+]

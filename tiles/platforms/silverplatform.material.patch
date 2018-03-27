@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Uma plataforma polida feita a partir de prata pura."}, {"op": "replace", "path": "/floranDescription", "value": "Plataformass feitass de prata."}, {"op": "replace", "path": "/glitchDescription", "value": "Sastifeito. Eu posso ver meu reflexo nessas plataformas."}, {"op": "replace", "path": "/novakidDescription", "value": "Vou considerar que esta plataforma vale o seu peso em prata."}, {"op": "replace", "path": "/shortdescription", "value": "Silver Platform"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma plataforma polida feita a partir de prata pura.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Sastifeito. Eu posso ver meu reflexo nessas plataformas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vou considerar que esta plataforma vale o seu peso em prata.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plataformass feitass de prata.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Silver Platform",
+    "path": "/shortdescription"
+  }
+]

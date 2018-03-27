@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um desperdício de células cerebrais."}, {"op": "replace", "path": "/shortdescription", "value": "Inferior Brain"}]
+[
+  {
+    "op": "replace",
+    "value": "Um desperdício de células cerebrais.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Inferior Brain",
+    "path": "/shortdescription"
+  }
+]

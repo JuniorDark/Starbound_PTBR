@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Woah, há girinos nadando dentro desta bola. A tentação de esmagar isso é esmagadora."}, {"op": "replace", "path": "/description", "value": "É algum tipo de ornamento de chão. Girinos giram dentro."}, {"op": "replace", "path": "/floranDescription", "value": "Floran pode ver pequenos bebes sapos nadando dentro da esfera. Floran pode comer?"}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Parece ser um esfera com girinos de sapo vivo."}, {"op": "replace", "path": "/avianDescription", "value": "Há girinos de sapo flutuando por dentro dessa coisa. Quem gostaria disso em exibição?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Posso ver os preciosos girinos nadando por dentro. Uma celebração da vida Hylotl."}, {"op": "replace", "path": "/novakidDescription", "value": "São girinos nadando dentro da esfera?"}, {"op": "replace", "path": "/apexDescription", "value": "Há girinos dentro disso. Isso é meio nojento."}, {"op": "replace", "path": "/shortdescription", "value": "Floor Ornament"}]
+[
+  {
+    "op": "replace",
+    "value": "São girinos nadando dentro da esfera?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Parece ser um esfera com girinos de sapo vivo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floor Ornament",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran pode ver pequenos bebes sapos nadando dentro da esfera. Floran pode comer?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso ver os preciosos girinos nadando por dentro. Uma celebração da vida Hylotl.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É algum tipo de ornamento de chão. Girinos giram dentro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Há girinos de sapo flutuando por dentro dessa coisa. Quem gostaria disso em exibição?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há girinos dentro disso. Isso é meio nojento.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Woah, há girinos nadando dentro desta bola. A tentação de esmagar isso é esmagadora.",
+    "path": "/humanDescription"
+  }
+]

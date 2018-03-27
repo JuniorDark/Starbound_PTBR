@@ -1,1 +1,37 @@
-[{"op": "replace", "path": "/gui/say/value", "value": "Falar:"}, {"op": "replace", "path": "/gui/filterGroup/buttons/3/text", "value": "GRUPO"}, {"op": "replace", "path": "/gui/filterGroup/buttons/4/text", "value": "LOCAL"}, {"op": "replace", "path": "/gui/filterGroup/buttons/0/text", "value": "TODOS"}, {"op": "replace", "path": "/gui/filterGroup/buttons/1/text", "value": "JOGADOR"}, {"op": "replace", "path": "/gui/filterGroup/buttons/2/text", "value": "REGISTRO"}]
+[
+  {
+    "op": "replace",
+    "value": "JOGADOR",
+    "path": "/gui/filterGroup/buttons/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "TODOS",
+    "path": "/gui/filterGroup/buttons/0/text"
+  },
+  {
+    "op": "replace",
+    "value": "LOCAL",
+    "path": "/gui/filterGroup/buttons/4/text"
+  },
+  {
+    "op": "replace",
+    "value": "REGISTRO",
+    "path": "/gui/filterGroup/buttons/2/text"
+  },
+  {
+    "op": "replace",
+    "value": "GRUPO",
+    "path": "/gui/filterGroup/buttons/3/text"
+  },
+  {
+    "op": "replace",
+    "value": "Falar:",
+    "path": "/gui/say/value"
+  },
+  {
+    "op": "replace",
+    "value": "^shadow,cyan;",
+    "path": "/config/colors/radioMessage"
+  }
+]

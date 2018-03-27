@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um vaso decorativo. Parece bem quebrável."}, {"op": "replace", "path": "/shortdescription", "value": "Classic Vase"}, {"op": "replace", "path": "/glitchDescription", "value": "Destrutivo. Eu acredito que pode haver algo dentro."}, {"op": "replace", "path": "/apexDescription", "value": "Eu acho que ouço algo dentro."}, {"op": "replace", "path": "/humanDescription", "value": "Eu sempre quis esmagar um desses."}, {"op": "replace", "path": "/hylotlDescription", "value": "É uma pena destruir uma peça tão preciosa."}, {"op": "replace", "path": "/floranDescription", "value": "Esmagá-lo e arrancar suas entranhas!"}, {"op": "replace", "path": "/avianDescription", "value": "Avians geralmente armazenam bugigangas em vasos. Talvez outros façam o mesmo."}, {"op": "replace", "path": "/novakidDescription", "value": "Potes são apenas potes para mim, velhos ou novos."}]
+[
+  {
+    "op": "replace",
+    "value": "Um vaso decorativo. Parece bem quebrável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Avians geralmente armazenam bugigangas em vasos. Talvez outros façam o mesmo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Destrutivo. Eu acredito que pode haver algo dentro.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu acho que ouço algo dentro.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sempre quis esmagar um desses.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma pena destruir uma peça tão preciosa.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Potes são apenas potes para mim, velhos ou novos.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esmagá-lo e arrancar suas entranhas!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Classic Vase",
+    "path": "/shortdescription"
+  }
+]

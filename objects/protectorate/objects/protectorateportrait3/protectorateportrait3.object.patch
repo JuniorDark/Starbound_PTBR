@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Este é o primeiro retrato que não é humano. Já é alguma coisa."}, {"op": "replace", "path": "/hylotlDescription", "value": "Que inspirador! O único Hylotl que se tornou Grande Protetor até agora."}, {"op": "replace", "path": "/description", "value": "Um retrato de um antigo Grande Protetor."}, {"op": "replace", "path": "/shortdescription", "value": "Grand Protector Portrait"}, {"op": "replace", "path": "/floranDescription", "value": "Pesssoa peixe parece presa na pintura. Floran não pode tirá-la."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Deve ter sido difícil ser um Grande Protetor Hylotl naquela época."}, {"op": "replace", "path": "/apexDescription", "value": "Este Grande Protetor foi o primeiro não-humano a preencher o papel."}, {"op": "replace", "path": "/humanDescription", "value": "O primeiro Grande Protetor não humano. Tenho certeza que eles devem ter sido muito sábios."}, {"op": "replace", "path": "/avianDescription", "value": "Este Hylotl se tornou o Grande Protetor apesar de não ser humano. Que adorável!"}]
+[
+  {
+    "op": "replace",
+    "value": "Pesssoa peixe parece presa na pintura. Floran não pode tirá-la.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que inspirador! O único Hylotl que se tornou Grande Protetor até agora.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Deve ter sido difícil ser um Grande Protetor Hylotl naquela época.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O primeiro Grande Protetor não humano. Tenho certeza que eles devem ter sido muito sábios.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este Grande Protetor foi o primeiro não-humano a preencher o papel.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este Hylotl se tornou o Grande Protetor apesar de não ser humano. Que adorável!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este é o primeiro retrato que não é humano. Já é alguma coisa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um retrato de um antigo Grande Protetor.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Grand Protector Portrait",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um guardião de pedra do templo, animado com tecnologia antiga."}, {"op": "replace", "path": "/shortdescription", "value": "Kluex Sentry"}]
+[
+  {
+    "op": "replace",
+    "value": "Um guardião de pedra do templo, animado com tecnologia antiga.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex Sentry",
+    "path": "/shortdescription"
+  }
+]

@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um armário metálico moderno com suportes de montagem no chão."
+    "value": "Um armário, bom o suficiente para esconder tudo o que ocê precisa.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Deve haver um motivo pelo qual esses armários são moldados dessa forma."
+    "value": "Um armário metálico moderno com suportes de montagem no chão.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Este armário é um pouco sofisticado para para o meu gosto, mas eu gosto."
+    "value": "Astro Cabinet",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Armários podem conter todo tipo de coisasss."
+    "value": "Armários podem conter todo tipo de coisasss.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Impressionado. Este pequeno armário possui uma capacidade de armazenamento generosa."
+    "value": "Sou um fã da forma como este armário foi projetado.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Este armário me faz lembrar de algo. Não consigo colocar o dedo sobre ele."
+    "value": "Impressionado. Este pequeno armário possui uma capacidade de armazenamento generosa.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Sou um fã da forma como este armário foi projetado."
+    "value": "Deve haver um motivo pelo qual esses armários são moldados dessa forma.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Um armário, bom o suficiente para esconder tudo o que ocê precisa."
+    "value": "Este armário é um pouco sofisticado para para o meu gosto, mas eu gosto.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este armário me faz lembrar de algo. Não consigo colocar o dedo sobre ele.",
+    "path": "/humanDescription"
   }
 ]

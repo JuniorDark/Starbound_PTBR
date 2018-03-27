@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um projeto para uma simples peça de mecha."
+    "value": "Um projeto para uma peça de mecha simples.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Simple Mech Blueprint",
+    "path": "/shortdescription"
   }
 ]

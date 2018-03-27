@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um busto de um Apex importante."}, {"op": "replace", "path": "/shortdescription", "value": " Apex Male Bust "}, {"op": "replace", "path": "/floranDescription", "value": "Jantar de pedra faz os dentes quebrar."}, {"op": "replace", "path": "/glitchDescription", "value": "Nostálgico. Lembro-me das estátuas dos nossos reis."}, {"op": "replace", "path": "/apexDescription", "value": "Eu me pergunto quantas famílias esse cara destruiu."}, {"op": "replace", "path": "/humanDescription", "value": "Esse cara parece importante."}, {"op": "replace", "path": "/avianDescription", "value": "Esculpido perfeitamente."}, {"op": "replace", "path": "/hylotlDescription", "value": "Feito de pedra comum."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma estátua impressionante. Quem é esse Apex?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um busto de um Apex importante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estátua impressionante. Quem é esse Apex?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": " Apex Male Bust ",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esculpido perfeitamente.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto quantas famílias esse cara destruiu.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Feito de pedra comum.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nostálgico. Lembro-me das estátuas dos nossos reis.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Jantar de pedra faz os dentes quebrar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse cara parece importante.",
+    "path": "/humanDescription"
+  }
+]

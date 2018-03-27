@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "As gavinha emplumadas desta criatura se estendem a partir de sua concha dura para filtrar pedaços de comida do magma enquanto nada."}, {"op": "replace", "path": "/shortdescription", "value": "Scorcheye"}]
+[
+  {
+    "op": "replace",
+    "value": "Scorcheye",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "As gavinha emplumadas desta criatura se estendem a partir de sua concha dura para filtrar pedaços de comida do magma enquanto nada.",
+    "path": "/description"
+  }
+]

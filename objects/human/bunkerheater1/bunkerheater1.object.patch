@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um aquecedor de ambiente!"}, {"op": "replace", "path": "/shortdescription", "value": "Space Heater"}, {"op": "replace", "path": "/floranDescription", "value": "Bom calor, sem fogo. Seguro para Floran."}, {"op": "replace", "path": "/glitchDescription", "value": "Desinteressado. Um pequeno aquecedor."}, {"op": "replace", "path": "/apexDescription", "value": "Um aquecedor portátil quente e acolhedor."}, {"op": "replace", "path": "/humanDescription", "value": "Um aquecedor de ambiente. O nome faz soar futurista e legal."}, {"op": "replace", "path": "/avianDescription", "value": "Perfeito para aquecer as penas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma maneira inteligente de conseguir calor portátil."}, {"op": "replace", "path": "/novakidDescription", "value": "Um aquecedor. Eu nunca senti a necessidade de um."}]
+[
+  {
+    "op": "replace",
+    "value": "Um aquecedor. Nunca senti a necessidade de um.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um aquecedor de ambiente. O nome faz soar futurista e legal.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um aquecedor portátil quente e acolhedor.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desinteressado. Um pequeno aquecedor.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perfeito para aquecer as penas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma maneira inteligente de conseguir calor portátil.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um aquecedor de ambiente!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bom calor, sem fogo. Seguro para Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Space Heater",
+    "path": "/shortdescription"
+  }
+]

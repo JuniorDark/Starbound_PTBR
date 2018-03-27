@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Um forno. Só pensar em cozinhar faz meu estômago revirar."}, {"op": "replace", "path": "/shortdescription", "value": "Basic Oven"}, {"op": "replace", "path": "/description", "value": "Já faz tanto tempo que eu tive uma refeição caseira... ou uma casa."}, {"op": "replace", "path": "/humanDescription", "value": "Este forno tem um cheiro fraco de frango assado. Pelo menos, acho que é frango. Poderia ser qualquer coisa, realmente."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "Yum, yum"}, {"op": "replace", "path": "/novakidDescription", "value": "Um forno."}, {"op": "replace", "path": "/glitchDescription", "value": "Aliviado. Um forno convencional. Hora de preparar um banquete."}, {"op": "replace", "path": "/avianDescription", "value": "Um forno, para fazer pratos saborosos."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Forno Básico"}, {"op": "replace", "path": "/floranDescription", "value": "Carne cozida tem gosssto ainda melhor do que carne crua!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Um forno. Perfeito se você quer comida quente."}]
+[
+  {
+    "op": "replace",
+    "value": "Yum, yum",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Forno Básico",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Um forno, para fazer pratos saborosos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um forno.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um forno. Só pensar em cozinhar faz meu estômago revirar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um forno. Perfeito se você quer comida quente.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Basic Oven",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Carne cozida tem gosssto ainda melhor do que carne crua!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Já faz tanto tempo que eu tive uma refeição caseira... ou uma casa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Aliviado. Um forno convencional. Hora de preparar um banquete.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este forno tem um cheiro fraco de frango assado. Pelo menos, acho que é frango. Poderia ser qualquer coisa, realmente.",
+    "path": "/humanDescription"
+  }
+]

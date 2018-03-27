@@ -1,1 +1,62 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/0", "value": "Eu fiquei tão forte que nem mesmo Big Ape poderia me vencer em uma queda de braço!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/2", "value": "Meu martelo é para manter a paz por aqui. Seja bondoso, e você não vai me ver usá-lo."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/default/0", "value": "Estou suando pelas minhas penas!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/glitch/default/0", "value": "Bravo. Eu posso resistir a qualquer perigo neste planeta!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/1", "value": "Eu tenho trabalhado tão duro, eu não paro de suar. É bastante desagradável."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Estou aqui para manter as coisas em paz. Você é bem-vindo para olhar ao redor, apenas não cause problemas."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/glitch/default/2", "value": "Entediado. É tão maçante ficar de guarda aqui. Talvez eu deva encontrar alguém para lutar..."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/default/1", "value": "Fui criado como um guerreiro desde o nascimento no meu planeta natal. Proteger este lugar é fácil!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/1", "value": "Trabalhar neste fundição me deu braços de aço! Eu não sou alguém para se mexer."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/glitch/default/1", "value": "Embaraçado. Olha como eu estou suando? Na verdade, é a condensação... Honesto!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/2", "value": "Eu me esforço para proteger este fundição! Você pode dizer?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/default/2", "value": "Manejar um enorme martelo não é tão difícil."}]
+[
+  {
+    "op": "replace",
+    "value": "Entediado. É tão maçante ficar de guarda aqui. Talvez eu deva encontrar alguém para lutar...",
+    "path": "/scriptConfig/dialog/converse/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Bravo. Eu posso resistir a qualquer perigo neste planeta!",
+    "path": "/scriptConfig/dialog/converse/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Embaraçado. Olha como eu estou suando? Na verdade, é a condensação... Honesto!",
+    "path": "/scriptConfig/dialog/converse/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me esforço para proteger este fundição! Você pode dizer?",
+    "path": "/scriptConfig/dialog/converse/apex/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu fiquei tão forte que nem mesmo Big Ape poderia me vencer em uma queda de braço!",
+    "path": "/scriptConfig/dialog/converse/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Fui criado como um guerreiro desde o nascimento no meu planeta natal. Proteger este lugar é fácil!",
+    "path": "/scriptConfig/dialog/converse/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Estou aqui para manter as coisas em paz. Você é bem-vindo para olhar ao redor, apenas não cause problemas.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Estou suando pelas minhas penas!",
+    "path": "/scriptConfig/dialog/converse/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu tenho trabalhado tão duro, eu não paro de suar. É bastante desagradável.",
+    "path": "/scriptConfig/dialog/converse/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Meu martelo é para manter a paz por aqui. Seja bondoso, e você não vai me ver usá-lo.",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Manejar um enorme martelo não é tão difícil.",
+    "path": "/scriptConfig/dialog/converse/avian/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Trabalhar neste fundição me deu braços de aço! Eu não sou alguém para se mexer.",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  }
+]

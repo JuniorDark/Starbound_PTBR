@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Weapon Shop Sign"}, {"op": "replace", "path": "/description", "value": "Uma espada em uma placa. Geralmente aparece do lado de fora de uma loja de armas."}, {"op": "replace", "path": "/floranDescription", "value": "Armasss."}, {"op": "replace", "path": "/glitchDescription", "value": "Surpreso. Já vi muitas lojas de armas saírem do mercado."}, {"op": "replace", "path": "/novakidDescription", "value": "A placa mostra uma espada. Eu acho que é uma loja de armas."}, {"op": "replace", "path": "/apexDescription", "value": "Uma placa de loja de armas."}, {"op": "replace", "path": "/humanDescription", "value": "Uma espada desenhada em uma placa. Uma loja de armas talvez?"}, {"op": "replace", "path": "/avianDescription", "value": "Talvez eu possa comprar armas nesta loja."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma espada, muito provável que esta é uma loja de armas."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma espada desenhada em uma placa. Uma loja de armas talvez?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma espada em uma placa. Geralmente aparece do lado de fora de uma loja de armas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma espada, muito provável que esta é uma loja de armas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa de loja de armas.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez eu possa comprar armas nesta loja.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Já vi muitas lojas de armas saírem do mercado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A placa mostra uma espada. Eu acho que é uma loja de armas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Weapon Shop Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Armasss.",
+    "path": "/floranDescription"
+  }
+]

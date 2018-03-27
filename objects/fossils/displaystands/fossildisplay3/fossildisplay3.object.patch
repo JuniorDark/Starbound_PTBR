@@ -1,1 +1,52 @@
-[{"op": "replace", "path": "/description", "value": "Um suporte de exposição para fósseis médios."}, {"op": "replace", "path": "/shortdescription", "value": "Medium Fossil Display"}, {"op": "replace", "path": "/floranDescription", "value": "Exposição de fósseis é bom."}, {"op": "replace", "path": "/glitchDescription", "value": "Interessado. Um fóssil será exibido aqui."}, {"op": "replace", "path": "/apexDescription", "value": "Um suporte de exposição. Usado para fósseis."}, {"op": "replace", "path": "/humanDescription", "value": "Parece um pouco triste sem um fóssil completo para mostrar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Eu estaria mais interessado se houvesse um fóssil completo exibido aqui."}, {"op": "replace", "path": "/subtitle", "value": "Exibe fósseis."}, {"op": "replace", "path": "/novakidDescription", "value": "Parece bom. Fica muito melhor com um fóssil completo..."}, {"op": "replace", "path": "/avianDescription", "value": "Um suporte de exposição de fóssil. Não tem um fóssil completo embora."}]
+[
+  {
+    "op": "replace",
+    "value": "Um suporte de exposição para fósseis médios.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Medium Fossil Display",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um suporte de exposição. Usado para fósseis.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um suporte de exposição de fóssil. Não tem um fóssil completo embora.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Exibe fósseis.",
+    "path": "/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Parece um pouco triste sem um fóssil completo para mostrar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Exposição de fósseis é bom.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu estaria mais interessado se houvesse um fóssil completo exibido aqui.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Um fóssil será exibido aqui.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece bom. Fica muito melhor com um fóssil completo...",
+    "path": "/novakidDescription"
+  }
+]

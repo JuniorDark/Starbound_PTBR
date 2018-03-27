@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um chifre tradicionalmente usado para avisar os outros de perigos próximos."
+    "value": "Uma buzina tradicionalmente usada para avisar os outros de perigos próximos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Foghorn Mech Horn",
+    "path": "/shortdescription"
   }
 ]

@@ -1,22 +1,22 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um trecho do diário de Hiraki Corale, Hylotl Aventureiro."
+    "value": "Um trecho do diário de Hiraki Corale, Hylotl Aventureiro.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "A Estúpida Miniknog"
+    "value": "Os Apex olharam para mim como se eu fosse algum tipo de intruso ou algo assim. Um deles estava tremendo e parecia estar com frio, então eu emprestei pra ele a minha jaqueta de marca Big Ape. Tão gentil!",
+    "path": "/contentPages/1"
   },
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "por Hiraki Corale, Hylotl Aventureiro\n\nA Miniknog certamente trata os outros Apex mal! Tão triste! Todo mundo está sob constante vigilância e escrutínio, é muito tedioso e estressante. Realmente, você não pode me culpar por abandonar meu companheiro, pode?\n\nAconteceu de eu encontrar o que eu acho que deve ser um Quartel General da Resistência. Tão rebelde! Reconheço alguns dos rostos dos cartazes de procurados."
+    "value": "A Estúpida Miniknog",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/contentPages/1",
-    "value": "Os Apex olharam para mim como se eu fosse algum tipo de intruso ou algo assim. Um deles estava tremendo e parecia estar com frio, então eu emprestei pra ele a minha jaqueta de marca Big Ape. Tão gentil!"
+    "value": "por Hiraki Corale, Hylotl Aventureiro\n\nA Miniknog certamente trata os outros Apex mal! Tão triste! Todo mundo está sob constante vigilância e escrutínio, é muito tedioso e estressante. Realmente, você não pode me culpar por abandonar meu companheiro, pode?\n\nAconteceu de eu encontrar o que eu acho que deve ser um Quartel General da Resistência. Tão rebelde! Reconheço alguns dos rostos dos cartazes de procurados.",
+    "path": "/contentPages/0"
   }
 ]

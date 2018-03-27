@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/label", "value": "ESPIRRO ÁCIDO"}]
+[
+  {
+    "op": "replace",
+    "value": "ESPIRRO ÁCIDO",
+    "path": "/label"
+  }
+]

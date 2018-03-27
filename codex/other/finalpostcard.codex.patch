@@ -1,27 +1,27 @@
 [
   {
     "op": "replace",
-    "path": "/contentPages/2",
-    "value": "\n\nObrigado(a) por salvar o Universo « nós esperamos que você tenha gostado de jogar cada parte de Starbound tanto quanto nós gostamos de fazê-lo. O Universo agora é livre para você explorar. Viagens Seguras!\n\n- Chucklefish Games ^orange;°\n\n"
+    "value": "\n\nObrigado(a) por salvar o Universo « nós esperamos que você tenha gostado de jogar cada parte de Starbound tanto quanto nós gostamos de fazê-lo. O Universo agora é livre para você explorar. Viagens Seguras!\n\n- Chucklefish Games ^orange;°\n\n",
+    "path": "/contentPages/2"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma cartão postal de amigos."
+    "value": "\n\n Aquele monstro-olho era gigante! Que caçada! Acho que você é o(a) segundo(a) melhor caçador(a) que eu conheço. \n-Nuru ð\n\nKluex ficaria orgulhoso de você. \n Tonauac ±\n\n Que show estupendo! \n- Barão 4c 75 7a Þ\n",
+    "path": "/contentPages/0"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "Cartão de agradecimento"
+    "value": "\n\nVocê me ensinou que sempre há esperança. Obrigada. \n- Lana º\n\nA importância científica da sua conquista é imensurável! \n- Koichi þ\n\nVocê tem o coração de um(a) Protetor(a). \n -Esther »\n",
+    "path": "/contentPages/1"
   },
   {
     "op": "replace",
-    "path": "/contentPages/1",
-    "value": "\n\nVocê me ensinou que sempre há esperança. Obrigada. \n- Lana º\n\nA importância científica da sua conquista é imensurável! \n- Koichi þ\n\nVocê tem o coração de um(a) Protetor(a). \n -Esther »\n"
+    "value": "Uma cartão postal de amigos.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "\n\n Aquele monstro-olho era gigante! Que caçada! Acho que você é o(a) segundo(a) melhor caçador(a) que eu conheço. \n-Nuru ð\n\nKluex ficaria orgulhoso de você. \n Tonauac ±\n\n Que show estupendo! \n- Barão 4c 75 7a Þ\n"
+    "value": "Cartão de agradecimento",
+    "path": "/title"
   }
 ]

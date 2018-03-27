@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Rocha lunar resistente e arenosa."}, {"op": "replace", "path": "/shortdescription", "value": "Moonrock"}, {"op": "replace", "path": "/glitchDescription", "value": "Dedutivo. Esta rocha é lunar de natureza."}, {"op": "replace", "path": "/novakidDescription", "value": "Algumas rochas lunares secas e poeirentas."}, {"op": "replace", "path": "/floranDescription", "value": "Floran não gosta de rochass lunares secass."}]
+[
+  {
+    "op": "replace",
+    "value": "Dedutivo. Esta rocha é lunar de natureza.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não gosta de rochass lunares secass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Moonrock",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas rochas lunares secas e poeirentas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rocha lunar resistente e arenosa.",
+    "path": "/description"
+  }
+]

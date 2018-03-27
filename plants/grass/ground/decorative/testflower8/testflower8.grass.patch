@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Uma flor horrorosa e sem alma. Eu posso sentir meu sangue percorrer frio."}, {"op": "replace", "path": "/shortdescription", "value": "Uma flor horrorosa."}, {"op": "replace", "path": "/floranDescription", "value": "Os Floran não aceitam as flores que existem. Não não não."}, {"op": "replace", "path": "/glitchDescription", "value": "[Erro]. Incapaz de processar o relatório. Redefinindo a memória."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma flor horrorosa.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma flor horrorosa e sem alma. Eu posso sentir meu sangue percorrer frio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Os Floran não aceitam as flores que existem. Não não não.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "[Erro]. Incapaz de processar o relatório. Redefinindo a memória.",
+    "path": "/glitchDescription"
+  }
+]

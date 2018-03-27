@@ -1,22 +1,22 @@
 [
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "Gerações atrás, a civilização Hylotl estava quase desfeita: uma raça de filósofos e artistas quase extintos pelos ataques bárbaros de uma horda selvagem.\n\nOs Floran, simplistas, violentos e incivilizados, devastaram nossas terras e assustaram nosso povo. Sua violência feroz ameaçou nossa própria existência.\n\nNos tempos modernos, esta velha inimizade desapareceu na inexistência."
+    "value": "Um livro de história Hylotl relatando o turbulento relacionamento da raça com os Floran.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/contentPages/1",
-    "value": "Enquanto os Floran simplesmente esqueceram sobre este episódio no nosso passado compartilhado, nós os Hylotl conseguimos perdoar. Nós o fizemos com nobreza, e com leveza em nossos corações. Nós os perdoamos.\n\nEmbora eles destruíram séculos de literatura, de arte e de realização... Mesmo que nos conduzissem, aterrorizados, debaixo das ondas do mar... Apesar de tentarem nos comer.\n\nSim. Nós definitivamente os perdoamos."
+    "value": "Um Tratado sobre os Floran",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um livro de história Hylotl relatando o turbulento relacionamento da raça com os Floran."
+    "value": "Gerações atrás, a civilização Hylotl estava quase desfeita: uma raça de filósofos e artistas quase extintos pelos ataques bárbaros de uma horda selvagem.\n\nOs Floran, simplistas, violentos e incivilizados, devastaram nossas terras e assustaram nosso povo. Sua violência feroz ameaçou nossa própria existência.\n\nNos tempos modernos, esta velha inimizade desapareceu na inexistência.",
+    "path": "/contentPages/0"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "Um Tratado sobre os Floran"
+    "value": "Enquanto os Floran simplesmente esqueceram sobre este episódio no nosso passado compartilhado, nós os Hylotl conseguimos perdoar. Nós o fizemos com nobreza, e com leveza em nossos corações. Nós os perdoamos.\n\nEmbora eles destruíram séculos de literatura, de arte e de realização... Mesmo que nos conduzissem, aterrorizados, debaixo das ondas do mar... Apesar de tentarem nos comer.\n\nSim. Nós definitivamente os perdoamos.",
+    "path": "/contentPages/1"
   }
 ]

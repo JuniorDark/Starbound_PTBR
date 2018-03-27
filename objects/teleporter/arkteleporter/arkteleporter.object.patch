@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Este teletransportador parece que pode fornecer uma rota rápida para o Ark."}, {"op": "replace", "path": "/apexDescription", "value": "Parece que ele pode estar vinculado ao Ark."}, {"op": "replace", "path": "/humanDescription", "value": "A julgar pela aparência deste teletransportador, eu acho que ele se conecta diretamente ao Ark."}, {"op": "replace", "path": "/description", "value": "Este teletransportador deve levá-lo de volta ao Ark."}, {"op": "replace", "path": "/floranDescription", "value": "Isso poderia levar Floran direto para as ruínasss."}, {"op": "replace", "path": "/glitchDescription", "value": "Analítico. Eu acredito que este teletransportador está conectado às ruínas Ark."}, {"op": "replace", "path": "/shortdescription", "value": "Ark Teleporter"}, {"op": "replace", "path": "/novakidDescription", "value": "Uma maneira prática de voltar para o Ark e para a próxima aventura!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Acredito que este teletransportador pode levar às ruínas Ark."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma maneira prática de voltar para o Ark e para a próxima aventura!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analítico. Eu acredito que este teletransportador está conectado às ruínas Ark.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ark Teleporter",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Acredito que este teletransportador pode levar às ruínas Ark.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A julgar pela aparência deste teletransportador, eu acho que ele se conecta diretamente ao Ark.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que ele pode estar vinculado ao Ark.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este teletransportador parece que pode fornecer uma rota rápida para o Ark.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este teletransportador deve levá-lo de volta ao Ark.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Isso poderia levar Floran direto para as ruínasss.",
+    "path": "/floranDescription"
+  }
+]

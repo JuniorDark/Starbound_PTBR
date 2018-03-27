@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "O pote está desintegrando. Eu poderia muito bem acelerar o processo."}, {"op": "replace", "path": "/description", "value": "Um pote velho com marcas padronizadas. Parece que pode ser esmagado."}, {"op": "replace", "path": "/shortdescription", "value": "Old Pot"}, {"op": "replace", "path": "/floranDescription", "value": "Pote frágil, fácil de quebrar."}, {"op": "replace", "path": "/hylotlDescription", "value": "A decoração é pobre e o pote está se desintegrando."}, {"op": "replace", "path": "/avianDescription", "value": "Este pote é barato e comum. Eu deveria esmagá-lo."}, {"op": "replace", "path": "/glitchDescription", "value": "Violento. Esmagá-lo, torná-lo pó."}, {"op": "replace", "path": "/novakidDescription", "value": "Um pote antigo e inútil. Tenho certeza de que ninguém sentirá falta se o esmagássemos."}, {"op": "replace", "path": "/apexDescription", "value": "Um pote padronizado. Não é muito atraente. Eu deveria esmagá-lo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um pote velho com marcas padronizadas. Parece que pode ser esmagado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um pote padronizado. Não é muito atraente. Eu deveria esmagá-lo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pote antigo e inútil. Tenho certeza de que ninguém sentirá falta se o esmagássemos.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Old Pot",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pote frágil, fácil de quebrar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A decoração é pobre e o pote está se desintegrando.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O pote está desintegrando. Eu poderia muito bem acelerar o processo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este pote é barato e comum. Eu deveria esmagá-lo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Violento. Esmagá-lo, torná-lo pó.",
+    "path": "/glitchDescription"
+  }
+]

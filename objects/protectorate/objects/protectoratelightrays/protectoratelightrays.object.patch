@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Tão maravilhosamente quente no pelo."}, {"op": "replace", "path": "/glitchDescription", "value": "Relaxado. O sol aquece meus circuitos."}, {"op": "replace", "path": "/floranDescription", "value": "Tão quente, Floran sente onda de energia."}, {"op": "replace", "path": "/humanDescription", "value": "Ah sol, não há nada como isto."}, {"op": "replace", "path": "/avianDescription", "value": "Se ao menos eu pudesse voar perante do sol."}, {"op": "replace", "path": "/hylotlDescription", "value": "Se eu passar muito tempo ao sol eu posso secar."}, {"op": "replace", "path": "/novakidDescription", "value": "O calor me faz lembrar de casa."}, {"op": "replace", "path": "/description", "value": "Lindos raios de luz mornos"}, {"op": "replace", "path": "/shortdescription", "value": "protractorate light rays"}]
+[
+  {
+    "op": "replace",
+    "value": "Ah sol, não há nada como isto.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lindos raios de luz mornos",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Se eu passar muito tempo ao sol eu posso secar.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se ao menos eu pudesse voar perante do sol.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relaxado. O sol aquece meus circuitos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tão maravilhosamente quente no pelo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tão quente, Floran sente onda de energia.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O calor me faz lembrar de casa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "protractorate light rays",
+    "path": "/shortdescription"
+  }
+]

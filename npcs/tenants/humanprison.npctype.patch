@@ -1,1 +1,52 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/2", "value": "Eu pareço um pouco com um desajustado neste macacão?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/human/0", "value": "Se eu tivesse se juntado ao Protetorado, talvez eu não teria acabado na prisão."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/human/2", "value": "Eu pareço um pouco com um desajustado neste macacão?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/human/1", "value": "Eu ouvi sobre o que aconteceu com a Terra. Estou feliz que eu estava na prisão em outro lugar no momento."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/4", "value": "Eu não fui para a prisão, este macacão é apenas confortável... Honesto."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/0", "value": "Acabei de sair da prisão! Eu estava completamente apaixonado por ela, embora."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/3", "value": "Não pense que eu sou uma ameaça por causa deste macacão! Eu estou usando isso porque é confortável."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/human/4", "value": "Eu não fui para a prisão, este macacão é apenas confortável... Honesto."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/1", "value": "Não se preocupe, eu não sou perigoso! Eu estava na prisão por fraude financeira..."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/human/3", "value": "Não se preocupe, eu não sou perigoso! Eu estava na prisão por fraude financeira..."}]
+[
+  {
+    "op": "replace",
+    "value": "Eu pareço um pouco com um desajustado neste macacão?",
+    "path": "/scriptConfig/dialog/converse/human/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu pareço um pouco com um desajustado neste macacão?",
+    "path": "/scriptConfig/dialog/converse/human/human/2"
+  },
+  {
+    "op": "replace",
+    "value": "Não pense que eu sou uma ameaça por causa deste macacão! Eu estou usando isso porque é confortável.",
+    "path": "/scriptConfig/dialog/converse/human/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Não se preocupe, eu não sou perigoso! Eu estava na prisão por fraude financeira...",
+    "path": "/scriptConfig/dialog/converse/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Não se preocupe, eu não sou perigoso! Eu estava na prisão por fraude financeira...",
+    "path": "/scriptConfig/dialog/converse/human/human/3"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não fui para a prisão, este macacão é apenas confortável... Honesto.",
+    "path": "/scriptConfig/dialog/converse/human/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não fui para a prisão, este macacão é apenas confortável... Honesto.",
+    "path": "/scriptConfig/dialog/converse/human/human/4"
+  },
+  {
+    "op": "replace",
+    "value": "Eu ouvi sobre o que aconteceu com a Terra. Estou feliz que eu estava na prisão em outro lugar no momento.",
+    "path": "/scriptConfig/dialog/converse/human/human/1"
+  },
+  {
+    "op": "replace",
+    "value": "Acabei de sair da prisão! Eu estava completamente apaixonado por ela, embora.",
+    "path": "/scriptConfig/dialog/converse/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Se eu tivesse se juntado ao Protetorado, talvez eu não teria acabado na prisão.",
+    "path": "/scriptConfig/dialog/converse/human/human/0"
+  }
+]

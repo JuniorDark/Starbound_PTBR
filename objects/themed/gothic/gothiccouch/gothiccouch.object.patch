@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Este sofá é tão elegante quanto aterrorizante."}, {"op": "replace", "path": "/shortdescription", "value": "Gothic Couch"}, {"op": "replace", "path": "/description", "value": "Um sofá assustador, com um acabamento pintado de preto."}, {"op": "replace", "path": "/humanDescription", "value": "O sofá cheira a..."}, {"op": "replace", "path": "/avianDescription", "value": "Este sofá me dá arrepios."}, {"op": "replace", "path": "/glitchDescription", "value": "Mórbido. Existem manchas escuras no couro."}, {"op": "replace", "path": "/apexDescription", "value": "Um sofá muito gótico."}, {"op": "replace", "path": "/novakidDescription", "value": "Não tenho certeza se quero sentar-me nesta coisa."}, {"op": "replace", "path": "/floranDescription", "value": "Floran acha que sofá cheira bom."}]
+[
+  {
+    "op": "replace",
+    "value": "Um sofá assustador, com um acabamento pintado de preto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um sofá muito gótico.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran acha que sofá cheira bom.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gothic Couch",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não tenho certeza se quero sentar-me nesta coisa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mórbido. Existem manchas escuras no couro.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O sofá cheira a...",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este sofá me dá arrepios.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este sofá é tão elegante quanto aterrorizante.",
+    "path": "/hylotlDescription"
+  }
+]

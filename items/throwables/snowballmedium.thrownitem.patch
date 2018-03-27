@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "É maior do que a bola de neve média, mas você ainda pode jogá-la."}, {"op": "replace", "path": "/shortdescription", "value": "Medium Snowball"}]
+[
+  {
+    "op": "replace",
+    "value": "É maior do que a bola de neve média, mas você ainda pode jogá-la.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Medium Snowball",
+    "path": "/shortdescription"
+  }
+]

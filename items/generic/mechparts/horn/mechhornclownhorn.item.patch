@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Fom."
+    "value": "Clown Mech Horn",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fom.",
+    "path": "/description"
   }
 ]

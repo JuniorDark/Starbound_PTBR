@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Um olho apavorante."}, {"op": "replace", "path": "/shortdescription", "value": "Um olho apavorante."}, {"op": "replace", "path": "/floranDescription", "value": "Um olhar fixo."}, {"op": "replace", "path": "/glitchDescription", "value": "Desgosto. Um olho apavorante."}]
+[
+  {
+    "op": "replace",
+    "value": "Um olho apavorante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um olho apavorante.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desgosto. Um olho apavorante.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um olhar fixo.",
+    "path": "/floranDescription"
+  }
+]

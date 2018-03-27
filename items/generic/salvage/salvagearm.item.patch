@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Este componente poderia ser útil para a fabricação de braços de mecha."
+    "value": "Salvaged Power Coupling",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este componente poderia ser útil para a fabricação de braços de mecha.",
+    "path": "/description"
   }
 ]

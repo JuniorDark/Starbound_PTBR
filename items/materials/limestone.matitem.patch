@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Limestone"}, {"op": "replace", "path": "/description", "value": "Calcário áspero não refinado."}]
+[
+  {
+    "op": "replace",
+    "value": "Pedrass de calcário empoeiradass.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Limestone",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perceptivo. Este calcário tem uma consistência farinácea.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Calcário áspero e não refinado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um pouco de calcário farináceo.",
+    "path": "/novakiddescription"
+  }
+]

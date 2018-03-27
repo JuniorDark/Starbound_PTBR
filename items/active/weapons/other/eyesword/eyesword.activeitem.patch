@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Oculus Reaver ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Vendo a partir do olho da espada é desorientador no início."}, {"op": "replace", "path": "/shortdescription", "value": "Oculus Reaver"}]
+[
+  {
+    "op": "replace",
+    "value": "Vendo a partir do olho da espada é desorientador no início.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Oculus Reaver",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Oculus Reaver ^yellow;^reset;",
+    "path": "/upgradeParameters/shortdescription"
+  }
+]

@@ -1,1 +1,82 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Estes planetas são completamente estranhos em natureza! Nós não temos nenhuma maneira de classificá-los!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/3", "value": "Há uma grande quantidade de criaturas hostis na área. Fascinante!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/5", "value": "Eu me pergunto que novos medicamentos poderíamos criar utilizando amostras deste planeta?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/13", "value": "Não me toque - Estou coberto de micro organismos não identificados!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/4", "value": "Este planeta é totalmente inseguro para pessoas como eu. Eu amo isso!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/8", "value": "Estou fazendo algumas pesquisas. Não contamine as minhas amostras!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/11", "value": "Eles poderiam realmente fazer esses trajes um pouco mais amigável, não poderiam?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/14", "value": "Debaixo deste traje amarelo, meu coração bate pelo amor da descoberta!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/10", "value": "Aprender é legal, e não deixe ninguém lhe dizer o contrário!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/15", "value": "Mesmo se toda a cultura fosse de alguma forma perdida, as pessoas ainda acabariam por redescobrir a ciência."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/1", "value": "Há tantas amostras de tecido para mim examinar!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/12", "value": "Você pode ver o meu rosto através deste traje?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/2", "value": "Este traje realmente não ajuda muito contra a radioatividade, eu apenas me sinto mais seguro com ele!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/6", "value": "Os meus colegas cientistas e eu estamos saindo para investigar todos os planetas alienígenas no universo!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/7", "value": "Me pergunto se a radioatividade catalisou o crescimento instável neste planeta?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/9", "value": "\"Vamos fazer uma pesquisa sobre um planeta alienígena perigoso\", eles disseram! \"O que poderia dar errado?\" eles disseram!"}]
+[
+  {
+    "op": "replace",
+    "value": "Debaixo desta roupa amarela, meu coração bate pelo amor da descoberta!",
+    "path": "/scriptConfig/dialog/converse/default/default/14"
+  },
+  {
+    "op": "replace",
+    "value": "\"Vamos fazer uma pesquisa sobre um planeta alienígena perigoso\", eles disseram! \"O que poderia dar errado?\" eles disseram!",
+    "path": "/scriptConfig/dialog/converse/default/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "Você pode ver o meu rosto através deste traje?",
+    "path": "/scriptConfig/dialog/converse/default/default/12"
+  },
+  {
+    "op": "replace",
+    "value": "Não me toque - Estou coberto de micro organismos não identificados!",
+    "path": "/scriptConfig/dialog/converse/default/default/13"
+  },
+  {
+    "op": "replace",
+    "value": "Mesmo se toda a cultura fosse de alguma forma perdida, as pessoas ainda acabariam por redescobrir a ciência.",
+    "path": "/scriptConfig/dialog/converse/default/default/15"
+  },
+  {
+    "op": "replace",
+    "value": "Me pergunto se a radioatividade catalisou o crescimento instável neste planeta?",
+    "path": "/scriptConfig/dialog/converse/default/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto que novos medicamentos poderíamos criar utilizando amostras deste planeta?",
+    "path": "/scriptConfig/dialog/converse/default/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Estou fazendo algumas pesquisas. Não contamine as minhas amostras!",
+    "path": "/scriptConfig/dialog/converse/default/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Aprender é legal, e não deixe ninguém lhe dizer o contrário!",
+    "path": "/scriptConfig/dialog/converse/default/default/10"
+  },
+  {
+    "op": "replace",
+    "value": "Os meus colegas cientistas e eu estamos saindo para investigar todos os planetas alienígenas no universo!",
+    "path": "/scriptConfig/dialog/converse/default/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Há uma grande quantidade de criaturas hostis na área. Fascinante!",
+    "path": "/scriptConfig/dialog/converse/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Há tantas amostras de tecido para mim examinar!",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Estes planetas são completamente estranhos em natureza! Nós não temos nenhuma maneira de classificá-los!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eles poderiam realmente fazer esses trajes um pouco mais amigável, não poderiam?",
+    "path": "/scriptConfig/dialog/converse/default/default/11"
+  },
+  {
+    "op": "replace",
+    "value": "Este planeta é totalmente inseguro para pessoas como eu. Eu amo isso!",
+    "path": "/scriptConfig/dialog/converse/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Este traje realmente não ajuda muito contra a radioatividade, eu apenas me sinto mais seguro com ele!",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  }
+]

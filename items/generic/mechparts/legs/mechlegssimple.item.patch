@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Pernas de mecha produzidas em massa que permitem a mobilidade básica."
+    "value": "Basic Mech Legs",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pernas de mecha produzidas em massa que permitem a mobilidade básica.",
+    "path": "/description"
   }
 ]

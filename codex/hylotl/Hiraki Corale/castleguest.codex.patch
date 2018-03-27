@@ -1,22 +1,22 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um trecho do diário de Hiraki Corale, Hylotl Aventureiro.."
+    "value": "Visitante no Castelo",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "Visitante no Castelo"
+    "value": "Eles me disseram para dar uma volta pelo castelo, para explorar, pesquisar e investigar o quanto eu quisesse. Ocasionalmente eu encontro com um deles e eles me cumprimentaram agradavelmente suficiente. Eu tenho lido todos os tipos de livros fascinantes, e minha compreensão dos Glitch está crescendo.",
+    "path": "/contentPages/1"
   },
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "por Hiraki Corale, Hylotl Aventureiro.\n\nA hospitalidade dos Glitch é indiscutível. Quando nos encontramos, eles me encontraram escalando as muralhas do castelo, tentando dar uma olhada através de uma janela da torre; eles educadamente me convidaram para dentro. Agora, é claro que isso soou como uma armadilha, por isso houve um pouco de confusão no início, mas acabou que eles eram genuínos."
+    "value": "por Hiraki Corale, Hylotl Aventureiro.\n\nA hospitalidade dos Glitch é indiscutível. Quando nos encontramos, eles me encontraram escalando as muralhas do castelo, tentando dar uma olhada através de uma janela da torre; eles educadamente me convidaram para dentro. Agora, é claro que isso soou como uma armadilha, por isso houve um pouco de confusão no início, mas acabou que eles eram genuínos.",
+    "path": "/contentPages/0"
   },
   {
     "op": "replace",
-    "path": "/contentPages/1",
-    "value": "Eles me disseram para dar uma volta pelo castelo, para explorar, pesquisar e investigar o quanto eu quisesse. Ocasionalmente eu encontro com um deles e eles me cumprimentaram agradavelmente suficiente. Eu tenho lido todos os tipos de livros fascinantes, e minha compreensão dos Glitch está crescendo."
+    "value": "Um trecho do diário de Hiraki Corale, Hylotl Aventureiro.",
+    "path": "/description"
   }
 ]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Cooked Poultry"}, {"op": "replace", "path": "/description", "value": "Um pássaro perfeitamente assado. Que belo espetáculo para ser visto."}]
+[
+  {
+    "op": "replace",
+    "value": "Um pássaro perfeitamente assado. Que belo espetáculo para ser visto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cooked Poultry",
+    "path": "/shortdescription"
+  }
+]

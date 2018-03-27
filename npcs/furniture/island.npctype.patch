@@ -1,1 +1,52 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/1", "value": "Você não parece tão relaxado como você poderia estar!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Olá! Você esta se divertindo?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/5", "value": "Você pensaria que eu iria ficar com frio nesta saia... E você estaria certo."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/3", "value": "A vida é uma festa! Exceto quando seu planeta natal é destruído..."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/7", "value": "Ah, o que eu daria para ser capaz de relaxar e se divertir para sempre."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/4", "value": "Depois do que aconteceu com a Terra, eu venho tentando relaxar um pouco."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/2", "value": "Por que não ficar por aqui e se divertir?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/9", "value": "O único tipo de vida para mim é aquela que se parece como um feriado eterno."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/8", "value": "Minha casa é totalmente relaxante! É como estar de férias para sempre."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/6", "value": "Você se parece com alguém que se preocupa demais! Porque não relaxar sob as estrelas alguma hora?"}]
+[
+  {
+    "op": "replace",
+    "value": "Depois do que aconteceu com a Terra, eu venho tentando relaxar um pouco.",
+    "path": "/scriptConfig/dialog/converse/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Ah, o que eu daria para ser capaz de relaxar e se divertir para sempre.",
+    "path": "/scriptConfig/dialog/converse/default/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Olá! Você esta se divertindo?",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "A vida é uma festa! Exceto quando seu planeta natal é destruído...",
+    "path": "/scriptConfig/dialog/converse/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Minha casa é totalmente relaxante! É como estar de férias para sempre.",
+    "path": "/scriptConfig/dialog/converse/default/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "O único tipo de vida para mim é aquela que se parece como um feriado eterno.",
+    "path": "/scriptConfig/dialog/converse/default/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "Por que não ficar por aqui e se divertir?",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você não parece tão relaxado como você poderia estar!",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você se parece com alguém que se preocupa demais! Porque não relaxar sob as estrelas alguma hora?",
+    "path": "/scriptConfig/dialog/converse/default/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Você pensaria que eu iria ficar com frio nesta saia... E você estaria certo.",
+    "path": "/scriptConfig/dialog/converse/default/default/5"
+  }
+]

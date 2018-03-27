@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Esse agente de moda está gritando muito. Eu deveria descobrir por quê?"}, {"op": "replace", "path": "/humanDescription", "value": "Os agentes de moda são geralmente tão aterrorizantes como esse em Screaming Fashion Agent? O que é mesmo um agente de moda?"}, {"op": "replace", "path": "/floranDescription", "value": "Jogo é chamado Sscreaming Fashion Agent. Floran gosta desse jogo."}, {"op": "replace", "path": "/apexDescription", "value": "Este jogo é chamado Screaming Fashion Agent. As coisas que eu vi aqui... Nunca vou esquecer delas."}, {"op": "replace", "path": "/avianDescription", "value": "É um jogo de mistério chamado Screaming Fashion Agent. Por que eles estão gritando? É esse o mistério?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Ouvi rumores de que Screaming Fashion Agent é uma releitura artística de uma história de crime verdadeiro."}, {"op": "replace", "path": "/glitchDescription", "value": "Inquieto. Este jogo é chamado Screaming Fashion Agent e eu estou muito perturbado por isso. 6/10."}, {"op": "replace", "path": "/description", "value": "Essa maquina roda o jogo 'Screaming Fashion Agent'."}, {"op": "replace", "path": "/shortdescription", "value": "Purple Arcade Machine"}]
+[
+  {
+    "op": "replace",
+    "value": "Os agentes de moda são geralmente tão aterrorizantes como esse em Screaming Fashion Agent? O que é mesmo um agente de moda?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Jogo é chamado Sscreaming Fashion Agent. Floran gosta desse jogo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ouvi rumores de que Screaming Fashion Agent é uma releitura artística de uma história de crime verdadeiro.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um jogo de mistério chamado Screaming Fashion Agent. Por que eles estão gritando? É esse o mistério?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Purple Arcade Machine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse agente de moda está gritando muito. Eu deveria descobrir por quê?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este jogo é chamado Screaming Fashion Agent. As coisas que eu vi aqui... Nunca vou esquecer delas.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa maquina roda o jogo 'Screaming Fashion Agent'.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Inquieto. Este jogo é chamado Screaming Fashion Agent e eu estou muito perturbado por isso. 6/10.",
+    "path": "/glitchDescription"
+  }
+]

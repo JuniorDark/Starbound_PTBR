@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Uma mesa de pesquisa."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta mesa parece bem equipada para o desenvolvimento de novas tecnologias."}, {"op": "replace", "path": "/shortdescription", "value": "^orange;Research Station^white;"}, {"op": "replace", "path": "/description", "value": "Pode ser usada para desenvolver equipamento altamente especializado."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Estação de Pesquisa"}, {"op": "replace", "path": "/floranDescription", "value": "Floran pode criar coisasss especializadasss."}, {"op": "replace", "path": "/glitchDescription", "value": "Atento. Esta mesa é bem adequado à pesquisa e desenvolvimento de novos itens."}, {"op": "replace", "path": "/apexDescription", "value": "Posso criar estações especializadas e dispositivos com isso."}, {"op": "replace", "path": "/humanDescription", "value": "Posso criar itens especializados aqui!"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "Desenvolva tecnologias especializadas"}, {"op": "replace", "path": "/novakidDescription", "value": "Posso criar todos os tipos coisas especializados aqui!"}]
+[
+  {
+    "op": "replace",
+    "value": "Desenvolva tecnologias especializadas",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Estação de Pesquisa",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa de pesquisa.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pode ser usada para desenvolver equipamento altamente especializado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran pode criar coisasss especializadasss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso criar itens especializados aqui!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso criar todos os tipos coisas especializados aqui!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso criar estações especializadas e dispositivos com isso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Esta mesa é bem adequado à pesquisa e desenvolvimento de novos itens.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa parece bem equipada para o desenvolvimento de novas tecnologias.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Research Station^white;",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um artigo de notícias do The Daily Peel."}, {"op": "replace", "path": "/title", "value": "10 Anos Nisso"}, {"op": "replace", "path": "/contentPages/0", "value": "É difícil acreditar que dez anos inteiros se passaram desde a descoberta de um patógeno transmitido pela água aparentemente incurável que ameaçava a própria existência do nosso povo, uma vez frágeis.\n\nMas quando toda a esperança parecia perdida, a formação da Miniknog veio com mais do que apenas uma cura. Seu Processo Vestigi-Evo, originalmente distribuído como uma cura para a doença, teve o benefício adicional de nos evoluir em nossas formas agora familiares."}, {"op": "replace", "path": "/contentPages/1", "value": "A Miniknog anunciou hoje que foi confirmado que cada Apex vivo foi submetido ao PVE sinalizando uma mudança decisiva no futuro do nosso povo!\n\nApesar dessa generosidade, estou chocado ao relatar que alguns de nosso povo são ingratos pelo presente que o PVE é! Há ainda conversas de rebeldes, indivíduos covardes, que afirmam que a doença foi fabricada pela Miniknog para nos forçar a participar no processo."}, {"op": "replace", "path": "/contentPages/2", "value": "Eu consideraria tal conversa equivalente a traição, e pergunto a esses rebeldes por que eles só estão dispostos a espalhar mentiras tóxicas pelas sombras.\n\nFelizmente, nossa Miniknog tem controle sobre esses supostos encrenqueiros. Eu pessoalmente espero que eles sejam reprimidos e punidos por tal conversa vergonhosa."}]
+[
+  {
+    "op": "replace",
+    "value": "10 Anos Nisso",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Um artigo de notícias do The Daily Peel.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Eu consideraria tal conversa equivalente a traição, e pergunto a esses rebeldes por que eles só estão dispostos a espalhar mentiras tóxicas pelas sombras.\n\nFelizmente, nossa Miniknog tem controle sobre esses supostos encrenqueiros. Eu pessoalmente espero que eles sejam reprimidos e punidos por tal conversa vergonhosa.",
+    "path": "/contentPages/2"
+  },
+  {
+    "op": "replace",
+    "value": "É difícil acreditar que dez anos inteiros se passaram desde a descoberta de um patógeno transmitido pela água aparentemente incurável que ameaçava a própria existência do nosso povo, uma vez frágeis.\n\nMas quando toda a esperança parecia perdida, a formação da Miniknog veio com mais do que apenas uma cura. Seu Processo Vestigi-Evo, originalmente distribuído como uma cura para a doença, teve o benefício adicional de nos evoluir em nossas formas agora familiares.",
+    "path": "/contentPages/0"
+  },
+  {
+    "op": "replace",
+    "value": "A Miniknog anunciou hoje que foi confirmado que cada Apex vivo foi submetido ao PVE sinalizando uma mudança decisiva no futuro do nosso povo!\n\nApesar dessa generosidade, estou chocado ao relatar que alguns de nosso povo são ingratos pelo presente que o PVE é! Há ainda conversas de rebeldes, indivíduos covardes, que afirmam que a doença foi fabricada pela Miniknog para nos forçar a participar no processo.",
+    "path": "/contentPages/1"
+  }
+]

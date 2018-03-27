@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran impressionado com baú. Ainda parece divertido quebrar."}, {"op": "replace", "path": "/shortdescription", "value": "Bone Chest"}, {"op": "replace", "path": "/hylotlDescription", "value": "O que quer que morreu para fazer esse baú merecia um final melhor."}, {"op": "replace", "path": "/glitchDescription", "value": "Desaprovação. Este baú é esculpido de osso."}, {"op": "replace", "path": "/apexDescription", "value": "Este baú parece ser feito inteiramente de osso."}, {"op": "replace", "path": "/avianDescription", "value": "Um baú feito de osso."}, {"op": "replace", "path": "/description", "value": "Um baú feito de osso. Tomara que não esteja cheio de medula."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma baú de osso. Talvez seja feito de uma caixa torácica."}, {"op": "replace", "path": "/humanDescription", "value": "Eu poderia usar isso para armazenar todas as minhas joias de pentagrama e velas negras!"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma baú de osso. Talvez seja feito de uma caixa torácica.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú feito de osso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú feito de osso. Tomara que não esteja cheio de medula.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bone Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desaprovação. Este baú é esculpido de osso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran impressionado com baú. Ainda parece divertido quebrar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu poderia usar isso para armazenar todas as minhas joias de pentagrama e velas negras!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este baú parece ser feito inteiramente de osso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que quer que morreu para fazer esse baú merecia um final melhor.",
+    "path": "/hylotlDescription"
+  }
+]

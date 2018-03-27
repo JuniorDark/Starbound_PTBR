@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Este bloco de cobre tem umas marcas distintas de engrenagem."}, {"op": "replace", "path": "/glitchDescription", "value": "Encantado. Eu acho a forma da engrenagem desses blocos agradável."}, {"op": "replace", "path": "/floranDescription", "value": "Blocoss de cobre como engrenagenss de máquina."}, {"op": "replace", "path": "/novakidDescription", "value": "Blocos de cobre, eles parecem levemente como engrenagens."}, {"op": "replace", "path": "/shortdescription", "value": "Copper Gear Block"}]
+[
+  {
+    "op": "replace",
+    "value": "Copper Gear Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Blocos de cobre, eles parecem levemente como engrenagens.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Blocoss de cobre como engrenagenss de máquina.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Eu acho a forma da engrenagem desses blocos agradável.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este bloco de cobre tem umas marcas distintas de engrenagem.",
+    "path": "/description"
+  }
+]

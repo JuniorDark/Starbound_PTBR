@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/paneLayout/lblQuestBody/value", "value": "quest body of the Secret of the Avian Troll Master quest bla"}, {"op": "replace", "path": "/paneLayout/lblQuestTitle/value", "value": "Segredo do Mestre Avian Troll"}, {"op": "replace", "path": "/paneLayout/btnAccept/caption", "value": "OK :("}]
+[
+  {
+    "op": "replace",
+    "value": "OK :(",
+    "path": "/paneLayout/btnAccept/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Segredo do Mestre Avian Troll",
+    "path": "/paneLayout/lblQuestTitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "quest body of the Secret of the Avian Troll Master quest bla",
+    "path": "/paneLayout/lblQuestBody/value"
+  }
+]

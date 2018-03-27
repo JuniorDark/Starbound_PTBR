@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Isso não é muito encorajador."}, {"op": "replace", "path": "/shortdescription", "value": "Motivational Poster"}, {"op": "replace", "path": "/avianDescription", "value": "Os Avianss rezam para Kluex por calma. Nós não temos nenhuma necessidade de cartazes inspiradores bobos."}, {"op": "replace", "path": "/hylotlDescription", "value": "Nós Hylotl não precisamos de cartazes para nos ajudar a alcançar o Zen."}, {"op": "replace", "path": "/floranDescription", "value": "O cartaz está danificado. Floran dente-se menos calmo depois de ver este cartaz."}, {"op": "replace", "path": "/glitchDescription", "value": "Frustrado. Tentar adivinhar o texto em falta vai me irritar por dias."}, {"op": "replace", "path": "/apexDescription", "value": "Se este fosse um cartaz da Miniknog, o texto faltante dizeria \"você não será exterminado\"."}, {"op": "replace", "path": "/humanDescription", "value": "Eu não estou surpreso que alguém desfigurou isso."}, {"op": "replace", "path": "/novakidDescription", "value": "Mantenha a calma e o quê? Acho que eu nunca vou saber."}]
+[
+  {
+    "op": "replace",
+    "value": "Frustrado. Tentar adivinhar o texto em falta vai me irritar por dias.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não estou surpreso que alguém desfigurou isso.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se este fosse um cartaz da Miniknog, o texto faltante dizeria \"você não será exterminado\".",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mantenha a calma e o quê? Acho que eu nunca vou saber.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Motivational Poster",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso não é muito encorajador.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Os Avianss rezam para Kluex por calma. Nós não temos nenhuma necessidade de cartazes inspiradores bobos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O cartaz está danificado. Floran dente-se menos calmo depois de ver este cartaz.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nós Hylotl não precisamos de cartazes para nos ajudar a alcançar o Zen.",
+    "path": "/hylotlDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Algumas calças confortáveis manchadas."}, {"op": "replace", "path": "/shortdescription", "value": "Geode Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Geode Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas calças confortáveis manchadas.",
+    "path": "/description"
+  }
+]

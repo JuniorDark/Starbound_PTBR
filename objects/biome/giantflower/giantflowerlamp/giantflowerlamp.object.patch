@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Interessado. O brilho é produzido pela flor armazenando a energia do sol, em seguida, expulsando gradualmente."}, {"op": "replace", "path": "/description", "value": "Uma flor que parece emitir os raios do sol."}, {"op": "replace", "path": "/shortdescription", "value": "Giant Flower Lamp"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de flor brilhante."}, {"op": "replace", "path": "/apexDescription", "value": "Uma flor brilhante bonita. Funciona melhor à noite."}, {"op": "replace", "path": "/humanDescription", "value": "A lâmpada mais cheirosa de todas. "}, {"op": "replace", "path": "/avianDescription", "value": "O brilho desta flor ilumina qualquer sala."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta lâmpada natural é de tirar o fôlego."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma flor brilhante deslumbrante. Um deleite para qualquer casa."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma flor brilhante bonita. Funciona melhor à noite.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma flor que parece emitir os raios do sol.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma flor brilhante deslumbrante. Um deleite para qualquer casa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de flor brilhante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Giant Flower Lamp",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. O brilho é produzido pela flor armazenando a energia do sol, em seguida, expulsando gradualmente.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O brilho desta flor ilumina qualquer sala.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A lâmpada mais cheirosa de todas. ",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lâmpada natural é de tirar o fôlego.",
+    "path": "/hylotlDescription"
+  }
+]

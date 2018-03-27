@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Eu gosto de um bom show de luzes!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Os prismas são uma verdadeira maravilha do mundo natural."}, {"op": "replace", "path": "/description", "value": "Um prisma altamente refrativo."}, {"op": "replace", "path": "/shortdescription", "value": "Prism Crystal"}, {"op": "replace", "path": "/floranDescription", "value": "Cores sssaem desta rocha. Deixa Floran curioso."}, {"op": "replace", "path": "/glitchDescription", "value": "Perplexo. Eu acho essas rochas de prisma bastante fascinantes."}, {"op": "replace", "path": "/apexDescription", "value": "A luz é refratada à medida que passa por este prisma."}, {"op": "replace", "path": "/humanDescription", "value": "Essas rochas são responsáveis pelo impressionante show de luzes."}, {"op": "replace", "path": "/avianDescription", "value": "Este cristal refrata a luz em padrões bonitos."}]
+[
+  {
+    "op": "replace",
+    "value": "Um prisma altamente refrativo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Perplexo. Eu acho essas rochas de prisma bastante fascinantes.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cores sssaem desta rocha. Deixa Floran curioso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu gosto de um bom show de luzes!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A luz é refratada à medida que passa por este prisma.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Prism Crystal",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os prismas são uma verdadeira maravilha do mundo natural.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas rochas são responsáveis pelo impressionante show de luzes.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este cristal refrata a luz em padrões bonitos.",
+    "path": "/avianDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "É fascinante. Não posso desviar o olhar."}, {"op": "replace", "path": "/shortdescription", "value": "Penguin Bar Sign"}, {"op": "replace", "path": "/floranDescription", "value": "Pássaros pequenos têm um bar."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Isso está quebrado, ou é assim por design?"}, {"op": "replace", "path": "/humanDescription", "value": "Ooh, um bar! Com pinguins!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Este placa de bar não é exatamente discreta, mas tem charme."}, {"op": "replace", "path": "/novakidDescription", "value": "Esses pássaros barulhentos têm um bar agora."}, {"op": "replace", "path": "/apexDescription", "value": "Um placa de bar atraente."}, {"op": "replace", "path": "/avianDescription", "value": "Este placa de bar exige ser encarada."}]
+[
+  {
+    "op": "replace",
+    "value": "É fascinante. Não posso desviar o olhar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um placa de bar atraente.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Isso está quebrado, ou é assim por design?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ooh, um bar! Com pinguins!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Penguin Bar Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pássaros pequenos têm um bar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este placa de bar exige ser encarada.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este placa de bar não é exatamente discreta, mas tem charme.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esses pássaros barulhentos têm um bar agora.",
+    "path": "/novakidDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Neutro. Uma estrutura temporária para quando alguém está construindo edifícios altos."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma estrutura de madeira. Provavelmente temporária."}, {"op": "replace", "path": "/description", "value": "Alguns andaimes de madeira de baixa qualidade."}, {"op": "replace", "path": "/apexDescription", "value": "Um andaime de madeira."}, {"op": "replace", "path": "/humanDescription", "value": "Parece andaimes de madeira. Não tenho certeza do quão seguro é."}, {"op": "replace", "path": "/avianDescription", "value": "Uma coleção de plataformas."}, {"op": "replace", "path": "/shortdescription", "value": "Wooden Scaffolding"}, {"op": "replace", "path": "/novakidDescription", "value": "Um andaime frágil feito de madeira."}, {"op": "replace", "path": "/floranDescription", "value": "Floran sobe mais alto, melhor para espionagem."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma coleção de plataformas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um andaime frágil feito de madeira.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um andaime de madeira.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estrutura de madeira. Provavelmente temporária.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran sobe mais alto, melhor para espionagem.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece andaimes de madeira. Não tenho certeza do quão seguro é.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Uma estrutura temporária para quando alguém está construindo edifícios altos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns andaimes de madeira de baixa qualidade.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Wooden Scaffolding",
+    "path": "/shortdescription"
+  }
+]

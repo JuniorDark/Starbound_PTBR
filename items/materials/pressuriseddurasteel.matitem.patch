@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um painel de durasteel, especialmente feito para conter ambientes pressurizados."}, {"op": "replace", "path": "/shortdescription", "value": "Pressurised Durasteel"}]
+[
+  {
+    "op": "replace",
+    "value": "Um painel de durasteel, especialmente projetado para conter ambientes pressurizados.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um painel de durasteel de aspecto brilhante.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Este painel de durasteel é projetado para acomodar mudanças na pressurização.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pressurised Durasteel",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Revesstimento de durassteel forte.",
+    "path": "/florandescription"
+  }
+]

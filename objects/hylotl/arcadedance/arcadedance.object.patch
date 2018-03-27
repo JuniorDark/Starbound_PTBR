@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Setas estúpidas de Dance-Dance se movem rápidas demais!! Frustra Floran!"}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. É um jogo fácil, uma vez que você aprende a reconhecer os padrões. 9/10."}, {"op": "replace", "path": "/apexDescription", "value": "Eu não tenho certeza se eu vou ser um bom Dance-Dance. As setas se movem tão rápido!"}, {"op": "replace", "path": "/humanDescription", "value": "Gostaria de poder dizer aos desenvolvedores de Dance-Dance que seu jogo atingiu as estrelas."}, {"op": "replace", "path": "/avianDescription", "value": "Dance-Dance não é muito amigável para garras."}, {"op": "replace", "path": "/novakidDescription", "value": "Yeehaw! Vamos ligar o nosso Dance-Dance!"}, {"op": "replace", "path": "/description", "value": "Vamos jogar um pouco de Dance-Dance!"}, {"op": "replace", "path": "/shortdescription", "value": "Dance-Dance Machine"}, {"op": "replace", "path": "/hylotlDescription", "value": "Dominar a arte do Dance-Dance pode ser muito desafiador."}]
+[
+  {
+    "op": "replace",
+    "value": "Dance-Dance Machine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dance-Dance não é muito amigável para garras.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gostaria de poder dizer aos desenvolvedores de Dance-Dance que seu jogo atingiu as estrelas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não tenho certeza se eu vou ser um bom Dance-Dance. As setas se movem tão rápido!",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos jogar um pouco de Dance-Dance!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Dominar a arte do Dance-Dance pode ser muito desafiador.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. É um jogo fácil, uma vez que você aprende a reconhecer os padrões. 9/10.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Setas estúpidas de Dance-Dance se movem rápidas demais!! Frustra Floran!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Yeehaw! Vamos ligar o nosso Dance-Dance!",
+    "path": "/novakidDescription"
+  }
+]

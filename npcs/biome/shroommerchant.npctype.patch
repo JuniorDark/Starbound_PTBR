@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title", "value": "Comerciante Agaran"}, {"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle", "value": "Vendedor Shroomy vendendo coisas "}]
+[
+  {
+    "op": "replace",
+    "value": "Comerciante Agaran",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Vendedor Shroomy vendendo coisas ",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Os grounded decoram suas aldeias com tais estandartes. Eles enchem suas vidas com cor."}, {"op": "replace", "path": "/description", "value": "Um estandarte Avian tecido com seda cara."}, {"op": "replace", "path": "/shortdescription", "value": "Avian Colourful Banner"}, {"op": "replace", "path": "/floranDescription", "value": "Coress bonitas, lembra Floran de flores."}, {"op": "replace", "path": "/glitchDescription", "value": "Encantado. Mal feito, mas bonito no entanto."}, {"op": "replace", "path": "/apexDescription", "value": "Um estandarte maravilhosamente vibrante."}, {"op": "replace", "path": "/hylotlDescription", "value": "Tal vibração só pode existir acima do oceano."}, {"op": "replace", "path": "/humanDescription", "value": "Cores brilhantes e alegres!"}, {"op": "replace", "path": "/novakidDescription", "value": "Há algo sobre este estandarte. Eu gosto disso."}]
+[
+  {
+    "op": "replace",
+    "value": "Um estandarte maravilhosamente vibrante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um estandarte Avian tecido com seda cara.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Avian Colourful Banner",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cores brilhantes e alegres!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Mal feito, mas bonito no entanto.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Coress bonitas, lembra Floran de flores.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tal vibração só pode existir acima do oceano.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os grounded decoram suas aldeias com tais estandartes. Eles enchem suas vidas com cor.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há algo sobre este estandarte. Eu gosto disso.",
+    "path": "/novakidDescription"
+  }
+]

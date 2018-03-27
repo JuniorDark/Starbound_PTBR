@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Shardwing"}, {"op": "replace", "path": "/description", "value": "As asas deste inseto são iridescentes como o gelo."}]
+[
+  {
+    "op": "replace",
+    "value": "Shardwing",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "As asas deste inseto são iridescentes como o gelo.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Presunçoso. Glitchs não precisam tomar banhos."}, {"op": "replace", "path": "/apexDescription", "value": "Uma pequena banheira fofa. Parece muito pequena para um Apex."}, {"op": "replace", "path": "/shortdescription", "value": "Basic Bath"}, {"op": "replace", "path": "/floranDescription", "value": "Balde de natação grande."}, {"op": "replace", "path": "/humanDescription", "value": "Um bela banheira quente. Exatamente o que o médico receitou. As únicas coisas que faltam são algumas bolhas e velas."}, {"op": "replace", "path": "/avianDescription", "value": "Uma banheira com chuveiro. Como água fora das costas de um Avian."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um local em que os humanos se lavam. Nós Hylotl simplesmente damos um mergulho."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu gosto de um banho quente de vez em quando."}]
+[
+  {
+    "op": "replace",
+    "value": "Basic Bath",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma banheira com chuveiro. Como água fora das costas de um Avian.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pequena banheira fofa. Parece muito pequena para um Apex.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um bela banheira quente. Exatamente o que o médico receitou. As únicas coisas que faltam são algumas bolhas e velas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um local em que os humanos se lavam. Nós Hylotl simplesmente damos um mergulho.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Balde de natação grande.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu gosto de um banho quente de vez em quando.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Presunçoso. Glitchs não precisam tomar banhos.",
+    "path": "/glitchDescription"
+  }
+]

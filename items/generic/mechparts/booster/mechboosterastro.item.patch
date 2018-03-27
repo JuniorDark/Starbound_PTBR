@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um conjunto de propulsores de alcance médio que usam uma série de propulsores longos."
+    "value": "Um conjunto de propulsores de alcance médio que usam uma série de propulsores longos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Astro Mech Boosters",
+    "path": "/shortdescription"
   }
 ]

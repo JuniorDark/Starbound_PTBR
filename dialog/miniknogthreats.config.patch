@@ -1,1 +1,42 @@
-[{"op":"replace","path":"/attack/default/default/0","value":"Fique esperto, soldado!"},{"op":"replace","path":"/attack/apex/default/0","value":"Inimigos da Miniknog!"},{"op":"replace","path":"/attack/apex/default/1","value":"Glória ao Big Ape! Destrua o rebelde!"},{"op":"replace","path":"/attack/apex/default/2","value":"Hostil avistado! Elimine-o!"},{"op":"replace","path":"/attack/apex/default/3","value":"Pelo nosso glorioso líder!"},{"op":"replace","path":"/attack/apex/default/4","value":"Inimigo avistado! Fogo à vontade!"},{"op":"replace","path":"/attack/apex/default/5","value":"Hostis à vista!"},{"op":"replace","path":"/attack/apex/default/6","value":"Mate o opositor, ganhe uma promoção!"}]
+[
+  {
+    "op": "replace",
+    "value": "Inimigos da Miniknog!",
+    "path": "/attack/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Inimigo avistado! Fogo à vontade!",
+    "path": "/attack/apex/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Pelo nosso glorioso líder!",
+    "path": "/attack/apex/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Glória ao Big Ape! Destrua o rebelde!",
+    "path": "/attack/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Hostil avistado! Elimine-o!",
+    "path": "/attack/apex/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Hostis à vista!",
+    "path": "/attack/apex/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Mate o opositor, ganhe uma promoção!",
+    "path": "/attack/apex/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Fique esperto, soldado!",
+    "path": "/attack/default/default/0"
+  }
+]

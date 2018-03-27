@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "É um fóssil. Eu me pergunto de que tipo é."}, {"op": "replace", "path": "/shortdescription", "value": "Unidentified Fossil"}]
+[
+  {
+    "op": "replace",
+    "value": "Unidentified Fossil",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um fóssil. Eu me pergunto de que tipo é.",
+    "path": "/description"
+  }
+]

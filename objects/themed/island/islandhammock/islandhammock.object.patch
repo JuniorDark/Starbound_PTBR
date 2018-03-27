@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Uma rede, hein? Agora, há uma idéia em que posso ficar para trás."}, {"op": "replace", "path": "/description", "value": "Para alguns, uma rede é a própria imagem do luxo."}, {"op": "replace", "path": "/shortdescription", "value": "Island Hammock"}, {"op": "replace", "path": "/floranDescription", "value": "Floran prefere dormir no chão."}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. Essa rede suportaria meu peso?"}, {"op": "replace", "path": "/apexDescription", "value": "Prefiro as camas em terra firme. Segurança em primeiro lugar."}, {"op": "replace", "path": "/humanDescription", "value": "Redes! A cama do homem comum errante."}, {"op": "replace", "path": "/avianDescription", "value": "Ser suspenso do chão enquanto você dorme é maravilhoso."}, {"op": "replace", "path": "/hylotlDescription", "value": "Não há elegância em dormir em uma cama tão simples."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma rede, hein? Agora, há uma idéia em que posso ficar para trás.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran prefere dormir no chão.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Redes! A cama do homem comum errante.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Prefiro as camas em terra firme. Segurança em primeiro lugar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Island Hammock",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não há elegância em dormir em uma cama tão simples.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ser suspenso do chão enquanto você dorme é maravilhoso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para alguns, uma rede é a própria imagem do luxo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Essa rede suportaria meu peso?",
+    "path": "/glitchDescription"
+  }
+]

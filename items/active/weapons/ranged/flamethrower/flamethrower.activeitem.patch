@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Flamethrower ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Amo o cheiro de napalm, a qualquer hora do dia."}, {"op": "replace", "path": "/shortdescription", "value": "Flamethrower"}]
+[
+  {
+    "op": "replace",
+    "value": "Flamethrower",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Flamethrower ^yellow;^reset;",
+    "path": "/upgradeParameters/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Amo o cheiro de napalm, a qualquer hora do dia.",
+    "path": "/description"
+  }
+]

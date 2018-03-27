@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A metade frontal de um Hemogoblin pode se mover de forma independente, mas ainda é apenas metade de um monstro."}, {"op": "replace", "path": "/shortdescription", "value": "Hemogoblin Head"}]
+[
+  {
+    "op": "replace",
+    "value": "Hemogoblin Head",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A metade frontal de um Hemogoblin pode se mover de forma independente, mas ainda é apenas metade de um monstro.",
+    "path": "/description"
+  }
+]

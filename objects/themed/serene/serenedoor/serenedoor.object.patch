@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "O formato torna esta porta muito segura."}, {"op": "replace", "path": "/humanDescription", "value": "Uma porta serena resistente."}, {"op": "replace", "path": "/avianDescription", "value": "Uma porta muito resistente."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma porta serena robusta."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta porta aqui parece muito segura."}, {"op": "replace", "path": "/description", "value": "Uma porta serena muito robusta."}, {"op": "replace", "path": "/shortdescription", "value": "Serene Door"}, {"op": "replace", "path": "/floranDescription", "value": "Floran se esconde atrás da porta. Pula fora. Essfaqueia!"}, {"op": "replace", "path": "/glitchDescription", "value": "Aprovação. A forma desta porta a torna muito resistente."}]
+[
+  {
+    "op": "replace",
+    "value": "Floran se esconde atrás de porta. Pular fora. Essfaqueia!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta serena robusta.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta serena resistente.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta serena muito robusta.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Aprovação. A forma desta porta a torna muito resistente.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Serene Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O formato torna esta porta muito segura.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta aqui parece muito segura.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta muito resistente.",
+    "path": "/avianDescription"
+  }
+]

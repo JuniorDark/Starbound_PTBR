@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um pedaço de papel com piadas terríveis escritas nele."}, {"op": "replace", "path": "/shortdescription", "value": "Comedy Script"}]
+[
+  {
+    "op": "replace",
+    "value": "Um pedaço de papel com piadas terríveis escritas nele.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Comedy Script",
+    "path": "/shortdescription"
+  }
+]

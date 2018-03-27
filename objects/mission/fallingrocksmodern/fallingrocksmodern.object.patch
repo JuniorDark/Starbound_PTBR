@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Rochas caindo. Por que uma caverna não pode ser segura pelo menos uma vez?"}, {"op": "replace", "path": "/description", "value": "Uma placa de aviso que mostra rochas caindo."}, {"op": "replace", "path": "/floranDescription", "value": "Uma placa para rochasss inssstáveis."}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. Talvez isso represente que a área é insegura?"}, {"op": "replace", "path": "/apexDescription", "value": "Esta placa adverte claramente sobre rochas instáveis."}, {"op": "replace", "path": "/avianDescription", "value": "Uma placa avisando de pedras caindo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Talvez o artista estivesse tentando alertar os outros."}, {"op": "replace", "path": "/shortdescription", "value": "Falling Rocks Sign"}, {"op": "replace", "path": "/novakidDescription", "value": "Melhor tomar cuidado com pedras caindo à frente."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma placa avisando de pedras caindo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa para rochasss inssstáveis.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa de aviso que mostra rochas caindo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Falling Rocks Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta placa adverte claramente sobre rochas instáveis.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Talvez isso represente que a área é insegura?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Melhor tomar cuidado com pedras caindo à frente.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rochas caindo. Por que uma caverna não pode ser segura pelo menos uma vez?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez o artista estivesse tentando alertar os outros.",
+    "path": "/hylotlDescription"
+  }
+]

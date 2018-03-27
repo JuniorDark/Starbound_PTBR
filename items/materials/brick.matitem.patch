@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Bricks"}, {"op": "replace", "path": "/description", "value": "Tijolos pequenos feitos de argila."}]
+[
+  {
+    "op": "replace",
+    "value": "Bricks",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Belo tijolo.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Estes tijolos foram cuidadosamente formado e arranjado.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijolos pequenos feitos de argila.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Tijoloss ssimpless.",
+    "path": "/florandescription"
+  }
+]

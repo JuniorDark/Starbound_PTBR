@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Blue Neon Block"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de ssímboloss brilhantess."}, {"op": "replace", "path": "/glitchDescription", "value": "Interessado. O significado deste símbolo é desconhecido."}, {"op": "replace", "path": "/novakidDescription", "value": "Um bloco com algum tipo de símbolo levemente brilhante."}, {"op": "replace", "path": "/description", "value": "Um bloco com um glifo azul estranho cravado no centro."}]
+[
+  {
+    "op": "replace",
+    "value": "Um bloco com algum tipo de símbolo levemente brilhante.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um bloco com um glifo azul estranho cravado no centro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Blue Neon Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de ssímboloss brilhantess.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. O significado deste símbolo é desconhecido.",
+    "path": "/glitchDescription"
+  }
+]

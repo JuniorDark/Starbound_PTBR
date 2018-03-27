@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Copper Greaves"}, {"op": "replace", "path": "/description", "value": "Um par prático de calças de cobre."}]
+[
+  {
+    "op": "replace",
+    "value": "Um par prático de calças de cobre.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Copper Greaves",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,137 @@
-[{"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "Em seguida você vai precisar caçar um ^orange;<monster>.^white; Eu estava andando pelo ^orange;<spawnPoint>^white; <spawnPoint.direction> mais cedo e ele me emboscou e pegou meu ^orange;<items>. Você poderia ^green;localizar a criatura e devolver o que ele pegou?"}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Ok, agora Floran precisa ^orange;<items>. ^white;Floran viu ^orange;<monster> ^white;perto de ^orange;<spawnPoint>^white; <spawnPoint.direction> engolir as coisas que precisamos! ^green;Cace o ^orange;<monster> ^white;para Floran e ^green;traga de volta as coisasss."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "O próximo passo não é complicado. Um ^orange;<monster> ^white;perto de ^orange;<spawnPoint>^white; <spawnPoint.direction> comeu os ^orange;<items> ^white;de Floran. ^green;Cace ^orange;<monster> ^white;\r\npara Floran e ^green;obtenha as coisas de volta."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Em seguida, ^green;vou precisar de você para caçar o ^orange;<monster>^white; que engoliu meus ^orange;<items>^white; e saiu correndo outro dia -- Eu preciso de minhas coisas de volta. Aquele ^orange;<monster>^white; deve estar perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Chocado. Eu fui recentemente atacado por um feroz ^orange;<monster>, ^white;que fugiu com meu ^orange;<items>^white;. Ele foi para o ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green;caçar a criatura para mim?^white; Ele não deve ter ido longe."}, {"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Cace o <monster>"}, {"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Traga o <items> para <questGiver>"}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/glitch/0", "value": "Vitorioso. Você recuperou meus pertences para mim! Da próxima vez que um <monster> covarde me emboscar, eu vou estar pronto."}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/default/1", "value": "Que nojo, isso estava no estômago daquele <monster>? Eu acho que eu não posso reclamar, obrigado por fazer o trabalho sujo."}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/floran/1", "value": "Floran sabia que você iria fazer isso! <player> o caçador de <monster>! Parece bom, né? E agora Floran tem o que precisamosss."}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Bom trabalho! Aposto que <monster> se arrepende de comer coisas de Floran agora. Ok, vamos fazer uso dos <items>."}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "Bom trabalho! Floran não tinha certeza se você ia ter sucesso. Parece que você não pediu a <monster> gentilmente, Floran irá limpar essass coisass antes de usar."}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/glitch/1", "value": "Impressionado. Você conseguiu derrotar aquele <monster>!? Você deve ser um grande guerreiro! Obrigado por sua ajuda."}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/default/0", "value": "Ótimo trabalho! Aquele <monster> não vai incomodando mais ninguém! E devemos ter tudo o que precisamos para a fase dois."}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/first/floran/0", "value": "Impressionante - você é um bom caçador. As coisas que o <monster> comeu estão um pouco pegajosasss, mas ainda continua utilizável."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/first/glitch/1", "value": "Nervoso. Um ^orange;<monster> ^white;me emboscou no ^orange;<spawnPoint>^white; <spawnPoint.direction> e pegou ^orange;<items>^white;! Você pode ^green;caçar a criatura e recuperar as minhas posses para mim?"}, {"op": "replace", "path": "/scriptConfig/generatedText/text/first/default/0", "value": "O primeiro passo é ^green;encontrar o ^orange;<monster>^white; que está me dando problemas. Ele fugiu com ^orange;<items>,^white; em direção a ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^green;Você não se importa de caça-lo?"}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Contente. Você recuperou meus pertences - mesmo que eles tenham cheiro de <monster>!"}, {"op": "replace", "path": "/scriptConfig/generatedText/text/first/default/1", "value": "A primeira coisa que você precisa é ^orange;<items>.^white; Infelizmente, um grande <monster> comeu meus suprimentos. Ele deve estar rondando perto do ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green;matar aquele ^orange;<monster>^green; e trazê-los de volta?"}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Aquele <monster> finalmente se foi? Obrigado! Agora que nós temos <items> podemos avançar."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/first/floran/0", "value": "Primeiro, nós precisamos dos ^orange;<items>^white; de Floran. Não é difícil encontrar. <monster> solitário perto de ^orange;<spawnPoint>^white; <spawnPoint.direction> comeu eles. ^green;Cace o ^orange;<monster> ^green;e traga as coisasss de Floran de volta!"}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "Obrigado! Aquele <monster> deveria ter pensado duas vezes antes de correr com as coisas que não pertenciam a ele."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/first/glitch/0", "value": "Desnorteado. Eu tinha acabado de coletar ^orange;<items>^white; quando um ^orange;<monster> no <spawnPoint>\r\n <spawnPoint.direction> engoliu todos eles! ^white;Você poderia ir ^green;caçar a besta e recuperar meus pertences^white; para mim?"}, {"op": "replace", "path": "/scriptConfig/generatedText/text/first/floran/1", "value": "Primeiro passo, Floran precisa que você vá em uma pequena caça. Floran viu um ^orange;<monster> ^white;nas proximidades engolir ^orange;<items> perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^white;<monster> ganancioso! ^green;Caçe-o e traga pra Floran as coisas de dentro."}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Aliviado. Obrigado por recuperar meus pertences - Eles são importantes para os meus planos. Esperemos que quaisquer feras errantes vão aprender a não nos antagonizar no futuro!"}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Envergonhado. Eu fui atacado por um feroz ^orange;<monster> no <spawnPoint>^white; <spawnPoint.direction>, e ele engoliu minhas posses na luta. Ele levou ^orange;<items>, ^white;você poderia ^green;caçá-lo e recuperar as minhas coisas^white; para mim?"}]
+[
+  {
+    "op": "replace",
+    "value": "Nutmidge",
+    "path": "/parameters/monster/example/name"
+  },
+  {
+    "op": "replace",
+    "value": "Envergonhado. Eu fui atacado por um feroz ^orange;<monster> no <spawnPoint>^white; <spawnPoint.direction>, e ele engoliu minhas posses na luta. Ele levou ^orange;<items>, ^white;você poderia ^green;caçá-lo e recuperar as minhas coisas^white; para mim?",
+    "path": "/scriptConfig/generatedText/text/default/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Desnorteado. Eu tinha acabado de coletar ^orange;<items>^white; quando um ^orange;<monster> no <spawnPoint>\r\n <spawnPoint.direction> engoliu todos eles! ^white;Você poderia ir ^green;caçar a besta e recuperar meus pertences^white; para mim?",
+    "path": "/scriptConfig/generatedText/text/first/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Traga o <items> para <questGiver>",
+    "path": "/scriptConfig/objectives/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "Primeiro, nós precisamos dos ^orange;<items>^white; de Floran. Não é difícil encontrar. <monster> solitário perto de ^orange;<spawnPoint>^white; <spawnPoint.direction> comeu eles. ^green;Cace o ^orange;<monster> ^green;e traga as coisasss de Floran de volta!",
+    "path": "/scriptConfig/generatedText/text/first/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Primeiro passo, Floran precisa que você vá em uma pequena caça. Floran viu um ^orange;<monster> ^white;nas proximidades engolir ^orange;<items> perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^white;<monster> ganancioso! ^green;Caçe-o e traga pra Floran as coisas de dentro.",
+    "path": "/scriptConfig/generatedText/text/first/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran sabia que você iria fazer isso! <player> o caçador de <monster>! Parece bom, né? E agora Floran tem o que precisamosss.",
+    "path": "/scriptConfig/generatedText/completionText/first/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Bom trabalho! Aposto que <monster> se arrepende de comer coisas de Floran agora. Ok, vamos fazer uso dos <items>.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ótimo trabalho! Aquele <monster> não vai incomodando mais ninguém! E devemos ter tudo o que precisamos para a fase dois.",
+    "path": "/scriptConfig/generatedText/completionText/first/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Cace o <monster>",
+    "path": "/scriptConfig/objectives/0/text"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Você conseguiu derrotar aquele <monster>!? Você deve ser um grande guerreiro! Obrigado por sua ajuda.",
+    "path": "/scriptConfig/generatedText/completionText/first/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionante - você é um bom caçador. As coisas que o <monster> comeu estão um pouco pegajosasss, mas ainda continua utilizável.",
+    "path": "/scriptConfig/generatedText/completionText/first/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Nervoso. Um ^orange;<monster> ^white;me emboscou no ^orange;<spawnPoint>^white; <spawnPoint.direction> e pegou ^orange;<items>^white;! Você pode ^green;caçar a criatura e recuperar as minhas posses para mim?",
+    "path": "/scriptConfig/generatedText/text/first/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "O próximo passo não é complicado. Um ^orange;<monster> ^white;perto de ^orange;<spawnPoint>^white; <spawnPoint.direction> comeu os ^orange;<items> ^white;de Floran. ^green;Cace ^orange;<monster> ^white;\r\npara Floran e ^green;obtenha as coisas de volta.",
+    "path": "/scriptConfig/generatedText/text/default/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Em seguida você vai precisar caçar um ^orange;<monster>.^white; Eu estava andando pelo ^orange;<spawnPoint>^white; <spawnPoint.direction> mais cedo e ele me emboscou e pegou meu ^orange;<items>. Você poderia ^green;localizar a criatura e devolver o que ele pegou?",
+    "path": "/scriptConfig/generatedText/text/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Em seguida, ^green;vou precisar de você para caçar o ^orange;<monster>^white; que engoliu meus ^orange;<items>^white; e saiu correndo outro dia -- Eu preciso de minhas coisas de volta. Aquele ^orange;<monster>^white; deve estar perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>.",
+    "path": "/scriptConfig/generatedText/text/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Bom trabalho! Floran não tinha certeza se você ia ter sucesso. Parece que você não pediu a <monster> gentilmente, Floran irá limpar essass coisass antes de usar.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Ok, agora Floran precisa ^orange;<items>. ^white;Floran viu ^orange;<monster> ^white;perto de ^orange;<spawnPoint>^white; <spawnPoint.direction> engolir as coisas que precisamos! ^green;Cace o ^orange;<monster> ^white;para Floran e ^green;traga de volta as coisasss.",
+    "path": "/scriptConfig/generatedText/text/default/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Contente. Você recuperou meus pertences - mesmo que eles tenham cheiro de <monster>!",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Aliviado. Obrigado por recuperar meus pertences - Eles são importantes para os meus planos. Esperemos que quaisquer feras errantes vão aprender a não nos antagonizar no futuro!",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Chocado. Eu fui recentemente atacado por um feroz ^orange;<monster>, ^white;que fugiu com meu ^orange;<items>^white;. Ele foi para o ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green;caçar a criatura para mim?^white; Ele não deve ter ido longe.",
+    "path": "/scriptConfig/generatedText/text/default/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado! Aquele <monster> deveria ter pensado duas vezes antes de correr com as coisas que não pertenciam a ele.",
+    "path": "/scriptConfig/generatedText/completionText/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Aquele <monster> finalmente se foi? Obrigado! Agora que nós temos <items> podemos avançar.",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "O primeiro passo é ^green;encontrar o ^orange;<monster>^white; que está me dando problemas. Ele fugiu com ^orange;<items>,^white; em direção a ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^green;Você não se importa de caça-lo?",
+    "path": "/scriptConfig/generatedText/text/first/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "A primeira coisa que você precisa é ^orange;<items>.^white; Infelizmente, um grande <monster> comeu meus suprimentos. Ele deve estar rondando perto do ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green;matar aquele ^orange;<monster>^green; e trazê-los de volta?",
+    "path": "/scriptConfig/generatedText/text/first/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Vitorioso. Você recuperou meus pertences para mim! Da próxima vez que um <monster> covarde me emboscar, eu vou estar pronto.",
+    "path": "/scriptConfig/generatedText/completionText/first/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Que nojo, isso estava no estômago daquele <monster>? Eu acho que eu não posso reclamar, obrigado por fazer o trabalho sujo.",
+    "path": "/scriptConfig/generatedText/completionText/first/default/1"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Exposição prolongada aos seus vapores pungentes vai te nocautear."}, {"op": "replace", "path": "/shortdescription", "value": "Miasmop"}]
+[
+  {
+    "op": "replace",
+    "value": "Miasmop",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Exposição prolongada aos seus vapores pungentes vai te nocautear.",
+    "path": "/description"
+  }
+]

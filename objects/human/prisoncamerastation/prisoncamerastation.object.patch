@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Security Camera Station"}, {"op": "replace", "path": "/glitchDescription", "value": "Inspecionando. Eu tenho certeza que uma dessas câmeras está em um loop."}, {"op": "replace", "path": "/apexDescription", "value": "Eu tenho certeza que eu vi alguém desaparecendo de um canto em uma das telas."}, {"op": "replace", "path": "/humanDescription", "value": "Uma dessas telas está exibindo um feed de mim assistindo as telas."}, {"op": "replace", "path": "/avianDescription", "value": "Eu me sinto como um pervertido."}, {"op": "replace", "path": "/hylotlDescription", "value": "Que aparelho intrusivo."}, {"op": "replace", "path": "/description", "value": "Um conjunto de monitores exibindo os feeds das câmeras de segurança. Cuidado com a atividade paranormal."}, {"op": "replace", "path": "/floranDescription", "value": "Muitas telasss. Todas eles são igualmente desinteressantes."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma estação de espionagem."}]
+[
+  {
+    "op": "replace",
+    "value": "Um conjunto de monitores exibindo os feeds das câmeras de segurança. Cuidado com a atividade paranormal.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estação de espionagem.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me sinto como um pervertido.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu tenho certeza que eu vi alguém desaparecendo de um canto em uma das telas.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inspecionando. Eu tenho certeza que uma dessas câmeras está em um loop.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma dessas telas está exibindo um feed de mim assistindo as telas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Security Camera Station",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Muitas telasss. Todas eles são igualmente desinteressantes.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que aparelho intrusivo.",
+    "path": "/hylotlDescription"
+  }
+]

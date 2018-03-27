@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "A todo vapor!"
+    "value": "A todo vapor!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Steam Whistle Mech Horn",
+    "path": "/shortdescription"
   }
 ]

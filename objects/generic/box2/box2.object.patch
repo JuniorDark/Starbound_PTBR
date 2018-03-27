@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma caixa de madeira reforçada."}, {"op": "replace", "path": "/shortdescription", "value": "Secure Wooden Crate"}, {"op": "replace", "path": "/floranDescription", "value": "O metal prende esta caixa de madeira junto."}, {"op": "replace", "path": "/apexDescription", "value": "Uma caixa de madeira que foi reforçada."}, {"op": "replace", "path": "/humanDescription", "value": "Uma caixa de madeira prendida junto com metal."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta caixa aqui parece um pequeno barril quadrado."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma caixa simples de madeira e metal."}, {"op": "replace", "path": "/avianDescription", "value": "Uma caixa feita de madeira e metal."}, {"op": "replace", "path": "/glitchDescription", "value": "Interessado. Estes suportes de metal tornaram esta caixa significativamente mais forte."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma caixa feita de madeira e metal.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de madeira reforçada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa simples de madeira e metal.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de madeira prendida junto com metal.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de madeira que foi reforçada.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Estes suportes de metal tornaram esta caixa significativamente mais forte.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O metal prende esta caixa de madeira junto.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Secure Wooden Crate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta caixa aqui parece um pequeno barril quadrado.",
+    "path": "/novakidDescription"
+  }
+]

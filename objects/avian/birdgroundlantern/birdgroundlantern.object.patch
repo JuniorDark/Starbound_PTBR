@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Sombras profundas se afastam dessa tocha cintilante."}, {"op": "replace", "path": "/shortdescription", "value": "Torch Stand"}, {"op": "replace", "path": "/floranDescription", "value": "Chamasss deixam Floran nervoso."}, {"op": "replace", "path": "/glitchDescription", "value": "Aliviado. A luz desta tocha ilumina a área vagamente."}, {"op": "replace", "path": "/apexDescription", "value": "A tocha fornece uma luz suave."}, {"op": "replace", "path": "/humanDescription", "value": "Uma tocha de aparência antiga."}, {"op": "replace", "path": "/avianDescription", "value": "Templos Avian são iluminados apenas com luz natural."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os Hylotl não acendem tochas. Abaixo do oceano, o ar é muito precioso para ser desperdiçado."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta tocha tem uma chama decente, não é grande o suficiente para cozinhar, no entanto."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma tocha de aparência antiga.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Templos Avian são iluminados apenas com luz natural.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sombras profundas se afastam dessa tocha cintilante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Chamasss deixam Floran nervoso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aliviado. A luz desta tocha ilumina a área vagamente.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Hylotl não acendem tochas. Abaixo do oceano, o ar é muito precioso para ser desperdiçado.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A tocha fornece uma luz suave.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta tocha tem uma chama decente, não é grande o suficiente para cozinhar, no entanto.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Torch Stand",
+    "path": "/shortdescription"
+  }
+]

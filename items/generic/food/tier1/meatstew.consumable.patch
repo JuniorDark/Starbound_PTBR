@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Exatamente como mamãe fazia!"}, {"op": "replace", "path": "/shortdescription", "value": "Meat Stew"}]
+[
+  {
+    "op": "replace",
+    "value": "Exatamente como mamãe fazia!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Meat Stew",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma plataforma autopropulsada que segue trilhos."}, {"op": "replace", "path": "/shortdescription", "value": "Composite Rail Platform"}]
+[
+  {
+    "op": "replace",
+    "value": "Composite Rail Platform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma plataforma autopropulsada que segue trilhos.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/0", "value": "Intruso!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/0", "value": "CORTAR E PICAR!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/floran/default/1", "value": "CORTAR E PICAR!"}]
+[
+  {
+    "op": "replace",
+    "value": "Intruso!",
+    "path": "/scriptConfig/dialog/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "CORTAR E PICAR!",
+    "path": "/scriptConfig/dialog/attack/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "CORTAR E PICAR!",
+    "path": "/scriptConfig/dialog/attack/floran/default/1"
+  }
+]

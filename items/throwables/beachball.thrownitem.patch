@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Beachball"}, {"op": "replace", "path": "/description", "value": "É uma bola de praia inflável."}]
+[
+  {
+    "op": "replace",
+    "value": "Beachball",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma bola de praia inflável.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Vamoss lá!"}, {"op": "replace", "path": "/glitchDescription", "value": "Animado. Uma vez enchido, podemos visitar outro planeta."}, {"op": "replace", "path": "/apexDescription", "value": "Converte combustível em liberdade."}, {"op": "replace", "path": "/avianDescription", "value": "Vamos carregá-lo e ir para as estrelas!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Combustível é a força vital da exploração."}, {"op": "replace", "path": "/shortdescription", "value": "Broken FTL Fuel Hatch"}, {"op": "replace", "path": "/humanDescription", "value": "Um tanque de combustível. Eu posso encher isso e explorar."}, {"op": "replace", "path": "/novakidDescription", "value": "Combustível FTL entra aqui! Quando estiver consertado..."}, {"op": "replace", "path": "/description", "value": "Um tanque de combustível FTL quebrado. Isso não vai adiantar!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um tanque de combustível FTL quebrado. Isso não vai adiantar!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um tanque de combustível. Eu posso encher isso e explorar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Broken FTL Fuel Hatch",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Converte combustível em liberdade.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. Uma vez enchido, podemos visitar outro planeta.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Combustível FTL entra aqui! Quando estiver consertado...",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Combustível é a força vital da exploração.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos carregá-lo e ir para as estrelas!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vamoss lá!",
+    "path": "/floranDescription"
+  }
+]

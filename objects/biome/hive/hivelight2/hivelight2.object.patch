@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Analítico. Esta luz parece ser alimentada por algum tipo de fluido orgânico."}, {"op": "replace", "path": "/floranDescription", "value": "Olhos de Floran machucam se Floran olha para luz."}, {"op": "replace", "path": "/description", "value": "Uma luz sinistra de colméia."}, {"op": "replace", "path": "/shortdescription", "value": "Small Hive Light"}, {"op": "replace", "path": "/apexDescription", "value": "A luz me faz sentir desconfortável."}, {"op": "replace", "path": "/humanDescription", "value": "Os pêlos na parte de trás do meu pescoço estão em pé."}, {"op": "replace", "path": "/avianDescription", "value": "Há alguma coisa doentia sobre essa luz."}, {"op": "replace", "path": "/hylotlDescription", "value": "Que luz básica adorável!"}, {"op": "replace", "path": "/novakidDescription", "value": "O que está alimentando esta luz? Eu não gosto disso."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz sinistra de colméia.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Analítico. Esta luz parece ser alimentada por algum tipo de fluido orgânico.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Olhos de Floran machucam se Floran olha para luz.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Small Hive Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os pêlos na parte de trás do meu pescoço estão em pé.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A luz me faz sentir desconfortável.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há alguma coisa doentia sobre essa luz.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que luz básica adorável!",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que está alimentando esta luz? Eu não gosto disso.",
+    "path": "/novakidDescription"
+  }
+]

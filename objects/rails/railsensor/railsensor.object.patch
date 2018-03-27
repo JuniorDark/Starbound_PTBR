@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Detecta rail riders ao passar"}, {"op": "replace", "path": "/shortdescription", "value": "Rail Sensor"}]
+[
+  {
+    "op": "replace",
+    "value": "Detecta rail riders ao passar",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Rail Sensor",
+    "path": "/shortdescription"
+  }
+]

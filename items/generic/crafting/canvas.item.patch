@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Canvas"}, {"op": "replace", "path": "/description", "value": "Um quadrado de tela de alta qualidade."}]
+[
+  {
+    "op": "replace",
+    "value": "Um quadrado de tela de alta qualidade.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Canvas",
+    "path": "/shortdescription"
+  }
+]

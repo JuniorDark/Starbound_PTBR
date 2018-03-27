@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Algumas algas alienígenas."}, {"op": "replace", "path": "/shortdescription", "value": "Alien Seaweed"}]
+[
+  {
+    "op": "replace",
+    "value": "Alien Seaweed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas algas alienígenas.",
+    "path": "/description"
+  }
+]

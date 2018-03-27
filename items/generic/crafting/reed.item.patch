@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um maço de juncos cortados."}, {"op": "replace", "path": "/shortdescription", "value": "Reed"}]
+[
+  {
+    "op": "replace",
+    "value": "Um maço de juncos cortados.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Reed",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/description", "value": "Uma estátua dedicada a Benjamin \"Meuterion\" Deust."}, {"op": "replace", "path": "/shortdescription", "value": "Benjamin Deust Statue"}, {"op": "replace", "path": "/floranDescription", "value": "Floran acha que este homem fez algo importante se ele é uma estátua."}, {"op": "replace", "path": "/glitchDescription", "value": "Atento. Esta placa é dedicada ao grande Benjamin \"Meuterion\" Deust."}, {"op": "replace", "path": "/hylotlDescription", "value": "Diz-se que estátuas para grandes homens são feitas das pedras jogadas neles em sua vida."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estátua dedicada a Benjamin \"Meuterion\" Deust.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Benjamin Deust Statue",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Diz-se que estátuas para grandes homens são feitas das pedras jogadas neles em sua vida.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Esta placa é dedicada ao grande Benjamin \"Meuterion\" Deust.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A placa diz \"Uma estátua dedicada a Benjamin \"Meuterion\" Deust.\"",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A placa diz \"Uma estátua dedicada a Benjamin \"Meuterion\" Deust.\"",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A placa diz \"Uma estátua dedicada a Benjamin \"Meuterion\" Deust.\"",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran acha que este homem fez algo importante sse ele é uma esstátua.",
+    "path": "/floranDescription"
+  }
+]

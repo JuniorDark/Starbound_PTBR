@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma luz fluorescente incrivelmente brilhante."}, {"op": "replace", "path": "/shortdescription", "value": "Tall Fluorescent Lamp"}, {"op": "replace", "path": "/floranDescription", "value": "Luz cintilante barulhenta."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Os níveis de brilho são ligeiramente altos demais para os olhos humanos."}, {"op": "replace", "path": "/apexDescription", "value": "Uma luz brilhante. Me lembra de celas da Miniknog."}, {"op": "replace", "path": "/humanDescription", "value": "Uma luz desconfortavelmente brilhante."}, {"op": "replace", "path": "/avianDescription", "value": "Esta luz é excessivamente brilhante."}, {"op": "replace", "path": "/hylotlDescription", "value": "O criador desta luz ficou um pouco empolgado."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma lâmpada brilhantemente luminosa."}]
+[
+  {
+    "op": "replace",
+    "value": "Luz cintilante barulhenta.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tall Fluorescent Lamp",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz fluorescente incrivelmente brilhante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz brilhante. Me lembra de celas da Miniknog.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada brilhantemente luminosa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz desconfortavelmente brilhante.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Os níveis de brilho são ligeiramente altos demais para os olhos humanos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O criador desta luz ficou um pouco empolgado.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz é excessivamente brilhante.",
+    "path": "/avianDescription"
+  }
+]

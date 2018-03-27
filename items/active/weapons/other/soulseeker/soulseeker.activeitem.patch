@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Soulseeker ^yellow;^reset;"}, {"op": "replace", "path": "/shortdescription", "value": "Soulseeker"}, {"op": "replace", "path": "/description", "value": "Uma espada de poder negro extraordinário, uma vez usada por uma alma poderosa."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma espada de poder negro extraordinário, uma vez usada por uma alma poderosa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Soulseeker",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Soulseeker ^yellow;^reset;",
+    "path": "/upgradeParameters/shortdescription"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/contentPages/2", "value": "Debaixo da proteção da Miniknog, recursos suficientes foram coletados para prover moradia á população inteira, rica e pobre.\n\nAté hoje a Miniknog está comprometida com sua valente pesquisa. Talvez um dia eles irão restaurar a identidade física perdida dos Apex."}, {"op": "replace", "path": "/contentPages/0", "value": "Por um incalculável período de tempo, os Apex sonharam com o destino prometido a nós, um sussurro vindo das estrelas nos dizendo de uma grandiosidade que ia além de nossa forma natural. Escrito em nosso DNA, uma vida de mediocridade, nós permanecemos em nosso pequeno terreno do universo.\n\nEntão chegou o dia em que a Miniknog foi formada - As mentes mais brilhantes de nosso povo, unidas juntas para a pesquisa mais importante na história da ciência."}, {"op": "replace", "path": "/title", "value": "A Espécie Superior"}, {"op": "replace", "path": "/description", "value": "Um livro sobre como os Apex vieram a ser o que são."}, {"op": "replace", "path": "/contentPages/1", "value": "Quando uma praga devastadora atingiu, a descoberta da cura veio com um efeito colateral mais inesperado. O Processo Vestigi-Evo, ou PVE, foi inventado - Trocando devolução física por evolução intelectual.\n\nO PVE nos permitiu se tornar a raça que estávamos destinados a ser. Com nosso intelecto avançado, os Apex espalharam-se de forma eficiente em todo o universo, tornando-se uma presença ativa na comunidade galáctica."}]
+[
+  {
+    "op": "replace",
+    "value": "Um livro sobre como os Apex vieram a ser o que são.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Por um incalculável período de tempo, os Apex sonharam com o destino prometido a nós, um sussurro vindo das estrelas nos dizendo de uma grandiosidade que ia além de nossa forma natural. Escrito em nosso DNA, uma vida de mediocridade, nós permanecemos em nosso pequeno terreno do universo.\n\nEntão chegou o dia em que a Miniknog foi formada - As mentes mais brilhantes de nosso povo, unidas juntas para a pesquisa mais importante na história da ciência.",
+    "path": "/contentPages/0"
+  },
+  {
+    "op": "replace",
+    "value": "A Espécie Superior",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Debaixo da proteção da Miniknog, recursos suficientes foram coletados para prover moradia á população inteira, rica e pobre.\n\nAté hoje a Miniknog está comprometida com sua valente pesquisa. Talvez um dia eles irão restaurar a identidade física perdida dos Apex.",
+    "path": "/contentPages/2"
+  },
+  {
+    "op": "replace",
+    "value": "Quando uma praga devastadora atingiu, a descoberta da cura veio com um efeito colateral mais inesperado. O Processo Vestigi-Evo, ou PVE, foi inventado - Trocando devolução física por evolução intelectual.\n\nO PVE nos permitiu se tornar a raça que estávamos destinados a ser. Com nosso intelecto avançado, os Apex espalharam-se de forma eficiente em todo o universo, tornando-se uma presença ativa na comunidade galáctica.",
+    "path": "/contentPages/1"
+  }
+]

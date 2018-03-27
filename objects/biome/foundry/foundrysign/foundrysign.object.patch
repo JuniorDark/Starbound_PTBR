@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Uh oh! É melhor eu prestar atenção a esta placa ou vou ter minhas penas chamuscadas."}, {"op": "replace", "path": "/description", "value": "Uma placa brilhante avisando de temperaturas perigosamente altas."}, {"op": "replace", "path": "/shortdescription", "value": "Foundry Sign"}, {"op": "replace", "path": "/floranDescription", "value": "Floran é sssempre cauteloso com fogo."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Uma placa de aviso, aludindo ao fogo nas proximidades."}, {"op": "replace", "path": "/apexDescription", "value": "Uma placa indicando calor ou fogo."}, {"op": "replace", "path": "/humanDescription", "value": "Cuidado com os perigos do calor."}, {"op": "replace", "path": "/hylotlDescription", "value": "O símbolo de chama nesta placa significa temperaturas extremas."}, {"op": "replace", "path": "/novakidDescription", "value": "Perigos de calor à frente."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma placa brilhante avisando de temperaturas perigosamente altas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa indicando calor ou fogo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cuidado com os perigos do calor.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Uma placa de aviso, aludindo ao fogo nas proximidades.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran é sssempre cauteloso com fogo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Foundry Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perigos de calor à frente.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O símbolo de chama nesta placa significa temperaturas extremas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uh oh! É melhor eu prestar atenção a esta placa ou vou ter minhas penas chamuscadas.",
+    "path": "/avianDescription"
+  }
+]

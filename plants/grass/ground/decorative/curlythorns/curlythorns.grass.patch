@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Espinhos afiados."}, {"op": "replace", "path": "/shortdescription", "value": "Espinhos afiados."}, {"op": "replace", "path": "/floranDescription", "value": "Espinhos afiados e pontudos."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Espinhos afiados."}]
+[
+  {
+    "op": "replace",
+    "value": "Espinhos afiados.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Espinhos afiados.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espinhos afiados e pontudos.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Espinhos afiados.",
+    "path": "/glitchDescription"
+  }
+]

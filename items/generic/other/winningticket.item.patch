@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Estes são concedidos a pessoas que venceram o jogo \"Mazebound64\"."}, {"op": "replace", "path": "/shortdescription", "value": "Winning Ticket"}]
+[
+  {
+    "op": "replace",
+    "value": "Estes são concedidos a pessoas que venceram o jogo \"Mazebound64\".",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Winning Ticket",
+    "path": "/shortdescription"
+  }
+]

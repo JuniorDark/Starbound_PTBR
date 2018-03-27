@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Uma massa de geléia viscosa, brilhante e colorida."}, {"op": "replace", "path": "/shortdescription", "value": "Jelly Blob"}, {"op": "replace", "path": "/floranDescription", "value": "Geléia melequenta."}, {"op": "replace", "path": "/glitchDescription", "value": "Desconfortável. Eu não gosto da forma como esta geléia meche."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma bagunça de geléia de aparência viscosa."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma bagunça de geléia de aparência viscosa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma massa de geléia viscosa, brilhante e colorida.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Jelly Blob",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Geléia melequenta.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desconfortável. Eu não gosto da forma como esta geléia meche.",
+    "path": "/glitchDescription"
+  }
+]

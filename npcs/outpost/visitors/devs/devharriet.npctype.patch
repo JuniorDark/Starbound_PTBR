@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Oi, sou Harriet! Eu amo RPGs de Ficção científica."}]
+[
+  {
+    "op": "replace",
+    "value": "Oi, sou Harriet! Eu amo RPGs de Ficção científica.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma roda de carroça de madeira decorativa."}, {"op": "replace", "path": "/shortdescription", "value": "Wagon Wheel"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não sssabe o propósito de roda."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Eu me pergunto se isso já foi anexado a uma carroça de verdade?"}, {"op": "replace", "path": "/apexDescription", "value": "Uma roda, possivelmente de uma carroça velha."}, {"op": "replace", "path": "/humanDescription", "value": "Eu não esperava que uma antiga roda de carroça fizesse uma boa decoração, mas isso funciona muito bem!"}, {"op": "replace", "path": "/avianDescription", "value": "Uma roda de madeira. Talvez já tenha sido parte de um veículo?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Não sei bem qual é o propósito desta roda. É simplesmente decoração?"}, {"op": "replace", "path": "/novakidDescription", "value": "A roda de carroça - um belo adereço para qualquer habitação!"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma roda de carroça de madeira decorativa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma roda, possivelmente de uma carroça velha.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma roda de madeira. Talvez já tenha sido parte de um veículo?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Eu me pergunto se isso já foi anexado a uma carroça de verdade?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não sssabe o propósito de roda.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não esperava que uma antiga roda de carroça fizesse uma boa decoração, mas isso funciona muito bem!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não sei bem qual é o propósito desta roda. É simplesmente decoração?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A roda de carroça - um belo adereço para qualquer habitação!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wagon Wheel",
+    "path": "/shortdescription"
+  }
+]

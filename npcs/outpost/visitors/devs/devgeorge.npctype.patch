@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Ei, sou George!"}]
+[
+  {
+    "op": "replace",
+    "value": "Ei, sou George!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

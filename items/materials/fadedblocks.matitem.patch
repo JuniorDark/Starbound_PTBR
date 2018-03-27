@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Tijolo macio desbotado."}, {"op": "replace", "path": "/shortdescription", "value": "Soft Brick"}]
+[
+  {
+    "op": "replace",
+    "value": "Alguns tijolos de aparência suave.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dedutivo. Estes tijolos desbotados foram suavizados pela passagem do tempo.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Soft Brick",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijolo macio desbotado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Tijolosss macio desbotado.",
+    "path": "/florandescription"
+  }
+]

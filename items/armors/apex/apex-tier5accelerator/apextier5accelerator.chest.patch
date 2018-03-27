@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Rogue's Chestguard"}, {"op": "replace", "path": "/description", "value": "Uma couraça de tecido feita de aegisalt que fornece proteção e permite o movimento furtivo."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma couraça de tecido feita de aegisalt que fornece proteção e permite o movimento furtivo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Rogue's Chestguard",
+    "path": "/shortdescription"
+  }
+]

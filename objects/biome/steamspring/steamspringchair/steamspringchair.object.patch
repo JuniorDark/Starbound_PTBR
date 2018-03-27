@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Esta cadeira parece ser feita com encanamentos reais e funcionais. Estranho."}, {"op": "replace", "path": "/shortdescription", "value": "Steamspring Chair"}, {"op": "replace", "path": "/floranDescription", "value": "Por que cadeira está fazendo sssom sssibilante?"}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Por que você faria uma cadeira de canos?"}, {"op": "replace", "path": "/humanDescription", "value": "Se você ignorar os canos estranhos, esta parece ser uma cadeira bastante agradável."}, {"op": "replace", "path": "/avianDescription", "value": "Esta cadeira cheira a madeira recém-cortada. Que adorável."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os canos estão nesta cadeira por alguma razão especial?"}, {"op": "replace", "path": "/description", "value": "Uma cadeira elegante, feita de madeira fina e canos de latão."}, {"op": "replace", "path": "/novakidDescription", "value": "Alguns podem achar a tubulação nesta cadeira fora de colocação, mas eu meio que gosto."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira elegante, feita de madeira fina e canos de latão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Os canos estão nesta cadeira por alguma razão especial?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se você ignorar os canos estranhos, esta parece ser uma cadeira bastante agradável.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Por que você faria uma cadeira de canos?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns podem achar a tubulação nesta cadeira fora de colocação, mas eu meio que gosto.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Steamspring Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cadeira parece ser feita com encanamentos reais e funcionais. Estranho.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cadeira cheira a madeira recém-cortada. Que adorável.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Por que cadeira está fazendo sssom sssibilante?",
+    "path": "/floranDescription"
+  }
+]

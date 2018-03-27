@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "A mensagem está perdida para sempre. Não pode ter sido importante."}, {"op": "replace", "path": "/description", "value": "O papel esta rasgado e as palavras estão borradas."}, {"op": "replace", "path": "/floranDescription", "value": "Floran não consegue ler esta menssagem rasgada. Que pena!"}, {"op": "replace", "path": "/shortdescription", "value": "USCM Torn Memo"}, {"op": "replace", "path": "/glitchDescription", "value": "Divertido. Parece que foi uma nota passiva-agressiva apontada para alguém roubando leite."}, {"op": "replace", "path": "/apexDescription", "value": "Tenho certeza que o que quer que isso tenha dito foi muito importante."}, {"op": "replace", "path": "/humanDescription", "value": "Esta era claramente uma mensagem extremamente importante da USCM. É impossível de ler agora."}, {"op": "replace", "path": "/avianDescription", "value": "Não consigo entender as palavras."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este papel parece ter tido algum líquido derramado sobre ele."}]
+[
+  {
+    "op": "replace",
+    "value": "Divertido. Parece que foi uma nota passiva-agressiva apontada para alguém roubando leite.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não consegue ler esta menssagem rasgada. Que pena!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não consigo entender as palavras.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tenho certeza que o que quer que isso tenha dito foi muito importante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A mensagem está perdida para sempre. Não pode ter sido importante.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O papel esta rasgado e as palavras estão borradas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Este papel parece ter tido algum líquido derramado sobre ele.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta era claramente uma mensagem extremamente importante da USCM. É impossível de ler agora.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "USCM Torn Memo",
+    "path": "/shortdescription"
+  }
+]

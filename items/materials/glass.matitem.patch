@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Glass Block"}, {"op": "replace", "path": "/description", "value": "Eu posso ver meu reflexo."}]
+[
+  {
+    "op": "replace",
+    "value": "Glass Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atencioso. Eu posso ver claramente através deste vidro transparente.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran parece bonito nos vidrosss.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso ver claramente o outro lado deste vidro.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso ver meu reflexo.",
+    "path": "/description"
+  }
+]

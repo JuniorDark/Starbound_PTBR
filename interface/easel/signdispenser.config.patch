@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/gui/count/value", "value": "ENTRADA"}, {"op": "replace", "path": "/gui/dragDrop/value", "value": "SAÍDA"}]
+[
+  {
+    "op": "replace",
+    "value": "ENTRADA",
+    "path": "/gui/count/value"
+  },
+  {
+    "op": "replace",
+    "value": "SAÍDA",
+    "path": "/gui/dragDrop/value"
+  }
+]

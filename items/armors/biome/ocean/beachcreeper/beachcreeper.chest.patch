@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Esta coisa é assustadora e bizarra."}, {"op": "replace", "path": "/shortdescription", "value": "Creepling Chestpiece"}]
+[
+  {
+    "op": "replace",
+    "value": "Creepling Chestpiece",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta coisa é assustadora e bizarra.",
+    "path": "/description"
+  }
+]

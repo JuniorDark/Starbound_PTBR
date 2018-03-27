@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Vestir esta jaqueta de couro falso te enche de confiança."}, {"op": "replace", "path": "/shortdescription", "value": "Stylish Jacket"}]
+[
+  {
+    "op": "replace",
+    "value": "Stylish Jacket",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vestir esta jaqueta de couro falso te enche de confiança.",
+    "path": "/description"
+  }
+]

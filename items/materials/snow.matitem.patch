@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Neve macia e fofa."}, {"op": "replace", "path": "/shortdescription", "value": "Snow"}]
+[
+  {
+    "op": "replace",
+    "value": "Snow",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Monte de neve fresca.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Coisass nevadass friass.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Esta neve parece ter caido recentemente.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neve macia e fofa.",
+    "path": "/description"
+  }
+]

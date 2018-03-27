@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Deixa claro o quão amarelo são seus alvos."}, {"op": "replace", "path": "/shortdescription", "value": "Yellow Paintgun"}]
+[
+  {
+    "op": "replace",
+    "value": "Deixa claro o quão amarelo são seus alvos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Yellow Paintgun",
+    "path": "/shortdescription"
+  }
+]

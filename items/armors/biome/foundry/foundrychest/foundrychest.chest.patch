@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Foundry Chestpiece"}, {"op": "replace", "path": "/description", "value": "Um colete e luvas, para trabalho quente e perigoso."}]
+[
+  {
+    "op": "replace",
+    "value": "Um colete e luvas, para trabalho quente e perigoso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Foundry Chestpiece",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,1767 @@
-[{"op":"replace","path":"/converse/default/default/0","value":"Que a luz de Kluex guie você."},{"op":"replace","path":"/converse/avian/default/0","value":"Que a luz de Kluex guie-o."},{"op":"replace","path":"/converse/avian/human/0","value":"Eu estava tão triste ao ouvir sobre o seu mundo, humano. Vou rezar para Kluex para lhe dar força."},{"op":"replace","path":"/converse/avian/human/1","value":"Suponho que a destruição da Terra era vontade de Kluex..."},{"op":"replace","path":"/converse/avian/human/2","value":"Os humanos não tem muitos deuses?"},{"op":"replace","path":"/converse/avian/human/3","value":"Tenho certeza de que um humano poderia converter-se ao culto Kluex se ele quisesse. Você deve falar com um Stargazer."},{"op":"replace","path":"/converse/avian/human/4","value":"Infelizmente, Kluex não acolhe aqueles sem penas."},{"op":"replace","path":"/converse/avian/human/5","value":"Tinha alguma templo para Kluex na Terra?"},{"op":"replace","path":"/converse/avian/human/6","value":"Eu não tenho certeza de como Kluex se sentiria sobre o Protetorado."},{"op":"replace","path":"/converse/avian/human/7","value":"Nós sacrificamos vários humanos para Kluex duas estações atraz."},{"op":"replace","path":"/converse/avian/human/8","value":"Sem penas? Kluex tem pena de você."},{"op":"replace","path":"/converse/avian/human/9","value":"Você parece forte para um humano; Kluex valoriza a força."},{"op":"replace","path":"/converse/avian/human/10","value":"Poderia um humano Ascender?"},{"op":"replace","path":"/converse/avian/human/11","value":"Eu suspeito que guerreiros humanos não coincidem com guerreiros Avian. Mas então, temos Kluex do nosso lado."},{"op":"replace","path":"/converse/avian/human/12","value":"Bom dia, criatura sem penas."},{"op":"replace","path":"/converse/avian/human/13","value":"Não tenha medo dos Stargazers humano; eles podem ser severos, mas eles têm nossos melhores interesses no coração."},{"op":"replace","path":"/converse/avian/human/14","value":"Você conheceu algum dos Grounded, humano? Pobres almas perdidas."},{"op":"replace","path":"/converse/avian/human/15","value":"Kluex esteja com você."},{"op":"replace","path":"/converse/avian/human/16","value":"Um estranho amigável! Graças a Kluex."},{"op":"replace","path":"/converse/avian/human/17","value":"Kluex te abençoe."},{"op":"replace","path":"/converse/avian/human/18","value":"Olá."},{"op":"replace","path":"/converse/avian/human/19","value":"Bem vindo a nossa vila."},{"op":"replace","path":"/converse/avian/human/20","value":"Você já conheceu um Stargazer né?"},{"op":"replace","path":"/converse/avian/human/21","value":"Desejo-lhe um dia abençoado."},{"op":"replace","path":"/converse/avian/human/22","value":"Bom te conhecer."},{"op":"replace","path":"/converse/avian/human/23","value":"Que a sua vida seja repleta de luz."},{"op":"replace","path":"/converse/avian/human/24","value":"Te abençoe."},{"op":"replace","path":"/converse/avian/human/25","value":"Que você possa Ascender."},{"op":"replace","path":"/converse/avian/human/26","value":"Olá."},{"op":"replace","path":"/converse/avian/human/27","value":"Como vai?"},{"op":"replace","path":"/converse/avian/human/28","value":"Bem-vindo, visitante."},{"op":"replace","path":"/converse/avian/human/29","value":"Que Kluex te guie."},{"op":"replace","path":"/converse/avian/human/30","value":"Que você encontre a luz de Kluex."},{"op":"replace","path":"/converse/avian/human/31","value":"Pelas terras sagradas de Avos, é bom conhecê-lo!"},{"op":"replace","path":"/converse/avian/human/32","value":"Não se preocupe, isso não é hora de sacrifícios."},{"op":"replace","path":"/converse/avian/human/33","value":"Pelas asas de Kluex! Um visitante!"},{"op":"replace","path":"/converse/avian/human/34","value":"Que Kluex leve-o sob a sua asa."},{"op":"replace","path":"/converse/avian/human/35","value":"Que Kluex torne-o forte."},{"op":"replace","path":"/converse/avian/human/36","value":"Que Kluex guie sua mão na batalha."},{"op":"replace","path":"/converse/avian/human/37","value":"Que o poderoso Kluex te defenda."},{"op":"replace","path":"/converse/avian/human/38","value":"Prazer em conhecê-lo, viajante."},{"op":"replace","path":"/converse/avian/human/39","value":"Que Kluex guie suas viagens."},{"op":"replace","path":"/converse/avian/human/40","value":"Que Kluex te de força."},{"op":"replace","path":"/converse/avian/human/41","value":"Que você cresça ao lado de Kluex."},{"op":"replace","path":"/converse/avian/human/42","value":"Que você possa caminhar na luz de Kluex."},{"op":"replace","path":"/converse/avian/human/43","value":"Oi!"},{"op":"replace","path":"/converse/avian/human/44","value":"Prazer em conhecê-lo."},{"op":"replace","path":"/converse/avian/human/45","value":"Prazer em conhecê-lo!"},{"op":"replace","path":"/converse/avian/human/46","value":"Olá, viajante."},{"op":"replace","path":"/converse/avian/human/47","value":"Espero que você esteja tendo um bom dia!"},{"op":"replace","path":"/converse/avian/human/48","value":"Oi."},{"op":"replace","path":"/converse/avian/human/49","value":"Bom dia."},{"op":"replace","path":"/converse/avian/avian/0","value":"Oh... Hum, então, você acredita em Kluex?"},{"op":"replace","path":"/converse/avian/avian/1","value":"Talvez você devesse falar com um Stargazer, eles podem ajudá-lo a entrar no caminho certo."},{"op":"replace","path":"/converse/avian/avian/2","value":"Espero que você ainda encontre tempo para atender a sua fé entre todos as suas aventuras."},{"op":"replace","path":"/converse/avian/avian/3","value":"Você adora Kluex, não é?"},{"op":"replace","path":"/converse/avian/avian/4","value":"Você não teve a sua cabeça virada pela propaganda dos Grounded, não é?"},{"op":"replace","path":"/converse/avian/avian/5","value":"Por que não subir a torre Celestial e sentir o vento em suas penas?"},{"op":"replace","path":"/converse/avian/avian/6","value":"Você se juntou ao Protetorado? O quão propício a adoração de Kluex?"},{"op":"replace","path":"/converse/avian/avian/7","value":"Quanto tempo faz desde que você testemunhou um sacrifício sagrado?"},{"op":"replace","path":"/converse/avian/avian/8","value":"Você aproveita a oportunidade para espalhar a luz de Kluex quando você viaja?"},{"op":"replace","path":"/converse/avian/avian/9","value":"Você parece forte! Talvez você poderia ser um Ascendente um dia!"},{"op":"replace","path":"/converse/avian/avian/10","value":"Você é um tipo de guerreiro? Que legal!"},{"op":"replace","path":"/converse/avian/avian/11","value":"Eu me preocupo com os Grounded."},{"op":"replace","path":"/converse/avian/avian/12","value":"Você carrega uma cópia do Avoscript?"},{"op":"replace","path":"/converse/avian/avian/13","value":"Espero me tornar o próximo Ascendente do ciclo! Mas espero que cada ciclo..."},{"op":"replace","path":"/converse/avian/avian/14","value":"Você parece ser um guerreiro forte, sua família deve estar orgulhosa."},{"op":"replace","path":"/converse/avian/avian/15","value":" Que Kluex esteja com você."},{"op":"replace","path":"/converse/avian/avian/16","value":"Um estranho amigável! Graças a Kluex."},{"op":"replace","path":"/converse/avian/avian/17","value":"Kluex te abençoe."},{"op":"replace","path":"/converse/avian/avian/18","value":"Olá."},{"op":"replace","path":"/converse/avian/avian/19","value":"Bem-vindo à nossa vila."},{"op":"replace","path":"/converse/avian/avian/20","value":"Você já conheceu um Stargazer né?"},{"op":"replace","path":"/converse/avian/avian/21","value":"Te desejo um dia abençoado."},{"op":"replace","path":"/converse/avian/avian/22","value":"Bom conhecê-lo."},{"op":"replace","path":"/converse/avian/avian/23","value":"Que a sua vida seja repleta de luz."},{"op":"replace","path":"/converse/avian/avian/24","value":"Te abençoe."},{"op":"replace","path":"/converse/avian/avian/25","value":"Que você possa Ascender."},{"op":"replace","path":"/converse/avian/avian/26","value":"Olá."},{"op":"replace","path":"/converse/avian/avian/27","value":"Como vai você?"},{"op":"replace","path":"/converse/avian/avian/28","value":"Bem vindo, visitante."},{"op":"replace","path":"/converse/avian/avian/29","value":"Kluex te guie."},{"op":"replace","path":"/converse/avian/avian/30","value":"Espero que você encontre a luz de Kluex."},{"op":"replace","path":"/converse/avian/avian/31","value":"Pelas terras sagradas de Avos, é bom conhecê-lo!"},{"op":"replace","path":"/converse/avian/avian/32","value":"Não se preocupe, ainda não é hora de sacrifício."},{"op":"replace","path":"/converse/avian/avian/33","value":"Pelas asas de Kluex! Um visitante!"},{"op":"replace","path":"/converse/avian/avian/34","value":"Que Kluex leve-o sob a sua asa."},{"op":"replace","path":"/converse/avian/avian/35","value":"Que Kluex torne-o forte."},{"op":"replace","path":"/converse/avian/avian/36","value":"Que Kluex guie sua mão na batalha."},{"op":"replace","path":"/converse/avian/avian/37","value":"Que o poderoso Kluex possa defender-te."},{"op":"replace","path":"/converse/avian/avian/38","value":"Prazer em conhecê-lo, viajante"},{"op":"replace","path":"/converse/avian/avian/39","value":"Deixe Kluex guiar suas viagens."},{"op":"replace","path":"/converse/avian/avian/40","value":"Que Kluex traga-lhe força."},{"op":"replace","path":"/converse/avian/avian/41","value":"Que você pode Ascender ao lado do Kluex."},{"op":"replace","path":"/converse/avian/avian/42","value":"Que você possa caminhar na luz de Kluex."},{"op":"replace","path":"/converse/avian/avian/43","value":"Oi!"},{"op":"replace","path":"/converse/avian/avian/44","value":"Prazer em conhecê-lo."},{"op":"replace","path":"/converse/avian/avian/45","value":"Prazer em conhecê-lo!"},{"op":"replace","path":"/converse/avian/avian/46","value":"Olá, viajante."},{"op":"replace","path":"/converse/avian/avian/47","value":"Espero que você esteja tendo um bom dia!"},{"op":"replace","path":"/converse/avian/avian/48","value":"Olá!"},{"op":"replace","path":"/converse/avian/avian/49","value":"Bom dia."},{"op":"replace","path":"/converse/avian/floran/0","value":"Você adora Kluex, folhoso?"},{"op":"replace","path":"/converse/avian/floran/1","value":"Eu não posso ajudar, mas respeito a força dos Floran."},{"op":"replace","path":"/converse/avian/floran/2","value":"Eu adoraria caçar com você algum dia. Eu acho que é uma atividade quw Kluex aprovaria."},{"op":"replace","path":"/converse/avian/floran/3","value":"Floran são criaturas da terra, mas nós Avian somos do ar."},{"op":"replace","path":"/converse/avian/floran/4","value":"Espero que os Grounded digam coisas ruins sobre nós. Bem, eu iria felizmente dizer coisas ruins sobre eles!"},{"op":"replace","path":"/converse/avian/floran/5","value":"Kluex é um deus da guerra, mas também da vida, a morte, as estações do ano e colheita. Ele é o Deus todo."},{"op":"replace","path":"/converse/avian/floran/6","value":"Năo sei se alguma vez sacrificamos Florans aqui. Seu tipo sangra?"},{"op":"replace","path":"/converse/avian/floran/7","value":"Que Kluex abençoe suas caças."},{"op":"replace","path":"/converse/avian/floran/8","value":"Eu não temo vocês Floran, não com Kluex ao meu lado."},{"op":"replace","path":"/converse/avian/floran/9","value":"Se você pulasse da torre Celestial, será que você cairia como uma folha?"},{"op":"replace","path":"/converse/avian/floran/10","value":"Se Kluex pudesse aceitar qualquer outra raça além de nós, eu suspeito que seria Florans. Mas ele não pode."},{"op":"replace","path":"/converse/avian/floran/11","value":"Bom dia para você, Floran. Que Kluex guie a sua lâmina."},{"op":"replace","path":"/converse/avian/floran/12","value":"Que Kluex o abençoe."},{"op":"replace","path":"/converse/avian/floran/13","value":"Os Greenfingers são como os Stargazers?"},{"op":"replace","path":"/converse/avian/floran/14","value":"Folhas são adoráveis, mas eu prefiro as penas que Kluex me deu."},{"op":"replace","path":"/converse/avian/floran/15","value":"Kluex esteja com você."},{"op":"replace","path":"/converse/avian/floran/16","value":"Um estranho amigável! Graças a Kluex."},{"op":"replace","path":"/converse/avian/floran/17","value":"Kluex te abençoe."},{"op":"replace","path":"/converse/avian/floran/18","value":"Olá."},{"op":"replace","path":"/converse/avian/floran/19","value":"Bem-vindo à nossa aldeia."},{"op":"replace","path":"/converse/avian/floran/20","value":"Você já conheceu um Stargazer ainda?"},{"op":"replace","path":"/converse/avian/floran/21","value":"Desejo-lhe um dia abençoado."},{"op":"replace","path":"/converse/avian/floran/22","value":"Bom conhecê-lo."},{"op":"replace","path":"/converse/avian/floran/23","value":"Que a sua vida seja repleta de luz."},{"op":"replace","path":"/converse/avian/floran/24","value":"Te abençoe."},{"op":"replace","path":"/converse/avian/floran/25","value":"Que você possa Ascender."},{"op":"replace","path":"/converse/avian/floran/26","value":"Olá."},{"op":"replace","path":"/converse/avian/floran/27","value":"Como vai?"},{"op":"replace","path":"/converse/avian/floran/28","value":"Bem-vindo, visitante."},{"op":"replace","path":"/converse/avian/floran/29","value":"Kluex te guie."},{"op":"replace","path":"/converse/avian/floran/30","value":"Que você encontre a luz de Kluex."},{"op":"replace","path":"/converse/avian/floran/31","value":"Pelas terras sagradas de Avos, é bom conhecê-lo!"},{"op":"replace","path":"/converse/avian/floran/32","value":"Não se preocupe, isso não é um momento de sacrifício."},{"op":"replace","path":"/converse/avian/floran/33","value":"Pelas asas de Kluex! Um visitante!"},{"op":"replace","path":"/converse/avian/floran/34","value":"Que Kluex leve-o sob a sua asa."},{"op":"replace","path":"/converse/avian/floran/35","value":"Que Kluex possa torná-lo forte."},{"op":"replace","path":"/converse/avian/floran/36","value":"Que Kluex guie sua mão na batalha."},{"op":"replace","path":"/converse/avian/floran/37","value":"Que o poderoso Kluex te defenda."},{"op":"replace","path":"/converse/avian/floran/38","value":"Prazer em conhecê-lo, viajante."},{"op":"replace","path":"/converse/avian/floran/39","value":"Deixe Kluex guiar suas viagens."},{"op":"replace","path":"/converse/avian/floran/40","value":"Que Kluex te traga força."},{"op":"replace","path":"/converse/avian/floran/41","value":"Que você Ascenda para o lado de Kluex."},{"op":"replace","path":"/converse/avian/floran/42","value":"Que você possa caminhar na luz de Kluex."},{"op":"replace","path":"/converse/avian/floran/43","value":"Oi!"},{"op":"replace","path":"/converse/avian/floran/44","value":"Prazer em conhecê-lo."},{"op":"replace","path":"/converse/avian/floran/45","value":"Prazer em conhecê-lo!"},{"op":"replace","path":"/converse/avian/floran/46","value":"Olá, viajante."},{"op":"replace","path":"/converse/avian/floran/47","value":"Espero que você esteja tendo um bom dia!"},{"op":"replace","path":"/converse/avian/floran/48","value":"Olá."},{"op":"replace","path":"/converse/avian/floran/49","value":"Bom dia."},{"op":"replace","path":"/converse/avian/apex/0","value":"Eu já ouvi coisas terríveis sobre a Miniknog, que Kluex puna-os."},{"op":"replace","path":"/converse/avian/apex/1","value":"Você adora Kluex? fofinho."},{"op":"replace","path":"/converse/avian/apex/2","value":"Apex são lutadores fortes, este impõe respeito."},{"op":"replace","path":"/converse/avian/apex/3","value":"Eu não acho que o nosso Deus é tão tirano como seu líder. Big Ape soa terrível!"},{"op":"replace","path":"/converse/avian/apex/4","value":"O seu tipo deve apenas respeitar o Big Ape; ele é forte, e ele é o líder. Ele é como Kluex."},{"op":"replace","path":"/converse/avian/apex/5","value":"Olá homem macaco! Você já escalou a torre Celestial né?"},{"op":"replace","path":"/converse/avian/apex/6","value":"Você sabe que kluex criou as bananas., né?"},{"op":"replace","path":"/converse/avian/apex/7","value":"Não existem Apex rebeldes que lutam contra a Miniknog? Por que você não está indo para batalha?"},{"op":"replace","path":"/converse/avian/apex/8","value":"Você nunca pode dizer outra alma, mas às vezes eu acho que talvez Kluex não seja tão grande."},{"op":"replace","path":"/converse/avian/apex/9","value":"Eu amo Kluex, homem Ape!"},{"op":"replace","path":"/converse/avian/apex/10","value":"Você já leu algum dos Avoscript? Eu acho que seria esclarecedor, mesmo para um Apex."},{"op":"replace","path":"/converse/avian/apex/11","value":"Os Apex são ateus?"},{"op":"replace","path":"/converse/avian/apex/12","value":"Eu acho que a ciência é a religião dos Apex."},{"op":"replace","path":"/converse/avian/apex/13","value":"Se você estiver interessado em aprender sobre Kluex você deve encontrar um Stargazer, eles são nossos líderes."},{"op":"replace","path":"/converse/avian/apex/14","value":"Os Apex sempre sacrificam o seu povo?"},{"op":"replace","path":"/converse/avian/apex/15","value":"Eu sei que os Grounded dizem coisas ruins sobre nós. Bem, eu também digo coisas ruins sobre eles!"},{"op":"replace","path":"/converse/avian/apex/16","value":"Que Kluex esteja com você."},{"op":"replace","path":"/converse/avian/apex/17","value":"Um estranho amigável! Graças a Kluex."},{"op":"replace","path":"/converse/avian/apex/18","value":"Que Kluex te abençoe."},{"op":"replace","path":"/converse/avian/apex/19","value":"Olá."},{"op":"replace","path":"/converse/avian/apex/20","value":"Bem-vindo à nossa aldeia."},{"op":"replace","path":"/converse/avian/apex/21","value":"Você já conheceu um Stargazer né?"},{"op":"replace","path":"/converse/avian/apex/22","value":"Te desejo um dia abençoado."},{"op":"replace","path":"/converse/avian/apex/23","value":"Bom conhecê-lo."},{"op":"replace","path":"/converse/avian/apex/24","value":"Que a sua vida seja repleta de luz."},{"op":"replace","path":"/converse/avian/apex/25","value":"Te abençoe."},{"op":"replace","path":"/converse/avian/apex/26","value":"Espero que você possa Ascender."},{"op":"replace","path":"/converse/avian/apex/27","value":"Olá."},{"op":"replace","path":"/converse/avian/apex/28","value":"Tudo bem?"},{"op":"replace","path":"/converse/avian/apex/29","value":"Bem-vindo, visitante."},{"op":"replace","path":"/converse/avian/apex/30","value":"Kluex te guiará"},{"op":"replace","path":"/converse/avian/apex/31","value":"Que você encontre a luz de Kluex."},{"op":"replace","path":"/converse/avian/apex/32","value":"Pelas terras sagradas de Avos, é bom conhecê-lo!"},{"op":"replace","path":"/converse/avian/apex/33","value":"Não se preocupe, já temos a quem sacrificar."},{"op":"replace","path":"/converse/avian/apex/34","value":"Pelas asas de Kluex! Um visitante!"},{"op":"replace","path":"/converse/avian/apex/35","value":"Que Kluex leve-o sob a sua asa."},{"op":"replace","path":"/converse/avian/apex/36","value":"Que Kluex torne-o forte."},{"op":"replace","path":"/converse/avian/apex/37","value":"Que Kluex guie sua mão na batalha."},{"op":"replace","path":"/converse/avian/apex/38","value":"Que o poderoso Kluex possa defendê-lo."},{"op":"replace","path":"/converse/avian/apex/39","value":"Prazer em conhecê-lo, viajante"},{"op":"replace","path":"/converse/avian/apex/40","value":"Que Kluex guie suas viagens."},{"op":"replace","path":"/converse/avian/apex/41","value":"Que Kluex traga-lhe força."},{"op":"replace","path":"/converse/avian/apex/42","value":"Que você possa Ascender para o lado de Kluex."},{"op":"replace","path":"/converse/avian/apex/43","value":"Que você possa caminhar na luz de Kluex."},{"op":"replace","path":"/converse/avian/apex/44","value":"Oi!"},{"op":"replace","path":"/converse/avian/apex/45","value":"Prazer em conhecê-lo."},{"op":"replace","path":"/converse/avian/apex/46","value":"Prazer em conhecê-lo!"},{"op":"replace","path":"/converse/avian/apex/47","value":"Olá, viajante."},{"op":"replace","path":"/converse/avian/apex/48","value":"Espero que você esteja tendo um bom dia!"},{"op":"replace","path":"/converse/avian/apex/49","value":"Olá."},{"op":"replace","path":"/converse/avian/apex/50","value":"Bom dia."},{"op":"replace","path":"/converse/avian/hylotl/0","value":"Os Stargazers pregam que os Avians são a raça mais poderosa, mas você não parece tão humilde."},{"op":"replace","path":"/converse/avian/hylotl/1","value":"Hylotl podem não aprovar combates, mas cada batalha que nós Avians lutamos é por dedicação a Kluex."},{"op":"replace","path":"/converse/avian/hylotl/2","value":"Você adora Kluex, aquoso?"},{"op":"replace","path":"/converse/avian/hylotl/3","value":"Eu não acho que Kluex aprovaria o pacifismo da sua raça."},{"op":"replace","path":"/converse/avian/hylotl/4","value":"Os Hylotl são criaturas da água, mas nós Avians somos do ar."},{"op":"replace","path":"/converse/avian/hylotl/5","value":"Seu povo está descrito como espiritual, e ainda assim você não tem deuses... Isso me confunde."},{"op":"replace","path":"/converse/avian/hylotl/6","value":"Você deve ler o Avoscript!"},{"op":"replace","path":"/converse/avian/hylotl/7","value":"Eu não acho que construções Hylotl são muito diferentes de nossos templos e torres Celestiais."},{"op":"replace","path":"/converse/avian/hylotl/8","value":"Bom dia, criatura sem penas."},{"op":"replace","path":"/converse/avian/hylotl/9","value":"Eu só li um livro: o Avoscript. Mas eu li um MONTE de vezes."},{"op":"replace","path":"/converse/avian/hylotl/10","value":"Te abençoe, que você encontre força."},{"op":"replace","path":"/converse/avian/hylotl/11","value":"Você já se aventurou até a torre Celestial né?"},{"op":"replace","path":"/converse/avian/hylotl/12","value":"Este \"pacifismo\" é um conceito interessante."},{"op":"replace","path":"/converse/avian/hylotl/13","value":"Suponho que os Hylotl não são realmente um sacrifício..."},{"op":"replace","path":"/converse/avian/hylotl/14","value":"Você sabe quantos versos estão no Avoscript? Porque é muita coisa."},{"op":"replace","path":"/converse/avian/hylotl/15","value":"Kluex esteja com você."},{"op":"replace","path":"/converse/avian/hylotl/16","value":"Um estranho amigável! Graças a Kluex."},{"op":"replace","path":"/converse/avian/hylotl/17","value":"Que Kluex te abençoe."},{"op":"replace","path":"/converse/avian/hylotl/18","value":"Olá."},{"op":"replace","path":"/converse/avian/hylotl/19","value":"Bem-vindo à nossa aldeia."},{"op":"replace","path":"/converse/avian/hylotl/20","value":"Você já conheceu um Stargazer né?"},{"op":"replace","path":"/converse/avian/hylotl/21","value":"Te desejo um dia abençoado."},{"op":"replace","path":"/converse/avian/hylotl/22","value":"Bom conhecê-lo."},{"op":"replace","path":"/converse/avian/hylotl/23","value":"Que a sua vida seja repleta de luz."},{"op":"replace","path":"/converse/avian/hylotl/24","value":"Te abençoe."},{"op":"replace","path":"/converse/avian/hylotl/25","value":"Que você possa ascender."},{"op":"replace","path":"/converse/avian/hylotl/26","value":"Olá."},{"op":"replace","path":"/converse/avian/hylotl/27","value":"Como vai você?"},{"op":"replace","path":"/converse/avian/hylotl/28","value":"Bem-vindo, visitante."},{"op":"replace","path":"/converse/avian/hylotl/29","value":"Kluex te guie."},{"op":"replace","path":"/converse/avian/hylotl/30","value":"Espero que você encontre a luz de Kluex."},{"op":"replace","path":"/converse/avian/hylotl/31","value":"Pelas terras sagradas de Avos, é bom conhecê-lo!"},{"op":"replace","path":"/converse/avian/hylotl/32","value":"Não se preocupe, não é hora de um sacrifício."},{"op":"replace","path":"/converse/avian/hylotl/33","value":"Pelas asas de Kluex! Um visitante!"},{"op":"replace","path":"/converse/avian/hylotl/34","value":"Que Kluex leve-o sob a sua asa."},{"op":"replace","path":"/converse/avian/hylotl/35","value":"Que Kluex torne-o forte."},{"op":"replace","path":"/converse/avian/hylotl/36","value":"Que Kluex guie sua mão na batalha."},{"op":"replace","path":"/converse/avian/hylotl/37","value":"Que o poderoso Kluex possa te defender."},{"op":"replace","path":"/converse/avian/hylotl/38","value":"Prazer em conhecê-lo, viajante"},{"op":"replace","path":"/converse/avian/hylotl/39","value":"Deixe Kluex te guiar nas suas jornadas."},{"op":"replace","path":"/converse/avian/hylotl/40","value":"Que Kluex pode trazer-lhe força."},{"op":"replace","path":"/converse/avian/hylotl/41","value":"Que você possa Ascender no lado de Kluex."},{"op":"replace","path":"/converse/avian/hylotl/42","value":"Que você possa caminhar na luz de Kluex."},{"op":"replace","path":"/converse/avian/hylotl/43","value":"Oi!"},{"op":"replace","path":"/converse/avian/hylotl/44","value":"Prazer em conhecê-lo."},{"op":"replace","path":"/converse/avian/hylotl/45","value":"Prazer em conhecê-lo!"},{"op":"replace","path":"/converse/avian/hylotl/46","value":"Olá, viajante."},{"op":"replace","path":"/converse/avian/hylotl/47","value":"Espero que você esteja tendo um bom dia!"},{"op":"replace","path":"/converse/avian/hylotl/48","value":"Olá."},{"op":"replace","path":"/converse/avian/hylotl/49","value":"Bom dia!"},{"op":"replace","path":"/converse/avian/glitch/0","value":"Oh, hum, olá."},{"op":"replace","path":"/converse/avian/glitch/1","value":"Você tem uma alma?"},{"op":"replace","path":"/converse/avian/glitch/2","value":"Você não seria muito bom como um sacrifício, teríamos apenas óleo em todo o altar."},{"op":"replace","path":"/converse/avian/glitch/3","value":"Você adora Kluex?"},{"op":"replace","path":"/converse/avian/glitch/4","value":"Será que os Glitch tem algum deus?"},{"op":"replace","path":"/converse/avian/glitch/5","value":"Poderia um Glitch converter-se ao culto Kluex? Eu deveria pedir a um Stargazer."},{"op":"replace","path":"/converse/avian/glitch/6","value":"Se um Glitch pulasse de uma torre Celestial, ele simplesmente iria despencar."},{"op":"replace","path":"/converse/avian/glitch/7","value":"Você é forte! Eu suspeito que você é um bom guerreiro."},{"op":"replace","path":"/converse/avian/glitch/8","value":"Você já conheceu um Stargazer? Eu não tenho certeza o que ele faria de você."},{"op":"replace","path":"/converse/avian/glitch/9","value":"Talvez se você adorasse Kluex ele te daria uma alma?"},{"op":"replace","path":"/converse/avian/glitch/10","value":"O Avoscript não menciona robôs..."},{"op":"replace","path":"/converse/avian/glitch/11","value":"Você me deixa um pouco desconfortável - quem inventou que você estava tentando brincar de Deus."},{"op":"replace","path":"/converse/avian/glitch/12","value":"Gostaria de saber se você poderia converter-se ao culto Kluex?"},{"op":"replace","path":"/converse/avian/glitch/13","value":"Você provavelmente poderia construir algumas asas de metal..."},{"op":"replace","path":"/converse/avian/glitch/14","value":"Que Kluex ilumine seu caminho, homem de metal."},{"op":"replace","path":"/converse/avian/glitch/15","value":"Kluex esteja com você."},{"op":"replace","path":"/converse/avian/glitch/16","value":"Um estranho amigável! Graças a Kluex."},{"op":"replace","path":"/converse/avian/glitch/17","value":"Kluex te abençoe."},{"op":"replace","path":"/converse/avian/glitch/18","value":"Olá."},{"op":"replace","path":"/converse/avian/glitch/19","value":"Bem-vindo á nossa aldeia."},{"op":"replace","path":"/converse/avian/glitch/20","value":"Você já conheceu um Stargazer?"},{"op":"replace","path":"/converse/avian/glitch/21","value":"Desejo-lhe um dia abençoado."},{"op":"replace","path":"/converse/avian/glitch/22","value":"Bom conhecê-lo."},{"op":"replace","path":"/converse/avian/glitch/23","value":"Que a sua vida seja repleta de luz."},{"op":"replace","path":"/converse/avian/glitch/24","value":"Te abençoe."},{"op":"replace","path":"/converse/avian/glitch/25","value":"Que você possa ascender."},{"op":"replace","path":"/converse/avian/glitch/26","value":"Olá."},{"op":"replace","path":"/converse/avian/glitch/27","value":"Como vai você?"},{"op":"replace","path":"/converse/avian/glitch/28","value":"Bem-vindo, visitante."},{"op":"replace","path":"/converse/avian/glitch/29","value":"Kluex te guie."},{"op":"replace","path":"/converse/avian/glitch/30","value":"Que você encontre a luz de Kluex."},{"op":"replace","path":"/converse/avian/glitch/31","value":"Pelas terras sagradas de Avos, é bom conhecê-lo!"},{"op":"replace","path":"/converse/avian/glitch/32","value":"Não se preocupe, isso não é um momento de sacrifício."},{"op":"replace","path":"/converse/avian/glitch/33","value":"Pelas asas da Kluex! Um visitante!"},{"op":"replace","path":"/converse/avian/glitch/34","value":"Que Kluex leve-o sob a sua asa."},{"op":"replace","path":"/converse/avian/glitch/35","value":"Que Kluex torne-o forte."},{"op":"replace","path":"/converse/avian/glitch/36","value":"Que Kluex guie sua mão na batalha."},{"op":"replace","path":"/converse/avian/glitch/37","value":"Que o poderoso Kluex te defenda."},{"op":"replace","path":"/converse/avian/glitch/38","value":"Prazer em conhecê-lo, viajante"},{"op":"replace","path":"/converse/avian/glitch/39","value":"Deixe Kluex guiar suas viagens."},{"op":"replace","path":"/converse/avian/glitch/40","value":"Que Kluex traga-lhe força."},{"op":"replace","path":"/converse/avian/glitch/41","value":"Que você Ascenda lado Kluex."},{"op":"replace","path":"/converse/avian/glitch/42","value":"Que você possa caminhar na luz de Kluex."},{"op":"replace","path":"/converse/avian/glitch/43","value":"Oi!"},{"op":"replace","path":"/converse/avian/glitch/44","value":"Prazer em conhecê-lo."},{"op":"replace","path":"/converse/avian/glitch/45","value":"Prazer em conhecê-lo!"},{"op":"replace","path":"/converse/avian/glitch/46","value":"Olá, viajante."},{"op":"replace","path":"/converse/avian/glitch/47","value":"Espero que você esteja tendo um bom dia!"},{"op":"replace","path":"/converse/avian/glitch/48","value":"Olá."},{"op":"replace","path":"/converse/avian/glitch/49","value":"Bom dia."},{"op":"replace","path":"/converse/avian/novakid/0","value":"Um ser celestial?!"},{"op":"replace","path":"/converse/avian/novakid/1","value":"Pela luz de Kluex!"},{"op":"replace","path":"/converse/avian/novakid/2","value":"Será que Kluex te enviou?"},{"op":"replace","path":"/converse/avian/novakid/3","value":"Você brilha como Avolite!"},{"op":"replace","path":"/converse/avian/novakid/4","value":"Você deve ser trabalho de Kluex!"},{"op":"replace","path":"/converse/avian/novakid/5","value":"Os Stargazers devem ouvir sobre você!"},{"op":"replace","path":"/converse/avian/novakid/6","value":"Você é tão bonito(a)!"},{"op":"replace","path":"/converse/avian/novakid/7","value":"Um guerreiro da luz forjada, enviado por Kluex!"},{"op":"replace","path":"/converse/avian/novakid/8","value":"Você é um Novakid, não é?"},{"op":"replace","path":"/converse/avian/novakid/9","value":"Brilhando assim, você deve ter nascido dos céus!"},{"op":"replace","path":"/converse/avian/novakid/10","value":"Um homem brilhante, enviado por Kluex!"},{"op":"replace","path":"/converse/avian/novakid/11","value":"Olhe para o seu brilho celestial!"},{"op":"replace","path":"/converse/avian/novakid/12","value":"Você é certamente um trabalho de Kluex."},{"op":"replace","path":"/converse/avian/novakid/13","value":"Graças a Kluex, um belo ser celestial!"},{"op":"replace","path":"/converse/avian/novakid/14","value":"Sinto-me honrado em conhecê-lo."},{"op":"replace","path":"/converse/avian/novakid/15","value":"Kluex esteja com você."},{"op":"replace","path":"/converse/avian/novakid/16","value":"Um estranho amigável! Graças a Kluex."},{"op":"replace","path":"/converse/avian/novakid/17","value":"Kluex te abençoe."},{"op":"replace","path":"/converse/avian/novakid/18","value":"Olá."},{"op":"replace","path":"/converse/avian/novakid/19","value":"Bem-vindo a nossa vila."},{"op":"replace","path":"/converse/avian/novakid/20","value":"Você já conheceu um Stargazer né?"},{"op":"replace","path":"/converse/avian/novakid/21","value":"Desejo-lhe um dia abençoado."},{"op":"replace","path":"/converse/avian/novakid/22","value":"Prazer em conhecê-lo."},{"op":"replace","path":"/converse/avian/novakid/23","value":"Que a sua vida seja cheia de luz."},{"op":"replace","path":"/converse/avian/novakid/24","value":"Kluex o abençoe."},{"op":"replace","path":"/converse/avian/novakid/25","value":"Que você possa Ascender."},{"op":"replace","path":"/converse/avian/novakid/26","value":"Olá."},{"op":"replace","path":"/converse/avian/novakid/27","value":"Como vai?"},{"op":"replace","path":"/converse/avian/novakid/28","value":"Bem-vindo, visitante."},{"op":"replace","path":"/converse/avian/novakid/29","value":"Que Kluex te guie."},{"op":"replace","path":"/converse/avian/novakid/30","value":"Que você encontre a luz de Kluex."},{"op":"replace","path":"/converse/avian/novakid/31","value":"Pelas terras sagradas de Avos, é bom conhecê-lo!"},{"op":"replace","path":"/converse/avian/novakid/32","value":"Não se preocupe, isso não é um momento de sacrifício."},{"op":"replace","path":"/converse/avian/novakid/33","value":"Pelas asas de Kluex! Um visitante!"},{"op":"replace","path":"/converse/avian/novakid/34","value":"Que Kluex leve-o sob a sua asa."},{"op":"replace","path":"/converse/avian/novakid/35","value":"Que Kluex torne-o forte."},{"op":"replace","path":"/converse/avian/novakid/36","value":"Que Kluex guie sua mão na batalha."},{"op":"replace","path":"/converse/avian/novakid/37","value":"Que o poderoso Kluex te defenda."},{"op":"replace","path":"/converse/avian/novakid/38","value":"Prazer em conhecê-lo, viajante"},{"op":"replace","path":"/converse/avian/novakid/39","value":"Deixe Kluex guiar suas viagens."},{"op":"replace","path":"/converse/avian/novakid/40","value":"Que Kluex traga-lhe força."},{"op":"replace","path":"/converse/avian/novakid/41","value":"Que você cresça ao lado de Kluex."},{"op":"replace","path":"/converse/avian/novakid/42","value":"Que você possa caminhar na luz de Kluex."},{"op":"replace","path":"/converse/avian/novakid/43","value":"Oi!"},{"op":"replace","path":"/converse/avian/novakid/44","value":"Prazer em te conhecer."},{"op":"replace","path":"/converse/avian/novakid/45","value":"Prazer em conhecê-lo!"},{"op":"replace","path":"/converse/avian/novakid/46","value":"Olá, viajante."},{"op":"replace","path":"/converse/avian/novakid/47","value":"Espero que você esteja tendo um bom dia!"},{"op":"replace","path":"/converse/avian/novakid/48","value":"Olá."},{"op":"replace","path":"/converse/avian/novakid/49","value":"Bom dia."}]
+[
+  {
+    "op": "replace",
+    "value": "Um ser celestial?!",
+    "path": "/converse/avian/novakid/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um estranho amigável! Graças a Kluex.",
+    "path": "/converse/avian/apex/17"
+  },
+  {
+    "op": "replace",
+    "value": "Um estranho amigável! Graças a Kluex.",
+    "path": "/converse/avian/avian/16"
+  },
+  {
+    "op": "replace",
+    "value": "Um estranho amigável! Graças a Kluex.",
+    "path": "/converse/avian/floran/16"
+  },
+  {
+    "op": "replace",
+    "value": "Um estranho amigável! Graças a Kluex.",
+    "path": "/converse/avian/glitch/16"
+  },
+  {
+    "op": "replace",
+    "value": "Um estranho amigável! Graças a Kluex.",
+    "path": "/converse/avian/human/16"
+  },
+  {
+    "op": "replace",
+    "value": "Um estranho amigável! Graças a Kluex.",
+    "path": "/converse/avian/hylotl/16"
+  },
+  {
+    "op": "replace",
+    "value": "Um estranho amigável! Graças a Kluex.",
+    "path": "/converse/avian/novakid/16"
+  },
+  {
+    "op": "replace",
+    "value": "Um homem brilhante, enviado por Kluex!",
+    "path": "/converse/avian/novakid/10"
+  },
+  {
+    "op": "replace",
+    "value": "Um guerreiro da luz forjada, enviado por Kluex!",
+    "path": "/converse/avian/novakid/7"
+  },
+  {
+    "op": "replace",
+    "value": "Apex são lutadores fortes, este impõe respeito.",
+    "path": "/converse/avian/apex/2"
+  },
+  {
+    "op": "replace",
+    "value": "Os Greenfingers são como os Stargazers?",
+    "path": "/converse/avian/floran/13"
+  },
+  {
+    "op": "replace",
+    "value": "Os Apex são ateus?",
+    "path": "/converse/avian/apex/11"
+  },
+  {
+    "op": "replace",
+    "value": "Você é um tipo de guerreiro? Que legal!",
+    "path": "/converse/avian/avian/10"
+  },
+  {
+    "op": "replace",
+    "value": "Não existem Apex rebeldes que lutam contra a Miniknog? Por que você não está indo para batalha?",
+    "path": "/converse/avian/apex/7"
+  },
+  {
+    "op": "replace",
+    "value": "Te abençoe, que você encontre força.",
+    "path": "/converse/avian/hylotl/10"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex o abençoe.",
+    "path": "/converse/avian/floran/12"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex o abençoe.",
+    "path": "/converse/avian/apex/25"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex o abençoe.",
+    "path": "/converse/avian/avian/24"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex o abençoe.",
+    "path": "/converse/avian/floran/24"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex o abençoe.",
+    "path": "/converse/avian/glitch/24"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex o abençoe.",
+    "path": "/converse/avian/human/24"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex o abençoe.",
+    "path": "/converse/avian/hylotl/24"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex o abençoe.",
+    "path": "/converse/avian/novakid/24"
+  },
+  {
+    "op": "replace",
+    "value": "Pela luz de Kluex!",
+    "path": "/converse/avian/novakid/1"
+  },
+  {
+    "op": "replace",
+    "value": "Pelas asas de Kluex! Um visitante!",
+    "path": "/converse/avian/apex/34"
+  },
+  {
+    "op": "replace",
+    "value": "Pelas asas de Kluex! Um visitante!",
+    "path": "/converse/avian/avian/33"
+  },
+  {
+    "op": "replace",
+    "value": "Pelas asas de Kluex! Um visitante!",
+    "path": "/converse/avian/floran/33"
+  },
+  {
+    "op": "replace",
+    "value": "Pelas asas de Kluex! Um visitante!",
+    "path": "/converse/avian/glitch/33"
+  },
+  {
+    "op": "replace",
+    "value": "Pelas asas de Kluex! Um visitante!",
+    "path": "/converse/avian/human/33"
+  },
+  {
+    "op": "replace",
+    "value": "Pelas asas de Kluex! Um visitante!",
+    "path": "/converse/avian/hylotl/33"
+  },
+  {
+    "op": "replace",
+    "value": "Pelas asas de Kluex! Um visitante!",
+    "path": "/converse/avian/novakid/33"
+  },
+  {
+    "op": "replace",
+    "value": "Pelas terras sagradas de Avos, é bom conhecê-lo!",
+    "path": "/converse/avian/apex/32"
+  },
+  {
+    "op": "replace",
+    "value": "Pelas terras sagradas de Avos, é bom conhecê-lo!",
+    "path": "/converse/avian/avian/31"
+  },
+  {
+    "op": "replace",
+    "value": "Pelas terras sagradas de Avos, é bom conhecê-lo!",
+    "path": "/converse/avian/floran/31"
+  },
+  {
+    "op": "replace",
+    "value": "Pelas terras sagradas de Avos, é bom conhecê-lo!",
+    "path": "/converse/avian/glitch/31"
+  },
+  {
+    "op": "replace",
+    "value": "Pelas terras sagradas de Avos, é bom conhecê-lo!",
+    "path": "/converse/avian/human/31"
+  },
+  {
+    "op": "replace",
+    "value": "Pelas terras sagradas de Avos, é bom conhecê-lo!",
+    "path": "/converse/avian/hylotl/31"
+  },
+  {
+    "op": "replace",
+    "value": "Pelas terras sagradas de Avos, é bom conhecê-lo!",
+    "path": "/converse/avian/novakid/31"
+  },
+  {
+    "op": "replace",
+    "value": "Poderia um Glitch converter-se ao culto Kluex? Eu deveria pedir a um Stargazer.",
+    "path": "/converse/avian/glitch/5"
+  },
+  {
+    "op": "replace",
+    "value": "Poderia um humano Ascender?",
+    "path": "/converse/avian/human/10"
+  },
+  {
+    "op": "replace",
+    "value": "Será que Kluex te enviou?",
+    "path": "/converse/avian/novakid/2"
+  },
+  {
+    "op": "replace",
+    "value": "Os Apex sempre sacrificam o seu povo?",
+    "path": "/converse/avian/apex/14"
+  },
+  {
+    "op": "replace",
+    "value": "Será que os Glitch tem algum deus?",
+    "path": "/converse/avian/glitch/4"
+  },
+  {
+    "op": "replace",
+    "value": "Você carrega uma cópia do Avoscript?",
+    "path": "/converse/avian/avian/12"
+  },
+  {
+    "op": "replace",
+    "value": "Você tem uma alma?",
+    "path": "/converse/avian/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você sabe quantos versos estão no Avoscript? Porque é muita coisa.",
+    "path": "/converse/avian/hylotl/14"
+  },
+  {
+    "op": "replace",
+    "value": "Você aproveita a oportunidade para espalhar a luz de Kluex quando você viaja?",
+    "path": "/converse/avian/avian/8"
+  },
+  {
+    "op": "replace",
+    "value": "Você adora Kluex? fofinho.",
+    "path": "/converse/avian/apex/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você adora Kluex, folhoso?",
+    "path": "/converse/avian/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você adora Kluex?",
+    "path": "/converse/avian/glitch/3"
+  },
+  {
+    "op": "replace",
+    "value": "Você adora Kluex, aquoso?",
+    "path": "/converse/avian/hylotl/2"
+  },
+  {
+    "op": "replace",
+    "value": "Não tenha medo dos Stargazers humano; eles podem ser severos, mas eles têm nossos melhores interesses no coração.",
+    "path": "/converse/avian/human/13"
+  },
+  {
+    "op": "replace",
+    "value": "Os humanos não tem muitos deuses?",
+    "path": "/converse/avian/human/2"
+  },
+  {
+    "op": "replace",
+    "value": "Não se preocupe, ainda não é hora de sacrifício.",
+    "path": "/converse/avian/apex/33"
+  },
+  {
+    "op": "replace",
+    "value": "Não se preocupe, ainda não é hora de sacrifício.",
+    "path": "/converse/avian/avian/32"
+  },
+  {
+    "op": "replace",
+    "value": "Não se preocupe, ainda não é hora de sacrifício.",
+    "path": "/converse/avian/floran/32"
+  },
+  {
+    "op": "replace",
+    "value": "Não se preocupe, ainda não é hora de sacrifício.",
+    "path": "/converse/avian/glitch/32"
+  },
+  {
+    "op": "replace",
+    "value": "Não se preocupe, ainda não é hora de sacrifício.",
+    "path": "/converse/avian/human/32"
+  },
+  {
+    "op": "replace",
+    "value": "Não se preocupe, ainda não é hora de sacrifício.",
+    "path": "/converse/avian/hylotl/32"
+  },
+  {
+    "op": "replace",
+    "value": "Não se preocupe, ainda não é hora de sacrifício.",
+    "path": "/converse/avian/novakid/32"
+  },
+  {
+    "op": "replace",
+    "value": "Floran são criaturas da terra, mas nós Avian somos do ar.",
+    "path": "/converse/avian/floran/3"
+  },
+  {
+    "op": "replace",
+    "value": "Bom dia para você, Floran. Que Kluex guie a sua lâmina.",
+    "path": "/converse/avian/floran/11"
+  },
+  {
+    "op": "replace",
+    "value": "Bom dia, criatura sem penas.",
+    "path": "/converse/avian/human/12"
+  },
+  {
+    "op": "replace",
+    "value": "Bom dia, criatura sem penas.",
+    "path": "/converse/avian/hylotl/8"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em conhecê-lo.",
+    "path": "/converse/avian/apex/23"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em conhecê-lo.",
+    "path": "/converse/avian/avian/22"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em conhecê-lo.",
+    "path": "/converse/avian/floran/22"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em conhecê-lo.",
+    "path": "/converse/avian/glitch/22"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em conhecê-lo.",
+    "path": "/converse/avian/human/22"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em conhecê-lo.",
+    "path": "/converse/avian/hylotl/22"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em conhecê-lo.",
+    "path": "/converse/avian/novakid/22"
+  },
+  {
+    "op": "replace",
+    "value": "Você já leu algum dos Avoscript? Eu acho que seria esclarecedor, mesmo para um Apex.",
+    "path": "/converse/avian/apex/10"
+  },
+  {
+    "op": "replace",
+    "value": "Você já conheceu um Stargazer?",
+    "path": "/converse/avian/apex/21"
+  },
+  {
+    "op": "replace",
+    "value": "Você já conheceu um Stargazer?",
+    "path": "/converse/avian/avian/20"
+  },
+  {
+    "op": "replace",
+    "value": "Você já conheceu um Stargazer?",
+    "path": "/converse/avian/floran/20"
+  },
+  {
+    "op": "replace",
+    "value": "Você já conheceu um Stargazer?",
+    "path": "/converse/avian/glitch/20"
+  },
+  {
+    "op": "replace",
+    "value": "Você já conheceu um Stargazer?",
+    "path": "/converse/avian/human/20"
+  },
+  {
+    "op": "replace",
+    "value": "Você já conheceu um Stargazer?",
+    "path": "/converse/avian/hylotl/20"
+  },
+  {
+    "op": "replace",
+    "value": "Você já conheceu um Stargazer?",
+    "path": "/converse/avian/novakid/20"
+  },
+  {
+    "op": "replace",
+    "value": "Você já conheceu um Stargazer? Eu não tenho certeza o que ele faria de você.",
+    "path": "/converse/avian/glitch/8"
+  },
+  {
+    "op": "replace",
+    "value": "Você conheceu algum dos Grounded, humano? Pobres almas perdidas.",
+    "path": "/converse/avian/human/14"
+  },
+  {
+    "op": "replace",
+    "value": "Você já se aventurou até a torre Celestial né?",
+    "path": "/converse/avian/hylotl/11"
+  },
+  {
+    "op": "replace",
+    "value": "Olá homem macaco! Você já escalou a torre Celestial né?",
+    "path": "/converse/avian/apex/5"
+  },
+  {
+    "op": "replace",
+    "value": "Olá, viajante.",
+    "path": "/converse/avian/apex/47"
+  },
+  {
+    "op": "replace",
+    "value": "Olá, viajante.",
+    "path": "/converse/avian/avian/46"
+  },
+  {
+    "op": "replace",
+    "value": "Olá, viajante.",
+    "path": "/converse/avian/floran/46"
+  },
+  {
+    "op": "replace",
+    "value": "Olá, viajante.",
+    "path": "/converse/avian/glitch/46"
+  },
+  {
+    "op": "replace",
+    "value": "Olá, viajante.",
+    "path": "/converse/avian/human/46"
+  },
+  {
+    "op": "replace",
+    "value": "Olá, viajante.",
+    "path": "/converse/avian/hylotl/46"
+  },
+  {
+    "op": "replace",
+    "value": "Olá, viajante.",
+    "path": "/converse/avian/novakid/46"
+  },
+  {
+    "op": "replace",
+    "value": "Oi!",
+    "path": "/converse/avian/apex/44"
+  },
+  {
+    "op": "replace",
+    "value": "Oi!",
+    "path": "/converse/avian/avian/43"
+  },
+  {
+    "op": "replace",
+    "value": "Oi!",
+    "path": "/converse/avian/floran/43"
+  },
+  {
+    "op": "replace",
+    "value": "Oi!",
+    "path": "/converse/avian/glitch/43"
+  },
+  {
+    "op": "replace",
+    "value": "Oi!",
+    "path": "/converse/avian/human/43"
+  },
+  {
+    "op": "replace",
+    "value": "Oi!",
+    "path": "/converse/avian/hylotl/43"
+  },
+  {
+    "op": "replace",
+    "value": "Oi!",
+    "path": "/converse/avian/novakid/43"
+  },
+  {
+    "op": "replace",
+    "value": "Quanto tempo faz desde que você testemunhou um sacrifício sagrado?",
+    "path": "/converse/avian/avian/7"
+  },
+  {
+    "op": "replace",
+    "value": "Hylotl podem não aprovar combates, mas cada batalha que nós Avians lutamos é por dedicação a Kluex.",
+    "path": "/converse/avian/hylotl/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não posso ajudar, mas respeito a força dos Floran.",
+    "path": "/converse/avian/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não temo vocês Floran, não com Kluex ao meu lado.",
+    "path": "/converse/avian/floran/8"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não acho que construções Hylotl são muito diferentes de nossos templos e torres Celestiais.",
+    "path": "/converse/avian/hylotl/7"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não acho que Kluex aprovaria o pacifismo da sua raça.",
+    "path": "/converse/avian/hylotl/3"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não acho que o nosso Deus é tão tirano como seu líder. Big Ape soa terrível!",
+    "path": "/converse/avian/apex/3"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sei que os Grounded dizem coisas ruins sobre nós. Bem, eu também digo coisas ruins sobre eles!",
+    "path": "/converse/avian/apex/15"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sei que os Grounded dizem coisas ruins sobre nós. Bem, eu também digo coisas ruins sobre eles!",
+    "path": "/converse/avian/floran/4"
+  },
+  {
+    "op": "replace",
+    "value": "Espero me tornar o próximo Ascendente do ciclo! Mas espero que cada ciclo...",
+    "path": "/converse/avian/avian/13"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que você ainda encontre tempo para atender a sua fé entre todos as suas aventuras.",
+    "path": "/converse/avian/avian/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu amo Kluex, homem Ape!",
+    "path": "/converse/avian/apex/9"
+  },
+  {
+    "op": "replace",
+    "value": "Suponho que os Hylotl não são realmente um sacrifício...",
+    "path": "/converse/avian/hylotl/13"
+  },
+  {
+    "op": "replace",
+    "value": "Suponho que a destruição da Terra era vontade de Kluex...",
+    "path": "/converse/avian/human/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu suspeito que guerreiros humanos não coincidem com guerreiros Avian. Mas então, temos Kluex do nosso lado.",
+    "path": "/converse/avian/human/11"
+  },
+  {
+    "op": "replace",
+    "value": "Eu acho que a ciência é a religião dos Apex.",
+    "path": "/converse/avian/apex/12"
+  },
+  {
+    "op": "replace",
+    "value": "Eu estava tão triste ao ouvir sobre o seu mundo, humano. Vou rezar para Kluex para lhe dar força.",
+    "path": "/converse/avian/human/0"
+  },
+  {
+    "op": "replace",
+    "value": "Te desejo um dia abençoado.",
+    "path": "/converse/avian/apex/22"
+  },
+  {
+    "op": "replace",
+    "value": "Te desejo um dia abençoado.",
+    "path": "/converse/avian/avian/21"
+  },
+  {
+    "op": "replace",
+    "value": "Te desejo um dia abençoado.",
+    "path": "/converse/avian/floran/21"
+  },
+  {
+    "op": "replace",
+    "value": "Te desejo um dia abençoado.",
+    "path": "/converse/avian/glitch/21"
+  },
+  {
+    "op": "replace",
+    "value": "Te desejo um dia abençoado.",
+    "path": "/converse/avian/human/21"
+  },
+  {
+    "op": "replace",
+    "value": "Te desejo um dia abençoado.",
+    "path": "/converse/avian/hylotl/21"
+  },
+  {
+    "op": "replace",
+    "value": "Te desejo um dia abençoado.",
+    "path": "/converse/avian/novakid/21"
+  },
+  {
+    "op": "replace",
+    "value": "Gostaria de saber se você poderia converter-se ao culto Kluex?",
+    "path": "/converse/avian/glitch/12"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me preocupo com os Grounded.",
+    "path": "/converse/avian/avian/11"
+  },
+  {
+    "op": "replace",
+    "value": "Eu adoraria caçar com você algum dia. Eu acho que é uma atividade quw Kluex aprovaria.",
+    "path": "/converse/avian/floran/2"
+  },
+  {
+    "op": "replace",
+    "value": "Sinto-me honrado em conhecê-lo.",
+    "path": "/converse/avian/novakid/14"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não tenho certeza de como Kluex se sentiria sobre o Protetorado.",
+    "path": "/converse/avian/human/6"
+  },
+  {
+    "op": "replace",
+    "value": "Năo sei se alguma vez sacrificamos Florans aqui. Seu tipo sangra?",
+    "path": "/converse/avian/floran/6"
+  },
+  {
+    "op": "replace",
+    "value": "Tenho certeza de que um humano poderia converter-se ao culto Kluex se ele quisesse. Você deve falar com um Stargazer.",
+    "path": "/converse/avian/human/3"
+  },
+  {
+    "op": "replace",
+    "value": "Eu já ouvi coisas terríveis sobre a Miniknog, que Kluex puna-os.",
+    "path": "/converse/avian/apex/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu só li um livro: o Avoscript. Mas eu li um MONTE de vezes.",
+    "path": "/converse/avian/hylotl/9"
+  },
+  {
+    "op": "replace",
+    "value": "Se Kluex pudesse aceitar qualquer outra raça além de nós, eu suspeito que seria Florans. Mas ele não pode.",
+    "path": "/converse/avian/floran/10"
+  },
+  {
+    "op": "replace",
+    "value": "Se um Glitch pulasse de uma torre Celestial, ele simplesmente iria despencar.",
+    "path": "/converse/avian/glitch/6"
+  },
+  {
+    "op": "replace",
+    "value": "Se você pulasse da torre Celestial, será que você cairia como uma folha?",
+    "path": "/converse/avian/floran/9"
+  },
+  {
+    "op": "replace",
+    "value": "Se você estiver interessado em aprender sobre Kluex você deve encontrar um Stargazer, eles são nossos líderes.",
+    "path": "/converse/avian/apex/13"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex esteja com você.",
+    "path": "/converse/avian/apex/16"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex esteja com você.",
+    "path": "/converse/avian/avian/15"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex esteja com você.",
+    "path": "/converse/avian/floran/15"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex esteja com você.",
+    "path": "/converse/avian/glitch/15"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex esteja com você.",
+    "path": "/converse/avian/human/15"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex esteja com você.",
+    "path": "/converse/avian/hylotl/15"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex esteja com você.",
+    "path": "/converse/avian/novakid/15"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex te abençoe.",
+    "path": "/converse/avian/apex/18"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex te abençoe.",
+    "path": "/converse/avian/avian/17"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex te abençoe.",
+    "path": "/converse/avian/floran/17"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex te abençoe.",
+    "path": "/converse/avian/glitch/17"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex te abençoe.",
+    "path": "/converse/avian/human/17"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex te abençoe.",
+    "path": "/converse/avian/hylotl/17"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex te abençoe.",
+    "path": "/converse/avian/novakid/17"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex te guie.",
+    "path": "/converse/avian/apex/30"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex te guie.",
+    "path": "/converse/avian/avian/29"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex te guie.",
+    "path": "/converse/avian/floran/29"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex te guie.",
+    "path": "/converse/avian/glitch/29"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex te guie.",
+    "path": "/converse/avian/human/29"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex te guie.",
+    "path": "/converse/avian/hylotl/29"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex te guie.",
+    "path": "/converse/avian/novakid/29"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex é um deus da guerra, mas também da vida, a morte, as estações do ano e colheita. Ele é o Deus todo.",
+    "path": "/converse/avian/floran/5"
+  },
+  {
+    "op": "replace",
+    "value": "Folhas são adoráveis, mas eu prefiro as penas que Kluex me deu.",
+    "path": "/converse/avian/floran/14"
+  },
+  {
+    "op": "replace",
+    "value": "Deixe Kluex te guiar nas suas jornadas.",
+    "path": "/converse/avian/apex/40"
+  },
+  {
+    "op": "replace",
+    "value": "Deixe Kluex te guiar nas suas jornadas.",
+    "path": "/converse/avian/avian/39"
+  },
+  {
+    "op": "replace",
+    "value": "Deixe Kluex te guiar nas suas jornadas.",
+    "path": "/converse/avian/floran/39"
+  },
+  {
+    "op": "replace",
+    "value": "Deixe Kluex te guiar nas suas jornadas.",
+    "path": "/converse/avian/glitch/39"
+  },
+  {
+    "op": "replace",
+    "value": "Deixe Kluex te guiar nas suas jornadas.",
+    "path": "/converse/avian/human/39"
+  },
+  {
+    "op": "replace",
+    "value": "Deixe Kluex te guiar nas suas jornadas.",
+    "path": "/converse/avian/hylotl/39"
+  },
+  {
+    "op": "replace",
+    "value": "Deixe Kluex te guiar nas suas jornadas.",
+    "path": "/converse/avian/novakid/39"
+  },
+  {
+    "op": "replace",
+    "value": "Olhe para o seu brilho celestial!",
+    "path": "/converse/avian/novakid/11"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex abençoe suas caças.",
+    "path": "/converse/avian/floran/7"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex te traga força.",
+    "path": "/converse/avian/apex/41"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex te traga força.",
+    "path": "/converse/avian/avian/40"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex te traga força.",
+    "path": "/converse/avian/floran/40"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex te traga força.",
+    "path": "/converse/avian/glitch/40"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex te traga força.",
+    "path": "/converse/avian/human/40"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex te traga força.",
+    "path": "/converse/avian/hylotl/40"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex te traga força.",
+    "path": "/converse/avian/novakid/40"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex guie sua mão na batalha.",
+    "path": "/converse/avian/apex/37"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex guie sua mão na batalha.",
+    "path": "/converse/avian/avian/36"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex guie sua mão na batalha.",
+    "path": "/converse/avian/floran/36"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex guie sua mão na batalha.",
+    "path": "/converse/avian/glitch/36"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex guie sua mão na batalha.",
+    "path": "/converse/avian/human/36"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex guie sua mão na batalha.",
+    "path": "/converse/avian/hylotl/36"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex guie sua mão na batalha.",
+    "path": "/converse/avian/novakid/36"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex ilumine seu caminho, homem de metal.",
+    "path": "/converse/avian/glitch/14"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex torne-o forte.",
+    "path": "/converse/avian/apex/36"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex torne-o forte.",
+    "path": "/converse/avian/avian/35"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex torne-o forte.",
+    "path": "/converse/avian/floran/35"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex torne-o forte.",
+    "path": "/converse/avian/glitch/35"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex torne-o forte.",
+    "path": "/converse/avian/human/35"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex torne-o forte.",
+    "path": "/converse/avian/hylotl/35"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex torne-o forte.",
+    "path": "/converse/avian/novakid/35"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex leve-o sob a sua asa.",
+    "path": "/converse/avian/apex/35"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex leve-o sob a sua asa.",
+    "path": "/converse/avian/avian/34"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex leve-o sob a sua asa.",
+    "path": "/converse/avian/floran/34"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex leve-o sob a sua asa.",
+    "path": "/converse/avian/glitch/34"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex leve-o sob a sua asa.",
+    "path": "/converse/avian/human/34"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex leve-o sob a sua asa.",
+    "path": "/converse/avian/hylotl/34"
+  },
+  {
+    "op": "replace",
+    "value": "Que Kluex leve-o sob a sua asa.",
+    "path": "/converse/avian/novakid/34"
+  },
+  {
+    "op": "replace",
+    "value": "Que a luz de Kluex guie você.",
+    "path": "/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Que a luz de Kluex guie-o.",
+    "path": "/converse/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Que o poderoso Kluex te defenda.",
+    "path": "/converse/avian/apex/38"
+  },
+  {
+    "op": "replace",
+    "value": "Que o poderoso Kluex te defenda.",
+    "path": "/converse/avian/avian/37"
+  },
+  {
+    "op": "replace",
+    "value": "Que o poderoso Kluex te defenda.",
+    "path": "/converse/avian/floran/37"
+  },
+  {
+    "op": "replace",
+    "value": "Que o poderoso Kluex te defenda.",
+    "path": "/converse/avian/glitch/37"
+  },
+  {
+    "op": "replace",
+    "value": "Que o poderoso Kluex te defenda.",
+    "path": "/converse/avian/human/37"
+  },
+  {
+    "op": "replace",
+    "value": "Que o poderoso Kluex te defenda.",
+    "path": "/converse/avian/hylotl/37"
+  },
+  {
+    "op": "replace",
+    "value": "Que o poderoso Kluex te defenda.",
+    "path": "/converse/avian/novakid/37"
+  },
+  {
+    "op": "replace",
+    "value": "Que você possa Ascender no lado de Kluex.",
+    "path": "/converse/avian/apex/42"
+  },
+  {
+    "op": "replace",
+    "value": "Que você possa Ascender no lado de Kluex.",
+    "path": "/converse/avian/avian/41"
+  },
+  {
+    "op": "replace",
+    "value": "Que você possa Ascender no lado de Kluex.",
+    "path": "/converse/avian/floran/41"
+  },
+  {
+    "op": "replace",
+    "value": "Que você possa Ascender no lado de Kluex.",
+    "path": "/converse/avian/glitch/41"
+  },
+  {
+    "op": "replace",
+    "value": "Que você possa Ascender no lado de Kluex.",
+    "path": "/converse/avian/human/41"
+  },
+  {
+    "op": "replace",
+    "value": "Que você possa Ascender no lado de Kluex.",
+    "path": "/converse/avian/hylotl/41"
+  },
+  {
+    "op": "replace",
+    "value": "Que você possa Ascender no lado de Kluex.",
+    "path": "/converse/avian/novakid/41"
+  },
+  {
+    "op": "replace",
+    "value": "Que você possa Ascender.",
+    "path": "/converse/avian/apex/26"
+  },
+  {
+    "op": "replace",
+    "value": "Que você possa Ascender.",
+    "path": "/converse/avian/avian/25"
+  },
+  {
+    "op": "replace",
+    "value": "Que você possa Ascender.",
+    "path": "/converse/avian/floran/25"
+  },
+  {
+    "op": "replace",
+    "value": "Que você possa Ascender.",
+    "path": "/converse/avian/glitch/25"
+  },
+  {
+    "op": "replace",
+    "value": "Que você possa Ascender.",
+    "path": "/converse/avian/human/25"
+  },
+  {
+    "op": "replace",
+    "value": "Que você possa Ascender.",
+    "path": "/converse/avian/hylotl/25"
+  },
+  {
+    "op": "replace",
+    "value": "Que você possa Ascender.",
+    "path": "/converse/avian/novakid/25"
+  },
+  {
+    "op": "replace",
+    "value": "Que você encontre a luz de Kluex.",
+    "path": "/converse/avian/apex/31"
+  },
+  {
+    "op": "replace",
+    "value": "Que você encontre a luz de Kluex.",
+    "path": "/converse/avian/avian/30"
+  },
+  {
+    "op": "replace",
+    "value": "Que você encontre a luz de Kluex.",
+    "path": "/converse/avian/floran/30"
+  },
+  {
+    "op": "replace",
+    "value": "Que você encontre a luz de Kluex.",
+    "path": "/converse/avian/glitch/30"
+  },
+  {
+    "op": "replace",
+    "value": "Que você encontre a luz de Kluex.",
+    "path": "/converse/avian/human/30"
+  },
+  {
+    "op": "replace",
+    "value": "Que você encontre a luz de Kluex.",
+    "path": "/converse/avian/hylotl/30"
+  },
+  {
+    "op": "replace",
+    "value": "Que você encontre a luz de Kluex.",
+    "path": "/converse/avian/novakid/30"
+  },
+  {
+    "op": "replace",
+    "value": "Que você possa caminhar na luz de Kluex.",
+    "path": "/converse/avian/apex/43"
+  },
+  {
+    "op": "replace",
+    "value": "Que você possa caminhar na luz de Kluex.",
+    "path": "/converse/avian/avian/42"
+  },
+  {
+    "op": "replace",
+    "value": "Que você possa caminhar na luz de Kluex.",
+    "path": "/converse/avian/floran/42"
+  },
+  {
+    "op": "replace",
+    "value": "Que você possa caminhar na luz de Kluex.",
+    "path": "/converse/avian/glitch/42"
+  },
+  {
+    "op": "replace",
+    "value": "Que você possa caminhar na luz de Kluex.",
+    "path": "/converse/avian/human/42"
+  },
+  {
+    "op": "replace",
+    "value": "Que você possa caminhar na luz de Kluex.",
+    "path": "/converse/avian/hylotl/42"
+  },
+  {
+    "op": "replace",
+    "value": "Que você possa caminhar na luz de Kluex.",
+    "path": "/converse/avian/novakid/42"
+  },
+  {
+    "op": "replace",
+    "value": "Que a sua vida seja cheia de luz.",
+    "path": "/converse/avian/apex/24"
+  },
+  {
+    "op": "replace",
+    "value": "Que a sua vida seja cheia de luz.",
+    "path": "/converse/avian/avian/23"
+  },
+  {
+    "op": "replace",
+    "value": "Que a sua vida seja cheia de luz.",
+    "path": "/converse/avian/floran/23"
+  },
+  {
+    "op": "replace",
+    "value": "Que a sua vida seja cheia de luz.",
+    "path": "/converse/avian/glitch/23"
+  },
+  {
+    "op": "replace",
+    "value": "Que a sua vida seja cheia de luz.",
+    "path": "/converse/avian/human/23"
+  },
+  {
+    "op": "replace",
+    "value": "Que a sua vida seja cheia de luz.",
+    "path": "/converse/avian/hylotl/23"
+  },
+  {
+    "op": "replace",
+    "value": "Que a sua vida seja cheia de luz.",
+    "path": "/converse/avian/novakid/23"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez se você adorasse Kluex ele te daria uma alma?",
+    "path": "/converse/avian/glitch/9"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em conhecê-lo, viajante.",
+    "path": "/converse/avian/apex/39"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em conhecê-lo, viajante.",
+    "path": "/converse/avian/avian/38"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em conhecê-lo, viajante.",
+    "path": "/converse/avian/floran/38"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em conhecê-lo, viajante.",
+    "path": "/converse/avian/glitch/38"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em conhecê-lo, viajante.",
+    "path": "/converse/avian/hylotl/38"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em conhecê-lo, viajante.",
+    "path": "/converse/avian/novakid/38"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em conhecê-lo, viajante.",
+    "path": "/converse/avian/human/38"
+  },
+  {
+    "op": "replace",
+    "value": "Sem penas? Kluex tem pena de você.",
+    "path": "/converse/avian/human/8"
+  },
+  {
+    "op": "replace",
+    "value": "Oh, hum, olá.",
+    "path": "/converse/avian/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Oh... Hum, então, você acredita em Kluex?",
+    "path": "/converse/avian/avian/0"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez você devesse falar com um Stargazer, eles podem ajudá-lo a entrar no caminho certo.",
+    "path": "/converse/avian/avian/1"
+  },
+  {
+    "op": "replace",
+    "value": "Infelizmente, Kluex não acolhe aqueles sem penas.",
+    "path": "/converse/avian/human/4"
+  },
+  {
+    "op": "replace",
+    "value": "Brilhando assim, você deve ter nascido dos céus!",
+    "path": "/converse/avian/novakid/9"
+  },
+  {
+    "op": "replace",
+    "value": "Graças a Kluex, um belo ser celestial!",
+    "path": "/converse/avian/novakid/13"
+  },
+  {
+    "op": "replace",
+    "value": "O Avoscript não menciona robôs...",
+    "path": "/converse/avian/glitch/10"
+  },
+  {
+    "op": "replace",
+    "value": "Os Hylotl são criaturas da água, mas nós Avians somos do ar.",
+    "path": "/converse/avian/hylotl/4"
+  },
+  {
+    "op": "replace",
+    "value": "Os Stargazers devem ouvir sobre você!",
+    "path": "/converse/avian/novakid/5"
+  },
+  {
+    "op": "replace",
+    "value": "Os Stargazers pregam que os Avians são a raça mais poderosa, mas você não parece tão humilde.",
+    "path": "/converse/avian/hylotl/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este \"pacifismo\" é um conceito interessante.",
+    "path": "/converse/avian/hylotl/12"
+  },
+  {
+    "op": "replace",
+    "value": "Nós sacrificamos vários humanos para Kluex duas estações atraz.",
+    "path": "/converse/avian/human/7"
+  },
+  {
+    "op": "replace",
+    "value": "Bem-vindo à nossa aldeia.",
+    "path": "/converse/avian/apex/20"
+  },
+  {
+    "op": "replace",
+    "value": "Bem-vindo à nossa aldeia.",
+    "path": "/converse/avian/avian/19"
+  },
+  {
+    "op": "replace",
+    "value": "Bem-vindo à nossa aldeia.",
+    "path": "/converse/avian/floran/19"
+  },
+  {
+    "op": "replace",
+    "value": "Bem-vindo à nossa aldeia.",
+    "path": "/converse/avian/glitch/19"
+  },
+  {
+    "op": "replace",
+    "value": "Bem-vindo à nossa aldeia.",
+    "path": "/converse/avian/human/19"
+  },
+  {
+    "op": "replace",
+    "value": "Bem-vindo à nossa aldeia.",
+    "path": "/converse/avian/hylotl/19"
+  },
+  {
+    "op": "replace",
+    "value": "Bem-vindo à nossa aldeia.",
+    "path": "/converse/avian/novakid/19"
+  },
+  {
+    "op": "replace",
+    "value": "Bem vindo, visitante.",
+    "path": "/converse/avian/apex/29"
+  },
+  {
+    "op": "replace",
+    "value": "Bem vindo, visitante.",
+    "path": "/converse/avian/avian/28"
+  },
+  {
+    "op": "replace",
+    "value": "Bem vindo, visitante.",
+    "path": "/converse/avian/floran/28"
+  },
+  {
+    "op": "replace",
+    "value": "Bem vindo, visitante.",
+    "path": "/converse/avian/glitch/28"
+  },
+  {
+    "op": "replace",
+    "value": "Bem vindo, visitante.",
+    "path": "/converse/avian/human/28"
+  },
+  {
+    "op": "replace",
+    "value": "Bem vindo, visitante.",
+    "path": "/converse/avian/hylotl/28"
+  },
+  {
+    "op": "replace",
+    "value": "Bem vindo, visitante.",
+    "path": "/converse/avian/novakid/28"
+  },
+  {
+    "op": "replace",
+    "value": "Tinha alguma templo para Kluex na Terra?",
+    "path": "/converse/avian/human/5"
+  },
+  {
+    "op": "replace",
+    "value": "Por que não subir a torre Celestial e sentir o vento em suas penas?",
+    "path": "/converse/avian/avian/5"
+  },
+  {
+    "op": "replace",
+    "value": "Você nunca pode dizer outra alma, mas às vezes eu acho que talvez Kluex não seja tão grande.",
+    "path": "/converse/avian/apex/8"
+  },
+  {
+    "op": "replace",
+    "value": "Você provavelmente poderia construir algumas asas de metal...",
+    "path": "/converse/avian/glitch/13"
+  },
+  {
+    "op": "replace",
+    "value": "Você adora Kluex, não é?",
+    "path": "/converse/avian/avian/3"
+  },
+  {
+    "op": "replace",
+    "value": "Você não teve a sua cabeça virada pela propaganda dos Grounded, não é?",
+    "path": "/converse/avian/avian/4"
+  },
+  {
+    "op": "replace",
+    "value": "Você se juntou ao Protetorado? O quão propício a adoração de Kluex?",
+    "path": "/converse/avian/avian/6"
+  },
+  {
+    "op": "replace",
+    "value": "Você sabe que kluex criou as bananas., né?",
+    "path": "/converse/avian/apex/6"
+  },
+  {
+    "op": "replace",
+    "value": "Você parece forte! Talvez você poderia ser um Ascendente um dia!",
+    "path": "/converse/avian/avian/9"
+  },
+  {
+    "op": "replace",
+    "value": "Você me deixa um pouco desconfortável - quem inventou que você estava tentando brincar de Deus.",
+    "path": "/converse/avian/glitch/11"
+  },
+  {
+    "op": "replace",
+    "value": "Você deve ser trabalho de Kluex!",
+    "path": "/converse/avian/novakid/4"
+  },
+  {
+    "op": "replace",
+    "value": "Você parece ser um guerreiro forte, sua família deve estar orgulhosa.",
+    "path": "/converse/avian/avian/14"
+  },
+  {
+    "op": "replace",
+    "value": "Você parece forte para um humano; Kluex valoriza a força.",
+    "path": "/converse/avian/human/9"
+  },
+  {
+    "op": "replace",
+    "value": "Você brilha como Avolite!",
+    "path": "/converse/avian/novakid/3"
+  },
+  {
+    "op": "replace",
+    "value": "Você deve ler o Avoscript!",
+    "path": "/converse/avian/hylotl/6"
+  },
+  {
+    "op": "replace",
+    "value": "Você não seria muito bom como um sacrifício, teríamos apenas óleo em todo o altar.",
+    "path": "/converse/avian/glitch/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você é um Novakid, não é?",
+    "path": "/converse/avian/novakid/8"
+  },
+  {
+    "op": "replace",
+    "value": "Você é tão bonito(a)!",
+    "path": "/converse/avian/novakid/6"
+  },
+  {
+    "op": "replace",
+    "value": "Você é forte! Eu suspeito que você é um bom guerreiro.",
+    "path": "/converse/avian/glitch/7"
+  },
+  {
+    "op": "replace",
+    "value": "Você é certamente um trabalho de Kluex.",
+    "path": "/converse/avian/novakid/12"
+  },
+  {
+    "op": "replace",
+    "value": "O seu tipo deve apenas respeitar o Big Ape; ele é forte, e ele é o líder. Ele é como Kluex.",
+    "path": "/converse/avian/apex/4"
+  },
+  {
+    "op": "replace",
+    "value": "Seu povo está descrito como espiritual, e ainda assim você não tem deuses... Isso me confunde.",
+    "path": "/converse/avian/hylotl/5"
+  },
+  {
+    "op": "replace",
+    "value": "Bom dia.",
+    "path": "/converse/avian/apex/50"
+  },
+  {
+    "op": "replace",
+    "value": "Bom dia.",
+    "path": "/converse/avian/avian/49"
+  },
+  {
+    "op": "replace",
+    "value": "Bom dia.",
+    "path": "/converse/avian/floran/49"
+  },
+  {
+    "op": "replace",
+    "value": "Bom dia.",
+    "path": "/converse/avian/glitch/49"
+  },
+  {
+    "op": "replace",
+    "value": "Bom dia.",
+    "path": "/converse/avian/human/49"
+  },
+  {
+    "op": "replace",
+    "value": "Bom dia.",
+    "path": "/converse/avian/hylotl/49"
+  },
+  {
+    "op": "replace",
+    "value": "Bom dia.",
+    "path": "/converse/avian/novakid/49"
+  },
+  {
+    "op": "replace",
+    "value": "Olá.",
+    "path": "/converse/avian/apex/27"
+  },
+  {
+    "op": "replace",
+    "value": "Olá.",
+    "path": "/converse/avian/avian/26"
+  },
+  {
+    "op": "replace",
+    "value": "Olá.",
+    "path": "/converse/avian/floran/26"
+  },
+  {
+    "op": "replace",
+    "value": "Olá.",
+    "path": "/converse/avian/glitch/26"
+  },
+  {
+    "op": "replace",
+    "value": "Olá.",
+    "path": "/converse/avian/human/26"
+  },
+  {
+    "op": "replace",
+    "value": "Olá.",
+    "path": "/converse/avian/hylotl/26"
+  },
+  {
+    "op": "replace",
+    "value": "Olá.",
+    "path": "/converse/avian/novakid/26"
+  },
+  {
+    "op": "replace",
+    "value": "Olá.",
+    "path": "/converse/avian/apex/19"
+  },
+  {
+    "op": "replace",
+    "value": "Olá.",
+    "path": "/converse/avian/avian/18"
+  },
+  {
+    "op": "replace",
+    "value": "Olá.",
+    "path": "/converse/avian/floran/18"
+  },
+  {
+    "op": "replace",
+    "value": "Olá.",
+    "path": "/converse/avian/glitch/18"
+  },
+  {
+    "op": "replace",
+    "value": "Olá.",
+    "path": "/converse/avian/human/18"
+  },
+  {
+    "op": "replace",
+    "value": "Olá.",
+    "path": "/converse/avian/hylotl/18"
+  },
+  {
+    "op": "replace",
+    "value": "Olá.",
+    "path": "/converse/avian/novakid/18"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que você esteja tendo um bom dia!",
+    "path": "/converse/avian/apex/48"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que você esteja tendo um bom dia!",
+    "path": "/converse/avian/avian/47"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que você esteja tendo um bom dia!",
+    "path": "/converse/avian/floran/47"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que você esteja tendo um bom dia!",
+    "path": "/converse/avian/glitch/47"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que você esteja tendo um bom dia!",
+    "path": "/converse/avian/human/47"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que você esteja tendo um bom dia!",
+    "path": "/converse/avian/hylotl/47"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que você esteja tendo um bom dia!",
+    "path": "/converse/avian/novakid/47"
+  },
+  {
+    "op": "replace",
+    "value": "Como vai você?",
+    "path": "/converse/avian/apex/28"
+  },
+  {
+    "op": "replace",
+    "value": "Como vai você?",
+    "path": "/converse/avian/avian/27"
+  },
+  {
+    "op": "replace",
+    "value": "Como vai você?",
+    "path": "/converse/avian/floran/27"
+  },
+  {
+    "op": "replace",
+    "value": "Como vai você?",
+    "path": "/converse/avian/glitch/27"
+  },
+  {
+    "op": "replace",
+    "value": "Como vai você?",
+    "path": "/converse/avian/human/27"
+  },
+  {
+    "op": "replace",
+    "value": "Como vai você?",
+    "path": "/converse/avian/hylotl/27"
+  },
+  {
+    "op": "replace",
+    "value": "Como vai você?",
+    "path": "/converse/avian/novakid/27"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em conhecê-lo!",
+    "path": "/converse/avian/apex/46"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em conhecê-lo!",
+    "path": "/converse/avian/avian/45"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em conhecê-lo!",
+    "path": "/converse/avian/floran/45"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em conhecê-lo!",
+    "path": "/converse/avian/glitch/45"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em conhecê-lo!",
+    "path": "/converse/avian/human/45"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em conhecê-lo!",
+    "path": "/converse/avian/hylotl/45"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em conhecê-lo!",
+    "path": "/converse/avian/novakid/45"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em te conhecer.",
+    "path": "/converse/avian/apex/45"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em te conhecer.",
+    "path": "/converse/avian/avian/44"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em te conhecer.",
+    "path": "/converse/avian/floran/44"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em te conhecer.",
+    "path": "/converse/avian/glitch/44"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em te conhecer.",
+    "path": "/converse/avian/human/44"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em te conhecer.",
+    "path": "/converse/avian/hylotl/44"
+  },
+  {
+    "op": "replace",
+    "value": "Prazer em te conhecer.",
+    "path": "/converse/avian/novakid/44"
+  },
+  {
+    "op": "replace",
+    "value": "Olá.",
+    "path": "/converse/avian/apex/49"
+  },
+  {
+    "op": "replace",
+    "value": "Olá.",
+    "path": "/converse/avian/avian/48"
+  },
+  {
+    "op": "replace",
+    "value": "Olá.",
+    "path": "/converse/avian/floran/48"
+  },
+  {
+    "op": "replace",
+    "value": "Olá.",
+    "path": "/converse/avian/glitch/48"
+  },
+  {
+    "op": "replace",
+    "value": "Olá.",
+    "path": "/converse/avian/human/48"
+  },
+  {
+    "op": "replace",
+    "value": "Olá.",
+    "path": "/converse/avian/hylotl/48"
+  },
+  {
+    "op": "replace",
+    "value": "Olá.",
+    "path": "/converse/avian/novakid/48"
+  }
+]

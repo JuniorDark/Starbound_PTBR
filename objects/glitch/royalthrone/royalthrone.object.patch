@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um trono digno de nádegas reais."}, {"op": "replace", "path": "/shortdescription", "value": "Royal Throne"}, {"op": "replace", "path": "/apexDescription", "value": "Um grande trono de ouro."}, {"op": "replace", "path": "/humanDescription", "value": "Um trono real. Lindamente fabricado a partir de ouro e cetim."}, {"op": "replace", "path": "/floranDescription", "value": "Cadeira de metal brilhante."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Um trono como este certamente é adequado para a realeza."}, {"op": "replace", "path": "/hylotlDescription", "value": "O ponto focal da opulência pomposa."}, {"op": "replace", "path": "/avianDescription", "value": "A realeza parece se cercar de ouro."}, {"op": "replace", "path": "/novakidDescription", "value": "Este trono certamente faz uma declaração extravagante!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um grande trono de ouro.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um trono real. Lindamente fabricado a partir de ouro e cetim.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um trono digno de nádegas reais.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Um trono como este certamente é adequado para a realeza.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este trono certamente faz uma declaração extravagante!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Royal Throne",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A realeza parece se cercar de ouro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cadeira de metal brilhante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O ponto focal da opulência pomposa.",
+    "path": "/hylotlDescription"
+  }
+]

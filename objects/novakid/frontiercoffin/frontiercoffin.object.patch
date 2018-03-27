@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Este caixão não é o mais bonito, mas acho que a estética não importa muito quando você está morto."}, {"op": "replace", "path": "/humanDescription", "value": "Sinto que eu pegaria uma lasca de tocar essa coisa."}, {"op": "replace", "path": "/avianDescription", "value": "A cultura Avian tradicional enterraria seus mortos em caixões muito maiores do que este."}, {"op": "replace", "path": "/hylotlDescription", "value": "Isto é para enterrar os mortos? Que... Horrível."}, {"op": "replace", "path": "/novakidDescription", "value": "Isso me dá uma sensação bastante mórbida."}, {"op": "replace", "path": "/description", "value": "Um caixão de madeira áspera. Felizmente, ninguém está dentro!"}, {"op": "replace", "path": "/shortdescription", "value": "Frontier Coffin"}, {"op": "replace", "path": "/floranDescription", "value": "Esta caixa é do tamanho exato para se esconder dentro. Floran poderia usá-la para emboscadasss..."}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. O que aconteceria se você fosse trancado dentro por acidente?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um caixão de madeira áspera. Felizmente, ninguém está dentro!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. O que aconteceria se você fosse trancado dentro por acidente?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Frontier Coffin",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sinto que eu pegaria uma lasca de tocar essa coisa.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto é para enterrar os mortos? Que... Horrível.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este caixão não é o mais bonito, mas acho que a estética não importa muito quando você está morto.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso me dá uma sensação bastante mórbida.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta caixa é do tamanho exato para se esconder dentro. Floran poderia usá-la para emboscadasss...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A cultura Avian tradicional enterraria seus mortos em caixões muito maiores do que este.",
+    "path": "/avianDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Eu me pergunto se eu vou ser cozido se eu sentar-se nisto por muito tempo?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Cheira estranho, mas sentar-se nisso é realmente relaxante."}, {"op": "replace", "path": "/shortdescription", "value": "Spooky Cauldron"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não quer virar sssopa."}, {"op": "replace", "path": "/glitchDescription", "value": "Questionamento. Quanto tempo vou ter que me sentar nisto para enferrujar?"}, {"op": "replace", "path": "/apexDescription", "value": "Parece uma má idéia, mas eu não me importaria de sentar nisso."}, {"op": "replace", "path": "/humanDescription", "value": "Sentar nisso parece que faria cócegas!"}, {"op": "replace", "path": "/description", "value": "Um caldeirão borbulhante, grande o suficiente para caber uma pessoa inteira dentro dele."}, {"op": "replace", "path": "/novakidDescription", "value": "É um pouco pequeno para uma banheira."}]
+[
+  {
+    "op": "replace",
+    "value": "Um caldeirão borbulhante, grande o suficiente para caber uma pessoa inteira dentro dele.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não quer virar sssopa.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto se eu vou ser cozido se eu sentar-se nisto por muito tempo?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece uma má idéia, mas eu não me importaria de sentar nisso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cheira estranho, mas sentar-se nisso é realmente relaxante.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um pouco pequeno para uma banheira.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Questionamento. Quanto tempo vou ter que me sentar nisto para enferrujar?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sentar nisso parece que faria cócegas!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Spooky Cauldron",
+    "path": "/shortdescription"
+  }
+]

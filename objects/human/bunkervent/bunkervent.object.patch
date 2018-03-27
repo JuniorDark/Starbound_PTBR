@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Bunker Vent"}, {"op": "replace", "path": "/humanDescription", "value": "Um respiradouro sem inspiração."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um respiradouro com um ventilador."}, {"op": "replace", "path": "/apexDescription", "value": "Um respiradouro."}, {"op": "replace", "path": "/avianDescription", "value": "Um respiradouro para reciclar o ar."}, {"op": "replace", "path": "/description", "value": "Ar reciclado zumbi através das lâminas do ventilador em um ritmo constante."}, {"op": "replace", "path": "/floranDescription", "value": "Floran pode sentir uma ligeira brisa vindo por aqui."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. O processo de reciclagem de ar não é totalmente funcional."}, {"op": "replace", "path": "/novakidDescription", "value": "É um respiradouro. Ainda assim, o ar está abafado aqui."}]
+[
+  {
+    "op": "replace",
+    "value": "Um respiradouro.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um respiradouro para reciclar o ar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um respiradouro com um ventilador.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um respiradouro sem inspiração.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bunker Vent",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran pode sentir uma ligeira brisa vindo por aqui.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um respiradouro. Ainda assim, o ar está abafado aqui.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. O processo de reciclagem de ar não é totalmente funcional.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ar reciclado zumbi através das lâminas do ventilador em um ritmo constante.",
+    "path": "/description"
+  }
+]

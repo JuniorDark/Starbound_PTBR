@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Feathercrown Seed"}, {"op": "replace", "path": "/floranDescription", "value": "Parece um homem-pássaro, tem gosto de terra. Homem-pássaro mais sssaboroso."}, {"op": "replace", "path": "/avianDescription", "value": "Uma iguaria Avian. Apenas os melhores pratos contêm feathercrown."}, {"op": "replace", "path": "/hylotlDescription", "value": "Penas não florescem debaixo d'água. Nem feathercrowns."}, {"op": "replace", "path": "/description", "value": "Penas brotam da parte superior da feathercrown e balançam com o vento."}, {"op": "replace", "path": "/glitchDescription", "value": "Filosófico. Talvez um dia uma feathercrown irá desenvolver consciência e ir para os céus."}, {"op": "replace", "path": "/apexDescription", "value": "Parece uma cenoura cruzou com um Avian. Incomum para dizer o mínimo."}, {"op": "replace", "path": "/humanDescription", "value": "Uma cenoura com uma pena. Bom para comer, bem como fazer cócegas."}, {"op": "replace", "path": "/novakidDescription", "value": "A fruta com uma surpresa penosa."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cenoura com uma pena. Bom para comer, bem como fazer cócegas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma iguaria Avian. Apenas os melhores pratos contêm feathercrown.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Feathercrown Seed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Penas não florescem debaixo d'água. Nem feathercrowns.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Penas brotam da parte superior da feathercrown e balançam com o vento.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Parece uma cenoura cruzou com um Avian. Incomum para dizer o mínimo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece um homem-pássaro, tem gosto de terra. Homem-pássaro mais sssaboroso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Filosófico. Talvez um dia uma feathercrown irá desenvolver consciência e ir para os céus.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A fruta com uma surpresa penosa.",
+    "path": "/novakidDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Uma máquina de fumaça, que... Atmosférica."}, {"op": "replace", "path": "/description", "value": "Uma máquina de fumaça."}, {"op": "replace", "path": "/shortdescription", "value": "Smoke Machine"}, {"op": "replace", "path": "/floranDescription", "value": "Máquina de fumaça."}, {"op": "replace", "path": "/glitchDescription", "value": "Divertido. Esta máquina produz fumaça."}, {"op": "replace", "path": "/novakidDescription", "value": "Algum tipo de máquina de fumaça."}, {"op": "replace", "path": "/apexDescription", "value": "Máquinas de fumaça são perfeitas para causar uma distração."}, {"op": "replace", "path": "/humanDescription", "value": "Algum tipo de máquina de fumaça, perfeita para discotecas!"}, {"op": "replace", "path": "/avianDescription", "value": "Uma máquina para produzir fumaça, mas por quê?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma máquina para produzir fumaça, mas por quê?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma máquina de fumaça, que... Atmosférica.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma máquina de fumaça.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Divertido. Esta máquina produz fumaça.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Smoke Machine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Máquinas de fumaça são perfeitas para causar uma distração.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de máquina de fumaça.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de máquina de fumaça, perfeita para discotecas!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Máquina de fumaça.",
+    "path": "/floranDescription"
+  }
+]

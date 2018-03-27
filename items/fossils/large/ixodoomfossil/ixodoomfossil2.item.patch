@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um torso de Ixodoom fossilizado."}, {"op": "replace", "path": "/shortdescription", "value": "Ixodoom Torso"}]
+[
+  {
+    "op": "replace",
+    "value": "Um torso de Ixodoom fossilizado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ixodoom Torso",
+    "path": "/shortdescription"
+  }
+]

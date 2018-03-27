@@ -1,1 +1,22 @@
-[{"op":"replace","path":"/blueprintAlreadyKnown","value":"Já sei como criar <ItemName>."},{"op":"replace","path":"/blueprintUnlock","value":"^green;Aprendeu a criar: <ItemName>."},{"op":"replace","path":"/collectableUnlock","value":"^green;^green;<collectable>^white; adicionado a coleção ^blue;<collection>^reset; "},{"op":"replace","path":"/companionsConfig/recruitDescription","value":"^cyan;> Nome: ^white;<name>\n^cyan;> Trabalho:^white; <role>\n^cyan;> Rank:^white; <rank>\n^cyan;> Status:^white; <status>"}]
+[
+  {
+    "op": "replace",
+    "value": "Já sei como criar <ItemName>.",
+    "path": "/blueprintAlreadyKnown"
+  },
+  {
+    "op": "replace",
+    "value": "^cyan;> Nome: ^white;<name>\n^cyan;> Trabalho:^white; <role>\n^cyan;> Rank:^white; <rank>\n^cyan;> Status:^white; <status>",
+    "path": "/companionsConfig/recruitDescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;^green;<collectable>^white; adicionado a coleção ^blue;<collection>^reset; ",
+    "path": "/collectableUnlock"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aprendeu a criar: <ItemName>.",
+    "path": "/blueprintUnlock"
+  }
+]

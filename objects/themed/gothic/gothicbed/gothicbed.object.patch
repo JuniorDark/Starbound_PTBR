@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Desconfortável. Esta cama de caixão me dá um mau pressentimento."}, {"op": "replace", "path": "/description", "value": "Finja que você é um ghoul morto-vivo com este caixão assustador!"}, {"op": "replace", "path": "/shortdescription", "value": "Gothic Bed"}, {"op": "replace", "path": "/floranDescription", "value": "Isso é para enterrar carne perfeitamente sssaborosa?"}, {"op": "replace", "path": "/apexDescription", "value": "A Miniknog consideraria enterrar as pessoas como um desperdício..."}, {"op": "replace", "path": "/humanDescription", "value": "Sim, é totalmente normal ter um desses por aí."}, {"op": "replace", "path": "/avianDescription", "value": "Ser enterrado em uma coisa dessas não iria apaziguar Kluex."}, {"op": "replace", "path": "/hylotlDescription", "value": "Hylotl não se debruçam sobre tais coisas mórbida."}, {"op": "replace", "path": "/novakidDescription", "value": "Me faz sentir como se estivesse em uma casa funerária, ou algo assim."}]
+[
+  {
+    "op": "replace",
+    "value": "Ser enterrado em uma coisa dessas não iria apaziguar Kluex.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gothic Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hylotl não se debruçam sobre tais coisas mórbida.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é para enterrar carne perfeitamente sssaborosa?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me faz sentir como se estivesse em uma casa funerária, ou algo assim.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Finja que você é um ghoul morto-vivo com este caixão assustador!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A Miniknog consideraria enterrar as pessoas como um desperdício...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desconfortável. Esta cama de caixão me dá um mau pressentimento.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sim, é totalmente normal ter um desses por aí.",
+    "path": "/humanDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma prateleira azul utilizada para exibir itens."}, {"op": "replace", "path": "/shortdescription", "value": "Blue Wall Shelf"}, {"op": "replace", "path": "/novakidDescription", "value": "Uma prateleira de parede azul."}, {"op": "replace", "path": "/avianDescription", "value": "Uma prateleira de parede simples."}, {"op": "replace", "path": "/glitchDescription", "value": "Entediado. Uma prateleira de parede."}, {"op": "replace", "path": "/apexDescription", "value": "É uma prateleira de parede."}, {"op": "replace", "path": "/humanDescription", "value": "É uma prateleira de parede."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma prateleira de parede azul para exibir curiosidades."}, {"op": "replace", "path": "/floranDescription", "value": "Prateleira chata."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma prateleira azul utilizada para exibir itens.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma prateleira de parede azul para exibir curiosidades.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma prateleira de parede azul.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma prateleira de parede simples.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Blue Wall Shelf",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Entediado. Uma prateleira de parede.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Prateleira chata.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma prateleira de parede.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma prateleira de parede.",
+    "path": "/humanDescription"
+  }
+]

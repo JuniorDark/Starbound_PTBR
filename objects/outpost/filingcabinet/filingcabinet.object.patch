@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Um armário para arquivos."}, {"op": "replace", "path": "/description", "value": "Um armário de arquivos. Classificado."}, {"op": "replace", "path": "/shortdescription", "value": "Filing Cabinet"}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma solução de armazenamento simples, mas útil."}, {"op": "replace", "path": "/humanDescription", "value": "Um armário de arquivos. Talvez eu dê uma olhada."}, {"op": "replace", "path": "/floranDescription", "value": "Um armário cheio de papéiss."}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Um armário de documentos possivelmente classificados dentro."}, {"op": "replace", "path": "/apexDescription", "value": "Um armário usado para armazenar arquivos."}, {"op": "replace", "path": "/novakidDescription", "value": "Um armário para organizar os documentos."}]
+[
+  {
+    "op": "replace",
+    "value": "Um armário para arquivos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário para organizar os documentos.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário cheio de papéiss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário usado para armazenar arquivos.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário de arquivos. Talvez eu dê uma olhada.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário de arquivos. Classificado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma solução de armazenamento simples, mas útil.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Filing Cabinet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Um armário de documentos possivelmente classificados dentro.",
+    "path": "/glitchDescription"
+  }
+]

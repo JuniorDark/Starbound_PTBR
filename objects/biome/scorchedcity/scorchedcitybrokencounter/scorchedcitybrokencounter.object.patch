@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Enojado. Este balcão está coberto por camadas de sujeira."}, {"op": "replace", "path": "/description", "value": "Um balcão coberto por sujeira."}, {"op": "replace", "path": "/apexDescription", "value": "Este balcão está coberto por sujeira."}, {"op": "replace", "path": "/humanDescription", "value": "Há quanto tempo isso está aqui?"}, {"op": "replace", "path": "/avianDescription", "value": "Este balcão está imundo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este balcão é anti-higiênico"}, {"op": "replace", "path": "/novakidDescription", "value": "Este balcão com certeza é imundo!"}, {"op": "replace", "path": "/shortdescription", "value": "Grimy Stylish Counter"}, {"op": "replace", "path": "/floranDescription", "value": "Este balcão está sssujo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um balcão coberto por sujeira.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Enojado. Este balcão está coberto por camadas de sujeira.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grimy Stylish Counter",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há quanto tempo isso está aqui?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este balcão está coberto por sujeira.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este balcão está imundo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este balcão é anti-higiênico",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este balcão com certeza é imundo!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este balcão está sssujo.",
+    "path": "/floranDescription"
+  }
+]

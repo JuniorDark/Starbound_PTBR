@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Detalhada aqui está um plano alarmante para drenar os oceanos do mundo. Felizmente, isso foi vetado."}, {"op": "replace", "path": "/avianDescription", "value": "Uma equipe foi enviada para recuperar um artefato amaldiçoado. Eles nunca voltaram. Talvez eles tenham se desviado?"}, {"op": "replace", "path": "/humanDescription", "value": "Ooh, dados secretos. Acontece que o governo estava nos espionando! Quem diria?"}, {"op": "replace", "path": "/apexDescription", "value": "Aparentemente este planeta ia explodir. Acho que foi um alarme falso."}, {"op": "replace", "path": "/description", "value": "É uma tela cheia de dados de uma missão confidencial... Chato."}, {"op": "replace", "path": "/shortdescription", "value": "Wide Console"}, {"op": "replace", "path": "/floranDescription", "value": "Caçar... festasss.... Floran têm festas na caça também."}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. Parece que o usuário anterior deste console ficou louco. Há uma série de mensagens alarmantes."}, {"op": "replace", "path": "/novakidDescription", "value": "Há algumas informações aqui sobre uma petição para proibir a caminhada na lua. Seguido por uma receita para sopa de cebola."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma equipe foi enviada para recuperar um artefato amaldiçoado. Eles nunca voltaram. Talvez eles tenham se desviado?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aparentemente este planeta ia explodir. Acho que foi um alarme falso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Parece que o usuário anterior deste console ficou louco. Há uma série de mensagens alarmantes.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detalhada aqui está um plano alarmante para drenar os oceanos do mundo. Felizmente, isso foi vetado.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Caçar... festasss.... Floran têm festas na caça também.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma tela cheia de dados de uma missão confidencial... Chato.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ooh, dados secretos. Acontece que o governo estava nos espionando! Quem diria?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há algumas informações aqui sobre uma petição para proibir a caminhada na lua. Seguido por uma receita para sopa de cebola.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wide Console",
+    "path": "/shortdescription"
+  }
+]

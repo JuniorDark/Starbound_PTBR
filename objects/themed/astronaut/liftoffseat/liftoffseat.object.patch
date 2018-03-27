@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Seria divertido se deitar enquanto faz o zoom pelo espaço."}, {"op": "replace", "path": "/apexDescription", "value": "É bastante fascinante simular a experiência das viagens espaciais humanas iniciais."}, {"op": "replace", "path": "/hylotlDescription", "value": "A idéia de pilotar uma espaçonave nesta posição é risível para Hylotl."}, {"op": "replace", "path": "/description", "value": "Uma cadeira horizontal como uma cadeira de capitão em uma nave espacial terrestre."}, {"op": "replace", "path": "/shortdescription", "value": "Liftoff Seat"}, {"op": "replace", "path": "/glitchDescription", "value": "Fascinado. Que idéia engenhosa se deitar enquanto está em trânsito."}, {"op": "replace", "path": "/humanDescription", "value": "Que grande projeto. Ainda aguenta."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta cadeira dá um novo significado para o trabalho."}, {"op": "replace", "path": "/avianDescription", "value": "Eu posso ver como esta posição teria sido a mais confortável durante a decolagem."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira horizontal como uma cadeira de capitão em uma nave espacial terrestre.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Fascinado. Que idéia engenhosa se deitar enquanto está em trânsito.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso ver como esta posição teria sido a mais confortável durante a decolagem.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É bastante fascinante simular a experiência das viagens espaciais humanas iniciais.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Seria divertido se deitar enquanto faz o zoom pelo espaço.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Liftoff Seat",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A idéia de pilotar uma espaçonave nesta posição é risível para Hylotl.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cadeira dá um novo significado para o trabalho.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que grande projeto. Ainda aguenta.",
+    "path": "/humanDescription"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Uma rocha tão escura como a sombra."}, {"op": "replace", "path": "/shortdescription", "value": "Shadow Rock"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma rocha tão escura como sombra.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Fascinado. Este bloco escuro parece absorver a luz em torno dele.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rochas muito escuras.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Shadow Rock",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Blocoss pretos sombrioss.",
+    "path": "/florandescription"
+  }
+]

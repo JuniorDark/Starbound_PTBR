@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "É uma touca de suricata!"}, {"op": "replace", "path": "/shortdescription", "value": "Nerdy Meercat"}]
+[
+  {
+    "op": "replace",
+    "value": "É uma touca de suricata!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Nerdy Meercat",
+    "path": "/shortdescription"
+  }
+]

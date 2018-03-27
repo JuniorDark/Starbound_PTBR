@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/description", "value": "Para todas as suas necessidades agrícolas e de terraformação!"}, {"op": "replace", "path": "/shortdescription", "value": "Terramart"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Terramart"}, {"op": "replace", "path": "/floranDescription", "value": "Floran pode comprar presentes para pet aqui! E também outras coisas..."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Um ótimo lugar para comprar suprimentos agrícolas."}, {"op": "replace", "path": "/apexDescription", "value": "Uma loja vendendo suprimentos agrícolas. Delicioso."}, {"op": "replace", "path": "/humanDescription", "value": "Terror Mart? Eu já estou tremendo! Espere, ah. Terr-a-mart. OK."}, {"op": "replace", "path": "/avianDescription", "value": "O melhor lugar para comprar suprimentos agrícolas, nenhum bar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um lugar para comprar suprimentos agrícolas."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "^#b9b5b2;Comida, agricultura e suprimentos"}, {"op": "replace", "path": "/novakidDescription", "value": "Eu sempre quis me aposentar em uma antiga fazenda."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma loja vendendo suprimentos agrícolas. Delicioso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um lugar para comprar suprimentos agrícolas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran pode comprar presentes para pet aqui! E também outras coisas...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para todas as suas necessidades agrícolas e de terraformação!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sempre quis me aposentar em uma antiga fazenda.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Um ótimo lugar para comprar suprimentos agrícolas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Terramart",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Terramart",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Terror Mart? Eu já estou tremendo! Espere, ah. Terr-a-mart. OK.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O melhor lugar para comprar suprimentos agrícolas, nenhum bar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Comida, agricultura e suprimentos",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  }
+]

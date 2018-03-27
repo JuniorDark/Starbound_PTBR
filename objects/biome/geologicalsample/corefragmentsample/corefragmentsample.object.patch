@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "\"Uma amostra perfeita de um core fragment.\""}, {"op": "replace", "path": "/shortdescription", "value": "Core Fragment Sample"}]
+[
+  {
+    "op": "replace",
+    "value": "\"Uma amostra perfeita de um core fragment.\"",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Core Fragment Sample",
+    "path": "/shortdescription"
+  }
+]

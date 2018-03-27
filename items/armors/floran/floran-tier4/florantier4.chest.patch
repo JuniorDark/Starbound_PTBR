@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Hunter's Chestguard"}, {"op": "replace", "path": "/description", "value": "Um peitoral que protege os órgãos vitais do caçador debaixo de durasteel sólido."}]
+[
+  {
+    "op": "replace",
+    "value": "Um peitoral que protege os órgãos vitais do caçador debaixo de durasteel sólido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Hunter's Chestguard",
+    "path": "/shortdescription"
+  }
+]

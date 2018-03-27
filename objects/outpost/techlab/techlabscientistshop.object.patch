@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Loja do cientista do laboratório de tecnologia."}, {"op": "replace", "path": "/shortdescription", "value": "Tech Lab Shop"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Suprimentos de Elliott"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "^#b9b5b2;Vende estações de instalação de tecnologia."}]
+[
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Vende estações de instalação de tecnologia.",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Suprimentos de Elliott",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Tech Lab Shop",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Loja do cientista do laboratório de tecnologia.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma luz geométrica brilhante."}, {"op": "replace", "path": "/shortdescription", "value": "Geometric Light"}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Uma lâmpada robusta."}, {"op": "replace", "path": "/apexDescription", "value": "Uma fonte de luz bem feita."}, {"op": "replace", "path": "/humanDescription", "value": "Uma lâmpada pura e robusta."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma fonte de luz útil."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta luz será muito útil."}, {"op": "replace", "path": "/floranDescription", "value": "Luz da lâmpada sssegura para Floran."}, {"op": "replace", "path": "/avianDescription", "value": "Esta lâmpada útil iluminará até mesmo a sala mais escura."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma fonte de luz útil.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fonte de luz bem feita.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz geométrica brilhante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada pura e robusta.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Geometric Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luz da lâmpada sssegura para Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Uma lâmpada robusta.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz será muito útil.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lâmpada útil iluminará até mesmo a sala mais escura.",
+    "path": "/avianDescription"
+  }
+]

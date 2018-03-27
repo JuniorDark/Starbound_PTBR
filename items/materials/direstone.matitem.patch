@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Vermezinhos se contorcem sob a superfície desta pedra vítrea."}, {"op": "replace", "path": "/shortdescription", "value": "Dire Stone"}]
+[
+  {
+    "op": "replace",
+    "value": "Espantado. Os vermes neste pedra parecem ajudar a manter a sua rigidez.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dire Stone",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vermezinhos se contorcem sob a superfície desta pedra vítrea.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Há vermezinhos se contorcendo dentro desta pedra.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedra de vermes se contorcendo!",
+    "path": "/florandescription"
+  }
+]

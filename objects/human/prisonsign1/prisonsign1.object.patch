@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Eu sempre quis visitar um bloco de celas! Espere, não, estou pensando no zoológico."}, {"op": "replace", "path": "/avianDescription", "value": "Isso aponta para um bloco de celas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma placa para pessoas incapazes de olhar para os arredores."}, {"op": "replace", "path": "/shortdescription", "value": "Cell Block Sign"}, {"op": "replace", "path": "/description", "value": "A placa diz: \"Bloco de Celas\"."}, {"op": "replace", "path": "/floranDescription", "value": "Uma placa chata."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. \"Bloco de Celas\"."}, {"op": "replace", "path": "/apexDescription", "value": "Uma placa dizendo: \"Bloco de Celas\"."}, {"op": "replace", "path": "/novakidDescription", "value": "A placa diz: \"Bloco de Celas\"."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma placa chata.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa para pessoas incapazes de olhar para os arredores.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa dizendo: \"Bloco de Celas\".",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cell Block Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sempre quis visitar um bloco de celas! Espere, não, estou pensando no zoológico.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. \"Bloco de Celas\".",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A placa diz: \"Bloco de Celas\".",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A placa diz: \"Bloco de Celas\".",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Isso aponta para um bloco de celas.",
+    "path": "/avianDescription"
+  }
+]

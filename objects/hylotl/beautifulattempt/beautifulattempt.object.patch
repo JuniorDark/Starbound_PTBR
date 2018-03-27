@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma máquina de fliperama com um jogo narrativo interativo."
+    "value": "Uma máquina de fliperama de cores vivas, que tipo de jogo é esse?",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Uma máquina de fliperama de cores vivas, que tipo de jogo é esse?"
+    "value": "Uma máquina de fliperama com um jogo narrativo interativo.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "O jogo nesta máquina de fliperama brilhante parece que poderia ser relaxante."
+    "value": "Beautiful Attempt! Machine",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Essta máquina de fliperama é colorida como uma flor."
+    "value": "Confuso. Jogos deste tipo têm um objetivo pouco claro.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Confuso. Jogos deste tipo têm um objetivo pouco claro."
+    "value": "O jogo nesta máquina de fliperama brilhante parece que poderia ser relaxante.",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Esta máquina brilhante tem um jogo Hylotl popular nela."
+    "value": "Esta máquina de fliperama é muito bonita.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Este é um clássico, cada Hylotl conhece todos os finais."
+    "value": "Esta máquina brilhante tem um jogo Hylotl popular nela.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Esta máquina de fliperama é muito bonita."
+    "value": "Este é um clássico, cada Hylotl conhece todos os finais.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essta máquina de fliperama é colorida como uma flor.",
+    "path": "/floranDescription"
   }
 ]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Estes revestimentos de perna permitem um amplo alcance de movimento para o caçador."}, {"op": "replace", "path": "/shortdescription", "value": "Savage Legs"}]
+[
+  {
+    "op": "replace",
+    "value": "Savage Legs",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes revestimentos de perna permitem um amplo alcance de movimento para o caçador.",
+    "path": "/description"
+  }
+]

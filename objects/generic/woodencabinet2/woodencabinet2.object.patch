@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Um grande armário de madeira. Útil."}, {"op": "replace", "path": "/glitchDescription", "value": "Contente. Há muito espaço de armazenamento dentro."}, {"op": "replace", "path": "/description", "value": "Um armário de madeira resistente."}, {"op": "replace", "path": "/shortdescription", "value": "Tall Wooden Cabinet"}, {"op": "replace", "path": "/floranDescription", "value": "Grande esspaço de armazenamento."}, {"op": "replace", "path": "/humanDescription", "value": "Um armário grande. Tenho certeza de que tenho algo que posso armazenar aqui."}, {"op": "replace", "path": "/avianDescription", "value": "Muito espaço para armazenar itens."}, {"op": "replace", "path": "/hylotlDescription", "value": "Muito espaço de armazenamento."}, {"op": "replace", "path": "/novakidDescription", "value": "Há muito espaço aqui para armazenar coisas."}]
+[
+  {
+    "op": "replace",
+    "value": "Um armário de madeira resistente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário grande. Tenho certeza de que tenho algo que posso armazenar aqui.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um grande armário de madeira. Útil.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grande esspaço de armazenamento.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Contente. Há muito espaço de armazenamento dentro.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Muito espaço para armazenar itens.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Muito espaço de armazenamento.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tall Wooden Cabinet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há muito espaço aqui para armazenar coisas.",
+    "path": "/novakidDescription"
+  }
+]

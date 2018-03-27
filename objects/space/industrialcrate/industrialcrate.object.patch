@@ -1,37 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Uma caixa de aparência resistente, iluminada por um conjunto de luzes vermelhas fracas."
+    "value": "Uma caixa de carga pressurizada, projetada para suportar as condições das viagens espaciais.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Esta caixa parece ser difícil de destruir."
+    "value": "Uma caixa de aparência resistente, iluminada por um conjunto de luzes vermelhas fracas.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Essa caixa tem olhos vermelhosss? Floran preocupado."
+    "value": "Essa caixa tem olhos vermelhosss? Floran preocupado.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Impressionado. O exterior desta caixa é feito para suportar a pressão extrema. Se eu fosse tão durão como isso..."
+    "value": "Eu poderia fingir estar interessado em como esta caixa parece, mas realmente eu só quero ver o que está dentro.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Eu poderia fingir estar interessado em como esta caixa parece, mas realmente eu só quero ver o que está dentro."
+    "value": "O exterior desta caixa é feito para suportar a pressão extrema, mas realmente eu só quero ver o que está dentro!",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Esta caixa é projetada para suportar a pressão extrema. Gostaria de saber se um Hylotl ajudou a projetá-la?"
+    "value": "Impressionado. O exterior desta caixa é feito para suportar a pressão extrema. Se eu fosse tão durão como isso...",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "O exterior desta caixa é feito para suportar a pressão extrema, mas realmente eu só quero ver o que está dentro!"
+    "value": "Industrial Crate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta caixa é projetada para suportar a pressão extrema. Gostaria de saber se um Hylotl ajudou a projetá-la?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta caixa parece ser difícil de destruir.",
+    "path": "/avianDescription"
   }
 ]

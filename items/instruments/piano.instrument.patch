@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um piano. Verdadeiramente um instrumento fundamental."}, {"op": "replace", "path": "/shortdescription", "value": "Piano"}]
+[
+  {
+    "op": "replace",
+    "value": "Um piano. Verdadeiramente um instrumento fundamental.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Piano",
+    "path": "/shortdescription"
+  }
+]

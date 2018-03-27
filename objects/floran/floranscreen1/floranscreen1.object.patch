@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Um biombo simples."}, {"op": "replace", "path": "/novakidDescription", "value": "Um biombo para se esconder atrás quando você tem negócios obscuros a fazer."}, {"op": "replace", "path": "/description", "value": "Um biombo de madeira, perfeito para se vestir atrás."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Um biombo simples."}, {"op": "replace", "path": "/apexDescription", "value": "Um biombo que fornece privacidade limitada."}, {"op": "replace", "path": "/humanDescription", "value": "Um biombo para se vestir atrás... Ou se despir."}, {"op": "replace", "path": "/avianDescription", "value": "Um biombo para se vestir atrás."}, {"op": "replace", "path": "/shortdescription", "value": "Wooden Dressing Screen"}, {"op": "replace", "path": "/floranDescription", "value": "Floran usssa biombo para coletar sssalpicos de sssangue quando esfola carne."}]
+[
+  {
+    "op": "replace",
+    "value": "Um biombo para se esconder atrás quando você tem negócios obscuros a fazer.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um biombo que fornece privacidade limitada.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um biombo para se vestir atrás.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um biombo para se vestir atrás... Ou se despir.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um biombo simples.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um biombo de madeira, perfeito para se vestir atrás.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran usssa biombo para coletar sssalpicos de sssangue quando esfola carne.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Um biombo simples.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wooden Dressing Screen",
+    "path": "/shortdescription"
+  }
+]

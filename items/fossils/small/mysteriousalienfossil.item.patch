@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/completeSetDescriptions/description", "value": "Uma forma de vida estranha e curiosa, agora perdido para o tempo."}, {"op": "replace", "path": "/description", "value": "O crânio fossilizado de uma forma de vida não identificada."}, {"op": "replace", "path": "/completeSetDescriptions/shortdescription", "value": "Mysterious Alien Skull"}, {"op": "replace", "path": "/shortdescription", "value": "Mysterious Alien Skull"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma forma de vida estranha e curiosa, agora perdido para o tempo.",
+    "path": "/completeSetDescriptions/description"
+  },
+  {
+    "op": "replace",
+    "value": "Mysterious Alien Skull",
+    "path": "/completeSetDescriptions/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mysterious Alien Skull",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O crânio fossilizado de uma forma de vida não identificada.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Desejo. Sentar e comer nesta mesa aumentará consideravelmente o meu humor."}, {"op": "replace", "path": "/description", "value": "Uma mesa arco-íris torna cada refeição uma alegria."}, {"op": "replace", "path": "/shortdescription", "value": "Rainbow Table"}, {"op": "replace", "path": "/floranDescription", "value": "Floran nem mesmo mancha mesa bonita com sssangue."}, {"op": "replace", "path": "/apexDescription", "value": "Sentar aqui para comer vai fazer cada refeição uma experiência."}, {"op": "replace", "path": "/humanDescription", "value": "Mal posso esperar para comer nesta mesa."}, {"op": "replace", "path": "/avianDescription", "value": "Uma mesa arco-íris deslumbrante, brilhante como um pavão!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma mesa maravilhosa e colorida."}, {"op": "replace", "path": "/novakidDescription", "value": "Todas essas cores certamente o deixaria louco."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma mesa arco-íris torna cada refeição uma alegria.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa arco-íris deslumbrante, brilhante como um pavão!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa maravilhosa e colorida.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Todas essas cores certamente o deixaria louco.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desejo. Sentar e comer nesta mesa aumentará consideravelmente o meu humor.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran nem mesmo mancha mesa bonita com sssangue.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mal posso esperar para comer nesta mesa.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rainbow Table",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sentar aqui para comer vai fazer cada refeição uma experiência.",
+    "path": "/apexDescription"
+  }
+]

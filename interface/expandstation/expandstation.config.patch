@@ -1,1 +1,77 @@
-[{"op":"replace","path":"/gui/windowtitle/title","value":"Slot de Expansão da Estação"},{"op":"replace","path":"/gui/windowtitle/subtitle","value":"^#b9b5b2;Expanda sua estação"},{"op":"replace","path":"/gui/selectedDescription/value","value":"Nenhuma parte selecionada"},{"op":"replace","path":"/gui/warning/value","value":"Nenhuma parte selecionada"},{"op":"replace","path":"/gui/placeButton/caption","value":"colocar"},{"op":"replace","path":"/warningMessages/range","value":"Parte fora do alcance da estação"},{"op":"replace","path":"/warningMessages/overlap","value":"Sobrepõe parte existente"},{"op":"replace","path":"/warningMessages/invalid","value":"Não pode se conectar a parte existente"},{"op":"replace","path":"/warningMessages/blocking","value":"Bloqueia parte existente"},{"op":"replace","path":"/warningMessages/uncraftable","value":"Não há materiais suficientes"},{"op":"replace","path":"/warningMessages/unplaceable","value":"Nenhuma âncora válida"},{"op":"replace","path":"/listTemplate/itemName/value","value":"Bigode Dourado"},{"op":"replace","path":"/tooltipLayout/title/value","value":"INGREDIENTES"}]
+[
+  {
+    "op": "replace",
+    "value": "Replace Me",
+    "path": "/gui/partListArea/children/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+  },
+  {
+    "op": "replace",
+    "value": "Bigode Dourado",
+    "path": "/listTemplate/itemName/value"
+  },
+  {
+    "op": "replace",
+    "value": "INGREDIENTES",
+    "path": "/tooltipLayout/title/value"
+  },
+  {
+    "op": "replace",
+    "value": "Bloqueia parte existente",
+    "path": "/warningMessages/blocking"
+  },
+  {
+    "op": "replace",
+    "value": "Não é possível conectar a parte existente",
+    "path": "/warningMessages/invalid"
+  },
+  {
+    "op": "replace",
+    "value": "Nenhuma parte selecionada",
+    "path": "/gui/selectedDescription/value"
+  },
+  {
+    "op": "replace",
+    "value": "Nenhuma parte selecionada",
+    "path": "/gui/warning/value"
+  },
+  {
+    "op": "replace",
+    "value": "Nenhuma âncora válida",
+    "path": "/warningMessages/unplaceable"
+  },
+  {
+    "op": "replace",
+    "value": "Materiais insuficientes",
+    "path": "/warningMessages/uncraftable"
+  },
+  {
+    "op": "replace",
+    "value": "Sobrepõe parte existente",
+    "path": "/warningMessages/overlap"
+  },
+  {
+    "op": "replace",
+    "value": "Parte bloqueada por entidade",
+    "path": "/warningMessages/blocked"
+  },
+  {
+    "op": "replace",
+    "value": "Parte fora do alcance da estação",
+    "path": "/warningMessages/range"
+  },
+  {
+    "op": "replace",
+    "value": "Espaço de Expansão da Estação",
+    "path": "/gui/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Expanda sua estação",
+    "path": "/gui/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Colocar",
+    "path": "/gui/placeButton/caption"
+  }
+]

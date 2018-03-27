@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Crystalline Microformer"}, {"op": "replace", "path": "/description", "value": "Transforma uma área de um planeta em um belo jardim de rochas cristalinas. \n^red;Microformers são itens de uso único."}]
+[
+  {
+    "op": "replace",
+    "value": "Crystalline Microformer",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Transforma uma área de um planeta em um belo jardim de rochas cristalinas. \n^red;Microformers são itens de uso único.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Ministério do Conhecimento? É... Este lugar a origem do Miniknog?"}, {"op": "replace", "path": "/humanDescription", "value": "Algo sobre essa placa me deixa nervoso."}, {"op": "replace", "path": "/avianDescription", "value": "Que placa agradável. Me pergunto quantos anos ela tem?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Que letreiro feio. Se ao menos eu tivesse um pincel de caligrafia..."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu sinto que esta descoberta é muito significativa para alguém lá fora..."}, {"op": "replace", "path": "/description", "value": "Uma placa velha de um laboratório Apex."}, {"op": "replace", "path": "/shortdescription", "value": "Ministry of Knowledge Sign"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não sse importa muito com lugar antigo."}, {"op": "replace", "path": "/glitchDescription", "value": "Apreciativo. Que tons agradáveis de cinza e prata."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma placa velha de um laboratório Apex.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Apreciativo. Que tons agradáveis de cinza e prata.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não sse importa muito com lugar antigo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sinto que esta descoberta é muito significativa para alguém lá fora...",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ministry of Knowledge Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ministério do Conhecimento? É... Este lugar a origem do Miniknog?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algo sobre essa placa me deixa nervoso.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que letreiro feio. Se ao menos eu tivesse um pincel de caligrafia...",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que placa agradável. Me pergunto quantos anos ela tem?",
+    "path": "/avianDescription"
+  }
+]

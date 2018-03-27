@@ -1,7 +1,7 @@
 [
   {
     "op": "replace",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Bem-vindo a Oficina de Mecha do Dr. Akaggy! Posso assegurar-lhe que este é um negócio legítimo."
+    "value": "Bem-vindo a Oficina de Mecha do Dr. Akaggy! Posso assegurar-lhe que este é um negócio legítimo.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
   }
 ]

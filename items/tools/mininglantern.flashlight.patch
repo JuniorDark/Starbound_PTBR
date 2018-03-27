@@ -1,17 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/category",
-    "value": "tool"
+    "value": "Explorer's Lantern",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Esta lanterna pode ser carregada por exploradores para iluminar a área ao redor."
-  },
-  {
-    "op": "replace",
-    "path": "/shortdescription",
-    "value": "Explorer's Lantern"
+    "value": "Esta lanterna pode ser carregada por exploradores para iluminar a área ao redor.",
+    "path": "/description"
   }
 ]

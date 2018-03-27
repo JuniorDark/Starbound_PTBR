@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/merchant/welcome/default/default/1", "value": "Aqui estamos! Então, o que você precisa? Talvez alguns metais de fabricação?"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/welcome/default/default/2", "value": "Bem-vindo! Você gostaria de comprar alguns metais?"}, {"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle", "value": "Vendo minérios e equipamentos de mineração!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/welcome/default/default/0", "value": "Aqui estamos! Então, você precisa de algumas ferramentas de mineração?"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/0", "value": "Se você precisar de alguns minérios, você sabe exatamente onde obtê-los!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/1", "value": "Se você precisar de alguns metais brutos, você sabe onde me encontrar!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/2", "value": "Voltar a qualquer momento se você precisar de alguns metais brutos!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/0", "value": "Obtenha seu produto de mineração, enviado diretamente de suas fundições locais!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/1", "value": "Materiais de fundição, bem aqui!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/2", "value": "Bem-vindo! Talvez você precise de algum equipamento de mineração? Que tal alguns metais?"}, {"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title", "value": "Comerciante da Fundição"}]
+[
+  {
+    "op": "replace",
+    "value": "Comerciante da Fundição",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Vendo minérios e equipamentos de mineração!",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Voltar a qualquer momento se você precisar de alguns metais brutos!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Materiais de fundição, bem aqui!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Obtenha seu produto de mineração, enviado diretamente de suas fundições locais!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui estamos! Então, o que você precisa? Talvez alguns metais de fabricação?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Se você precisar de alguns minérios, você sabe exatamente onde obtê-los!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Se você precisar de alguns metais brutos, você sabe onde me encontrar!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui estamos! Então, você precisa de algumas ferramentas de mineração?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Bem-vindo! Talvez você precise de algum equipamento de mineração? Que tal alguns metais?",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Bem-vindo! Você gostaria de comprar alguns metais?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/2"
+  }
+]

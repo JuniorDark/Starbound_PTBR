@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Talos de bambu cortados recentemente."}, {"op": "replace", "path": "/floranDescription", "value": "Taloss de bambu fresco"}, {"op": "replace", "path": "/glitchDescription", "value": "Esperançoso. A cor do bambu indica que ele foi cortado recentemente."}, {"op": "replace", "path": "/novakidDescription", "value": "Algum bambu cortado"}, {"op": "replace", "path": "/shortdescription", "value": "Bamboo"}]
+[
+  {
+    "op": "replace",
+    "value": "Bamboo",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talos de bambu cortados recentemente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Taloss de bambu fresco",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esperançoso. A cor do bambu indica que ele foi cortado recentemente.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum bambu cortado",
+    "path": "/novakidDescription"
+  }
+]

@@ -1,1 +1,492 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/apex/floran/9", "value": "O quanto você sabe sobre a Miniknog? Eles governam o povo Apex , mas eles são cruéis e brutais."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/floran/1", "value": "Você está aqui para apoiar a nossa luta sem fim contra a Miniknog?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/floran/0", "value": "Você parece alguém que não tem mais onde morar"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/floran/5", "value": "Tempos nunca foram tão difíceis, mas não devemos perder a esperança."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/floran/3", "value": "A Miniknog nos chama de insurgentes, mas somos combatentes da liberdade!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/floran/6", "value": "Eu me pergunto como Big Ape se parece em pessoa."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/floran/7", "value": "Aposto que Big Ape não é tão grande assim."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/floran/8", "value": "Você sabe muito coisa sobre a situação dos Apex, Floran?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/floran/11", "value": "Não me interrompa, estou ocupado tentando derrubar um regime malvado."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/floran/2", "value": "Podemos estar fugindo da Miniknog, mas eu nunca me senti tão livre!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/floran/4", "value": "Nós lutamos pela liberdade de nosso povo. Pelo que você luta, Floran?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/glitch/3", "value": "A Miniknog nos chama de insurgentes, mas somos combatentes da liberdade!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/glitch/4", "value": "Nós lutamos pela liberdade de nosso povo. Pelo que você luta, Glitch?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/glitch/6", "value": "Eu me pergunto como Big Ape se parece em pessoa."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/glitch/8", "value": "Você sabe muito coisa sobre a situação dos Apex, Glitch?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/glitch/10", "value": "Muitos de nós rebeldes perderam familiares e amigos para a Miniknog. Não vamos descansar até que eles sejam derrotados."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/glitch/12", "value": "Tente não causar muita bagunça por aqui, ok?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/apex/0", "value": "Você perdeu a sua família para a Miniknog também?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/glitch/11", "value": "Não me interrompa, estou ocupado tentando derrubar um regime malvado."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/glitch/7", "value": "Aposto que Big Ape não é tão grande assim."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/glitch/13", "value": "Será que o seu tipo têm um ditador cruel também?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/apex/1", "value": "Você está aqui para apoiar a nossa luta sem fim contra a Miniknog?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/apex/3", "value": "A Miniknog nos chama de insurgentes, mas somos combatentes da liberdade!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/apex/5", "value": "Tempos nunca foram tão difíceis, mas não devemos perder a esperança."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/apex/6", "value": "Eu me pergunto como Big Ape se parece em pessoa."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/apex/4", "value": "Se lutarmos duro o suficiente, nossa espécie um dia estara livre de opressão."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/apex/8", "value": "Você está fugindo da Miniknog? Boa sorte, amigo."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/apex/13", "value": "Você é um colega rebelde?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/apex/9", "value": "A Miniknog vai pagar por aquilo que eles têm feito para nossa espécie!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/avian/3", "value": "A Miniknog nos chama de insurgentes, mas somos combatentes da liberdade!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/avian/4", "value": "Nós Lutamos pela liberdade de nosso povo. Pelo que você luta, Avian?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/avian/5", "value": "Tempos nunca foram tão difíceis, mas não devemos perder a esperança."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/avian/6", "value": "Eu me pergunto como Big Ape se parece em pessoa."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/avian/7", "value": "Aposto que Big Ape não é tão grande assim."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/avian/8", "value": "Você sabe muito coisa sobre a situação dos Apex, Avian?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/avian/10", "value": "Muitos de nós rebeldes perderam familiares e amigos para a Miniknog. Não vamos descansar até que eles sejam derrotados."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/avian/11", "value": "Não me interrompa, estou ocupado tentando derrubar um regime malvado."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/avian/12", "value": "Tente não causar muita bagunça por aqui, ok?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/avian/13", "value": "Será que o seu tipo têm um ditador cruel também?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/hylotl/0", "value": "Você se parece com alguém que também perdeu sua casa."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/hylotl/3", "value": "A Miniknog nos chama de insurgentes, mas somos combatentes da liberdade!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/hylotl/4", "value": "Nós lutamos pela liberdade de nosso povo. Pelo que você luta, Hylotl?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/hylotl/5", "value": "Tempos nunca foram tão difíceis, mas não devemos perder a esperança."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/hylotl/6", "value": "Eu me pergunto como Big Ape se parece em pessoa."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/hylotl/7", "value": "Aposto que Big Ape não é tão grande assim."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/hylotl/8", "value": "Você sabe muito coisa sobre a situação dos Apex, Hylotl?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/avian/0", "value": "Você se parece com alguém que também perdeu sua casa."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/hylotl/2", "value": "Podemos estar fugindo da Miniknog, mas eu nunca me senti tão livre!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/hylotl/13", "value": "Será que o seu tipo têm um ditador cruel também?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/0", "value": "Você se parece com alguém que também perdeu sua casa."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/1", "value": "Você está aqui para apoiar a nossa luta sem fim contra a Miniknog?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/3", "value": "A Miniknog nos chama de insurgentes, mas somos combatentes da liberdade!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/hylotl/12", "value": "Tente não causar muita bagunça por aqui, ok?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/2", "value": "Podemos estar fugindo da Miniknog, mas eu nunca me senti tão livre!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/5", "value": "Tempos nunca foram tão difíceis, mas não devemos perder a esperança."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/6", "value": "Eu me pergunto como Big Ape se parece em pessoa."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/7", "value": "Aposto que Big Ape não é tão grande assim."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/8", "value": "Você sabe muito coisa sobre a situação dos Apex, Humano?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/10", "value": "Muitos de nós rebeldes perderam familiares e amigos para a Miniknog. Não vamos descansar até que eles sejam derrotados."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/11", "value": "Não me interrompa, estou ocupado tentando derrubar um regime malvado."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/13", "value": "Será que o seu tipo têm um ditador cruel também?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/novakid/1", "value": "Você está aqui para apoiar a nossa luta sem fim contra a Miniknog?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/novakid/2", "value": "Podemos estar fugindo da Miniknog, mas eu nunca me senti tão livre!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/novakid/0", "value": "Você se parece com alguém que também perdeu sua casa."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/12", "value": "Tente não causar muita bagunça por aqui, ok?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/novakid/6", "value": "Eu me pergunto como Big Ape se parece em pessoa."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/novakid/7", "value": "Aposto que Big Ape não é tão grande assim."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/novakid/8", "value": "Você sabe muita coisa sobre a situação dos Apex? ...Que tipo de criatura é você, afinal?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/novakid/9", "value": "O quanto você sabe sobre a Miniknog? Eles governam o povo Apex , mas eles são cruéis e brutais."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/novakid/5", "value": "Tempos nunca foram tão difíceis, mas não devemos perder a esperança."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/novakid/11", "value": "Não me interrompa, estou ocupado tentando derrubar um regime malvado."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/novakid/13", "value": "Será que o seu tipo têm um ditador cruel também?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/novakid/12", "value": "Tente não causar muita bagunça por aqui, ok?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/floran/12", "value": "Tente não causar muita bagunça por aqui, ok?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/glitch/9", "value": "O quanto você sabe sobre a Miniknog? Eles governam o povo Apex , mas eles são cruéis e brutais."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/apex/7", "value": "Aposto que Big Ape não é tão grande assim."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/avian/2", "value": "Podemos estar fugindo da Miniknog, mas eu nunca me senti tão livre!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/novakid/4", "value": "Nós lutamos pela liberdade de nosso povo. Pelo que você luta, meu estranho amigo brilhante?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/novakid/10", "value": "Muitos de nós rebeldes perderam familiares e amigos para a Miniknog. Não vamos descansar até que eles sejam derrotados."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/glitch/0", "value": "Você se parece com alguém que também perdeu sua casa."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/glitch/5", "value": "Tempos nunca foram tão difíceis, mas não devemos perder a esperança."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/hylotl/11", "value": "Não me interrompa, estou ocupado tentando derrubar um regime malvado."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/apex/11", "value": "Não me interrompa, estou ocupado tentando derrubar um regime malvado."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/apex/12", "value": "Tente não causar muita bagunça por aqui, ok?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/glitch/1", "value": "Você está aqui para apoiar a nossa luta sem fim contra a Miniknog?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/hylotl/9", "value": "O quanto você sabe sobre a Miniknog? Eles governam o povo Apex , mas eles são cruéis e brutais."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/9", "value": "O quanto você sabe sobre a Miniknog? Eles governam o povo Apex , mas eles são cruéis e brutais."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/floran/10", "value": "Muitos de nós rebeldes perderam familiares e amigos para a Miniknog. Não vamos descansar até que eles sejam derrotados."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/floran/13", "value": "Será que o seu tipo têm um ditador cruel também?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/glitch/2", "value": "Podemos estar fugindo da Miniknog, mas eu nunca me senti tão livre!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/apex/2", "value": "Podemos estar fugindo da Miniknog, mas eu nunca me senti tão livre!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/apex/10", "value": "Muitos de nós rebeldes perderam familiares e amigos para a Miniknog. Não vamos descansar até que eles sejam derrotados."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/avian/1", "value": "Você está aqui para apoiar a nossa luta sem fim contra a Miniknog?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/avian/9", "value": "Quanto você sabe sobre a Miniknog? Eles governam o povo Apex , mas eles são cruéis e brutais."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/hylotl/1", "value": "Você está aqui para apoiar a nossa luta sem fim contra a Miniknog?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/hylotl/10", "value": "Muitos de nós rebeldes perderam familiares e amigos para a Miniknog. Não vamos descansar até que eles sejam derrotados."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default/4", "value": "Nós lutamos pela liberdade de nosso povo. Pelo que você luta, humano?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/novakid/3", "value": "A Miniknog nos chama de insurgentes, mas somos combatentes da liberdade!"}]
+[
+  {
+    "op": "replace",
+    "value": "Muitos de nós rebeldes perderam familiares e amigos para a Miniknog. Não vamos descansar até que sejam derrotados.",
+    "path": "/scriptConfig/dialog/converse/apex/apex/10"
+  },
+  {
+    "op": "replace",
+    "value": "Muitos de nós rebeldes perderam familiares e amigos para a Miniknog. Não vamos descansar até que sejam derrotados.",
+    "path": "/scriptConfig/dialog/converse/apex/avian/10"
+  },
+  {
+    "op": "replace",
+    "value": "Muitos de nós rebeldes perderam familiares e amigos para a Miniknog. Não vamos descansar até que sejam derrotados.",
+    "path": "/scriptConfig/dialog/converse/apex/default/10"
+  },
+  {
+    "op": "replace",
+    "value": "Muitos de nós rebeldes perderam familiares e amigos para a Miniknog. Não vamos descansar até que sejam derrotados.",
+    "path": "/scriptConfig/dialog/converse/apex/floran/10"
+  },
+  {
+    "op": "replace",
+    "value": "Muitos de nós rebeldes perderam familiares e amigos para a Miniknog. Não vamos descansar até que sejam derrotados.",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/10"
+  },
+  {
+    "op": "replace",
+    "value": "Muitos de nós rebeldes perderam familiares e amigos para a Miniknog. Não vamos descansar até que sejam derrotados.",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/10"
+  },
+  {
+    "op": "replace",
+    "value": "Muitos de nós rebeldes perderam familiares e amigos para a Miniknog. Não vamos descansar até que sejam derrotados.",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/10"
+  },
+  {
+    "op": "replace",
+    "value": "A Miniknog nos chama de insurgentes, mas somos combatentes da liberdade!",
+    "path": "/scriptConfig/dialog/converse/apex/apex/3"
+  },
+  {
+    "op": "replace",
+    "value": "A Miniknog nos chama de insurgentes, mas somos combatentes da liberdade!",
+    "path": "/scriptConfig/dialog/converse/apex/avian/3"
+  },
+  {
+    "op": "replace",
+    "value": "A Miniknog nos chama de insurgentes, mas somos combatentes da liberdade!",
+    "path": "/scriptConfig/dialog/converse/apex/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "A Miniknog nos chama de insurgentes, mas somos combatentes da liberdade!",
+    "path": "/scriptConfig/dialog/converse/apex/floran/3"
+  },
+  {
+    "op": "replace",
+    "value": "A Miniknog nos chama de insurgentes, mas somos combatentes da liberdade!",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/3"
+  },
+  {
+    "op": "replace",
+    "value": "A Miniknog nos chama de insurgentes, mas somos combatentes da liberdade!",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/3"
+  },
+  {
+    "op": "replace",
+    "value": "A Miniknog nos chama de insurgentes, mas somos combatentes da liberdade!",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/3"
+  },
+  {
+    "op": "replace",
+    "value": "Tempos nunca foram tão difíceis, mas não devemos perder a esperança.",
+    "path": "/scriptConfig/dialog/converse/apex/apex/5"
+  },
+  {
+    "op": "replace",
+    "value": "Tempos nunca foram tão difíceis, mas não devemos perder a esperança.",
+    "path": "/scriptConfig/dialog/converse/apex/avian/5"
+  },
+  {
+    "op": "replace",
+    "value": "Tempos nunca foram tão difíceis, mas não devemos perder a esperança.",
+    "path": "/scriptConfig/dialog/converse/apex/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Tempos nunca foram tão difíceis, mas não devemos perder a esperança.",
+    "path": "/scriptConfig/dialog/converse/apex/floran/5"
+  },
+  {
+    "op": "replace",
+    "value": "Tempos nunca foram tão difíceis, mas não devemos perder a esperança.",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/5"
+  },
+  {
+    "op": "replace",
+    "value": "Tempos nunca foram tão difíceis, mas não devemos perder a esperança.",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/5"
+  },
+  {
+    "op": "replace",
+    "value": "Tempos nunca foram tão difíceis, mas não devemos perder a esperança.",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/5"
+  },
+  {
+    "op": "replace",
+    "value": "Podemos estar fugindo da Miniknog, mas eu nunca me senti tão livre!",
+    "path": "/scriptConfig/dialog/converse/apex/apex/2"
+  },
+  {
+    "op": "replace",
+    "value": "Podemos estar fugindo da Miniknog, mas eu nunca me senti tão livre!",
+    "path": "/scriptConfig/dialog/converse/apex/avian/2"
+  },
+  {
+    "op": "replace",
+    "value": "Podemos estar fugindo da Miniknog, mas eu nunca me senti tão livre!",
+    "path": "/scriptConfig/dialog/converse/apex/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Podemos estar fugindo da Miniknog, mas eu nunca me senti tão livre!",
+    "path": "/scriptConfig/dialog/converse/apex/floran/2"
+  },
+  {
+    "op": "replace",
+    "value": "Podemos estar fugindo da Miniknog, mas eu nunca me senti tão livre!",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/2"
+  },
+  {
+    "op": "replace",
+    "value": "Podemos estar fugindo da Miniknog, mas eu nunca me senti tão livre!",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/2"
+  },
+  {
+    "op": "replace",
+    "value": "Podemos estar fugindo da Miniknog, mas eu nunca me senti tão livre!",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você parece com alguém que também perdeu sua casa.",
+    "path": "/scriptConfig/dialog/converse/apex/avian/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você parece com alguém que também perdeu sua casa.",
+    "path": "/scriptConfig/dialog/converse/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você parece com alguém que também perdeu sua casa.",
+    "path": "/scriptConfig/dialog/converse/apex/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você parece com alguém que também perdeu sua casa.",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você parece com alguém que também perdeu sua casa.",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você parece com alguém que também perdeu sua casa.",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você é um colega rebelde?",
+    "path": "/scriptConfig/dialog/converse/apex/apex/13"
+  },
+  {
+    "op": "replace",
+    "value": "Você está aqui para apoiar a nossa luta sem fim contra a Miniknog?",
+    "path": "/scriptConfig/dialog/converse/apex/apex/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você está aqui para apoiar a nossa luta sem fim contra a Miniknog?",
+    "path": "/scriptConfig/dialog/converse/apex/avian/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você está aqui para apoiar a nossa luta sem fim contra a Miniknog?",
+    "path": "/scriptConfig/dialog/converse/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você está aqui para apoiar a nossa luta sem fim contra a Miniknog?",
+    "path": "/scriptConfig/dialog/converse/apex/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você está aqui para apoiar a nossa luta sem fim contra a Miniknog?",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você está aqui para apoiar a nossa luta sem fim contra a Miniknog?",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você está aqui para apoiar a nossa luta sem fim contra a Miniknog?",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você está fugindo da Miniknog? Boa sorte, amigo.",
+    "path": "/scriptConfig/dialog/converse/apex/apex/8"
+  },
+  {
+    "op": "replace",
+    "value": "Você perdeu a sua família para a Miniknog também?",
+    "path": "/scriptConfig/dialog/converse/apex/apex/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você sabe muito coisa sobre a situação dos Apex, Avian?",
+    "path": "/scriptConfig/dialog/converse/apex/avian/8"
+  },
+  {
+    "op": "replace",
+    "value": "Você sabe muito coisa sobre a situação dos Apex, Floran?",
+    "path": "/scriptConfig/dialog/converse/apex/floran/8"
+  },
+  {
+    "op": "replace",
+    "value": "Você sabe muito coisa sobre a situação dos Apex, Glitch?",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/8"
+  },
+  {
+    "op": "replace",
+    "value": "Você sabe muito coisa sobre a situação dos Apex, Hylotl?",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/8"
+  },
+  {
+    "op": "replace",
+    "value": "Você sabe muito coisa sobre a situação dos Apex, Humano?",
+    "path": "/scriptConfig/dialog/converse/apex/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Você sabe muita coisa sobre a situação dos Apex? ...Que tipo de criatura é você, afinal?",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/8"
+  },
+  {
+    "op": "replace",
+    "value": "Será que o seu tipo têm um ditador cruel também?",
+    "path": "/scriptConfig/dialog/converse/apex/avian/13"
+  },
+  {
+    "op": "replace",
+    "value": "Será que o seu tipo têm um ditador cruel também?",
+    "path": "/scriptConfig/dialog/converse/apex/default/13"
+  },
+  {
+    "op": "replace",
+    "value": "Será que o seu tipo têm um ditador cruel também?",
+    "path": "/scriptConfig/dialog/converse/apex/floran/13"
+  },
+  {
+    "op": "replace",
+    "value": "Será que o seu tipo têm um ditador cruel também?",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/13"
+  },
+  {
+    "op": "replace",
+    "value": "Será que o seu tipo têm um ditador cruel também?",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/13"
+  },
+  {
+    "op": "replace",
+    "value": "Será que o seu tipo têm um ditador cruel também?",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/13"
+  },
+  {
+    "op": "replace",
+    "value": "Não me interrompa, estou ocupado tentando derrubar um regime malvado.",
+    "path": "/scriptConfig/dialog/converse/apex/apex/11"
+  },
+  {
+    "op": "replace",
+    "value": "Não me interrompa, estou ocupado tentando derrubar um regime malvado.",
+    "path": "/scriptConfig/dialog/converse/apex/avian/11"
+  },
+  {
+    "op": "replace",
+    "value": "Não me interrompa, estou ocupado tentando derrubar um regime malvado.",
+    "path": "/scriptConfig/dialog/converse/apex/default/11"
+  },
+  {
+    "op": "replace",
+    "value": "Não me interrompa, estou ocupado tentando derrubar um regime malvado.",
+    "path": "/scriptConfig/dialog/converse/apex/floran/11"
+  },
+  {
+    "op": "replace",
+    "value": "Não me interrompa, estou ocupado tentando derrubar um regime malvado.",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/11"
+  },
+  {
+    "op": "replace",
+    "value": "Não me interrompa, estou ocupado tentando derrubar um regime malvado.",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/11"
+  },
+  {
+    "op": "replace",
+    "value": "Não me interrompa, estou ocupado tentando derrubar um regime malvado.",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/11"
+  },
+  {
+    "op": "replace",
+    "value": "Quanto você sabe sobre a Miniknog? Eles governam o povo Apex , mas eles são cruéis e brutais.",
+    "path": "/scriptConfig/dialog/converse/apex/avian/9"
+  },
+  {
+    "op": "replace",
+    "value": "Quanto você sabe sobre a Miniknog? Eles governam o povo Apex , mas eles são cruéis e brutais.",
+    "path": "/scriptConfig/dialog/converse/apex/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "Quanto você sabe sobre a Miniknog? Eles governam o povo Apex , mas eles são cruéis e brutais.",
+    "path": "/scriptConfig/dialog/converse/apex/floran/9"
+  },
+  {
+    "op": "replace",
+    "value": "Quanto você sabe sobre a Miniknog? Eles governam o povo Apex , mas eles são cruéis e brutais.",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/9"
+  },
+  {
+    "op": "replace",
+    "value": "Quanto você sabe sobre a Miniknog? Eles governam o povo Apex , mas eles são cruéis e brutais.",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/9"
+  },
+  {
+    "op": "replace",
+    "value": "Quanto você sabe sobre a Miniknog? Eles governam o povo Apex , mas eles são cruéis e brutais.",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/9"
+  },
+  {
+    "op": "replace",
+    "value": "Aposto que Big Ape não é tão grande assim.",
+    "path": "/scriptConfig/dialog/converse/apex/apex/7"
+  },
+  {
+    "op": "replace",
+    "value": "Aposto que Big Ape não é tão grande assim.",
+    "path": "/scriptConfig/dialog/converse/apex/avian/7"
+  },
+  {
+    "op": "replace",
+    "value": "Aposto que Big Ape não é tão grande assim.",
+    "path": "/scriptConfig/dialog/converse/apex/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Aposto que Big Ape não é tão grande assim.",
+    "path": "/scriptConfig/dialog/converse/apex/floran/7"
+  },
+  {
+    "op": "replace",
+    "value": "Aposto que Big Ape não é tão grande assim.",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/7"
+  },
+  {
+    "op": "replace",
+    "value": "Aposto que Big Ape não é tão grande assim.",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/7"
+  },
+  {
+    "op": "replace",
+    "value": "Aposto que Big Ape não é tão grande assim.",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/7"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto como Big Ape se parece em pessoa.",
+    "path": "/scriptConfig/dialog/converse/apex/apex/6"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto como Big Ape se parece em pessoa.",
+    "path": "/scriptConfig/dialog/converse/apex/avian/6"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto como Big Ape se parece em pessoa.",
+    "path": "/scriptConfig/dialog/converse/apex/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto como Big Ape se parece em pessoa.",
+    "path": "/scriptConfig/dialog/converse/apex/floran/6"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto como Big Ape se parece em pessoa.",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/6"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto como Big Ape se parece em pessoa.",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/6"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto como Big Ape se parece em pessoa.",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/6"
+  },
+  {
+    "op": "replace",
+    "value": "Se lutarmos duro o suficiente, nossa espécie um dia estara livre de opressão.",
+    "path": "/scriptConfig/dialog/converse/apex/apex/4"
+  },
+  {
+    "op": "replace",
+    "value": "A Miniknog vai pagar por aquilo que eles têm feito para nossa espécie!",
+    "path": "/scriptConfig/dialog/converse/apex/apex/9"
+  },
+  {
+    "op": "replace",
+    "value": "Tente não causar muita bagunça por aqui, ok?",
+    "path": "/scriptConfig/dialog/converse/apex/apex/12"
+  },
+  {
+    "op": "replace",
+    "value": "Tente não causar muita bagunça por aqui, ok?",
+    "path": "/scriptConfig/dialog/converse/apex/avian/12"
+  },
+  {
+    "op": "replace",
+    "value": "Tente não causar muita bagunça por aqui, ok?",
+    "path": "/scriptConfig/dialog/converse/apex/default/12"
+  },
+  {
+    "op": "replace",
+    "value": "Tente não causar muita bagunça por aqui, ok?",
+    "path": "/scriptConfig/dialog/converse/apex/floran/12"
+  },
+  {
+    "op": "replace",
+    "value": "Tente não causar muita bagunça por aqui, ok?",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/12"
+  },
+  {
+    "op": "replace",
+    "value": "Tente não causar muita bagunça por aqui, ok?",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/12"
+  },
+  {
+    "op": "replace",
+    "value": "Tente não causar muita bagunça por aqui, ok?",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/12"
+  },
+  {
+    "op": "replace",
+    "value": "Nós Lutamos pela liberdade de nosso povo. Pelo que você luta, Avian?",
+    "path": "/scriptConfig/dialog/converse/apex/avian/4"
+  },
+  {
+    "op": "replace",
+    "value": "Nós lutamos pela liberdade de nosso povo. Pelo que você luta, Floran?",
+    "path": "/scriptConfig/dialog/converse/apex/floran/4"
+  },
+  {
+    "op": "replace",
+    "value": "Nós lutamos pela liberdade de nosso povo. Pelo que você luta, Glitch?",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/4"
+  },
+  {
+    "op": "replace",
+    "value": "Nós lutamos pela liberdade de nosso povo. Pelo que você luta, Hylotl?",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/4"
+  },
+  {
+    "op": "replace",
+    "value": "Nós lutamos pela liberdade de nosso povo. Pelo que você luta, humano?",
+    "path": "/scriptConfig/dialog/converse/apex/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Nós lutamos pela liberdade de nosso povo. Pelo que você luta, meu estranho amigo brilhante?",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/4"
+  }
+]

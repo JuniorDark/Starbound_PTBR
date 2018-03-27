@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/damagePerShotTitleLabel/value", "value": "Dano Por Ataque:"}, {"op": "replace", "path": "/speedTitleLabel/value", "value": "Velocidade de Ataque:"}]
+[
+  {
+    "op": "replace",
+    "value": "Dano Por Ataque:",
+    "path": "/damagePerShotTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Velocidade de Ataque:",
+    "path": "/speedTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "tree",
+    "path": "/priceLabel/value"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um colete de ferro chapeado sem mangas que oferece proteção confiável."}, {"op": "replace", "path": "/shortdescription", "value": "Scouter's Chestguard"}]
+[
+  {
+    "op": "replace",
+    "value": "Um colete de ferro chapeado sem mangas que oferece proteção confiável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Scouter's Chestguard",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um torso de T-Rex fossilizado."}, {"op": "replace", "path": "/shortdescription", "value": "T-Rex Torso"}]
+[
+  {
+    "op": "replace",
+    "value": "Um torso de T-Rex fossilizado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "T-Rex Torso",
+    "path": "/shortdescription"
+  }
+]

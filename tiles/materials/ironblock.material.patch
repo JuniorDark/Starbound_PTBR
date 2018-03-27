@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um bloco sólido de ferro."}, {"op": "replace", "path": "/shortdescription", "value": "Iron Block"}, {"op": "replace", "path": "/floranDescription", "value": "Blocoss de ferro frio."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. É bom ver ferro ser usado em construção."}, {"op": "replace", "path": "/novakidDescription", "value": "Esses blocos são feitos de ferro."}]
+[
+  {
+    "op": "replace",
+    "value": "Um bloco sólido de ferro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Blocoss de ferro frio.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Iron Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. É bom ver ferro ser usado em construção.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esses blocos são feitos de ferro.",
+    "path": "/novakidDescription"
+  }
+]

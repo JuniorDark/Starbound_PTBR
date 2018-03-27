@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Ei, eu sou Adam! Será que este lugar tem chá? Café? Não consigo encontrar uma chaleira em lugar nenhum."}]
+[
+  {
+    "op": "replace",
+    "value": "Ei, eu sou Adam! Será que este lugar tem chá? Café? Não consigo encontrar uma chaleira em lugar nenhum.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

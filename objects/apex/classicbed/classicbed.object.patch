@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma bela cama de madeira rica e sedas."}, {"op": "replace", "path": "/shortdescription", "value": "Classic Bed"}, {"op": "replace", "path": "/floranDescription", "value": "Sssuavidade sssedosa."}, {"op": "replace", "path": "/glitchDescription", "value": "Confortável. Esta cama faz coisas maravilhosas para os meus sensores."}, {"op": "replace", "path": "/apexDescription", "value": "É assim que a Miniknog dorme?"}, {"op": "replace", "path": "/humanDescription", "value": "Uau, que uma cama. Estou tentado a dormir agora."}, {"op": "replace", "path": "/avianDescription", "value": "Eu não vi nada tão confortável desde que eu deixei o ninho."}, {"op": "replace", "path": "/hylotlDescription", "value": "belos adornos, mas não é páreo para o artesanato Hylotl."}, {"op": "replace", "path": "/novakidDescription", "value": "Quem precisaria de uma cama com toda essa pelúcia e babados? Parece muito confortável embora."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma bela cama de madeira rica e sedas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Classic Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Confortável. Esta cama faz coisas maravilhosas para os meus sensores.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não vi nada tão confortável desde que eu deixei o ninho.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É assim que a Miniknog dorme?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sssuavidade sssedosa.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "belos adornos, mas não é páreo para o artesanato Hylotl.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quem precisaria de uma cama com toda essa pelúcia e babados? Parece muito confortável embora.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uau, que uma cama. Estou tentado a dormir agora.",
+    "path": "/humanDescription"
+  }
+]

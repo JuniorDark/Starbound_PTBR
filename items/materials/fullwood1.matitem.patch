@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Treated Wood"}, {"op": "replace", "path": "/description", "value": "Madeira cuidadosamente tratada que mantém uma aparência de recentemente cortada."}]
+[
+  {
+    "op": "replace",
+    "value": "Madeira cuidadosamente tratada que mantém uma aparência de recentemente cortada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Parece cortada recentemente, mas esta madeira foi tratada com alguma coisa.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenass um pouco de madeira básica.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Embora esta madeira pareça recentemente cortada, foi cuidadosamente tratada.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Treated Wood",
+    "path": "/shortdescription"
+  }
+]

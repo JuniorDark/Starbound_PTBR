@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Uma prateleira de madeira simples. Parece bastante estável."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma prateleira de madeira bem fixada."}, {"op": "replace", "path": "/description", "value": "Uma prateleira de parede de madeira para exibir bugigangas."}, {"op": "replace", "path": "/humanDescription", "value": "Uma prateleira de madeira decente."}, {"op": "replace", "path": "/avianDescription", "value": "Uma prateleira forte feita de madeira."}, {"op": "replace", "path": "/shortdescription", "value": "Medieval Wall Shelf"}, {"op": "replace", "path": "/floranDescription", "value": "Prateleira de madeira muito forte."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Esta prateleira de madeira é forte e estável."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma prateleira de parede útil. Você poderia colocar praticamente qualquer coisa aqui."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma prateleira de madeira decente.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma prateleira de madeira simples. Parece bastante estável.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma prateleira forte feita de madeira.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma prateleira de madeira bem fixada.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma prateleira de parede útil. Você poderia colocar praticamente qualquer coisa aqui.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma prateleira de parede de madeira para exibir bugigangas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Medieval Wall Shelf",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Esta prateleira de madeira é forte e estável.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Prateleira de madeira muito forte.",
+    "path": "/floranDescription"
+  }
+]

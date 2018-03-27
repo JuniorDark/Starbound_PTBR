@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Esta mesa parece muito bonita, exceto pelas vinhas loucas crescendo por toda parte."}, {"op": "replace", "path": "/avianDescription", "value": "Estas plantas parecem seguras, mas prefiro não comer nisto."}, {"op": "replace", "path": "/hylotlDescription", "value": "Estas plantas deterioraram consideravelmente esta mesa."}, {"op": "replace", "path": "/novakidDescription", "value": "Que tipo de bagunça está crescendo por toda esta mesa?"}, {"op": "replace", "path": "/description", "value": "Uma mesa de madeira que esta coberta de vinhas."}, {"op": "replace", "path": "/shortdescription", "value": "Overgrown Table"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de mesass cobertas de planta."}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. Essas plantas foram abandonadas durante tanto tempo que cobriram esta mesa."}, {"op": "replace", "path": "/apexDescription", "value": "Essas plantas foram abandonadas por tanto tempo que cobriram esta mesa."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma mesa de madeira que esta coberta de vinhas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Essas plantas foram abandonadas durante tanto tempo que cobriram esta mesa.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de mesass cobertas de planta.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Overgrown Table",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas plantas deterioraram consideravelmente esta mesa.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas plantas parecem seguras, mas prefiro não comer nisto.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas plantas foram abandonadas por tanto tempo que cobriram esta mesa.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa parece muito bonita, exceto pelas vinhas loucas crescendo por toda parte.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que tipo de bagunça está crescendo por toda esta mesa?",
+    "path": "/novakidDescription"
+  }
+]

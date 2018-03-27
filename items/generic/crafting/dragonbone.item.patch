@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um osso de dragão, é quente ao toque. O calor nunca morre."}, {"op": "replace", "path": "/shortdescription", "value": "Dragon Bone"}]
+[
+  {
+    "op": "replace",
+    "value": "Um osso de dragão, é quente ao toque. O calor nunca morre.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Dragon Bone",
+    "path": "/shortdescription"
+  }
+]

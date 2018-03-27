@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "A lava escoando desta fissura está iluminando o caminho."}, {"op": "replace", "path": "/shortdescription", "value": "Tall Volcanic Geyser"}, {"op": "replace", "path": "/description", "value": "Um gêiser vulcânico alto. Está escorrendo lava."}, {"op": "replace", "path": "/floranDescription", "value": "Floran não gosta de gêiser quente."}, {"op": "replace", "path": "/apexDescription", "value": "Este gêiser parece contido, não há nada a temer."}, {"op": "replace", "path": "/humanDescription", "value": "Parece seguro, mas é melhor não pisar nele."}, {"op": "replace", "path": "/avianDescription", "value": "Este gêiser vulcânico brilha com intensidade ardente."}, {"op": "replace", "path": "/glitchDescription", "value": "Confiante. Esta fissura vulcânica não representa nenhuma ameaça."}, {"op": "replace", "path": "/hylotlDescription", "value": "Não é incomum ver fissuras como esta profundamente debaixo d' água."}]
+[
+  {
+    "op": "replace",
+    "value": "Um gêiser vulcânico alto. Está escorrendo lava.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Tall Volcanic Geyser",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Confiante. Esta fissura vulcânica não representa nenhuma ameaça.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não gosta de gêiser quente.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece seguro, mas é melhor não pisar nele.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não é incomum ver fissuras como esta profundamente debaixo d' água.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A lava escoando desta fissura está iluminando o caminho.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este gêiser parece contido, não há nada a temer.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este gêiser vulcânico brilha com intensidade ardente.",
+    "path": "/avianDescription"
+  }
+]

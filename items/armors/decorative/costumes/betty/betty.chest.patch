@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Armadura equipada com um lenço estiloso."}, {"op": "replace", "path": "/shortdescription", "value": "Disguise Chestpiece"}]
+[
+  {
+    "op": "replace",
+    "value": "Armadura equipada com um lenço estiloso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Disguise Chestpiece",
+    "path": "/shortdescription"
+  }
+]

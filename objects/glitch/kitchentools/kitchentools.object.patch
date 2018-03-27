@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Kitchen Tools"}, {"op": "replace", "path": "/avianDescription", "value": "Um conjunto de ferramentas que parecem que foram feitas para fazer alimentos."}, {"op": "replace", "path": "/hylotlDescription", "value": "Hylotls usam uma katana para cortar seus alimentos. Brincadeirinha."}, {"op": "replace", "path": "/description", "value": "Ferramentas para criar uma delícia pura e inalterada."}, {"op": "replace", "path": "/floranDescription", "value": "Faca afiada para cortar carne."}, {"op": "replace", "path": "/glitchDescription", "value": "Agradável. Essas ferramentas são para fazer comida."}, {"op": "replace", "path": "/apexDescription", "value": "Utensílios de cozinha. Eu me pergunto que pratos estas têm sido usados para fazer."}, {"op": "replace", "path": "/humanDescription", "value": "Eu me pergunto o quão rápido eu poderia cortar vegetais com estes?"}, {"op": "replace", "path": "/novakidDescription", "value": "Utensílios para cozinhar."}]
+[
+  {
+    "op": "replace",
+    "value": "Um conjunto de ferramentas que parecem que foram feitas para fazer alimentos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Agradável. Essas ferramentas são para fazer comida.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hylotls usam uma katana para cortar seus alimentos. Brincadeirinha.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto o quão rápido eu poderia cortar vegetais com estes?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Kitchen Tools",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Utensílios de cozinha. Eu me pergunto que pratos estas têm sido usados para fazer.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Faca afiada para cortar carne.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ferramentas para criar uma delícia pura e inalterada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Utensílios para cozinhar.",
+    "path": "/novakidDescription"
+  }
+]

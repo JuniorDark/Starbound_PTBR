@@ -1,177 +1,172 @@
 [
   {
     "op": "replace",
-    "path": "/category",
-    "value": "tool"
+    "value": "Nada para ver aqui.",
+    "path": "/nothingThereText/default/1"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Descreve as coisas no mundo e escaneia objetos para impressão. ^green;Selecione rapidamente com a tecla [N]."
+    "value": "Não é possível escanear isso, não está no alcance. Devo chegar mais perto.",
+    "path": "/outOfRangeText/novakid/3"
   },
   {
     "op": "replace",
-    "path": "/shortdescription",
-    "value": "Modo Escaneamento"
+    "value": "Não consigo obter uma leitura, deveria me aproximar.",
+    "path": "/outOfRangeText/default/1"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/default/0",
-    "value": "Isso está fora da área de detecção do meu scanner."
+    "value": "Descreve as coisas no mundo e escaneia objetos para impressão. ^green;Selecione rapidamente com a tecla [N].",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/default/1",
-    "value": "Não consigo obter uma leitura, deveria me aproximar."
+    "value": "Decepcionado. Nada aqui pra escanear.",
+    "path": "/nothingThereText/glitch/2"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/default/2",
-    "value": "O sinal esta muito fraco para distinguir - pode estar fora do alcance."
+    "value": "Decepcionado. Os sensores deste hardware são insuficientes para analisar essa posição daqui.",
+    "path": "/outOfRangeText/glitch/0"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/default/3",
-    "value": "Deve estar fora do alcance, eu não consigo obter uma leitura."
+    "value": "Frustrado. O sinal é muito fraco para conseguir, acho que estou fora do alcance.",
+    "path": "/outOfRangeText/glitch/2"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/novakid/0",
-    "value": "O scanner não está alcançando - provavelmente eu deveria chegar mais perto."
+    "value": "Acho que estou fora do alcance, o scanner não escaneia tão longe.",
+    "path": "/outOfRangeText/novakid/1"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/novakid/1",
-    "value": "Acho que estou fora do alcance, o scanner não escaneia tão longe."
+    "value": "Irritado. Deve estar fora do alcance, eu não consigo obter uma leitura.",
+    "path": "/outOfRangeText/glitch/3"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/novakid/2",
-    "value": "Sinal muito fraco, melhor chegar mais perto."
+    "value": "Deve estar fora do alcance, eu não consigo obter uma leitura.",
+    "path": "/outOfRangeText/default/3"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/novakid/3",
-    "value": "Não é possível escanear isso, não está no alcance. Devo chegar mais perto."
+    "value": "Deve estar fora do alcance, Floran não pode obter uma leitura.",
+    "path": "/outOfRangeText/floran/3"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/floran/0",
-    "value": "Scanner não é forte o suficiente! Floran deve se aproximar."
+    "value": "Nem uma maldita coisa ali.",
+    "path": "/nothingThereText/novakid/1"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/floran/1",
-    "value": "Isso está fora do alcance do scanner."
+    "value": "Nada para escanear.",
+    "path": "/nothingThereText/floran/1"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/floran/2",
-    "value": "Ssinal esta muito fraco para entender, Floran não está perto o suficiente."
+    "value": "Intrigado. Não consigo obter uma leitura, talvez eu deveria chegar mais perto.",
+    "path": "/outOfRangeText/glitch/1"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/floran/3",
-    "value": "Deve estar fora do alcance, Floran não pode obter uma leitura."
+    "value": "Scanner não é forte o suficiente! Floran deve se aproximar.",
+    "path": "/outOfRangeText/floran/0"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/glitch/0",
-    "value": "Decepcionado. Os sensores deste hardware são insuficientes para analisar essa posição daqui."
+    "value": "Scanner diz que não tem nada ali.",
+    "path": "/nothingThereText/novakid/2"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/glitch/1",
-    "value": "Intrigado. Não consigo obter uma leitura, talvez eu deveria chegar mais perto."
+    "value": "Scanner diz que não tem nada ali.",
+    "path": "/nothingThereText/novakid/0"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/glitch/2",
-    "value": "Frustrado. O sinal é muito fraco para conseguir, acho que estou fora do alcance."
+    "value": "Modo Escaneamento",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/outOfRangeText/glitch/3",
-    "value": "Irritado. Deve estar fora do alcance, eu não consigo obter uma leitura."
+    "value": "Sinal muito fraco, melhor chegar mais perto.",
+    "path": "/outOfRangeText/novakid/2"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/default/0",
-    "value": "Nada de interessante aqui."
+    "value": "Ssinal esta muito fraco para entender, Floran não está perto o suficiente.",
+    "path": "/outOfRangeText/floran/2"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/default/1",
-    "value": "Nada para ver aqui."
+    "value": "Isso está fora da área de detecção do meu scanner.",
+    "path": "/outOfRangeText/default/0"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/default/2",
-    "value": "Isso não é nada."
+    "value": "Isso está fora do alcance do scanner.",
+    "path": "/outOfRangeText/floran/1"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/default/3",
-    "value": "Nada a falar disso."
+    "value": "O scanner não está alcançando - provavelmente eu deveria chegar mais perto.",
+    "path": "/outOfRangeText/novakid/0"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/novakid/0",
-    "value": "Scanner diz que não tem nada ali."
+    "value": "O sinal esta muito fraco para distinguir - pode estar fora do alcance.",
+    "path": "/outOfRangeText/default/2"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/novakid/1",
-    "value": "Nem uma maldita coisa ali."
+    "value": "Desinteressado. Isso não é nada.",
+    "path": "/nothingThereText/glitch/3"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/novakid/2",
-    "value": "Scanner diz que não tem nada ali."
+    "value": "Neutro. Não há nada ali.",
+    "path": "/nothingThereText/glitch/1"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/novakid/3",
-    "value": "Isso é apenas um monte de nada."
+    "value": "Nada a falar disso.",
+    "path": "/nothingThereText/default/3"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/floran/0",
-    "value": "Nada de interesse."
+    "value": "Nada a falar disso.",
+    "path": "/nothingThereText/floran/3"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/floran/1",
-    "value": "Nada para escanear."
+    "value": "Nada de interesse.",
+    "path": "/nothingThereText/floran/0"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/floran/2",
-    "value": "Isso não é nada."
+    "value": "Nada de interessante aqui.",
+    "path": "/nothingThereText/default/0"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/floran/3",
-    "value": "Nada a falar disso."
+    "value": "Isso é apenas um monte de nada.",
+    "path": "/nothingThereText/novakid/3"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/glitch/0",
-    "value": "Não Impressionado. Nada de interesse aqui."
+    "value": "Isso não é nada.",
+    "path": "/nothingThereText/default/2"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/glitch/1",
-    "value": "Neutro. Não há nada ali."
+    "value": "Isso não é nada.",
+    "path": "/nothingThereText/floran/2"
   },
   {
     "op": "replace",
-    "path": "/nothingThereText/glitch/2",
-    "value": "Decepcionado. Nada aqui pra escanear."
-  },
-  {
-    "op": "replace",
-    "path": "/nothingThereText/glitch/3",
-    "value": "Desinteressado. Isso não é nada."
+    "value": "Não Impressionado. Nada de interesse aqui.",
+    "path": "/nothingThereText/glitch/0"
   }
 ]

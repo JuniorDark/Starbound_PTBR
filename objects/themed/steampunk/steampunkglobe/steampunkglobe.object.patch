@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Existe uma verdadeira dedicação em exibição neste globo esculpido a mão."}, {"op": "replace", "path": "/description", "value": "Um velho globo esculpido em madeira."}, {"op": "replace", "path": "/shortdescription", "value": "Steampunk Globe"}, {"op": "replace", "path": "/humanDescription", "value": "Me pergunto que planeta este globo de madeira lustrado está retratando?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Há artesanato real na escultura deste globo."}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Gostaria de saber se a cartografia deste globo é precisa?"}, {"op": "replace", "path": "/apexDescription", "value": "Um globo esculpido à mão. Eu me pergunto se é preciso para qualquer planeta que seja?"}, {"op": "replace", "path": "/novakidDescription", "value": "Alguém realmente levou tempo esculpindo essa peça."}, {"op": "replace", "path": "/floranDescription", "value": "Floran quer rolar planeta de madeira colina a baixo, e esssmagar inimigosss."}]
+[
+  {
+    "op": "replace",
+    "value": "Um globo esculpido à mão. Eu me pergunto se é preciso para qualquer planeta que seja?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um velho globo esculpido em madeira.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran quer rolar planeta de madeira colina a baixo, e esssmagar inimigosss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me pergunto que planeta este globo de madeira lustrado está retratando?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Gostaria de saber se a cartografia deste globo é precisa?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém realmente levou tempo esculpindo essa peça.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Steampunk Globe",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há artesanato real na escultura deste globo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Existe uma verdadeira dedicação em exibição neste globo esculpido a mão.",
+    "path": "/avianDescription"
+  }
+]

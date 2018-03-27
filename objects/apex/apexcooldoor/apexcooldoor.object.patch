@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Uma enorme e pesada porta de segurança."}, {"op": "replace", "path": "/description", "value": "Esta porta é feita de algum tipo de material à prova de balas."}, {"op": "replace", "path": "/floranDescription", "value": "Porta de grande força."}, {"op": "replace", "path": "/glitchDescription", "value": "Ciumento. Que material forte."}, {"op": "replace", "path": "/apexDescription", "value": "Esta porta parece forte o suficiente para manter qualquer coisa fora... ou todos dentro."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma porta muito grossa."}, {"op": "replace", "path": "/hylotlDescription", "value": "Isso parece forte o suficiente para conter o oceano."}, {"op": "replace", "path": "/avianDescription", "value": "Uma porta forte. Nem mesmo a brisa pode escapar."}, {"op": "replace", "path": "/shortdescription", "value": "Security Door"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma enorme e pesada porta de segurança.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta forte. Nem mesmo a brisa pode escapar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta muito grossa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Porta de grande força.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ciumento. Que material forte.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Security Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta é feita de algum tipo de material à prova de balas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta parece forte o suficiente para manter qualquer coisa fora... ou todos dentro.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso parece forte o suficiente para conter o oceano.",
+    "path": "/hylotlDescription"
+  }
+]

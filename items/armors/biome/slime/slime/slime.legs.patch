@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Vestir isto parece como caminhar em uma piscina de geléia."}, {"op": "replace", "path": "/shortdescription", "value": "Slime Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Slime Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vestir isto parece como caminhar em uma piscina de geléia.",
+    "path": "/description"
+  }
+]

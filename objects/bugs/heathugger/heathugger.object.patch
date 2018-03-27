@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Heathugger"}, {"op": "replace", "path": "/description", "value": "Atraído por calor, esse carinha precisa de calor."}]
+[
+  {
+    "op": "replace",
+    "value": "Atraído por calor, esse carinha precisa de calor.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Heathugger",
+    "path": "/shortdescription"
+  }
+]

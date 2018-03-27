@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/description", "value": "Esta panela expele o odor de uma centena de refeições saudáveis."}, {"op": "replace", "path": "/apexDescription", "value": "Uma panela gigante. Tem um cheiro delicioso."}, {"op": "replace", "path": "/humanDescription", "value": "Um caldeirão gigante. Espero que não haja bruxas por aí."}, {"op": "replace", "path": "/hylotlDescription", "value": "Cheia de cheiros que poucos Hylotl experimentaram."}, {"op": "replace", "path": "/shortdescription", "value": "Medieval Cooking Pot"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Panela Medieval"}, {"op": "replace", "path": "/floranDescription", "value": "Panela sssaborosa. Floran gostaria de uma ssopa de carne."}, {"op": "replace", "path": "/glitchDescription", "value": "Sentimental. Esta panela cheira a muitos dos meus pratos favoritos."}, {"op": "replace", "path": "/avianDescription", "value": "Uma panela grande sobre um fogo. Provavelmente para cozinhar."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "Yum, yum"}, {"op": "replace", "path": "/novakidDescription", "value": "Um enorme caldeirão. O que ta cozinhando?"}]
+[
+  {
+    "op": "replace",
+    "value": "Yum, yum",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Panela Medieval",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Uma panela grande sobre um fogo. Provavelmente para cozinhar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um caldeirão gigante. Espero que não haja bruxas por aí.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma panela gigante. Tem um cheiro delicioso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um enorme caldeirão. O que ta cozinhando?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cheia de cheiros que poucos Hylotl experimentaram.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Medieval Cooking Pot",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sentimental. Esta panela cheira a muitos dos meus pratos favoritos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Panela sssaborosa. Floran gostaria de uma ssopa de carne.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta panela expele o odor de uma centena de refeições saudáveis.",
+    "path": "/description"
+  }
+]

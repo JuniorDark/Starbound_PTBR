@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Ciumento. Alguns outros alunos escovam os dentes aqui. Às vezes eu dou um polimento na minha mandíbula."}, {"op": "replace", "path": "/description", "value": "Um espelho de banheiro da academia do Protetorado."}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Bathroom Mirror"}, {"op": "replace", "path": "/floranDescription", "value": "Água limpa para essspirrar ou lavar."}, {"op": "replace", "path": "/apexDescription", "value": "Um lavatório e espelho."}, {"op": "replace", "path": "/humanDescription", "value": "Não tenho tempo para escovar os dentes!"}, {"op": "replace", "path": "/avianDescription", "value": "É um lavatório."}, {"op": "replace", "path": "/novakidDescription", "value": "Um lavatório e um espelho."}, {"op": "replace", "path": "/hylotlDescription", "value": "Às vezes eu venho aqui e ligo a torneira. O som da água corrente é calmante."}]
+[
+  {
+    "op": "replace",
+    "value": "Um espelho de banheiro da academia do Protetorado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um lavatório e um espelho.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um lavatório e espelho.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Água limpa para essspirrar ou lavar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não tenho tempo para escovar os dentes!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um lavatório.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ciumento. Alguns outros alunos escovam os dentes aqui. Às vezes eu dou um polimento na minha mandíbula.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Bathroom Mirror",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Às vezes eu venho aqui e ligo a torneira. O som da água corrente é calmante.",
+    "path": "/hylotlDescription"
+  }
+]

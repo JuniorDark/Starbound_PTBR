@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Hivehog"}, {"op": "replace", "path": "/description", "value": "Esse inseto nunca pára de comer."}]
+[
+  {
+    "op": "replace",
+    "value": "Hivehog",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse inseto nunca pára de comer.",
+    "path": "/description"
+  }
+]

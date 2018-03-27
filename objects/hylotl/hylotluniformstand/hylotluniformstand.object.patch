@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Hylotl Armour Stand"}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Este suporte exibe armadura habilmente trabalhada."}, {"op": "replace", "path": "/apexDescription", "value": "Os Hylotl gostam de exibir sua armadura dessa maneira."}, {"op": "replace", "path": "/avianDescription", "value": "Uma exibição impressionante de artesanato Hylotl."}, {"op": "replace", "path": "/hylotlDescription", "value": "Nós nos orgulhamos de nosso artesanato e colocamos armaduras em exibidores como esses."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta armadura é muito chique... Imagine o quanto posso conseguir por ela."}, {"op": "replace", "path": "/description", "value": "Um suporte exibindo armadura Hylotl."}, {"op": "replace", "path": "/humanDescription", "value": "Uma armadura Hylotl impressionante, me lembra de alguma antiga armadura da Terra."}, {"op": "replace", "path": "/floranDescription", "value": "Armadura brilhante em exibição especial."}]
+[
+  {
+    "op": "replace",
+    "value": "Um suporte exibindo armadura Hylotl.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma exibição impressionante de artesanato Hylotl.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hylotl Armour Stand",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Este suporte exibe armadura habilmente trabalhada.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma armadura Hylotl impressionante, me lembra de alguma antiga armadura da Terra.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Armadura brilhante em exibição especial.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Hylotl gostam de exibir sua armadura dessa maneira.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta armadura é muito chique... Imagine o quanto posso conseguir por ela.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nós nos orgulhamos de nosso artesanato e colocamos armaduras em exibidores como esses.",
+    "path": "/hylotlDescription"
+  }
+]

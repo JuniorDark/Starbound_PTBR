@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Eu certamente faria bom uso destes itens aqui."}, {"op": "replace", "path": "/description", "value": "Uma prateleira de metal embalada com produtos de loja."}, {"op": "replace", "path": "/floranDescription", "value": "Prateleira tem bons itenss."}, {"op": "replace", "path": "/shortdescription", "value": "Metal Store Shelf"}, {"op": "replace", "path": "/glitchDescription", "value": "Surpreso. Existem alguns itens úteis nesta prateleira."}, {"op": "replace", "path": "/apexDescription", "value": "Esta prateleira contém alguns itens úteis."}, {"op": "replace", "path": "/humanDescription", "value": "Esta prateleira está cheia de itens, eu aposto que ele pode conter ainda mais."}, {"op": "replace", "path": "/avianDescription", "value": "Há alguns itens de cura nesta prateleira."}, {"op": "replace", "path": "/hylotlDescription", "value": "Existem alguns itens úteis nesta prateleira."}]
+[
+  {
+    "op": "replace",
+    "value": "Há alguns itens de cura nesta prateleira.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Existem alguns itens úteis nesta prateleira.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu certamente faria bom uso destes itens aqui.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Prateleira tem bons itenss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Existem alguns itens úteis nesta prateleira.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta prateleira contém alguns itens úteis.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta prateleira está cheia de itens, eu aposto que ele pode conter ainda mais.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma prateleira de metal embalada com produtos de loja.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Metal Store Shelf",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Nervoso. Estes espinhos afiados poderiam empalar até mesmo um Glitch."}, {"op": "replace", "path": "/floranDescription", "value": "Armadilha de espinho. Afiada."}, {"op": "replace", "path": "/description", "value": "Varetas afiadas e pontiagudas. Não caia sobre elas."}, {"op": "replace", "path": "/shortdescription", "value": "Small Sharp Sticks"}, {"op": "replace", "path": "/apexDescription", "value": "Espinhos letais."}, {"op": "replace", "path": "/humanDescription", "value": "Eu deveria atravessar sobre esses espinhos."}, {"op": "replace", "path": "/avianDescription", "value": "Espinhos perigosos."}, {"op": "replace", "path": "/hylotlDescription", "value": "Que espinhos brutais."}, {"op": "replace", "path": "/novakidDescription", "value": "As pontas destas varas são muito afiadas."}]
+[
+  {
+    "op": "replace",
+    "value": "Small Sharp Sticks",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espinhos perigosos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu deveria atravessar sobre esses espinhos.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espinhos letais.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nervoso. Estes espinhos afiados poderiam empalar até mesmo um Glitch.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Varetas afiadas e pontiagudas. Não caia sobre elas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Armadilha de espinho. Afiada.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que espinhos brutais.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "As pontas destas varas são muito afiadas.",
+    "path": "/novakidDescription"
+  }
+]

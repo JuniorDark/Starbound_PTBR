@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/title", "value": "Livro de Piadas Emitido da Miniknog"}, {"op": "replace", "path": "/description", "value": "O nome \"Cedarfang\" esta escrito no interior da capa."}, {"op": "replace", "path": "/contentPages/0", "value": "P: Por que os Hylotl cruzaram o córrego?\nR: Para chegar à outra maré!\n\nP: Por que os Avians controlam os piores bares esportivos?\nR: Porque eles nunca tiveram asas!!\n\nP: Como você chama um camarada que está se comportando de uma maneira não ortodoxa?\nR: Não importa. Diga para a Miniknog.\n\nP: Um rebelde, um traidor e uma desculpa para um camarada entram num bar."}, {"op": "replace", "path": "/contentPages/1", "value": "R: O homem é rapidamente detido. Obrigado pelo seu patriotismo, camarada.\n\nP: O que fica maior quanto mais você tira dele? \nR: Um túmulo. Lembre-se, camarada: o comportamento pouco ortodoxo geralmente acaba em terríveis acidentes!\n\nP: O que você obtém quando mistura o \"pensamento livre\" e a rebelião?\nR: O privilégio de um breve período de férias.\n\nP: Como você chama uma sala com cinquenta camaradas dentro?"}, {"op": "replace", "path": "/contentPages/2", "value": "R: Uma maravilhosamente e confortável sala de detenção emitida da Miniknog."}]
+[
+  {
+    "op": "replace",
+    "value": "R: Uma maravilhosamente e confortável sala de detenção emitida da Miniknog.",
+    "path": "/contentPages/2"
+  },
+  {
+    "op": "replace",
+    "value": "R: O homem é rapidamente detido. Obrigado pelo seu patriotismo, camarada.\n\nP: O que fica maior quanto mais você tira dele? \nR: Um túmulo. Lembre-se, camarada: o comportamento pouco ortodoxo geralmente acaba em terríveis acidentes!\n\nP: O que você obtém quando mistura o \"pensamento livre\" e a rebelião?\nR: O privilégio de um breve período de férias.\n\nP: Como você chama uma sala com cinquenta camaradas dentro?",
+    "path": "/contentPages/1"
+  },
+  {
+    "op": "replace",
+    "value": "Livro de Piadas Emitido da Miniknog",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "P: Por que os Hylotl cruzaram o córrego?\nR: Para chegar à outra maré!\n\nP: Por que os Avians controlam os piores bares esportivos?\nR: Porque eles nunca tiveram asas!!\n\nP: Como você chama um camarada que está se comportando de uma maneira não ortodoxa?\nR: Não importa. Diga para a Miniknog.\n\nP: Um rebelde, um traidor e uma desculpa para um camarada entram num bar.",
+    "path": "/contentPages/0"
+  },
+  {
+    "op": "replace",
+    "value": "O nome \"Cedarfang\" esta escrito no interior da capa.",
+    "path": "/description"
+  }
+]

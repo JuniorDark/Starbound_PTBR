@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Uma plataforma feita de ouro."}, {"op": "replace", "path": "/shortdescription", "value": "Gold Platform"}]
+[
+  {
+    "op": "replace",
+    "value": "Encantado. Esta plataforma é feita de ouro maciço.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para o verdadeiramente rico, uma plataforma feita de ouro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Gold Platform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plataformasss de ouro. Tão chique.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ouro! É uma plataforma feita de ouro!.",
+    "path": "/novakiddescription"
+  }
+]

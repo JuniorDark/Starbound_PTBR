@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Stun Glove ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Chocantemente eficaz."}, {"op": "replace", "path": "/shortdescription", "value": "Stun Glove"}]
+[
+  {
+    "op": "replace",
+    "value": "Chocantemente eficaz.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Stun Glove",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Stun Glove ^yellow;^reset;",
+    "path": "/upgradeParameters/shortdescription"
+  }
+]

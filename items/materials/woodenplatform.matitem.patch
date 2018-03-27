@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Ornate Platform"}, {"op": "replace", "path": "/description", "value": "Plataformas de madeira com um bom acabamento ornamentado."}]
+[
+  {
+    "op": "replace",
+    "value": "Ornate Platform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Essas plataformas ornamentadas foram finamente lixadas e finalizadas.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plataformas de madeira com um bom acabamento ornamentado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Plataformass ornamentadas feitas de madeira.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas plataformas de madeira ornamentada.",
+    "path": "/novakiddescription"
+  }
+]

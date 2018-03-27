@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Navalha afiada e muito rápida."}, {"op": "replace", "path": "/shortdescription", "value": "Uncommon Dagger"}]
+[
+  {
+    "op": "replace",
+    "value": "Afiada como navalha e muito rápida.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uncommon Dagger",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/contentPages/0", "value": "Querido Barão,\n\nEu gentilmente (e pela ÚLTIMA VEZ) peço que você pare de propor decretos legislativos. Além disso, gostaria de mais uma vez deixar claro que você é INTEIRAMENTE INCAPAZ de aprovar leis.\n\nPara ficar claro - VOCÊ NÃO TEM PODER AUTORITÁRIO. Por favor, por favor, pare.\n\nAtenciosamente,\nSenhor Presidente do Conselho Privado"}, {"op": "replace", "path": "/description", "value": "Uma carta para o Barão de um oficial Glitch irritado."}, {"op": "replace", "path": "/title", "value": "Querido Barão"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma carta para o Barão de um oficial Glitch irritado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Querido Barão",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Querido Barão,\n\nEu gentilmente (e pela ÚLTIMA VEZ) peço que você pare de propor decretos legislativos. Além disso, gostaria de mais uma vez deixar claro que você é INTEIRAMENTE INCAPAZ de aprovar leis.\n\nPara ficar claro - VOCÊ NÃO TEM PODER AUTORITÁRIO. Por favor, por favor, pare.\n\nAtenciosamente,\nSenhor Presidente do Conselho Privado",
+    "path": "/contentPages/0"
+  }
+]

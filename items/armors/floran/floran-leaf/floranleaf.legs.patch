@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A folha censura coisas que as crianças não devem ver!"}, {"op": "replace", "path": "/shortdescription", "value": "Leaf Legs"}]
+[
+  {
+    "op": "replace",
+    "value": "Leaf Legs",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A folha censura coisas que as crianças não devem ver!",
+    "path": "/description"
+  }
+]

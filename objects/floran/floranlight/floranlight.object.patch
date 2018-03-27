@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Vine Wall Light"}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. O crescimento destas vagens parece ser estritamente controlado."}, {"op": "replace", "path": "/apexDescription", "value": "Uma luz verde assustadora."}, {"op": "replace", "path": "/avianDescription", "value": "Eu me pergunto como você controla onde a iluminação da planta cresce."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta luz está crescendo diretamente da parede."}, {"op": "replace", "path": "/floranDescription", "value": "Luz Floran ganha energia do sssol. Libera energia lentamente quando o sol se poe."}, {"op": "replace", "path": "/description", "value": "A vagem emite uma luz verde natural."}, {"op": "replace", "path": "/humanDescription", "value": "O brilho verde me deixa desconfortável."}, {"op": "replace", "path": "/hylotlDescription", "value": "Estas vagens parecem tudo menos natural."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz verde assustadora.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luz Floran ganha energia do sssol. Libera energia lentamente quando o sol se poe.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto como você controla onde a iluminação da planta cresce.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. O crescimento destas vagens parece ser estritamente controlado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O brilho verde me deixa desconfortável.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A vagem emite uma luz verde natural.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estas vagens parecem tudo menos natural.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz está crescendo diretamente da parede.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vine Wall Light",
+    "path": "/shortdescription"
+  }
+]

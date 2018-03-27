@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Aposto que os livros de história têm muito a dizer sobre esse Floran."}, {"op": "replace", "path": "/description", "value": "Uma estátua de um Floran. Parece um ótimo caçador."}, {"op": "replace", "path": "/shortdescription", "value": "Large Floran Statue"}, {"op": "replace", "path": "/floranDescription", "value": "Esta estátua repressenta a caça, não um Floran específico."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. O Floran representado aqui foi importante como um caçador?"}, {"op": "replace", "path": "/apexDescription", "value": "Um imponente Floran soberano, sem dúvida."}, {"op": "replace", "path": "/avianDescription", "value": "Presumo que isto retrata um mestre de caça Floran."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um horrível e ridiculo Floran. Imortalizado em pedra."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma grande e velha estátua Floran."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma grande e velha estátua Floran.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um horrível e ridiculo Floran. Imortalizado em pedra.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um imponente Floran soberano, sem dúvida.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. O Floran representado aqui foi importante como um caçador?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Presumo que isto retrata um mestre de caça Floran.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aposto que os livros de história têm muito a dizer sobre esse Floran.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Large Floran Statue",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta estátua repressenta a caça, não um Floran específico.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estátua de um Floran. Parece um ótimo caçador.",
+    "path": "/description"
+  }
+]

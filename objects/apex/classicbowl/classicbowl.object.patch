@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma tigela de porcelana fina."
+    "value": "Uma tigela de porcelana fina.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Uma tigela de porcelana fina. Os Apex geralmente recebem tigelas de plástico."
+    "value": "Uma tigela de porcelana fina. Os Apex geralmente recebem tigelas de plástico.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Avians tradicionalmente comem apenas em pratos."
+    "value": "Avians tradicionalmente comem apenas em pratos.",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Floran tenta comer comida fressca da caçada."
+    "value": "Classic Bowl",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Travesso. O som de uma tigela lançada é mais satisfatório."
+    "value": "Travesso. O som de uma tigela lançada é mais satisfatório.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Utensílio de cozinha bastante sofisticado."
+    "value": "Esta linda tigela é tão limpa que posso ver meu reflexo.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Os Hylotl também são mestres da porcelana fina."
+    "value": "Floran não come em pratos, Floran tenta comer comida fresca da matança.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Esta linda tigela é tão limpa que posso ver meu reflexo."
+    "value": "Utensílios de cozinha bastante sofisticados.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Hylotl também são mestres da porcelana fina.",
+    "path": "/hylotlDescription"
   }
 ]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Você nunca sabe quando um pouco de barbante pode vir a calhar."}, {"op": "replace", "path": "/shortdescription", "value": "String"}]
+[
+  {
+    "op": "replace",
+    "value": "String",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Você nunca sabe quando um pouco de barbante pode vir a calhar.",
+    "path": "/description"
+  }
+]

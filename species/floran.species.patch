@@ -1,1 +1,67 @@
-[{"op": "replace", "path": "/charCreationTooltip/description", "value": "Não se deixe enganar por sua aparência pacífica! Florans são conhecidos pelo universo por serem caçadores carnívoros agressivos. Não são bons inventores, eles gostam de roubar e adaptar a tecnologia das pessoas que eles atacaram."}, {"op": "replace", "path": "/charGenTextLabels/8", "value": "FLORAN"}, {"op": "replace", "path": "/charGenTextLabels/2", "value": "Camisa"}, {"op": "replace", "path": "/charGenTextLabels/3", "value": "Calça"}, {"op": "replace", "path": "/charGenTextLabels/4", "value": "Cor da folha"}, {"op": "replace", "path": "/charGenTextLabels/5", "value": "Cor da flor"}, {"op": "replace", "path": "/charGenTextLabels/6", "value": "Cor da camisa"}, {"op": "replace", "path": "/charGenTextLabels/7", "value": "Cor da calça"}, {"op": "replace", "path": "/charGenTextLabels/9", "value": "Personalidade"}, {"op": "replace", "path": "/charCreationTooltip/title", "value": "Floran"}, {"op": "replace", "path": "/charGenTextLabels/0", "value": "Cor da pele"}, {"op": "replace", "path": "/charGenTextLabels/1", "value": "Folhagem"}]
+[
+  {
+    "op": "replace",
+    "value": "Calça",
+    "path": "/charGenTextLabels/3"
+  },
+  {
+    "op": "replace",
+    "value": "CO2",
+    "path": "/charCreationTooltip/subTitle"
+  },
+  {
+    "op": "replace",
+    "value": "Não se deixe enganar por sua aparência pacífica! Florans são conhecidos pelo universo por serem caçadores carnívoros agressivos. Não são bons inventores, eles gostam de roubar e adaptar a tecnologia das pessoas que eles atacaram.",
+    "path": "/charCreationTooltip/description"
+  },
+  {
+    "op": "replace",
+    "value": "FLORAN",
+    "path": "/charGenTextLabels/8"
+  },
+  {
+    "op": "replace",
+    "value": "Floran",
+    "path": "/charCreationTooltip/title"
+  },
+  {
+    "op": "replace",
+    "value": "Cor da flor",
+    "path": "/charGenTextLabels/5"
+  },
+  {
+    "op": "replace",
+    "value": "Folhagem",
+    "path": "/charGenTextLabels/1"
+  },
+  {
+    "op": "replace",
+    "value": "Cor da folha",
+    "path": "/charGenTextLabels/4"
+  },
+  {
+    "op": "replace",
+    "value": "Cor da calça",
+    "path": "/charGenTextLabels/7"
+  },
+  {
+    "op": "replace",
+    "value": "Personalidade",
+    "path": "/charGenTextLabels/9"
+  },
+  {
+    "op": "replace",
+    "value": "Camisa",
+    "path": "/charGenTextLabels/2"
+  },
+  {
+    "op": "replace",
+    "value": "Cor da camisa",
+    "path": "/charGenTextLabels/6"
+  },
+  {
+    "op": "replace",
+    "value": "Cor da pele",
+    "path": "/charGenTextLabels/0"
+  }
+]

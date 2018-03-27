@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "É uma dobradiça de ferro."}, {"op": "replace", "path": "/shortdescription", "value": "Iron Hinge"}]
+[
+  {
+    "op": "replace",
+    "value": "Iron Hinge",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma dobradiça de ferro.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Esta terra não parece real."}, {"op": "replace", "path": "/description", "value": "Algo não está certo com essa terra."}, {"op": "replace", "path": "/shortdescription", "value": "Dirt Trapdoor"}, {"op": "replace", "path": "/apexDescription", "value": "Há algo não confiável sobre o solo aqui."}, {"op": "replace", "path": "/humanDescription", "value": "Esta terra tem uma aparência pouco natural."}, {"op": "replace", "path": "/floranDescription", "value": "Terra cheira diferente de outras terrasss."}, {"op": "replace", "path": "/glitchDescription", "value": "Suspeito. Algo está escondido aqui."}, {"op": "replace", "path": "/hylotlDescription", "value": "Algo sobre a forma como esta terra esta embalada não é confiável."}, {"op": "replace", "path": "/novakidDescription", "value": "Tem algo de estranho com essa terra."}]
+[
+  {
+    "op": "replace",
+    "value": "Dirt Trapdoor",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Terra cheira diferente de outras terrasss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algo sobre a forma como esta terra esta embalada não é confiável.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algo não está certo com essa terra.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Há algo não confiável sobre o solo aqui.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta terra não parece real.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta terra tem uma aparência pouco natural.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tem algo de estranho com essa terra.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Suspeito. Algo está escondido aqui.",
+    "path": "/glitchDescription"
+  }
+]

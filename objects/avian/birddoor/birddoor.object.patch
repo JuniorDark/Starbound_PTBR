@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Golden Crystal Door"}, {"op": "replace", "path": "/floranDescription", "value": "Porta brilhante deixa Floran feliz."}, {"op": "replace", "path": "/apexDescription", "value": "Os cristais nesta porta murmuram como se gerassem poder. Esta tecnologia é desconhecida."}, {"op": "replace", "path": "/description", "value": "Uma porta dourada pesada com cristais em sua superfície."}, {"op": "replace", "path": "/glitchDescription", "value": "Inquisitivo. A porta contém uma fonte de energia que está além do meu entendimento."}, {"op": "replace", "path": "/humanDescription", "value": "Os cristais nesta porta estão quentes. Eles murmuram suavemente sob meus dedos."}, {"op": "replace", "path": "/avianDescription", "value": "Estas portas murmuram com ressonância de cristal."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma porta de pedra magnificamente esculpida, cravejada de cristais."}, {"op": "replace", "path": "/novakidDescription", "value": "Bem, se essa não é a porta mais brilhante que eu já vi."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta de pedra magnificamente esculpida, cravejada de cristais.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta dourada pesada com cristais em sua superfície.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Golden Crystal Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inquisitivo. A porta contém uma fonte de energia que está além do meu entendimento.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Porta brilhante deixa Floran feliz.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os cristais nesta porta estão quentes. Eles murmuram suavemente sob meus dedos.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os cristais nesta porta murmuram como se gerassem poder. Esta tecnologia é desconhecida.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas portas murmuram com ressonância de cristal.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bem, se essa não é a porta mais brilhante que eu já vi.",
+    "path": "/novakidDescription"
+  }
+]

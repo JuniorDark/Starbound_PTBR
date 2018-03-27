@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/completeSetDescriptions/description", "value": "O ovo de uma criatura antiga, congelado no tempo antes de viver verdadeiramente."}, {"op": "replace", "path": "/shortdescription", "value": "Egg Fossil"}, {"op": "replace", "path": "/description", "value": "Ovo fossilizado."}, {"op": "replace", "path": "/completeSetDescriptions/shortdescription", "value": "Egg Fossil"}]
+[
+  {
+    "op": "replace",
+    "value": "Egg Fossil",
+    "path": "/completeSetDescriptions/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Egg Fossil",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O ovo de uma criatura antiga, congelado no tempo antes de viver verdadeiramente.",
+    "path": "/completeSetDescriptions/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ovo fossilizado.",
+    "path": "/description"
+  }
+]

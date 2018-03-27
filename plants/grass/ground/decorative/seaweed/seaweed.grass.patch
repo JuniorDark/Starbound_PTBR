@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Relatório. Algas marinhas."}, {"op": "replace", "path": "/floranDescription", "value": "Erva de peixe fedido."}, {"op": "replace", "path": "/shortdescription", "value": "Algas marinhas."}, {"op": "replace", "path": "/description", "value": "Algas marinhas."}]
+[
+  {
+    "op": "replace",
+    "value": "Erva de peixe fedido.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Algas marinhas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algas marinhas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Algas marinhas.",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Reflexivo. A cinza neste jarro é de origem Avian. Os Glitch não podem ser descartados desta maneira."}, {"op": "replace", "path": "/apexDescription", "value": "Um jarro Avian. Parece estar cheio de pó."}, {"op": "replace", "path": "/humanDescription", "value": "Isto é... as cinzas de um Avian?"}, {"op": "replace", "path": "/avianDescription", "value": "Um jarro de cinza. Muitos Avians são cremados, seus restos são armazenados em jarros como estes."}, {"op": "replace", "path": "/description", "value": "Um jarro em forma de pássaro cheio de cinzas. Quero quebrá-lo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os aAvians honram as cinzas dos mortos."}, {"op": "replace", "path": "/shortdescription", "value": "Bird Jar"}, {"op": "replace", "path": "/floranDescription", "value": "Esssmagar jarro de homem-pássaro."}, {"op": "replace", "path": "/novakidDescription", "value": "Aposto que este jarro quebraria se eu atirasse nele."}]
+[
+  {
+    "op": "replace",
+    "value": "Um jarro em forma de pássaro cheio de cinzas. Quero quebrá-lo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um jarro Avian. Parece estar cheio de pó.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um jarro de cinza. Muitos Avians são cremados, seus restos são armazenados em jarros como estes.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bird Jar",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aposto que este jarro quebraria se eu atirasse nele.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto é... as cinzas de um Avian?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Reflexivo. A cinza neste jarro é de origem Avian. Os Glitch não podem ser descartados desta maneira.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esssmagar jarro de homem-pássaro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os aAvians honram as cinzas dos mortos.",
+    "path": "/hylotlDescription"
+  }
+]

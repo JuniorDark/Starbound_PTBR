@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Colhe carne e outros produtos de monstros."}, {"op": "replace", "path": "/shortdescription", "value": "NPC Bow"}]
+[
+  {
+    "op": "replace",
+    "value": "Colhe carne e outros produtos de monstros.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "NPC Bow",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/description", "value": "Grama espessa e exuberante."}]
+[
+  {
+    "op": "replace",
+    "value": "Grama espessa e exuberante.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Cooked Tentacle"}, {"op": "replace", "path": "/description", "value": "Borrachudo... Mas de uma maneira agradável."}]
+[
+  {
+    "op": "replace",
+    "value": "Borrachudo... Mas de uma maneira agradável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cooked Tentacle",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Medical Syringe"}, {"op": "replace", "path": "/description", "value": "Isto poderia ser usado para fazer injeções de estimulante."}]
+[
+  {
+    "op": "replace",
+    "value": "Medical Syringe",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto poderia ser usado para fazer injeções de estimulante.",
+    "path": "/description"
+  }
+]

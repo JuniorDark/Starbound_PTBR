@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma leve e adequado colete para trabalhar fora. Sem esforço não existe recompensa, certo?"}, {"op": "replace", "path": "/shortdescription", "value": "Sleeveless Top"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma leve e adequado colete para trabalhar fora. Sem esforço não existe recompensa, certo?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Sleeveless Top",
+    "path": "/shortdescription"
+  }
+]

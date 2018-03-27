@@ -1,22 +1,22 @@
 [
   {
     "op": "replace",
-    "path": "/gui/windowtitle/title",
-    "value": "Comerciante de Mercadorias"
+    "value": "COMPRAR",
+    "path": "/gui/btnBuy/caption"
   },
   {
     "op": "replace",
-    "path": "/gui/windowtitle/subtitle",
-    "value": "Negocie mercadorias entre estações com lucro"
+    "value": "Comerciante de Mercadorias",
+    "path": "/gui/windowtitle/title"
   },
   {
     "op": "replace",
-    "path": "/gui/btnBuy/caption",
-    "value": "COMPRAR"
+    "value": "Negocie mercadorias entre estações com lucro",
+    "path": "/gui/windowtitle/subtitle"
   },
   {
     "op": "replace",
-    "path": "/gui/btnSell/caption",
-    "value": "VENDER"
+    "value": "VENDER",
+    "path": "/gui/btnSell/caption"
   }
 ]

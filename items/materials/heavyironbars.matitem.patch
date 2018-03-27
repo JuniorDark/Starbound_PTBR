@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Heavy Iron Bars"}, {"op": "replace", "path": "/description", "value": "Barras de ferro grossa. Ainda forte, embora em deterioração com a ferrugem."}]
+[
+  {
+    "op": "replace",
+    "value": "Angustiado. Vendo metal oxidando dessa maneira é inquietante.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Heavy Iron Bars",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Barrass velhas enferrujadasss.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas barras velhas oxidadas estão em mau estado.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Barras de ferro grossas. Ainda forte, embora em deterioração com a ferrugem.",
+    "path": "/description"
+  }
+]

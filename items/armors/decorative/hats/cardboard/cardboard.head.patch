@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Porque quem quer gastar dinheiro com um chapéu chique?"}, {"op": "replace", "path": "/shortdescription", "value": "Cardboard Hat"}]
+[
+  {
+    "op": "replace",
+    "value": "Porque quem quer gastar dinheiro com um chapéu chique?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cardboard Hat",
+    "path": "/shortdescription"
+  }
+]

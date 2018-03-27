@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Parece que os Floran aprenderam a aproveitar a natureza para crescer as coisas que eles exigem."}, {"op": "replace", "path": "/description", "value": "Um baú feito de vinhas, não é realmente seguro."}, {"op": "replace", "path": "/shortdescription", "value": "Vine Chest"}, {"op": "replace", "path": "/floranDescription", "value": "Crescer baú do sssolo."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Parece que esta planta foi cultivada com o propósito expresso de ser um baú."}, {"op": "replace", "path": "/apexDescription", "value": "O próprio baú parece ser orgânico."}, {"op": "replace", "path": "/humanDescription", "value": "Este baú foi plantado?"}, {"op": "replace", "path": "/avianDescription", "value": "Esse baú foi construído, ou plantado?"}, {"op": "replace", "path": "/novakidDescription", "value": "Parece que este baú cresceu direito do chão!"}]
+[
+  {
+    "op": "replace",
+    "value": "Impressionado. Parece que esta planta foi cultivada com o propósito expresso de ser um baú.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que os Floran aprenderam a aproveitar a natureza para crescer as coisas que eles exigem.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O próprio baú parece ser orgânico.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse baú foi construído ou plantado?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú feito de vinhas, não é realmente seguro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Crescer baú do sssolo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que este baú cresceu direito do chão!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vine Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este baú foi plantado?",
+    "path": "/humanDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um piano resplandecente. Bom para a realização de canções mais otimistas!"}, {"op": "replace", "path": "/shortdescription", "value": "Bright Piano"}]
+[
+  {
+    "op": "replace",
+    "value": "Um piano resplandecente. Bom para a realização de canções mais otimistas!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bright Piano",
+    "path": "/shortdescription"
+  }
+]

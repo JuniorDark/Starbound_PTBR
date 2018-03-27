@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "É uma estatueta de um Glitch nobre."}, {"op": "replace", "path": "/shortdescription", "value": "Glitch Statuette"}, {"op": "replace", "path": "/floranDescription", "value": "É brinquedo?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Um pouco bruta em artesanato, mas charmoso em sua própria maneira."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta pequena estatueta com certeza parece chique."}, {"op": "replace", "path": "/apexDescription", "value": "Não tenho certeza sobre por que alguém faria isso."}, {"op": "replace", "path": "/humanDescription", "value": "Uma estatueta encantadora, completa com uma pequena capa de veludo verde!"}, {"op": "replace", "path": "/avianDescription", "value": "Uma pequena figura encantadora."}, {"op": "replace", "path": "/glitchDescription", "value": "Divertido. Uma interpretação perfeita do vestuário nobre Glitch."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pequena figura encantadora.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estatueta encantadora, completa com uma pequena capa de veludo verde!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pouco bruta em artesanato, mas charmoso em sua própria maneira.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Divertido. Uma interpretação perfeita do vestuário nobre Glitch.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Glitch Statuette",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não tenho certeza sobre por que alguém faria isso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É brinquedo?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma estatueta de um Glitch nobre.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta pequena estatueta com certeza parece chique.",
+    "path": "/novakidDescription"
+  }
+]

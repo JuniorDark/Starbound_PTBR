@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran dorme e come lençóiss no café-da-manhã."}, {"op": "replace", "path": "/shortdescription", "value": "Flesh Bed"}, {"op": "replace", "path": "/glitchDescription", "value": "Reflexivo. Isso não é pior para um Glitch do que uma cama feita de aço."}, {"op": "replace", "path": "/apexDescription", "value": "Um horror digno da Miniknog."}, {"op": "replace", "path": "/humanDescription", "value": "Que diabos?"}, {"op": "replace", "path": "/avianDescription", "value": "Por quê?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Nenhum grau de meditação poderia me preparar para uma noite nesta cama."}, {"op": "replace", "path": "/description", "value": "Uma cama feita de carne fresca."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta cama tem o seu próprio pulso."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cama feita de carne fresca.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um horror digno da Miniknog.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Flesh Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran dorme e come lençóiss no café-da-manhã.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nenhum grau de meditação poderia me preparar para uma noite nesta cama.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Reflexivo. Isso não é pior para um Glitch do que uma cama feita de aço.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama tem o seu próprio pulso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que diabos?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Por quê?",
+    "path": "/avianDescription"
+  }
+]

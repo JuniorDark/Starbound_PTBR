@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "A fruta Coralcreep parece uma criatura do mar."}, {"op": "replace", "path": "/shortdescription", "value": "Coralcreep Seed"}, {"op": "replace", "path": "/apexDescription", "value": "Coralcreep, na verdade uma fruta apesar das aparências."}, {"op": "replace", "path": "/humanDescription", "value": "Uma fruta que parece e tem gosto de lagosta."}, {"op": "replace", "path": "/avianDescription", "value": "O sabor de frutos do mar em uma fruta. Assustadora, de fato."}, {"op": "replace", "path": "/hylotlDescription", "value": "Coralcreep delicioso. Uma verdadeira delicadeza. Todos devem experimentar."}, {"op": "replace", "path": "/floranDescription", "value": "Uma planta disssfarçada como uma criatura. Inteligente."}, {"op": "replace", "path": "/glitchDescription", "value": "Cético. Parece uma criatura do mar, como é possível que se trata de uma fruta?"}, {"op": "replace", "path": "/novakidDescription", "value": "O verdadeiro fruto do mar."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma fruta que parece e tem gosto de lagosta.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta disssfarçada como uma criatura. Inteligente.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Coralcreep Seed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Coralcreep, na verdade uma fruta apesar das aparências.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Coralcreep delicioso. Uma verdadeira delicadeza. Todos devem experimentar.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cético. Parece uma criatura do mar, como é possível que se trata de uma fruta?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A fruta Coralcreep parece uma criatura do mar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "O verdadeiro fruto do mar.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O sabor de frutos do mar em uma fruta. Assustadora, de fato.",
+    "path": "/avianDescription"
+  }
+]

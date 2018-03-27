@@ -1,22 +1,22 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um trecho do diário de Hiraki Corale, Hylotl Aventureiro."
+    "value": "Um trecho do diário de Hiraki Corale, Hylotl Aventureiro.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "A Resistência"
+    "value": "Eu nunca vi os Apex ficarem tão animados. Um deles estava tão ansioso que ele tentou arrancar de mim, e tivemos um pequeno acidente envolvendo uma RPG e a frente do QG.",
+    "path": "/contentPages/1"
   },
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "por Hiraki Corale, Hylotl Aventureiro\n\nAcabou que os companheiros de resistência Apex são bem legais! Eles me deram um quarto próprio, e até mesmo trancaram a porta no caso da tempestade Miniknog me colocar em perigo. Tão atencioso!\n\nMais cedo, peguei meu lança foguetes para mostrar a eles o tipo de armamento que eles devem considerar, e isso causou um grande tumulto!"
+    "value": "A Resistência",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/contentPages/1",
-    "value": "Eu nunca vi os Apex ficarem tão animados. Um deles estava tão ansioso que ele tentou arrancar de mim, e tivemos um pequeno acidente envolvendo uma RPG e a frente do QG."
+    "value": "por Hiraki Corale, Hylotl Aventureiro\n\nAcabou que os companheiros de resistência Apex são bem legais! Eles me deram um quarto próprio, e até mesmo trancaram a porta no caso da tempestade Miniknog me colocar em perigo. Tão atencioso!\n\nMais cedo, peguei meu lança foguetes para mostrar a eles o tipo de armamento que eles devem considerar, e isso causou um grande tumulto!",
+    "path": "/contentPages/0"
   }
 ]

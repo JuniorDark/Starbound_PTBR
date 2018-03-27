@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Contente. A lanterna contém óleo."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma linda lanterna de óleo."}, {"op": "replace", "path": "/avianDescription", "value": "Combustível mantém a chama acesa."}, {"op": "replace", "path": "/hylotlDescription", "value": "O combustível nessa lanterna não queimaria debaixo do mar."}, {"op": "replace", "path": "/shortdescription", "value": "Oil Lantern"}, {"op": "replace", "path": "/floranDescription", "value": "Chama come líquido dentro."}, {"op": "replace", "path": "/apexDescription", "value": "Uma lanterna queimando óleo como combustível."}, {"op": "replace", "path": "/humanDescription", "value": "Uma linda lanterna de óleo."}, {"op": "replace", "path": "/description", "value": "Uma linda lanterna de óleo."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma linda lanterna de óleo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lanterna queimando óleo como combustível.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma linda lanterna de óleo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma linda lanterna de óleo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Contente. A lanterna contém óleo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Combustível mantém a chama acesa.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Oil Lantern",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Chama come líquido dentro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O combustível nessa lanterna não queimaria debaixo do mar.",
+    "path": "/hylotlDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Avesmingo, a planta de 100 sabores diferentes."}, {"op": "replace", "path": "/shortdescription", "value": "Avesmingo"}]
+[
+  {
+    "op": "replace",
+    "value": "Avesmingo, a planta de 100 sabores diferentes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Avesmingo",
+    "path": "/shortdescription"
+  }
+]

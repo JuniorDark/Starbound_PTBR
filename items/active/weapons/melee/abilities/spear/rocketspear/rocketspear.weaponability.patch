@@ -1,7 +1,7 @@
 [
   {
     "op": "replace",
-    "path": "/ability/name",
-    "value": "Lança Foguete"
+    "value": "Lança Foguete",
+    "path": "/ability/name"
   }
 ]

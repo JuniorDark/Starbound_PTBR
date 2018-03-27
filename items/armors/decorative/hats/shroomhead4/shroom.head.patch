@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Agaran Gilled Hat"}, {"op": "replace", "path": "/description", "value": "Parece um Agaran com este chapéu de cogumelo!"}]
+[
+  {
+    "op": "replace",
+    "value": "Agaran Gilled Hat",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pareça como um Agaran com este chapéu de cogumelo!",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Muitos foram enganados por este rosquinhas desagradáveis de aparência tentadora."}, {"op": "replace", "path": "/shortdescription", "value": "Wartweed Jam Donut"}]
+[
+  {
+    "op": "replace",
+    "value": "Muitos foram enganados por este rosquinhas desagradáveis de aparência tentadora.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Wartweed Jam Donut",
+    "path": "/shortdescription"
+  }
+]

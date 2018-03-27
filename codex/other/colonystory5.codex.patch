@@ -1,17 +1,17 @@
 [
   {
     "op": "replace",
-    "path": "/title",
-    "value": "Como Me Tornei Um Senhorio 5"
+    "value": "Como Me Tornei Um Senhorio 5",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "Uma lição que aprendi como um senhorio: não dê um bongô a um Floran! Eles vão tocá-los dia e noite, e se você tentar tirar deles quando estão dormindo definitivamente saberão que foi você. n\n\nAmbiri não é tão ruim de ter por perto, porém, você não pode culpar seu artesanato com plantas. Embora, eu esperava mais do que pomadas como renda quando entrei no acordo."
+    "value": "Uma lição que aprendi como um senhorio: não dê um bongô a um Floran! Eles vão tocá-los dia e noite, e se você tentar tirar deles quando estão dormindo definitivamente saberão que foi você. n\n\nAmbiri não é tão ruim de ter por perto, porém, você não pode culpar seu artesanato com plantas. Embora, eu esperava mais do que pomadas como renda quando entrei no acordo.",
+    "path": "/contentPages/0"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "O diário de um explorador que se tornou um senhorio."
+    "value": "O diário de um explorador que se tornou um senhorio.",
+    "path": "/description"
   }
 ]

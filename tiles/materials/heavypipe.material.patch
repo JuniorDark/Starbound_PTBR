@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Alguns tubos antigos sujos."}, {"op": "replace", "path": "/floranDescription", "value": "Tubulação de esgoto malcheirosa."}, {"op": "replace", "path": "/shortdescription", "value": "Heavy Pipe"}, {"op": "replace", "path": "/description", "value": "Um cano pesado, comumente usado em sistemas de resíduos."}, {"op": "replace", "path": "/glitchDescription", "value": "Com nojo. Eu odiaria ver o lixo que foi passado através deste tubo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um cano pesado, comumente usado em sistemas de resíduos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Com nojo. Eu odiaria ver o lixo que foi passado através deste tubo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Heavy Pipe",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns tubos antigos sujos.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tubulação de esgoto malcheirosa.",
+    "path": "/floranDescription"
+  }
+]

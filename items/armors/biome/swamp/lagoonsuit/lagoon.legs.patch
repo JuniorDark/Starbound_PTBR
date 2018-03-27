@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Estas calças cobertas de escamas têm garras para os pés."}, {"op": "replace", "path": "/shortdescription", "value": "Lagoon Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Lagoon Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas calças cobertas de escamas têm garras para os pés.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Armoured Cultist Chest"}, {"op": "replace", "path": "/description", "value": "Uma couraça de cultista, reforçada com metal feito para parecer como tentáculos."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma couraça de cultista, reforçada com metal feito para parecer como tentáculos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Armoured Cultist Chest",
+    "path": "/shortdescription"
+  }
+]

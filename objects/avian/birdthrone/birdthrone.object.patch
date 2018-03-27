@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "O trono de um stargazer. Cada stargazer seria atribuído um templo para proteger."}, {"op": "replace", "path": "/glitchDescription", "value": "Agradável. Senhores Glitch também sentam em tronos."}, {"op": "replace", "path": "/apexDescription", "value": "Um trono coberto em gravuras. É um espetáculo."}, {"op": "replace", "path": "/humanDescription", "value": "Um trono de pedra."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este trono parece desconfortável. Ele também parece pouco usado, talvez apenas uma demonstração de poder."}, {"op": "replace", "path": "/floranDescription", "value": "Trono de homem-pássaro se faz um bom troféu Floran."}, {"op": "replace", "path": "/description", "value": "Um trono magistralmente trabalhado, feito para o próprio Kluex."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta cadeira é feita de pedra, parece muito desconfortável."}, {"op": "replace", "path": "/shortdescription", "value": "Avian Throne"}]
+[
+  {
+    "op": "replace",
+    "value": "Um trono magistralmente trabalhado, feito para o próprio Kluex.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "O trono de um stargazer. Cada stargazer seria atribuído um templo para proteger.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um trono de pedra.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um trono coberto em gravuras. É um espetáculo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Agradável. Senhores Glitch também sentam em tronos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avian Throne",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Trono de homem-pássaro se faz um bom troféu Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cadeira é feita de pedra, parece muito desconfortável.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este trono parece desconfortável. Ele também parece pouco usado, talvez apenas uma demonstração de poder.",
+    "path": "/hylotlDescription"
+  }
+]

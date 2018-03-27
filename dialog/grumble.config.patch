@@ -1,1 +1,552 @@
-[{"op":"replace","path":"/tagCriteria/apex/default/1","value":"Pare de pegar as coisas... Você precisa consertar minha casa agora."},{"op":"replace","path":"/tagCriteria/apex/default/2","value":"Eu preciso que você coloque as coisas de volta onde você os pegou, por favor."},{"op":"replace","path":"/final/human/default/0","value":"Eu tive o suficiente disso!"},{"op":"replace","path":"/final/human/default/1","value":"É isso aí, eu desisto. Hora de partir!"},{"op":"replace","path":"/final/human/default/2","value":"Eu desisto, eu estou indo embora!"},{"op":"replace","path":"/final/floran/default/0","value":"É isso, Floran está sssaindo!"},{"op":"replace","path":"/final/floran/default/1","value":"Floran dessiste! Floran não pode viver assim!"},{"op":"replace","path":"/final/novakid/default/1","value":"Prefiro dormir em um cacto do que ficar aqui mais uma noite."},{"op":"replace","path":"/final/novakid/default/2","value":"Este lugar é uma bagunça! Hora de eu sair."},{"op":"replace","path":"/final/glitch/default/0","value":"Sobrecarregado. Isto está além de mim. Eu estou me retirando."},{"op":"replace","path":"/final/glitch/default/1","value":"Indignado. Eu mereço uma casa melhor do que essa."},{"op":"replace","path":"/final/glitch/default/2","value":"Chateado. Eu não queria fazer isso, mas eu não posso ficar aqui por mais tempo."},{"op":"replace","path":"/final/floran/default/2","value":"Floran esstá indo, Floran não vive mais aqui!"},{"op":"replace","path":"/final/novakid/default/0","value":"Eu estaria melhor deitado encima de um ninho de bichos que estão por aqui."},{"op":"replace","path":"/final/hylotl/default/1","value":"Eu perdi todo o respeito por você. Espero que um dia você veja o erro que você cometeu."},{"op":"replace","path":"/otherDeed/default/default/0","value":"Eu pensei que este lugar era pra mim!"},{"op":"replace","path":"/final/avian/default/2","value":"Eu tento ser respeitoso com os outros, é uma pena que você não faça o mesmo esforço."},{"op":"replace","path":"/final/hylotl/default/0","value":"Não posso tolerar isso por mais tempo. Vou embora."},{"op":"replace","path":"/otherDeed/novakid/default/1","value":"Este antigo refúgio não é para compartilhar. Melhor guardar essa segunda escritura."},{"op":"replace","path":"/severe/novakid/default/1","value":"Bem este lugar é muito decepcionante... Você vai consertar ele ou o que?"},{"op":"replace","path":"/otherDeed/floran/default/2","value":"Floran não vai compartilhar casa! Tire essa ssegunda deed."},{"op":"replace","path":"/final/apex/default/0","value":"Me mudei para cá por uma vida melhor... Que decepção."},{"op":"replace","path":"/final/apex/default/1","value":"Eu mereço melhores condições de vida do que isso!"},{"op":"replace","path":"/otherDeed/novakid/default/2","value":"Esta é a minha casa Dagnabbit, eu não vou compartilhá-la com ninguém."},{"op":"replace","path":"/severe/avian/default/0","value":"Isto já foi longe demais, eu preciso que você conserte as coisas!"},{"op":"replace","path":"/otherDeed/avian/default/1","value":"Você colocou minha casa para alugar? isto deve ser um erro..."},{"op":"replace","path":"/otherDeed/human/default/2","value":"Por que você quer colocar outra deed aqui?!"},{"op":"replace","path":"/otherDeed/glitch/default/2","value":"Triste. Achei que esse local fosse minha própria casa, mas você quer que eu o compartilhe."},{"op":"replace","path":"/otherDeed/floran/default/0","value":"Floran precissa de todo este esspaço,  Floran não compartilha com algum esstranho aleatório."},{"op":"replace","path":"/otherDeed/hylotl/default/2","value":"Há uma outra deed em minha casa? Certamente um erro foi cometido?"},{"op":"replace","path":"/otherDeed/novakid/default/0","value":"Este aqui é a minha terra, não faz sentido colocar alguém aqui."},{"op":"replace","path":"/otherDeed/hylotl/default/1","value":"Passivo ou não, eu não posso ficar parado com você abrigando um segundo inquilino em minha casa."},{"op":"replace","path":"/otherDeed/glitch/default/1","value":"Confuso. Mas esta é a minha casa, eu não posso compartilhá-la..."},{"op":"replace","path":"/severe/default/default/0","value":"Eu não posso viver nestas condições!"},{"op":"replace","path":"/otherDeed/apex/default/2","value":"Não é ok para fazer isso. Eu não vou compartilhar a minha casa."},{"op":"replace","path":"/otherDeed/glitch/default/0","value":"Chocado. Você está tentando colocar um estranho na minha casa?"},{"op":"replace","path":"/otherDeed/floran/default/1","value":"Se você colocar maisss pessoas aqui, Floran vai comê-lass."},{"op":"replace","path":"/otherDeed/avian/default/2","value":"Há uma outra deed em minha casa - Certamente isso não é intencional."},{"op":"replace","path":"/otherDeed/hylotl/default/0","value":"Eu não quero dividir a minha casa com um estranho."},{"op":"replace","path":"/otherDeed/human/default/1","value":"Você está tentando colocar alguém por aqui?!"},{"op":"replace","path":"/severe/floran/default/2","value":"Você ainda não arrumou as coisas na casa de Floran!"},{"op":"replace","path":"/otherDeed/human/default/0","value":"Essa é a única locação!? Não consigo compartilhar minha casa!"},{"op":"replace","path":"/otherDeed/apex/default/0","value":"Porque tem outra deed aqui? O que você está tentando fazer?"},{"op":"replace","path":"/severe/novakid/default/2","value":"Esta barraco não é o que costumava ser. É melhor fazer isso direito."},{"op":"replace","path":"/severe/human/default/0","value":"Eu não posso viver nestas condições!"},{"op":"replace","path":"/tagCriteria/apex/default/0","value":"Estas mudanças são inquietantes, por favor, coloque minhas coisas de volta."},{"op":"replace","path":"/severe/human/default/2","value":"É impossível viver assim!"},{"op":"replace","path":"/severe/glitch/default/2","value":"Infeliz. Os consertos para a minha casa não foram feitas"},{"op":"replace","path":"/severe/floran/default/0","value":"Floran não pode viver dessse jeito!"},{"op":"replace","path":"/severe/avian/default/2","value":"Minha paciência está começando a se esgotar. Conserte a minha casa."},{"op":"replace","path":"/severe/novakid/default/0","value":"Parece-me que você deve consertar esse cabana antes que eu saia."},{"op":"replace","path":"/severe/avian/default/1","value":"Eu não posso aguentar isso por muito tempo - olhe para o estado da minha casa"},{"op":"replace","path":"/severe/glitch/default/1","value":"Frustrado. Eu desejo que meus pedidos fossem escutados."},{"op":"replace","path":"/final/apex/default/2","value":"É isso aí. Eu preciso sair Você é um terrível proprietário."},{"op":"replace","path":"/severe/human/default/1","value":"Viver aqui é muito terrível agora..."},{"op":"replace","path":"/final/avian/default/1","value":"É isso aí. Estou indo embora. Eu não suporto viver mais aqui."},{"op":"replace","path":"/severe/glitch/default/0","value":"Agravado. Eu preciso que você conserte minha casa."},{"op":"replace","path":"/severe/floran/default/1","value":"Floran está com raiva, arrume a casa de Floran."},{"op":"replace","path":"/otherDeed/avian/default/0","value":"Por que alguem esta tentando se mudar para minha casa?"},{"op":"replace","path":"/severe/hylotl/default/2","value":"Isto é simplesmente uma desgraça, exijo que você conserte a minha casa."},{"op":"replace","path":"/enclosedArea/default/default/0","value":"A minha casa poderia ter alguns reparos!"},{"op":"replace","path":"/tagCriteria/novakid/default/1","value":"Este velho lugar não parece certo agora. Você esteve mexendo por aqui."},{"op":"replace","path":"/enclosedArea/floran/default/2","value":"Floran gosssta de paredes sem buracos. Pode consertar a casa de Floran?"},{"op":"replace","path":"/severe/apex/default/1","value":"Não posso lidar com seu desinteresse por muito mais tempo..."},{"op":"replace","path":"/severe/apex/default/2","value":"É loucura ignorar um Apex zangado. Sugiro que conserte a minha casa."},{"op":"replace","path":"/enclosedArea/novakid/default/2","value":"Parece que você colocou um capricoat louco solto aqui! Você vai consertar estas paredes?"},{"op":"replace","path":"/tagCriteria/avian/default/0","value":"Hum, não é isso que minha casa era antes..."},{"op":"replace","path":"/enclosedArea/avian/default/1","value":"Eu agradeceria se você consertasse os danos à minha casa."},{"op":"replace","path":"/enclosedArea/human/default/2","value":"Preciso de alguns reparos feitos!"},{"op":"replace","path":"/enclosedArea/glitch/default/2","value":"Esperançoso. Você pode consertar a minha casa? Estou seguro que é possivel."},{"op":"replace","path":"/enclosedArea/floran/default/0","value":"Por favor conserte as paredess de Floran."},{"op":"replace","path":"/enclosedArea/hylotl/default/2","value":"Notei uma parede danificada aqui , talvez você possa ajudar com os reparos ?"},{"op":"replace","path":"/enclosedArea/novakid/default/0","value":"Não sou o único sentindo uma brisa aqui, né?"},{"op":"replace","path":"/enclosedArea/hylotl/default/1","value":"Eu ficaria incrivelmente grato se você pudesse consertar minhas paredes."},{"op":"replace","path":"/severe/hylotl/default/1","value":"Estas condições são deploráveis, e seu comportamento é repreensível."},{"op":"replace","path":"/enclosedArea/glitch/default/1","value":"Preocupado. São necessários reparos aqui."},{"op":"replace","path":"/tagCriteria/default/default/0","value":"Algo em meu lugar mudou, eu não gosto disso!"},{"op":"replace","path":"/enclosedArea/apex/default/1","value":"Eu preciso que você conserte minhas paredes antes que o telhado caia em cima de nós."},{"op":"replace","path":"/enclosedArea/apex/default/2","value":"Por favor conserte essas paredes, a casa não e boa para mim assim."},{"op":"replace","path":"/enclosedArea/glitch/default/0","value":"Desesperado. A minha pobre casa - as paredes estão danificadas. Você poderia concertar as coisas?"},{"op":"replace","path":"/enclosedArea/floran/default/1","value":"Casa de Floran esta quebrada. Você pode concertar isso?"},{"op":"replace","path":"/enclosedArea/avian/default/2","value":"Hmm, este dano não e bom. Você pode consertar isso?"},{"op":"replace","path":"/enclosedArea/human/default/1","value":"Você poderia reparar o dano aqui?"},{"op":"replace","path":"/tagCriteria/floran/default/2","value":"Casssa do Floran era ótima antesss. Torne ela correta novamente!"},{"op":"replace","path":"/enclosedArea/human/default/0","value":"A minha casa precisa de alguns reparos..."},{"op":"replace","path":"/enclosedArea/apex/default/0","value":"Tem um buraco na minha casa..."},{"op":"replace","path":"/tagCriteria/novakid/default/2","value":"Não é certo roubar de uma pessoa. Agora, você só deve devolver o que você pegou."},{"op":"replace","path":"/tagCriteria/human/default/0","value":"As coisas mudaram... Ou você bagunçou as coisas, ou eu estou sendo assombrado."},{"op":"replace","path":"/tagCriteria/human/default/2","value":"Alguma coisa mudou aqui? Isso parece estar fora de lugar..."},{"op":"replace","path":"/tagCriteria/glitch/default/2","value":"Ansioso. Eu gostaria que minha casa fosse como costumava ser."},{"op":"replace","path":"/tagCriteria/floran/default/0","value":"Pare de tirar minhasss coissass boasss."},{"op":"replace","path":"/tagCriteria/hylotl/default/2","value":"Há algo inquietante no layout atual da minha casa..."},{"op":"replace","path":"/tagCriteria/novakid/default/0","value":"Algo está acontecendo por aqui..."},{"op":"replace","path":"/tagCriteria/hylotl/default/1","value":"Por favor, devolva o que você pegou."},{"op":"replace","path":"/enclosedArea/avian/default/0","value":"Você se incomodaria de concertar as minhas paredes?"},{"op":"replace","path":"/tagCriteria/glitch/default/1","value":"Descontentamento. Eu não gosto dessas mudanças, coloque as coisas como elas eram."},{"op":"replace","path":"/tagCriteria/avian/default/1","value":"Eu não gosto disso, você poderia por as coisas de volta como elas eram?"},{"op":"replace","path":"/enclosedArea/novakid/default/1","value":"Este lugar tem mais buracos do que um xerife em um tiroteio."},{"op":"replace","path":"/tagCriteria/glitch/default/0","value":"Confuso. Minha casa é diferente."},{"op":"replace","path":"/tagCriteria/floran/default/1","value":"Deixe a cassa de Floran como ela era."},{"op":"replace","path":"/tagCriteria/avian/default/2","value":"Por favor ponha minhas coisas devolta onde estavam."},{"op":"replace","path":"/tagCriteria/hylotl/default/0","value":"Alguma coisa está desequilibrada no fluxo da minha casa..."},{"op":"replace","path":"/tagCriteria/human/default/1","value":"O arranjo da minha casa mudou , isso não é bom..."},{"op":"replace","path":"/severe/hylotl/default/0","value":"Meus pedidos são deixados sem resposta, minhas súplicas caem em ouvidos surdos... Vergonhoso."},{"op":"replace","path":"/final/avian/default/0","value":"Já é suficiente. Eu mereço uma casa adequada."},{"op":"replace","path":"/final/default/default/0","value":"Eu tive o suficiente disso!"},{"op":"replace","path":"/final/hylotl/default/2","value":"Estes ambientes são prejudiciais para o meu próprio ser. Eu preciso sair."},{"op":"replace","path":"/otherDeed/apex/default/1","value":"Esta é a minha casa. Eu alugá-lo de você. Você não pode mover alguém nela."},{"op":"replace","path":"/severe/apex/default/0","value":"Olhe para este lugar! Conserte a minha casa, ou eu vou embora."},{"op":"replace","path":"/enclosedArea/hylotl/default/0","value":"Minha casa esta aberta aos elementos, eu ficaria grato se você consertasse os danos."}]
+[
+  {
+    "op": "replace",
+    "value": "Estou farto disso!",
+    "path": "/final/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Estou farto disso!",
+    "path": "/final/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "É isso aí, eu desisto. Hora de partir!",
+    "path": "/final/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Agravado. Eu preciso que você conserte minha casa.",
+    "path": "/severe/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você poderia reparar o dano aqui?",
+    "path": "/enclosedArea/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. São necessários reparos aqui.",
+    "path": "/enclosedArea/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Mas esta é a minha casa, eu não posso compartilhá-la...",
+    "path": "/otherDeed/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Minha casa é diferente.",
+    "path": "/tagCriteria/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Desesperado. A minha pobre casa - as paredes estão danificadas. Você poderia concertar as coisas?",
+    "path": "/enclosedArea/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você colocou minha casa para alugar? isto deve ser um erro...",
+    "path": "/otherDeed/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Descontentamento. Eu não gosto dessas mudanças, coloque as coisas como elas eram.",
+    "path": "/tagCriteria/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Já é suficiente. Eu mereço uma casa adequada.",
+    "path": "/final/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não pode viver dessse jeito!",
+    "path": "/severe/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran dessiste! Floran não pode viver assim!",
+    "path": "/final/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran está com raiva, arrume a casa de Floran.",
+    "path": "/severe/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran esstá indo, Floran não vive mais aqui!",
+    "path": "/final/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosssta de paredes sem buracos. Pode consertar a casa de Floran?",
+    "path": "/enclosedArea/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Casa de Floran esta quebrada. Você pode concertar isso?",
+    "path": "/enclosedArea/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Casssa do Floran era ótima antesss. Torne ela correta novamente!",
+    "path": "/tagCriteria/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não vai compartilhar casa! Tire essa ssegunda deed.",
+    "path": "/otherDeed/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Alguma coisa mudou aqui? Isso parece estar fora de lugar...",
+    "path": "/tagCriteria/human/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Hmm, este dano não e bom. Você pode consertar isso?",
+    "path": "/enclosedArea/avian/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Esperançoso. Você pode consertar a minha casa? Estou seguro que é possivel.",
+    "path": "/enclosedArea/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Não posso tolerar isso por mais tempo. Vou embora.",
+    "path": "/final/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não posso viver nestas condições!",
+    "path": "/severe/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não posso viver nestas condições!",
+    "path": "/severe/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não posso aguentar isso por muito tempo - olhe para o estado da minha casa",
+    "path": "/severe/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu mereço melhores condições de vida do que isso!",
+    "path": "/final/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não quero dividir a minha casa com um estranho.",
+    "path": "/otherDeed/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu desisto, eu estou indo embora!",
+    "path": "/final/human/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Preciso de alguns reparos feitos!",
+    "path": "/enclosedArea/human/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Essa é a única locação!? Não consigo compartilhar minha casa!",
+    "path": "/otherDeed/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu estaria melhor deitado encima de um ninho de bichos que estão por aqui.",
+    "path": "/final/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Prefiro dormir em um cacto do que ficar aqui mais uma noite.",
+    "path": "/final/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu agradeceria se você consertasse os danos à minha casa.",
+    "path": "/enclosedArea/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Não é certo roubar de uma pessoa. Agora, você só deve devolver o que você pegou.",
+    "path": "/tagCriteria/novakid/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "É loucura ignorar um Apex zangado. Sugiro que conserte a minha casa.",
+    "path": "/severe/apex/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Não é ok para fazer isso. Eu não vou compartilhar a minha casa.",
+    "path": "/otherDeed/apex/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "É impossível viver assim!",
+    "path": "/severe/human/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Viver aqui é muito terrível agora...",
+    "path": "/severe/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Olhe para este lugar! Conserte a minha casa, ou eu vou embora.",
+    "path": "/severe/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que você colocou um capricoat louco solto aqui! Você vai consertar estas paredes?",
+    "path": "/enclosedArea/novakid/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "A minha casa precisa de alguns reparos...",
+    "path": "/enclosedArea/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Minha casa esta aberta aos elementos, eu ficaria grato se você consertasse os danos.",
+    "path": "/enclosedArea/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Minha paciência está começando a se esgotar. Conserte a minha casa.",
+    "path": "/severe/avian/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Indignado. Eu mereço uma casa melhor do que essa.",
+    "path": "/final/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Passivo ou não, eu não posso ficar parado com você abrigando um segundo inquilino em minha casa.",
+    "path": "/otherDeed/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Por favor conserte essas paredes, a casa não e boa para mim assim.",
+    "path": "/enclosedArea/apex/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Por favor, devolva o que você pegou.",
+    "path": "/tagCriteria/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Deixe a cassa de Floran como ela era.",
+    "path": "/tagCriteria/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Triste. Achei que esse local fosse minha própria casa, mas você quer que eu o compartilhe.",
+    "path": "/otherDeed/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Chocado. Você está tentando colocar um estranho na minha casa?",
+    "path": "/otherDeed/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Alguma coisa está desequilibrada no fluxo da minha casa...",
+    "path": "/tagCriteria/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Pare de tirar minhasss coissass boasss.",
+    "path": "/tagCriteria/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Pare de pegar as coisas... Você precisa consertar minha casa agora.",
+    "path": "/tagCriteria/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "É isso aí. Estou indo embora. Eu não suporto viver mais aqui.",
+    "path": "/final/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "O arranjo da minha casa mudou , isso não é bom...",
+    "path": "/tagCriteria/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Tem um buraco na minha casa...",
+    "path": "/enclosedArea/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Há uma outra deed em minha casa? Certamente um erro foi cometido?",
+    "path": "/otherDeed/hylotl/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Há algo inquietante no layout atual da minha casa...",
+    "path": "/tagCriteria/hylotl/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Há uma outra deed em minha casa - Certamente isso não é intencional.",
+    "path": "/otherDeed/avian/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Estas mudanças são inquietantes, por favor, coloque minhas coisas de volta.",
+    "path": "/tagCriteria/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "As coisas mudaram... Ou você bagunçou as coisas, ou eu estou sendo assombrado.",
+    "path": "/tagCriteria/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este aqui é a minha terra, não faz sentido colocar alguém aqui.",
+    "path": "/otherDeed/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é a minha casa. Eu alugá-lo de você. Você não pode mover alguém nela.",
+    "path": "/otherDeed/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é a minha casa Dagnabbit, eu não vou compartilhá-la com ninguém.",
+    "path": "/otherDeed/novakid/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Isto é simplesmente uma desgraça, exijo que você conserte a minha casa.",
+    "path": "/severe/hylotl/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Este velho lugar não parece certo agora. Você esteve mexendo por aqui.",
+    "path": "/tagCriteria/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Esta barraco não é o que costumava ser. É melhor fazer isso direito.",
+    "path": "/severe/novakid/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Hum, não é isso que minha casa era antes...",
+    "path": "/tagCriteria/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Infeliz. Os consertos para a minha casa não foram feitas",
+    "path": "/severe/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Por que alguem esta tentando se mudar para minha casa?",
+    "path": "/otherDeed/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. Eu gostaria que minha casa fosse como costumava ser.",
+    "path": "/tagCriteria/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você ainda não arrumou as coisas na casa de Floran!",
+    "path": "/severe/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você está tentando mover mais alguém pra cá?",
+    "path": "/otherDeed/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Céus! esse lugar está uma bagunça! Hora de eu sair.",
+    "path": "/final/novakid/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Floran precisa de todo esse espaço, e não vai dividir com com essstranho aleatório.",
+    "path": "/otherDeed/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Frustrado. Eu queria que meus pedidos fossem escutados.",
+    "path": "/severe/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não posso lidar com sua indiferença por mais tempo...",
+    "path": "/severe/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não gosto disso, você pode colocar as coisas de volta como estavam?",
+    "path": "/tagCriteria/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Me mudei para cá por uma vida melhor... Que decepção.",
+    "path": "/final/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu preciso que você remende as paredes antes que o telhado caia sobre nós.",
+    "path": "/enclosedArea/apex/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu preciso que você coloque as coisas de volta onde você pegou por favor.",
+    "path": "/tagCriteria/apex/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Notei uma parede danificada aqui, talvez você possa ajudar com os reparos?",
+    "path": "/enclosedArea/hylotl/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu pensei que este lugar era meu!",
+    "path": "/otherDeed/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu tento ser respeitoso com os outros, é uma vergonha você não tentar fazer o mesmo.",
+    "path": "/final/avian/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu seria incrivelmente grato se você pudesse remendar minhas paredes.",
+    "path": "/enclosedArea/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não sou o único sentindo uma brisa aqui, sou?",
+    "path": "/enclosedArea/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu perdi todo respeito por você. Espero que algum dia você veja o erro dos seus caminhos.",
+    "path": "/final/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Se você trazer mais alguém, Floran vai comê-lo.",
+    "path": "/otherDeed/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Minha casa poderia ter uma reforma!",
+    "path": "/enclosedArea/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Meus pedidos foram deixados sem resposta, minhas súplicas caem em ouvidos surdos... Vergonhoso.",
+    "path": "/severe/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Sobrecarregado. Isto está alem de mim. Vou me retirar.",
+    "path": "/final/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Por favor consserte as paredesss de Floran.",
+    "path": "/enclosedArea/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Por favor, coloque minhas coisas de volta onde elas estavam.",
+    "path": "/tagCriteria/avian/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Me parece que você pode querer consertar essa cabana antes de sair.",
+    "path": "/severe/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Algo está acontecendo por aqui...",
+    "path": "/tagCriteria/novakid/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Algo mudou, eu não gosto disso!",
+    "path": "/tagCriteria/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "É isso, eu tenho que sair, você é um barão terrível.",
+    "path": "/final/apex/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "É issso aí, Floran está de partida!",
+    "path": "/final/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Essas condições são deploráveis, e seu comportamento repreensível.",
+    "path": "/severe/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Esses arredores são prejudiciais para o meu próprio ser. Eu preciso sair daqui.",
+    "path": "/final/hylotl/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Isso foi longe demais, eu preciso que você conserte as coisas!",
+    "path": "/severe/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Essa véia toca num é pra dividir. Melhor tirar o segundo Deed.",
+    "path": "/otherDeed/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este lugar tem mais buracos do que um xerife em um tiroteio.",
+    "path": "/enclosedArea/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Chateado. Eu não queria chegar à isso, mas eu não posso mais ficar aqui.",
+    "path": "/final/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Bem este lugar é muito decepcionante... Você vai consertar ele ou o que?",
+    "path": "/severe/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Por que você colocou outra deed aqui?!",
+    "path": "/otherDeed/human/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Por que tem uma outra Deed aqui? o que você está tentando fazer.",
+    "path": "/otherDeed/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Se importa em consertar minhas paredes?",
+    "path": "/enclosedArea/avian/default/0"
+  }
+]

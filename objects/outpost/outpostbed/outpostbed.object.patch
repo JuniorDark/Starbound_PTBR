@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma cama básica. Não muito confortável."}, {"op": "replace", "path": "/avianDescription", "value": "Esta cama parece bastante básica."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma cama básica."}, {"op": "replace", "path": "/apexDescription", "value": "Uma cama simples."}, {"op": "replace", "path": "/shortdescription", "value": "Basic Metal Bed"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de dormir!"}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Um lugar confortável para um cochilo."}, {"op": "replace", "path": "/humanDescription", "value": "Uma boa cama padrão."}, {"op": "replace", "path": "/novakidDescription", "value": "Bom um lugar como qualquer outro para tirar um cochilo."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cama básica. Não muito confortável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama básica.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma boa cama padrão.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama simples.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Basic Metal Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de dormir!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bom um lugar como qualquer outro para tirar um cochilo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Um lugar confortável para um cochilo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama parece bastante básica.",
+    "path": "/avianDescription"
+  }
+]

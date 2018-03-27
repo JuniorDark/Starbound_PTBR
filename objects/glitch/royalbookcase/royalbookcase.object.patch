@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma estante de monarcas... vamos descobrir o que a realeza lê."}, {"op": "replace", "path": "/shortdescription", "value": "Royal Bookcase"}, {"op": "replace", "path": "/apexDescription", "value": "Uma estante decorada com folhas de ouro."}, {"op": "replace", "path": "/floranDescription", "value": "Essstante brilhante. Isso guarda mais do que livross?"}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Muitos membros da realeza são capazes de ler e escrever."}, {"op": "replace", "path": "/humanDescription", "value": "Uma estante dourada. Talvez os reis sejam leitores ávidos."}, {"op": "replace", "path": "/avianDescription", "value": "Uma estante dourada. Os Avian acreditam que apenas Kluex seja digno de tal esplendor."}, {"op": "replace", "path": "/hylotlDescription", "value": "Que tipo de Rei se envolve com tais riquezas enquanto os camponeses anseiam por comida?"}, {"op": "replace", "path": "/novakidDescription", "value": "Certamente os reis não têm muito tempo para ler?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estante decorada com folhas de ouro.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estante dourada. Talvez os reis sejam leitores ávidos.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estante dourada. Os Avian acreditam que apenas Kluex seja digno de tal esplendor.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estante de monarcas... vamos descobrir o que a realeza lê.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Muitos membros da realeza são capazes de ler e escrever.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Royal Bookcase",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essstante brilhante. Isso guarda mais do que livross?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Certamente os reis não têm muito tempo para ler?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que tipo de Rei se envolve com tais riquezas enquanto os camponeses anseiam por comida?",
+    "path": "/hylotlDescription"
+  }
+]

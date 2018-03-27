@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Scavenger's Helmet"}, {"op": "replace", "path": "/description", "value": "O capacete do scavenger vem com visão aprimorada."}]
+[
+  {
+    "op": "replace",
+    "value": "Scavenger's Helmet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O capacete do scavenger vem com visão aprimorada.",
+    "path": "/description"
+  }
+]

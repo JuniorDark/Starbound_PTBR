@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Hesitante. Sabendo o efeito que Seiva seca tem sobre Florans, é tentador destruir isso."}, {"op": "replace", "path": "/description", "value": "Um dispensador de Seiva seca."}, {"op": "replace", "path": "/novakidDescription", "value": "Algum tipo de engenhoca de planta Floran."}, {"op": "replace", "path": "/shortdescription", "value": "Drysap Dispenser"}, {"op": "replace", "path": "/floranDescription", "value": "Ssseiva sseca. Greenfinger diz que isso entra ssseiva."}, {"op": "replace", "path": "/apexDescription", "value": "Ouvi falar sobre os perigos dessa Seiva seca."}, {"op": "replace", "path": "/humanDescription", "value": "É este o equivalente Floran a uma máquina de raspadinha?"}, {"op": "replace", "path": "/avianDescription", "value": "A Seiva seca Floran não é diferente de um tipo de piche que Avians usam em punição."}, {"op": "replace", "path": "/hylotlDescription", "value": "Florans injetam essa mistura suja em si mesmos. Desprezível."}]
+[
+  {
+    "op": "replace",
+    "value": "Um dispensador de Seiva seca.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Drysap Dispenser",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ssseiva sseca. Greenfinger diz que isso entra ssseiva.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Florans injetam essa mistura suja em si mesmos. Desprezível.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hesitante. Sabendo o efeito que Seiva seca tem sobre Florans, é tentador destruir isso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ouvi falar sobre os perigos dessa Seiva seca.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É este o equivalente Floran a uma máquina de raspadinha?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de engenhoca de planta Floran.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A Seiva seca Floran não é diferente de um tipo de piche que Avians usam em punição.",
+    "path": "/avianDescription"
+  }
+]

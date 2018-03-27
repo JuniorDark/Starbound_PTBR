@@ -22,6 +22,6 @@ Este mod é uma tradução para o jogo [Starbound](http://store.steampowered.com
  
 ### Agradecimentos Especiais:
 
-Flori, Administrador do [Starbound Translator](https://translator.vorlif.org) - Pela ferramenta Web de tradução.
+Flori, Administrador do [Starbound Translator](https://translator.vorlif.org) - Pela ferramenta de tradução inicial Web de tradução.
 
 [Kawa's Starbound JSON Lab](http://helmet.kafuka.org/sbmods/json/) - Pelas ferramentas de modding.

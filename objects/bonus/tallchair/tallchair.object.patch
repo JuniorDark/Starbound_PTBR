@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Que cadeira ridiculamente projetada."}, {"op": "replace", "path": "/avianDescription", "value": "Uma cadeira muito alta."}, {"op": "replace", "path": "/description", "value": "Uma cadeira ridiculamente alta"}, {"op": "replace", "path": "/shortdescription", "value": "Tall Chair"}, {"op": "replace", "path": "/floranDescription", "value": "Floran sobe na cadeira, cai. Sempre."}, {"op": "replace", "path": "/glitchDescription", "value": "Perplexo. Quem precisa de uma cadeira tão alta?"}, {"op": "replace", "path": "/humanDescription", "value": "Uma cadeira muito alta."}, {"op": "replace", "path": "/apexDescription", "value": "Uma cadeira excepcionalmente alta."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma cadeira super alta. Legal."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira ridiculamente alta",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira super alta. Legal.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira muito alta.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira muito alta.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira excepcionalmente alta.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran sobe na cadeira, cai. Sempre.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perplexo. Quem precisa de uma cadeira tão alta?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tall Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que cadeira ridiculamente projetada.",
+    "path": "/hylotlDescription"
+  }
+]

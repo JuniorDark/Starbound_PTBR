@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Um monte de alcatrão."}, {"op": "replace", "path": "/shortdescription", "value": "Um monte de alcatrão."}, {"op": "replace", "path": "/floranDescription", "value": "Alcatrão fedido."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Um monte de alcatrão."}]
+[
+  {
+    "op": "replace",
+    "value": "Um monte de alcatrão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um monte de alcatrão.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alcatrão fedido.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Um monte de alcatrão.",
+    "path": "/glitchDescription"
+  }
+]

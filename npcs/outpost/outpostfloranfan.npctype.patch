@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/floran/hylotl/0", "value": "Homem peixe não deve se preocupar com Floran. Floran tenta ser como um humano agora. Sem esssfaquear."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/default/0", "value": "Será que Floran fica bem em roupas humanas?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Será que Floran ficam bem em roupas humanas?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/floran/0", "value": "Floran se pergunta porque Floran novo veio. Será que Floran novo gosta de humanos também?"}]
+[
+  {
+    "op": "replace",
+    "value": "Será que Floran fica bem em roupas humanas?",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Será que Floran fica bem em roupas humanas?",
+    "path": "/scriptConfig/dialog/converse/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Homem peixe não deve se preocupar com Floran. Floran tenta ser como um humano agora. Sem esssfaquear.",
+    "path": "/scriptConfig/dialog/converse/floran/hylotl/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran se pergunta porque Floran novo veio. Será que Floran novo gosta de humanos também?",
+    "path": "/scriptConfig/dialog/converse/floran/floran/0"
+  }
+]

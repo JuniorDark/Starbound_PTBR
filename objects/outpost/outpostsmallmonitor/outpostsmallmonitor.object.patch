@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um monitor pequeno. Mas o que ele exibe?"}, {"op": "replace", "path": "/shortdescription", "value": "Small Mounted Monitor"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não sabe o que esta tela diz."}, {"op": "replace", "path": "/glitchDescription", "value": "Frustrado. Não consigo entender o que está escrito neste monitor."}, {"op": "replace", "path": "/apexDescription", "value": "Eu não consigo ler isto."}, {"op": "replace", "path": "/humanDescription", "value": "Este monitor não tem a maior qualidade de imagem."}, {"op": "replace", "path": "/hylotlDescription", "value": "A informação apresentada aqui é difícil de distinguir."}, {"op": "replace", "path": "/novakidDescription", "value": "Difícil ver o que está escrito aqui. Espero que não seja algo importante."}, {"op": "replace", "path": "/avianDescription", "value": "É impossível distinguir o texto nesta tela."}]
+[
+  {
+    "op": "replace",
+    "value": "Um monitor pequeno. Mas o que ele exibe?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não sabe o que esta tela diz.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Frustrado. Não consigo entender o que está escrito neste monitor.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Difícil ver o que está escrito aqui. Espero que não seja algo importante.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não consigo ler isto.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É impossível distinguir o texto nesta tela.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Small Mounted Monitor",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A informação apresentada aqui é difícil de distinguir.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este monitor não tem a maior qualidade de imagem.",
+    "path": "/humanDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma lanterna de óleo em um suporte."}, {"op": "replace", "path": "/glitchDescription", "value": "Inspirado. Uma lâmpada assim iluminaria um pátio Glitch agradavelmente."}, {"op": "replace", "path": "/hylotlDescription", "value": "Estas lanternas não funcionariam debaixo do oceano."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma linda lanterna de óleo em um bastão."}, {"op": "replace", "path": "/shortdescription", "value": "Standing Oil Lamp"}, {"op": "replace", "path": "/floranDescription", "value": "Floran se sente sseguro com luz tão alta."}, {"op": "replace", "path": "/apexDescription", "value": "A altura desta lâmpada envia a luz muito mais longe."}, {"op": "replace", "path": "/humanDescription", "value": "Um poste de luz bonito."}, {"op": "replace", "path": "/avianDescription", "value": "Uma lâmpada construída para iluminar uma área grande."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lâmpada construída para iluminar uma área grande.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um poste de luz bonito.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma linda lanterna de óleo em um bastão.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lanterna de óleo em um suporte.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran se sente sseguro com luz tão alta.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inspirado. Uma lâmpada assim iluminaria um pátio Glitch agradavelmente.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Standing Oil Lamp",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A altura desta lâmpada envia a luz muito mais longe.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas lanternas não funcionariam debaixo do oceano.",
+    "path": "/hylotlDescription"
+  }
+]

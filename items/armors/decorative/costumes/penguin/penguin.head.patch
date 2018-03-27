@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Mascara do traje de Pinguim. Isso é fofo."}, {"op": "replace", "path": "/shortdescription", "value": "Penguin Suit Mask"}]
+[
+  {
+    "op": "replace",
+    "value": "Penguin Suit Mask",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mascara do traje de Pinguim. Isso é fofo.",
+    "path": "/description"
+  }
+]

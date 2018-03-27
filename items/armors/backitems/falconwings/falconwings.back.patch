@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Stargazer Prophet Wings"}, {"op": "replace", "path": "/description", "value": "Asas como estas são vestidas pelos Stargazers do mais alto escalão."}]
+[
+  {
+    "op": "replace",
+    "value": "Stargazer Prophet Wings",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Asas como estas são vestidas pelos Stargazers do mais alto escalão.",
+    "path": "/description"
+  }
+]

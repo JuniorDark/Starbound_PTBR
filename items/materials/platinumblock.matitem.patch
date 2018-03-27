@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um bloco inteiro de platina sólida."}, {"op": "replace", "path": "/shortdescription", "value": "Platinum Block"}]
+[
+  {
+    "op": "replace",
+    "value": "Um bloco inteiro de platina sólida.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Este bloco cintilante é feito de platina sólida.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gossta de platina brilhante.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Acredito que esse grande bloco de platina valeria alguma coisa para alguém.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Platinum Block",
+    "path": "/shortdescription"
+  }
+]

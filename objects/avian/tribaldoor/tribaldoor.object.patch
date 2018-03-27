@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "As imagens nesta porta estendem amizade para aqueles de outros mundos. A minha casa é a tua casa."}, {"op": "replace", "path": "/shortdescription", "value": "Carved Door"}, {"op": "replace", "path": "/floranDescription", "value": "Pássaro põe ovo com rosto."}, {"op": "replace", "path": "/description", "value": "Uma porta belamente esculpida."}, {"op": "replace", "path": "/glitchDescription", "value": "Educado. Esta porta simboliza quem pode e não pode entrar."}, {"op": "replace", "path": "/apexDescription", "value": "Um pássaro acima de uma criatura de rosto redondo."}, {"op": "replace", "path": "/humanDescription", "value": "Aquilo é um rosto assustador no fundo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Que criatura é esta representada aqui?"}, {"op": "replace", "path": "/novakidDescription", "value": "Uma porta com imagens nela. O que está tentando dizer?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta belamente esculpida.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um pássaro acima de uma criatura de rosto redondo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta com imagens nela. O que está tentando dizer?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pássaro põe ovo com rosto.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Carved Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Educado. Esta porta simboliza quem pode e não pode entrar.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aquilo é um rosto assustador no fundo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "As imagens nesta porta estendem amizade para aqueles de outros mundos. A minha casa é a tua casa.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que criatura é esta representada aqui?",
+    "path": "/hylotlDescription"
+  }
+]

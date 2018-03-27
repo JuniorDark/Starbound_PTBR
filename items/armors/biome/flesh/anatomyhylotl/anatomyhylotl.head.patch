@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Hylotl Anatomy Mask"}, {"op": "replace", "path": "/description", "value": "É educativo! Uma máscara da anatomia muscular Hylotl."}]
+[
+  {
+    "op": "replace",
+    "value": "Hylotl Anatomy Mask",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "É educativo! Uma máscara da anatomia muscular Hylotl.",
+    "path": "/description"
+  }
+]

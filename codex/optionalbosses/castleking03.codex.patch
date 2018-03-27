@@ -1,22 +1,22 @@
 [
   {
     "op": "replace",
-    "path": "/title",
-    "value": "O Que Queria Ser Rei Parte 3"
+    "value": "Dia pós dia, Dreadwing ficou mais furioso. Na verdade, sua raiva era tanta que ele começou à arremessar seus súditos das torres do castelo, assim encolhendo a população e agravando o problema.\n\nUm dia, um grupo de ferreiros Glitch tiveram uma idéia. Já que nenhum deles estava disposto a ter dez filhos cada apenas para agradar o seu rei ditador, eles preferiram em vez disso desfrutar de fazer peças elegantes de armadura.",
+    "path": "/contentPages/0"
   },
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "Dia pós dia, Dreadwing ficou mais furioso. Na verdade, sua raiva era tanta que ele começou à arremessar seus súditos das torres do castelo, assim encolhendo a população e agravando o problema.\n\nUm dia, um grupo de ferreiros Glitch tiveram uma idéia. Já que nenhum deles estava disposto a ter dez filhos cada apenas para agradar o seu rei ditador, eles preferiram em vez disso desfrutar de fazer peças elegantes de armadura."
+    "value": "O Que Queria Ser Rei Parte 3",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/contentPages/1",
-    "value": "Eles eram muito adeptos nisso, e que muitas vezes tinha sido notado que a armadura se parecia muito com um Glitch... Então, eles começaram a trabalhar criando o maior número de armaduras que eles pudessem."
+    "value": "Eles eram muito adeptos nisso, e que muitas vezes tinha sido notado que a armadura se parecia muito com um Glitch... Então, eles começaram a trabalhar criando o maior número de armaduras que eles pudessem.",
+    "path": "/contentPages/1"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um conto folclórico Glitch."
+    "value": "Um conto folclórico Glitch.",
+    "path": "/description"
   }
 ]

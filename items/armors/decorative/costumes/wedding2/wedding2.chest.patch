@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Wedding Dress"}, {"op": "replace", "path": "/description", "value": "A metade superior de um vestido de baile - traje de casamento tradicional na Terra."}]
+[
+  {
+    "op": "replace",
+    "value": "A metade superior de um vestido de baile - traje de casamento tradicional na Terra.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Wedding Dress",
+    "path": "/shortdescription"
+  }
+]

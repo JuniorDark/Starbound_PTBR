@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Afirme-se com um anel suave."
+    "value": "Trim trim!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bike Bell Mech Horn",
+    "path": "/shortdescription"
   }
 ]

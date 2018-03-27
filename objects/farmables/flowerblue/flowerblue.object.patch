@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma flor com pétalas azuis brilhantes. Útil para fazer tintura."
+    "value": "Uma flor azul. Tem um propósito.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Uma flor azul. Tem um propósito."
+    "value": "Uma flor azul? Isso deve ser útil pra alguma coisa.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Uma flor azul bonita, eu posso usar isto fazer tinturas coloridas."
+    "value": "Uma flor azul encantadora, bonita e útil.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Esta flor azul pode ser usada para colorir roupas!"
+    "value": "Uma flor com pétalas azuis brilhantes. Útil para fazer tintura.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Pensativo. Uma flor azul. Ela tem um uso prático na fabricação de tintura."
+    "value": "Uma flor verde. Espera, não, é azul.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Uma flor verde. Espera, não, é azul."
+    "value": "Uma flor azul bonita, eu posso usar isto fazer tinturas coloridas.",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Uma flor azul encantadora, bonita e útil."
+    "value": "Blue Flower",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Uma flor azul? Isso deve ser útil para alguma coisa."
+    "value": "Esta flor azul pode ser usada para colorir roupas!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pensativo. Uma flor azul. Ela tem um uso prático na fabricação de tintura.",
+    "path": "/glitchDescription"
   }
 ]

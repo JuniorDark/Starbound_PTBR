@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma cama decorada com olhos. Ótima para pesadelos."}, {"op": "replace", "path": "/shortdescription", "value": "Eye Bed"}, {"op": "replace", "path": "/floranDescription", "value": "Floran dorme profundamente aqui."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Será que os olhos estão olhando para você, ou simplesmente apenas observando você?"}, {"op": "replace", "path": "/apexDescription", "value": "Esta cama me dá arrepios."}, {"op": "replace", "path": "/humanDescription", "value": "Isso parece algo que você encontrará em uma casa assombrada."}, {"op": "replace", "path": "/avianDescription", "value": "Uma cama que de alguma forma da um \t\r\nmau pressentimento."}, {"op": "replace", "path": "/hylotlDescription", "value": "Artesanato vulgar. Os mortos não são para dormir."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma cama que tudo vê. Por que alguém iria querer isso?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cama decorada com olhos. Ótima para pesadelos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama que de alguma forma da um \t\r\nmau pressentimento.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama que tudo vê. Por que alguém iria querer isso?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Será que os olhos estão olhando para você, ou simplesmente apenas observando você?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eye Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran dorme profundamente aqui.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama me dá arrepios.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso parece algo que você encontrará em uma casa assombrada.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Artesanato vulgar. Os mortos não são para dormir.",
+    "path": "/hylotlDescription"
+  }
+]

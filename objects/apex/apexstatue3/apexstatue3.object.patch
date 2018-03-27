@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "O botão nesta estátua não está muito bem escondido."}, {"op": "replace", "path": "/avianDescription", "value": "Há algo estranho nessa estátua."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma má tentativa de subterfúgio."}, {"op": "replace", "path": "/shortdescription", "value": "Great Banana Lock Statue"}, {"op": "replace", "path": "/glitchDescription", "value": "Investigativo. Há um dispositivo de algum tipo escondido nesta estátua."}, {"op": "replace", "path": "/description", "value": "Todos saudem a Grande Banana! O fruto sagrado!"}, {"op": "replace", "path": "/apexDescription", "value": "Há uma marca na estátua. Parece que ela pode ser pressionada."}, {"op": "replace", "path": "/floranDescription", "value": "Tecnologia sssorrateira."}, {"op": "replace", "path": "/novakidDescription", "value": "Isso é um botão? Discreto."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma má tentativa de subterfúgio.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Todos saudem a Grande Banana! O fruto sagrado!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Great Banana Lock Statue",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Investigativo. Há um dispositivo de algum tipo escondido nesta estátua.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é um botão? Discreto.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tecnologia sssorrateira.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O botão nesta estátua não está muito bem escondido.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há algo estranho nessa estátua.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há uma marca na estátua. Parece que ela pode ser pressionada.",
+    "path": "/apexDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Deputy's Slacks"}, {"op": "replace", "path": "/description", "value": "Calças de delegado simples, mas elegantes."}]
+[
+  {
+    "op": "replace",
+    "value": "Deputy's Slacks",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Calças de delegado simples, mas elegantes.",
+    "path": "/description"
+  }
+]

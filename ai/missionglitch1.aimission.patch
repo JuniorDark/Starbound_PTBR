@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/speciesText/default/selectSpeech/text", "value": "Parece que o Artefato Glitch pertence ao dono de um pequeno Forte de pedra em um planeta solitário."}, {"op": "replace", "path": "/speciesText/default/buttonText", "value": "O Forte do Barão"}, {"op": "replace", "path": "/speciesText/default/repeatButtonText", "value": "Revisite O Forte do Barão"}]
+[
+  {
+    "op": "replace",
+    "value": "Parece que o Artefato Glitch pertence ao dono de um pequeno Forte de pedra em um planeta solitário.",
+    "path": "/speciesText/default/selectSpeech/text"
+  },
+  {
+    "op": "replace",
+    "value": "Revisite O Forte do Barão",
+    "path": "/speciesText/default/repeatButtonText"
+  },
+  {
+    "op": "replace",
+    "value": "O Forte do Barão",
+    "path": "/speciesText/default/buttonText"
+  }
+]

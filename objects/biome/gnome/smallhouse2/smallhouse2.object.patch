@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma casa em miniatura. Não bata muito forte!"}, {"op": "replace", "path": "/shortdescription", "value": "Tiny House"}, {"op": "replace", "path": "/floranDescription", "value": "Toc toc. Floran entra."}, {"op": "replace", "path": "/glitchDescription", "value": "Pensativo. Eu não acredito que um Glitch poderia viver aqui."}, {"op": "replace", "path": "/hylotlDescription", "value": "Me pergunto onde os minúsculos habitantes estão?"}, {"op": "replace", "path": "/apexDescription", "value": "Esta é a casa mais pequena que eu já vi."}, {"op": "replace", "path": "/humanDescription", "value": "Eu não consigo me lembrar, isso é coma-me ou beba-me?"}, {"op": "replace", "path": "/avianDescription", "value": "Uma casinha minúscula."}, {"op": "replace", "path": "/novakidDescription", "value": "Isso deve ser uma casa para formigas."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma casa em miniatura. Não bata muito forte!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma casinha minúscula.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não consigo me lembrar, isso é coma-me ou beba-me?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me pergunto onde os minúsculos habitantes estão?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Toc toc. Floran entra.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é a casa mais pequena que eu já vi.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso deve ser uma casa para formigas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pensativo. Eu não acredito que um Glitch poderia viver aqui.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tiny House",
+    "path": "/shortdescription"
+  }
+]

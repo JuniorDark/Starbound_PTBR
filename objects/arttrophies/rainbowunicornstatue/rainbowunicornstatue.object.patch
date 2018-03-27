@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Espanto. Uma estátua de unicórnio. Como eu adoraria ver essa criatura em carne e osso."}, {"op": "replace", "path": "/description", "value": "Uma estátua de unicórnio deslumbrante. Cuidado com o chifre!"}, {"op": "replace", "path": "/shortdescription", "value": "Rainbow Unicorn Statue"}, {"op": "replace", "path": "/floranDescription", "value": "Até mesmo Floran não esssfaqueia esse cavalinho."}, {"op": "replace", "path": "/apexDescription", "value": "Esta besta majestosa me tira o fôlego."}, {"op": "replace", "path": "/humanDescription", "value": "Uma estátua de unicórnio. Sempre quis um unicórnio de estimação."}, {"op": "replace", "path": "/avianDescription", "value": "Um magnífico cavalo branco com um glorioso chifre de pérola."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta criatura notável me lembra as baleias com chifres que você vê debaixo do oceano."}, {"op": "replace", "path": "/novakidDescription", "value": "Além do chifre é muito parecido com um cavalo."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estátua de unicórnio deslumbrante. Cuidado com o chifre!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um magnífico cavalo branco com um glorioso chifre de pérola.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estátua de unicórnio. Sempre quis um unicórnio de estimação.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Além do chifre é muito parecido com um cavalo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espanto. Uma estátua de unicórnio. Como eu adoraria ver essa criatura em carne e osso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Até mesmo Floran não esssfaqueia esse cavalinho.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rainbow Unicorn Statue",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta besta majestosa me tira o fôlego.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta criatura notável me lembra as baleias com chifres que você vê debaixo do oceano.",
+    "path": "/hylotlDescription"
+  }
+]

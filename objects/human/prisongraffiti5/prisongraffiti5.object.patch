@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Graffiti. O autor parece um pouco irritado."}, {"op": "replace", "path": "/shortdescription", "value": "Graffiti"}, {"op": "replace", "path": "/apexDescription", "value": "Gostaria de saber a quem este graffiti se refere."}, {"op": "replace", "path": "/humanDescription", "value": "Isto é como algo saído de um filme de terror."}, {"op": "replace", "path": "/avianDescription", "value": "O pobre autor."}, {"op": "replace", "path": "/hylotlDescription", "value": "Você nunca pode contar com ninguém neste mundo."}, {"op": "replace", "path": "/floranDescription", "value": "Floran tem certeza de que pessoa voltou. É uma hissstória feliz, provavelmente."}, {"op": "replace", "path": "/glitchDescription", "value": "Simpático. Talvez o autor devesse ter cuidado com o que ele desejava."}, {"op": "replace", "path": "/novakidDescription", "value": "Dramático."}]
+[
+  {
+    "op": "replace",
+    "value": "Dramático.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran tem certeza de que pessoa voltou. É uma hissstória feliz, provavelmente.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Graffiti. O autor parece um pouco irritado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Gostaria de saber a quem este graffiti se refere.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Simpático. Talvez o autor devesse ter cuidado com o que ele desejava.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O pobre autor.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto é como algo saído de um filme de terror.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Você nunca pode contar com ninguém neste mundo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Graffiti",
+    "path": "/shortdescription"
+  }
+]

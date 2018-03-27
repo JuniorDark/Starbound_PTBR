@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "É prata. Pode ser derretida e transformada em barras."}, {"op": "replace", "path": "/shortdescription", "value": "Silver Ore"}]
+[
+  {
+    "op": "replace",
+    "value": "É prata. Pode ser derretida e transformada em barras.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Silver Ore",
+    "path": "/shortdescription"
+  }
+]

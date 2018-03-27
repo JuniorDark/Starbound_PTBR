@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "SAIL",
+    "path": "/messageDefaults/senderName"
+  }
+]

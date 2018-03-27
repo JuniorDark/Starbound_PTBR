@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um tubo pesado, comumente usado em sistemas de resíduos"}, {"op": "replace", "path": "/shortdescription", "value": "Heavy Pipe"}]
+[
+  {
+    "op": "replace",
+    "value": "Um cano pesado, comumente usado em sistemas de resíduos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Com nojo. Eu odiaria ver o lixo que foi passado através deste tubo.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Heavy Pipe",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns tubos antigos sujos.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tubulação de esgoto malcheirosa.",
+    "path": "/florandescription"
+  }
+]

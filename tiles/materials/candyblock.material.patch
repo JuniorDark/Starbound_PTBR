@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Pedra com cheiro de doce!"}, {"op": "replace", "path": "/shortdescription", "value": "Candy Block"}, {"op": "replace", "path": "/floranDescription", "value": "Doce tem listrass coloridass."}, {"op": "replace", "path": "/glitchDescription", "value": "Encantado. Isto parece ser um pedaço gigante de bala."}, {"op": "replace", "path": "/novakidDescription", "value": "Um grande pedaço de pedra de doce."}]
+[
+  {
+    "op": "replace",
+    "value": "Um grande pedaço de pedra de doce.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Candy Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Doce tem listrass coloridass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Isto parece ser um pedaço gigante de bala.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedra com cheiro de doce!",
+    "path": "/description"
+  }
+]

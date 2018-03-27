@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma moldura quebrada."}, {"op": "replace", "path": "/shortdescription", "value": "Broken Protectorate Picture Frame"}, {"op": "replace", "path": "/floranDescription", "value": "Moldura está quebrada."}, {"op": "replace", "path": "/glitchDescription", "value": "Chateado. Uma moldura quebrada."}, {"op": "replace", "path": "/apexDescription", "value": "Esta moldura está completamente quebrada."}, {"op": "replace", "path": "/humanDescription", "value": "Esta moldura deve ter caído."}, {"op": "replace", "path": "/avianDescription", "value": "Uma moldura arruinada, e do único Grande Protetor Avian, também."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma moldura caída. Devastador."}, {"op": "replace", "path": "/novakidDescription", "value": "E então dobraram quatro"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma moldura quebrada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma moldura caída. Devastador.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma moldura arruinada, e do único Grande Protetor Avian, também.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "E então dobraram quatro",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Broken Protectorate Picture Frame",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Moldura está quebrada.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta moldura está completamente quebrada.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta moldura deve ter caído.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Chateado. Uma moldura quebrada.",
+    "path": "/glitchDescription"
+  }
+]

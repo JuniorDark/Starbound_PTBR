@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/description", "value": "Você pode reparar completamente o motor FTL da sua nave com isso!"}, {"op": "replace", "path": "/shortdescription", "value": "FTL Repair Kit"}, {"op": "replace", "path": "/unlockMessage", "value": "Brilhante! O motor FTL é capaz de funcionar em plena capacidade novamente. Podemos finalmente sair deste sistema solar!"}]
+[
+  {
+    "op": "replace",
+    "value": "Brilhante! O motor FTL é capaz de funcionar em plena capacidade novamente. Podemos finalmente sair deste sistema solar!",
+    "path": "/unlockMessage"
+  },
+  {
+    "op": "replace",
+    "value": "FTL Repair Kit",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Você pode reparar completamente o motor FTL da sua nave com isso!",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,147 @@
-[{"op":"replace","path":"/reattack/default/default/0","value":"Saia e JOGUE!"},{"op":"replace","path":"/reattack/default/default/1","value":"Você veio para o lado errado do universo!"},{"op":"replace","path":"/reattack/default/default/2","value":"Este é o NOSSO território!"},{"op":"replace","path":"/reattack/default/default/3","value":"Você não pode fugir tão fácilmente!"},{"op":"replace","path":"/reattack/default/default/4","value":"Olha quem eu encontrei!"},{"op":"replace","path":"/reattack/default/default/5","value":"Olha quem eu encontrei!"},{"op":"replace","path":"/reattack/default/default/6","value":"Eu posso ver você! Você não vai escapar DESTA vez!"},{"op":"replace","path":"/reattack/default/default/7","value":"Você não vai sair deste lugar!"},{"op":"replace","path":"/attack/default/default/0","value":"Saia e JOGUE!"},{"op":"replace","path":"/attack/default/default/1","value":"Você veio para o lado errado do universo!"},{"op":"replace","path":"/attack/default/default/2","value":"Este é o NOSSO território!"},{"op":"replace","path":"/attack/default/default/3","value":"Este é o NOSSO território!"},{"op":"replace","path":"/attack/default/default/5","value":"Olha quem eu encontrei!"},{"op":"replace","path":"/attack/default/default/6","value":"Eu posso ver você! Você não vai fugir!"},{"op":"replace","path":"/attack/default/default/7","value":"Você não vai sair deste lugar!"},{"op":"replace","path":"/killedTarget/default/default/0","value":"Outro troféu para a coleção!"},{"op":"replace","path":"/killedTarget/default/default/1","value":"Não é o seu dia!"},{"op":"replace","path":"/killedTarget/default/default/2","value":"Volte para que eu possa te matar de novo!"},{"op":"replace","path":"/lostTarget/default/default/0","value":"Fuja com o rabo entre as pernas!"},{"op":"replace","path":"/lostTarget/default/default/1","value":"Para onde ele foi?!"},{"op":"replace","path":"/outOfSight/default/default/0","value":"Volte, covarde!"},{"op":"replace","path":"/outOfSight/default/default/1","value":"Volte aqui!"},{"op":"replace","path":"/cantReach/default/default/0","value":"Venha aqui e lute!"},{"op":"replace","path":"/cantReach/default/default/1","value":"Venha me enfrentar cara a cara, covarde!"},{"op":"replace","path":"/cheerOn/default/default/0","value":"Acabe com eles!"},{"op":"replace","path":"/cheerOn/default/default/1","value":"Mostre a eles como tratamos os intrusos!"},{"op":"replace","path":"/cheerOn/default/default/2","value":"Luta! Luta!"}]
+[
+  {
+    "op": "replace",
+    "value": "Outro troféu para a coleção!",
+    "path": "/killedTarget/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Volte para que eu possa te matar de novo!",
+    "path": "/killedTarget/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Volte, covarde!",
+    "path": "/outOfSight/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Venha me enfrentar cara a cara, covarde!",
+    "path": "/cantReach/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Saia e JOGUE!",
+    "path": "/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Saia e JOGUE!",
+    "path": "/reattack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Luta! Luta!",
+    "path": "/cheerOn/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Venha aqui e lute!",
+    "path": "/cantReach/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ha ha ha ha ha!",
+    "path": "/attack/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso ver você! Você não vai escapar DESTA vez!",
+    "path": "/reattack/default/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso ver você! Você não vai fugir!",
+    "path": "/attack/default/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Olha quem eu encontrei!",
+    "path": "/attack/default/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Olha quem eu encontrei!",
+    "path": "/reattack/default/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Mediocre!",
+    "path": "/killedTarget/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Não é o seu dia!",
+    "path": "/killedTarget/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Fuja com o rabo entre as pernas!",
+    "path": "/lostTarget/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Mostre a eles como tratamos os intrusos!",
+    "path": "/cheerOn/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Acabe com eles!",
+    "path": "/cheerOn/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este é o NOSSO território!",
+    "path": "/attack/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Este é o NOSSO território!",
+    "path": "/reattack/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Olha quem eu encontrei!",
+    "path": "/reattack/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Este é o NOSSO território!",
+    "path": "/attack/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Para onde ele foi?!",
+    "path": "/lostTarget/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você não vai sair deste lugar!",
+    "path": "/attack/default/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Você não vai sair deste lugar!",
+    "path": "/reattack/default/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Você não pode fugir tão fácilmente!",
+    "path": "/reattack/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Você veio para o lado errado do universo!",
+    "path": "/attack/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você veio para o lado errado do universo!",
+    "path": "/reattack/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Volte aqui!",
+    "path": "/outOfSight/default/default/1"
+  }
+]

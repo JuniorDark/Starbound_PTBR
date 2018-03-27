@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Blue Light"}, {"op": "replace", "path": "/floranDescription", "value": "Floran acha que azul é cor boa. Não tão boa como verde ou vermelho!"}, {"op": "replace", "path": "/apexDescription", "value": "Estas luzes emitem uma tonalidade azul fria."}, {"op": "replace", "path": "/humanDescription", "value": "Luzes azuis, para quando você quer dar a um quarto uma atmosfera fria."}, {"op": "replace", "path": "/avianDescription", "value": "Esta luz azul me fazer tremer, embora não seja realmente fria."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta luz azul me lembra de raios de sol sendo filtrados através dos oceanos."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta luz está como uma estrela ardente fria, embora um pouco menor."}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Por que essa luz me faz sentir tão frio?"}, {"op": "replace", "path": "/description", "value": "Uma luz azul fria."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz azul fria.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Blue Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luzes azuis, para quando você quer dar a um quarto uma atmosfera fria.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran acha que azul é cor boa. Não tão boa como verde ou vermelho!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Por que essa luz me faz sentir tão frio?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas luzes emitem uma tonalidade azul fria.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz azul me fazer tremer, embora não seja realmente fria.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz azul me lembra de raios de sol sendo filtrados através dos oceanos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz está como uma estrela ardente fria, embora um pouco menor.",
+    "path": "/novakidDescription"
+  }
+]

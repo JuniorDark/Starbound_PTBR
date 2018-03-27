@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/gui/insertPod/value", "value": "Insira o Pod"}]
+[
+  {
+    "op": "replace",
+    "value": "Insira o Pod",
+    "path": "/gui/insertPod/value"
+  }
+]

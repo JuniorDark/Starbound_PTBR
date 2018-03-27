@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma porta que é boa sob pressão."}, {"op": "replace", "path": "/shortdescription", "value": "Pressurised Door"}, {"op": "replace", "path": "/floranDescription", "value": "Grande porta pesada funciona melhor debaixo d'água."}, {"op": "replace", "path": "/glitchDescription", "value": "Aliviado. Esta porta é muito pesada, deve ser à prova d'água."}, {"op": "replace", "path": "/apexDescription", "value": "Uma porta pressurizada resistente."}, {"op": "replace", "path": "/humanDescription", "value": "É uma porta grande e resistente que lida bem com a alta pressão."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma porta pressurizada bem trabalhada."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma porta forte e pressurizada."}, {"op": "replace", "path": "/avianDescription", "value": "Uma porta de metal muito pesada."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta que é boa sob pressão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta forte e pressurizada.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta pressurizada resistente.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta de metal muito pesada.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta pressurizada bem trabalhada.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grande porta pesada funciona melhor debaixo d'água.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma porta grande e resistente que lida bem com a alta pressão.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pressurised Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aliviado. Esta porta é muito pesada, deve ser à prova d'água.",
+    "path": "/glitchDescription"
+  }
+]

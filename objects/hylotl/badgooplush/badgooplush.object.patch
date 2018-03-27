@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Goo goo fofinha!"}, {"op": "replace", "path": "/glitchDescription", "value": "Apreciativo. Uma goo fofinha."}, {"op": "replace", "path": "/novakidDescription", "value": "Não tenho certeza qual é o ponto desta coisa."}, {"op": "replace", "path": "/shortdescription", "value": "Bad Goo Plushie"}, {"op": "replace", "path": "/apexDescription", "value": "Uma boneca goo adorável."}, {"op": "replace", "path": "/humanDescription", "value": "Legal, eu quero um desses!"}, {"op": "replace", "path": "/avianDescription", "value": "Um brinquedo goo bonitinho."}, {"op": "replace", "path": "/hylotlDescription", "value": "Squee! Eu preciso desta pelúcia para minha coleção!"}, {"op": "replace", "path": "/description", "value": "Bad Goo Plushie. Uma boneca goo fofa."}]
+[
+  {
+    "op": "replace",
+    "value": "Um brinquedo goo bonitinho.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não tenho certeza qual é o ponto desta coisa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma boneca goo adorável.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apreciativo. Uma goo fofinha.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bad Goo Plushie",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bad Goo Plushie. Uma boneca goo fofa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Legal, eu quero um desses!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Goo goo fofinha!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Squee! Eu preciso desta pelúcia para minha coleção!",
+    "path": "/hylotlDescription"
+  }
+]

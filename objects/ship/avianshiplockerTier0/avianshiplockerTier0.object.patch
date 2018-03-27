@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Shiplocker"}, {"op": "replace", "path": "/humanDescription", "value": "Uma escotilha de armazenamento Avian. Não parece estar funcionando."}, {"op": "replace", "path": "/floranDescription", "value": "Armazenamento. Não está funcionando."}, {"op": "replace", "path": "/avianDescription", "value": "Um armário, para armazenar muitos itens úteis. Está quebrado no momento."}, {"op": "replace", "path": "/hylotlDescription", "value": "Armazenamento. Atualmente sem energia."}, {"op": "replace", "path": "/novakidDescription", "value": "Um armário. Não é de muita utilidade até que seja consertado."}, {"op": "replace", "path": "/glitchDescription", "value": "Afligido. O sistema de armazenamento deste nave está com defeito."}, {"op": "replace", "path": "/apexDescription", "value": "Armário de armazenamento Avian. Atualmente não é funcional."}, {"op": "replace", "path": "/description", "value": "Um armário. Guardar algumas coisas, por que não?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um armário, para armazenar muitos itens úteis. Está quebrado no momento.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma escotilha de armazenamento Avian. Não parece estar funcionando.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Armário de armazenamento Avian. Atualmente não é funcional.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Armazenamento. Atualmente esta sem energia.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário. Guardar algumas coisas, por que não?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Shiplocker",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário. Não é de muita utilidade até que seja consertado.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Afligido. O sistema de armazenamento da nave está com defeito.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Armazenamento. Não está funcionando.",
+    "path": "/floranDescription"
+  }
+]

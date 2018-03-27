@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "É fria ao toque. Um calafrio corre pela minha espinha. Em algum lugar à distância, um cão late. Espere, isso é apenas um cântico Apex."}, {"op": "replace", "path": "/description", "value": "Uma porta feita de osso. Para onde ela leva? Inferno? Ou o banheiro?"}, {"op": "replace", "path": "/shortdescription", "value": "Bone Door"}, {"op": "replace", "path": "/floranDescription", "value": "Floran sente parentesco com porta."}, {"op": "replace", "path": "/glitchDescription", "value": "Cômico. Acho que a morte dessa criatura realmente... abriu portas."}, {"op": "replace", "path": "/apexDescription", "value": "Uma porta feita de osso. Estou com medo de passar."}, {"op": "replace", "path": "/avianDescription", "value": "Certamente, além de uma porta como esta, deve haver algo digno de respeito."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma porta vil da morte. Esse horror. Notavelmente dobradiças suaves, no entanto."}, {"op": "replace", "path": "/novakidDescription", "value": "Porta da morte."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta feita de osso. Para onde ela leva? Inferno? Ou o banheiro?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta feita de osso. Estou com medo de passar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta vil da morte. Esse horror. Notavelmente dobradiças suaves, no entanto.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bone Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cômico. Acho que a morte dessa criatura realmente... abriu portas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Porta da morte.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran sente parentesco com porta.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É fria ao toque. Um calafrio corre pela minha espinha. Em algum lugar à distância, um cão late. Espere, isso é apenas um cântico Apex.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Certamente, além de uma porta como esta, deve haver algo digno de respeito.",
+    "path": "/avianDescription"
+  }
+]

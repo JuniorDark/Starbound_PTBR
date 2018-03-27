@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Bass Guitar"}, {"op": "replace", "path": "/description", "value": "Um baixo. Estabeleça algum ritmo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um baixo. Estabeleça algum ritmo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bass Guitar",
+    "path": "/shortdescription"
+  }
+]

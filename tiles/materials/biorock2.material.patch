@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Rochass azul brilhando fraco."}, {"op": "replace", "path": "/glitchDescription", "value": "Perplexo. Há um brilho azul fraco vindo da bactéria nesta rocha."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta rocha azul está brilhando um pouco."}, {"op": "replace", "path": "/description", "value": "Esta rocha azul esta fracamente brilhando com bioluminescência."}, {"op": "replace", "path": "/shortdescription", "value": "Blue Glow Rock"}]
+[
+  {
+    "op": "replace",
+    "value": "Blue Glow Rock",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rochass azul brilhando fraco.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perplexo. Há um brilho azul fraco vindo da bactéria nesta rocha.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta rocha azul esta fracamente brilhando com bioluminescência.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta rocha azul está brilhando um pouco.",
+    "path": "/novakidDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Feitas de ferro, essas calças refinadas e confortáveis ​​são nomeadas de forma embaraçosa."}, {"op": "replace", "path": "/shortdescription", "value": "Puddle Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Feitas de ferro, essas calças refinadas e confortáveis ​​são nomeadas de forma embaraçosa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Puddle Trousers",
+    "path": "/shortdescription"
+  }
+]

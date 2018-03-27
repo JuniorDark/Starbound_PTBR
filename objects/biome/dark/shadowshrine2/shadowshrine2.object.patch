@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Não quero descobrir a história por trás desse santuário."}, {"op": "replace", "path": "/description", "value": "Um santuário realmente assustador."}, {"op": "replace", "path": "/shortdescription", "value": "Shadow Shrine"}, {"op": "replace", "path": "/floranDescription", "value": "Santuário legal, parece assustador."}, {"op": "replace", "path": "/glitchDescription", "value": "Aterrorizado. O meu desejo de sair desta área aumentou."}, {"op": "replace", "path": "/apexDescription", "value": "Assustador..."}, {"op": "replace", "path": "/humanDescription", "value": "Este santuário está me dando umas vibrações muito más."}, {"op": "replace", "path": "/avianDescription", "value": "Este santuário está me dando arrepios..."}, {"op": "replace", "path": "/novakidDescription", "value": "Sim, isso é bem assustador."}]
+[
+  {
+    "op": "replace",
+    "value": "Um santuário realmente assustador.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Santuário legal, parece assustador.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Assustador...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não quero descobrir a história por trás desse santuário.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Shadow Shrine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aterrorizado. O meu desejo de sair desta área aumentou.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este santuário está me dando umas vibrações muito más.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este santuário está me dando arrepios...",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sim, isso é bem assustador.",
+    "path": "/novakidDescription"
+  }
+]

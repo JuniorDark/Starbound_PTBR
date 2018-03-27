@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Dispara um tiro que é letal à queima-roupa."}, {"op": "replace", "path": "/shortdescription", "value": "Common Shotgun"}]
+[
+  {
+    "op": "replace",
+    "value": "Dispara um tiro que é letal a curta distância.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Common Shotgun",
+    "path": "/shortdescription"
+  }
+]

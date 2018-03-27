@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Picante e refrescante. Experimente-a em torradas!"}, {"op": "replace", "path": "/shortdescription", "value": "Kiwi Jam"}]
+[
+  {
+    "op": "replace",
+    "value": "Kiwi Jam",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Picante e refrescante. Experimente-a em torradas!",
+    "path": "/description"
+  }
+]

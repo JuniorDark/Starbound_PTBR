@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma porta executiva impenetrável."}, {"op": "replace", "path": "/shortdescription", "value": "Executive Door"}, {"op": "replace", "path": "/floranDescription", "value": "Floran se esconde atrás da porta. Pula fora. Essfaqueia!"}, {"op": "replace", "path": "/glitchDescription", "value": "Aprovação. Uma porta sem falhas."}, {"op": "replace", "path": "/apexDescription", "value": "Esta porta é inteiramente segura."}, {"op": "replace", "path": "/humanDescription", "value": "Uma porta executiva impenetrável."}, {"op": "replace", "path": "/avianDescription", "value": "Uma porta totalmente resistente."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma porta executiva robusta."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta porta com certeza é segura."}]
+[
+  {
+    "op": "replace",
+    "value": "Floran se esconde atrás de porta. Pular fora. Essfaqueia!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta executiva robusta.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta totalmente resistente.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta executiva impenetrável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta executiva impenetrável.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aprovação. Uma porta sem falhas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Executive Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta é inteiramente segura.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta com certeza é segura.",
+    "path": "/novakidDescription"
+  }
+]

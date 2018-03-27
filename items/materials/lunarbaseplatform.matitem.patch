@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Uma plataforma de metal bem construída."}, {"op": "replace", "path": "/shortdescription", "value": "Lunar Base Platform"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma plataforma brilhante.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma plataforma de metal bem construída.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Confiante. Esta plataforma de metal pode suportar grande peso.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não gosta de plataformass de metal frio.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lunar Base Platform",
+    "path": "/shortdescription"
+  }
+]

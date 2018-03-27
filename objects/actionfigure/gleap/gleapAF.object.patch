@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A etiqueta diz, \"Ele é feito de uma substância esponjosa.\""}, {"op": "replace", "path": "/shortdescription", "value": "Gleap Figurine"}]
+[
+  {
+    "op": "replace",
+    "value": "Gleap Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"Ele é feito de uma substância esponjosa.\"",
+    "path": "/description"
+  }
+]

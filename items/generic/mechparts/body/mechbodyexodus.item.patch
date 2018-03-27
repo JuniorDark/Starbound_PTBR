@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um corpo de mecha poderoso operado por uma rede de tecido cerebral sintético."
+    "value": "Um corpo de mecha poderoso operado por uma rede de tecido cerebral sintético.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Exodus Mech Body",
+    "path": "/shortdescription"
   }
 ]

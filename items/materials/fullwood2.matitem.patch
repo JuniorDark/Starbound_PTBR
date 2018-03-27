@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Unrefined Wood"}, {"op": "replace", "path": "/description", "value": "Áspera e não refinada, essa madeira parece recentemente cortada."}]
+[
+  {
+    "op": "replace",
+    "value": "Neutro. Madeira não refinada.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Áspera e não refinada, essa madeira parece cortada recentemente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Unrefined Wood",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Madeira insssfaqueavel.",
+    "path": "/florandescription"
+  }
+]

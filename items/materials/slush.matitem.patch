@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "O derretimento do gelo faz uma lama espessa."}, {"op": "replace", "path": "/shortdescription", "value": "Slush"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma bagunça de lama congelada.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Informado. Lama como esta é feita de gelo derretido.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Derretimento do gelo faz uma lama grossa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Slush",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lama fria e molhada.",
+    "path": "/florandescription"
+  }
+]

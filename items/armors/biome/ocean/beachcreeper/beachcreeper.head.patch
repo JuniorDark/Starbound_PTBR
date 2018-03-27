@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Creepling Mask"}, {"op": "replace", "path": "/description", "value": "Veja o quão assustador esses olhos são!"}]
+[
+  {
+    "op": "replace",
+    "value": "Creepling Mask",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Veja o quão assustador esses olhos são!",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,32 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/3", "value": "Eu tenho habilidades além de suas capacidades! Você está sem sorte!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/0", "value": "Ataque!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/1", "value": "Saia do meu caminho ou você vai se arrepender!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/2", "value": "minhas habilidades superam as suas!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/0", "value": "Eu venho fazendo isso há anos, você não tem chance!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/4", "value": "Você quer trocar tiros comigo? Que assim seja!"}]
+[
+  {
+    "op": "replace",
+    "value": "Atacar!",
+    "path": "/scriptConfig/dialog/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Saia do meu caminho ou você vai se arrepender!",
+    "path": "/scriptConfig/dialog/attack/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu tenho habilidades além de suas capacidades! Você está sem sorte!",
+    "path": "/scriptConfig/dialog/attack/human/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Eu venho fazendo isso há anos, você não tem chance!",
+    "path": "/scriptConfig/dialog/attack/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "minhas habilidades superam as suas!",
+    "path": "/scriptConfig/dialog/attack/human/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você quer trocar tiros comigo? Que assim seja!",
+    "path": "/scriptConfig/dialog/attack/human/default/4"
+  }
+]

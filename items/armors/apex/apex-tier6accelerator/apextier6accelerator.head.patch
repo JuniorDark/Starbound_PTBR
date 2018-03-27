@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Infiltrator's Helm"}, {"op": "replace", "path": "/description", "value": "Poucas coisas são tão intimidadoras como o olhar sem expressão deste capacete fortemente reforçado."}]
+[
+  {
+    "op": "replace",
+    "value": "Poucas coisas são tão intimidadoras como o olhar sem expressão deste capacete fortemente reforçado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Infiltrator's Helm",
+    "path": "/shortdescription"
+  }
+]

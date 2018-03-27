@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Dispensing Pod"}, {"op": "replace", "path": "/apexDescription", "value": "Esta capsula dispensa materiais para fabricação."}, {"op": "replace", "path": "/avianDescription", "value": "Materiais de fabricação gratuitos. Legal."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma capsula que fornece materiais básicos."}, {"op": "replace", "path": "/description", "value": "Uma capsula dispensadora de material."}, {"op": "replace", "path": "/floranDescription", "value": "Maquina cosspe materiais de fabricação em Floran."}, {"op": "replace", "path": "/glitchDescription", "value": "Maravilha. Uma máquina que fornece materiais de graça!"}, {"op": "replace", "path": "/humanDescription", "value": "Isto é como uma máquina de gashapon, mas útil!"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma capsula dispensadora de material.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma capsula que fornece materiais básicos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dispensing Pod",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Materiais de fabricação gratuitos. Legal.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Maquina cosspe materiais de fabricação em Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto é como uma máquina de gashapon, mas útil!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta capsula dispensa materiais para fabricação.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Maravilha. Uma máquina que fornece materiais de graça!",
+    "path": "/glitchDescription"
+  }
+]

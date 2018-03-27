@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "A porta da Academia do Protetorado."}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Academy Door"}, {"op": "replace", "path": "/floranDescription", "value": "Uma porta."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Uma porta."}, {"op": "replace", "path": "/apexDescription", "value": "Uma porta."}, {"op": "replace", "path": "/humanDescription", "value": "Uma porta."}, {"op": "replace", "path": "/avianDescription", "value": "Uma porta."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma porta."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma porta."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma eclusa de ar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma eclusa de ar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma eclusa de ar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma eclusa de ar.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma eclusa de ar.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Uma porta.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Academy Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A porta da Academia do Protetorado.",
+    "path": "/description"
+  }
+]

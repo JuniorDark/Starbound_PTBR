@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "É Silte."}, {"op": "replace", "path": "/shortdescription", "value": "Loose Silt"}]
+[
+  {
+    "op": "replace",
+    "value": "Grande pilha velha de silte empoeirado.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "É Silte.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Loose Silt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Silte. É tão empoeirado.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desconfortável. É difícil impedir que o silte penetre nos meus componentes.",
+    "path": "/glitchdescription"
+  }
+]

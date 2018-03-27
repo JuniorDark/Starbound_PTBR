@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/attack/glitch/default/2", "value": "Irritado. Eu tenho um desejo de cometer alguns atos bárbaros!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/0", "value": "Ataque!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/glitch/default/0", "value": "Ameaçador. Vou envia-lo de volta para casa em pedacinhos!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/glitch/default/1", "value": "Agressivo. Vou te deixar em pedaços!"}]
+[
+  {
+    "op": "replace",
+    "value": "Atacar!",
+    "path": "/scriptConfig/dialog/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Agressivo. Vou te deixar em pedaços!",
+    "path": "/scriptConfig/dialog/attack/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Irritado. Eu tenho um desejo de cometer alguns atos bárbaros!",
+    "path": "/scriptConfig/dialog/attack/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Ameaçador. Vou envia-lo de volta para casa em pedacinhos!",
+    "path": "/scriptConfig/dialog/attack/glitch/default/0"
+  }
+]

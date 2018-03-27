@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Uma campânula."}, {"op": "replace", "path": "/shortdescription", "value": "Uma campânula."}, {"op": "replace", "path": "/floranDescription", "value": "Flor Vermelha."}, {"op": "replace", "path": "/glitchDescription", "value": "Declaração. Uma campânula."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma campânula.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma campânula.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Flor Vermelha.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Declaração. Uma campânula.",
+    "path": "/glitchDescription"
+  }
+]

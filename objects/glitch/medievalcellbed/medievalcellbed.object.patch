@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Uma cama de feno. Não consigo imaginar dormindo nisso noite após noite."}, {"op": "replace", "path": "/apexDescription", "value": "Uma cama desconfortável com nada além de um feno para aquecer."}, {"op": "replace", "path": "/description", "value": "Uma cama de feno extremamente básica."}, {"op": "replace", "path": "/avianDescription", "value": "O mais próximo possível de um ninho."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma cama desconfortável construída com feno e madeira dura."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta cama tem que ser uma forma de punição."}, {"op": "replace", "path": "/shortdescription", "value": "Medieval Hay Bed"}, {"op": "replace", "path": "/floranDescription", "value": "Cama muito dura. Floran ssente dor nas costas."}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. Não consigo imaginar ninguém tendo uma boa noite de sono aqui."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cama de feno. Não consigo imaginar dormindo nisso noite após noite.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama de feno extremamente básica.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama desconfortável construída com feno e madeira dura.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama desconfortável com nada além de um feno para aquecer.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O mais próximo possível de um ninho.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cama muito dura. Floran ssente dor nas costas.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Não consigo imaginar ninguém tendo uma boa noite de sono aqui.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Medieval Hay Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama tem que ser uma forma de punição.",
+    "path": "/novakidDescription"
+  }
+]

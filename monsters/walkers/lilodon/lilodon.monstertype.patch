@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Lilodon"}, {"op": "replace", "path": "/description", "value": "Seus ancestrais costumavam viver no mar. Pode parecer pequeno, mas tem uma grande mordida."}]
+[
+  {
+    "op": "replace",
+    "value": "Lilodon",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Seus ancestrais costumavam viver no mar. Pode parecer pequeno, mas tem uma grande mordida.",
+    "path": "/description"
+  }
+]

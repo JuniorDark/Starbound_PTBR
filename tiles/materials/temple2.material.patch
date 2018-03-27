@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Temple Bricks"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gossta de tijoloss velhoss."}, {"op": "replace", "path": "/glitchDescription", "value": "Fascinado. A idade destes tijolos não pode ser determinada com precisão."}, {"op": "replace", "path": "/novakidDescription", "value": "Esses tijolos já estão ai a um bom tempo."}, {"op": "replace", "path": "/description", "value": "Estes tijolos parecem antigos. Palavras intrincadas estão riscadas na superfície, mas eu não consigo entende-las."}]
+[
+  {
+    "op": "replace",
+    "value": "Fascinado. A idade destes tijolos não pode ser determinada com precisão.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gossta de tijoloss velhoss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esses tijolos já estão ai a um bom tempo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Temple Bricks",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes tijolos parecem antigos. Palavras intrincadas estão riscadas na superfície, mas eu não consigo entende-las.",
+    "path": "/description"
+  }
+]

@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Esta buzina é surpreendentemente pequena... Eu me pergunto como soa?"
+    "value": "Esta buzina é surpreendentemente pequena... Eu me pergunto como soa?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Toy Mech Horn",
+    "path": "/shortdescription"
   }
 ]

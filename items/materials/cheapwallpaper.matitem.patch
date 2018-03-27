@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Papel de parede brega e barato."}, {"op": "replace", "path": "/shortdescription", "value": "Tacky Wallpaper"}]
+[
+  {
+    "op": "replace",
+    "value": "Papel de parede barato e brega.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran adora papéiss de parede bonito.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tacky Wallpaper",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inquieto. Este papel de parede é esmagadoramente berrante.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Por que alguém iria querer cobrir suas paredes com esse papel?",
+    "path": "/novakiddescription"
+  }
+]

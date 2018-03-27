@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Não há volta uma vez que eu atravessar esta porta."}, {"op": "replace", "path": "/avianDescription", "value": "Uma vez que eu atravessar esta porta não vou ser capaz de voltar através dela."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta porta cria um campo de força que só pode ser atravessado por um lado. Não se pode voltar atrás através dela."}, {"op": "replace", "path": "/apexDescription", "value": "Esta porta de aparência antiga só pode ser atravessada de uma direção."}, {"op": "replace", "path": "/description", "value": "Um campo de força que só pode ser passado através de um lado."}, {"op": "replace", "path": "/shortdescription", "value": "Force Field"}, {"op": "replace", "path": "/floranDescription", "value": "Porta velha não vai deixar Floran voltar através dela."}, {"op": "replace", "path": "/humanDescription", "value": "Esta porta cria um campo de força unidirecional. Qualquer um que passar não vai poder voltar da mesma maneira"}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. Esta porta só pode ser atravessada por uma direção. Não há como voltar atrás."}]
+[
+  {
+    "op": "replace",
+    "value": "Um campo de força que só pode ser passado através de um lado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Esta porta só pode ser atravessada por uma direção. Não há como voltar atrás.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Force Field",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Porta velha não vai deixar Floran voltar através dela.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não há volta uma vez que eu atravessar esta porta.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta de aparência antiga só pode ser atravessada de uma direção.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta cria um campo de força que só pode ser atravessado por um lado. Não se pode voltar atrás através dela.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta cria um campo de força unidirecional. Qualquer um que passar não vai poder voltar da mesma maneira",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma vez que eu atravessar esta porta não vou ser capaz de voltar através dela.",
+    "path": "/avianDescription"
+  }
+]

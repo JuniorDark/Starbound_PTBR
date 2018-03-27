@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Um monitor, para... leituras de dados, talvez."}, {"op": "replace", "path": "/hylotlDescription", "value": "De acordo com estes monitores, a água nesta área é fresca."}, {"op": "replace", "path": "/description", "value": "A quantidade de dados nesta tela é enorme."}, {"op": "replace", "path": "/shortdescription", "value": "Large Monitor"}, {"op": "replace", "path": "/apexDescription", "value": "Um conjunto de monitores. Eu continuo esperando ver o rosto de Big Ape."}, {"op": "replace", "path": "/humanDescription", "value": "Um monte de leituras arcanas cintilam no monitor. Tenho certeza que alguém poderia entendê-las... mas não eu."}, {"op": "replace", "path": "/floranDescription", "value": "Muita informação para Floran compreender agora."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. As leituras sugerem que esta área é habitável para os humanos."}, {"op": "replace", "path": "/novakidDescription", "value": "Leituras de dados. Para quê?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um monitor, para... leituras de dados, talvez.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um conjunto de monitores. Eu continuo esperando ver o rosto de Big Ape.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "De acordo com estes monitores, a água nesta área é fresca.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. As leituras sugerem que esta área é habitável para os humanos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Leituras de dados. Para quê?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Large Monitor",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A quantidade de dados nesta tela é enorme.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um monte de leituras arcanas cintilam no monitor. Tenho certeza que alguém poderia entendê-las... mas não eu.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Muita informação para Floran compreender agora.",
+    "path": "/floranDescription"
+  }
+]

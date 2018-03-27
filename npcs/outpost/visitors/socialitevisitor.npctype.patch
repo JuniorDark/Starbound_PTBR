@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "A Terra está perdida, e muita arte bela com ela!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/2", "value": "Eu sou o indivíduo mas bem vestido em qualquer estabelecimento que visito!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/3", "value": "Meu traje não é o melhor que você já viu?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/1", "value": "Minha coleção de moedas de valor inestimável estava na Terra quando... Isso aconteceu. Agora estou arruinado!"}]
+[
+  {
+    "op": "replace",
+    "value": "A Terra está perdida, e muita arte bela com ela!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sou o indivíduo mas bem vestido em qualquer estabelecimento que visito!",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Meu traje não é o melhor que você já viu?",
+    "path": "/scriptConfig/dialog/converse/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Minha coleção de moedas de valor inestimável estava na Terra quando... Isso aconteceu. Agora estou arruinado!",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  }
+]

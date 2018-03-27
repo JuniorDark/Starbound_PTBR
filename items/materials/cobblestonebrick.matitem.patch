@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Cobblestone Brick"}, {"op": "replace", "path": "/description", "value": "Tijolos pequenos feitos de pedregulho."}]
+[
+  {
+    "op": "replace",
+    "value": "Tijolos feitos de pedregulho.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cobblestone Brick",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Estes tijolos são feitos de pedregulho.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijolos pequenos feitos de pedregulho.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Tijoloss de pedregulho liso.",
+    "path": "/florandescription"
+  }
+]

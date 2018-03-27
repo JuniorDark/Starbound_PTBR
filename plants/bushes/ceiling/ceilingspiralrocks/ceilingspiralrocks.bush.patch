@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Rochas em espirais."}, {"op": "replace", "path": "/floranDescription", "value": "Rochas estranhas."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Rochas em espirais."}, {"op": "replace", "path": "/description", "value": "Rochas em espirais."}]
+[
+  {
+    "op": "replace",
+    "value": "Rochas em espirais.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Rochas em espirais.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rochas estranhas.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Rochas em espirais.",
+    "path": "/glitchDescription"
+  }
+]

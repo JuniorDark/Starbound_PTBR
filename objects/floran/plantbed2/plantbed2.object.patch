@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um beliche de prisão Floran montável na parede."}, {"op": "replace", "path": "/shortdescription", "value": "Plant Wall Bunk"}, {"op": "replace", "path": "/novakidDescription", "value": "Um beliche de parede de prisão feita de plantas."}, {"op": "replace", "path": "/floranDescription", "value": "Esta cama de prisão é sustentada com vinhas fortes."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. O design desta cama permite que ela fique pendurada na parede."}, {"op": "replace", "path": "/apexDescription", "value": "Esta cama básica pode ser pendurada em uma parede."}, {"op": "replace", "path": "/humanDescription", "value": "Esta cama parece muito desconfortável, pelo menos está pendurada acima do chão."}, {"op": "replace", "path": "/avianDescription", "value": "Uma cama de prisão suspensa com vinhas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta cama Floran parece pertencer a uma cela de prisão."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cama de prisão suspensa com vinhas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um beliche de parede de prisão feita de plantas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um beliche de prisão Floran montável na parede.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. O design desta cama permite que ela fique pendurada na parede.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plant Wall Bunk",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama Floran parece pertencer a uma cela de prisão.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama básica pode ser pendurada em uma parede.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama parece muito desconfortável, pelo menos está pendurada acima do chão.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama de prisão é sustentada com vinhas fortes.",
+    "path": "/floranDescription"
+  }
+]

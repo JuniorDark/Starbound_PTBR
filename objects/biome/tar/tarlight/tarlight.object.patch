@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Neutro. Uma fonte de luz útil."}, {"op": "replace", "path": "/apexDescription", "value": "Humilde, mas útil quando cercado por piche."}, {"op": "replace", "path": "/humanDescription", "value": "Uma lanterna feita de piche."}, {"op": "replace", "path": "/avianDescription", "value": "Espero que esta lanterna seja ativada por som para que eu não tenha que tocá-la."}, {"op": "replace", "path": "/description", "value": "Uma lanterna feita de piche."}, {"op": "replace", "path": "/shortdescription", "value": "Tar Lantern"}, {"op": "replace", "path": "/floranDescription", "value": "Luz brilhante."}, {"op": "replace", "path": "/hylotlDescription", "value": "Luz em um mar de escuridão."}, {"op": "replace", "path": "/novakidDescription", "value": "Bem, fico feliz que haja uma fonte de luz."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lanterna feita de piche.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Luz brilhante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Humilde, mas útil quando cercado por piche.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que esta lanterna seja ativada por som para que eu não tenha que tocá-la.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luz em um mar de escuridão.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Uma fonte de luz útil.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tar Lantern",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lanterna feita de piche.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bem, fico feliz que haja uma fonte de luz.",
+    "path": "/novakidDescription"
+  }
+]

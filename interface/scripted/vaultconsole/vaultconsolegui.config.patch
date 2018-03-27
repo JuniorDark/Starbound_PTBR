@@ -1,1 +1,22 @@
-[{"op":"replace","path":"/gui/windowtitle/title","value":"Console do Portal do Vault"},{"op":"replace","path":"/gui/windowtitle/subtitle","value":"Ativado com uma Vault Key"}]
+[
+  {
+    "op": "replace",
+    "value": "0 / --",
+    "path": "/gui/costLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Ativado com uma Vault Key",
+    "path": "/gui/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "VAULT KEY",
+    "path": "/gui/costDescription/value"
+  },
+  {
+    "op": "replace",
+    "value": "Console do Portal do Vault",
+    "path": "/gui/windowtitle/title"
+  }
+]

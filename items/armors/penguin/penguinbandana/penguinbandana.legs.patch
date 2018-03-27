@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma bandana de tamanho Pinguim."
+    "value": "Uma bandana de tamanho Pinguim.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Penguin Bandana",
+    "path": "/shortdescription"
   }
 ]

@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Pernas de mecha semelhantes a garras, projetadas para serem simplificadas para velocidade."
+    "value": "Arc Mech Legs",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pernas de mecha semelhantes a garras, projetadas para serem simplificadas para velocidade.",
+    "path": "/description"
   }
 ]

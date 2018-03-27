@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Wiseman's Chestguard"}, {"op": "replace", "path": "/description", "value": "Pessoas sábias não são esfaqueadas no meio, é para isso que servem os peitorais."}]
+[
+  {
+    "op": "replace",
+    "value": "Pessoas sábias não são esfaqueadas no meio, é para isso que servem os peitorais.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Wiseman's Chestguard",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Hipótese. Este baú foi originalmente projetado para armazenar documentos sensíveis. Se o baú derreter, o conteúdo será arruinado."}, {"op": "replace", "path": "/description", "value": "Um baú de gelo. Totalmente seguro, até que derreta."}, {"op": "replace", "path": "/novakidDescription", "value": "Diabos, eu poderia provavelmente 'destrancar' este baú apenas ficando ao lado dele um tempo."}, {"op": "replace", "path": "/floranDescription", "value": "Floran impressionado por sssegurança sssuper fria."}, {"op": "replace", "path": "/shortdescription", "value": "Ice Chest"}, {"op": "replace", "path": "/apexDescription", "value": "Este baú não parece muito prático."}, {"op": "replace", "path": "/humanDescription", "value": "Um baú de gelo. Não parece muito seguro. Você poderia apenas derretê-lo para abrir."}, {"op": "replace", "path": "/avianDescription", "value": "Certamente alguém poderia simplesmente derreter este baú para chegar ao conteúdo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um baú feito de gelo. Não é o projeto mais sensato."}]
+[
+  {
+    "op": "replace",
+    "value": "Um baú feito de gelo. Não é o projeto mais sensato.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú de gelo. Não parece muito seguro. Você poderia apenas derretê-lo para abrir.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú de gelo. Totalmente seguro, até que derreta.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran impressionado por sssegurança sssuper fria.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Diabos, eu poderia provavelmente 'destrancar' este baú apenas ficando ao lado dele um tempo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hipótese. Este baú foi originalmente projetado para armazenar documentos sensíveis. Se o baú derreter, o conteúdo será arruinado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ice Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Certamente alguém poderia simplesmente derreter este baú para chegar ao conteúdo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este baú não parece muito prático.",
+    "path": "/apexDescription"
+  }
+]

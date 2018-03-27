@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Estas calças fazem um agradável som lenhoso ao andar.\r\n"}, {"op": "replace", "path": "/shortdescription", "value": "Rainbow Wood Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Rainbow Wood Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas calças fazem um agradável som lenhoso ao andar.\r\n",
+    "path": "/description"
+  }
+]

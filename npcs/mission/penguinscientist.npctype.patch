@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Eu acho que eu poderia fazer isso funcionar um pouco melhor. Eu vou construir o Shockhopper MK II!"}]
+[
+  {
+    "op": "replace",
+    "value": "Eu acho que eu poderia fazer isso funcionar um pouco melhor. Eu vou construir o Shockhopper MK II!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

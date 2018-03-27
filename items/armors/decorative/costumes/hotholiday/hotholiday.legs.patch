@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Holiday Skirt"}, {"op": "replace", "path": "/description", "value": "Fique notória com esta saia festiva!"}]
+[
+  {
+    "op": "replace",
+    "value": "Holiday Skirt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fique notória com esta saia festiva!",
+    "path": "/description"
+  }
+]

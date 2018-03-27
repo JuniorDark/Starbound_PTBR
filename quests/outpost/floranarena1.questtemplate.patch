@@ -1,1 +1,32 @@
-[{"op": "replace", "path": "/scriptConfig/descriptions/enterInstance", "value": "Fale com ^orange;Nuru^reset; Para viajar para a ^orange;arena^reset;"}, {"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Volte para ^orange;Nuru^reset; No ^orange;Posto Avançado^reset;"}, {"op": "replace", "path": "/scriptConfig/descriptions/findGoal", "value": "Vença a batalha da arena"}, {"op": "replace", "path": "/title", "value": "^green;Um Desafiador se Aproxima"}, {"op": "replace", "path": "/text", "value": "Ei, campeão! Um cara me convidou para um ^orange;torneio na arena de gladiador^white;, mas eu acho que você deve ir em meu lugar. Se você estiver se sentindo forte, ^green;fale comigo e eu posso te enviar para a primeira rodada^white;!"}, {"op": "replace", "path": "/completionText", "value": "Você sobreviveu! Sabia que você conseguiria. Bom trabalho, campeão!"}]
+[
+  {
+    "op": "replace",
+    "value": "Ei, campeão! Um cara me convidou para um ^orange;torneio na arena de gladiador^white;, mas eu acho que você deve ir em meu lugar. Se você estiver se sentindo forte, ^green;fale comigo e eu posso te enviar para a primeira rodada^white;!",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "Você sobreviveu! Sabia que você conseguiria. Bom trabalho, campeão!",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Um Desafiador se Aproxima",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Volte a ^orange;Nuru^reset; no ^orange;Posto Avançado^reset;",
+    "path": "/scriptConfig/descriptions/turnIn"
+  },
+  {
+    "op": "replace",
+    "value": "Fale com ^orange;Nuru^reset; para viajar para a ^orange;arena^reset;",
+    "path": "/scriptConfig/descriptions/enterInstance"
+  },
+  {
+    "op": "replace",
+    "value": "Vença a batalha de arena",
+    "path": "/scriptConfig/descriptions/findGoal"
+  }
+]

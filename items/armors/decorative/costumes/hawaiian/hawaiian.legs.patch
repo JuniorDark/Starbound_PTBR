@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Hawaiian Skirt"}, {"op": "replace", "path": "/description", "value": "Uma saia havaiana, feita de palha."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma saia havaiana, feita de palha.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Hawaiian Skirt",
+    "path": "/shortdescription"
+  }
+]

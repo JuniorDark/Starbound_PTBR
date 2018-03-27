@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Um emblema. As três gemas representam os olhos Hylotl, acho."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um símbolo do meu povo."}, {"op": "replace", "path": "/avianDescription", "value": "Os Avian preferem o simbolismo da asa sobre o simbolismo do olho."}, {"op": "replace", "path": "/humanDescription", "value": "O símbolo Hylotl para o seu povo."}, {"op": "replace", "path": "/glitchDescription", "value": "Crítico. Este símbolo Hylotl é inquietante devido a eles ter muitos olhos."}, {"op": "replace", "path": "/floranDescription", "value": "Três olhos de Hylotl encarando Floran... Floran não gosta!"}, {"op": "replace", "path": "/shortdescription", "value": "Hylotl Emblem"}, {"op": "replace", "path": "/description", "value": "É um emblema comum para os Hylotl. Três cristais que representam seus três olhos..."}, {"op": "replace", "path": "/apexDescription", "value": "O símbolo do povo Hylotl."}]
+[
+  {
+    "op": "replace",
+    "value": "Um símbolo do meu povo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um emblema. As três gemas representam os olhos Hylotl, acho.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Avian preferem o simbolismo da asa sobre o simbolismo do olho.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Crítico. Este símbolo Hylotl é inquietante devido a eles ter muitos olhos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hylotl Emblem",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um emblema comum para os Hylotl. Três cristais que representam seus três olhos...",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "O símbolo Hylotl para o seu povo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O símbolo do povo Hylotl.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Três olhos de Hylotl encarando Floran... Floran não gosta!",
+    "path": "/floranDescription"
+  }
+]

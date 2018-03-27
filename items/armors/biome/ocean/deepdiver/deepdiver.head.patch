@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Deep Diver Helmet"}, {"op": "replace", "path": "/description", "value": "Um capacete de mergulho enferrujado velho. Não é muito fácil ver com um desses!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um capacete de mergulho enferrujado velho. Não é muito fácil ver com um desses!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Deep Diver Helmet",
+    "path": "/shortdescription"
+  }
+]

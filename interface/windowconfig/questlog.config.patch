@@ -1,1 +1,67 @@
-[{"op": "replace", "path": "/trackLabel", "value": "Rastrear Missão "}, {"op": "replace", "path": "/untrackLabel", "value": "Parar de Rastrear"}, {"op": "replace", "path": "/paneLayout/scrollArea/children/verticalLayout/children/sideQuestHeader/value", "value": "MISSÕES SECUNDARIAS"}, {"op": "replace", "path": "/paneLayout/lblQuestBody/value", "value": "quest body of the Secret of the Avian Troll Master quest bla"}, {"op": "replace", "path": "/paneLayout/scrollArea/children/verticalLayout/children/mainQuestHeader/value", "value": "MISSÕES PRINCIPAIS"}, {"op": "replace", "path": "/paneLayout/lblQuestTitle/value", "value": "Segredo do Mestre Avian Troll"}, {"op": "replace", "path": "/paneLayout/filter/buttons/0/text", "value": "Ativa"}, {"op": "replace", "path": "/paneLayout/filter/buttons/1/text", "value": "Completada"}, {"op": "replace", "path": "/paneLayout/btnToggleTracking/caption", "value": "Alternar Rastreamento"}, {"op": "replace", "path": "/paneLayout/btnAbandon/caption", "value": "Abandonar"}, {"op": "replace", "path": "/paneLayout/lblRewards/value", "value": "PRÊMIOS:"}, {"op": "replace", "path": "/paneLayout/windowtitle/title", "value": "Diário de Missões"}, {"op": "replace", "path": "/paneLayout/windowtitle/subtitle", "value": "^#b9b5b2;Mantenha o controle de suas missões ^green;[J]"}]
+[
+  {
+    "op": "replace",
+    "value": "Abandonar",
+    "path": "/paneLayout/btnAbandon/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Ativa",
+    "path": "/paneLayout/filter/buttons/0/text"
+  },
+  {
+    "op": "replace",
+    "value": "Completada",
+    "path": "/paneLayout/filter/buttons/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "MISSÕES PRINCIPAIS",
+    "path": "/paneLayout/scrollArea/children/verticalLayout/children/mainQuestHeader/value"
+  },
+  {
+    "op": "replace",
+    "value": "Diário de Missões",
+    "path": "/paneLayout/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "MISSÕES SECUNDARIAS",
+    "path": "/paneLayout/scrollArea/children/verticalLayout/children/sideQuestHeader/value"
+  },
+  {
+    "op": "replace",
+    "value": "Parar de Rastrear",
+    "path": "/untrackLabel"
+  },
+  {
+    "op": "replace",
+    "value": "Alternar Rastreamento",
+    "path": "/paneLayout/btnToggleTracking/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Rastrear Missão ",
+    "path": "/trackLabel"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Mantenha o controle de suas missões ^green;[J]",
+    "path": "/paneLayout/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "PRÊMIOS:",
+    "path": "/paneLayout/lblRewards/value"
+  },
+  {
+    "op": "replace",
+    "value": "Segredo do Mestre Avian Troll",
+    "path": "/paneLayout/lblQuestTitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "quest body of the Secret of the Avian Troll Master quest bla",
+    "path": "/paneLayout/lblQuestBody/value"
+  }
+]

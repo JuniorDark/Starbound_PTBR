@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um rifle militar enferrujado."}, {"op": "replace", "path": "/shortdescription", "value": "NPC Deadbeat Assault Rifle"}]
+[
+  {
+    "op": "replace",
+    "value": "Um rifle militar enferrujado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "NPC Deadbeat Assault Rifle",
+    "path": "/shortdescription"
+  }
+]

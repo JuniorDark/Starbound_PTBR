@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "A bigorna funciona, eu me pergunto que seres fizeram isso."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta bigorna parece antiga..."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta bigorna parece extremamente antiga, mas ainda funcional."}, {"op": "replace", "path": "/avianDescription", "value": "Esta bigorna é de origem antiga"}, {"op": "replace", "path": "/humanDescription", "value": "Uma bigorna feita para suportar o teste do tempo"}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. As aplicações técnicas desta bigorna são tão avançadas quanto antigas."}, {"op": "replace", "path": "/floranDescription", "value": "Floran aperta botões. Faz coisasss acontecerem!"}, {"op": "replace", "path": "/shortdescription", "value": "Weapon Upgrade Anvil"}, {"op": "replace", "path": "/description", "value": "Esta tecnologia antiga avançada pode aumentar a eficácia de algumas armas."}]
+[
+  {
+    "op": "replace",
+    "value": "Floran aperta botões. Faz coisasss acontecerem!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bigorna feita para suportar o teste do tempo",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. As aplicações técnicas desta bigorna são tão avançadas quanto antigas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A bigorna funciona, eu me pergunto que seres fizeram isso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta tecnologia antiga avançada pode aumentar a eficácia de algumas armas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta bigorna é de origem antiga",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta bigorna parece antiga...",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta bigorna parece extremamente antiga, mas ainda funcional.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Weapon Upgrade Anvil",
+    "path": "/shortdescription"
+  }
+]

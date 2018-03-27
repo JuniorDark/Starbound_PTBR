@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Doces! Sim!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Isso parece saboroso."}, {"op": "replace", "path": "/description", "value": "Uma grande e deliciosa jujuba vermelha! Gostoso!"}, {"op": "replace", "path": "/shortdescription", "value": "Big Red Gumdrop"}, {"op": "replace", "path": "/floranDescription", "value": "Floran come grande doce vermelho!"}, {"op": "replace", "path": "/glitchDescription", "value": "Declaração. Uma jujuba vermelha saborosa."}, {"op": "replace", "path": "/avianDescription", "value": "Uma grande jujuba vermelha. Saboroso."}, {"op": "replace", "path": "/apexDescription", "value": "Uma jujuba vermelha saborosa."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma jujuba de aparência saborosa."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma grande e deliciosa jujuba vermelha! Gostoso!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Big Red Gumdrop",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Doces! Sim!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto parece saboroso.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma grande jujuba vermelha. Saboroso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma jujuba de aparência saborosa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma jujuba vermelha saborosa.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran come grande doce vermelho!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Declaração. Uma jujuba vermelha saborosa.",
+    "path": "/glitchDescription"
+  }
+]

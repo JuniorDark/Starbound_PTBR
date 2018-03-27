@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Heart Wreath"}, {"op": "replace", "path": "/description", "value": "Uma grinalda de folhas e um coração. Deixe-o mostrar o seu amor!"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma grinalda de folhas e um coração. Deixe-o mostrar o seu amor!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Heart Wreath",
+    "path": "/shortdescription"
+  }
+]

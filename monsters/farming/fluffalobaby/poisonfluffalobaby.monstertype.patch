@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A dieta de um fluffalo recém-nascido determina que tipo ele cresce."}, {"op": "replace", "path": "/shortdescription", "value": "Fluffalo Calf"}]
+[
+  {
+    "op": "replace",
+    "value": "A dieta de um fluffalo recém-nascido determina o tipo que ele se transforma.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Fluffalo Calf",
+    "path": "/shortdescription"
+  }
+]

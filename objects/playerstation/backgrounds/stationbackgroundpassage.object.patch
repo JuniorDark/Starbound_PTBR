@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Passage piece background",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Passage piece background",
+    "path": "/shortdescription"
+  }
+]

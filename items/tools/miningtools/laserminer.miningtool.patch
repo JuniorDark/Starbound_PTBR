@@ -1,17 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/category",
-    "value": "tool"
+    "value": "Laser Mining Tool",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/shortdescription",
-    "value": "Laser Mining Tool"
-  },
-  {
-    "op": "replace",
-    "path": "/description",
-    "value": "Picaretas são tão ultrapassadas! Lasers são o futuro."
+    "value": "Picaretas são tão ultrapassadas! Lasers são o futuro.",
+    "path": "/description"
   }
 ]

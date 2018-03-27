@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "O tipo de mesa que é usado exclusivamente para tomar decisões importantes."}, {"op": "replace", "path": "/shortdescription", "value": "Classic Desk"}, {"op": "replace", "path": "/floranDescription", "value": "Que mesa brilhante. Talvez homem-macaco são cegados quando decisõess são tomadas."}, {"op": "replace", "path": "/glitchDescription", "value": "Surpreso. Os Glitch valorizam o ouro altamente, daria pra comprar um pequeno forte com tal mesa."}, {"op": "replace", "path": "/apexDescription", "value": "Que decisões medonhas foram tomadas nesta mesa?"}, {"op": "replace", "path": "/humanDescription", "value": "Eu não me sinto importante o suficiente para sentar em uma mesa como esta."}, {"op": "replace", "path": "/avianDescription", "value": "Embora os Avians não valorizem o ouro tão altamente quanto alguns, eu estou espantado pelo artesanato no indicador aqui."}, {"op": "replace", "path": "/hylotlDescription", "value": "Às vezes os humildes tomam as melhores decisões."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta mesa parece que é para olhar para não usar."}]
+[
+  {
+    "op": "replace",
+    "value": "Surpreso. Os Glitch valorizam o ouro altamente, daria pra comprar um pequeno forte com tal mesa.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não me sinto importante o suficiente para sentar em uma mesa como esta.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Às vezes os humildes tomam as melhores decisões.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que mesa brilhante. Talvez homem-macaco são cegados quando decisõess são tomadas.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O tipo de mesa que é usado exclusivamente para tomar decisões importantes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa parece que é para olhar para não usar.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Embora os Avians não valorizem o ouro tão altamente quanto alguns, eu estou espantado pelo artesanato no indicador aqui.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que decisões medonhas foram tomadas nesta mesa?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Classic Desk",
+    "path": "/shortdescription"
+  }
+]

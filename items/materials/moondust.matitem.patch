@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Moondust, a coisa que os sonhos são feitos."}, {"op": "replace", "path": "/shortdescription", "value": "Moondust"}]
+[
+  {
+    "op": "replace",
+    "value": "Encantado. Esta poeira lunar é suave ao toque.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ama poeira lunar colorida.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para mim parece como poeira lunar.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Moondust",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Poeira lunar, a coisa que os sonhos são feitos.",
+    "path": "/description"
+  }
+]

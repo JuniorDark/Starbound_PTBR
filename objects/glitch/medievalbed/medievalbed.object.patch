@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Lençóis Glitch tendem a ficar sedosos, já que a nossa lataria de metal não os desgasta."}, {"op": "replace", "path": "/floranDescription", "value": "Floran desfruta do toque de cama de ssseda."}, {"op": "replace", "path": "/apexDescription", "value": "A cama é dura, mas os lençóis são sedosos."}, {"op": "replace", "path": "/humanDescription", "value": "Lençóis de seda numa cama dura."}, {"op": "replace", "path": "/hylotlDescription", "value": "Lençóis de seda fina. Os Hylotl fazem bom uso de sedas."}, {"op": "replace", "path": "/description", "value": "Uma cama firme com lençóis de seda."}, {"op": "replace", "path": "/shortdescription", "value": "Medieval Bed"}, {"op": "replace", "path": "/avianDescription", "value": "Os lençóis são agradavelmente macios ao toque."}, {"op": "replace", "path": "/novakidDescription", "value": "Lençóis bonitos não fazem uma boa cama."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cama firme com lençóis de seda.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Lençóis de seda fina. Os Hylotl fazem bom uso de sedas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran desfruta do toque de cama de ssseda.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Medieval Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lençóis bonitos não fazem uma boa cama.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Lençóis Glitch tendem a ficar sedosos, já que a nossa lataria de metal não os desgasta.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lençóis de seda numa cama dura.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A cama é dura, mas os lençóis são sedosos.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os lençóis são agradavelmente macios ao toque.",
+    "path": "/avianDescription"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Esta rocha estranha vem de um mundo alienígena."}, {"op": "replace", "path": "/shortdescription", "value": "Alien Rock"}]
+[
+  {
+    "op": "replace",
+    "value": "Alien Rock",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Maravilhado. Esta rocha é de origem alienígena.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de rochas estranhass.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de rocha alienígena.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta rocha estranha vem de um mundo alienígena.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Interessado. O que faz este bloco ficar no lugar?"}, {"op": "replace", "path": "/description", "value": "Um bloco de arremesso pequeno que adere à superfícies."}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de jogar blocos!"}, {"op": "replace", "path": "/novakidDescription", "value": "Alguns blocos que só foram feitos para jogar."}, {"op": "replace", "path": "/shortdescription", "value": "Throwing Block"}]
+[
+  {
+    "op": "replace",
+    "value": "Throwing Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um bloco de arremesso pequeno que adere à superfícies.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de jogar blocos!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. O que faz este bloco ficar no lugar?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns blocos que só foram feitos para jogar.",
+    "path": "/novakidDescription"
+  }
+]

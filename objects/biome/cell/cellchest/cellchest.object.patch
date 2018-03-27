@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Tem uma aparência metálica, mas é realmente feito de material orgânico."}, {"op": "replace", "path": "/description", "value": "Um baú com uma fechadura esférica."}, {"op": "replace", "path": "/shortdescription", "value": "Cell Chest"}, {"op": "replace", "path": "/glitchDescription", "value": "Não entusiasmado. Que belo baú..."}, {"op": "replace", "path": "/humanDescription", "value": "Eu sei que é feito de células, mas parece que é feito de doces."}, {"op": "replace", "path": "/avianDescription", "value": "A tranca parece como uma espécie de baga, que é bom."}, {"op": "replace", "path": "/hylotlDescription", "value": "Eufemismo não era uma palavra familiar para o designer deste baú."}, {"op": "replace", "path": "/floranDescription", "value": "É brilhante, mas parece estúpido demais para interessar Floran."}, {"op": "replace", "path": "/novakidDescription", "value": "Um pouco notável demais para manter qualquer coisa importante dentro."}]
+[
+  {
+    "op": "replace",
+    "value": "Um baú com uma fechadura esférica.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um pouco notável demais para manter qualquer coisa importante dentro.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cell Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sei que é feito de células, mas parece que é feito de doces.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tem uma aparência metálica, mas é realmente feito de material orgânico.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É brilhante, mas parece estúpido demais para interessar Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A tranca parece como uma espécie de baga, que é bom.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eufemismo não era uma palavra familiar para o designer deste baú.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não entusiasmado. Que belo baú...",
+    "path": "/glitchDescription"
+  }
+]

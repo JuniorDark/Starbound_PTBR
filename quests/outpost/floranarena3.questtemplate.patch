@@ -1,1 +1,32 @@
-[{"op": "replace", "path": "/text", "value": "Eu tenho um último desafio para você! Um cara assustador de armadura chamado ^orange;Templar Inferno^white; quer lutar com você. Ele gossta de fogo, e eu quero dizer muito. Talvez seja bom você levar um ^orange;Burn Resistance Spray^white; para se defender de sua horda de monstross flamejantess... Enfim, fale comigo quando estiver pronto e eu vou te teleportar pra lá."}, {"op": "replace", "path": "/scriptConfig/descriptions/findGoal", "value": "Vença a batalha de arena"}, {"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Volte a ^orange;Nuru^reset; no ^orange;Posto Avançado^reset;"}, {"op": "replace", "path": "/scriptConfig/descriptions/enterInstance", "value": "Fale com ^orange;Nuru^reset; para viajar para a ^orange;arena^reset;"}, {"op": "replace", "path": "/title", "value": "^green;Arena de Fogo"}, {"op": "replace", "path": "/completionText", "value": "Você conseguiu! Mesmo com todo o fogo! Impressionante! Aqui, pegue a Templar Inferno's sword - Você merece isso, campeão! Não me pergunte como eu consegui."}]
+[
+  {
+    "op": "replace",
+    "value": "Eu tenho um último desafio para você! Um cara assustador de armadura chamado ^orange;Templar Inferno^white; quer lutar com você. Ele gossta de fogo, e eu quero dizer muito. Talvez seja bom você levar um ^orange;Burn Resistance Spray^white; para se defender de sua horda de monstross flamejantess... Enfim, fale comigo quando estiver pronto e eu vou te teleportar pra lá.",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "Você conseguiu! Mesmo com todo o fogo! Impressionante! Aqui, pegue a Templar Inferno's sword - Você merece isso, campeão! Não me pergunte como eu consegui.",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Arena de Fogo",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Volte a ^orange;Nuru^reset; no ^orange;Posto Avançado^reset;",
+    "path": "/scriptConfig/descriptions/turnIn"
+  },
+  {
+    "op": "replace",
+    "value": "Fale com ^orange;Nuru^reset; para viajar para a ^orange;arena^reset;",
+    "path": "/scriptConfig/descriptions/enterInstance"
+  },
+  {
+    "op": "replace",
+    "value": "Vença a batalha de arena",
+    "path": "/scriptConfig/descriptions/findGoal"
+  }
+]

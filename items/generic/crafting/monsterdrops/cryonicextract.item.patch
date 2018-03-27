@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um produto químico orgânico gelado. Pode ser usado para fabricação."}, {"op": "replace", "path": "/shortdescription", "value": "Cryonic Extract"}]
+[
+  {
+    "op": "replace",
+    "value": "Um produto químico orgânico gelado. Pode ser usado para fabricação.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cryonic Extract",
+    "path": "/shortdescription"
+  }
+]

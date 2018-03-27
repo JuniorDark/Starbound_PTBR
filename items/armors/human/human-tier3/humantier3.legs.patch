@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Calças de titânio com uma aba conveniente na parte traseira."}, {"op": "replace", "path": "/shortdescription", "value": "Pioneer's Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Pioneer's Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Calças de titânio com uma aba conveniente na parte traseira.",
+    "path": "/description"
+  }
+]

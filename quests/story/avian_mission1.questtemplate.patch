@@ -1,1 +1,207 @@
-[{"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/7/text", "value": "Onde seria o lugar que os Avians do passado distante esconderiam algo valioso? Desculpe querido(a), só estava pensando em voz alta!"}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/1/text", "value": "Interessante. Isso certamente terá uma influência na minha pesquisa."}, {"op": "replace", "path": "/scriptConfig/descriptions/findClues", "value": "^green;Escaneie objetos^reset; para achar ^orange;pistas sobre o Artefato Avian^reset;"}, {"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Volte a ^orange;Esther^reset; no ^orange;Ark^reset;"}, {"op": "replace", "path": "/completionText", "value": "Com essa última pista temos tudo o que precisamos para encontrar o artefato Avian! Obrigado por todo esse trabalho duro."}, {"op": "replace", "path": "/title", "value": "Encontre Pistas para Localizar o Artefato Avian"}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/3/text", "value": "Uma pista de pequena implicação, mas relevante no entanto!"}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/9/text", "value": "Esta pista sugere informações ocultas."}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/0/text", "value": "Hmmm, que curioso... Eu preciso cruzar as referências disso."}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/4/text", "value": "Isto é excelente, tudo o que você encontrar contribui para a formação de uma teoria."}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/2/text", "value": "O povo Avian têm uma relação fascinante com seu deus. Estas pequenas pistas apontam para uma verdade maior."}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/5/text", "value": "O passado é cheio de segredos clamando para ser descobertos. Bem achado, querido(a)!"}, {"op": "replace", "path": "/scriptConfig/radioMessages/startWithProgress/text", "value": "Parece que você já encontrou alguns itens que fornecem pistas para o paradeiro do artefato. Vou começar a minha análise nestes enquanto você procura mais!"}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/kluexstatue2/text", "value": "Uma representação incomum de Kluex, e a descrição que acompanha é estranha e cheia de promessas!"}, {"op": "replace", "path": "/scriptConfig/radioMessages/startAlreadyComplete/text", "value": "Você é um bom colecionador de antiguidades Avian! Parece que você já localizou pistas suficientes que me permite identificar a localização do Artefato!"}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/kluexmap1/text", "value": "Isto parece uma representação antiga de um mapa estelar. Talvez isso trace a localização de algo importante?"}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/6/text", "value": "Você ficaria surpreso(a) o quanto as pequenas coisas ajudam!"}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/kluexmural1/text", "value": "Este mural descreve um grande tesouro celeste... Descrições do artefato Avian poderia facilmente ser expressadas em tais termos."}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/8/text", "value": "Até mesmo o menor pedaço de evidência pode ajudar a descobrir os segredos mais grandiosos do universo."}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/kluexmural2/text", "value": "Este mural é antigo e revela grandes mistérios desde perdido."}, {"op": "replace", "path": "/scriptConfig/radioMessages/complete/text", "value": "O Grande Templo Sovereign... Deve ser ele! Essa é toda a informação que precisávamos. ^#71f2f6;Volte ao Ark quando estiver pronto^white;, querido(a)."}, {"op": "replace", "path": "/text", "value": "^orange;Avians^reset; em seguida, eu acho! Talvez seja melhor ir ^green;para planetas onde o terreno de ^orange;selva^white; é abundante - Avians gostam de habitar tais lugares. Você encontrará esses tipos de planetas ao redor de ^orange;estrelas radioativas.^white; Nos vemos em breve, querido(a). Tenha cuidado e feliz caça!"}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/kluexstatue1/text", "value": "Que estátua estranha. E a inscrição na base é ainda mais intrigante do que a imagem. Pode parecer simples, mas na verdade os detalhes são complicados e provavelmente causaram problemas, querido(a)."}]
+[
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/complete/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/0/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/1/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/2/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/3/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/4/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/5/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/6/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/7/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/8/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/9/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/startAlreadyComplete/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/startWithProgress/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/kluexmap1/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/kluexmural1/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/kluexmural2/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/kluexstatue1/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/kluexstatue2/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Volte a ^orange;Esther^reset; no ^orange;Ark^reset;",
+    "path": "/scriptConfig/descriptions/turnIn"
+  },
+  {
+    "op": "replace",
+    "value": "Uma representação incomum de Kluex, e a descrição que acompanha é estranha e cheia de promessas!",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/kluexstatue2/text"
+  },
+  {
+    "op": "replace",
+    "value": "Encontre Pistas para Localizar o Artefato Avian",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "O povo Avian têm uma relação fascinante com seu deus. Estas pequenas pistas apontam para uma verdade maior.",
+    "path": "/scriptConfig/radioMessages/genericProgress/2/text"
+  },
+  {
+    "op": "replace",
+    "value": "O Grande Templo Sovereign... Deve ser ele! Essa é toda a informação que precisávamos. ^#71f2f6;Volte ao Ark quando estiver pronto^white;, querido(a).",
+    "path": "/scriptConfig/radioMessages/complete/text"
+  },
+  {
+    "op": "replace",
+    "value": "O passado é cheio de segredos clamando para ser descobertos. Bem achado, querido(a)!",
+    "path": "/scriptConfig/radioMessages/genericProgress/5/text"
+  },
+  {
+    "op": "replace",
+    "value": "Isto parece uma representação antiga de um mapa estelar. Talvez isso trace a localização de algo importante?",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/kluexmap1/text"
+  },
+  {
+    "op": "replace",
+    "value": "Este mural descreve um grande tesouro celeste... Descrições do artefato Avian poderia facilmente ser expressadas em tais termos.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/kluexmural1/text"
+  },
+  {
+    "op": "replace",
+    "value": "Este mural é antigo e revela grandes mistérios desde perdido.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/kluexmural2/text"
+  },
+  {
+    "op": "replace",
+    "value": "Que estátua estranha. E a inscrição na base é ainda mais intrigante do que a imagem. Pode parecer simples, mas na verdade os detalhes são complicados e provavelmente causaram problemas, querido(a).",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/kluexstatue1/text"
+  },
+  {
+    "op": "replace",
+    "value": "Onde seria o lugar que os Avians do passado distante esconderiam algo valioso? Desculpe querido(a), só estava pensando em voz alta!",
+    "path": "/scriptConfig/radioMessages/genericProgress/7/text"
+  },
+  {
+    "op": "replace",
+    "value": "Com essa última pista temos tudo o que precisamos para encontrar o artefato Avian! Obrigado por todo esse trabalho duro.",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "Você ficaria surpreso(a) o quanto as pequenas coisas ajudam!",
+    "path": "/scriptConfig/radioMessages/genericProgress/6/text"
+  },
+  {
+    "op": "replace",
+    "value": "Você é um bom colecionador de antiguidades Avian! Parece que você já localizou pistas suficientes que me permite identificar a localização do Artefato!",
+    "path": "/scriptConfig/radioMessages/startAlreadyComplete/text"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Escaneie objetos^reset; para achar ^orange;pistas sobre o Artefato Avian^reset;",
+    "path": "/scriptConfig/descriptions/findClues"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Avians^reset; em seguida, eu acho! Talvez seja melhor ir ^green;para planetas onde o terreno de ^orange;selva^white; é abundante - Avians gostam de habitar tais lugares. Você encontrará esses tipos de planetas ao redor de ^orange;estrelas radioativas.^white; Nos vemos em breve, querido(a). Tenha cuidado e feliz caça!",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pista de pequena implicação, mas relevante no entanto!",
+    "path": "/scriptConfig/radioMessages/genericProgress/3/text"
+  },
+  {
+    "op": "replace",
+    "value": "Até mesmo o menor pedaço de evidência pode ajudar a descobrir os segredos mais grandiosos do universo.",
+    "path": "/scriptConfig/radioMessages/genericProgress/8/text"
+  },
+  {
+    "op": "replace",
+    "value": "Hmmm, que curioso... Eu preciso cruzar as referências disso.",
+    "path": "/scriptConfig/radioMessages/genericProgress/0/text"
+  },
+  {
+    "op": "replace",
+    "value": "Interessante. Isso certamente terá influência na minha pesquisa.",
+    "path": "/scriptConfig/radioMessages/genericProgress/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que você já encontrou alguns itens que fornecem pistas para o paradeiro do artefato. Vou começar a minha análise nestes enquanto você procura mais!",
+    "path": "/scriptConfig/radioMessages/startWithProgress/text"
+  },
+  {
+    "op": "replace",
+    "value": "Esta pista sugere informações ocultas.",
+    "path": "/scriptConfig/radioMessages/genericProgress/9/text"
+  },
+  {
+    "op": "replace",
+    "value": "Isto é excelente, tudo o que encontrar contribuirá para a formação de uma teoria.",
+    "path": "/scriptConfig/radioMessages/genericProgress/4/text"
+  }
+]

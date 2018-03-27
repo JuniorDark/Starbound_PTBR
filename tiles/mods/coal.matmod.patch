@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/description", "value": "Minério de carvão."}]
+[
+  {
+    "op": "replace",
+    "value": "Minério de carvão.",
+    "path": "/description"
+  }
+]

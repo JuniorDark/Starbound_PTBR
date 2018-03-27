@@ -1,1 +1,52 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/9", "value": "Floran gastou muuuito pixels em tinta preta!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/1", "value": "Com este traje, posso asssustar a presa antes de atacar!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/4", "value": "Você pode dizer que eu sou um Floran debaixo dissto?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Floran fez essa fantasia asssustadora!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/5", "value": "Roupas asssustadoras faz pessoas respeitar Floran!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/6", "value": "Será que este equipamento asssusta você no escuro?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/2", "value": "Você não quer saber quantos pixels Floran gastou com tinta preta recentemente!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/7", "value": "Minha casa pode ser asssustadora, mas Floran é realmente super amigável!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/3", "value": "Minha fantasia é tão asssustadora"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/8", "value": "O que você acha das roupas asssustadoras de Floran?"}]
+[
+  {
+    "op": "replace",
+    "value": "Você pode dizer que eu sou um Floran debaixo dissto?",
+    "path": "/scriptConfig/dialog/converse/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Floran fez essa fantasia asssustadora!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gastou muuuito pixels em tinta preta!",
+    "path": "/scriptConfig/dialog/converse/default/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "Minha fantasia é tão asssustadora",
+    "path": "/scriptConfig/dialog/converse/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Minha casa pode ser asssustadora, mas Floran é realmente super amigável!",
+    "path": "/scriptConfig/dialog/converse/default/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "Roupas asssustadoras faz pessoas respeitar Floran!",
+    "path": "/scriptConfig/dialog/converse/default/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "O que você acha das roupas asssustadoras de Floran?",
+    "path": "/scriptConfig/dialog/converse/default/default/8"
+  },
+  {
+    "op": "replace",
+    "value": "Com este traje, posso asssustar a presa antes de atacar!",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Será que este equipamento asssusta você no escuro?",
+    "path": "/scriptConfig/dialog/converse/default/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Você não quer saber quantos pixels Floran gastou com tinta preta recentemente!",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  }
+]

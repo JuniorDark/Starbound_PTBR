@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Este capacete de violium é construído para a exploração das profundezas."}, {"op": "replace", "path": "/shortdescription", "value": "Ocean Helm"}]
+[
+  {
+    "op": "replace",
+    "value": "Ocean Helm",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este capacete de violium é construído para a exploração das profundezas.",
+    "path": "/description"
+  }
+]

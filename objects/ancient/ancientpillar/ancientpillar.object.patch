@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um pilar antigo encontrado próximo aos portões. Ele produz luz."}, {"op": "replace", "path": "/shortdescription", "value": "Ancient Pillar"}, {"op": "replace", "path": "/glitchDescription", "value": "Perceptivo. Este brilho etéreo é produzido por uma substância que não reconheço. "}, {"op": "replace", "path": "/floranDescription", "value": "Pedra brilhante! Floran se lembra de um sol se pondo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este pilar elevado deve ter presenciado muita história. "}, {"op": "replace", "path": "/apexDescription", "value": "Um pilar brilhante antigo. Estou impressionado."}, {"op": "replace", "path": "/humanDescription", "value": "É como um poste de luz antigo!"}, {"op": "replace", "path": "/avianDescription", "value": "Um monólito brilhante. O universo é maravilhoso."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta pedra brilhante me lembra de uma lua distante."}]
+[
+  {
+    "op": "replace",
+    "value": "Um monólito brilhante. O universo é maravilhoso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pilar brilhante antigo. Estou impressionado.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pilar antigo encontrado próximo aos portões. Ele produz luz.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ancient Pillar",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "É como um poste de luz antigo!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perceptivo. Este brilho etéreo é produzido por uma substância que não reconheço. ",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedra brilhante! Floran se lembra de um sol se pondo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta pedra brilhante me lembra de uma lua distante.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este pilar elevado deve ter presenciado muita história. ",
+    "path": "/hylotlDescription"
+  }
+]

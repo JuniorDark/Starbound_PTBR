@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma exibição holográfica cintilante de um planeta não identificado."
+    "value": "Uma exibição holográfica cintilante de um planeta não identificado.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Um holograma de um planeta e uma lua. A qualidade da projeção é questionável."
+    "value": "Uma imagem flutuante de um mundo de céu azul.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Um holograma de um planeta - uma imagem tridimensional feita de luz!"
+    "value": "Um holograma de um planeta - uma imagem tridimensional feita de luz!",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Floran não pode jogar bola azul, bola não é real."
+    "value": "Um holograma de um planeta e uma lua. A qualidade da projeção é questionável.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Curioso. Me pergunto que planeta esse holograma está retratando?"
+    "value": "O azul é realmente a melhor cor para as projeções holográficas.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Ainda me pergunto por que todos os hologramas são obrigados a ser azul. É uma escolha estilística?"
+    "value": "Curioso. Me pergunto que planeta esse holograma está retratando?",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "O azul é realmente a melhor cor para as projeções holográficas."
+    "value": "Floran não pode jogar bola azul, bola não é real.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Uma imagem flutuante de um mundo de céu azul."
+    "value": "Ainda me pergunto por que todos os hologramas são obrigados a ser azul. É uma escolha estilística?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Station Hologram",
+    "path": "/shortdescription"
   }
 ]

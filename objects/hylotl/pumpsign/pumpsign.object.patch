@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Este placa indicará se a bomba está ligada ou desligada."}, {"op": "replace", "path": "/description", "value": "Uma placa que indica o status de uma bomba."}, {"op": "replace", "path": "/floranDescription", "value": "A placa diz a Floran se a bomba está funcionando."}, {"op": "replace", "path": "/glitchDescription", "value": "Contente. Esta placa de baixa potência tem dois estados."}, {"op": "replace", "path": "/humanDescription", "value": "Uma placa muito útil."}, {"op": "replace", "path": "/avianDescription", "value": "Um eletrônico simplista."}, {"op": "replace", "path": "/novakidDescription", "value": "Útil para verificar se a bomba está operando."}, {"op": "replace", "path": "/shortdescription", "value": "Pump Sign"}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma placa brilhante."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma placa que indica o status de uma bomba.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um eletrônico simplista.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa muito útil.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Contente. Esta placa de baixa potência tem dois estados.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pump Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A placa diz a Floran se a bomba está funcionando.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este placa indicará se a bomba está ligada ou desligada.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Útil para verificar se a bomba está operando.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa que brilha suavemente.",
+    "path": "/hylotlDescription"
+  }
+]

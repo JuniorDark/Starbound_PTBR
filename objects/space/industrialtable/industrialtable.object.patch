@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma mesa de metal frio, construída para sobreviver a viagens turbulentas."
+    "value": "Uma mesa de metal frio, construída para sobreviver a viagens turbulentas.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Esta mesa parece muito robusta - eu me sentiria seguro escondido sob ela durante um terremoto."
+    "value": "Se você não consegue decidir como decorar uma peça de mobiliário, a melhor solução é não colocar listras de advertência sobre ela.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Não há muito a dizer sobre esta mesa fria e impessoal."
+    "value": "Industrial Table",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Mesa parece pesada."
+    "value": "Deve levar um ferreiro um dia inteiro de martelar para fazer uma mesa plana desse jeito!",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Não impressionado. Esta mesa precisa de um pouco de decoração."
+    "value": "Mesa parece pesada.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Se você não consegue decidir como decorar uma peça de mobiliário, a melhor solução é não colocar listras de advertência sobre ela."
+    "value": "A forma desta mesa é tão rígida. Onde está a elegância?!",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "A forma desta mesa é tão rígida. Onde está a elegância?!"
+    "value": "Não há muito a dizer sobre esta mesa fria e impessoal.",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Deve levar um ferreiro um dia inteiro de martelar para fazer uma mesa plana desse jeito!"
+    "value": "Esta mesa parece muito robusta - eu me sentiria seguro escondido sob ela durante um terremoto.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não impressionado. Esta mesa precisa de um pouco de decoração.",
+    "path": "/glitchDescription"
   }
 ]

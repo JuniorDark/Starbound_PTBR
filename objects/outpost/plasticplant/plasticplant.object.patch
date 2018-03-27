@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran essfaqueia planta impostora!"}, {"op": "replace", "path": "/glitchDescription", "value": "Incerto. É uma planta falsa melhor ou pior do que uma real?"}, {"op": "replace", "path": "/description", "value": "Uma planta de plástico falsa. Não é uma árvore."}, {"op": "replace", "path": "/shortdescription", "value": "Plastic Plant"}, {"op": "replace", "path": "/apexDescription", "value": "Esta planta não é real!"}, {"op": "replace", "path": "/humanDescription", "value": "Me lembra de salas de espera."}, {"op": "replace", "path": "/avianDescription", "value": "Uma planta falsa."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma planta de plastico falsa, repugnante."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma planta falsa - sem trabalho da natureza"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma planta falsa - sem trabalho da natureza",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta falsa.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta de plástico falsa. Não é uma árvore.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran essfaqueia planta impostora!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plastic Plant",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta planta não é real!",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Incerto. É uma planta falsa melhor ou pior do que uma real?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta de plastico falsa, repugnante.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me lembra de salas de espera.",
+    "path": "/humanDescription"
+  }
+]

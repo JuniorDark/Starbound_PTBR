@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Uma boa maneira de usar o espaço vazio."}, {"op": "replace", "path": "/description", "value": "Um armário suspenso resistente."}, {"op": "replace", "path": "/floranDescription", "value": "Transformar paredess em armazenamento. Inteligente."}, {"op": "replace", "path": "/apexDescription", "value": "Útil para adicionar o armazenamento adicional a um quarto."}, {"op": "replace", "path": "/humanDescription", "value": "Um par de armários de parede. Bom para economizar espaço."}, {"op": "replace", "path": "/shortdescription", "value": "Double Wall Cabinet"}, {"op": "replace", "path": "/glitchDescription", "value": "Otimista. Armazenamento suspenso. Útil."}, {"op": "replace", "path": "/avianDescription", "value": "Um armário de parede, para armazenar itens no alto."}, {"op": "replace", "path": "/novakidDescription", "value": "Um armário útil montado na parede."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma boa maneira de usar o espaço vazio.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário útil montado na parede.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário suspenso resistente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário de parede, para armazenar itens no alto.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Otimista. Armazenamento suspenso. Útil.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Transformar paredess em armazenamento. Inteligente.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Útil para adicionar o armazenamento adicional a um quarto.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um par de armários de parede. Bom para economizar espaço.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Double Wall Cabinet",
+    "path": "/shortdescription"
+  }
+]

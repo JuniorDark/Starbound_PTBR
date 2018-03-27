@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/1", "value": "Debaixo desta roupa amarela, meu coração bate pelo amor da descoberta!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/3", "value": "Mesmo se toda a cultura fosse de alguma forma perdida, as pessoas ainda acabaria por redescobrir a ciência. Isso não é fascinante?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Eu estou apenas visitando aqui para pegar alguns materiais de pesquisa!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/2", "value": "Eu não vou ficar aqui por muito tempo, Eu só vim pegar alguns suprimentos para a minha viagem de pesquisa!"}]
+[
+  {
+    "op": "replace",
+    "value": "Debaixo desta roupa amarela, meu coração bate pelo amor da descoberta!",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Mesmo se toda a cultura fosse de alguma forma perdida, as pessoas ainda acabaria por redescobrir a ciência. Isso não é fascinante?",
+    "path": "/scriptConfig/dialog/converse/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não vou ficar aqui por muito tempo, Eu só vim pegar alguns suprimentos para a minha viagem de pesquisa!",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu estou apenas visitando aqui para pegar alguns materiais de pesquisa!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

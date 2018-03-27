@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran cheira vagem estranha. Cheira familiar. Floran assustado."}, {"op": "replace", "path": "/novakidDescription", "value": "Estou pronto para você, besta abominável."}, {"op": "replace", "path": "/shortdescription", "value": "Open Fungal Pod"}, {"op": "replace", "path": "/description", "value": "Algum tipo de vagem bizarra. Parece que já incubou."}, {"op": "replace", "path": "/apexDescription", "value": "O que geminou daqui?"}, {"op": "replace", "path": "/humanDescription", "value": "Eu não quero encontrar o que rastejou de dentro disso."}, {"op": "replace", "path": "/avianDescription", "value": "Algo parece ter eclodido desta vagem."}, {"op": "replace", "path": "/hylotlDescription", "value": "Estou pronto para você, besta abominável."}, {"op": "replace", "path": "/glitchDescription", "value": "Analítico. Este vagem é de origem Floran, e não há nada dentro."}]
+[
+  {
+    "op": "replace",
+    "value": "Floran cheira vagem estranha. Cheira familiar. Floran assustado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analítico. Este vagem é de origem Floran, e não há nada dentro.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não quero encontrar o que rastejou de dentro disso.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estou pronto para você, besta abominável.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estou pronto para você, besta abominável.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Open Fungal Pod",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de vagem bizarra. Parece que já incubou.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Algo parece ter eclodido desta vagem.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que geminou daqui?",
+    "path": "/apexDescription"
+  }
+]

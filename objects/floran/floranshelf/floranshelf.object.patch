@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Esta prateleira está vazia. Poderia os Floran estar sem coisas para caçar?"}, {"op": "replace", "path": "/description", "value": "Uma prateleira de madeira e osso usada para armazenar suprimentos e lembranças."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Os ossos parecem ser ossos de costela de alguma criatura vasta."}, {"op": "replace", "path": "/apexDescription", "value": "Uma simples prateleira de madeira e osso."}, {"op": "replace", "path": "/novakidDescription", "value": "Feita de osso e madeira, a prateleira é um tipo de troféu."}, {"op": "replace", "path": "/hylotlDescription", "value": "Pelo menos a prateleira está vazia."}, {"op": "replace", "path": "/shortdescription", "value": "Primitive Shelf"}, {"op": "replace", "path": "/avianDescription", "value": "A prateleira em si é provavelmente um troféu. Não há necessidade de decorá-la."}, {"op": "replace", "path": "/floranDescription", "value": "Floran faz prateleira para troféusss, mas troféus muito grande para prateleira. Então Floran usa prateleira como troféu."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma simples prateleira de madeira e osso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma prateleira de madeira e osso usada para armazenar suprimentos e lembranças.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pelo menos a prateleira está vazia.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran faz prateleira para troféusss, mas troféus muito grande para prateleira. Então Floran usa prateleira como troféu.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Os ossos parecem ser ossos de costela de alguma criatura vasta.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Feita de osso e madeira, a prateleira é um tipo de troféu.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Primitive Shelf",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A prateleira em si é provavelmente um troféu. Não há necessidade de decorá-la.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta prateleira está vazia. Poderia os Floran estar sem coisas para caçar?",
+    "path": "/humanDescription"
+  }
+]

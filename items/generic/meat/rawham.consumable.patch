@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Raw Ham"}, {"op": "replace", "path": "/description", "value": "Presunto cru. É provavelmente melhor se eu cozinhá-lo primeiro."}]
+[
+  {
+    "op": "replace",
+    "value": "Raw Ham",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Presunto cru. É provavelmente melhor se eu cozinhá-lo primeiro.",
+    "path": "/description"
+  }
+]

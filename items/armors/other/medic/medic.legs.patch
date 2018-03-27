@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Calças militares, projetadas para um médico de combate."}, {"op": "replace", "path": "/shortdescription", "value": "Combat Medic Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Combat Medic Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Calças militares, projetadas para um médico de combate.",
+    "path": "/description"
+  }
+]

@@ -1,12 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-    "value": "  Comerciante Industrial"
+    "value": "  Comerciante Industrial",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-    "value": "  Vende mobília industrial!"
+    "value": "  Vende mobília industrial!",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
   }
 ]

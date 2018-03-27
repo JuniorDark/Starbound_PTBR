@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um conjunto de três monitores de TV voltado para direções diferentes."}, {"op": "replace", "path": "/shortdescription", "value": "USCM Television Monitors"}, {"op": "replace", "path": "/floranDescription", "value": "Telasss."}, {"op": "replace", "path": "/glitchDescription", "value": "Entediado. Algumas telas."}, {"op": "replace", "path": "/apexDescription", "value": "Uma série de monitores. Eles não dizem nada de interessante."}, {"op": "replace", "path": "/humanDescription", "value": "Telas. Elas não parecem estar exibindo muita coisa."}, {"op": "replace", "path": "/avianDescription", "value": "Uma série de telas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um conjunto de três telas."}, {"op": "replace", "path": "/novakidDescription", "value": "Estas telas não acendem."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma série de telas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma série de monitores. Eles não dizem nada de interessante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um conjunto de três monitores de TV voltado para direções diferentes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um conjunto de três telas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Entediado. Algumas telas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Telas. Elas não parecem estar exibindo muita coisa.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Telasss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas telas não acendem.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "USCM Television Monitors",
+    "path": "/shortdescription"
+  }
+]

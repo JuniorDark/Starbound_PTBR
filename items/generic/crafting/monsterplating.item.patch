@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Hardened Monster Plate"}, {"op": "replace", "path": "/description", "value": "Chapas de metal de um monstro."}]
+[
+  {
+    "op": "replace",
+    "value": "Hardened Monster Plate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Chapas de metal de um monstro.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Kitchen Shelf"}, {"op": "replace", "path": "/floranDescription", "value": "Planta pequena é melhor do que planta nenhuma!"}, {"op": "replace", "path": "/apexDescription", "value": "Esses ingredientes parecem deliciosos!"}, {"op": "replace", "path": "/humanDescription", "value": "Espero que alguém tenha regado esta planta..."}, {"op": "replace", "path": "/avianDescription", "value": "Esta prateleira parece perfeita para uma cozinha ensolarada."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta pequena prateleira da cozinha mantém a desordem fora da área de cozimento."}, {"op": "replace", "path": "/description", "value": "Uma linda prateleira de cozinha que mantém as especiarias à mão."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Esta planta pretende ser decorativa ou um ingrediente?"}, {"op": "replace", "path": "/novakidDescription", "value": "Faz-me querer cozinhar algo saboroso!"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma linda prateleira de cozinha que mantém as especiarias à mão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Esta planta pretende ser decorativa ou um ingrediente?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que alguém tenha regado esta planta...",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Kitchen Shelf",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Faz-me querer cozinhar algo saboroso!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esses ingredientes parecem deliciosos!",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta pequena prateleira da cozinha mantém a desordem fora da área de cozimento.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta prateleira parece perfeita para uma cozinha ensolarada.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Planta pequena é melhor do que planta nenhuma!",
+    "path": "/floranDescription"
+  }
+]

@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/altAbility/name", "value": "Flecha de Caos"}, {"op": "replace", "path": "/description", "value": "A arma tradicional para caçar Laser Deer."}, {"op": "replace", "path": "/shortdescription", "value": "Aegisalt Bow"}]
+[
+  {
+    "op": "replace",
+    "value": "Aegisalt Bow",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Flecha de Caos",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "A arma tradicional para caçar Laser Deer.",
+    "path": "/description"
+  }
+]

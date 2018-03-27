@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um torso de Alpaca fossilizado."}, {"op": "replace", "path": "/shortdescription", "value": "Alpaca Torso"}]
+[
+  {
+    "op": "replace",
+    "value": "Um torso de Alpaca fossilizado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Alpaca Torso",
+    "path": "/shortdescription"
+  }
+]

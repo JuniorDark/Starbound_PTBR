@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Metal Railing"}, {"op": "replace", "path": "/description", "value": "Uma parede de metal rebitada."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma parede de metal rebitada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Metal Railing",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Seguro. Esta parede de metal foi reforçada com parafusos fortes.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Metal aparafusado forte.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parede forte feita de metal.",
+    "path": "/novakiddescription"
+  }
+]

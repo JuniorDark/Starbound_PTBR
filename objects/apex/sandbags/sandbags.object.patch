@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Estes velhos sacos de areia estão amontoados."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma pilha de sacos de areia. Areia... Um material tão versátil."}, {"op": "replace", "path": "/avianDescription", "value": "Alguns sacos pesados, provavelmente cheios de areia."}, {"op": "replace", "path": "/humanDescription", "value": "Algumas grandes sacos de areia, eles fazem uma boa barricada."}, {"op": "replace", "path": "/apexDescription", "value": "Estes sacos de areia são simples e eficientes."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. A areia dentro molda estes sacos grandes em uma barreira impressionante."}, {"op": "replace", "path": "/floranDescription", "value": "Grandes sacoss de areia parecem pesadoss."}, {"op": "replace", "path": "/description", "value": "Uma pilha de sacos de areia."}, {"op": "replace", "path": "/shortdescription", "value": "Sand Bags"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pilha de sacos de areia.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pilha de sacos de areia. Areia... Um material tão versátil.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. A areia dentro molda estes sacos grandes em uma barreira impressionante.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grandes sacoss de areia parecem pesadoss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sand Bags",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns sacos pesados, provavelmente cheios de areia.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas grandes sacos de areia, eles fazem uma boa barricada.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes velhos sacos de areia estão amontoados.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes sacos de areia são simples e eficientes.",
+    "path": "/apexDescription"
+  }
+]

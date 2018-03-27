@@ -1,1 +1,172 @@
-[{"op":"replace","path":"/converse/default/default/0","value":"Orgulhoso. A Guilda dos Ladinos Arco-íris deve mantê-lo longe do perigo com facilidade!"},{"op":"replace","path":"/converse/default/default/1","value":"Corajoso. Eu, um Ladino Arco-íris certificado, devo patrulhar por quaisquer malfeitores!"},{"op":"replace","path":"/converse/default/default/2","value":"Amigável. Eu posso ser um Ladino Arco-íris, mas isso não significa que não podemos conversar!"},{"op":"replace","path":"/converse/default/default/3","value":"Audacioso. Com a delicadeza de um unicórnio, vou defender meus aliados!"},{"op":"replace","path":"/converse/default/default/4","value":"Valente. A Guilda dos Ladinos Arco-íris deve manter os inocentes longe do perigo!"},{"op":"replace","path":"/severe/default/default/0","value":"Zangado. Os outros Ladinos Arco-íris devem ouvir sobre essa desgraça!"},{"op":"replace","path":"/severe/default/default/1","value":"Frustrado. Alguém como eu não merece tais condições."},{"op":"replace","path":"/final/default/default/0","value":"Desesperado. Eu devo sair - Os outros Ladinos Arco-íris devem saber disso!"},{"op":"replace","path":"/final/default/default/1","value":"Chateado. Eu pensei que eu poderia trazer minhas habilidades para este lugar, mas estou sendo desvalorizado."},{"op":"replace","path":"/beacon/default/default/0","value":"Acolhedor. Que necessidade você tem de um Ladinos Arco-íris como eu?"},{"op":"replace","path":"/beacon/default/default/1","value":"Amigável. Você precisa da minha experiência ladina?"},{"op":"replace","path":"/beacon/default/default/2","value":"Atento. Eu preciso ter certeza que isso não é uma armadilha."},{"op":"replace","path":"/rent/default/default/0","value":"Agradecido. Aqui esta um presente, da Guilda dos Ladinos Arco-íris."},{"op":"replace","path":"/rent/default/default/1","value":"Grato. A Guilda dos Ladinos Arco-íris agradece você por me proporcionar com uma casa!"},{"op":"replace","path":"/reattack/default/default/0","value":"Corajoso. Você voltou para ser derrotado, inimigo!"},{"op":"replace","path":"/reattack/default/default/1","value":"Destemido. Ninguém pode derrotar um Ladino Arco-íris em um duelo!"},{"op":"replace","path":"/attack/default/default/0","value":"Audacioso. Isto não deve demorar muito!"},{"op":"replace","path":"/attack/default/default/1","value":"Corajoso. O espectro da justiça ataca!"},{"op":"replace","path":"/attack/default/default/2","value":"Feroz. Que a batalha comece! O espectro da justiça ataca!"},{"op":"replace","path":"/attack/default/default/3","value":"Hostil. Que tolo traz conflito a um Ladino Arco-íris?"},{"op":"replace","path":"/attack/default/default/4","value":"Corajoso. É hora de mostrar o poder dos Ladinos Arco-íris!"},{"op":"replace","path":"/attack/default/default/5","value":"Inspirado. Para o palco! Que a batalha comece!"},{"op":"replace","path":"/killedTarget/default/default/0","value":"Vitorioso. Outra vitória para os Ladinos Arco-íris!"},{"op":"replace","path":"/killedTarget/default/default/1","value":"Satisfeito. O espectro da justiça sucedeu mais uma vez!"},{"op":"replace","path":"/killedTarget/default/default/2","value":"Feliz. Enviarei a palavra desta vitória ao meu companheiros Ladinos Arco-íris!"},{"op":"replace","path":"/lostTarget/default/default/0","value":"Desapontado. Suponho que o inimigo fugiu."},{"op":"replace","path":"/lostTarget/default/default/1","value":"Surpreso. Eu pensei que nosso inimigo estava preparado para a batalha?"},{"op":"replace","path":"/outOfSight/default/default/0","value":"Surpreso. O inimigo evitou o meu olhar Arco-íris!"},{"op":"replace","path":"/outOfSight/default/default/1","value":"Perplexo. Onde eles foram?"},{"op":"replace","path":"/cantReach/default/default/0","value":"Frustrado. Se eu tivesse trazido uma Besta Arco-Íris comigo!"},{"op":"replace","path":"/cantReach/default/default/1","value":"Frustrado. Aproxime-se para que eu possa golpeá-lo com minha Espada Arco-íris!"},{"op":"replace","path":"/cheerOn/default/default/0","value":"Encorajador. Derrote as forças que nos ameaçam!"},{"op":"replace","path":"/cheerOn/default/default/1","value":"Encorajador. Faça o nosso inimigo sentir justiça!"},{"op":"replace","path":"/cheerOn/default/default/2","value":"Encorajador. Traga um espectro de derrota sobre o nosso inimigo!"}]
+[
+  {
+    "op": "replace",
+    "value": "Amigável. Eu posso ser um Ladino Arco-íris, mas isso não significa que não podemos conversar!",
+    "path": "/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Zangado. Os outros Ladinos Arco-íris devem ouvir sobre essa desgraça!",
+    "path": "/severe/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Agradecido. Aqui esta um presente, da Guilda dos Ladinos Arco-íris.",
+    "path": "/rent/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Audacioso. Com a delicadeza de um unicórnio, vou defender meus aliados!",
+    "path": "/converse/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Perplexo. Onde eles foram?",
+    "path": "/outOfSight/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Orgulhoso. A Guilda dos Ladinos Arco-íris deve mantê-lo longe do perigo com facilidade!",
+    "path": "/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Corajoso. Eu, um Ladino Arco-íris certificado, devo patrulhar por quaisquer malfeitores!",
+    "path": "/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Corajoso. É hora de mostrar o poder dos Ladinos Arco-íris!",
+    "path": "/attack/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Corajoso. Você voltou para ser derrotado, inimigo!",
+    "path": "/reattack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Desesperado. Eu devo sair - Os outros Ladinos Arco-íris devem saber disso!",
+    "path": "/final/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Desapontado. Suponho que o inimigo fugiu.",
+    "path": "/lostTarget/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Destemido. Ninguém pode derrotar um Ladino Arco-íris em um duelo!",
+    "path": "/reattack/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Feroz. Que a batalha comece! O espectro da justiça ataca!",
+    "path": "/attack/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Audacioso. Isto não deve demorar muito!",
+    "path": "/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Amigável. Você precisa da minha experiência ladina?",
+    "path": "/beacon/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Frustrado. Aproxime-se para que eu possa golpeá-lo com minha Espada Arco-íris!",
+    "path": "/cantReach/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Frustrado. Se eu tivesse trazido uma Besta Arco-Íris comigo!",
+    "path": "/cantReach/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Frustrado. Alguém como eu não merece tais condições.",
+    "path": "/severe/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Corajoso. O espectro da justiça ataca!",
+    "path": "/attack/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Feliz. Enviarei a palavra desta vitória ao meu companheiros Ladinos Arco-íris!",
+    "path": "/killedTarget/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Hostil. Que tolo traz conflito a um Ladino Arco-íris?",
+    "path": "/attack/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Inspirado. Para o palco! Que a batalha comece!",
+    "path": "/attack/default/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Eu preciso ter certeza que isso não é uma armadilha.",
+    "path": "/beacon/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. O espectro da justiça sucedeu mais uma vez!",
+    "path": "/killedTarget/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Encorajador. Traga um espectro de derrota sobre o nosso inimigo!",
+    "path": "/cheerOn/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Encorajador. Derrote as forças que nos ameaçam!",
+    "path": "/cheerOn/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Encorajador. Faça o nosso inimigo sentir justiça!",
+    "path": "/cheerOn/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Eu pensei que nosso inimigo estava preparado para a batalha?",
+    "path": "/lostTarget/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. O inimigo evitou o meu olhar Arco-íris!",
+    "path": "/outOfSight/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Grato. A Guilda dos Ladinos Arco-íris agradece você por me proporcionar com uma casa!",
+    "path": "/rent/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Chateado. Eu pensei que eu poderia trazer minhas habilidades para este lugar, mas estou sendo desvalorizado.",
+    "path": "/final/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Valente. A Guilda dos Ladinos Arco-íris deve manter os inocentes longe do perigo!",
+    "path": "/converse/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Vitorioso. Outra vitória para os Ladinos Arco-íris!",
+    "path": "/killedTarget/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Acolhedor. Que necessidade você tem de um Ladinos Arco-íris como eu?",
+    "path": "/beacon/default/default/0"
+  }
+]

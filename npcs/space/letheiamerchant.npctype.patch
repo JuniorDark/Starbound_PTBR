@@ -1,27 +1,27 @@
 [
   {
     "op": "replace",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-    "value": "Comerciante da Letheia"
+    "value": "Comerciante da Letheia",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-    "value": "Vende mobília espacial!"
+    "value": "Vende mobília espacial!",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/dialog/merchant/tout/hylotl/default/0",
-    "value": "Seja bem-vindo a esta Filial do Consumidor da Corporação Letheia!"
+    "value": "Lembre-se: \"Por que viver a vida sem Letheia?\"",
+    "path": "/scriptConfig/dialog/merchant/end/hylotl/default/0"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/dialog/merchant/start/hylotl/default/0",
-    "value": "Seja bem-vindo a esta Filial do Consumidor da Corporação Letheia, como posso ajudar?"
+    "value": "Seja bem-vindo a esta Filial do Consumidor da Corporação Letheia!",
+    "path": "/scriptConfig/dialog/merchant/tout/hylotl/default/0"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/dialog/merchant/end/hylotl/default/0",
-    "value": "Lembre-se: \"Por que viver a vida sem Letheia?\""
+    "value": "Seja bem-vindo a esta Filial do Consumidor da Corporação Letheia, como posso ajudar?",
+    "path": "/scriptConfig/dialog/merchant/start/hylotl/default/0"
   }
 ]

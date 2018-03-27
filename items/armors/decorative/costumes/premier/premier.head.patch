@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um capacete decorativo feito para uma figura de extrema importância."
+    "value": "Um capacete decorativo feito para uma figura de extrema importância.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Premier Helmet",
+    "path": "/shortdescription"
   }
 ]

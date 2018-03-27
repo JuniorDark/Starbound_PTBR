@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Wild Fungus Cap"}, {"op": "replace", "path": "/description", "value": "Se você vestir esta touca, todos seus amigos vão pensar que você é um cara divertido!"}]
+[
+  {
+    "op": "replace",
+    "value": "Se você vestir esta touca, todos seus amigos vão pensar que você é um cara divertido!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Wild Fungus Cap",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um bloco de metal velho e enferrujado."}, {"op": "replace", "path": "/shortdescription", "value": "Rusty Metal"}, {"op": "replace", "path": "/glitchDescription", "value": "Alarmado. A ferrugem neste metal me deixa muito desconfortável."}, {"op": "replace", "path": "/novakidDescription", "value": "Algum metal velho coberto de ferrugem grossa."}, {"op": "replace", "path": "/floranDescription", "value": "Blocoss de metal enferrujadoss."}]
+[
+  {
+    "op": "replace",
+    "value": "Alarmado. A ferrugem neste metal me deixa muito desconfortável.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um bloco de metal velho e enferrujado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Blocoss de metal enferrujadoss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rusty Metal",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum metal velho coberto de ferrugem grossa.",
+    "path": "/novakidDescription"
+  }
+]

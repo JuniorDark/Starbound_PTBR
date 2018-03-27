@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Areia macia e quente."}, {"op": "replace", "path": "/shortdescription", "value": "Sand"}, {"op": "replace", "path": "/floranDescription", "value": "Areia empoeirada."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Esta areia é tão fina que parece suave ao toque."}, {"op": "replace", "path": "/novakidDescription", "value": "Areia de aparência muita macia."}]
+[
+  {
+    "op": "replace",
+    "value": "Curioso. Esta areia é tão fina que parece suave ao toque.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Areia empoeirada.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sand",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Areia de aparência muita macia.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Areia macia e quente.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma doce e quente tigela de pudim de arroz."}, {"op": "replace", "path": "/shortdescription", "value": "Rice Pudding"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma doce e quente tigela de pudim de arroz.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Rice Pudding",
+    "path": "/shortdescription"
+  }
+]

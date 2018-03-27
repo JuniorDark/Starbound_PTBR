@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Flowery Shirt"}, {"op": "replace", "path": "/description", "value": "Uma camisa florida, o cheiro é agradável."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma camisa florida, o cheiro é agradável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Flowery Shirt",
+    "path": "/shortdescription"
+  }
+]

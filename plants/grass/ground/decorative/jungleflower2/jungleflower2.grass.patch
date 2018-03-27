@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Afirmação. Uma flor indígena de regiões de selva."}, {"op": "replace", "path": "/description", "value": "Uma flor exótica de selva."}, {"op": "replace", "path": "/shortdescription", "value": "Uma flor de selva."}, {"op": "replace", "path": "/floranDescription", "value": "Flor lembra casa de Floran."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma flor de selva.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma flor exótica de selva.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Flor lembra casa de Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Afirmação. Uma flor indígena de regiões de selva.",
+    "path": "/glitchDescription"
+  }
+]

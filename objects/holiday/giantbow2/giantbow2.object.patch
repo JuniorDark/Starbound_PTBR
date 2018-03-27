@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um laço vermelho decorativo."}, {"op": "replace", "path": "/shortdescription", "value": "Shiny Red Bow"}, {"op": "replace", "path": "/apexDescription", "value": "É um laço decorativo vermelho."}, {"op": "replace", "path": "/avianDescription", "value": "Uma fita decorativa brilhante."}, {"op": "replace", "path": "/glitchDescription", "value": "Caprichoso. Uma fita decorativa evoca pensamentos de dar."}, {"op": "replace", "path": "/humanDescription", "value": "É uma linda fita brilhante, o ouro realmente desencadeia o vermelho."}, {"op": "replace", "path": "/hylotlDescription", "value": "É uma fita bonita. Feita de veludo e ouro, talvez?"}, {"op": "replace", "path": "/novakidDescription", "value": "Um grande laço vermelho e dourado."}, {"op": "replace", "path": "/floranDescription", "value": "Vermelha como carne. Coresss festivas deixam Floran com fome."}]
+[
+  {
+    "op": "replace",
+    "value": "Um grande laço vermelho e dourado.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma linda fita brilhante, o ouro realmente desencadeia o vermelho.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma fita bonita. Feita de veludo e ouro, talvez?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Shiny Red Bow",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fita decorativa brilhante.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um laço decorativo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vermelho como carne. Coresss festivas deixam Floran com fome.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um laço vermelho decorativo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Caprichoso. Uma fita decorativa evoca pensamentos de dar.",
+    "path": "/glitchDescription"
+  }
+]

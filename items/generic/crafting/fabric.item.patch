@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um pequeno quadrado de tecido."}, {"op": "replace", "path": "/shortdescription", "value": "Woven Fabric"}]
+[
+  {
+    "op": "replace",
+    "value": "Um pequeno quadrado de tecido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Woven Fabric",
+    "path": "/shortdescription"
+  }
+]

@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um propulsor de mecha pendurado"
+    "value": "Um propulsor de mecha pendurado",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Um grande propulsor de mecha, suspenso por correntes."
+    "value": "Um grande propulsor de mecha, suspenso por correntes.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Este propulsor de mecha está parcialmente desmontado."
+    "value": "Um propulsor de mecha, pendurado em algumas grandes correntes.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Propulsor de mecha pendurado em correntesss."
+    "value": "Um propulsor de mecha, pendurado em correntes. Provavelmente está em conserto.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Interessado. Suspenso assim dá fácil acesso à mecânica interna deste propulsor de mecha."
+    "value": "Hanging Booster",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Um propulsor de mecha, pendurado em correntes. Provavelmente está em conserto."
+    "value": "Interessado. Suspenso assim dá fácil acesso à mecânica interna deste propulsor de mecha.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Este propulsor de mecha parece que está sendo trabalhado."
+    "value": "Propulsor de mecha pendurado em correntesss.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Um propulsor de mecha, pendurado em algumas grandes correntes."
+    "value": "Este propulsor de mecha está parcialmente desmontado.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este propulsor de mecha parece que está sendo trabalhado.",
+    "path": "/hylotlDescription"
   }
 ]

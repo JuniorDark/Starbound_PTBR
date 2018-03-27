@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Uma forma de vida biomecânica irritável. Quanto maiores seus bigodes, mais velhos eles são.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cosmostache",
+    "path": "/shortdescription"
+  }
+]

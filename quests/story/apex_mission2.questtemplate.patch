@@ -1,1 +1,32 @@
-[{"op": "replace", "path": "/scriptConfig/missionRadioMessage/text", "value": "Recebi as coordenadas para a ^orange;Fortaleza Miniknog^reset;. ^green;Use o computador da nave^reset; para acessar o local."}, {"op": "replace", "path": "/scriptConfig/descriptions/artifact", "value": "Encontre o ^orange;artefato^reset; na ^orange;Fortaleza Miniknog^reset;"}, {"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Volte a ^orange;Esther^reset; no ^orange;Ark^reset;"}, {"op": "replace", "path": "/title", "value": "Busque o Artefato Apex"}, {"op": "replace", "path": "/text", "value": "Temo que o ^orange;artefato Apex^reset; esteja sendo mantido em uma ^orange;Fortaleza Miniknog^reset;. Pode ser difícil conseguir acesso, querido(a). Por favor ^green;tenha cuidado lá^reset;, a Miniknog pode ser perversa."}, {"op": "replace", "path": "/completionText", "value": "Estou tão contente, nosso bando está crescendo; nos estamos reunindo aliados, juntamente com os artefatos. É quase como começar um novo Protetorado..."}]
+[
+  {
+    "op": "replace",
+    "value": "Busque o Artefato Apex",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Encontre o ^orange;artefato^reset; na ^orange;Fortaleza Miniknog^reset;",
+    "path": "/scriptConfig/descriptions/artifact"
+  },
+  {
+    "op": "replace",
+    "value": "Recebi as coordenadas para a ^orange;Fortaleza Miniknog^reset;. ^green;Use o computador da nave^reset; para acessar o local.",
+    "path": "/scriptConfig/missionRadioMessage/text"
+  },
+  {
+    "op": "replace",
+    "value": "Temo que o ^orange;artefato Apex^reset; esteja sendo mantido em uma ^orange;Fortaleza Miniknog^reset;. Pode ser difícil conseguir acesso, querido(a). Por favor ^green;tenha cuidado lá^reset;, a Miniknog pode ser perversa.",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "Estou tão contente, nosso bando está crescendo; nos estamos reunindo aliados, juntamente com os artefatos. É quase como começar um novo Protetorado...",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "Volte a ^orange;Esther^reset; no ^orange;Ark^reset;",
+    "path": "/scriptConfig/descriptions/turnIn"
+  }
+]

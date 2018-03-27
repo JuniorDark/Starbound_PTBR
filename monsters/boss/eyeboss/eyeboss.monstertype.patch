@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Coração da Ruína"}]
+[
+  {
+    "op": "replace",
+    "value": "Coração da Ruína",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Hi-Tech Console"}, {"op": "replace", "path": "/floranDescription", "value": "Floran quer pressionar todos os botõess legais."}, {"op": "replace", "path": "/apexDescription", "value": "Me pergunto o que acontece se pressionar... Este botão?"}, {"op": "replace", "path": "/novakidDescription", "value": "Um console com vários botões tentadores. Eu deveria!...?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Eu devo evitar pressionar botões... Quem sabe o que pode acontecer?"}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Estou muito tentado a pressionar todos esses botões."}, {"op": "replace", "path": "/humanDescription", "value": "Talvez pressionar um ou dois botões leve a algo interessante."}, {"op": "replace", "path": "/avianDescription", "value": "É muito tentador pressionar os botões..."}, {"op": "replace", "path": "/description", "value": "Um console de tela sensível ao toque com todos os tipos de botões divertidos."}]
+[
+  {
+    "op": "replace",
+    "value": "Um console com vários botões tentadores. Eu deveria!...?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um console de tela sensível ao toque com todos os tipos de botões divertidos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Estou muito tentado a pressionar todos esses botões.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran quer pressionar todos os botõess legais.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hi-Tech Console",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu devo evitar pressionar botões... Quem sabe o que pode acontecer?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me pergunto o que acontece se pressionar... Este botão?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É muito tentador pressionar os botões...",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez pressionar um ou dois botões leve a algo interessante.",
+    "path": "/humanDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Magma Lamp"}, {"op": "replace", "path": "/novakidDescription", "value": "Há lava brilhante selada nesta pequena lâmpada."}, {"op": "replace", "path": "/hylotlDescription", "value": "A lava dentro desta lâmpada tem uma atmosfera suave e brilhante."}, {"op": "replace", "path": "/description", "value": "Uma lâmpada iluminada por glóbulos suspensos de lava."}, {"op": "replace", "path": "/floranDescription", "value": "Lâmpada contém lava brilhante."}, {"op": "replace", "path": "/glitchDescription", "value": "Hipnotizado. O padrão da lava nesta lâmpada é difícil de olhar para longe."}, {"op": "replace", "path": "/apexDescription", "value": "Um campo de suspensão dentro desta lâmpada contém lava brilhante no lugar."}, {"op": "replace", "path": "/humanDescription", "value": "Ouvi falar de lâmpadas de lava, mas nunca vi uma feita de lava real."}, {"op": "replace", "path": "/avianDescription", "value": "Esses pequenos globos de lava são superaquecidos para brilhar."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lâmpada iluminada por glóbulos suspensos de lava.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um campo de suspensão dentro desta lâmpada contém lava brilhante no lugar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hipnotizado. O padrão da lava nesta lâmpada é difícil de olhar para longe.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ouvi falar de lâmpadas de lava, mas nunca vi uma feita de lava real.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lâmpada contém lava brilhante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Magma Lamp",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A lava dentro desta lâmpada tem uma atmosfera suave e brilhante.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há lava brilhante selada nesta pequena lâmpada.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esses pequenos globos de lava são superaquecidos para brilhar.",
+    "path": "/avianDescription"
+  }
+]

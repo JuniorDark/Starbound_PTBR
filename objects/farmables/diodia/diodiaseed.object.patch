@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Diodia Seed"}, {"op": "replace", "path": "/hylotlDescription", "value": "Um vegetal de raiz amarga. Bom para adicionar sabor."}, {"op": "replace", "path": "/humanDescription", "value": "Parece uma batata, tem gosto de uma moeda de um centavo. Não é um grande negócio."}, {"op": "replace", "path": "/apexDescription", "value": "Diodia não são as coisas mais saborosas, mas eles são fáceis de cultivar."}, {"op": "replace", "path": "/description", "value": "Diodia, um vegetal de raiz macia com um gosto de cobre."}, {"op": "replace", "path": "/floranDescription", "value": "Tem gosssto de sangue, Floran acha Diodia um sssubstituto aceitável."}, {"op": "replace", "path": "/glitchDescription", "value": "Insultado. Diodia é um vegetal tão subestimado..."}, {"op": "replace", "path": "/avianDescription", "value": "Um diodia parece com uma porca, não tem gosto de uma."}, {"op": "replace", "path": "/novakidDescription", "value": "Diodia com sabor de cobre são populares entre os Glitch."}]
+[
+  {
+    "op": "replace",
+    "value": "Um vegetal de raiz amarga. Bom para adicionar sabor.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um diodia parece com uma porca, não tem gosto de uma.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Diodia com sabor de cobre são populares entre os Glitch.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Diodia Seed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Diodia não são as coisas mais saborosas, mas eles são fáceis de cultivar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Diodia, um vegetal de raiz macia com um gosto de cobre.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Insultado. Diodia é um vegetal tão subestimado...",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece uma batata, tem gosto de uma moeda de um centavo. Não é um grande negócio.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tem gosssto de sangue, Floran acha Diodia um sssubstituto aceitável.",
+    "path": "/floranDescription"
+  }
+]

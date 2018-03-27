@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma refeição um pouco mais substancial do que apenas pearlpeas cozidas."}, {"op": "replace", "path": "/shortdescription", "value": "Pearlpea Broth"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma refeição um pouco mais substancial do que apenas pearlpeas cozidas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pearlpea Broth",
+    "path": "/shortdescription"
+  }
+]

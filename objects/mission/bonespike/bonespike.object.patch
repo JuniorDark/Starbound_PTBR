@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Afiado e pontudo."}, {"op": "replace", "path": "/novakidDescription", "value": "Melhor evitar esse tipo de coisa."}, {"op": "replace", "path": "/description", "value": "Não quero cair em um desses..."}, {"op": "replace", "path": "/shortdescription", "value": "Bone Spike"}, {"op": "replace", "path": "/glitchDescription", "value": "Cauteloso. Osso afiado pode penetrar a lataria Glitch."}, {"op": "replace", "path": "/apexDescription", "value": "Um espinho afiado, feito de osso."}, {"op": "replace", "path": "/humanDescription", "value": "É melhor eu não tocar nisso."}, {"op": "replace", "path": "/avianDescription", "value": "O osso parece afiado."}, {"op": "replace", "path": "/hylotlDescription", "value": "Eu vou graciosamente evitar isso."}]
+[
+  {
+    "op": "replace",
+    "value": "Eu vou graciosamente evitar isso.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É melhor eu não tocar nisso.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Afiado e pontudo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não quero cair em um desses...",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um espinho afiado, feito de osso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Melhor evitar esse tipo de coisa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bone Spike",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. Osso afiado pode penetrar a lataria Glitch.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O osso parece afiado.",
+    "path": "/avianDescription"
+  }
+]

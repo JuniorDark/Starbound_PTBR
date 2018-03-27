@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Calças pirata, com buracos para as pernas."}, {"op": "replace", "path": "/shortdescription", "value": "Buccaneer Pantaloons"}]
+[
+  {
+    "op": "replace",
+    "value": "Buccaneer Pantaloons",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Calças pirata, com buracos para as pernas.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Minério de Aegisalt. Pode ser refinado."}, {"op": "replace", "path": "/shortdescription", "value": "Aegisalt Ore"}]
+[
+  {
+    "op": "replace",
+    "value": "Aegisalt Ore",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Minério de Aegisalt. Pode ser refinado.",
+    "path": "/description"
+  }
+]

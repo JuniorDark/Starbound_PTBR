@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Cacti Block"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gossta de blocoss de cacto esspinhosso."}, {"op": "replace", "path": "/glitchDescription", "value": "Cuidado. Este bloco de construção foi feito de um cacto espinhoso."}, {"op": "replace", "path": "/novakidDescription", "value": "Foi feito de cacto. Melhor não encostar nisso."}, {"op": "replace", "path": "/description", "value": "Cacto que foi transformado em um bloco de construção. Ainda espinhoso."}]
+[
+  {
+    "op": "replace",
+    "value": "Cacti Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cacto que foi transformado em um bloco de construção. Ainda espinhoso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cuidado. Este bloco de construção foi feito de um cacto espinhoso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gossta de blocoss de cacto esspinhosso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Foi feito de cacto. Melhor não encostar nisso.",
+    "path": "/novakidDescription"
+  }
+]

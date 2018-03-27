@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Ancient Console"}, {"op": "replace", "path": "/floranDescription", "value": "Controlesss antigos para o antigo portal."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. O painel de controle para o portal, parece de fato muito antigo."}, {"op": "replace", "path": "/apexDescription", "value": "Uma peça extremamente velha de tecnologia."}, {"op": "replace", "path": "/humanDescription", "value": "O painel de controle do portal. Deve ser tão antigo quanto o portal."}, {"op": "replace", "path": "/avianDescription", "value": "Este console deve ser tão antigo quanto o portal. Isso é velho!"}, {"op": "replace", "path": "/hylotlDescription", "value": "O console do portal. Como o portal, é um mistério."}, {"op": "replace", "path": "/description", "value": "Este parece ser o painel de controle para o portal. Ele ainda parece funcionar."}, {"op": "replace", "path": "/novakidDescription", "value": "Vamos ver se eu não consigo fazer essa coisa velha funcionar."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma peça de tecnologia extremamente antiga.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Controlesss antigos para o portal antigo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. O painel de controle para o portal, parece muito antigo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos ver se eu não consigo fazer essa coisa velha funcionar.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O console do portal. Como o portal, é um mistério.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O painel de controle do portal. Deve ser tão velho quanto o portal.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este console deve ser tão antigo quanto o próprio portal. Isso é velho!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso parece o painel de controle do portal. Ainda parece funcionar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ancient Console",
+    "path": "/shortdescription"
+  }
+]

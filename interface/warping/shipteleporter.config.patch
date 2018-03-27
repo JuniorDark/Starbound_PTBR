@@ -1,1 +1,22 @@
-[{"op":"replace","path":"/destinations/0/name","value":"Descer"},{"op":"replace","path":"/destinations/0/planetName","value":"mundo orbitado atualmente"},{"op":"replace","path":"/destinations/1/name","value":"Lançar Mecha"},{"op":"replace","path":"/destinations/1/planetName","value":"mundo orbitado atualmente"}]
+[
+  {
+    "op": "replace",
+    "value": "Descer",
+    "path": "/destinations/0/name"
+  },
+  {
+    "op": "replace",
+    "value": "Lançar Mecha",
+    "path": "/destinations/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "mundo orbitado atualmente",
+    "path": "/destinations/0/planetName"
+  },
+  {
+    "op": "replace",
+    "value": "mundo orbitado atualmente",
+    "path": "/destinations/1/planetName"
+  }
+]

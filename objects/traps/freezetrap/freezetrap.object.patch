@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Um mecanismo de congelamento."}, {"op": "replace", "path": "/description", "value": "Este dispositivo é usado para congelar rapidamente materiais."}, {"op": "replace", "path": "/shortdescription", "value": "Cryogenic Blaster"}, {"op": "replace", "path": "/floranDescription", "value": "Gelo pode ser perigoso."}, {"op": "replace", "path": "/glitchDescription", "value": "Cauteloso. É uma unidade de congelamento de alta intensidade."}, {"op": "replace", "path": "/apexDescription", "value": "O feixe emitido por este dispositivo arrepia até o osso."}, {"op": "replace", "path": "/humanDescription", "value": "Cuidado com a explosão congelante."}, {"op": "replace", "path": "/hylotlDescription", "value": "Gelo, água em sua forma mais mortal."}, {"op": "replace", "path": "/novakidDescription", "value": "Este blaster criogênico poderia congelar as patas de um macaco de bronze."}]
+[
+  {
+    "op": "replace",
+    "value": "Um mecanismo de congelamento.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. É uma unidade de congelamento de alta intensidade.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cryogenic Blaster",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gelo, água em sua forma mais mortal.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O feixe emitido por este dispositivo arrepia até o osso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este blaster criogênico poderia congelar as patas de um macaco de bronze.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este dispositivo é usado para congelar rapidamente materiais.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cuidado com a explosão congelante.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gelo pode ser perigoso.",
+    "path": "/floranDescription"
+  }
+]

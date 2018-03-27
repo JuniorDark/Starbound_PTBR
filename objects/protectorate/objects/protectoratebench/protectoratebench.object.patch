@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "É um banco para se sentar. Infelizmente, não tenho tempo para isso agora."}, {"op": "replace", "path": "/description", "value": "Um banco encontrado no Protectorado."}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Bench"}, {"op": "replace", "path": "/floranDescription", "value": "Banco parece confortável para se sssentar. Se Floran tivesse tempo de fazê-lo."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. É um banco feito de metal."}, {"op": "replace", "path": "/apexDescription", "value": "Um bom e prático banco."}, {"op": "replace", "path": "/humanDescription", "value": "É um banco que cabe várias pessoas. Pelo menos três!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Um banco largo."}, {"op": "replace", "path": "/novakidDescription", "value": "Se eu tivesse tempo de descansar minhas pernas, eu faria isso neste banco aqui. Mas eu não tenho."}]
+[
+  {
+    "op": "replace",
+    "value": "Um banco encontrado no Protectorado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um bom e prático banco.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um banco largo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Banco parece confortável para se sssentar. Se Floran tivesse tempo de fazê-lo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se eu tivesse tempo de descansar minhas pernas, eu faria isso neste banco aqui. Mas eu não tenho.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um banco para se sentar. Infelizmente, não tenho tempo para isso agora.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um banco que cabe várias pessoas. Pelo menos três!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. É um banco feito de metal.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Bench",
+    "path": "/shortdescription"
+  }
+]

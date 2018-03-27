@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Imagina o que poderia estar por trás de uma porta tão colorida?"}, {"op": "replace", "path": "/apexDescription", "value": "Uma porta cor de arco-íris. Simplesmente passar por aqui me alegra."}, {"op": "replace", "path": "/glitchDescription", "value": "Sobrecarregado. Estou cheio de emoção diante da perspectiva de ver o que está além dessa porta."}, {"op": "replace", "path": "/description", "value": "Uma porta arco-íris convidativa."}, {"op": "replace", "path": "/shortdescription", "value": "Rainbow Door"}, {"op": "replace", "path": "/floranDescription", "value": "Floran atravessa pela porta com pulo."}, {"op": "replace", "path": "/humanDescription", "value": "Esta porta esta apenas implorando para ser aberta."}, {"op": "replace", "path": "/avianDescription", "value": "Uma porta extremamente convidativa."}, {"op": "replace", "path": "/hylotlDescription", "value": "Que porta incrivelmente acolhedora."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta extremamente convidativa.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta cor de arco-íris. Simplesmente passar por aqui me alegra.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta arco-íris convidativa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran atravessa pela porta com pulo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sobrecarregado. Estou cheio de emoção diante da perspectiva de ver o que está além dessa porta.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rainbow Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta esta apenas implorando para ser aberta.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que porta incrivelmente acolhedora.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Imagina o que poderia estar por trás de uma porta tão colorida?",
+    "path": "/novakidDescription"
+  }
+]

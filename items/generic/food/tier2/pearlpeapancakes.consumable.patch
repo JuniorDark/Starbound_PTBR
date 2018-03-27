@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Elas se parecem com panquecas, mas têm um sabor de ervilhas moles."}, {"op": "replace", "path": "/shortdescription", "value": "Pearlpea Pancakes"}]
+[
+  {
+    "op": "replace",
+    "value": "Pearlpea Pancakes",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Elas se parecem com panquecas, mas têm um sabor de ervilhas moles.",
+    "path": "/description"
+  }
+]

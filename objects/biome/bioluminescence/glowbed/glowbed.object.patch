@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma cama, com plantas brilhantes cultivadas através dela."}, {"op": "replace", "path": "/shortdescription", "value": "Glow Bed"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de cama de planta. Não tenho certeza sobre luzes estranhas embora."}, {"op": "replace", "path": "/glitchDescription", "value": "Descontraído. Esta cama está emitindo uma luz baixa e calmante."}, {"op": "replace", "path": "/apexDescription", "value": "Essas luzes farão mais fácil encontrar esta cama à noite."}, {"op": "replace", "path": "/humanDescription", "value": "Essa cama tem luzes noturnas embutidas? Maneiro."}, {"op": "replace", "path": "/avianDescription", "value": "Esta cama cresceu? Que fascinante."}, {"op": "replace", "path": "/hylotlDescription", "value": "As luzes calmantes são agradáveis nesta cama orgânica."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma cama brilhante está bem por mim."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cama, com plantas brilhantes cultivadas através dela.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama brilhante está bem por mim.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa cama tem luzes noturnas embutidas? Maneiro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de cama de planta. Não tenho certeza sobre luzes estranhas embora.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Glow Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Descontraído. Esta cama está emitindo uma luz baixa e calmante.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "As luzes calmantes são agradáveis nesta cama orgânica.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas luzes farão mais fácil encontrar esta cama à noite.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama cresceu? Que fascinante.",
+    "path": "/avianDescription"
+  }
+]

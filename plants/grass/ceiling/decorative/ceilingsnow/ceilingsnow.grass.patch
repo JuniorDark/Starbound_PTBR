@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Neve."}, {"op": "replace", "path": "/shortdescription", "value": "Neve."}, {"op": "replace", "path": "/floranDescription", "value": "Neve."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Neve."}]
+[
+  {
+    "op": "replace",
+    "value": "Neve.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Neve.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neve.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Neve.",
+    "path": "/glitchDescription"
+  }
+]

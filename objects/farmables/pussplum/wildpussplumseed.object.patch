@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Eu ouvi que estes são bons, mas depois de olhar para um, eu não tenho tanta certeza."}, {"op": "replace", "path": "/shortdescription", "value": "Pussplum Seed"}, {"op": "replace", "path": "/floranDescription", "value": "Sssangrento e delicioso."}, {"op": "replace", "path": "/apexDescription", "value": "Pussplums tem gosto melhor do que sua aparência ou som."}, {"op": "replace", "path": "/description", "value": "O suculento pussplum recebe seu nome de seu centro cremoso."}, {"op": "replace", "path": "/glitchDescription", "value": "Alarmado. Praticamente qualquer coisa pode se tornar uma iguaria, desde que o gosto é bom para alguém."}, {"op": "replace", "path": "/humanDescription", "value": "Aparentemente isso tem gosto bem... Por algum motivo, estou hesitante em descobrir."}, {"op": "replace", "path": "/hylotlDescription", "value": "Pussplums cremosos e picantes, não são para os gostos Hylotl."}, {"op": "replace", "path": "/avianDescription", "value": "Pequenas, suculentas, facilmente digeríveis. Pode ser servido enrolado em sementes."}]
+[
+  {
+    "op": "replace",
+    "value": "Alarmado. Praticamente qualquer coisa pode se tornar uma iguaria, desde que o gosto é bom para alguém.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aparentemente isso tem gosto bem... Por algum motivo, estou hesitante em descobrir.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pussplums cremosos e picantes, não são para os gostos Hylotl.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sssangrento e delicioso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu ouvi que estes são bons, mas depois de olhar para um, eu não tenho tanta certeza.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pussplum Seed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pussplums tem gosto melhor do que sua aparência ou som.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pequenas, suculentas, facilmente digeríveis. Pode ser servido enrolado em sementes.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O suculento pussplum recebe seu nome de seu centro cremoso.",
+    "path": "/description"
+  }
+]

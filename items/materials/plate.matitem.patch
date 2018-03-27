@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Smooth Plated Block"}, {"op": "replace", "path": "/description", "value": "Me lembra do interior de um centro médico."}]
+[
+  {
+    "op": "replace",
+    "value": "Intrigado. Estas placas de metal foram cuidadosamente alisadas.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me lembra do interior de um centro médico.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Smooth Plated Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas placas lisas de parede.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Placass de metal lisso e brilhantess.",
+    "path": "/florandescription"
+  }
+]

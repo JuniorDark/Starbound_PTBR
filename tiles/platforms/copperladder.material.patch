@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Uma escada de cobre."}, {"op": "replace", "path": "/shortdescription", "value": "Copper Ladder"}, {"op": "replace", "path": "/floranDescription", "value": "Escada é feita de cobre brilhante."}, {"op": "replace", "path": "/glitchDescription", "value": "Surpreso. Esta escada é feita de cobre."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma escada feita de cobre."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma escada feita de cobre.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Copper Ladder",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Escada é feita de cobre brilhante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Esta escada é feita de cobre.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma escada de cobre.",
+    "path": "/description"
+  }
+]

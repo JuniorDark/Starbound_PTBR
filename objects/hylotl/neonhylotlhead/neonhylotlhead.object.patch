@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Eu me pergunto se os Hylotl realmente gostam de tirar selfies."}, {"op": "replace", "path": "/novakidDescription", "value": "Novakids não precisam de placas de néon, nós já brilhamos!"}, {"op": "replace", "path": "/floranDescription", "value": "Homem-peixe agora colocou-se em placa luminosa?"}, {"op": "replace", "path": "/description", "value": "Uma placa de néon que descreve uma cabeça Hylotl."}, {"op": "replace", "path": "/shortdescription", "value": "Neon Hylotl Sign"}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. É uma placa de néon na forma de uma cabeça Hylotl. Por quê?"}, {"op": "replace", "path": "/apexDescription", "value": "Uma placa cabeça de neon Hylotl. Por que razão?"}, {"op": "replace", "path": "/hylotlDescription", "value": "É uma placa de néon na forma de uma cabeça Hylotl."}, {"op": "replace", "path": "/avianDescription", "value": "Uma placa que descreve uma cabeça Hylotl. Não parece servir a um propósito."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma placa cabeça de neon Hylotl. Por que razão?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa de néon que descreve uma cabeça Hylotl.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa que descreve uma cabeça Hylotl. Não parece servir a um propósito.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. É uma placa de néon na forma de uma cabeça Hylotl. Por quê?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Homem-peixe agora colocou-se em placa luminosa?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto se os Hylotl realmente gostam de tirar selfies.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma placa de néon na forma de uma cabeça Hylotl.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neon Hylotl Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Novakids não precisam de placas de néon, nós já brilhamos!",
+    "path": "/novakidDescription"
+  }
+]

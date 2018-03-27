@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "O Poptop cantarola lindamente para confundir sua presa."}, {"op": "replace", "path": "/shortdescription", "value": "Poptop"}]
+[
+  {
+    "op": "replace",
+    "value": "Poptop",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O Poptop cantarola lindamente para confundir sua presa.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Human Skull Mask"}, {"op": "replace", "path": "/description", "value": "Um crânio humano real. Infelizmente, pobre Yorick!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um crânio humano real. Infelizmente, pobre Yorick!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Human Skull Mask",
+    "path": "/shortdescription"
+  }
+]

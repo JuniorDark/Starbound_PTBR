@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Javelin"}, {"op": "replace", "path": "/description", "value": "Uma lança arremessável afiada, apropriada para caça."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lança arremessável afiada, apropriada para caça.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Javelin",
+    "path": "/shortdescription"
+  }
+]

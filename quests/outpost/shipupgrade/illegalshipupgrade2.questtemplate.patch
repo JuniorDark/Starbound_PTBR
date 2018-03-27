@@ -1,32 +1,32 @@
 [
   {
     "op": "replace",
-    "path": "/scriptConfig/conditions/0/description",
-    "value": "Ache ^orange;<itemName>^reset;: ^green;<current> / <required>^reset;"
+    "value": "Penguin Pete",
+    "path": "/scriptConfig/portraits/questComplete/title"
   },
   {
     "op": "replace",
-    "path": "/text",
-    "value": "Esta licença sem dúvida é autêntica. ^green;Visite Pinguim Pete^reset; com ^orange;4 Upgrade Modules^reset; para atualizar sua nave."
+    "value": "Esta licença sem dúvida é autêntica. ^green;Visite Pinguim Pete^reset; com ^orange;4 Upgrade Modules^reset; para atualizar sua nave.",
+    "path": "/text"
   },
   {
     "op": "replace",
-    "path": "/completionText",
-    "value": "Sua nave vai ser atualizada imediatamente. Os pinguins sempre fazem um bom trabalho."
+    "value": "^green;Atualização de Nave Questionable Kestrel",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/portraits/questComplete/title",
-    "value": "Pinguim Pete"
+    "value": "Entregue ^orange;Upgrade Modules^reset; para ^orange;Penguin Pete^reset; no ^orange;posto avançado^reset;.",
+    "path": "/scriptConfig/turnInDescription"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/turnInDescription",
-    "value": "Entregue ^orange;Upgrade Modules^reset; para ^orange;Penguin Pete^reset; no ^orange;posto avançado^reset;."
+    "value": "Encontre ^orange;<itemName>^reset;: ^green;<current> / <required>^reset;",
+    "path": "/scriptConfig/conditions/0/description"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "^green;Atualização de Nave Questionable Kestrel"
+    "value": "Sua nave vai ser atualizada imediatamente. Os pinguins sempre fazem um bom trabalho.",
+    "path": "/completionText"
   }
 ]

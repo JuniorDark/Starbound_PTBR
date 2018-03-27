@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/panels/2/text", "value": "ATUALIZANDO MODS"}, {"op": "replace", "path": "/panels/3/text", "value": "Uau, você com certeza tem um monte de mods pra atualizar, né?"}, {"op": "replace", "path": "/panels/5/text", "value": "Por que você não vai dar uma volta?"}, {"op": "replace", "path": "/panels/6/text", "value": "Não pergunte a mim, eu sou apenas um coelho."}, {"op": "replace", "path": "/panels/4/text", "value": "Isso esta demorando. Talvez você queira uma xícara de chá?"}]
+[
+  {
+    "op": "replace",
+    "value": "Não pergunte a mim, eu sou apenas um coelho.",
+    "path": "/panels/6/text"
+  },
+  {
+    "op": "replace",
+    "value": "Por que você não vai dar uma volta?",
+    "path": "/panels/5/text"
+  },
+  {
+    "op": "replace",
+    "value": "Isso esta demorando. Talvez você queira uma xícara de chá?",
+    "path": "/panels/4/text"
+  },
+  {
+    "op": "replace",
+    "value": "ATUALIZANDO MODS",
+    "path": "/panels/2/text"
+  },
+  {
+    "op": "replace",
+    "value": "Uau, você com certeza tem um monte de mods pra atualizar, né?",
+    "path": "/panels/3/text"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Muitass letrass chatas."}, {"op": "replace", "path": "/glitchDescription", "value": "Presunçoso. Meus sensores internos tornam a informação nesta tela obsoleta."}, {"op": "replace", "path": "/apexDescription", "value": "A tela exibe uma leitura planetária."}, {"op": "replace", "path": "/humanDescription", "value": "Parece ser este planeta... Há um monte de leituras."}, {"op": "replace", "path": "/description", "value": "Gostaria de ter prestado atenção na aula de astrogeografia."}, {"op": "replace", "path": "/shortdescription", "value": "Planet Monitor"}, {"op": "replace", "path": "/avianDescription", "value": "Que planeta é este?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Informações detalhadas sobre a geografia do planeta."}, {"op": "replace", "path": "/novakidDescription", "value": "A tela está me mostrando informações sobre o planeta em que estamos."}]
+[
+  {
+    "op": "replace",
+    "value": "Informações detalhadas sobre a geografia do planeta.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gostaria de ter prestado atenção na aula de astrogeografia.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Parece ser este planeta... Há um monte de leituras.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Muitass letrass chatas.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Planet Monitor",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Presunçoso. Meus sensores internos tornam a informação nesta tela obsoleta.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A tela exibe uma leitura planetária.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A tela está me mostrando informações sobre o planeta em que estamos.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que planeta é este?",
+    "path": "/avianDescription"
+  }
+]

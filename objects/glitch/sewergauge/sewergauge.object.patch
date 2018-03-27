@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Isso pode ser algo importante e eu não tenho idéia."}, {"op": "replace", "path": "/description", "value": "Um medidor de esgoto. Ninguém sabe o que o medidor ilustra."}, {"op": "replace", "path": "/apexDescription", "value": "Um medidor misterioso."}, {"op": "replace", "path": "/humanDescription", "value": "Isto parece muito científico."}, {"op": "replace", "path": "/avianDescription", "value": "O medidor diz 'dez esgotos'."}, {"op": "replace", "path": "/shortdescription", "value": "Sewer Gauge"}, {"op": "replace", "path": "/glitchDescription", "value": "Frustrado. Este medidor tem um propósito desconhecido."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma peça de equipamento de monitoração não reconhecida."}, {"op": "replace", "path": "/floranDescription", "value": "Essa coisa não faz ssentido."}]
+[
+  {
+    "op": "replace",
+    "value": "Um medidor misterioso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um medidor de esgoto. Ninguém sabe o que o medidor ilustra.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma peça de equipamento de monitoração não reconhecida.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Frustrado. Este medidor tem um propósito desconhecido.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sewer Gauge",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O medidor diz 'dez esgotos'.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso pode ser algo importante e eu não tenho idéia.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto parece muito científico.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa coisa não faz ssentido.",
+    "path": "/floranDescription"
+  }
+]

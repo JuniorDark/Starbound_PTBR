@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "É o planeta mais pequeno em meu sistema natal e o mais próximo ao Sol."}, {"op": "replace", "path": "/description", "value": "Um modelo detalhado do planeta mais pequeno do sistema Solar, Mercúrio."}, {"op": "replace", "path": "/shortdescription", "value": "Mercury Model"}, {"op": "replace", "path": "/novakidDescription", "value": "Mercúrio é um minúsculo planeta no Sistema Solar."}, {"op": "replace", "path": "/floranDescription", "value": "Planeta pequeno no Sssistema Solar. O mais próximo do sol. Inóssspito."}, {"op": "replace", "path": "/glitchDescription", "value": "Fascinado. O comprimento do dia de Mercúrio é de quase 59 dias Terrestres e o comprimento do ano é cerca de 88 dias Terrestres."}, {"op": "replace", "path": "/apexDescription", "value": "Mercúrio é o primeiro planeta no Sistema Solar e é gravitacionalmente bloqueado levando a dias extremamente longos."}, {"op": "replace", "path": "/avianDescription", "value": "Mercúrio, o primeiro planeta no Sistema Solar. Mercúrio é o nome de um deus antigo da Terra do comércio conhecido pela rapidez."}, {"op": "replace", "path": "/hylotlDescription", "value": "O planeta Mercúrio. Além de ser um planeta do Sistema Solar é talvez o mais conhecido por uma série de acidentes horríveis de mineração algumas décadas atrás."}]
+[
+  {
+    "op": "replace",
+    "value": "Um modelo detalhado do planeta mais pequeno do sistema Solar, Mercúrio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Fascinado. O comprimento do dia de Mercúrio é de quase 59 dias Terrestres e o comprimento do ano é cerca de 88 dias Terrestres.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É o planeta mais pequeno em meu sistema natal e o mais próximo ao Sol.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mercury Model",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mercúrio é um minúsculo planeta no Sistema Solar.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mercúrio é o primeiro planeta no Sistema Solar e é gravitacionalmente bloqueado levando a dias extremamente longos.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mercúrio, o primeiro planeta no Sistema Solar. Mercúrio é o nome de um deus antigo da Terra do comércio conhecido pela rapidez.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Planeta pequeno no Sssistema Solar. O mais próximo do sol. Inóssspito.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O planeta Mercúrio. Além de ser um planeta do Sistema Solar é talvez o mais conhecido por uma série de acidentes horríveis de mineração algumas décadas atrás.",
+    "path": "/hylotlDescription"
+  }
+]

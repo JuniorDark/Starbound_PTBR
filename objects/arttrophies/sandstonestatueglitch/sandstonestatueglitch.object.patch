@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um Glitch de arenito. Não é consciente."
+    "value": "Um Glitch. Sua aparência artificial será para sempre chocante.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Um Glitch. Esses caras parecem todos iguais para mim."
+    "value": "Um Glitch. Esses caras parecem todos iguais para mim.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/genericDescription",
-    "value": "Uma estátua de um Glitch. Me pergunto se este era importante."
+    "value": "Um Glitch de arenito. Não é consciente.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Homem máquina feito de pedra. Floran acha que homem máquina parece bobo."
+    "value": "Uma estátua de um Glitch. Me pergunto se este era importante.",
+    "path": "/genericDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Informado. Esta estátua representa o primeiro modelo Glitch, antes que os autoconscientes começaram a se modificar."
+    "value": "Glitch Sandstone Statue",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Eu sempre quis um ajudante Glitch. Esta estátua é a melhor coisa mais proxima."
+    "value": "Eu sempre quis um ajudante Glitch. Esta estátua é a melhor coisa mais proxima.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Um Glitch. Sua aparência artificial será para sempre chocante."
+    "value": "Informado. Esta estátua representa o primeiro modelo Glitch, antes que os autoconscientes começaram a se modificar.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Quem iria construir um homem de metal feito de arenito?"
+    "value": "Homem máquina feito de pedra. Floran acha que homem máquina parece bobo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quem iria construir um homem de metal feito de arenito?",
+    "path": "/novakidDescription"
   }
 ]

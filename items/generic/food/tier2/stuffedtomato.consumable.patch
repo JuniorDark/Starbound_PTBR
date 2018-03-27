@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um tomate assado com um delicioso recheio saboroso."}, {"op": "replace", "path": "/shortdescription", "value": "Stuffed Tomato"}]
+[
+  {
+    "op": "replace",
+    "value": "Um tomate assado com um delicioso recheio saboroso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Stuffed Tomato",
+    "path": "/shortdescription"
+  }
+]

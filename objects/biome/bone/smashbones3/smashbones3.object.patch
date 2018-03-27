@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma pilha de ossos, pronta para esmagar."}, {"op": "replace", "path": "/shortdescription", "value": "Bone Pile"}, {"op": "replace", "path": "/floranDescription", "value": "Floran esmaga osso. Dia feito."}, {"op": "replace", "path": "/glitchDescription", "value": "Animado. Um chute provavelmente transformaria esta pilha de ossos em pó"}, {"op": "replace", "path": "/apexDescription", "value": "Esses ossos estão apenas pedindo para serem esmagados."}, {"op": "replace", "path": "/humanDescription", "value": "Se eles já estão mortos, esmagar esses ossos não pode doer."}, {"op": "replace", "path": "/avianDescription", "value": "Cinzas às cinzas, pó ao pó."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esmagar ossos é desagradável. Eu temo que eu possa acidentalmente esbarrar nele quando eu estiver passado. Inevitável."}, {"op": "replace", "path": "/novakidDescription", "value": "Ossos secos e empoeirados, apenas implorando um bom chute."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pilha de ossos, pronta para esmagar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cinzas às cinzas, pó ao pó.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bone Pile",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ossos secos e empoeirados, apenas implorando um bom chute.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. Um chute provavelmente transformaria esta pilha de ossos em pó",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran esmaga osso. Dia feito.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se eles já estão mortos, esmagar esses ossos não pode doer.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esmagar ossos é desagradável. Eu temo que eu possa acidentalmente esbarrar nele quando eu estiver passado. Inevitável.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esses ossos estão apenas pedindo para serem esmagados.",
+    "path": "/apexDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Alguém esssmagou luz."}, {"op": "replace", "path": "/novakidDescription", "value": "Piscando como uma chama morrendo."}, {"op": "replace", "path": "/description", "value": "Esta luz se destina a iluminar uma exibição de algum tipo."}, {"op": "replace", "path": "/shortdescription", "value": "Broken Display Light"}, {"op": "replace", "path": "/glitchDescription", "value": "Horrorizado. Que visão trágica, esta luz precisa de uma lâmpada de substituição com urgência."}, {"op": "replace", "path": "/apexDescription", "value": "Talvez só precise de uma nova lâmpada."}, {"op": "replace", "path": "/humanDescription", "value": "Esta luz se foi, alguém tem uma lâmpada de reposição?"}, {"op": "replace", "path": "/avianDescription", "value": "O que estaria iluminando se estivesse ligada?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Que vergonha, alguém deve realmente consertar essa luz antes que cause um acidente."}]
+[
+  {
+    "op": "replace",
+    "value": "Broken Display Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Piscando como uma chama morrendo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Horrorizado. Que visão trágica, esta luz precisa de uma lâmpada de substituição com urgência.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez só precise de uma nova lâmpada.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém esssmagou luz.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz se destina a iluminar uma exibição de algum tipo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz se foi, alguém tem uma lâmpada de reposição?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que vergonha, alguém deve realmente consertar essa luz antes que cause um acidente.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que estaria iluminando se estivesse ligada?",
+    "path": "/avianDescription"
+  }
+]

@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/panels/1/text", "value": "REPARANDO O MOTOR FTL..."}]
+[
+  {
+    "op": "replace",
+    "value": "REPARANDO O MOTOR FTL...",
+    "path": "/panels/1/text"
+  }
+]

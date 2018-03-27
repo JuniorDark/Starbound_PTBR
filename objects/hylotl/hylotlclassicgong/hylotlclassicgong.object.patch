@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Ei, este gongo tem uma forma estranha... oh. Oh, entendo. É uma vitória régia."}, {"op": "replace", "path": "/glitchDescription", "value": "Pensativo. Enquanto a forma prejudica o som, é agradável aos olhos."}, {"op": "replace", "path": "/humanDescription", "value": "Um gongo na forma de uma vitória régia. Eu poderia imaginar isso em uma loja de presentes."}, {"op": "replace", "path": "/novakidDescription", "value": "Um instrumento para fazer barulhos altos. Para que propósito, eu não poderia te dizer..."}, {"op": "replace", "path": "/floranDescription", "value": "Floran bate no gongo, mas o sssom não é sssatisfatório."}, {"op": "replace", "path": "/shortdescription", "value": "Traditional Gong"}, {"op": "replace", "path": "/hylotlDescription", "value": "Que trabalho impressionante, é quase uma vergonha batê-lo."}, {"op": "replace", "path": "/avianDescription", "value": "A forma do gongo significa que não soa muito bem."}, {"op": "replace", "path": "/apexDescription", "value": "Acho que esse gongo é bom se você gosta desse tipo de coisa."}]
+[
+  {
+    "op": "replace",
+    "value": "Um gongo na forma de uma vitória régia. Eu poderia imaginar isso em uma loja de presentes.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um instrumento para fazer barulhos altos. Para que propósito, eu não poderia te dizer...",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran bate no gongo, mas o sssom não é sssatisfatório.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ei, este gongo tem uma forma estranha... oh. Oh, entendo. É uma vitória régia.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Acho que esse gongo é bom se você gosta desse tipo de coisa.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que trabalho impressionante, é quase uma vergonha batê-lo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A forma do gongo significa que não soa muito bem.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pensativo. Enquanto a forma prejudica o som, é agradável aos olhos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Traditional Gong",
+    "path": "/shortdescription"
+  }
+]

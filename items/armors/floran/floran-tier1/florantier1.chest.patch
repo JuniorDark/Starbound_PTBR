@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Sprout's Chestguard"}, {"op": "replace", "path": "/description", "value": "É raro ver um peitoral como esse não coberto de dentes, sangue e pedaços de carne."}]
+[
+  {
+    "op": "replace",
+    "value": "É raro ver um peitoral como esse não coberto de dentes, sangue e pedaços de carne.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Sprout's Chestguard",
+    "path": "/shortdescription"
+  }
+]

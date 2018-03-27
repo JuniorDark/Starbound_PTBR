@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Encantado. Esta plataforma é feita de ouro maciço."}, {"op": "replace", "path": "/novakidDescription", "value": "Ouro! É uma plataforma feita de ouro!."}, {"op": "replace", "path": "/description", "value": "Para o verdadeiramente rico, uma plataforma feita de ouro."}, {"op": "replace", "path": "/shortdescription", "value": "Gold Platform"}, {"op": "replace", "path": "/floranDescription", "value": "Plataformasss de ouro. Tão chique."}]
+[
+  {
+    "op": "replace",
+    "value": "Encantado. Esta plataforma é feita de ouro maciço.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para o verdadeiramente rico, uma plataforma feita de ouro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Gold Platform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plataformasss de ouro. Tão chique.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ouro! É uma plataforma feita de ouro!.",
+    "path": "/novakidDescription"
+  }
+]

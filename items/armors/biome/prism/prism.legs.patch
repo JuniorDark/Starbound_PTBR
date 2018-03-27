@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Fique aquecido nessas calças térmicas confortáveis."}, {"op": "replace", "path": "/shortdescription", "value": "Prism Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Prism Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fique aquecido nessas calças térmicas confortáveis.",
+    "path": "/description"
+  }
+]

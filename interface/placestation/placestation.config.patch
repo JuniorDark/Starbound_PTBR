@@ -1,1 +1,97 @@
-[{"op":"replace","path":"/gui/windowtitle/title","value":"Configuração do Transponder de Estação"},{"op":"replace","path":"/gui/windowtitle/subtitle","value":"^#b9b5b2;Configure e lance sua sonda de implantação de estação"},{"op":"replace","path":"/gui/connectingLabel/value","value":"Conectando-se ao S.A.I.L..."},{"op":"replace","path":"/gui/configure/children/configureLabel/value","value":"Configuração"},{"op":"replace","path":"/gui/configure/children/name/hint","value":"Nome da estação"},{"op":"replace","path":"/gui/configure/children/description/hint","value":"Descrição da estação"},{"op":"replace","path":"/gui/configure/children/saveButton/caption","value":"SALVAR"},{"op":"replace","path":"/connect/connectText","value":"^green;Conectando-se ao S.A.I.L"},{"op":"replace","path":"/connect/failText","value":"^red;Não é possível estabelecer uma conexão de alta largura de banda com S.A.I.L\nTente novamente de sua nave"},{"op":"replace","path":"/connect/successText","value":"^green;Conexão de alta largura de banda estabelecida\nTransferindo dados do sistema"},{"op":"replace","path":"/connectedText","value":"^green;Link estabelecido"},{"op":"replace","path":"/deployingText/dispatching","value":"^green;Solicitando despacho de sonda"},{"op":"replace","path":"/deployingText/traveling","value":"^green;Sonda despachada.\nSonda se aproximando da órbita alvo"},{"op":"replace","path":"/deployingText/deploying","value":"^green;A sonda atingiu a órbita alvo.\nImplantando estação"},{"op":"replace","path":"/deployingText/deployed","value":"^green;Estação implantada"},{"op":"replace","path":"/deployingText/error","value":"Erro ao implantar a sonda. \nConexão perdida..."},{"op":"replace","path":"/nameLabel","value":"nome > "},{"op":"replace","path":"/descriptionLabel","value":"descrição > "},{"op":"replace","path":"/gui/configure/children/name/regex","value":"[a-zA-ZÀ-ɏ0-9 '-?!.]{0,30}"},{"op":"replace","path":"/gui/configure/children/description/regex","value":"[a-zA-ZÀ-ɏ0-9 '-?!.]{0,130}"}]
+[
+  {
+    "op": "replace",
+    "value": "(%s, %s)",
+    "path": "/coordinateText"
+  },
+  {
+    "op": "replace",
+    "value": "(0, 0)",
+    "path": "/gui/coordinateLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "> ",
+    "path": "/gui/descriptionLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "> ",
+    "path": "/gui/nameLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Configuração",
+    "path": "/gui/configure/children/configureLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Conectando-se ao S.A.I.L...",
+    "path": "/gui/connectingLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Descrição da estação",
+    "path": "/gui/configure/children/description/hint"
+  },
+  {
+    "op": "replace",
+    "value": "Nome da estação",
+    "path": "/gui/configure/children/name/hint"
+  },
+  {
+    "op": "replace",
+    "value": "SALVAR",
+    "path": "/gui/configure/children/saveButton/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Configuração do Transponder de Estação",
+    "path": "/gui/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "[a-zA-ZÀ-ɏ0-9 '-?!.]{0,130}",
+    "path": "/gui/configure/children/description/regex"
+  },
+  {
+    "op": "replace",
+    "value": "[a-zA-ZÀ-ɏ0-9 '-?!.]{0,30}",
+    "path": "/gui/configure/children/name/regex"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Configure e lance sua sonda de implantação de estação",
+    "path": "/gui/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Conectando-se ao S.A.I.L",
+    "path": "/connect/connectText"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Conexão de alta largura de banda estabelecida\nTransferindo dados do sistema",
+    "path": "/connect/successText"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Link estabelecido",
+    "path": "/connectedText"
+  },
+  {
+    "op": "replace",
+    "value": "^red;Não é possível estabelecer uma conexão de alta largura de banda com S.A.I.L\nTente novamente de sua nave",
+    "path": "/connect/failText"
+  },
+  {
+    "op": "replace",
+    "value": "descrição > ",
+    "path": "/descriptionLabel"
+  },
+  {
+    "op": "replace",
+    "value": "nome > ",
+    "path": "/nameLabel"
+  }
+]

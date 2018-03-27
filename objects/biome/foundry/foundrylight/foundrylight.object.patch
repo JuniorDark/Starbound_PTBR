@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Foundry Light"}, {"op": "replace", "path": "/floranDescription", "value": "Lava ardente brilha intensamente"}, {"op": "replace", "path": "/glitchDescription", "value": "Confuso. Qual o propósito uma fonte de lava?"}, {"op": "replace", "path": "/apexDescription", "value": "Esta lava brilha brilhantemente e é reciclada através do dispositivo elétrico."}, {"op": "replace", "path": "/humanDescription", "value": "Esta lava deve ser realmente quente para brilhar tão brilhantemente."}, {"op": "replace", "path": "/avianDescription", "value": "Bem, suponho que seja uma fonte de luz natural."}, {"op": "replace", "path": "/hylotlDescription", "value": "A lava é um lembrete do poder da natureza. É raro poder vê-la tão de perto."}, {"op": "replace", "path": "/novakidDescription", "value": "Melhor tomar cuidado, aquela lava é mais quente que uma bota queimada."}, {"op": "replace", "path": "/description", "value": "A lava nesta pequena fonte é superaquecida para brilhar brilhantemente."}]
+[
+  {
+    "op": "replace",
+    "value": "Melhor tomar cuidado, aquela lava é mais quente que uma bota queimada.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lava ardente brilha intensamente",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Qual o propósito uma fonte de lava?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Foundry Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A lava é um lembrete do poder da natureza. É raro poder vê-la tão de perto.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A lava nesta pequena fonte é superaquecida para brilhar brilhantemente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lava brilha brilhantemente e é reciclada através do dispositivo elétrico.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lava deve ser realmente quente para brilhar tão brilhantemente.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bem, suponho que seja uma fonte de luz natural.",
+    "path": "/avianDescription"
+  }
+]

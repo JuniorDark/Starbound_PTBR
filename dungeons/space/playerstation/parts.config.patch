@@ -1,1 +1,202 @@
-[{"op":"replace","path":"/parts/core/displayName","value":"Núcleo"},{"op":"replace","path":"/parts/core/description","value":"Uma sala quadrada com slots de expansão em 4 direções."},{"op":"replace","path":"/parts/corehuge/displayName","value":"Grande Núcleo"},{"op":"replace","path":"/parts/corehuge/description","value":"Uma enorme sala vazia com slots de expansão em 4 direções."},{"op":"replace","path":"/parts/cross/displayName","value":"Cruzamento Transversal"},{"op":"replace","path":"/parts/cross/description","value":"Uma sala em forma de cruz com slots de expansão em 4 direções."},{"op":"replace","path":"/parts/crosswayNESW/displayName","value":"Canto Transversal N-L & S-O"},{"op":"replace","path":"/parts/crosswayNESW/description","value":"Uma sala feita de dois túneis não conectados, com slots de expansão em 4 direções."},{"op":"replace","path":"/parts/crosswayNWSE/displayName","value":"Canto Transversal N-O & S-L"},{"op":"replace","path":"/parts/crosswayNWSE/description","value":"Uma sala feita de dois túneis não conectados, com slots de expansão em 4 direções."},{"op":"replace","path":"/parts/passage/displayName","value":"Corredor Horizontal"},{"op":"replace","path":"/parts/passage/description","value":"Um corredor com um slot de expansão em ambas as extremidades."},{"op":"replace","path":"/parts/passageglass/displayName","value":"Corredor Horizontal Longo"},{"op":"replace","path":"/parts/passageglass/description","value":"Um longo corredor de vidro horizontal com um trilho através dele. Possui slots de expansão em ambas as extremidades."},{"op":"replace","path":"/parts/shaft/displayName","value":"Eixo Vertical"},{"op":"replace","path":"/parts/shaft/description","value":"Um eixo vertical com um slot de expansão em ambas as extremidades."},{"op":"replace","path":"/parts/shaftglass/displayName","value":"Eixo Vertical Longo"},{"op":"replace","path":"/parts/shaftglass/description","value":"Um longo eixo vertical de vidro horizontal com um trilho através dele. Possui slots de expansão em ambas as extremidades."},{"op":"replace","path":"/parts/cornerNE/displayName","value":"Canto N-L"},{"op":"replace","path":"/parts/cornerNE/description","value":"Uma passagem em forma de canto, com slots de expansão orientados para o norte e leste."},{"op":"replace","path":"/parts/cornerNW/displayName","value":"Canto N-O"},{"op":"replace","path":"/parts/cornerNW/description","value":"Uma passagem em forma de canto, com slots de expansão orientados para o oeste e norte."},{"op":"replace","path":"/parts/cornerSW/displayName","value":"Canto S-O"},{"op":"replace","path":"/parts/cornerSW/description","value":"Uma passagem em forma de canto, com slots de expansão orientados para o oeste e sul."},{"op":"replace","path":"/parts/cornerSE/displayName","value":"Canto S-L"},{"op":"replace","path":"/parts/cornerSE/description","value":"Uma passagem em forma de canto, com slots de expansão orientados para o sul e leste."},{"op":"replace","path":"/parts/tjuncNWE/displayName","value":"Junção T N-O-L"},{"op":"replace","path":"/parts/tjuncNWE/description","value":"Uma sala em forma de junção T com slots de expansão em 3 direções."},{"op":"replace","path":"/parts/tjuncNSE/displayName","value":"Junção T N-S-L"},{"op":"replace","path":"/parts/tjuncNSE/description","value":"Uma sala em forma de junção T com slots de expansão em 3 direções."},{"op":"replace","path":"/parts/tjuncNSW/displayName","value":"Junção T N-S-O"},{"op":"replace","path":"/parts/tjuncNSW/description","value":"Uma sala em forma de junção T com slots de expansão em 3 direções."},{"op":"replace","path":"/parts/tjuncSWE/displayName","value":"Junção T S-O-L"},{"op":"replace","path":"/parts/tjuncSWE/description","value":"Uma sala em forma de junção T com slots de expansão em 3 direções."},{"op":"replace","path":"/parts/mechassembly/displayName","value":"Sala de Montagem de Mecha"},{"op":"replace","path":"/parts/mechassembly/description","value":"Um corredor com uma estação de montagem de mecha e uma estação de fabricação de mecha. Tem slots de expansão em ambas as extremidades."},{"op":"replace","path":"/parts/mechbayL/displayName","value":"Baía de Mecha Oeste"},{"op":"replace","path":"/parts/mechbayL/description","value":"Uma estação virada para o oeste, apropriada para pousar mechas."},{"op":"replace","path":"/parts/mechbayR/displayName","value":"Baía de Mecha Leste"},{"op":"replace","path":"/parts/mechbayR/description","value":"Uma estação virada para o leste, apropriada para pousar mechas."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma sala em forma de junção T com slots de expansão em 3 direções.",
+    "path": "/parts/tjuncNSE/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma sala em forma de junção T com slots de expansão em 3 direções.",
+    "path": "/parts/tjuncNSW/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma sala em forma de junção T com slots de expansão em 3 direções.",
+    "path": "/parts/tjuncNWE/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma sala em forma de junção T com slots de expansão em 3 direções.",
+    "path": "/parts/tjuncSWE/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma passagem em forma de canto, com slots de expansão orientados para o norte e leste.",
+    "path": "/parts/cornerNE/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma passagem em forma de canto, com slots de expansão orientados para o sul e leste.",
+    "path": "/parts/cornerSE/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma passagem em forma de canto, com slots de expansão orientados para o oeste e norte.",
+    "path": "/parts/cornerNW/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma passagem em forma de canto, com slots de expansão orientados para o oeste e sul.",
+    "path": "/parts/cornerSW/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um corredor com uma estação de montagem de mecha e uma estação de fabricação de mecha. Tem slots de expansão em ambas as extremidades.",
+    "path": "/parts/mechassembly/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um corredor com um slot de expansão em ambas as extremidades.",
+    "path": "/parts/passage/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma sala em forma de cruz com slots de expansão em 4 direções.",
+    "path": "/parts/cross/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma enorme sala vazia com slots de expansão em 4 direções.",
+    "path": "/parts/corehuge/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um longo corredor de vidro horizontal com um trilho através dele. Possui slots de expansão em ambas as extremidades.",
+    "path": "/parts/passageglass/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um longo eixo vertical de vidro horizontal com um trilho através dele. Possui slots de expansão em ambas as extremidades.",
+    "path": "/parts/shaftglass/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma sala feita de dois túneis não conectados, com slots de expansão em 4 direções.",
+    "path": "/parts/crosswayNESW/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma sala feita de dois túneis não conectados, com slots de expansão em 4 direções.",
+    "path": "/parts/crosswayNWSE/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma sala quadrada com slots de expansão em 4 direções.",
+    "path": "/parts/core/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um eixo vertical com um slot de expansão em ambas as extremidades.",
+    "path": "/parts/shaft/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estação virada para o oeste, apropriada para pousar mechas.",
+    "path": "/parts/mechbayL/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estação virada para o leste, apropriada para pousar mechas.",
+    "path": "/parts/mechbayR/description"
+  },
+  {
+    "op": "replace",
+    "value": "Núcleo",
+    "path": "/parts/core/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Canto N-L",
+    "path": "/parts/cornerNE/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Canto N-O",
+    "path": "/parts/cornerNW/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Canto S-L",
+    "path": "/parts/cornerSE/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Canto S-O",
+    "path": "/parts/cornerSW/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Canto Transversal N-L & S-O",
+    "path": "/parts/crosswayNESW/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Canto Transversal N-O & S-L",
+    "path": "/parts/crosswayNWSE/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Cruzamento Transversal",
+    "path": "/parts/cross/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Corredor Horizontal",
+    "path": "/parts/passage/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Grande Núcleo",
+    "path": "/parts/corehuge/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Corredor Horizontal Longo",
+    "path": "/parts/passageglass/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Eixo Vertical Longo",
+    "path": "/parts/shaftglass/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Sala de Montagem de Mecha",
+    "path": "/parts/mechassembly/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Baía de Mecha Leste",
+    "path": "/parts/mechbayR/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Baía de Mecha Oeste",
+    "path": "/parts/mechbayL/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Junção T N-S-L",
+    "path": "/parts/tjuncNSE/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Junção T N-S-O",
+    "path": "/parts/tjuncNSW/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Junção T N-O-L",
+    "path": "/parts/tjuncNWE/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Junção T S-O-L",
+    "path": "/parts/tjuncSWE/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Eixo Vertical",
+    "path": "/parts/shaft/displayName"
+  }
+]

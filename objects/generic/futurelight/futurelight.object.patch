@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma luz fluorescente barata."}, {"op": "replace", "path": "/shortdescription", "value": "Cheap Light"}, {"op": "replace", "path": "/glitchDescription", "value": "Entediado. Os componentes desta luz são de pouco interesse."}, {"op": "replace", "path": "/apexDescription", "value": "Uma luz básica que faz o trabalho."}, {"op": "replace", "path": "/humanDescription", "value": "Uma luz útil."}, {"op": "replace", "path": "/avianDescription", "value": "Fornece luminosidade."}, {"op": "replace", "path": "/hylotlDescription", "value": "Luzes à prova d'água."}, {"op": "replace", "path": "/floranDescription", "value": "Floran gossta de luz. Luz faz sombra, Floran rasteja na sombra."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma instalação de luz à prova d'água."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz básica que faz o trabalho.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz fluorescente barata.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz útil.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma instalação de luz à prova d'água.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Entediado. Os componentes desta luz são de pouco interesse.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cheap Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gossta de luz. Luz faz sombra, Floran rasteja na sombra.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fornece luminosidade.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luzes à prova d'água.",
+    "path": "/hylotlDescription"
+  }
+]

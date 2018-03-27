@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A etiqueta diz, \"Ele usa seus chifres para atrair um parceiro. Os shows de luzes durante a época de acasalamento são espetaculares.\""}, {"op": "replace", "path": "/shortdescription", "value": "Narfin Figurine"}]
+[
+  {
+    "op": "replace",
+    "value": "Narfin Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"Ele usa seus chifres para atrair um parceiro. Os shows de luzes durante a época de acasalamento são espetaculares.\"",
+    "path": "/description"
+  }
+]

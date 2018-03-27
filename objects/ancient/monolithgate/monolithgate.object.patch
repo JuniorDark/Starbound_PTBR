@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/description", "value": "Um antigo portal misterioso."}, {"op": "replace", "path": "/shortdescription", "value": "Portal do Monólito"}, {"op": "replace", "path": "/floranDescription", "value": "Grande portal faz com que Floran se sinta pequeno. Floran quer saber aonde leva."}, {"op": "replace", "path": "/glitchDescription", "value": "Espantado. Este é um portal de proporção de tirar o fôlego. Quem o construiu? E para onde leva?"}, {"op": "replace", "path": "/apexDescription", "value": "É um portal de proporções magníficas. O que há do outro lado?"}, {"op": "replace", "path": "/avianDescription", "value": "Este portal glorioso é como nada que eu já vi antes. Mas onde ele leva?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Isso não é nada menos que uma magnífica criação. Este portal deve ter sido construído para um propósito muito especial."}, {"op": "replace", "path": "/humanDescription", "value": "Um portal majestoso como nada que eu já encontrei antes. Quem criou essa maravilha? E o que está do outro lado?"}, {"op": "replace", "path": "/interactData/destinations/0/name", "value": "A Ruína"}, {"op": "replace", "path": "/interactData/destinations/0/planetName", "value": "A Ruína"}, {"op": "replace", "path": "/novakidDescription", "value": "Eu não tenho palavras para descrever este portal magnífico. Eu vou admirá-lo em silêncio..."}]
+[
+  {
+    "op": "replace",
+    "value": "Um portal majestoso como nada que eu já encontrei antes. Quem criou essa maravilha? E o que está do outro lado?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espantado. Este é um portal de proporção de tirar o fôlego. Quem o construiu? E para onde leva?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grande portal faz com que Floran se sinta pequeno. Floran quer saber aonde leva.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não tenho palavras para descrever este portal magnífico. Eu vou admirá-lo em silêncio...",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um portal de proporções magníficas. O que há do outro lado?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Portal do Monólito",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A Ruína",
+    "path": "/interactData/destinations/0/name"
+  },
+  {
+    "op": "replace",
+    "value": "A Ruína",
+    "path": "/interactData/destinations/0/planetName"
+  },
+  {
+    "op": "replace",
+    "value": "Este portal glorioso é como nada que eu já vi antes. Mas onde ele leva?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso não é nada menos que uma magnífica criação. Este portal deve ter sido construído para um propósito muito especial.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um antigo portal misterioso.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Barrasss de ferro pesadass."}, {"op": "replace", "path": "/glitchDescription", "value": "Afligido. Barras de metal como esta podem ser encontradas em masmorras Glitch."}, {"op": "replace", "path": "/novakidDescription", "value": "Algumas barras de metal forte."}, {"op": "replace", "path": "/shortdescription", "value": "Metal Bars"}, {"op": "replace", "path": "/description", "value": "Barras grossas de metal. Continuam fortes, embora em decomposição pela ferrugem."}]
+[
+  {
+    "op": "replace",
+    "value": "Afligido. Barras de metal como esta podem ser encontradas em masmorras Glitch.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Metal Bars",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas barras de metal forte.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Barrasss de ferro pesadass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Barras grossas de metal. Continuam fortes, embora em decomposição pela ferrugem.",
+    "path": "/description"
+  }
+]

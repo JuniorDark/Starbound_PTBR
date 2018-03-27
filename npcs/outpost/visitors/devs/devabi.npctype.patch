@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Oi, sou Abi! Eu gosto de fazer estatuetas de monstros no meu tempo livre."}]
+[
+  {
+    "op": "replace",
+    "value": "Oi, sou Abi! Eu gosto de fazer estatuetas de monstros no meu tempo livre.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

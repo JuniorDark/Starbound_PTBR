@@ -1,1 +1,187 @@
-[{"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/penguinbartop2/text", "value": "O barman no Beakeasy terá todo o prazer negociar qualquer diamantes que você tiver por dubloons pinguim, que são populares entre sua clientela mercenária."}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/frogfurnishing/text", "value": "Esta loja de móveis vende uma seleção de peças exóticas de todo o universo, e regularmente têm novo estoque. Ela também irá vender colony deeds, que atraem inquilinos quando colocada em casas."}, {"op": "replace", "path": "/scriptConfig/radioMessages/startWithProgress/text", "value": "O Posto Avançado é um lugar maravilhoso, vibrante e cheio de curiosidades. Ainda há muito para ver!"}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/terramartclosed/text", "value": "Quando o Terramart estiver aberto, ele ira estocar suplementos de agricultura e jardinagem, entre outras coisas. Eles vão até comprar produtos caseiros de você através de seu serviço de envio remoto."}, {"op": "replace", "path": "/text", "value": "Antes de você partir, eu vou te ensinar como ^green;acessar e usar ^white;o ^orange;modo de escaneamento^white; no seu ^orange;Manipulador de Matéria^white;. Há muito a ser aprendido sobre ele, e o Posto Avançado não é exceção. ^green;Pressione ^#71f2f6;[N]^green; para equipar o seu ^orange;escaneador^white;, as principais áreas de interesse aparecerão em verde. Me avise como foi!"}, {"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Volte para ^orange;Esther^reset; no ^orange;Ark^reset;"}, {"op": "replace", "path": "/scriptConfig/descriptions/findClues", "value": "^green;Escaneie objetos^reset; para aprender mais sobre o ^orange;Posto Avançado^reset;"}, {"op": "replace", "path": "/completionText", "value": "Excelente trabalho. Pode parecer insignificante, mas o escaneamento é uma habilidade essencial que será fundamental na nossa busca por artefatos."}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/techlabconsole2/text", "value": "Este console te permite equipar Tecnologias, que aumentam muito a sua mobilidade e destreza."}, {"op": "replace", "path": "/title", "value": "Visite o Posto Avançado"}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/shipyardcaptain/text", "value": "Penguin Pete é uma autoridade em automóveis, de naves espaciais de alta tecnologia até simples hoverbikes."}, {"op": "replace", "path": "/scriptConfig/radioMessages/complete/text", "value": "Isso conclui nosso passeio por hoje! ^#71f2f6;Venha me encontrar ^white;quando estiver pronto."}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/penguinbartop/text", "value": "O barman no Beakeasy terá todo o prazer negociar qualquer diamantes que você tiver por dubloons pinguim, que são populares entre sua clientela mercenária."}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/0/text", "value": "Escaneamento é um hobby gratificante."}, {"op": "replace", "path": "/scriptConfig/radioMessages/startAlreadyComplete/text", "value": "Maravilhoso! Você certamente possui uma mente curiosa."}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/signstoreclosed/text", "value": "Quando esta loja estiver aberta você vai ser capaz de criar placas personalizados aqui."}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/signstore/text", "value": "Nesta loja você é capaz de criar suas próprias placas personalizadas."}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/2stopshopclosed/text", "value": "Você pode comprar teletransportadores pessoais desta loja, quando ela abrir. Coisas extremamente úteis."}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/terramart/text", "value": "O Terramart estoca suplementos de agricultura e jardinagem, entre outras coisas. Eles vão até comprar produtos caseiros de você através de seu serviço de envio remoto."}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/frogfurnishingclosed/text", "value": "Esta loja de móveis vai vender uma seleção de peças exóticas de todo o universo, e regularmente têm novo estoque. Ela também irá vender colony deeds, que atraem inquilinos quando colocada em casas."}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/2stopshop/text", "value": "Você pode comprar teletransportadores pessoais desta loja, coisas extremamente úteis."}]
+[
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/complete/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/0/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/startAlreadyComplete/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/startWithProgress/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/2stopshop/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/2stopshopclosed/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/frogfurnishing/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/frogfurnishingclosed/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/penguinbartop/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/penguinbartop2/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/shipyardcaptain/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/signstore/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/signstoreclosed/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/techlabconsole2/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/terramart/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/terramartclosed/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Volte a ^orange;Esther^reset; no ^orange;Ark^reset;",
+    "path": "/scriptConfig/descriptions/turnIn"
+  },
+  {
+    "op": "replace",
+    "value": "Nesta loja você é capaz de criar suas próprias placas personalizadas.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/signstore/text"
+  },
+  {
+    "op": "replace",
+    "value": "Antes de você partir, eu vou te ensinar como ^green;acessar e usar ^white;o ^orange;modo de escaneamento^white; no seu ^orange;Manipulador de Matéria^white;. Há muito a ser aprendido sobre ele, e o Posto Avançado não é exceção. ^green;Pressione ^#71f2f6;[N]^green; para equipar o seu ^orange;escaneador^white;, as principais áreas de interesse aparecerão em verde. Me avise como foi!",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "Excelente trabalho. Pode parecer insignificante, mas o escaneamento é uma habilidade essencial que será fundamental na nossa busca por artefatos.",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "Penguin Pete é uma autoridade em automóveis, de naves espaciais de alta tecnologia até simples hoverbikes.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/shipyardcaptain/text"
+  },
+  {
+    "op": "replace",
+    "value": "Escaneamento é um hobby gratificante.",
+    "path": "/scriptConfig/radioMessages/genericProgress/0/text"
+  },
+  {
+    "op": "replace",
+    "value": "Isso conclui nosso passeio por hoje! ^#71f2f6;Venha me encontrar ^white;quando estiver pronto.",
+    "path": "/scriptConfig/radioMessages/complete/text"
+  },
+  {
+    "op": "replace",
+    "value": "O Posto Avançado é um lugar maravilhoso, vibrante e cheio de curiosidades. Ainda há muito para ver!",
+    "path": "/scriptConfig/radioMessages/startWithProgress/text"
+  },
+  {
+    "op": "replace",
+    "value": "O Terramart estoca suplementos de agricultura e jardinagem, entre outras coisas. Eles vão até comprar produtos caseiros de você através de seu serviço de envio remoto.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/terramart/text"
+  },
+  {
+    "op": "replace",
+    "value": "O barman no Beakeasy terá todo o prazer negociar qualquer diamantes que você tiver por dubloons pinguim, que são populares entre sua clientela mercenária.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/penguinbartop/text"
+  },
+  {
+    "op": "replace",
+    "value": "O barman no Beakeasy terá todo o prazer negociar qualquer diamantes que você tiver por dubloons pinguim, que são populares entre sua clientela mercenária.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/penguinbartop2/text"
+  },
+  {
+    "op": "replace",
+    "value": "Este console te permite equipar Tecnologias, que aumentam muito a sua mobilidade e destreza.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/techlabconsole2/text"
+  },
+  {
+    "op": "replace",
+    "value": "Esta loja de móveis vende uma seleção de peças exóticas de todo o universo, e regularmente têm novo estoque. Ela também irá vender colony deeds, que atraem inquilinos quando colocada em casas.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/frogfurnishing/text"
+  },
+  {
+    "op": "replace",
+    "value": "Esta loja de móveis vai vender uma seleção de peças exóticas de todo o universo, e regularmente têm novo estoque. Ela também irá vender colony deeds, que atraem inquilinos quando colocada em casas.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/frogfurnishingclosed/text"
+  },
+  {
+    "op": "replace",
+    "value": "Visite o Posto Avançado",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Quando o Terramart estiver aberto, ele ira estocar suplementos de agricultura e jardinagem, entre outras coisas. Eles vão até comprar produtos caseiros de você através de seu serviço de envio remoto.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/terramartclosed/text"
+  },
+  {
+    "op": "replace",
+    "value": "Quando esta loja estiver aberta você vai ser capaz de criar placas personalizados aqui.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/signstoreclosed/text"
+  },
+  {
+    "op": "replace",
+    "value": "Maravilhoso! Você certamente possui uma mente curiosa.",
+    "path": "/scriptConfig/radioMessages/startAlreadyComplete/text"
+  },
+  {
+    "op": "replace",
+    "value": "Você pode comprar teletransportadores pessoais desta loja, quando ela abrir. Coisas extremamente úteis.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/2stopshopclosed/text"
+  },
+  {
+    "op": "replace",
+    "value": "Você pode comprar teletransportadores pessoais desta loja, coisas extremamente úteis.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/2stopshop/text"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Escaneie objetos^reset; para aprender mais sobre o ^orange;Posto Avançado^reset;",
+    "path": "/scriptConfig/descriptions/findClues"
+  }
+]

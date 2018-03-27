@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Coconut Rice"}, {"op": "replace", "path": "/description", "value": "Você não consegue ver o coco, mas está lá!"}]
+[
+  {
+    "op": "replace",
+    "value": "Coconut Rice",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Você não consegue ver o coco, mas está lá!",
+    "path": "/description"
+  }
+]

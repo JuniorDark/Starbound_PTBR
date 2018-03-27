@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/description", "value": "Água de pântano suja."}]
+[
+  {
+    "op": "replace",
+    "value": "Água de pântano suja.",
+    "path": "/description"
+  }
+]

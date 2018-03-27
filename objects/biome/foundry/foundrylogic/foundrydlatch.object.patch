@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "<Um Trinco. Você só precisará usar isto se você já sabe o que é.>"}, {"op": "replace", "path": "/shortdescription", "value": "Foundry Latch"}]
+[
+  {
+    "op": "replace",
+    "value": "<Um Trinco. Você só precisará usar isto se você já sabe o que é.>",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Foundry Latch",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/description", "value": "A espada no... console?"}, {"op": "replace", "path": "/floranDescription", "value": "Floran puxa espada. Espada faz luzes zumbir."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Uma boa lâmina tem muitos usos, mesmo depois de desgastada. Aqui, serve como uma alavanca."}, {"op": "replace", "path": "/apexDescription", "value": "Estas espadas funcionam como alavancas. Eu me pergunto o que elas ativam?"}, {"op": "replace", "path": "/humanDescription", "value": "Estou dividido entre puxar a alavanca e me preocupar em me cortar."}, {"op": "replace", "path": "/avianDescription", "value": "Um uso inteligente de armas desgastadas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Poderiam os dispositivos como este ser um passo para a paz? Ou são uma ameaça de violência?"}, {"op": "replace", "path": "/shortdescription", "value": "Sharp Console"}]
+[
+  {
+    "op": "replace",
+    "value": "Um uso inteligente de armas desgastadas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Poderiam os dispositivos como este ser um passo para a paz? Ou são uma ameaça de violência?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran puxa espada. Espada faz luzes zumbir.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estou dividido entre puxar a alavanca e me preocupar em me cortar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Uma boa lâmina tem muitos usos, mesmo depois de desgastada. Aqui, serve como uma alavanca.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sharp Console",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A espada no... console?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estas espadas funcionam como alavancas. Eu me pergunto o que elas ativam?",
+    "path": "/apexDescription"
+  }
+]

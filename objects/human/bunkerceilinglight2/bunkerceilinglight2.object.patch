@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma luminária de teto metálica."}, {"op": "replace", "path": "/shortdescription", "value": "Metal Ceiling Lamp"}, {"op": "replace", "path": "/glitchDescription", "value": "Entediado. Uma luminária."}, {"op": "replace", "path": "/apexDescription", "value": "A luz de teto metálica."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma luz de teto desinteressante."}, {"op": "replace", "path": "/floranDescription", "value": "Lâmpada pendurada."}, {"op": "replace", "path": "/avianDescription", "value": "Uma luz de teto."}, {"op": "replace", "path": "/novakidDescription", "value": "A luz de teto de aparência simples."}, {"op": "replace", "path": "/humanDescription", "value": "Um dispositivo que você anexa a sua cabeça, e... espere, não, é apenas uma luz."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz de teto.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada de teto metálica.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz de teto metálica.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz de teto de aparência simples.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz de teto desinteressante.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Entediado. Uma luminária.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lâmpada suspensa.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Metal Ceiling Lamp",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um dispositivo que você anexa a sua cabeça, e... espere, não, é apenas uma luz.",
+    "path": "/humanDescription"
+  }
+]

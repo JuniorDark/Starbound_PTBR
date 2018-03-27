@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma fanfarra musical, tipicamente um prelúdio para um evento esportivo ou uma batalha horrível."
+    "value": "Uma fanfarra musical, tipicamente um prelúdio para um evento esportivo ou uma batalha horrível.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Charge Mech Horn",
+    "path": "/shortdescription"
   }
 ]

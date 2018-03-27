@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Luz fluorescente brilhante."}, {"op": "replace", "path": "/floranDescription", "value": "Luz feia, Floran prefere luz sssolar."}, {"op": "replace", "path": "/apexDescription", "value": "A luz aqui é antinatural e pouco atraente."}, {"op": "replace", "path": "/humanDescription", "value": "Eu sempre odiei luzes como essas."}, {"op": "replace", "path": "/hylotlDescription", "value": "A luz que isso emite é muito sintética."}, {"op": "replace", "path": "/shortdescription", "value": "Fluorescent Light"}, {"op": "replace", "path": "/glitchDescription", "value": "Irritado. A luz zumbi suavemente quando ligada."}, {"op": "replace", "path": "/avianDescription", "value": "Esta luz é dura e fria."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta luz extravagante está zumbindo como moscas ao redor de uma mula."}]
+[
+  {
+    "op": "replace",
+    "value": "Luz fluorescente brilhante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Fluorescent Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sempre odiei luzes como essas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Irritado. A luz zumbi suavemente quando ligada.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A luz aqui é antinatural e pouco atraente.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A luz que isso emite é muito sintética.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz extravagante está zumbindo como moscas ao redor de uma mula.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz é dura e fria.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luz feia, Floran prefere luz sssolar.",
+    "path": "/floranDescription"
+  }
+]

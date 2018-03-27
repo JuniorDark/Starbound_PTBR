@@ -1,17 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/category",
-    "value": "tool"
+    "value": "Flashlight",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma lanterna útil!"
-  },
-  {
-    "op": "replace",
-    "path": "/shortdescription",
-    "value": "Flashlight"
+    "value": "Uma lanterna útil!",
+    "path": "/description"
   }
 ]

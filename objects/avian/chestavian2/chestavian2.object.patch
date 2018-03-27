@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um velho baú úmido, feito de madeira e ferro."}, {"op": "replace", "path": "/shortdescription", "value": "Old Chest"}, {"op": "replace", "path": "/floranDescription", "value": "Baú muito velho, talvez guarde tesouro."}, {"op": "replace", "path": "/glitchDescription", "value": "Animado. Um baú de aparência antiga, espero que o conteúdo seja útil."}, {"op": "replace", "path": "/apexDescription", "value": "Um baú de aparência antiga. Eu me pergunto o que está dentro?"}, {"op": "replace", "path": "/humanDescription", "value": "Encontrar um baú é sempre emocionante."}, {"op": "replace", "path": "/avianDescription", "value": "Este baú pode parecer velho, mas o conteúdo pode ser valioso."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este baú de aparência antiga pode conter um tesouro."}, {"op": "replace", "path": "/novakidDescription", "value": "Este velho baú já teve dias melhores."}]
+[
+  {
+    "op": "replace",
+    "value": "Um velho baú úmido, feito de madeira e ferro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú de aparência antiga. Eu me pergunto o que está dentro?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. Um baú de aparência antiga, espero que o conteúdo seja útil.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Encontrar um baú é sempre emocionante.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Old Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este baú pode parecer velho, mas o conteúdo pode ser valioso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este velho baú já teve dias melhores.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este baú de aparência antiga pode conter um tesouro.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Baú muito velho, talvez guarde tesouro.",
+    "path": "/floranDescription"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Impressionado. A natureza nunca deixa de impressionar, este material é inteiramente orgânico."}, {"op": "replace", "path": "/floranDescription", "value": "Teia de aranha pegajosa. Floran acha que aranha é grande caçadora!"}, {"op": "replace", "path": "/description", "value": "Teias embaladas firmemente em um bloco sólido."}, {"op": "replace", "path": "/shortdescription", "value": "Spider Silk"}, {"op": "replace", "path": "/novakidDescription", "value": "Uma teia de aranha assustadora."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma teia de aranha assustadora.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. A natureza nunca deixa de impressionar, este material é inteiramente orgânico.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Spider Silk",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Teia de aranha pegajosa. Floran acha que aranha é grande caçadora!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Teias embaladas firmemente em um bloco sólido.",
+    "path": "/description"
+  }
+]

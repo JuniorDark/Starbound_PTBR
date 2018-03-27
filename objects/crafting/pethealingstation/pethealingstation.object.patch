@@ -1,1 +1,52 @@
-[{"op": "replace", "path": "/description", "value": "A estação de cura de criatura é usada para curar criaturas capturadas."}, {"op": "replace", "path": "/shortdescription", "value": "^orange;Pet Healing Station^white;"}, {"op": "replace", "path": "/floranDescription", "value": "Floran pode manter criaturasss curadas com isso."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Este dispositivo pode curar as criaturas capturadas."}, {"op": "replace", "path": "/apexDescription", "value": "Máquinas como estas são utilizadas para curar as criaturas capturadas."}, {"op": "replace", "path": "/humanDescription", "value": "Posso usar isso para curar qualquer criatura que eu tenha capturado."}, {"op": "replace", "path": "/avianDescription", "value": "Que útil, eu posso curar qualquer criatura que eu capturar com isso."}, {"op": "replace", "path": "/hylotlDescription", "value": "Essas coisas são úteis para garantir uma excelente saúde as criaturas."}, {"op": "replace", "path": "/subtitle", "value": "Para pets tristes"}, {"op": "replace", "path": "/novakidDescription", "value": "Posso usar este dispositivo aqui para curar as criaturas capturadas."}]
+[
+  {
+    "op": "replace",
+    "value": "Floran pode manter criaturasss curadas com isso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para pets tristes",
+    "path": "/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Que útil, eu posso curar qualquer criatura que eu capturar com isso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso usar este dispositivo aqui para curar as criaturas capturadas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso usar isso para curar qualquer criatura que eu tenha capturado.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Este dispositivo pode curar as criaturas capturadas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Máquinas como estas são utilizadas para curar as criaturas capturadas.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas coisas são úteis para garantir uma excelente saúde as criaturas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A estação de cura de criatura é usada para curar criaturas capturadas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Pet Healing Station^white;",
+    "path": "/shortdescription"
+  }
+]

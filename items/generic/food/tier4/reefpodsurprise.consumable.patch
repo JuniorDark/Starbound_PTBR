@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Muito mais azedo do que você poderia esperar. Surpresa!"}, {"op": "replace", "path": "/shortdescription", "value": "Reefpod Surprise"}]
+[
+  {
+    "op": "replace",
+    "value": "Muito mais azedo do que você poderia esperar. Surpresa!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Reefpod Surprise",
+    "path": "/shortdescription"
+  }
+]

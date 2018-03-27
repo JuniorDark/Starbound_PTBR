@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Yeehaw! Blocos brilhantes de ouro maciço!"}, {"op": "replace", "path": "/glitchDescription", "value": "Encantado. Um bloco feito inteiramente de ouro maciço."}, {"op": "replace", "path": "/description", "value": "Um bloco inteiro de ouro maciço."}, {"op": "replace", "path": "/shortdescription", "value": "Gold Block"}, {"op": "replace", "path": "/floranDescription", "value": "Blocoss brilhantess de ouro."}]
+[
+  {
+    "op": "replace",
+    "value": "Um bloco inteiro de ouro maciço.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Um bloco feito inteiramente de ouro maciço.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gold Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Blocoss brilhantess de ouro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Yeehaw! Blocos brilhantes de ouro maciço!",
+    "path": "/novakidDescription"
+  }
+]

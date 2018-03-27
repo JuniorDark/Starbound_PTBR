@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/unlockMessage", "value": "Agora você pode imprimir pequenos itens de alta tecnologia sem uma mesa de fabricação."}, {"op": "replace", "path": "/description", "value": "Desbloqueia a capacidade de criar pequenos itens de alta tecnologia."}, {"op": "replace", "path": "/shortdescription", "value": "^orange;Portable Pixel Printer^white;"}]
+[
+  {
+    "op": "replace",
+    "value": "Desbloqueia a capacidade de criar pequenos itens de alta tecnologia.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Agora você pode imprimir pequenos itens de alta tecnologia sem uma mesa de fabricação.",
+    "path": "/unlockMessage"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Portable Pixel Printer^white;",
+    "path": "/shortdescription"
+  }
+]

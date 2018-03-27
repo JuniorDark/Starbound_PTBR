@@ -1,1 +1,137 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/merchant/start/hylotl/default/2", "value": "Eu acho que você vai concordar que minhas mercadorias são bastante impressionantes."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/hylotl/default/1", "value": "O que posso interessá-lo? Eu tenho muitos produtos maravilhosos."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/hylotl/default/0", "value": "Bem-vindo, por favor de uma olhada em minhas mercadorias."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/avian/default/2", "value": "Venha ver os meus itens maravilhosos."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/avian/default/1", "value": "Eu tenho os itens a venda que ate mesmo os Stargazers invejam."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/avian/default/0", "value": "Kluex abençoou meu estoque... Provavelmente."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/floran/default/2", "value": "As mercadorias de Floran são bastante impressionantes!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/floran/default/1", "value": "Floran estoca as melhores coisas por aqui."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/floran/default/0", "value": "Floran vende coisas maravilhosas!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/glitch/default/2", "value": "Tentativo. Minhas mercadorias são maravilhosas e estranhas."}, {"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title", "value": "Bruxo"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/2", "value": "O que posso fazer por você?"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/2", "value": "Coragem para você!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/1", "value": "Viu algo que você gostou?"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/0", "value": "Adeus, viajante."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/apex/default/1", "value": "Você não é da Miniknog não é? Booooooom."}, {"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle", "value": "Vende magias poderosas"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/glitch/default/0", "value": "Sedutor. Viajante, vem cá, e navegue por minhas mercadorias."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/0", "value": "Bem-vindo à minha loja de maravilhas."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/apex/default/2", "value": "Tem mais do que apenas bananas aqui..."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/apex/default/3", "value": "Que tal algo maravilhoso, não é?"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/glitch/default/2", "value": "Bondoso. Coragem para você!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/1", "value": "Eu espero vê-lo mais no futuro."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/glitch/default/1", "value": "Social. Eu espero vê-lo mais no futuro."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/glitch/default/0", "value": "Sincero. Adeus, viajante."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/glitch/default/1", "value": "Furtivo. Rodas denteadas e engrenagens só chegam até aí, jovem."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/apex/default/0", "value": "Tenho coisas que a Miniknog mataria por."}]
+[
+  {
+    "op": "replace",
+    "value": "Viu algo que você gostou?",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Vende magias poderosas",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Bruxo",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Venha ver os meus itens maravilhosos.",
+    "path": "/scriptConfig/dialog/merchant/start/avian/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Social. Eu espero vê-lo mais no futuro.",
+    "path": "/scriptConfig/dialog/merchant/end/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Sincero. Adeus, viajante.",
+    "path": "/scriptConfig/dialog/merchant/end/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Coragem para você!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Sedutor. Viajante, vem cá, e navegue por minhas mercadorias.",
+    "path": "/scriptConfig/dialog/merchant/start/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Adeus, viajante.",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran vende coisas maravilhosas!",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran estoca as melhores coisas por aqui.",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "As mercadorias de Floran são bastante impressionantes!",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Furtivo. Rodas denteadas e engrenagens só chegam até aí, jovem.",
+    "path": "/scriptConfig/dialog/merchant/start/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Tem mais do que apenas bananas aqui...",
+    "path": "/scriptConfig/dialog/merchant/start/apex/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Que tal algo maravilhoso, não é?",
+    "path": "/scriptConfig/dialog/merchant/start/apex/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Eu tenho os itens a venda que ate mesmo os Stargazers invejam.",
+    "path": "/scriptConfig/dialog/merchant/start/avian/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu espero vê-lo mais no futuro.",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu acho que você vai concordar que minhas mercadorias são bastante impressionantes.",
+    "path": "/scriptConfig/dialog/merchant/start/hylotl/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Tenho coisas que a Miniknog mataria por.",
+    "path": "/scriptConfig/dialog/merchant/start/apex/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Bondoso. Coragem para você!",
+    "path": "/scriptConfig/dialog/merchant/end/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Kluex abençoou meu estoque... Provavelmente.",
+    "path": "/scriptConfig/dialog/merchant/start/avian/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Tentativo. Minhas mercadorias são maravilhosas e estranhas.",
+    "path": "/scriptConfig/dialog/merchant/start/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Bem-vindo à minha loja de maravilhas.",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Bem-vindo, por favor de uma olhada em minhas mercadorias.",
+    "path": "/scriptConfig/dialog/merchant/start/hylotl/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "O que posso fazer por você?",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "O que posso interessá-lo? Eu tenho muitos produtos maravilhosos.",
+    "path": "/scriptConfig/dialog/merchant/start/hylotl/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você não é da Miniknog não é? Booooooom.",
+    "path": "/scriptConfig/dialog/merchant/start/apex/default/1"
+  }
+]

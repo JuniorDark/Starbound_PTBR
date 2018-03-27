@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Banana Mask"}, {"op": "replace", "path": "/description", "value": "Uma máscara de banana gigante. Banananananana!"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma máscara de banana gigante. Banananananana!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Banana Mask",
+    "path": "/shortdescription"
+  }
+]

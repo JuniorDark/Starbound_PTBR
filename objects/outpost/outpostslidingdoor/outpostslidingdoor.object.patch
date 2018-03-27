@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran não tem cem por cento de certeza de como estas portas funcionam."}, {"op": "replace", "path": "/description", "value": "Esta porta deslizante me faz sentir como se estivesse em um jogo de ficção científica..."}, {"op": "replace", "path": "/glitchDescription", "value": "Hipnotizado. Há algo fascinante sobre o movimento dessas portas."}, {"op": "replace", "path": "/apexDescription", "value": "Uma porta deslizante. Emocionante."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma porta deslizante elegante."}, {"op": "replace", "path": "/shortdescription", "value": "Sleek Sliding Door"}, {"op": "replace", "path": "/humanDescription", "value": "Certa vez, eu corri para uma porta como esta e ela não se abriu no tempo... Sim."}, {"op": "replace", "path": "/avianDescription", "value": "Algumas culturas acreditam que se você não tem alma, essas portas não vão reagir a você."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu gosto dessas portas deslizantes lustrosas."}]
+[
+  {
+    "op": "replace",
+    "value": "Floran não tem cem por cento de certeza de como estas portas funcionam.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu gosto dessas portas deslizantes lustrosas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Certa vez, eu corri para uma porta como esta e ela não se abriu no tempo... Sim.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sleek Sliding Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas culturas acreditam que se você não tem alma, essas portas não vão reagir a você.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta deslizante elegante.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta deslizante. Emocionante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hipnotizado. Há algo fascinante sobre o movimento dessas portas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta deslizante me faz sentir como se estivesse em um jogo de ficção científica...",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Esta criatura corta a água como se pudesse voar pelo ar."}, {"op": "replace", "path": "/description", "value": "Veja! Peixinhos!"}, {"op": "replace", "path": "/shortdescription", "value": "Wooden Aquarium"}, {"op": "replace", "path": "/floranDescription", "value": "Ooo, um tira-gosto"}, {"op": "replace", "path": "/hylotlDescription", "value": "Um dia vou libertá-lo, irmão."}, {"op": "replace", "path": "/glitchDescription", "value": "Empático. Esta forma de vida está presa."}, {"op": "replace", "path": "/apexDescription", "value": "Em casa, eu tinha um amigo com um peixe verde no tanque. Ele não durou muito."}, {"op": "replace", "path": "/novakidDescription", "value": "Um único peixe. Talvez ele precisa de um amigo?"}, {"op": "replace", "path": "/humanDescription", "value": "Isso me faz lembrar de mobiliário humano antigo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um único peixe. Talvez ele precisa de um amigo?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Em casa, eu tinha um amigo com um peixe verde no tanque. Ele não durou muito.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Empático. Esta forma de vida está presa.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Veja! Peixinhos!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um dia vou libertá-lo, irmão.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ooo, um tira-gosto",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta criatura corta a água como se pudesse voar pelo ar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso me faz lembrar de mobiliário humano antigo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wooden Aquarium",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Um expositor floral pendurado adequado. Eu já vi arranjos de algas mais impressionantes."}, {"op": "replace", "path": "/floranDescription", "value": "Floran se balança na cesta. Voa, bate na janela. Diversão!"}, {"op": "replace", "path": "/glitchDescription", "value": "Admiração. Uma cesta pendurada lindamente cultivada."}, {"op": "replace", "path": "/apexDescription", "value": "Uma cesta pendurada encantadora."}, {"op": "replace", "path": "/humanDescription", "value": "Uma dessas caiu na minha cabeça uma vez. Bons tempos."}, {"op": "replace", "path": "/avianDescription", "value": "Que encantadora variedade de flores."}, {"op": "replace", "path": "/shortdescription", "value": "Hanging Basket"}, {"op": "replace", "path": "/description", "value": "Uma encantadora cesta pendurada. Não se balance nela!"}, {"op": "replace", "path": "/novakidDescription", "value": "Uma cesta pendurada. Nada faz uma casa mais acolhedora."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma encantadora cesta pendurada. Não se balance nela!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cesta pendurada. Nada faz uma casa mais acolhedora.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cesta pendurada encantadora.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Admiração. Uma cesta pendurada lindamente cultivada.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um expositor floral pendurado adequado. Eu já vi arranjos de algas mais impressionantes.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran se balança na cesta. Voa, bate na janela. Diversão!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hanging Basket",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma dessas caiu na minha cabeça uma vez. Bons tempos.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que encantadora variedade de flores.",
+    "path": "/avianDescription"
+  }
+]

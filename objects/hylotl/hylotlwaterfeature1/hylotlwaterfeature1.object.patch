@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Esta fonte de água é perfeita para casa, jardim, ou dojo interestelar."}, {"op": "replace", "path": "/shortdescription", "value": "Traditional Water Feature"}, {"op": "replace", "path": "/floranDescription", "value": "Floran toma banho na fonte."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. O som da fonte de água é calmante."}, {"op": "replace", "path": "/apexDescription", "value": "Uma fonte bonitinha."}, {"op": "replace", "path": "/humanDescription", "value": "Uma fonte de água. Legal."}, {"op": "replace", "path": "/avianDescription", "value": "Esta fonte de água é deliciosamente pacífica."}, {"op": "replace", "path": "/hylotlDescription", "value": "O tilintar da água corrente é música para meus ouvidos."}, {"op": "replace", "path": "/novakidDescription", "value": "Que bela fonte de água."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma fonte bonitinha.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fonte de água. Legal.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran toma banho na fonte.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. O som da fonte de água é calmante.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O tilintar da água corrente é música para meus ouvidos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta fonte de água é deliciosamente pacífica.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta fonte de água é perfeita para casa, jardim, ou dojo interestelar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Traditional Water Feature",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que bela fonte de água.",
+    "path": "/novakidDescription"
+  }
+]

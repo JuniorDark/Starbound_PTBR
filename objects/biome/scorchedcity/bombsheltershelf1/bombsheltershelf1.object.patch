@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Há alguns itens de cura nesta prateleira."}, {"op": "replace", "path": "/apexDescription", "value": "Há alguns itens úteis nesta prateleira."}, {"op": "replace", "path": "/floranDescription", "value": "Prateleira contém itenss."}, {"op": "replace", "path": "/hylotlDescription", "value": "Isto foi construído para função, não beleza."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta prateleira contém muitos itens úteis."}, {"op": "replace", "path": "/shortdescription", "value": "Shelter Shelf"}, {"op": "replace", "path": "/humanDescription", "value": "Isso seria útil se houvesse algum tipo de desastre."}, {"op": "replace", "path": "/description", "value": "Tudo o que você precisa para sobreviver. Quase."}, {"op": "replace", "path": "/glitchDescription", "value": "Aliviado. Esta prateleira contém muitos itens úteis."}]
+[
+  {
+    "op": "replace",
+    "value": "Há alguns itens de cura nesta prateleira.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Existem alguns itens úteis nesta prateleira.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tudo o que você precisa para sobreviver. Quase.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Aliviado. Esta prateleira contém muitos itens úteis.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Prateleira contém itenss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Shelter Shelf",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta prateleira contém muitos itens úteis.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto foi construído para função, não beleza.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso seria útil se houvesse algum tipo de desastre.",
+    "path": "/humanDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Safety Helmet"}, {"op": "replace", "path": "/description", "value": "Este capacete seguro brilhante oferece proteção moderada."}]
+[
+  {
+    "op": "replace",
+    "value": "Safety Helmet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este capacete seguro brilhante oferece proteção moderada.",
+    "path": "/description"
+  }
+]

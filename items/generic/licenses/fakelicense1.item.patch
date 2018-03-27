@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Permite você atualizar permanentemente o tamanho da sua nave."}, {"op": "replace", "path": "/shortdescription", "value": "Fake Sparrow License"}]
+[
+  {
+    "op": "replace",
+    "value": "Fake Sparrow License",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Permite você atualizar permanentemente o tamanho da sua nave.",
+    "path": "/description"
+  }
+]

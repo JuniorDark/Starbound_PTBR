@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Copper Ceiling Light"}, {"op": "replace", "path": "/humanDescription", "value": "Um dispositivo que você anexa a sua cabeça, e... espere, não, é apenas uma luz."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma luz de teto industrial feita do cobre."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma luz brilhante de cobre."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Esta luz elétrica impede que o cobre em torno dele se torne quente."}, {"op": "replace", "path": "/description", "value": "Uma luz de teto suspensa feita de cobre."}, {"op": "replace", "path": "/floranDescription", "value": "Luz metálica brilhante não é quente ao toque."}, {"op": "replace", "path": "/apexDescription", "value": "Uma luminária de teto metálica."}, {"op": "replace", "path": "/avianDescription", "value": "Esta luz de teto suspensa é feita de cobre."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz de teto suspensa feita de cobre.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luminária de teto metálica.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz brilhante de cobre.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz de teto industrial feita do cobre.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Copper Ceiling Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Esta luz elétrica impede que o cobre em torno dele se torne quente.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luz metálica brilhante não é quente ao toque.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz de teto suspensa é feita de cobre.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um dispositivo que você anexa a sua cabeça, e... espere, não, é apenas uma luz.",
+    "path": "/humanDescription"
+  }
+]

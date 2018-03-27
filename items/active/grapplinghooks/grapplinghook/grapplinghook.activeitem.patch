@@ -1,17 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/category",
-    "value": "tool"
+    "value": "Grappling Hook",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Ah meu Deus, iupi! Isso é tão divertido!"
-  },
-  {
-    "op": "replace",
-    "path": "/shortdescription",
-    "value": "Grappling Hook"
+    "value": "Ah meu Deus, iupi! Isso é tão divertido!",
+    "path": "/description"
   }
 ]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Wooden Log"}, {"op": "replace", "path": "/description", "value": "Um tronco de madeira. Bom para construir estruturas simples."}]
+[
+  {
+    "op": "replace",
+    "value": "Um tronco de madeira. Bom para construir estruturas simples.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Não é incomum ver troncos como este colocado em cabanas.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gossta de paredess de troncos de madeira.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Estes troncos se encaixam estreitamente e são eficazes para construção.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wooden Log",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um ensopado picante, um pouco viscoso feito de pedaços de oculemon e carne."}, {"op": "replace", "path": "/shortdescription", "value": "Oculemon Stew"}]
+[
+  {
+    "op": "replace",
+    "value": "Um ensopado picante, um pouco viscoso feito de pedaços de oculemon e carne.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Oculemon Stew",
+    "path": "/shortdescription"
+  }
+]

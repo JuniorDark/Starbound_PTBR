@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Magmarock"}, {"op": "replace", "path": "/description", "value": "Pedra de magma. Isso é coisa quente"}]
+[
+  {
+    "op": "replace",
+    "value": "Melhor eu tomar cuidado com essas rochas de magma em chamas.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rochass de magma quente.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. A temperatura desta rocha de magma permanece perigosamente elevada.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Magmarock",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rocha de magma. Isso é coisa quente.",
+    "path": "/description"
+  }
+]

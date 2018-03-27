@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Outrider's Trousers"}, {"op": "replace", "path": "/description", "value": "Estas calças de durasteel são construídas para o piloto de uma hoverbike."}]
+[
+  {
+    "op": "replace",
+    "value": "Outrider's Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas calças de durasteel são construídas para o piloto de uma hoverbike.",
+    "path": "/description"
+  }
+]

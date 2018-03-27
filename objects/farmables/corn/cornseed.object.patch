@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Cético. Alega-se que se os Glitch comerem milho, ele vai estourar dentro de nós."}, {"op": "replace", "path": "/apexDescription", "value": "Milho. Outro alimento que parece uma banana, mas não é."}, {"op": "replace", "path": "/humanDescription", "value": "Um suprimento constante de milho doce é uma coisa maravilhosa."}, {"op": "replace", "path": "/avianDescription", "value": "Bicar uma espiga de milho faz um grande lanche."}, {"op": "replace", "path": "/shortdescription", "value": "Corn Seed"}, {"op": "replace", "path": "/floranDescription", "value": "Milho amarelo e duro, cozinhe e isso vai estourar."}, {"op": "replace", "path": "/novakidDescription", "value": "O milho pode ser apreciado em muitas formas."}, {"op": "replace", "path": "/description", "value": "Milho doce e amarelo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um lanche comum e sem sabor de pouco mérito."}]
+[
+  {
+    "op": "replace",
+    "value": "Um lanche comum e sem sabor de pouco mérito.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um suprimento constante de milho doce é uma coisa maravilhosa.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Corn Seed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O milho pode ser apreciado em muitas formas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Milho. Outro alimento que parece uma banana, mas não é.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Milho amarelo e duro, cozinhe e isso vai estourar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bicar uma espiga de milho faz um grande lanche.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cético. Alega-se que se os Glitch comerem milho, ele vai estourar dentro de nós.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Milho doce e amarelo.",
+    "path": "/description"
+  }
+]

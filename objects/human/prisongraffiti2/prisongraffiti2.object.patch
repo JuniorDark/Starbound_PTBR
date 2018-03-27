@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Alguém escreveu isso em um dia ruim."}, {"op": "replace", "path": "/hylotlDescription", "value": "O graffiti pinga desesperança, tanto quanto ele pinga tinta."}, {"op": "replace", "path": "/avianDescription", "value": "Alguém claramente tinha uma perspectiva sombria."}, {"op": "replace", "path": "/humanDescription", "value": "Desafio aceito."}, {"op": "replace", "path": "/glitchDescription", "value": "Duvidoso. Apesar da mensagem do graffiti, minhas varreduras indicam pelo menos quatro métodos de fuga."}, {"op": "replace", "path": "/floranDescription", "value": "Escrita bonita, mas Floran não concorda com a mensagem."}, {"op": "replace", "path": "/shortdescription", "value": "\"No Escape\" Graffiti"}, {"op": "replace", "path": "/description", "value": "Que assim seja, Artista do Grafite Anônimo."}, {"op": "replace", "path": "/apexDescription", "value": "Não há escapatória, aparentemente. Um aviso que os Apex conhecem muito bem."}]
+[
+  {
+    "op": "replace",
+    "value": "\"No Escape\" Graffiti",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desafio aceito.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Duvidoso. Apesar da mensagem do graffiti, minhas varreduras indicam pelo menos quatro métodos de fuga.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não há escapatória, aparentemente. Um aviso que os Apex conhecem muito bem.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Escrita bonita, mas Floran não concorda com a mensagem.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém claramente tinha uma perspectiva sombria.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém escreveu isso em um dia ruim.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que assim seja, Artista do Grafite Anônimo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "O graffiti pinga desesperança, tanto quanto ele pinga tinta.",
+    "path": "/hylotlDescription"
+  }
+]

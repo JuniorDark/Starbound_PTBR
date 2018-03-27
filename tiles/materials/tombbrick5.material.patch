@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Smooth Tomb Brick"}, {"op": "replace", "path": "/description", "value": "Tijolos velhos, polidos com perfeição."}, {"op": "replace", "path": "/floranDescription", "value": "Tijolos lisoss e macioss."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Estes tijolos tiveram todas as bordas cuidadosamente alisadas."}, {"op": "replace", "path": "/novakidDescription", "value": "Estes tijolos de aparência antiga são muito suaves."}]
+[
+  {
+    "op": "replace",
+    "value": "Impressionado. Estes tijolos tiveram todas as bordas cuidadosamente alisadas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijolos velhos, polidos com perfeição.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Smooth Tomb Brick",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijolos lisoss e macioss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes tijolos de aparência antiga são muito suaves.",
+    "path": "/novakidDescription"
+  }
+]

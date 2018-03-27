@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Outpost Wall"}, {"op": "replace", "path": "/description", "value": "Material de parede comumente usado em postos espaciais."}]
+[
+  {
+    "op": "replace",
+    "value": "Familiar. Já vi esse material usado em postos avançados espaciais antes.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parede de metal dura de possto avançado.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Outpost Wall",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de parede de posto avançado.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Material de parede comumente usado em postos avançados espaciais.",
+    "path": "/description"
+  }
+]

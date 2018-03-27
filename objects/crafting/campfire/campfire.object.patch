@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Uma fogueira saudável. Eu poderia cozinhar um pouco de comida usando isso."}, {"op": "replace", "path": "/floranDescription", "value": "Floran odeia chamas, mas gosssta de cozinhar. Cozinhar leva a comer."}, {"op": "replace", "path": "/description", "value": "Brasas saltam longe da fogueira, aquecendo o ar. O calor pode ser usado para cozinhar."}, {"op": "replace", "path": "/shortdescription", "value": "^orange;Campfire^white;"}, {"op": "replace", "path": "/glitchDescription", "value": "Informado. Aquecer carne com fogo é uma forma básica de cozinhar."}, {"op": "replace", "path": "/humanDescription", "value": "Eu sempre gostei de assistir as chamas de uma fogueira dançar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma fogueira, eu desfruto da simplicidade de alimentos cozido na chama."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma fogueira quentinha para cozinhar. O que mais você precisa?"}, {"op": "replace", "path": "/avianDescription", "value": "Uma fogueira. É útil para cozinhar."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma fogueira, eu desfruto da simplicidade de alimentos cozido na chama.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fogueira. É útil para cozinhar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fogueira saudável. Eu poderia cozinhar um pouco de comida usando isso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fogueira quentinha para cozinhar. O que mais você precisa?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Brasas saltam longe da fogueira, aquecendo o ar. O calor pode ser usado para cozinhar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran odeia chamas, mas gosssta de cozinhar. Cozinhar leva a comer.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sempre gostei de assistir as chamas de uma fogueira dançar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Informado. Aquecer carne com fogo é uma forma básica de cozinhar.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Campfire^white;",
+    "path": "/shortdescription"
+  }
+]

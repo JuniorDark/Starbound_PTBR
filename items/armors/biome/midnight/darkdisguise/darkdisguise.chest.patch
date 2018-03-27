@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Dark Disguise Shirt"}, {"op": "replace", "path": "/description", "value": "Esta camisa envolve um vazio escuro em torno do utilizador."}]
+[
+  {
+    "op": "replace",
+    "value": "Dark Disguise Shirt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta camisa envolve um vazio escuro em torno do utilizador.",
+    "path": "/description"
+  }
+]

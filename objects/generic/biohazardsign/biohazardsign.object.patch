@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Biohazard Sign"}, {"op": "replace", "path": "/floranDescription", "value": "Sssímbolo significa algo! Floran não sabe!"}, {"op": "replace", "path": "/description", "value": "Uma placa de metal com um símbolo de risco biológico."}, {"op": "replace", "path": "/apexDescription", "value": "Um símbolo universal para risco biológico. Melhor ter cuidado."}, {"op": "replace", "path": "/humanDescription", "value": "Este é um símbolo antiquíssimo que significa \"Cuidado!\" Coisas ruins!"}, {"op": "replace", "path": "/avianDescription", "value": "É suposto ser o sol? Talvez não."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este feio símbolo é um tipo de aviso."}, {"op": "replace", "path": "/novakidDescription", "value": "Está placa aqui anuncia alguma nova marca Novakid?"}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Acho que tenho que saber o que significa este símbolo?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma placa de metal com um símbolo de risco biológico.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um símbolo universal para risco biológico. Melhor ter cuidado.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Biohazard Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Acho que tenho que saber o que significa este símbolo?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É suposto ser o sol? Talvez não.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Está placa aqui anuncia alguma nova marca Novakid?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sssímbolo significa algo! Floran não sabe!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este é um símbolo antiquíssimo que significa \"Cuidado!\" Coisas ruins!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este feio símbolo é um tipo de aviso.",
+    "path": "/hylotlDescription"
+  }
+]

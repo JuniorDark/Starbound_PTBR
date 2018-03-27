@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Pernas de mecha finamente trabalhadas que proporcionam o movimento mais rápido possível no solo."
+    "value": "Pernas de mecha finamente trabalhadas que proporcionam o movimento mais rápido possível no solo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Hermes Mech Legs",
+    "path": "/shortdescription"
   }
 ]

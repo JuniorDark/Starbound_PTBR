@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma vez utilizada para transmitir um sinal de vídeo."}, {"op": "replace", "path": "/shortdescription", "value": "TV Station"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não sssabe como usar isso."}, {"op": "replace", "path": "/glitchDescription", "value": "Triste. Parece que esta estação costumava transmitir vídeo ao vivo."}, {"op": "replace", "path": "/apexDescription", "value": "Uma vez eu sabia como transmitir vídeo ao vivo com isso."}, {"op": "replace", "path": "/humanDescription", "value": "É uma estação de transmissão TV. Estes estavam na moda na Terra."}, {"op": "replace", "path": "/avianDescription", "value": "Palavras ainda aparecem na tela do console."}, {"op": "replace", "path": "/hylotlDescription", "value": "O painel parece ter sido uma vez capaz de enviar um sinal de vídeo."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta máquina parece que já teve melhores dias."}]
+[
+  {
+    "op": "replace",
+    "value": "Floran não sssabe como usar isso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma vez eu sabia como transmitir vídeo ao vivo com isso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma estação de transmissão TV. Estes estavam na moda na Terra.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma vez utilizada para transmitir um sinal de vídeo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Triste. Parece que esta estação costumava transmitir vídeo ao vivo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TV Station",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O painel parece ter sido uma vez capaz de enviar um sinal de vídeo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta máquina parece que já teve melhores dias.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Palavras ainda aparecem na tela do console.",
+    "path": "/avianDescription"
+  }
+]

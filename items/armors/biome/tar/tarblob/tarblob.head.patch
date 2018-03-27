@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Thick Tar Mask"}, {"op": "replace", "path": "/description", "value": "Uma máscara de piche espesso."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma máscara de piche espesso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Thick Tar Mask",
+    "path": "/shortdescription"
+  }
+]

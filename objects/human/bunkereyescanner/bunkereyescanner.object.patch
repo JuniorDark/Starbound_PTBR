@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Um scanner de olho? Não tenho certeza do que devo fazer com ele."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um scanner de olho. Tais dispositivos são estranhos para os Hylotl. Nossas cabeças não são da forma certa."}, {"op": "replace", "path": "/glitchDescription", "value": "Pensativo. Com a calibração correta, este scanner pode ser enganado por um olho Glitch."}, {"op": "replace", "path": "/description", "value": "Um dispositivo para escanear globos oculares e combiná-los com dados pessoais."}, {"op": "replace", "path": "/shortdescription", "value": "Eye Scanner"}, {"op": "replace", "path": "/floranDescription", "value": "Máquina quer essscanear olhos. Floran recusssa!"}, {"op": "replace", "path": "/apexDescription", "value": "Um scanner de olho. Não parece reconhecer os globos oculares dos Apex."}, {"op": "replace", "path": "/humanDescription", "value": "Um scanner de olho. Alguém esfregou tinta ao redor da parte do olho. Ah, engraçado."}, {"op": "replace", "path": "/avianDescription", "value": "Dispositivo para escanear globos oculares humanos. Mas para que propósito?"}]
+[
+  {
+    "op": "replace",
+    "value": "Dispositivo para escanear globos oculares humanos. Mas para que propósito?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um dispositivo para escanear globos oculares e combiná-los com dados pessoais.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um scanner de olho. Não parece reconhecer os globos oculares dos Apex.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um scanner de olho. Alguém esfregou tinta ao redor da parte do olho. Ah, engraçado.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um scanner de olho. Tais dispositivos são estranhos para os Hylotl. Nossas cabeças não são da forma certa.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um scanner de olho? Não tenho certeza do que devo fazer com ele.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eye Scanner",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Máquina quer essscanear olhos. Floran recusssa!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pensativo. Com a calibração correta, este scanner pode ser enganado por um olho Glitch.",
+    "path": "/glitchDescription"
+  }
+]

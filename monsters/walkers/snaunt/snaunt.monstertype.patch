@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "É famoso por roubar de hortas."}, {"op": "replace", "path": "/shortdescription", "value": "Snaunt"}]
+[
+  {
+    "op": "replace",
+    "value": "Snaunt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "É famoso por roubar de hortas.",
+    "path": "/description"
+  }
+]

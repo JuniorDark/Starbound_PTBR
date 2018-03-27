@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Os ossos nesta cadeira... A morte parece ter se tecida até mesmo nas partes mais pequenas da vida Floran."}, {"op": "replace", "path": "/novakidDescription", "value": "Não acho que cadeiras são feitas para serem tão pontudas."}, {"op": "replace", "path": "/avianDescription", "value": "Me pergunto se os ossos na mobília Floran nunca vêm de um Floran. Florans tem ossos?"}, {"op": "replace", "path": "/floranDescription", "value": "Floran nunca desperdiça osso. Mesmo pequenas partess segura cadeira."}, {"op": "replace", "path": "/glitchDescription", "value": "Indiferença. Projeto Floran típico."}, {"op": "replace", "path": "/apexDescription", "value": "Uma cadeira básica de madeira e osso."}, {"op": "replace", "path": "/humanDescription", "value": "As partes de osso parecem afiadas. Eu odiaria sentar neles."}, {"op": "replace", "path": "/shortdescription", "value": "Primitive Chair"}, {"op": "replace", "path": "/description", "value": "Uma cadeira de madeira simples com acentos de osso."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira básica de madeira e osso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira de madeira simples com acentos de osso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran nunca desperdiça osso. Mesmo pequenas partess segura cadeira.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não acho que cadeiras são feitas para serem tão pontudas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me pergunto se os ossos na mobília Floran nunca vêm de um Floran. Florans tem ossos?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Indiferença. Projeto Floran típico.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Primitive Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "As partes de osso parecem afiadas. Eu odiaria sentar neles.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os ossos nesta cadeira... A morte parece ter se tecida até mesmo nas partes mais pequenas da vida Floran.",
+    "path": "/hylotlDescription"
+  }
+]

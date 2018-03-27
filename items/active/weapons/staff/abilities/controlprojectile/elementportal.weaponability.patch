@@ -1,7 +1,7 @@
 [
   {
     "op": "replace",
-    "path": "/ability/name",
-    "value": "Portal de <elementalName>"
+    "value": "Portal de <elementalName>",
+    "path": "/ability/name"
   }
 ]

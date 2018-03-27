@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "High-Vis Jacket"}, {"op": "replace", "path": "/description", "value": "Uma jaqueta de alta visibilidade com refletores - segurança em primeiro lugar!"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma jaqueta de alta visibilidade com refletores - segurança em primeiro lugar!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "High-Vis Jacket",
+    "path": "/shortdescription"
+  }
+]

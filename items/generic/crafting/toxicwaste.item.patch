@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Este lodo tóxico não deve ir para o lixo!"}, {"op": "replace", "path": "/shortdescription", "value": "Toxic Waste"}]
+[
+  {
+    "op": "replace",
+    "value": "Toxic Waste",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este lodo tóxico não deve ir para o lixo!",
+    "path": "/description"
+  }
+]

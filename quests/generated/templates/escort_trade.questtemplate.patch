@@ -1,1 +1,97 @@
-[{"op": "replace", "path": "/scriptConfig/generatedText/text/first/glitch/0", "value": "Ansioso. Primeiro, nós vamos precisar de ^orange;<items>^white;. Eles deveriam ter sido entregues pelo comerciante viajante ^orange;<target>^white;, mas eu acho que <target.pronoun.subject> conseguiu se perder perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green;me levar lá^white; para que possamos encontrar <target> e ^green;recuperar as mercadorias^white;?"}, {"op": "replace", "path": "/scriptConfig/generatedText/text/first/floran/0", "value": "Primeiro, nós vamos precisar de ^orange;<items>^white;. Eles deveriam ter sido entregues pelo comerciante viajante ^orange;<target>^white;, mas Floran acha que <target.pronoun.subject> conseguiu se perder perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green; levar Floran lá^white; assim Floran pode encontrar <target> e ^green;recuperar as coisasss^white;?"}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Ansioso. Em seguida, nós vamos precisar de ^orange;<items>^white;. Eles deveriam ter sido entregues pelo comerciante viajante ^orange;<target>^white;, mas eu acho que <target.pronoun.subject> conseguiu se perder perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green;me levar lá^white; para que possamos encontrar <target> e ^green;recuperar as mercadorias^white;?"}, {"op": "replace", "path": "/scriptConfig/generatedText/text/first/default/0", "value": "Primeiro, nós vamos precisar de ^orange;<items>^white;. Eles deveriam ter sido entregues pelo comerciante viajante ^orange;<target>^white;, mas eu acho que <target.pronoun.subject> conseguiu se perder perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green;me levar lá^white; para que possamos encontrar <target> e ^green;recuperar as mercadorias^white;?"}, {"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Leve <questGiver> até <target>"}, {"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Volte a <questGiver>"}, {"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/0", "value": "appreciation"}, {"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/1", "value": "Floran agradece a ajuda!"}, {"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/0", "value": "Obrigado por ajudar Floran!"}, {"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/0", "value": "appreciationfloran"}, {"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/0", "value": "Obrigado por me acompanhar!"}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "<appreciationfloran> Você poderia segurar este <items> para a próxima parte do meu plano?"}, {"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/1", "value": "Você realmente me ajudou, obrigado!"}, {"op": "replace", "path": "/scriptConfig/generatedText/fluff/0/1/2", "value": "Obrigado por me ajudar!"}, {"op": "replace", "path": "/scriptConfig/generatedText/fluff/1/1/2", "value": "Obrigado por escoltar Floran aqui!"}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "<appreciation> Você poderia segurar este <items> para a próxima parte do meu plano?"}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Em seguida, nós vamos precisar de ^orange;<items>^white;. Eles deveriam ter sido entregues pelo comerciante viajante ^orange;<target>^white;, mas Floran acha que <target.pronoun.subject> conseguiu se perder perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green; levar Floran lá^white; assim Floran pode encontrar <target> e ^green;recuperar as coisasss^white;?"}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Em seguida, nós vamos precisar de ^orange;<items>^white;. Eles deveriam ter sido entregues pelo comerciante viajante ^orange;<target>^white;, mas eu acho que <target.pronoun.subject> conseguiu se perder perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green;me levar lá^white; para que possamos encontrar <target> e ^green;recuperar as mercadorias^white;?"}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Grato. <appreciation> Você poderia segurar este <items> para a próxima parte do meu plano?"}]
+[
+  {
+    "op": "replace",
+    "value": "Volte a <questGiver>",
+    "path": "/scriptConfig/objectives/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "<appreciation> Você poderia segurar este <items> para a próxima parte do meu plano?",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<appreciationfloran> Você poderia segurar este <items> para a próxima parte do meu plano?",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Leve <questGiver> até <target>",
+    "path": "/scriptConfig/objectives/0/text"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. Primeiro, nós vamos precisar de ^orange;<items>^white;. Eles deveriam ter sido entregues pelo comerciante viajante ^orange;<target>^white;, mas eu acho que <target.pronoun.subject> conseguiu se perder perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green;me levar lá^white; para que possamos encontrar <target> e ^green;recuperar as mercadorias^white;?",
+    "path": "/scriptConfig/generatedText/text/first/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. Em seguida, nós vamos precisar de ^orange;<items>^white;. Eles deveriam ter sido entregues pelo comerciante viajante ^orange;<target>^white;, mas eu acho que <target.pronoun.subject> conseguiu se perder perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green;me levar lá^white; para que possamos encontrar <target> e ^green;recuperar as mercadorias^white;?",
+    "path": "/scriptConfig/generatedText/text/default/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Primeiro, nós vamos precisar de ^orange;<items>^white;. Eles deveriam ter sido entregues pelo comerciante viajante ^orange;<target>^white;, mas Floran acha que <target.pronoun.subject> conseguiu se perder perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green; levar Floran lá^white; assim Floran pode encontrar <target> e ^green;recuperar as coisasss^white;?",
+    "path": "/scriptConfig/generatedText/text/first/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Primeiro, nós vamos precisar de ^orange;<items>^white;. Eles deveriam ter sido entregues pelo comerciante viajante ^orange;<target>^white;, mas eu acho que <target.pronoun.subject> conseguiu se perder perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green;me levar lá^white; para que possamos encontrar <target> e ^green;recuperar as mercadorias^white;?",
+    "path": "/scriptConfig/generatedText/text/first/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran agradece a ajuda!",
+    "path": "/scriptConfig/generatedText/fluff/1/1/1"
+  },
+  {
+    "op": "replace",
+    "value": "Grato. <appreciation> Você poderia segurar este <items> para a próxima parte do meu plano?",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Em seguida, nós vamos precisar de ^orange;<items>^white;. Eles deveriam ter sido entregues pelo comerciante viajante ^orange;<target>^white;, mas eu acho que <target.pronoun.subject> conseguiu se perder perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green;me levar lá^white; para que possamos encontrar <target> e ^green;recuperar as mercadorias^white;?",
+    "path": "/scriptConfig/generatedText/text/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Em seguida, nós vamos precisar de ^orange;<items>^white;. Eles deveriam ter sido entregues pelo comerciante viajante ^orange;<target>^white;, mas Floran acha que <target.pronoun.subject> conseguiu se perder perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green; levar Floran lá^white; assim Floran pode encontrar <target> e ^green;recuperar as coisasss^white;?",
+    "path": "/scriptConfig/generatedText/text/default/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado por me acompanhar!",
+    "path": "/scriptConfig/generatedText/fluff/0/1/0"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado por me ajudar!",
+    "path": "/scriptConfig/generatedText/fluff/0/1/2"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado por escoltar Floran aqui!",
+    "path": "/scriptConfig/generatedText/fluff/1/1/2"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado por ajudar Floran!",
+    "path": "/scriptConfig/generatedText/fluff/1/1/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você realmente me ajudou, obrigado!",
+    "path": "/scriptConfig/generatedText/fluff/0/1/1"
+  },
+  {
+    "op": "replace",
+    "value": "Alguma Pessoa",
+    "path": "/parameters/target/example/name"
+  },
+  {
+    "op": "replace",
+    "value": "caverna escura e assustadora",
+    "path": "/parameters/spawnPoint/example/name"
+  }
+]

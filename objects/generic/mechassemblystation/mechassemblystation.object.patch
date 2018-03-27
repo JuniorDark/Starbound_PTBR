@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Equipe e personalize seu mecha pessoal!"
+    "value": "Atônito. Esta estação de montagem avançada foi projetada para fazer mechas.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Com esta estação eu poderia montar componentes em um mecha funcional."
+    "value": "Equipe e personalize seu mecha pessoal!",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Esta estação é feita para montar grandes veículos mecha."
+    "value": "Floran poderia fazer grande mecha com esta estação.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Floran poderia fazer grande mecha com esta estação."
+    "value": "Mech Assembly Station",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Atônito. Esta estação de montagem avançada foi projetada para fazer mechas."
+    "value": "Esta estação é usada para construir e equipar mechas.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Esta estação é usada para construir e equipar mechas."
+    "value": "Esta estação é feita para montar grandes veículos mecha.",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Este terminal é usado para customizar e equipar veículos mecha."
+    "value": "Esta estação vai me deixar montar um mecha do jeito que eu quiser.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Esta estação vai me deixar montar um mecha do jeito que eu quiser."
+    "value": "Este terminal é usado para customizar e equipar veículos mecha.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Com esta estação eu poderia montar componentes em um mecha funcional.",
+    "path": "/apexDescription"
   }
 ]

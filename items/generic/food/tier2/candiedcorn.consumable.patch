@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Parece com um tradicional doce de halloween, mas há milho de verdade no centro de cada pedaço."}, {"op": "replace", "path": "/shortdescription", "value": "Candied Corn"}]
+[
+  {
+    "op": "replace",
+    "value": "Candied Corn",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece com um tradicional doce de halloween, mas há milho de verdade no centro de cada pedaço.",
+    "path": "/description"
+  }
+]

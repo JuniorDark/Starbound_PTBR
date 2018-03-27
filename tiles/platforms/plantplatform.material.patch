@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Mossy Platform"}, {"op": "replace", "path": "/description", "value": "A plataforma é escorregadia com musgo e folhas. Melhor tomar cuidado para não escorregar!"}, {"op": "replace", "path": "/floranDescription", "value": "Floran desliza ao longo da plataforma pegajosa."}, {"op": "replace", "path": "/glitchDescription", "value": "Cuidado. Esta plataforma com musgo é viscosa e escorregadia."}, {"op": "replace", "path": "/novakidDescription", "value": "Este musgo torna esta plataforma muito escorregadia."}]
+[
+  {
+    "op": "replace",
+    "value": "Cuidado. Esta plataforma com musgo é viscosa e escorregadia.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran desliza ao longo da plataforma pegajosa.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mossy Platform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A plataforma é escorregadia com musgo e folhas. Melhor tomar cuidado para não escorregar!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Este musgo torna esta plataforma muito escorregadia.",
+    "path": "/novakidDescription"
+  }
+]

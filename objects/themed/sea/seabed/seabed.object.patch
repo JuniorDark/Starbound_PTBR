@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Fácil de dormir em cama feita de algasss."}, {"op": "replace", "path": "/apexDescription", "value": "Garantido de induzir o sono subaquático."}, {"op": "replace", "path": "/humanDescription", "value": "Esta cama é chique, ele ainda tem um colchão de água."}, {"op": "replace", "path": "/avianDescription", "value": "Esta cama é feita de uma concha gigante, parece aconchegante."}, {"op": "replace", "path": "/hylotlDescription", "value": "Não há nada mais confortável do que dormir entre lençóis de algas."}, {"op": "replace", "path": "/description", "value": "Uma cama em forma de concha."}, {"op": "replace", "path": "/shortdescription", "value": "Seashell Bed"}, {"op": "replace", "path": "/glitchDescription", "value": "Orgulhoso. Uma cama adequada para um rei Hylotl."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta cama é mesmo bonita. E cheira como camarão saboroso."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cama em forma de concha.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Fácil de dormir em cama feita de algasss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Garantido de induzir o sono subaquático.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Orgulhoso. Uma cama adequada para um rei Hylotl.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Seashell Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não há nada mais confortável do que dormir entre lençóis de algas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama é chique, ele ainda tem um colchão de água.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama é feita de uma concha gigante, parece aconchegante.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama é mesmo bonita. E cheira como camarão saboroso.",
+    "path": "/novakidDescription"
+  }
+]

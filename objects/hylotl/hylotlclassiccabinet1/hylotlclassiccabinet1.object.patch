@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Parece que um artista amador tentou decorar isto. Que pitoresco."}, {"op": "replace", "path": "/floranDescription", "value": "Floran sse pergunta quem decorou esse armário feio."}, {"op": "replace", "path": "/shortdescription", "value": "Traditional Square Cabinet"}, {"op": "replace", "path": "/description", "value": "Um armário de madeira. Suas portas estão cheias de decoração gravada."}, {"op": "replace", "path": "/glitchDescription", "value": "Crítico. Este armário foi decorado por uma criança? Parece que sim."}, {"op": "replace", "path": "/apexDescription", "value": "Alguém desfigurou este armário, ou é suposto ser assim?"}, {"op": "replace", "path": "/avianDescription", "value": "Essas decorações ficam bonitas! Se você olhar quase vesgo, de qualquer maneira."}, {"op": "replace", "path": "/hylotlDescription", "value": "A profundidade e o significado destes entalhes são de tirar o fôlego."}, {"op": "replace", "path": "/novakidDescription", "value": "Um armário de aparência engraçada. Quem consideraria isso bonito?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um armário de aparência engraçada. Quem consideraria isso bonito?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário de madeira. Suas portas estão cheias de decoração gravada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Crítico. Este armário foi decorado por uma criança? Parece que sim.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran sse pergunta quem decorou esse armário feio.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém desfigurou este armário, ou é suposto ser assim?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que um artista amador tentou decorar isto. Que pitoresco.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A profundidade e o significado destes entalhes são de tirar o fôlego.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas decorações ficam bonitas! Se você olhar quase vesgo, de qualquer maneira.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Traditional Square Cabinet",
+    "path": "/shortdescription"
+  }
+]

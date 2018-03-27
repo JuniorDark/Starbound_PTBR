@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/contentPages/1", "value": "Embora a tapeçaria do nosso passado esteja manchada de sangue, em tempos de conflito, a ingenuidade é a graça salvadora da humanidade. À medida que nossa tecnologia melhorava, fomos capazes de viajar mais para o espaço e, com o tempo, encontramos outra vida sensível e abundantes recursos. Fomos mudados para sempre, iluminados por essas descobertas.\n\nFomos unidos em nosso objetivo de estabelecer o Protetorado Terreno aqui na Terra como um bastião de paz e aceitação para todos em todo o universo."}, {"op": "replace", "path": "/description", "value": "Um relato da história da Terra, escrito quando o Protetorado Terreno foi formado."}, {"op": "replace", "path": "/title", "value": "Redenção da Humanidade"}, {"op": "replace", "path": "/contentPages/0", "value": "A fim de apreciar até onde a humanidade chegou, é preciso fazer uma viagem pela nossa história.\n\nO desejo de descobrir, de ser pioneiro e de prosperar sempre foi a nossa força e foi um valor comum entre a população diversa da Terra.\n\nEsta paixão muitas vezes jorrou em conflito quando confinado ao nosso pequeno planeta, cego pela ganância, despojamos a Terra de seus recursos finitos."}]
+[
+  {
+    "op": "replace",
+    "value": "Embora a tapeçaria do nosso passado esteja manchada de sangue, em tempos de conflito, a ingenuidade é a graça salvadora da humanidade. À medida que nossa tecnologia melhorava, fomos capazes de viajar mais para o espaço e, com o tempo, encontramos outra vida sensível e abundantes recursos. Fomos mudados para sempre, iluminados por essas descobertas.\n\nFomos unidos em nosso objetivo de estabelecer o Protetorado Terreno aqui na Terra como um bastião de paz e aceitação para todos em todo o universo.",
+    "path": "/contentPages/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um relato da história da Terra, escrito quando o Protetorado Terreno foi formado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Redenção da Humanidade",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "A fim de apreciar até onde a humanidade chegou, é preciso fazer uma viagem pela nossa história.\n\nO desejo de descobrir, de ser pioneiro e de prosperar sempre foi a nossa força e foi um valor comum entre a população diversa da Terra.\n\nEsta paixão muitas vezes jorrou em conflito quando confinado ao nosso pequeno planeta, cego pela ganância, despojamos a Terra de seus recursos finitos.",
+    "path": "/contentPages/0"
+  },
+  {
+    "op": "replace",
+    "value": "Nós nos unimos em nosso objetivo de estabelecer o Protetorado Terreno aqui na Terra como um bastião de paz e aceitação para todos em todo o universo.",
+    "path": "/contentPages/2"
+  }
+]

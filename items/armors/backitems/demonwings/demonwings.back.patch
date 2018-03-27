@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Estas asas sombrias parecem imponentes e sinistrais."}, {"op": "replace", "path": "/shortdescription", "value": "Demon Wings"}]
+[
+  {
+    "op": "replace",
+    "value": "Demon Wings",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas asas sombrias parecem imponentes e sinistrais.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Intrometido. Há uma mensagem na tela. \"Deixe-me explicar-lhe porque você está errado...\" O resto do post desce ao discurso ininteligível."}, {"op": "replace", "path": "/shortdescription", "value": "Small Console"}, {"op": "replace", "path": "/floranDescription", "value": "Hmm... Uma mensagem em destaque na tela. \"Compre ovos depois do trabalho\"."}, {"op": "replace", "path": "/apexDescription", "value": "Há uma mensagem na tela. \"Querida Marjory, por favor lembre-se de colocar o gato para fora. Com amor David\" Interessante."}, {"op": "replace", "path": "/humanDescription", "value": "A julgar por essa conta de e-mail, alguém foi vítima da famosa gafe \"responder todos\". Pobre rapaz."}, {"op": "replace", "path": "/avianDescription", "value": "Há uma mensagem na tela. \"Os resultados dos testes de toxicidade de ontem foram inconclusivos, por favor agende mais. Dr. Kleiner\" Ok."}, {"op": "replace", "path": "/hylotlDescription", "value": "A julgar por esses posts, os humanos batem seus rostos contra o teclado quando estão discutindo via computador."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma estação de computador pessoal. Eu não sou do tipo bisbilhoteiro."}, {"op": "replace", "path": "/description", "value": "Parece uma tela cheia de memorandos pessoais."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estação de computador pessoal. Eu não sou do tipo bisbilhoteiro.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hmm... Uma mensagem em destaque na tela. \"Compre ovos depois do trabalho\".",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece uma tela cheia de memorandos pessoais.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A julgar por esses posts, os humanos batem seus rostos contra o teclado quando estão discutindo via computador.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A julgar por essa conta de e-mail, alguém foi vítima da famosa gafe \"responder todos\". Pobre rapaz.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrometido. Há uma mensagem na tela. \"Deixe-me explicar-lhe porque você está errado...\" O resto do post desce ao discurso ininteligível.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Small Console",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há uma mensagem na tela. \"Querida Marjory, por favor lembre-se de colocar o gato para fora. Com amor David\" Interessante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há uma mensagem na tela. \"Os resultados dos testes de toxicidade de ontem foram inconclusivos, por favor agende mais. Dr. Kleiner\" Ok.",
+    "path": "/avianDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Ele pode de alguma forma engolir 10 vezes a sua massa corporal."}, {"op": "replace", "path": "/shortdescription", "value": "Spotted Gulptredder"}]
+[
+  {
+    "op": "replace",
+    "value": "Ele pode de alguma forma engolir 10 vezes a sua massa corporal.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Spotted Gulptredder",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Animado. Esse vapor me permitirá saltar muito alto."}, {"op": "replace", "path": "/humanDescription", "value": "Pode parecer perigoso, mas este gás possui propriedades benéficas."}, {"op": "replace", "path": "/novakidDescription", "value": "Este dispositivo impulsiona meus saltos."}, {"op": "replace", "path": "/description", "value": "O gás liberado deste cano aumenta seu poder de salto."}, {"op": "replace", "path": "/shortdescription", "value": "Jump Booster"}, {"op": "replace", "path": "/floranDescription", "value": "Depois de passar por este gásss, Floran pode pular como um monstro."}, {"op": "replace", "path": "/apexDescription", "value": "Se eu ficar em cima deste respiradouro ele vai aumentar o meu salto."}, {"op": "replace", "path": "/avianDescription", "value": "Este respiradouro aumenta a altura que posso pular."}, {"op": "replace", "path": "/hylotlDescription", "value": "Infundido com os poderes deste vapor eu sou capaz de alcançar novas alturas."}]
+[
+  {
+    "op": "replace",
+    "value": "Depois de passar por este gásss, Floran pode pular como um monstro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. Esse vapor me permitirá saltar muito alto.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se eu ficar em cima deste respiradouro ele vai aumentar o meu salto.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Infundido com os poderes deste vapor eu sou capaz de alcançar novas alturas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pode parecer perigoso, mas este gás possui propriedades benéficas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Jump Booster",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O gás liberado deste cano aumenta seu poder de salto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Este dispositivo impulsiona meus saltos.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este respiradouro aumenta a altura que posso pular.",
+    "path": "/avianDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma cadeira feita de madeira arco-íris."}, {"op": "replace", "path": "/shortdescription", "value": "Rainbow Wood Chair"}, {"op": "replace", "path": "/floranDescription", "value": "Cadeira é colorida, como Floran!"}, {"op": "replace", "path": "/apexDescription", "value": "Uma cadeira de madeira arco-íris, adequada para uma criança."}, {"op": "replace", "path": "/humanDescription", "value": "Uma cadeira bonita."}, {"op": "replace", "path": "/avianDescription", "value": "Uma linda cadeira arco-íris."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma cadeira feita de madeira arco-íris. Embalada com vibrações positivas, perfeito para a meditação."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma cadeira de madeira arco-íris? Parece um lugar tão bom para se sentar como qualquer outro."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Esta cadeira contém a quantidade correta de cores."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma linda cadeira arco-íris.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira feita de madeira arco-íris.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira feita de madeira arco-íris. Embalada com vibrações positivas, perfeito para a meditação.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira bonita.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira de madeira arco-íris, adequada para uma criança.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira de madeira arco-íris? Parece um lugar tão bom para se sentar como qualquer outro.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cadeira é colorida, como Floran!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rainbow Wood Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Esta cadeira contém a quantidade correta de cores.",
+    "path": "/glitchDescription"
+  }
+]

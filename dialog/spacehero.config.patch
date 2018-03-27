@@ -1,1 +1,82 @@
-[{"op":"replace","path":"/converse/default/default/0","value":"Devo aprimorar minhas habilidades de luta a cada semana... Não, todo DIA!"},{"op":"replace","path":"/converse/default/default/1","value":"Devo filosofar duas vezes por dia sobre a verdadeira natureza da batalha. É a melhor forma de se manter forte."},{"op":"replace","path":"/converse/default/default/2","value":"Não consigo dormir se eu sei que há injustiça ocorrendo em algum lugar do universo. Eu... Nunca durmo."},{"op":"replace","path":"/converse/default/default/3","value":"Um guerreiro não é um guerreiro sem um grito de guerra memorável. Sempre lembre-se disso."},{"op":"replace","path":"/reattack/default/default/0","value":"Isto é... UMA REVANCHE!"},{"op":"replace","path":"/reattack/default/default/1","value":"Desta vez, nosso duelo não deve... SER ADIADO!"},{"op":"replace","path":"/attack/default/default/0","value":"BATALHA! POR GRANDE JUSTIÇA!"},{"op":"replace","path":"/attack/default/default/1","value":"Vamos lutar juntos... POR JUSTIÇA!"},{"op":"replace","path":"/attack/default/default/2","value":"Com nosso poder combinado, nenhuma força pode nos impedir!"},{"op":"replace","path":"/attack/default/default/3","value":"FORÇA Imperial!"},{"op":"replace","path":"/attack/default/default/4","value":"Você deve ser BANIDO! PODER DA LÂMINA DE JUSTIÇA!"},{"op":"replace","path":"/attack/default/default/5","value":"GRITO DE BATALHA!"},{"op":"replace","path":"/attack/default/default/6","value":"GRITO DE BATALHA"},{"op":"replace","path":"/killedTarget/default/default/0","value":"Você não pode derrotar o verdadeiro coração da justiça!"},{"op":"replace","path":"/killedTarget/default/default/1","value":"A amizade prevalece mais uma vez!"},{"op":"replace","path":"/killedTarget/default/default/2","value":"Justiça e amizades são forças, como a gravidade! Você não pode vencê-las, NEM a gravidade!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um guerreiro não é um guerreiro sem um grito de guerra memorável. Sempre lembre-se disso.",
+    "path": "/converse/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "GRITO DE BATALHA!",
+    "path": "/attack/default/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "BATALHA! POR GRANDE JUSTIÇA!",
+    "path": "/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "A amizade prevalece mais uma vez!",
+    "path": "/killedTarget/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Não consigo dormir se eu sei que há injustiça ocorrendo em algum lugar do universo. Eu... Nunca durmo.",
+    "path": "/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Devo aprimorar minhas habilidades de luta a cada semana... Não, todo DIA!",
+    "path": "/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Devo filosofar duas vezes por dia sobre a verdadeira natureza da batalha. É a melhor forma de se manter forte.",
+    "path": "/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "GRITO DE BATALHA",
+    "path": "/attack/default/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "FORÇA Imperial!",
+    "path": "/attack/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Justiça e amizades são forças, como a gravidade! Você não pode vencê-las, NEM a gravidade!",
+    "path": "/killedTarget/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos lutar juntos... POR JUSTIÇA!",
+    "path": "/attack/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Isto é... UMA REVANCHE!",
+    "path": "/reattack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Desta vez, nosso duelo não deve... SER ADIADO!",
+    "path": "/reattack/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Com nosso poder combinado, nenhuma força pode nos impedir!",
+    "path": "/attack/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você não pode derrotar o verdadeiro coração da justiça!",
+    "path": "/killedTarget/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você deve ser BANIDO! PODER DA LÂMINA DE JUSTIÇA!",
+    "path": "/attack/default/default/4"
+  }
+]

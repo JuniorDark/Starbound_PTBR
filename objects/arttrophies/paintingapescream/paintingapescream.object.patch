@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Bem, este definitivamente não é o original."}, {"op": "replace", "path": "/description", "value": "Uma pintura assombrosa de um Apex gritando."}, {"op": "replace", "path": "/shortdescription", "value": "Howler Monkey Painting"}, {"op": "replace", "path": "/floranDescription", "value": "Floran vê esse rosto em todos que caçamos!"}, {"op": "replace", "path": "/glitchDescription", "value": "Nervoso. Esta pintura Apex é perturbadora."}, {"op": "replace", "path": "/apexDescription", "value": "Isso é outra falsificação da Miniknog?"}, {"op": "replace", "path": "/avianDescription", "value": "É assim que se sente ao não saber sobre Kluex."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta pintura Apex deveria ser mais calma."}, {"op": "replace", "path": "/novakidDescription", "value": "Esse Apex aqui está enlouquecendo."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pintura assombrosa de um Apex gritando.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Howler Monkey Painting",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é outra falsificação da Miniknog?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nervoso. Esta pintura Apex é perturbadora.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta pintura Apex deveria ser mais calma.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse Apex aqui está enlouquecendo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bem, este definitivamente não é o original.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran vê esse rosto em todos que nós caçamos!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É assim que se sente ao não saber sobre Kluex.",
+    "path": "/avianDescription"
+  }
+]

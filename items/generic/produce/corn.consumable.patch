@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Doce e macio, bom para a digestão!"}, {"op": "replace", "path": "/shortdescription", "value": "Corn"}]
+[
+  {
+    "op": "replace",
+    "value": "Corn",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Doce e macio, bom para a digestão!",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Um substituto aceitável para aqueles de nós que não comem ovos."}, {"op": "replace", "path": "/description", "value": "Eggshoot, cheio de bondade escorrendo."}, {"op": "replace", "path": "/shortdescription", "value": "Eggshoot Seed"}, {"op": "replace", "path": "/floranDescription", "value": "Parece um ovo, não choca."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Avians felizmente come-os, apesar de sua aparência de ovo."}, {"op": "replace", "path": "/apexDescription", "value": "O eggshoot é conhecido por desencadear dilemas existenciais em aves."}, {"op": "replace", "path": "/humanDescription", "value": "Um ovo vegetariano."}, {"op": "replace", "path": "/avianDescription", "value": "Eggshoot - para quando Avians querem omeletes."}, {"op": "replace", "path": "/novakidDescription", "value": "Um eggshoot se parece com um ovo e tem gosto de um ovo, mas não é um ovo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um ovo vegetariano.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um substituto aceitável para aqueles de nós que não comem ovos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um eggshoot se parece com um ovo e tem gosto de um ovo, mas não é um ovo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Avians felizmente come-os, apesar de sua aparência de ovo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eggshoot - para quando Avians querem omeletes.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eggshoot Seed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eggshoot, cheio de bondade escorrendo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Parece um ovo, não choca.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O eggshoot é conhecido por desencadear dilemas existenciais em aves.",
+    "path": "/apexDescription"
+  }
+]

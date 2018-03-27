@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Ship Platform"}, {"op": "replace", "path": "/description", "value": "Durável o suficiente para suportar as exigências das viagens espaciais."}, {"op": "replace", "path": "/floranDescription", "value": "Plataforma da nave forte."}, {"op": "replace", "path": "/glitchDescription", "value": "Informado. Plataformas como esta são usadas na construção de naves espaciais."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta plataforma é forte o suficiente para se manter sem se desgastar."}]
+[
+  {
+    "op": "replace",
+    "value": "Durável o suficiente para suportar as exigências das viagens espaciais.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Informado. Plataformas como esta são usadas na construção de naves espaciais.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ship Platform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plataforma da nave forte.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta plataforma é forte o suficiente para se manter sem se desgastar.",
+    "path": "/novakidDescription"
+  }
+]

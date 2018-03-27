@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A etiqueta diz, \"Um guardião de pedra do templo, animado com tecnologia antiga.\""}, {"op": "replace", "path": "/shortdescription", "value": "Kluex Sentry Figurine"}]
+[
+  {
+    "op": "replace",
+    "value": "Kluex Sentry Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"Um guardião de pedra do templo, animado com tecnologia antiga.\"",
+    "path": "/description"
+  }
+]

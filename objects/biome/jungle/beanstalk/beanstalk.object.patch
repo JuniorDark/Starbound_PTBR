@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Pé de feijão cresce grande, Floran chega ao céu."}, {"op": "replace", "path": "/avianDescription", "value": "Um pé de feijão lendário."}, {"op": "replace", "path": "/hylotlDescription", "value": "Deve ter uma vista maravilhosa do topo."}, {"op": "replace", "path": "/description", "value": "Um pé de feijão, que cresce até o céu."}, {"op": "replace", "path": "/shortdescription", "value": "Beanstalk"}, {"op": "replace", "path": "/glitchDescription", "value": "Suspeito. O que poderia estar no topo de um pé de feijão?"}, {"op": "replace", "path": "/apexDescription", "value": "Um verdadeiro pé de feijão!"}, {"op": "replace", "path": "/humanDescription", "value": "Este pé de feijão me faz lembrar de um conto de fadas"}, {"op": "replace", "path": "/novakidDescription", "value": "Um pé de feijão, que cresce até o céu."}]
+[
+  {
+    "op": "replace",
+    "value": "Um pé de feijão, que cresce até o céu.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pé de feijão, que cresce até o céu.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um pé de feijão lendário.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um verdadeiro pé de feijão!",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pé de feijão cresce grande, Floran chega ao céu.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Beanstalk",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Suspeito. O que poderia estar no topo de um pé de feijão?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Deve ter uma vista maravilhosa do topo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este pé de feijão me faz lembrar de um conto de fadas",
+    "path": "/humanDescription"
+  }
+]

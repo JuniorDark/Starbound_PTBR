@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Hypnare"}, {"op": "replace", "path": "/description", "value": "Ele ama brincar através de florestas e prados."}]
+[
+  {
+    "op": "replace",
+    "value": "Hypnare",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ele ama brincar através de florestas e prados.",
+    "path": "/description"
+  }
+]

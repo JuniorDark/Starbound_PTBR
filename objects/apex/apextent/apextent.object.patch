@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma barraca militar."}, {"op": "replace", "path": "/shortdescription", "value": "Military Tent"}, {"op": "replace", "path": "/floranDescription", "value": "Barraca é bom abrigo em região selvagem."}, {"op": "replace", "path": "/glitchDescription", "value": "Irritado. Não há muito espaço."}, {"op": "replace", "path": "/apexDescription", "value": "Uma barraca usada frequentemente por aqueles acampando fora de casa."}, {"op": "replace", "path": "/humanDescription", "value": "Esta barraca não estaria fora de lugar em um acampamento militar."}, {"op": "replace", "path": "/avianDescription", "value": "Uma barraca usada frequentemente por aqueles longe de casa."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma barraca de aparência militarista."}, {"op": "replace", "path": "/novakidDescription", "value": "Algum tipo de barraca militar."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma barraca de aparência militarista.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma barraca militar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma barraca usada frequentemente por aqueles longe de casa.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma barraca usada frequentemente por aqueles acampando fora de casa.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Military Tent",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de barraca militar.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Barraca é bom abrigo em região selvagem.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta barraca não estaria fora de lugar em um acampamento militar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Irritado. Não há muito espaço.",
+    "path": "/glitchDescription"
+  }
+]

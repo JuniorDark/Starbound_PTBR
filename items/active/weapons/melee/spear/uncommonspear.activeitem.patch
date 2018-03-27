@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Esta lança é perfeita para inimigos fora de alcance."}, {"op": "replace", "path": "/shortdescription", "value": "Uncommon Spear"}]
+[
+  {
+    "op": "replace",
+    "value": "Esta lança é perfeita para inimigos fora de alcance.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uncommon Spear",
+    "path": "/shortdescription"
+  }
+]

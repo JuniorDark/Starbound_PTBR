@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Um baú de arenito. Espero que não esteja cheio de areia."}, {"op": "replace", "path": "/description", "value": "Um baú de arenito grosseiramente talhado."}, {"op": "replace", "path": "/shortdescription", "value": "Sandstone Chest"}, {"op": "replace", "path": "/floranDescription", "value": "Baú arenosso."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Um baú feito de arenito."}, {"op": "replace", "path": "/apexDescription", "value": "Um baú de arenito."}, {"op": "replace", "path": "/humanDescription", "value": "Talvez este baú veio de um castelo de areia."}, {"op": "replace", "path": "/avianDescription", "value": "Um baú de arenito áspero."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um baú feito de arenito."}]
+[
+  {
+    "op": "replace",
+    "value": "Um baú de arenito grosseiramente talhado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú feito de arenito.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú de arenito áspero.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú de arenito.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú de arenito. Espero que não esteja cheio de areia.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez este baú veio de um castelo de areia.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Um baú feito de arenito.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sandstone Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Baú arenosso.",
+    "path": "/floranDescription"
+  }
+]

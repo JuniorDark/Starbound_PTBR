@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um rádio."}, {"op": "replace", "path": "/floranDescription", "value": "Rádio para notíciasss e músssica."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. É o rádio do dormitório."}, {"op": "replace", "path": "/apexDescription", "value": "Meu rádio! Gosto de ouvir notícias locais."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um rádio simples."}, {"op": "replace", "path": "/novakidDescription", "value": "Só um rádio."}, {"op": "replace", "path": "/humanDescription", "value": "Ah, meu rádio! É bom para ruído de fundo."}, {"op": "replace", "path": "/avianDescription", "value": "É um rádio."}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Radio"}]
+[
+  {
+    "op": "replace",
+    "value": "Um rádio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um rádio simples.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ah, meu rádio! É bom para ruído de fundo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um rádio.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Só um rádio.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Meu rádio! Gosto de ouvir notícias locais.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. É o rádio do dormitório.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Radio",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rádio para notíciasss e músssica.",
+    "path": "/floranDescription"
+  }
+]

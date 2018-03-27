@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma placa de silício. Pode ser usada para criar eletrônicos."}, {"op": "replace", "path": "/shortdescription", "value": "Silicon Board"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma placa de silício. Pode ser usada para criar eletrônicos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Silicon Board",
+    "path": "/shortdescription"
+  }
+]

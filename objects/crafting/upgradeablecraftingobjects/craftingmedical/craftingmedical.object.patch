@@ -1,1 +1,157 @@
-[{"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription", "value": "Esta mesa parece boa para o tratamento de feridas."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription", "value": "Isso me dá a habilidade de curar e rejuvenescer após receber dano."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription", "value": "Isso me dá a habilidade de curar e rejuvenescer após receber dano."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/humanDescription", "value": "Posso usar materiais que eu encontrei aqui para criar novos itens de cura."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/apexDescription", "value": "Uma mesa com um monte de ferramentas médicas."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/shortdescription", "value": "^orange;Medical Station^white;"}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/avianDescription", "value": "Uma chance para mostrar sua habilidade médica."}, {"op": "replace", "path": "/shortdescription", "value": "^orange;Apothecary^white;"}, {"op": "replace", "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title", "value": "Apotecário"}, {"op": "replace", "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "^#b9b5b2;Saúde e bem-estar"}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription", "value": "Esta mesa parece boa para o tratamento de feridas."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/description", "value": "O apotecário é usado para produzir itens de cura e medicina."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/description", "value": "A estação médica é usada para produzir itens de cura e medicina."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/shortdescription", "value": "^orange;Apothecary^white;"}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/floranDescription", "value": "Floran usssa mesa. Ssse auto remenda."}, {"op": "replace", "path": "/description", "value": "O apotecário é usado para produzir itens de cura e medicina."}, {"op": "replace", "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title", "value": "Estação Médica"}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/floranDescription", "value": "Floran usssa mesa. Ssse auto remenda."}, {"op": "replace", "path": "/floranDescription", "value": "Floran usssa mesa. Ssse auto remenda."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription", "value": "Inspirado. Módulo médico ativado."}, {"op": "replace", "path": "/glitchDescription", "value": "Inspirado. Módulo médico ativado."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription", "value": "Inspirado. Módulo médico ativado."}, {"op": "replace", "path": "/apexDescription", "value": "Uma mesa com um monte de ferramentas médicas."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/humanDescription", "value": "Posso usar materiais que eu encontrei aqui para criar novos itens de cura."}, {"op": "replace", "path": "/humanDescription", "value": "Posso usar materiais que eu encontrei aqui para criar novos itens de cura."}, {"op": "replace", "path": "/avianDescription", "value": "Uma oportunidade para utilizar sua habilidade médica."}, {"op": "replace", "path": "/hylotlDescription", "value": "Isso me dá a habilidade de curar e rejuvenescer após receber dano."}, {"op": "replace", "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "^#b9b5b2;Vida e bem-estar"}, {"op": "replace", "path": "/novakidDescription", "value": "Esta mesa parece boa para o tratamento de feridas."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/avianDescription", "value": "Uma oportunidade para utilizar sua habilidade médica."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/apexDescription", "value": "Uma mesa com um monte de ferramentas médicas."}]
+[
+  {
+    "op": "replace",
+    "value": "Apotecário",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Estação Médica",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Saúde e bem-estar",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Saúde e bem-estar",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Uma chance para mostrar sua habilidade médica.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma oportunidade para utilizar sua habilidade médica.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma oportunidade para utilizar sua habilidade médica.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa com um monte de ferramentas médicas.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa com um monte de ferramentas médicas.",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa com um monte de ferramentas médicas.",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran usssa mesa. Ssse auto remenda.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran usssa mesa. Ssse auto remenda.",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran usssa mesa. Ssse auto remenda.",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso usar materiais que eu encontrei aqui para criar novos itens de cura.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso usar materiais que eu encontrei aqui para criar novos itens de cura.",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso usar materiais que eu encontrei aqui para criar novos itens de cura.",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inspirado. Módulo médico ativado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inspirado. Módulo médico ativado.",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inspirado. Módulo médico ativado.",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O apotecário é usado para produzir itens de cura e medicina.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "O apotecário é usado para produzir itens de cura e medicina.",
+    "path": "/upgradeStages/0/itemSpawnParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "A estação médica é usada para produzir itens de cura e medicina.",
+    "path": "/upgradeStages/1/itemSpawnParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Isso me dá a habilidade de curar e rejuvenescer após receber dano.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso me dá a habilidade de curar e rejuvenescer após receber dano.",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso me dá a habilidade de curar e rejuvenescer após receber dano.",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa parece boa para o tratamento de feridas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa parece boa para o tratamento de feridas.",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa parece boa para o tratamento de feridas.",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Apothecary^white;",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Apothecary^white;",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Medical Station^white;",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription"
+  }
+]

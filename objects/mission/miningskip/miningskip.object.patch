@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Uma grande caçamba, cheia de entulho e sujeira."}, {"op": "replace", "path": "/novakidDescription", "value": "Um lugar de despejo para pedaços indesejáveis."}, {"op": "replace", "path": "/avianDescription", "value": "Um contêiner de metal feio, cheio de escombros e pintado de vermelho."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um contêiner de metal feio, cheio de material desperdiçado."}, {"op": "replace", "path": "/description", "value": "Uma grande caçamba de metal cheia de escombros."}, {"op": "replace", "path": "/shortdescription", "value": "Mining Skip"}, {"op": "replace", "path": "/floranDescription", "value": "Floran quer dormir na caixa vermelha."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. O contêiner parece conter escombros indesejados"}, {"op": "replace", "path": "/apexDescription", "value": "Uma grande caçamba pintada, cheia de escombros e sujeira."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma grande caçamba pintada, cheia de escombros e sujeira.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma grande caçamba, cheia de entulho e sujeira.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um lugar de despejo para pedaços indesejáveis.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma grande caçamba de metal cheia de escombros.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um contêiner de metal feio, cheio de escombros e pintado de vermelho.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um contêiner de metal feio, cheio de material desperdiçado.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran quer dormir na caixa vermelha.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mining Skip",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. O contêiner parece conter escombros indesejados",
+    "path": "/glitchDescription"
+  }
+]

@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Diz 'WAZ'. Pungente."}, {"op": "replace", "path": "/description", "value": "Waz."}, {"op": "replace", "path": "/shortdescription", "value": "'Waz' Graffiti"}, {"op": "replace", "path": "/humanDescription", "value": "Hehe. Waz. Vocês caras."}, {"op": "replace", "path": "/avianDescription", "value": "O que essa palavra significa? Meu tradutor não tem nada."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta é uma palavra que nem eu nem meu tradutor estamos familiarizados."}, {"op": "replace", "path": "/floranDescription", "value": "Floran escreve mensssssagem na parede com sangue."}, {"op": "replace", "path": "/glitchDescription", "value": "Acadêmico. É possível que isso se destine a transmitir a equação matemática para a evolução."}]
+[
+  {
+    "op": "replace",
+    "value": "'Waz' Graffiti",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Acadêmico. É possível que isso se destine a transmitir a equação matemática para a evolução.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran escreve mensssssagem na parede com sangue.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hehe. Waz. Vocês caras.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Diz 'WAZ'. Pungente.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é uma palavra que nem eu nem meu tradutor estamos familiarizados.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Waz.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "O que essa palavra significa? Meu tradutor não tem nada.",
+    "path": "/avianDescription"
+  }
+]

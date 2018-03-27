@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Sword Display"}, {"op": "replace", "path": "/humanDescription", "value": "Duas espadas afiadas. Guerreiros humanos preferem o machado."}, {"op": "replace", "path": "/avianDescription", "value": "Espadas decorativas afiadas. Os Avian preferem lanças."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um par de espadas afiadas. Os Hylotl preferem espadas curtas sobre outras armas."}, {"op": "replace", "path": "/description", "value": "Estas espadas em exibição podem ser perigosas nas mãos erradas."}, {"op": "replace", "path": "/floranDescription", "value": "Espadass afiadas. Floran gosta de marteloss!"}, {"op": "replace", "path": "/glitchDescription", "value": "Fascinado. Uma espada afiada em exibição. A arma que os Glitch preferem é a broadsword."}, {"op": "replace", "path": "/apexDescription", "value": "Duas espadas afiadas em exibição. Os Apex preferem adagas em geral."}, {"op": "replace", "path": "/novakidDescription", "value": "Um par de espadas em exibição. Provavelmente falsas."}]
+[
+  {
+    "op": "replace",
+    "value": "Um par de espadas afiadas. Os Hylotl preferem espadas curtas sobre outras armas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um par de espadas em exibição. Provavelmente falsas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fascinado. Uma espada afiada em exibição. A arma que os Glitch preferem é a broadsword.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espadas decorativas afiadas. Os Avian preferem lanças.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espadass afiadas. Floran gosta de marteloss!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sword Display",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas espadas em exibição podem ser perigosas nas mãos erradas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Duas espadas afiadas em exibição. Os Apex preferem adagas em geral.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Duas espadas afiadas. Guerreiros humanos preferem o machado.",
+    "path": "/humanDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Frontliner's Breastplate"}, {"op": "replace", "path": "/description", "value": "As ombreiras gigantescas desta armadura transmite que o utilizador esta falando sério."}]
+[
+  {
+    "op": "replace",
+    "value": "Frontliner's Breastplate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "As ombreiras gigantescas desta armadura transmite que o utilizador esta falando sério.",
+    "path": "/description"
+  }
+]

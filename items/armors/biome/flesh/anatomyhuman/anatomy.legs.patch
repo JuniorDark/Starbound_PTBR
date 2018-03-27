@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "É educativo! Calças mostrando a musculatura da perna Humana."}, {"op": "replace", "path": "/shortdescription", "value": "Human Anatomy Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Human Anatomy Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "É educativo! Calças mostrando a musculatura da perna Humana.",
+    "path": "/description"
+  }
+]

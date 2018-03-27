@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Um bom portão para uma cerca de jardim."}, {"op": "replace", "path": "/description", "value": "Um portão de madeira bruto. Não é muito seguro."}, {"op": "replace", "path": "/shortdescription", "value": "Wooden Gate"}, {"op": "replace", "path": "/apexDescription", "value": "Um portão de madeira pequeno."}, {"op": "replace", "path": "/avianDescription", "value": "Um portão. Fácil de pular por cima."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um pequeno portão de madeira."}, {"op": "replace", "path": "/floranDescription", "value": "Galhoss finos fazem porta."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Isto é um portão."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma porta de madeira tecida."}]
+[
+  {
+    "op": "replace",
+    "value": "Um portão de madeira bruto. Não é muito seguro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um portão. Fácil de pular por cima.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um bom portão para uma cerca de jardim.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pequeno portão de madeira.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um portão de madeira pequeno.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta de madeira tecida.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Isto é um portão.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Galhoss finos fazem porta.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wooden Gate",
+    "path": "/shortdescription"
+  }
+]

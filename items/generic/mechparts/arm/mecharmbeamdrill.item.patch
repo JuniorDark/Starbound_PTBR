@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um braço de mecha de utilidade avançada que dispara um feixe de mineração que pulsa rapidamente."
+    "value": "Um braço de mecha de utilidade avançada que dispara um feixe de mineração que pulsa rapidamente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Beam Drill Mech Arm",
+    "path": "/shortdescription"
   }
 ]

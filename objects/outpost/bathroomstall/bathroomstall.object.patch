@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Quando você tem que ir, você tem que ir."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um banheiro simples."}, {"op": "replace", "path": "/avianDescription", "value": "Um banheiro."}, {"op": "replace", "path": "/humanDescription", "value": "Ótimo para se esconder e jogar jogos de celular."}, {"op": "replace", "path": "/apexDescription", "value": "Um banheiro básico."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Um banheiro."}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de esconder no banheiro e assistir as pessoas passar pela lacuna!"}, {"op": "replace", "path": "/shortdescription", "value": "Bathroom Stall"}, {"op": "replace", "path": "/description", "value": "Um banheiro. Não fique preso!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um banheiro básico.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um banheiro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um banheiro. Não fique preso!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um banheiro simples.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bathroom Stall",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de esconder no banheiro e assistir as pessoas passar pela lacuna!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ótimo para se esconder e jogar jogos de celular.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Um banheiro.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quando você tem que ir, você tem que ir.",
+    "path": "/novakidDescription"
+  }
+]

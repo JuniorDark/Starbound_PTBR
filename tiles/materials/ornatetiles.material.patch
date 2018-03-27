@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Ornate Tiles"}, {"op": "replace", "path": "/description", "value": "Telhas de telhado requintadas ornamentado."}, {"op": "replace", "path": "/floranDescription", "value": "Floran aprecia telha ornamentada agradável."}, {"op": "replace", "path": "/glitchDescription", "value": "Familiar. Telhas similares podem frequentemente ser encontradas em projeto tradicional de telhado."}, {"op": "replace", "path": "/novakidDescription", "value": "Estas telhas ornamentadas realmente classifica o lugar."}]
+[
+  {
+    "op": "replace",
+    "value": "Telhas de telhado requintadas ornamentado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Familiar. Telhas similares podem frequentemente ser encontradas em projeto tradicional de telhado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran aprecia telha ornamentada agradável.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ornate Tiles",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas telhas ornamentadas realmente classifica o lugar.",
+    "path": "/novakidDescription"
+  }
+]

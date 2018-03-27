@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A lâmpada só permanece acesa enquanto o Lumoth bate suas asas."}, {"op": "replace", "path": "/shortdescription", "value": "Lumoth"}]
+[
+  {
+    "op": "replace",
+    "value": "Lumoth",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A lâmpada só permanece acesa enquanto o Lumoth bate suas asas.",
+    "path": "/description"
+  }
+]

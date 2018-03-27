@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Se isto fosse um filme aposto que isso ia desligar assim que eu saísse."}, {"op": "replace", "path": "/description", "value": "Uma luz grande piscando e uma sirene estridente, garantida para chamar muita atenção."}, {"op": "replace", "path": "/floranDescription", "value": "Issso vai alertar todosss os guardasss."}, {"op": "replace", "path": "/shortdescription", "value": "Alarm"}, {"op": "replace", "path": "/glitchDescription", "value": "Alarmado. Isto irá alertar muitos, eu deveria ter cuidado."}, {"op": "replace", "path": "/apexDescription", "value": "Estes são utilizados como um impedimento, mas também como segurança."}, {"op": "replace", "path": "/avianDescription", "value": "Esta luz piscante irá alertar todos sobre delitos."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um alarme. Usado para alertar guardas sobre bandidos."}, {"op": "replace", "path": "/novakidDescription", "value": "Este alarme com certeza assustara criminosos."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz grande piscando e uma sirene estridente, garantida para chamar muita atenção.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Alarm",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alarmado. Isto irá alertar muitos, eu deveria ter cuidado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um alarme. Usado para alertar guardas sobre bandidos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se isto fosse um filme aposto que isso ia desligar assim que eu saísse.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes são utilizados como um impedimento, mas também como segurança.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz piscante irá alertar todos sobre delitos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este alarme com certeza assustara criminosos.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Issso vai alertar todosss os guardasss.",
+    "path": "/floranDescription"
+  }
+]

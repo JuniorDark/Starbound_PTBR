@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Booster Flame"}, {"op": "replace", "path": "/floranDescription", "value": "Fogo assustador"}, {"op": "replace", "path": "/glitchDescription", "value": "Analisar. Temperatura muito alta para medir."}, {"op": "replace", "path": "/apexDescription", "value": "Um propulsor. Estes têm sido conhecido por funcionar mal e explodir."}, {"op": "replace", "path": "/description", "value": "Pergunto-me quão rapidamente que iria cozinhar um hambúrguer."}, {"op": "replace", "path": "/humanDescription", "value": "Esta coisa se alimenta de combustível"}, {"op": "replace", "path": "/avianDescription", "value": "Um propulsor, as asas de um nave."}, {"op": "replace", "path": "/hylotlDescription", "value": "Propulsão."}]
+[
+  {
+    "op": "replace",
+    "value": "Um propulsor, as asas de um nave.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um propulsor. Estes têm sido conhecido por funcionar mal e explodir.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analítico. Temperatura muito alta para medir.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Booster Flame",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me pergunto o quão rapidamente isso iria cozinhar um hambúrguer.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Propulsão.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fogo assustador.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta coisa se alimenta de combustível",
+    "path": "/humanDescription"
+  }
+]

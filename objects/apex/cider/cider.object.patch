@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Aceitável se você está usando calça de moletom e um gorro ou pantalonas."}, {"op": "replace", "path": "/apexDescription", "value": "O doce cheiro enjoativo desta bebida traz recordações."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os Hylotl bebem chá, e pouco mais."}, {"op": "replace", "path": "/shortdescription", "value": "Mulled Fruit Drink"}, {"op": "replace", "path": "/floranDescription", "value": "Nojento. Líquidoss quente nojento."}, {"op": "replace", "path": "/glitchDescription", "value": "Aventureiro. Eu posso imaginar que eu iria desfrutar de uma bebida como esta."}, {"op": "replace", "path": "/humanDescription", "value": "Uma bebida saborosa... Eu poderia beber uma dessas agora."}, {"op": "replace", "path": "/avianDescription", "value": "Uma bebida de fruta? Avians não reagem bem a bebidas quente."}, {"op": "replace", "path": "/novakidDescription", "value": "Não é nenhum dandelion pop, mas vai servir."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma bebida saborosa... Eu poderia beber uma dessas agora.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aceitável se você está usando calça de moletom e um gorro ou pantalonas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Aventureiro. Eu posso imaginar que eu iria desfrutar de uma bebida como esta.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bebida de fruta? Avians não reagem bem a bebidas quente.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nojento. Líquidoss quente nojento.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não é nenhum dandelion pop, mas vai servir.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mulled Fruit Drink",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Hylotl bebem chá, e pouco mais.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O doce cheiro enjoativo desta bebida traz recordações.",
+    "path": "/apexDescription"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Ice"}, {"op": "replace", "path": "/description", "value": "Gelo sólido, formigante ao toque."}]
+[
+  {
+    "op": "replace",
+    "value": "Ice",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Punhado de gelo.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gelo ssólido gelado.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Parece que este gelo é naturalmente congelado.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gelo sólido, formigante ao toque.",
+    "path": "/description"
+  }
+]

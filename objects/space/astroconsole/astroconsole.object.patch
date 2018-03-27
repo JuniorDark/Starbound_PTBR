@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma grande tela construída para monitorar uma variedade de dispositivos."
+    "value": "Uma grande tela construída para monitorar uma variedade de dispositivos.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Eu gosto dessa grande tela, parece importante."
+    "value": "Qualquer coisa poderia ser conectada a um grande console como este.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Este console parece um pouco desatualizado na minha opinião."
+    "value": "Astro Console",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Tela de exibição brilhante."
+    "value": "Eu gosto dessa grande tela, parece importante.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Impressionado. Esta tela de informações está em boas condições."
+    "value": "Impressionado. Esta tela de informações está em boas condições.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Qualquer coisa poderia ser conectada a um grande console como este."
+    "value": "Tela de exibição brilhante.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "O tamanho da tela do console facilita a leitura das informações."
+    "value": "Este console parece um pouco desatualizado na minha opinião.",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Este é um console muito robusto."
+    "value": "Este é um console muito robusto.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O tamanho da tela do console facilita a leitura das informações.",
+    "path": "/hylotlDescription"
   }
 ]

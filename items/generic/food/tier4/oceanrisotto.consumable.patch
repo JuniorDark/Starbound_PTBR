@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um prato de arroz salgado e aromático."}, {"op": "replace", "path": "/shortdescription", "value": "Ocean Risotto"}]
+[
+  {
+    "op": "replace",
+    "value": "Um prato de arroz salgado e aromático.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ocean Risotto",
+    "path": "/shortdescription"
+  }
+]

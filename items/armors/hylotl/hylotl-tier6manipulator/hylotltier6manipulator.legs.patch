@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Solarium crafted. calças com nervuras reforçadas, que permitem que o usuário nade, corra e lute com igual facilidade."}, {"op": "replace", "path": "/shortdescription", "value": "Aphotic Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Aphotic Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Solarium crafted. calças com nervuras reforçadas, que permitem que o usuário nade, corra e lute com igual facilidade.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Packed Dirt"}, {"op": "replace", "path": "/glitchDescription", "value": "Divertido. Estes tijolos são simplesmente embalados, em forma de terra."}, {"op": "replace", "path": "/novakidDescription", "value": "Tijolos de aparência suave, feitos de terra."}, {"op": "replace", "path": "/description", "value": "Um pouco de terra transformada em pequenos tijolos."}, {"op": "replace", "path": "/floranDescription", "value": "Tijoloss feitos de terra embalada."}]
+[
+  {
+    "op": "replace",
+    "value": "Divertido. Estes tijolos são simplesmente embalados, em forma de terra.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijoloss feitos de terra embalada.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Packed Dirt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijolos de aparência suave, feitos de terra.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pouco de terra transformada em pequenos tijolos.",
+    "path": "/description"
+  }
+]

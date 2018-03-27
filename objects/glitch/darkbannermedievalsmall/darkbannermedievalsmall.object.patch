@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um pequeno estandarte tecido de cor escura."}, {"op": "replace", "path": "/shortdescription", "value": "Small Dark Glitch Banner"}, {"op": "replace", "path": "/floranDescription", "value": "Este estandarte é escuro como sombras. Floran quer se esconder debaixo dele."}, {"op": "replace", "path": "/apexDescription", "value": "As cores escuras neste estandarte torná-o um pouco mau presságio."}, {"op": "replace", "path": "/humanDescription", "value": "Este estandarte tecido preto está tentando muito ser ameaçador."}, {"op": "replace", "path": "/avianDescription", "value": "Este estandarte tem cobre finamente tecido nas bordas. Que detalhe bonito"}, {"op": "replace", "path": "/hylotlDescription", "value": "É uma pena um estandarte tão agradável foi criado com escolhas tão sombras de cor."}, {"op": "replace", "path": "/novakidDescription", "value": "Este estandarte é tão escuro quanto o óleo de uma semana."}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. Este tipo de estandarte tende a ser exibido quando pessoas não muito amigáveis estão nas proximidades..."}]
+[
+  {
+    "op": "replace",
+    "value": "Um pequeno estandarte tecido de cor escura.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Small Dark Glitch Banner",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma pena um estandarte tão agradável foi criado com escolhas tão sombras de cor.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "As cores escuras neste estandarte torná-o um pouco mau presságio.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este estandarte tem cobre finamente tecido nas bordas. Que detalhe bonito",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este estandarte é tão escuro quanto o óleo de uma semana.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este estandarte tecido preto está tentando muito ser ameaçador.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este estandarte é escuro como sombras. Floran quer se esconder debaixo dele.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Este tipo de estandarte tende a ser exibido quando pessoas não muito amigáveis estão nas proximidades...",
+    "path": "/glitchDescription"
+  }
+]

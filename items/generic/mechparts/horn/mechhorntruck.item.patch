@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Para apitar com raiva quando alguém não sai do caminho."
+    "value": "Para buzinar com raiva quando alguém não sai do caminho.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Truck Mech Horn",
+    "path": "/shortdescription"
   }
 ]

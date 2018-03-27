@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Deadbeat Bruiser Mask"}, {"op": "replace", "path": "/description", "value": "Uma máscara que não oferece nenhuma proteção real."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma máscara que não oferece nenhuma proteção real.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Deadbeat Bruiser Mask",
+    "path": "/shortdescription"
+  }
+]

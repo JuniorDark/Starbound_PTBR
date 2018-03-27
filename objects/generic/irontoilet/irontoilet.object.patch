@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Perplexo. Esta privada só é realmente seguro para os Glitch, que não precisam disso."}, {"op": "replace", "path": "/apexDescription", "value": "Este não é a privada mais atraente que eu já vi."}, {"op": "replace", "path": "/humanDescription", "value": "Uma privada feita de espadas. Estarei tendo pesadelos por semanas."}, {"op": "replace", "path": "/avianDescription", "value": "Não consigo imaginar essas coisas sendo muito populares."}, {"op": "replace", "path": "/hylotlDescription", "value": "Seria quase preferível se essas espadas ainda fossem usadas para o combate."}, {"op": "replace", "path": "/description", "value": "Uma privada feita de espadas. Arriscado."}, {"op": "replace", "path": "/floranDescription", "value": "Espadas afiadasss."}, {"op": "replace", "path": "/shortdescription", "value": "Sharp Toilet"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma privada feita de espadas. Estarei tendo pesadelos por semanas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma privada feita de espadas. Arriscado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Não consigo imaginar essas coisas sendo muito populares.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Seria quase preferível se essas espadas ainda fossem usadas para o combate.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perplexo. Esta privada só é realmente seguro para os Glitch, que não precisam disso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sharp Toilet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espadas afiadasss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este não é a privada mais atraente que eu já vi.",
+    "path": "/apexDescription"
+  }
+]

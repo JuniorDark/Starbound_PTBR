@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Olhe de perto esses peixes."}, {"op": "replace", "path": "/shortdescription", "value": "Diving Mask"}]
+[
+  {
+    "op": "replace",
+    "value": "Diving Mask",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Olhe de perto esses peixes.",
+    "path": "/description"
+  }
+]

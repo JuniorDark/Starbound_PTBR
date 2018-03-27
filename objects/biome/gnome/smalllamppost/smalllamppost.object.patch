@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um poste minúsculo. Tente não chutar."}, {"op": "replace", "path": "/shortdescription", "value": "Tiny Lamppost"}, {"op": "replace", "path": "/floranDescription", "value": "Luz pequena no bassstão."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Um poste minúsculo."}, {"op": "replace", "path": "/apexDescription", "value": "Um poste minúsculo."}, {"op": "replace", "path": "/humanDescription", "value": "Um pequeno poste."}, {"op": "replace", "path": "/avianDescription", "value": "Que poste minúsculo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Tão pequeno e adorável."}, {"op": "replace", "path": "/novakidDescription", "value": "Um pequeno poste. Para que serve?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um pequeno poste.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pequeno poste. Para que serve?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um poste minúsculo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um poste minúsculo. Tente não chutar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Um poste minúsculo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tão pequeno e adorável.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luz pequena no bassstão.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tiny Lamppost",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que poste minúsculo.",
+    "path": "/avianDescription"
+  }
+]

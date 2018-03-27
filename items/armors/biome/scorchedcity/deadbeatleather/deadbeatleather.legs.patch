@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Calças resistentes, feitas de couro curado."}, {"op": "replace", "path": "/shortdescription", "value": "Deadbeat Tough Trousers"}]
+[
+  {
+    "op": "replace",
+    "value": "Deadbeat Tough Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Calças resistentes, feitas de couro curado.",
+    "path": "/description"
+  }
+]

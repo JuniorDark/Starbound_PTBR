@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "As pessoas usam essa runa para se referir a casa, ou para marcar suas casas para os outros?"}, {"op": "replace", "path": "/glitchDescription", "value": "Interrogativo. Uma runa que significa casa, mas o que casa significa?"}, {"op": "replace", "path": "/description", "value": "Uma runa antiga que é o símbolo da casa."}, {"op": "replace", "path": "/avianDescription", "value": "Uma runa antiga que significa casa."}, {"op": "replace", "path": "/hylotlDescription", "value": "Pode-se perguntar se o conceito de casa realmente pode ser definida em tudo."}, {"op": "replace", "path": "/shortdescription", "value": "Home Rune"}, {"op": "replace", "path": "/floranDescription", "value": "Runa sssignifica casa."}, {"op": "replace", "path": "/apexDescription", "value": "Uma runa comum antiga que se refere ao conceito de casa."}, {"op": "replace", "path": "/novakidDescription", "value": "Este símbolo significa casa. Para mim, casa é onde o coração vagueia."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma runa antiga que significa casa.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma runa antiga que é o símbolo da casa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma runa comum antiga que se refere ao conceito de casa.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "As pessoas usam essa runa para se referir a casa, ou para marcar suas casas para os outros?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Home Rune",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pode-se perguntar se o conceito de casa realmente pode ser definida em tudo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interrogativo. Uma runa que significa casa, mas o que casa significa?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Runa sssignifica casa.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este símbolo significa casa. Para mim, casa é onde o coração vagueia.",
+    "path": "/novakidDescription"
+  }
+]

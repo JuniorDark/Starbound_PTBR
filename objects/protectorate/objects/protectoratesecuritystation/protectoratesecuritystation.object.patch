@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Protectorate Security Station"}, {"op": "replace", "path": "/apexDescription", "value": "Medidas de segurança extensas."}, {"op": "replace", "path": "/description", "value": "Estação de segurança da Academia Protetorado."}, {"op": "replace", "path": "/humanDescription", "value": "Uma estação de segurança. Eu não tenho tempo para isso."}, {"op": "replace", "path": "/floranDescription", "value": "Máquina essscaneia bolsas e olha dentro delasss."}, {"op": "replace", "path": "/avianDescription", "value": "Esta máquina escaneia bagagem."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma máquina de invadir privacidade."}, {"op": "replace", "path": "/novakidDescription", "value": "Scanner de bolsa. Vou ignorá-lo hoje."}, {"op": "replace", "path": "/glitchDescription", "value": "Desconfortável. Os detectores de metal podem ser um pesadelo para nós Glitch."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma máquina de invadir privacidade.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estação de segurança. Eu não tenho tempo para isso.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Scanner de bolsa. Vou ignorá-lo hoje.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Medidas de segurança extensas.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Máquina essscaneia bolsas e olha dentro delasss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Security Station",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estação de segurança da Academia Protetorado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta máquina escaneia bagagem.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desconfortável. Os detectores de metal podem ser um pesadelo para nós Glitch.",
+    "path": "/glitchDescription"
+  }
+]

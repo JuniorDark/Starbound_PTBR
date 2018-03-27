@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "tentaclebomb"}, {"op": "replace", "path": "/description", "value": "Durante tempestades ele se prende às árvores para não ser soprado pra longe."}]
+[
+  {
+    "op": "replace",
+    "value": "Durante tempestades ele se prende às árvores para não ser soprado pra longe.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "tentaclebomb",
+    "path": "/shortdescription"
+  }
+]

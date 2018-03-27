@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um pequeno terminal, com uma tela compacta."
+    "value": "Um pequeno console de pé, com uma tela anexada.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Este terminal compacto tem uma tela pequena."
+    "value": "Um pequeno terminal, com uma tela compacta.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Este terminal não precisa de um monte de botões, apenas o básico."
+    "value": "Floran quer apertar os botões neste console.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Floran quer apertar os botões neste console."
+    "value": "Interessado. Este console parece projetado para uma finalidade específica, não há muitos botões.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Interessado. Este console parece projetado para uma finalidade específica, não há muitos botões."
+    "value": "Apenas alguns botões minúsculos neste console aqui.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Um pequeno console de pé, com uma tela anexada."
+    "value": "Station Console",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Este pequeno console tem apenas os botões que ele precisa, eu tenho certeza que ele tem uma finalidade clara."
+    "value": "Este terminal compacto tem uma tela pequena.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Apenas alguns botões minúsculos neste console aqui."
+    "value": "Este pequeno console tem apenas os botões que ele precisa, eu tenho certeza que ele tem uma finalidade clara.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este terminal não precisa de um monte de botões, apenas o básico.",
+    "path": "/avianDescription"
   }
 ]

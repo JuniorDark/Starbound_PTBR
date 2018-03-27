@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Quem precisa de cadeirass chiques? Ssente no tronco."}, {"op": "replace", "path": "/hylotlDescription", "value": "A maioria dos troncos em que sentei estavam flutuando."}, {"op": "replace", "path": "/glitchDescription", "value": "Surpreso. Este simples tronco faz um assento efetivo."}, {"op": "replace", "path": "/description", "value": "Um tronco, alisado para se sentar."}, {"op": "replace", "path": "/shortdescription", "value": "Sitting Log"}, {"op": "replace", "path": "/humanDescription", "value": "É um tronco. Sim senhor, eu gosto disso."}, {"op": "replace", "path": "/apexDescription", "value": "Este tronco parece da altura ideal para se sentar."}, {"op": "replace", "path": "/novakidDescription", "value": "Parece perfeito para se sentar em volta de uma fogueira."}, {"op": "replace", "path": "/avianDescription", "value": "Um tronco velho, parece que ele tem sido usado como um assento."}]
+[
+  {
+    "op": "replace",
+    "value": "Um tronco, alisado para se sentar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um tronco velho, parece que ele tem sido usado como um assento.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um tronco. Sim senhor, eu gosto disso.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece perfeito para se sentar em volta de uma fogueira.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A maioria dos troncos em que sentei estavam flutuando.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sitting Log",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Este simples tronco faz um assento efetivo.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este tronco parece da altura ideal para se sentar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quem precisa de cadeirass chiques? Ssente no tronco.",
+    "path": "/floranDescription"
+  }
+]

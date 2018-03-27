@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Holiday Lights"}, {"op": "replace", "path": "/description", "value": "Este fio de luzes festivas pequenas e cintilantes é a maneira perfeita de se tornar festivo."}, {"op": "replace", "path": "/glitchDescription", "value": "Feliz. Estas luzes cintilantes aumentam muito a atmosfera alegre."}, {"op": "replace", "path": "/apexDescription", "value": "Estas pequenas luzes são bastante bonitas."}, {"op": "replace", "path": "/floranDescription", "value": "Muito cintilante."}, {"op": "replace", "path": "/humanDescription", "value": "Sempre gostei de pisca-piscas."}, {"op": "replace", "path": "/avianDescription", "value": "É difícil não amar essas belas luzes."}, {"op": "replace", "path": "/hylotlDescription", "value": "Que beleza simples."}, {"op": "replace", "path": "/novakidDescription", "value": "Pequenas luzes cintilantes, bem bonitas."}]
+[
+  {
+    "op": "replace",
+    "value": "Feliz. Estas luzes cintilantes aumentam muito a atmosfera alegre.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Holiday Lights",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pequenas luzes cintilantes, bem bonitas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Muito cintilante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este fio de luzes festivas pequenas e cintilantes é a maneira perfeita de se tornar festivo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Sempre gostei de pisca-piscas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É difícil não amar essas belas luzinhas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que beleza simples.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas luzinhas são bastante bonitas.",
+    "path": "/apexDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Essa luz repulsiva emite um brilho doentio."}, {"op": "replace", "path": "/humanDescription", "value": "Que luz nojenta."}, {"op": "replace", "path": "/avianDescription", "value": "Que luz repugnante."}, {"op": "replace", "path": "/hylotlDescription", "value": "Isso não é natural em sua naturalidade."}, {"op": "replace", "path": "/description", "value": "Uma luz pulsante e carnuda."}, {"op": "replace", "path": "/shortdescription", "value": "Hive Light"}, {"op": "replace", "path": "/floranDescription", "value": "Floran acha que a luz parece saborosa."}, {"op": "replace", "path": "/glitchDescription", "value": "Repulsão. Uma luz vil e carnuda."}, {"op": "replace", "path": "/novakidDescription", "value": "Quem é o responsável por decorar este lugar?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz pulsante e carnuda.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran acha que a luz parece saborosa.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hive Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Repulsão. Uma luz vil e carnuda.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso não é natural em sua naturalidade.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa luz repulsiva emite um brilho doentio.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que luz repugnante.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que luz nojenta.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quem é o responsável por decorar este lugar?",
+    "path": "/novakidDescription"
+  }
+]

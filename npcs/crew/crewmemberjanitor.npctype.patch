@@ -1,1 +1,52 @@
-[{"op":"replace","path":"/scriptConfig/crew/role/name","value":"Zelador(a)"},{"op":"replace","path":"/scriptConfig/crew/role/field","value":"Limpeza"},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1","value":"Desapontado. Um trabalho é um trabalho, mas ainda..."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/default/default/1","value":" Sou <selfname>... O Zelador(a)."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0","value":"Quando um piso fica todo empoeirado, alguém tem que varrer. É assim que é."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1","value":" Sou <selfname>, o Zelador(a). Eu pego qualquer trabalho que eu posso obter por aqui."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0","value":"Entediado. Eu sou <selfname>... O zelador(a)."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/floran/default/0","value":"Floran é <selfname>... O trabalho de Floran é varrer. Muito."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/floran/default/1","value":"O nome de Floran é <selfname>. <selfname> o Zelador(a)."},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/default/default/0","value":"Eu sou <selfname>... O zelador(a)."}]
+[
+  {
+    "op": "replace",
+    "value": "Entediado. Eu sou <selfname>... O zelador(a).",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Limpeza",
+    "path": "/scriptConfig/crew/role/field"
+  },
+  {
+    "op": "replace",
+    "value": "Floran é <selfname>... O trabalho de Floran é varrer. Muito.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "O nome de Floran é <selfname>. <selfname> o Zelador(a).",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sou <selfname>... O zelador(a).",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Zelador(a)",
+    "path": "/scriptConfig/crew/role/name"
+  },
+  {
+    "op": "replace",
+    "value": " Sou <selfname>, o Zelador(a). Eu pego qualquer trabalho que eu posso obter por aqui.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1"
+  },
+  {
+    "op": "replace",
+    "value": " Sou <selfname>... O Zelador(a).",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Desapontado. Um trabalho é um trabalho, mas ainda...",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Quando um piso fica todo empoeirado, alguém tem que varrer. É assim que é.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0"
+  }
+]

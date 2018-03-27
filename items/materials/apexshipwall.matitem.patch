@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um painel de parede de metal elegante."}, {"op": "replace", "path": "/shortdescription", "value": "Wall Panel"}]
+[
+  {
+    "op": "replace",
+    "value": "Um painel feito de metal.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um painel de parede de metal elegante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Estes painéis removíveis são suaves e fortes.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Painel de metal deixa parede lisa.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wall Panel",
+    "path": "/shortdescription"
+  }
+]

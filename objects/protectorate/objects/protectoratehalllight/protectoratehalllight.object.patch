@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/avianDescription", "value": "É um pequeno holofote."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Um holofote."}, {"op": "replace", "path": "/floranDescription", "value": "Holofote."}, {"op": "replace", "path": "/description", "value": "Uma luz destinada a chamar a atenção para uma área."}, {"op": "replace", "path": "/shortdescription", "value": "Hall Spotlight"}, {"op": "replace", "path": "/humanDescription", "value": "Um holofote perfeitamente comum."}, {"op": "replace", "path": "/apexDescription", "value": "É um pequeno holofote."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um holofote comum."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz destinada a chamar a atenção para uma área.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um holofote perfeitamente comum.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um holofote comum.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um pequeno holofote.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um pequeno holofote.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Um holofote.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Holofote.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hall Spotlight",
+    "path": "/shortdescription"
+  }
+]

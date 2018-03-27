@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Silver Screw"}, {"op": "replace", "path": "/description", "value": "Um parafuso gigante feito de prata."}]
+[
+  {
+    "op": "replace",
+    "value": "Um grande parafuso velho feito da prata.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um parafuso gigante feito de prata.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Que propósito poderia um parafuso grande sirvir?",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parafuso brilhante feito de prata.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Silver Screw",
+    "path": "/shortdescription"
+  }
+]

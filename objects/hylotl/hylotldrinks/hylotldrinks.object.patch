@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/description", "value": "Uma máquina de venda cheia de bebidas populares."}, {"op": "replace", "path": "/shortdescription", "value": "Blue Vending Machine"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Maquina de Venda"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não gosssta de bebidas muito doces."}, {"op": "replace", "path": "/apexDescription", "value": "Está cheia de todos os tipos de refrigerantes."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "Lanches Saborosos"}, {"op": "replace", "path": "/novakidDescription", "value": "Nunca fui um grande fã de bebidas gaseificadas."}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Eu não me importaria de experimentar algumas dessas bebidas estrangeiras."}, {"op": "replace", "path": "/humanDescription", "value": "A máquina está vendendo refrigerantes. Gostaria de saber que gosto tem a Reef-Cola?"}, {"op": "replace", "path": "/avianDescription", "value": "As bebidas aqui parece um pouco doce para o meu gosto..."}, {"op": "replace", "path": "/hylotlDescription", "value": "Pessoalmente, eu sou bastante parcial para a Reef-Cola."}]
+[
+  {
+    "op": "replace",
+    "value": "Maquina de Venda",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": " Lanches Saborosos",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Uma máquina de venda cheia de bebidas populares.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Blue Vending Machine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não gosssta de bebidas muito doces.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Eu não me importaria de experimentar algumas dessas bebidas estrangeiras.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Está cheia de todos os tipos de refrigerantes.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nunca fui um grande fã de bebidas gaseificadas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pessoalmente, eu sou bastante parcial para a Reef-Cola.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "As bebidas aqui parece um pouco doce para o meu gosto...",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A máquina está vendendo refrigerantes. Gostaria de saber que gosto tem a Reef-Cola?",
+    "path": "/humanDescription"
+  }
+]

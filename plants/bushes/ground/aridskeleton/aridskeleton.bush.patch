@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Ossos."}, {"op": "replace", "path": "/shortdescription", "value": "Bones."}, {"op": "replace", "path": "/floranDescription", "value": "Ossos assustadoresss!"}, {"op": "replace", "path": "/glitchDescription", "value": "Declaração. Ossos."}]
+[
+  {
+    "op": "replace",
+    "value": "Bones.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bones.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ossos assustadoresss!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Declaração. Ossos.",
+    "path": "/glitchDescription"
+  }
+]

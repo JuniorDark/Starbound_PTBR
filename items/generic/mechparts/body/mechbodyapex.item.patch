@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um corpo de mecha de alta tecnologia de estilo Apex, alimentado por um reator de fusão."
+    "value": "Um corpo de mecha de alta tecnologia de estilo Apex, alimentado por um reator de fusão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Dominion Mech Body",
+    "path": "/shortdescription"
   }
 ]

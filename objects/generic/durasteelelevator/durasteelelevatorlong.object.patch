@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Long Durasteel Elevator"}, {"op": "replace", "path": "/floranDescription", "value": "Elevador sssobe e desce."}, {"op": "replace", "path": "/glitchDescription", "value": "Entediado. Um elevador sem inspiração."}, {"op": "replace", "path": "/apexDescription", "value": "Um elevador resistente."}, {"op": "replace", "path": "/humanDescription", "value": "Um elevador para subir e descer os níveis."}, {"op": "replace", "path": "/description", "value": "Este elevador de durasteel vai fazer o trabalho."}, {"op": "replace", "path": "/avianDescription", "value": "A maneira mais fácil de percorrer uma instalação de vários níveis."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um elevador de durasteel elegante."}, {"op": "replace", "path": "/novakidDescription", "value": "Algum tipo de elevador, útil!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um elevador resistente.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um elevador para subir e descer os níveis.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Entediado. Um elevador sem inspiração.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Elevador sssobe e desce.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de elevador, útil!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A maneira mais fácil de percorrer uma instalação de vários níveis.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Long Durasteel Elevator",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um elevador de durasteel elegante.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este elevador de durasteel vai fazer o trabalho.",
+    "path": "/description"
+  }
+]

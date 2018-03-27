@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Flechas disparadas por este arco provocam paixão desenfreada."}, {"op": "replace", "path": "/shortdescription", "value": "Cupid's Bow"}]
+[
+  {
+    "op": "replace",
+    "value": "Flechas disparadas por este arco provocam paixão desenfreada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cupid's Bow",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Armários de estudantes, incluindo o meu."}, {"op": "replace", "path": "/description", "value": "Um conjunto de armários do protetorado, incluindo o seu."}, {"op": "replace", "path": "/apexDescription", "value": "Um desses armários é meu."}, {"op": "replace", "path": "/shortdescription", "value": "My Locker"}, {"op": "replace", "path": "/floranDescription", "value": "Floran é dono desse armário."}, {"op": "replace", "path": "/glitchDescription", "value": "Familiar. Este tem sido o meu armário por vários anos."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este humilde armário estudantil tem sido gentil comigo."}, {"op": "replace", "path": "/novakidDescription", "value": "Sim, esse é o meu armário. No entanto, não tem muita coisa nele."}, {"op": "replace", "path": "/humanDescription", "value": "Meu armário, onde guardo todos os meus livros didáticos e fotos de bandas."}]
+[
+  {
+    "op": "replace",
+    "value": "Um conjunto de armários do protetorado, incluindo o seu.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Familiar. Este tem sido o meu armário por vários anos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran é dono desse armário.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "My Locker",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Meu armário, onde guardo todos os meus livros didáticos e fotos de bandas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um desses armários é meu.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Armários de estudantes, incluindo o meu.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este humilde armário estudantil tem sido gentil comigo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sim, esse é o meu armário. No entanto, não tem muita coisa nele.",
+    "path": "/novakidDescription"
+  }
+]

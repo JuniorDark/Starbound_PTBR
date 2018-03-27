@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Há pequenas raízes sobressaindo do teto."}, {"op": "replace", "path": "/floranDescription", "value": "Raízes crescem por muitos anos. Como Floran."}, {"op": "replace", "path": "/glitchDescription", "value": "Atento. Há raízes sobressaindo do teto."}, {"op": "replace", "path": "/apexDescription", "value": "Raízes estão saindo através do teto."}, {"op": "replace", "path": "/humanDescription", "value": "Essas raízes parecem tentáculos marrons."}, {"op": "replace", "path": "/avianDescription", "value": "Raízes estão crescendo do teto. Talvez um dia este lugar será coberto nelas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Até onde essas raízes foram? E a que planta pertencem?"}, {"op": "replace", "path": "/shortdescription", "value": "Roots"}, {"op": "replace", "path": "/novakidDescription", "value": "É apenas raízes."}]
+[
+  {
+    "op": "replace",
+    "value": "Roots",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há pequenas raízes sobressaindo do teto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Até onde essas raízes foram? E a que planta pertencem?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É apenas raízes.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Há raízes sobressaindo do teto.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Raízes estão crescendo do teto. Talvez um dia este lugar será coberto nelas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Raízes estão saindo através do teto.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Raízes crescem por muitos anos. Como Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas raízes parecem tentáculos marrons.",
+    "path": "/humanDescription"
+  }
+]

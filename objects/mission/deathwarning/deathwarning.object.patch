@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Que pressentimento!"}, {"op": "replace", "path": "/description", "value": "Uma placa velha para avisar do perigo mortal."}, {"op": "replace", "path": "/floranDescription", "value": "A placa significa diversão!"}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Isso parece ser um aviso."}, {"op": "replace", "path": "/apexDescription", "value": "Estea placa me faz pensar que eu deveria ter cuidado."}, {"op": "replace", "path": "/avianDescription", "value": "Uma placa ameaçadora. Para que poderia ser um aviso?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Este crânio não parece ter três soquetes de olho. Talvez os Hylotl não estejam em risco para o perigo."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma placa de crânio de algum tipo."}, {"op": "replace", "path": "/shortdescription", "value": "Old Warning Sign"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma placa ameaçadora. Para que poderia ser um aviso?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa de crânio de algum tipo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa velha para avisar do perigo mortal.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Que pressentimento!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Isso parece ser um aviso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Old Warning Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A placa significa diversão!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estea placa me faz pensar que eu deveria ter cuidado.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este crânio não parece ter três soquetes de olho. Talvez os Hylotl não estejam em risco para o perigo.",
+    "path": "/hylotlDescription"
+  }
+]

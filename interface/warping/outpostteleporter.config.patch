@@ -1,1 +1,17 @@
-[{"op":"replace","path":"/destinations/0/name","value":"Ir a Nave"},{"op":"replace","path":"/destinations/1/name","value":"Museu do Koichi"}]
+[
+  {
+    "op": "replace",
+    "value": "Museu do Koichi",
+    "path": "/destinations/1/name"
+  },
+  {
+    "op": "replace",
+    "value": "Posto Avançado - 2 Stop Teleshop",
+    "path": "/bookmarkName"
+  },
+  {
+    "op": "replace",
+    "value": "Ir a Nave",
+    "path": "/destinations/0/name"
+  }
+]

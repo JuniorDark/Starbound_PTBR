@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Evil Eye"}, {"op": "replace", "path": "/description", "value": "Eu acho que está olhando para mim."}]
+[
+  {
+    "op": "replace",
+    "value": "Eu acho que está olhando para mim.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Mau-Olhado",
+    "path": "/shortdescription"
+  }
+]

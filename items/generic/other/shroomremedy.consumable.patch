@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um mistura que parece fornecer regeneração natural."}, {"op": "replace", "path": "/shortdescription", "value": "Shroom Remedy"}]
+[
+  {
+    "op": "replace",
+    "value": "Um mistura que parece fornecer regeneração natural.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Shroom Remedy",
+    "path": "/shortdescription"
+  }
+]

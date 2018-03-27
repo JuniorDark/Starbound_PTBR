@@ -1,1 +1,137 @@
-[{"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "Satisfeito. Eu estou sempre surpreso com o quão rápido novas casas são habitadas - Acho que há muita demanda lá fora! Obrigado pela ajuda."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "Reunimos todo o mobiliário, mas precisamos da casa em si! ^green;Construa uma casa e coloque o ^orange;<furnitureSet>^green; dentro.^white; Não se esqueça de colocar um ^orange;Colony Deed^white; também!"}, {"op": "replace", "path": "/scriptConfig/generatedText/failureText/0", "value": "Eu fui incapaz de ajudar <questGiver> a fazer um novo amigo. <questGiver.pronoun.capitalSubject> provavelmente tem bastantes amigos já."}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Vaga preenchida! Isso não demorou muito! Obrigado por ajudar a expandir minha rede social!"}, {"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Construa uma casa com:"}, {"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "1 Colony Deed"}, {"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/0", "value": "^cyan;Floran acha que poderia ser bom ter um sangue fresco por aqui. Floran tem um plano!"}, {"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/0", "value": "^cyan;Gosto de fazer amigos. Ajude-me a montar uma casa que irá atrair um novo vizinho!"}, {"op": "replace", "path": "/scriptConfig/generatedText/goalText/default/1", "value": "^cyan;Estou sozinho e poderia ter alguém novo para conversar. Você poderia me ajudar a encontrar o amigo que eu estou procurando?"}, {"op": "replace", "path": "/scriptConfig/generatedText/failureText/1", "value": "Eu fui incapaz de ajudar <questGiver> a fazer um novo amigo. Tenho certeza que <questGiver.pronoun.subject> vai superar isso."}, {"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/0", "value": "^cyan;Solitário. Eu decidi que eu se beneficiaria de um novo amigo - E você é a pessoa que pode me ajudar!"}, {"op": "replace", "path": "/scriptConfig/generatedText/goalText/glitch/1", "value": "^cyan;Introspectivo. Cheguei à conclusão de que um novo amigo me faria mais feliz. Você poderia me ajudar a atrair um?"}, {"op": "replace", "path": "/scriptConfig/generatedText/goalText/floran/1", "value": "^cyan;Floran quer maisss compania. Vamos fazer issso acontecer!"}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Entusiasmado. Finalmente, ^green;construa uma nova casa^white; e ^green;mobiliar ela^white; com seu ^orange;<furnitureSet>.^white; Não se esqueça de colocar um ^orange;Colony Deed!^orange;"}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Finalmente, ^green;faça uma casa e decore com ^orange;<furnitureSet>.^white;! Certifique-se de ^green;colocar uma ^orange;Colony deed,^white; também. Floran espera que novo amigo gosste de caçar..."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Agora ^green;faça uma casa e coloque ^orange;<furnitureSet>^white; nela, ^green;bem como uma ^orange;Colony Deed.^white; Floran espera que novo amigo goste de presentesss..."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Animado. Tudo que você precisa fazer agora é ^green;fazer uma casa^white; usando seu ^orange;<furnitureSet>, ^white;e uma ^orange;Colony Deed^white;! Eu vou estar fazendo um novo amigo em pouco tempo!"}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Emocionado. Eu tenho um novo amigo para se familiarizar - Tenho certeza de que vai ser um companheiro maravilhoso! Obrigado por fazer isso acontecer!"}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Funcionou! Floran tem um novo amigo brilhante. Floran agradece sua ajuda."}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "Você ajudou Floran encontrar um novo amigo! Floran é muito grato."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "Finalmente, ^green;coloque ^orange;<furnitureSet>^green; em uma casa.^white; Você confia que pode lidar com a construção. Lembre-se de ^green;colocar um ^orange;Colony Deed^white; quando você acabar!"}, {"op": "replace", "path": "/scriptConfig/generatedText/title/0", "value": "Um novo amigo para <questGiver>"}, {"op": "replace", "path": "/scriptConfig/generatedText/title/1", "value": "O novo amigo de <questGiver>"}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "Sucesso! Eu finalmente tenho um novo vizinho! Este lugar fica solitário às vezes, é bom ter pessoas para conversar."}]
+[
+  {
+    "op": "replace",
+    "value": "<count> <itemName>",
+    "path": "/scriptConfig/objectListText"
+  },
+  {
+    "op": "replace",
+    "value": "O novo amigo de <questGiver>",
+    "path": "/scriptConfig/generatedText/title/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um novo amigo para <questGiver>",
+    "path": "/scriptConfig/generatedText/title/0"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Eu estou sempre surpreso com o quão rápido novas casas são habitadas - Acho que há muita demanda lá fora! Obrigado pela ajuda.",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Entusiasmado. Finalmente, ^green;construa uma nova casa^white; e ^green;mobiliar ela^white; com seu ^orange;<furnitureSet>.^white; Não se esqueça de colocar um ^orange;Colony Deed!^orange;",
+    "path": "/scriptConfig/generatedText/text/default/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. Tudo que você precisa fazer agora é ^green;fazer uma casa^white; usando seu ^orange;<furnitureSet>, ^white;e uma ^orange;Colony Deed^white;! Eu vou estar fazendo um novo amigo em pouco tempo!",
+    "path": "/scriptConfig/generatedText/text/default/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Finalmente, ^green;faça uma casa e decore com ^orange;<furnitureSet>.^white;! Certifique-se de ^green;colocar uma ^orange;Colony deed,^white; também. Floran espera que novo amigo gosste de caçar...",
+    "path": "/scriptConfig/generatedText/text/default/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Finalmente, ^green;coloque ^orange;<furnitureSet>^green; em uma casa.^white; Você confia que pode lidar com a construção. Lembre-se de ^green;colocar um ^orange;Colony Deed^white; quando você acabar!",
+    "path": "/scriptConfig/generatedText/text/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu fui incapaz de ajudar <questGiver> a fazer um novo amigo. <questGiver.pronoun.capitalSubject> provavelmente tem bastantes amigos já.",
+    "path": "/scriptConfig/generatedText/failureText/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu fui incapaz de ajudar <questGiver> a fazer um novo amigo. Tenho certeza que <questGiver.pronoun.subject> vai superar isso.",
+    "path": "/scriptConfig/generatedText/failureText/1"
+  },
+  {
+    "op": "replace",
+    "value": "Funcionou! Floran tem um novo amigo brilhante. Floran agradece sua ajuda.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Agora ^green;faça uma casa e coloque ^orange;<furnitureSet>^white; nela, ^green;bem como uma ^orange;Colony Deed.^white; Floran espera que novo amigo goste de presentesss...",
+    "path": "/scriptConfig/generatedText/text/default/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Sucesso! Eu finalmente tenho um novo vizinho! Este lugar fica solitário às vezes, é bom ter pessoas para conversar.",
+    "path": "/scriptConfig/generatedText/completionText/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Emocionado. Eu tenho um novo amigo para se familiarizar - Tenho certeza de que vai ser um companheiro maravilhoso! Obrigado por fazer isso acontecer!",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Vaga preenchida! Isso não demorou muito! Obrigado por ajudar a expandir minha rede social!",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Reunimos todo o mobiliário, mas precisamos da casa em si! ^green;Construa uma casa e coloque o ^orange;<furnitureSet>^green; dentro.^white; Não se esqueça de colocar um ^orange;Colony Deed^white; também!",
+    "path": "/scriptConfig/generatedText/text/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você ajudou Floran encontrar um novo amigo! Floran é muito grato.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "^cyan;Floran acha que poderia ser bom ter um sangue fresco por aqui. Floran tem um plano!",
+    "path": "/scriptConfig/generatedText/goalText/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "^cyan;Floran quer maisss compania. Vamos fazer issso acontecer!",
+    "path": "/scriptConfig/generatedText/goalText/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "^cyan;Gosto de fazer amigos. Ajude-me a montar uma casa que irá atrair um novo vizinho!",
+    "path": "/scriptConfig/generatedText/goalText/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "^cyan;Estou sozinho e poderia ter alguém novo para conversar. Você poderia me ajudar a encontrar o amigo que eu estou procurando?",
+    "path": "/scriptConfig/generatedText/goalText/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "^cyan;Introspectivo. Cheguei à conclusão de que um novo amigo me faria mais feliz. Você poderia me ajudar a atrair um?",
+    "path": "/scriptConfig/generatedText/goalText/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "^cyan;Solitário. Eu decidi que eu se beneficiaria de um novo amigo - E você é a pessoa que pode me ajudar!",
+    "path": "/scriptConfig/generatedText/goalText/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "qualquer porta",
+    "path": "/scriptConfig/doorText"
+  },
+  {
+    "op": "replace",
+    "value": "qualquer fonte de luz",
+    "path": "/scriptConfig/lightSourceText"
+  },
+  {
+    "op": "replace",
+    "value": "1 Colony Deed",
+    "path": "/scriptConfig/objectives/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "Construa uma casa com:",
+    "path": "/scriptConfig/objectives/0/text"
+  }
+]

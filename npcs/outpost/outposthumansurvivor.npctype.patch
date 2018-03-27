@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/human/human/0", "value": "Toda a humanidade, espalhada por todo o universo... O que vamos fazer?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Eu escapei por pouco da Terra assim que foi destruida. Eu tenho sorte de estar aqui."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/0", "value": "Eu escapei por pouco da Terra assim que foi destruida. Eu tenho sorte de estar aqui."}]
+[
+  {
+    "op": "replace",
+    "value": "Toda a humanidade, espalhada por todo o universo... O que vamos fazer?",
+    "path": "/scriptConfig/dialog/converse/human/human/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu escapei por pouco da Terra assim que foi destruida. Eu tenho sorte de estar aqui.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu escapei por pouco da Terra assim que foi destruida. Eu tenho sorte de estar aqui.",
+    "path": "/scriptConfig/dialog/converse/human/default/0"
+  }
+]

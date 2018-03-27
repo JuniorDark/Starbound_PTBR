@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Um osso grotesco."}, {"op": "replace", "path": "/shortdescription", "value": "Um osso grotesco."}, {"op": "replace", "path": "/floranDescription", "value": "Ossos!"}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Um osso inclinado."}]
+[
+  {
+    "op": "replace",
+    "value": "Ossosss!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um osso grotesco.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um osso grotesco.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Um osso inclinado.",
+    "path": "/glitchDescription"
+  }
+]

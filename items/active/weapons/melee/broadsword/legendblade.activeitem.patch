@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Esta espada da lenda saiu de uma rocha."}, {"op": "replace", "path": "/shortdescription", "value": "Legend Sword"}]
+[
+  {
+    "op": "replace",
+    "value": "Legend Sword",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta espada da lenda saiu de uma rocha.",
+    "path": "/description"
+  }
+]

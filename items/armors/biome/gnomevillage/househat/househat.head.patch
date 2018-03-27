@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "House Hat"}, {"op": "replace", "path": "/description", "value": "Uma casa de gnomo - porque lar é onde o chapéu está."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma casa de gnomo - porque lar é onde o chapéu está.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "House Hat",
+    "path": "/shortdescription"
+  }
+]

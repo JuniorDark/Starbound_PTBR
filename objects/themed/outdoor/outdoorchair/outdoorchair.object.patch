@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma cadeira, construída para suportar os elementos."}, {"op": "replace", "path": "/shortdescription", "value": "Outdoor Chair"}, {"op": "replace", "path": "/hylotlDescription", "value": "Não tem estilo, mas é funcional pelo menos."}, {"op": "replace", "path": "/glitchDescription", "value": "Consolado. Uma cadeira, construída para suportar os elementos."}, {"op": "replace", "path": "/humanDescription", "value": "Uma cadeira ao ar livre. Para quando você quer se sentar lá fora."}, {"op": "replace", "path": "/avianDescription", "value": "Uma cadeira ao ar livre, eu me pergunto o quão confortável é?"}, {"op": "replace", "path": "/floranDescription", "value": "Cadeira externa."}, {"op": "replace", "path": "/apexDescription", "value": "Uma cadeira resistente. Parece que foi construída para durar."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma boa e velha cadeira."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira, construída para suportar os elementos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma boa e velha cadeira.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira resistente. Parece que foi construída para durar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira ao ar livre, eu me pergunto o quão confortável é?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira ao ar livre. Para quando você quer se sentar lá fora.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Consolado. Uma cadeira, construída para suportar os elementos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não tem estilo, mas é funcional pelo menos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Outdoor Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cadeira externa.",
+    "path": "/floranDescription"
+  }
+]

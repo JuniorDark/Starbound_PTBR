@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Decorative Holly"}, {"op": "replace", "path": "/floranDescription", "value": "Floran ama folha essspinhosa!"}, {"op": "replace", "path": "/apexDescription", "value": "Azevinho verde bonito. Espinhoso embora."}, {"op": "replace", "path": "/avianDescription", "value": "Esta planta espinhosa me faz sentir festivo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma planta afiada e espinhosa."}, {"op": "replace", "path": "/description", "value": "Nada como um pouco de azevinho para fazer você se sentir alegre!"}, {"op": "replace", "path": "/glitchDescription", "value": "Surpreso. Um ramo festivo de azevinho."}, {"op": "replace", "path": "/humanDescription", "value": "Um ramo de azevinho, me faz sentir quase nostálgico."}, {"op": "replace", "path": "/novakidDescription", "value": "É uma cor bastante boa, mas por que é tão espinhosa?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma planta afiada e espinhosa.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um ramo de azevinho, me faz sentir quase nostálgico.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Decorative Holly",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ama folha essspinhosa!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma cor bastante boa, mas por que é tão espinhosa?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nada como um pouco de azevinho para fazer você se sentir alegre!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Azevinho verde bonito. Espinhoso embora.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Um ramo festivo de azevinho.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta planta espinhosa me faz sentir festivo.",
+    "path": "/avianDescription"
+  }
+]

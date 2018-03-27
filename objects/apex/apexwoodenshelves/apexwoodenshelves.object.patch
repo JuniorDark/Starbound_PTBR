@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Estas prateleiras não têm nenhum caráter em tudo."}, {"op": "replace", "path": "/description", "value": "As prateleiras estão vazias."}, {"op": "replace", "path": "/shortdescription", "value": "Standard Issue Shelves"}, {"op": "replace", "path": "/floranDescription", "value": "Nada aqui para Floran, devo procurar em outro lugar."}, {"op": "replace", "path": "/glitchDescription", "value": "Entediado. Não há nada de interesse aqui."}, {"op": "replace", "path": "/humanDescription", "value": "Vazia... isso é triste."}, {"op": "replace", "path": "/apexDescription", "value": "Prateleiras vazias. Só esperando enfeites e lembranças."}, {"op": "replace", "path": "/novakidDescription", "value": "Estéril como um pedaço de rocha espacial."}, {"op": "replace", "path": "/avianDescription", "value": "Uma casa Avian é decorada com objetos que ajudam a evocar memórias agradáveis. Nenhuma dessas coisas aqui."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma casa Avian é decorada com objetos que ajudam a evocar memórias agradáveis. Nenhuma dessas coisas aqui.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estéril como um pedaço de rocha espacial.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Entediado. Não há nada de interesse aqui.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Prateleiras vazias. Só esperando enfeites e lembranças.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vazia... isso é triste.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nada aqui para Floran, devo procurar em outro lugar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Standard Issue Shelves",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "As prateleiras estão vazias.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estas prateleiras não têm nenhum caráter em tudo.",
+    "path": "/hylotlDescription"
+  }
+]

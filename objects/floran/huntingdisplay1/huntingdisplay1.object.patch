@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Mais uma vez, os Floran exibem orgulhosamente sua barbárie."}, {"op": "replace", "path": "/avianDescription", "value": "Uma arma robusta em exibição."}, {"op": "replace", "path": "/description", "value": "Uma lança Floran montada em uma placa decorativa."}, {"op": "replace", "path": "/floranDescription", "value": "Floran tem orgulho de suas armass de caça."}, {"op": "replace", "path": "/glitchDescription", "value": "Divertido. Glitch muitas vezes exibem armas em paredes, mas esta lança é de origem Floran."}, {"op": "replace", "path": "/apexDescription", "value": "Uma lança decorativa montada em uma placa."}, {"op": "replace", "path": "/humanDescription", "value": "Uma lança. Deve ser importante por ser exibida desta forma."}, {"op": "replace", "path": "/novakidDescription", "value": "Bem, essa lança não vai fazer muita coisa pendurada assim."}, {"op": "replace", "path": "/shortdescription", "value": "Spear on a Plaque"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lança Floran montada em uma placa decorativa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lança decorativa montada em uma placa.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lança. Deve ser importante por ser exibida desta forma.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma arma robusta em exibição.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Divertido. Glitch muitas vezes exibem armas em paredes, mas esta lança é de origem Floran.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran tem orgulho de suas armass de caça.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mais uma vez, os Floran exibem orgulhosamente sua barbárie.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Spear on a Plaque",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bem, essa lança não vai fazer muita coisa pendurada assim.",
+    "path": "/novakidDescription"
+  }
+]

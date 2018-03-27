@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Uma caixa de sssom alta."}, {"op": "replace", "path": "/description", "value": "Isto precisa de uma guitarra para acompanhar."}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Amp"}, {"op": "replace", "path": "/apexDescription", "value": "Um amplificador poderoso."}, {"op": "replace", "path": "/humanDescription", "value": "Um amplificador!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Um amplificador!"}, {"op": "replace", "path": "/novakidDescription", "value": "Um amplificador. Para amplificar."}, {"op": "replace", "path": "/avianDescription", "value": "Esta caixa está ligada à guitarra."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Um amplificador de boa qualidade. Alguém investiu muitos pixels nisso."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma caixa de sssom alta.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um amplificador poderoso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um amplificador!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um amplificador!",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um amplificador. Para amplificar.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Um amplificador de boa qualidade. Alguém investiu muitos pixels nisso.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Amp",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta caixa está ligada à guitarra.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto precisa de uma guitarra para acompanhar.",
+    "path": "/description"
+  }
+]

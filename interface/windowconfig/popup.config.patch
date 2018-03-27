@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/paneLayout/windowtitle/title", "value": "ATENÇÃO"}, {"op": "replace", "path": "/paneLayout/ok/caption", "value": "Ok"}]
+[
+  {
+    "op": "replace",
+    "value": "ATENÇÃO",
+    "path": "/paneLayout/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Ok",
+    "path": "/paneLayout/ok/caption"
+  }
+]

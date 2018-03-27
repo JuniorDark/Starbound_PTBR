@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Asssento."}, {"op": "replace", "path": "/description", "value": "Um banco básico."}, {"op": "replace", "path": "/humanDescription", "value": "Um banco."}, {"op": "replace", "path": "/shortdescription", "value": "Bench"}, {"op": "replace", "path": "/avianDescription", "value": "Um banco."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um banco simples."}, {"op": "replace", "path": "/novakidDescription", "value": "Um lugar simples para descansar as pernas cansadas."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Um banco."}, {"op": "replace", "path": "/apexDescription", "value": "Um banco simples."}]
+[
+  {
+    "op": "replace",
+    "value": "Um banco básico.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um banco.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um banco.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um banco simples.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um banco simples.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um lugar simples para descansar as pernas cansadas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bench",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Um banco.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Asssento.",
+    "path": "/floranDescription"
+  }
+]

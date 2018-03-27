@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Provando as partículas no ar, ele pode sentir o que está à sua frente."}, {"op": "replace", "path": "/shortdescription", "value": "Batong"}]
+[
+  {
+    "op": "replace",
+    "value": "Batong",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Provando as partículas no ar, ele pode sentir o que está à sua frente.",
+    "path": "/description"
+  }
+]

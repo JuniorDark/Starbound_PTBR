@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/description", "value": "Uma mensagem enviada pela Corporação Letheia em caso de um incidente."}, {"op": "replace", "path": "/title", "value": "Bloqueio de Emergência"}, {"op": "replace", "path": "/contentPages/0", "value": "Esta instalação foi colocada em bloqueio total de acordo com o procedimento Alpha1a: Despertar.\n\nUma forma de vida erchius foi despertada em sua instalação. Pedimos que os funcionários permaneçam calmos. Cartas serão enviadas para suas famílias agradecendo por seus serviços.\n\nEsperamos que você tenha um bom dia, \nA Corporação Letheia"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma mensagem enviada pela Corporação Letheia em caso de um incidente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bloqueio de Emergência",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Esta instalação foi colocada em bloqueio total de acordo com o procedimento Alpha1a: Despertar.\n\nUma forma de vida erchius foi despertada em sua instalação. Pedimos que os funcionários permaneçam calmos. Cartas serão enviadas para suas famílias agradecendo por seus serviços.\n\nEsperamos que você tenha um bom dia, \nA Corporação Letheia",
+    "path": "/contentPages/0"
+  }
+]

@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/description", "value": "Uma empresa familiar. Vende minérios refinados para fabricação."}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Esta loja fornece uma alternativa à mineração de materiais?"}, {"op": "replace", "path": "/apexDescription", "value": "É um urso... Que vende minérios?"}, {"op": "replace", "path": "/humanDescription", "value": "Ursos! Com uma loja! Que maravilhoso."}, {"op": "replace", "path": "/avianDescription", "value": "Esta loja parece fornecer uma alternativa à mineração para materiais cruciais."}, {"op": "replace", "path": "/hylotlDescription", "value": "Nunca vi um funcionário de loja que era tão... Peludo, antes."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "Vende minérios"}, {"op": "replace", "path": "/novakidDescription", "value": "Esta loja tem quase tanto caráter como as pessoas que executam ela."}, {"op": "replace", "path": "/shortdescription", "value": "Ursa Miner"}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Ursa Miner"}, {"op": "replace", "path": "/floranDescription", "value": "Floran quer lutar com besssta peluda da loja."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma empresa familiar. Vende minérios refinados para fabricação.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ursos! Com uma loja! Que maravilhoso.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran quer lutar com besssta peluda da loja.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nunca vi um funcionário de loja que era tão... Peludo, antes.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Esta loja fornece uma alternativa à mineração de materiais?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um urso... Que vende minérios?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta loja tem quase tanto caráter como as pessoas que executam ela.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta loja parece fornecer uma alternativa à mineração para materiais cruciais.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ursa Miner",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Ursa Miner",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vende minérios",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  }
+]

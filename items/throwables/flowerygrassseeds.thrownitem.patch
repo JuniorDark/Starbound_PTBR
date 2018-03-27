@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Jogue estas sementes em terra arada úmida para crescer grama florida!"}, {"op": "replace", "path": "/shortdescription", "value": "Flowery Grass Seeds"}]
+[
+  {
+    "op": "replace",
+    "value": "Flowery Grass Seeds",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Jogue estas sementes em terra arada úmida para crescer grama florida!",
+    "path": "/description"
+  }
+]

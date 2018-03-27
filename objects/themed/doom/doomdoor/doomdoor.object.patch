@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Essa porta é assustadora o suficiente para impedir que alguém tente entrar."}, {"op": "replace", "path": "/humanDescription", "value": "Uma porta bastante aterrorizante."}, {"op": "replace", "path": "/avianDescription", "value": "Uma porta muito estranha."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma porta robusta. Ela também tem um olho nela. Projeto estranho."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta porta está olhando para mim."}, {"op": "replace", "path": "/shortdescription", "value": "Doom Door"}, {"op": "replace", "path": "/floranDescription", "value": "Floran se esconde atrás da porta. Então a porta assusta Floran."}, {"op": "replace", "path": "/glitchDescription", "value": "Nervoso. Esta porta tem um olho nela."}, {"op": "replace", "path": "/description", "value": "Uma porta assustadora."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta assustadora.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta bastante aterrorizante.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta robusta. Ela também tem um olho nela. Projeto estranho.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta muito estranha.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Doom Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran se esconde atrás da porta. Então a porta assusta Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nervoso. Esta porta tem um olho nela.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa porta é assustadora o suficiente para impedir que alguém tente entrar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta está olhando para mim.",
+    "path": "/novakidDescription"
+  }
+]

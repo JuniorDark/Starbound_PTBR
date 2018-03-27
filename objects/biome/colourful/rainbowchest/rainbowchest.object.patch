@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Um baú bonito sem dúvida contém itens bonitos."}, {"op": "replace", "path": "/avianDescription", "value": "Um baú colorido. Mal posso esperar para ver o que há dentro."}, {"op": "replace", "path": "/floranDescription", "value": "Floran precisa ver dentro do baú bonito."}, {"op": "replace", "path": "/description", "value": "Um baú decorado com belas marcações arco-íris."}, {"op": "replace", "path": "/shortdescription", "value": "Rainbow Chest"}, {"op": "replace", "path": "/apexDescription", "value": "Um baú arco-íris. O conteúdo é certamente agradável."}, {"op": "replace", "path": "/humanDescription", "value": "Espero que haja um pote de ouro dentro."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um método tão bonito de armazenamento."}, {"op": "replace", "path": "/novakidDescription", "value": "Este é o baú no final do arco-íris?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um baú decorado com belas marcações arco-íris.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú colorido. Mal posso esperar para ver o que há dentro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú arco-íris. O conteúdo é certamente agradável.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran precisa ver dentro do baú bonito.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que haja um pote de ouro dentro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este é o baú no final do arco-íris?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Um baú bonito sem dúvida contém itens bonitos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rainbow Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um método tão bonito de armazenamento.",
+    "path": "/hylotlDescription"
+  }
+]

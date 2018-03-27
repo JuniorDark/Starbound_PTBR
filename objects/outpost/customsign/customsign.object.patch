@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Embora não tenha nenhuma comparação com a caligrafia Hylotl, ela vai servir por agora."}, {"op": "replace", "path": "/shortdescription", "value": "Sign"}, {"op": "replace", "path": "/glitchDescription", "value": "Pensativo. Uma placa é como uma interface primitiva."}, {"op": "replace", "path": "/apexDescription", "value": "Boa sinalização pública é uma obrigação para qualquer civilização."}, {"op": "replace", "path": "/avianDescription", "value": "O script original Avian está perdido por eras."}, {"op": "replace", "path": "/novakidDescription", "value": "Algum tipo de placa."}, {"op": "replace", "path": "/description", "value": "Uma placa personalizada."}, {"op": "replace", "path": "/floranDescription", "value": "Palavras palavras palavrasss."}, {"op": "replace", "path": "/humanDescription", "value": "Placas são para informações vitais, ou trocadilhos ruins."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma placa personalizada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Boa sinalização pública é uma obrigação para qualquer civilização.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pensativo. Uma placa é como uma interface primitiva.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Placas são para informações vitais, ou trocadilhos ruins.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de placa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O script original Avian está perdido por eras.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Embora não tenha nenhuma comparação com a caligrafia Hylotl, ela vai servir por agora.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Palavras palavras palavrasss.",
+    "path": "/floranDescription"
+  }
+]

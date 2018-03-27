@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma amostra de novos compostos biológicos e informação genética."}, {"op": "replace", "path": "/shortdescription", "value": "Bio Sample"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma amostra de novos compostos biológicos e informação genética.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bio Sample",
+    "path": "/shortdescription"
+  }
+]

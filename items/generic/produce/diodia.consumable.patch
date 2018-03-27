@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Diodia, tem gosto de cobre."}, {"op": "replace", "path": "/shortdescription", "value": "Diodia"}]
+[
+  {
+    "op": "replace",
+    "value": "Diodia",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Diodia, tem gosto de cobre.",
+    "path": "/description"
+  }
+]

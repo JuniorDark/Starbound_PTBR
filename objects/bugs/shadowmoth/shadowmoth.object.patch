@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Shadowmoth"}, {"op": "replace", "path": "/description", "value": "Difícil de detectar, esses insetos são tão negros como a noite."}]
+[
+  {
+    "op": "replace",
+    "value": "Difícil de detectar, esses insetos são tão negros como a noite.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Shadowmoth",
+    "path": "/shortdescription"
+  }
+]

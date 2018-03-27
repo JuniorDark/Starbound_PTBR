@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Por que sssalvar as bananas nojentas? Só comer zombies!"}, {"op": "replace", "path": "/description", "value": "Esta máquina tem um jogo chamado 'Zombie Banana Mansion'."}, {"op": "replace", "path": "/hylotlDescription", "value": "Eu entendo o desejo de proteger a casa, mas eu acho Zombie Banana Mansion excessivamente violento."}, {"op": "replace", "path": "/novakidDescription", "value": "Zombie Banana Mansion? Já chega de jogos de zumbi, verdade seja dita."}, {"op": "replace", "path": "/shortdescription", "value": "Yellow Arcade Machine"}, {"op": "replace", "path": "/glitchDescription", "value": "Perturbado. As criaturas em Zombie Banana Mansion existem na realidade?"}, {"op": "replace", "path": "/apexDescription", "value": "Zombie Banana Mansion é um jogo clássico Apex! Ele me aterrorizou quando eu era jovem."}, {"op": "replace", "path": "/humanDescription", "value": "Zombie Banana Mansion. Deixe para os Apex fazer a preservação de bananas sua maior prioridade."}, {"op": "replace", "path": "/avianDescription", "value": "Zombie Banana Mansion-- você deve atirar em todos os zumbis para preservar o estoque de bananas de sua mansão. Conceito interessante."}]
+[
+  {
+    "op": "replace",
+    "value": "Perturbado. As criaturas em Zombie Banana Mansion existem na realidade?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu entendo o desejo de proteger a casa, mas eu acho Zombie Banana Mansion excessivamente violento.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta máquina tem um jogo chamado 'Zombie Banana Mansion'.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Por que sssalvar as bananas nojentas? Só comer zombies!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Yellow Arcade Machine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Zombie Banana Mansion é um jogo clássico Apex! Ele me aterrorizou quando eu era jovem.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Zombie Banana Mansion-- você deve atirar em todos os zumbis para preservar o estoque de bananas de sua mansão. Conceito interessante.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Zombie Banana Mansion. Deixe para os Apex fazer a preservação de bananas sua maior prioridade.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Zombie Banana Mansion? Já chega de jogos de zumbi, verdade seja dita.",
+    "path": "/novakidDescription"
+  }
+]

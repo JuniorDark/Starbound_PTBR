@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Decorada com material da presa caçada. Um bom caçador faz uso de todas as partes que podem."}, {"op": "replace", "path": "/shortdescription", "value": "Survivalist Legs"}]
+[
+  {
+    "op": "replace",
+    "value": "Decorada com material da presa caçada. Um bom caçador faz uso de todas as partes que podem.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Survivalist Legs",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Tecnologia Suficientemente Avançada."}, {"op": "replace", "path": "/shortdescription", "value": "Rare Wand"}]
+[
+  {
+    "op": "replace",
+    "value": "Tecnologia Suficientemente Avançada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Rare Wand",
+    "path": "/shortdescription"
+  }
+]

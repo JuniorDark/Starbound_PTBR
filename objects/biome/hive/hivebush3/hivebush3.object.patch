@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Curioso. Estes parecem ser ovos de uma espécie nativa deste bioma."}, {"op": "replace", "path": "/apexDescription", "value": "Estes devem ser ovos de uma espécie nativa deste lugar."}, {"op": "replace", "path": "/humanDescription", "value": "Isso são ovos? Eles não se parecem com ovos que eu quero comer."}, {"op": "replace", "path": "/avianDescription", "value": "Estes parecem ser ovos. Certamente não meus ovos, embora."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esses são alguns ovos assustadoramente grandes..."}, {"op": "replace", "path": "/description", "value": "Algum tipo de ovos."}, {"op": "replace", "path": "/shortdescription", "value": "Hive Eggs"}, {"op": "replace", "path": "/floranDescription", "value": "Mmmm, ovosss."}, {"op": "replace", "path": "/novakidDescription", "value": "Olha o tamanho desses ovos!"}]
+[
+  {
+    "op": "replace",
+    "value": "Isso são ovos? Eles não se parecem com ovos que eu quero comer.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Estes parecem ser ovos de uma espécie nativa deste bioma.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hive Eggs",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mmmm, ovosss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de ovos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estes parecem ser ovos. Certamente não meus ovos, embora.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes devem ser ovos de uma espécie nativa deste lugar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esses são alguns ovos assustadoramente grandes...",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Olha o tamanho desses ovos!",
+    "path": "/novakidDescription"
+  }
+]

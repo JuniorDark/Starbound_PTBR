@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Huge Ornate Bookcase"}, {"op": "replace", "path": "/floranDescription", "value": "Prateleirasss boas para escalar."}, {"op": "replace", "path": "/description", "value": "Uma estante gigantesca cheia de livros."}, {"op": "replace", "path": "/glitchDescription", "value": "Espantado. Há precisamente 25.068 livros nesta estante."}, {"op": "replace", "path": "/apexDescription", "value": "O proprietário original disso deve ter documentado absolutamente tudo."}, {"op": "replace", "path": "/humanDescription", "value": "Não reconheço nem um desses títulos."}, {"op": "replace", "path": "/avianDescription", "value": "Sobre o que todos esses livros poderiam ser?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Que maravilhas se pode encontrar entre estes tomos."}, {"op": "replace", "path": "/novakidDescription", "value": "Livros em abundância!"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estante gigantesca cheia de livros.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Espantado. Há precisamente 25.068 livros nesta estante.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Livros em abundância!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Huge Ornate Bookcase",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não reconheço nem um desses títulos.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Prateleirasss boas para escalar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O proprietário original disso deve ter documentado absolutamente tudo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sobre o que todos esses livros poderiam ser?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que maravilhas se pode encontrar entre estes tomos.",
+    "path": "/hylotlDescription"
+  }
+]

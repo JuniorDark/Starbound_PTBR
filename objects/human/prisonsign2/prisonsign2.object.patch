@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Neutro. Uma placa para o refeitório."}, {"op": "replace", "path": "/humanDescription", "value": "A idéia de visitar um refeitório me enche de pavor existencial. Não sei por quê. Não consigo explicar."}, {"op": "replace", "path": "/avianDescription", "value": "Uma placa que aponta para um tipo de sala de jantar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma placa que aponta para um tipo de sala de jantar."}, {"op": "replace", "path": "/shortdescription", "value": "Mess Hall Sign"}, {"op": "replace", "path": "/apexDescription", "value": "Refeitório. Talvez haja comida além disso."}, {"op": "replace", "path": "/description", "value": "A placa diz, \"Refeitório\"."}, {"op": "replace", "path": "/floranDescription", "value": "Placa aponta para sssala de jantar."}, {"op": "replace", "path": "/novakidDescription", "value": "Um refeitório? Suponho que os detentos também precisam de comida."}]
+[
+  {
+    "op": "replace",
+    "value": "Um refeitório? Suponho que os detentos também precisam de comida.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa que aponta para um tipo de sala de jantar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mess Hall Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Refeitório. Talvez haja comida além disso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Placa aponta para sssala de jantar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Uma placa para o refeitório.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A idéia de visitar um refeitório me enche de pavor existencial. Não sei por quê. Não consigo explicar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A placa diz, \"Refeitório\".",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma placa que aponta para um tipo de sala de jantar.",
+    "path": "/hylotlDescription"
+  }
+]

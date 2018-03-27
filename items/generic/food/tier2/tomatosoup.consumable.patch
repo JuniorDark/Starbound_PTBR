@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma sopa feita de tomates maduros."}, {"op": "replace", "path": "/shortdescription", "value": "Tomato Soup"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma sopa feita de tomates maduros.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Tomato Soup",
+    "path": "/shortdescription"
+  }
+]

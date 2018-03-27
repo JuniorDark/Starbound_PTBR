@@ -1,1 +1,67 @@
-[{"op": "replace", "path": "/charGenTextLabels/4", "value": "CHAPÉU"}, {"op": "replace", "path": "/charGenTextLabels/0", "value": "ESTAMPA"}, {"op": "replace", "path": "/charGenTextLabels/1", "value": "COR 1"}, {"op": "replace", "path": "/charGenTextLabels/2", "value": "COR 2"}, {"op": "replace", "path": "/charGenTextLabels/3", "value": "COR DO BICO"}, {"op": "replace", "path": "/charGenTextLabels/6", "value": "CAMISA"}, {"op": "replace", "path": "/charGenTextLabels/7", "value": "COR DA CAMISA"}, {"op": "replace", "path": "/charGenTextLabels/8", "value": "PENGUIM"}, {"op": "replace", "path": "/charGenTextLabels/9", "value": "PERSONALIDADE"}, {"op": "replace", "path": "/charGenTextLabels/5", "value": "COR DO CHAPÉU"}, {"op": "replace", "path": "/charCreationTooltip/description", "value": "Sem ideia do que colocar aqui"}, {"op": "replace", "path": "/charCreationTooltip/title", "value": "Penguin"}]
+[
+  {
+    "op": "replace",
+    "value": "COR DO BICO",
+    "path": "/charGenTextLabels/3"
+  },
+  {
+    "op": "replace",
+    "value": "COR 1",
+    "path": "/charGenTextLabels/1"
+  },
+  {
+    "op": "replace",
+    "value": "COR 2",
+    "path": "/charGenTextLabels/2"
+  },
+  {
+    "op": "replace",
+    "value": "CHAPÉU",
+    "path": "/charGenTextLabels/4"
+  },
+  {
+    "op": "replace",
+    "value": "COR DO CHAPÉU",
+    "path": "/charGenTextLabels/5"
+  },
+  {
+    "op": "replace",
+    "value": "Como você está lendo isso?",
+    "path": "/charCreationTooltip/subTitle"
+  },
+  {
+    "op": "replace",
+    "value": "Sem ideia do que colocar aqui",
+    "path": "/charCreationTooltip/description"
+  },
+  {
+    "op": "replace",
+    "value": "PADRÃO",
+    "path": "/charGenTextLabels/0"
+  },
+  {
+    "op": "replace",
+    "value": "PENGUIM",
+    "path": "/charGenTextLabels/8"
+  },
+  {
+    "op": "replace",
+    "value": "Penguin",
+    "path": "/charCreationTooltip/title"
+  },
+  {
+    "op": "replace",
+    "value": "PERSONALIDADE",
+    "path": "/charGenTextLabels/9"
+  },
+  {
+    "op": "replace",
+    "value": "CAMISA",
+    "path": "/charGenTextLabels/6"
+  },
+  {
+    "op": "replace",
+    "value": "COR DA CAMISA",
+    "path": "/charGenTextLabels/7"
+  }
+]

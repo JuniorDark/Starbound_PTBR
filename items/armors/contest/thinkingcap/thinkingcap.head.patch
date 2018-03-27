@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Thinking Cap"}, {"op": "replace", "path": "/description", "value": "Quanto mais você usá-lo, mais inteligente você se sente!"}]
+[
+  {
+    "op": "replace",
+    "value": "Quanto mais você usá-lo, mais inteligente você se sente!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Thinking Cap",
+    "path": "/shortdescription"
+  }
+]

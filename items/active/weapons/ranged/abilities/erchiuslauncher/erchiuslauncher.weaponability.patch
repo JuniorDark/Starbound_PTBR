@@ -1,7 +1,7 @@
 [
   {
     "op": "replace",
-    "path": "/ability/name",
-    "value": "Lançador de Erchius"
+    "value": "Lançador de Erchius",
+    "path": "/ability/name"
   }
 ]

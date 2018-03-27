@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Arrogante. Se eu tivesse músculos nas costas, isso certamente os prejudicaria."}, {"op": "replace", "path": "/shortdescription", "value": "Stone Chair"}, {"op": "replace", "path": "/description", "value": "Uma cadeira feita de pedregulho."}, {"op": "replace", "path": "/apexDescription", "value": "Mais confortável que as cadeiras que os Apex usam durante interrogatórios."}, {"op": "replace", "path": "/floranDescription", "value": "Cadeira de pedra machuca costasss de Floran."}, {"op": "replace", "path": "/humanDescription", "value": "Isso não parece nada confortável."}, {"op": "replace", "path": "/hylotlDescription", "value": "Seria difícil meditar aqui."}, {"op": "replace", "path": "/avianDescription", "value": "Artesanato pobre."}, {"op": "replace", "path": "/novakidDescription", "value": "Não é minha cadeira preferida."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira feita de pedregulho.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Seria difícil meditar aqui.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mais confortável que as cadeiras que os Apex usam durante interrogatórios.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não é minha cadeira preferida.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Artesanato pobre.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Arrogante. Se eu tivesse músculos nas costas, isso certamente os prejudicaria.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cadeira de pedra machuca costasss de Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Stone Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso não parece nada confortável.",
+    "path": "/humanDescription"
+  }
+]

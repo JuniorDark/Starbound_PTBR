@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma cadeira de balanço antiga, esculpida à mão."}, {"op": "replace", "path": "/shortdescription", "value": "Cabin Chair"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta do cheiro de madeira da cadeira curvilínea."}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. Uma cadeira que não fica parada deve estar tonta."}, {"op": "replace", "path": "/apexDescription", "value": "Acho que prefiro que meus móveis fiquem parados."}, {"op": "replace", "path": "/humanDescription", "value": "Me faz querer balançar para a frente e para trás enquanto tocando banjo."}, {"op": "replace", "path": "/avianDescription", "value": "Mobiliá esculpida a mão! Eu posso apreciar isso."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta é um das cadeiras de madeira mais agradáveis que eu já vi."}, {"op": "replace", "path": "/novakidDescription", "value": "Cadeiras de balanço - Ainda melhor do que cadeiras de pé."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira de balanço antiga, esculpida à mão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cabin Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta do cheiro de madeira da cadeira curvilínea.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mobiliá esculpida a mão! Eu posso apreciar isso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Acho que prefiro que meus móveis fiquem parados.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me faz querer balançar para a frente e para trás enquanto tocando banjo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cadeiras de balanço - Ainda melhor do que cadeiras de pé.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é um das cadeiras de madeira mais agradáveis que eu já vi.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Uma cadeira que não fica parada deve estar tonta.",
+    "path": "/glitchDescription"
+  }
+]

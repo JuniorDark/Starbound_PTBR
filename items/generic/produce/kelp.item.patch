@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Alga mole e viscosa."}, {"op": "replace", "path": "/shortdescription", "value": "Kelp"}]
+[
+  {
+    "op": "replace",
+    "value": "Kelp",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alga mole e viscosa.",
+    "path": "/description"
+  }
+]

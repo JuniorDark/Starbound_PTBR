@@ -1,1 +1,72 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/0", "value": "Esperançoso. Você gostaria de comprar algumas das minhas invenções? Por favor?"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/1", "value": "Desesperado. Eu realmente preciso que alguém compre minhas invenções..."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/welcome/default/default/0", "value": "Satisfeito. Agora você pode dar uma olhada em minhas invenções!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/2", "value": "Ansioso. Você quer dar uma olhada em minhas invenções?"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/3", "value": "Acolhedor. Você deve ver que invenções eu tenho para oferecer!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/welcome/default/default/1", "value": "Ansioso. Agora você pode dar uma olhada nas invenções que eu preciso vender!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/welcome/default/default/2", "value": "Animado. Finalmente, um cliente que possa comprar minhas invenções!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/0", "value": "Em pânico. Por favor, não se esqueça de vir e visitar novamente!"}, {"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title", "value": "Inventor"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/1", "value": "Preocupado. Não se esqueça de voltar."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/2", "value": "Ansioso. Volte novamente!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/3", "value": "Ansioso. Por favor, volte, se você precisa de mais alguma coisa."}, {"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle", "value": "Vende curiosidades artesanais"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/4", "value": "Tenso. Eu espero que você gosta de meus produtos. Eu espero que você volte!"}]
+[
+  {
+    "op": "replace",
+    "value": "Inventor",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Vende curiosidades artesanais",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. Por favor, volte, se você precisa de mais alguma coisa.",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Desesperado. Eu realmente preciso que alguém compre minhas invenções...",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. Volte novamente!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. Você quer dar uma olhada em minhas invenções?",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. Agora você pode dar uma olhada nas invenções que eu preciso vender!",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. Finalmente, um cliente que possa comprar minhas invenções!",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Esperançoso. Você gostaria de comprar algumas das minhas invenções? Por favor?",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Em pânico. Por favor, não se esqueça de vir e visitar novamente!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Agora você pode dar uma olhada em minhas invenções!",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Tenso. Eu espero que você gosta de meus produtos. Eu espero que você volte!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Acolhedor. Você deve ver que invenções eu tenho para oferecer!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Não se esqueça de voltar.",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/1"
+  }
+]

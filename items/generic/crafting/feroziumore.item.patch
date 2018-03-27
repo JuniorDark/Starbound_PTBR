@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Minério de ferozium. Pode ser refinado."}, {"op": "replace", "path": "/shortdescription", "value": "Ferozium Ore"}]
+[
+  {
+    "op": "replace",
+    "value": "Ferozium Ore",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Minério de ferozium. Pode ser refinado.",
+    "path": "/description"
+  }
+]

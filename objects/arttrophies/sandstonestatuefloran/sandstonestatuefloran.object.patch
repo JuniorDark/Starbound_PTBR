@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Apesar do semblante pedregoso, este Floran parece mais amigável do que o habitual."}, {"op": "replace", "path": "/floranDescription", "value": "Greenfinger. Floran Especial. Cheira engraçado."}, {"op": "replace", "path": "/glitchDescription", "value": "Hipotético. Acredito que esta estátua representa um grande líder Floran."}, {"op": "replace", "path": "/apexDescription", "value": "Um Floran de aparência suave. Intimidador."}, {"op": "replace", "path": "/humanDescription", "value": "Um Floran adorável. Isso é algo que eu nunca pensei que eu diria."}, {"op": "replace", "path": "/hylotlDescription", "value": "A pedra em branco da estátua retrata adequadamente os olhos frios e mortos do Floran."}, {"op": "replace", "path": "/novakidDescription", "value": "Esculpir essas folhas aqui deve ter sido um trabalho difícil."}, {"op": "replace", "path": "/description", "value": "Uma estátua de um Floran. Não vai te esfaquear... provavelmente."}, {"op": "replace", "path": "/shortdescription", "value": "Floran Sandstone Statue"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estátua de um Floran. Não vai te esfaquear... provavelmente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um Floran de aparência suave. Intimidador.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um Floran adorável. Isso é algo que eu nunca pensei que eu diria.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esculpir essas folhas aqui deve ter sido um trabalho difícil.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apesar do semblante pedregoso, este Floran parece mais amigável do que o habitual.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran Sandstone Statue",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Greenfinger. Floran Especial. Cheira engraçado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hipotético. Acredito que esta estátua representa um grande líder Floran.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A pedra em branco da estátua retrata adequadamente os olhos frios e mortos do Floran.",
+    "path": "/hylotlDescription"
+  }
+]

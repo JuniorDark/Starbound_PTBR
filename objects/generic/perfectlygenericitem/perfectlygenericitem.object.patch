@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "É um item perfeitamente genérico, talvez um pouco perfeito demais."}, {"op": "replace", "path": "/shortdescription", "value": "Perfectly Generic Item"}, {"op": "replace", "path": "/floranDescription", "value": "Cubo perfeito não é natural."}, {"op": "replace", "path": "/glitchDescription", "value": "Perturbado. Um objeto sem imperfeições físicas."}, {"op": "replace", "path": "/apexDescription", "value": "Há algo sobre este objeto."}, {"op": "replace", "path": "/humanDescription", "value": "O que há de especial em um cubo perfeitamente em forma de cubo?"}, {"op": "replace", "path": "/avianDescription", "value": "Nunca antes tinha visto um objeto tão perfeitamente simétrico."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este cubo encarna a perfeição geométrica."}, {"op": "replace", "path": "/novakidDescription", "value": "Não há muito o que dizer. A perfeição é tediosa!"}]
+[
+  {
+    "op": "replace",
+    "value": "Perturbado. Um objeto sem imperfeições físicas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um item perfeitamente genérico, talvez um pouco perfeito demais.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Nunca antes tinha visto um objeto tão perfeitamente simétrico.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cubo perfeito não é natural.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Perfectly Generic Item",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não há muito o que dizer. A perfeição é tediosa!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há algo sobre este objeto.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este cubo encarna a perfeição geométrica.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que há de especial em um cubo perfeitamente em forma de cubo?",
+    "path": "/humanDescription"
+  }
+]

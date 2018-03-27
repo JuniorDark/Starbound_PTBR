@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um módulo de EPP que pode refletir o dano recebido de volta para inimigos próximos."}, {"op": "replace", "path": "/shortdescription", "value": "Thorns Augment"}]
+[
+  {
+    "op": "replace",
+    "value": "Um módulo de EPP que pode refletir o dano recebido de volta para inimigos próximos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Thorns Augment",
+    "path": "/shortdescription"
+  }
+]

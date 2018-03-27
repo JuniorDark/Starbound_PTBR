@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Uma pedra sólida preenchida com pequenos cristais de geodo."}, {"op": "replace", "path": "/shortdescription", "value": "Geode Stone"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pedra sólida preenchida com pequenos cristais de geodo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de cristais minúsculos em pedra geodo.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Geode Stone",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Existem minúsculos cristais de geodo dentro desta pedra.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta pedra está cheia de minúsculos cristais de geodo.",
+    "path": "/novakiddescription"
+  }
+]

@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Ossos pendurados."}, {"op": "replace", "path": "/floranDescription", "value": "Ossosss"}, {"op": "replace", "path": "/description", "value": "Ossos pendurados."}, {"op": "replace", "path": "/glitchDescription", "value": "Declaração. Ossos pendurados."}]
+[
+  {
+    "op": "replace",
+    "value": "Ossosss",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ossos pendurados.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ossos pendurados.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Declaração. Ossos pendurados.",
+    "path": "/glitchDescription"
+  }
+]

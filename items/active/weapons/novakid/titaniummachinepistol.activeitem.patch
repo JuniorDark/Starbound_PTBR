@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Titanium Machine Pistol"}, {"op": "replace", "path": "/description", "value": "Um revólver grande que da um coice e tanto."}]
+[
+  {
+    "op": "replace",
+    "value": "Um revólver grande que da um coice e tanto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Titanium Machine Pistol",
+    "path": "/shortdescription"
+  }
+]

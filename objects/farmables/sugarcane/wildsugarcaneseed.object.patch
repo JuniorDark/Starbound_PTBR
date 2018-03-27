@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Sugarcane Seed"}, {"op": "replace", "path": "/floranDescription", "value": "Cana doce."}, {"op": "replace", "path": "/glitchDescription", "value": "Ponderoso. Esta planta é afiada, e potencialmente mortal nas mãos certas."}, {"op": "replace", "path": "/apexDescription", "value": "Roer cana é bom para os dentes Apex, é o que dizem."}, {"op": "replace", "path": "/humanDescription", "value": "Cana de açúcar. Não coma demais, é ruim para os dentes."}, {"op": "replace", "path": "/hylotlDescription", "value": "Pode ser usada para criar adoçante, embora por que alguém iria querer isto além dos Hylotl."}, {"op": "replace", "path": "/description", "value": "A cana de açúcar é uma planta fibrosa com uma rica seiva doce."}, {"op": "replace", "path": "/avianDescription", "value": "O açúcar pode ser usado para melhorar sabores."}, {"op": "replace", "path": "/novakidDescription", "value": "Doce como açúcar. Espere um minuto..."}]
+[
+  {
+    "op": "replace",
+    "value": "Pode ser usada para criar adoçante, embora por que alguém iria querer isto além dos Hylotl.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Roer cana é bom para os dentes Apex, é o que dizem.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ponderoso. Esta planta é afiada, e potencialmente mortal nas mãos certas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cana doce.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O açúcar pode ser usado para melhorar sabores.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sugarcane Seed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A cana de açúcar é uma planta fibrosa com uma rica seiva doce.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cana de açúcar. Não coma demais, é ruim para os dentes.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Doce como açúcar. Espere um minuto...",
+    "path": "/novakidDescription"
+  }
+]

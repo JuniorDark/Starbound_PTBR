@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um revólver grande que da um coice e tanto."}, {"op": "replace", "path": "/shortdescription", "value": "Tungsten Magnum"}]
+[
+  {
+    "op": "replace",
+    "value": "Um revólver grande que da um coice e tanto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Tungsten Magnum",
+    "path": "/shortdescription"
+  }
+]

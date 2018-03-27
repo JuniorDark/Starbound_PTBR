@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Fake Condor License"}, {"op": "replace", "path": "/description", "value": "Permite você atualizar permanentemente o tamanho da sua nave."}]
+[
+  {
+    "op": "replace",
+    "value": "Fake Condor License",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Permite você atualizar permanentemente o tamanho da sua nave.",
+    "path": "/description"
+  }
+]

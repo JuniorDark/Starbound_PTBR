@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Lightbulb"}, {"op": "replace", "path": "/floranDescription", "value": "Brilhante!"}, {"op": "replace", "path": "/apexDescription", "value": "Uma lâmpada."}, {"op": "replace", "path": "/avianDescription", "value": "Luz!"}, {"op": "replace", "path": "/description", "value": "Uma lâmpada pendurada em uma haste de metal no teto."}, {"op": "replace", "path": "/glitchDescription", "value": "Compassivo. Eu desejo doar esta lâmpada para um abajur."}, {"op": "replace", "path": "/humanDescription", "value": "Um dispositivo deprimente."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma luz não decorada."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma lâmpada solitária."}]
+[
+  {
+    "op": "replace",
+    "value": "Lightbulb",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada pendurada em uma haste de metal no teto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um dispositivo deprimente.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada solitária.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz não decorada.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Brilhante!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Compassivo. Eu desejo doar esta lâmpada para um abajur.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luz!",
+    "path": "/avianDescription"
+  }
+]

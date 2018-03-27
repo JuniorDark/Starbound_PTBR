@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Espero que esta porta me leve de volta à realidade!"}, {"op": "replace", "path": "/shortdescription", "value": "Challenge Door"}, {"op": "replace", "path": "/floranDescription", "value": "Floran acha que essa é a porta de saída."}, {"op": "replace", "path": "/glitchDescription", "value": "Esperançoso. Certamente, este deve ser o caminho para sair daqui."}, {"op": "replace", "path": "/apexDescription", "value": "Essa porta deve ser a saída."}, {"op": "replace", "path": "/humanDescription", "value": "Espero que esta porta me leve de volta à realidade!"}, {"op": "replace", "path": "/avianDescription", "value": "Graças a Kluex. Eu acredito que esta deve ser a minha saída."}, {"op": "replace", "path": "/hylotlDescription", "value": "Tudo o que tem um começo deve chegar ao fim. É hora de eu sair deste lugar."}, {"op": "replace", "path": "/novakidDescription", "value": "Hora de eu sair deste lugar."}]
+[
+  {
+    "op": "replace",
+    "value": "Tudo o que tem um começo deve chegar ao fim. É hora de eu sair deste lugar.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran acha que essa é a porta de saída.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esperançoso. Certamente, este deve ser o caminho para sair daqui.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que esta porta me leve de volta à realidade!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que esta porta me leve de volta à realidade!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Graças a Kluex. Eu acredito que esta deve ser a minha saída.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa porta deve ser a saída.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hora de eu sair deste lugar.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Challenge Door",
+    "path": "/shortdescription"
+  }
+]

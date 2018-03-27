@@ -1,22 +1,22 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Escritos históricos sobre como a raça Hylotl foi reconstruída após o ataque Floran."
+    "value": "Escritos históricos sobre como a raça Hylotl foi reconstruída após o ataque Floran.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/title",
-    "value": "Nós Que Sobrevivemos"
+    "value": "Nosso senso inato de harmonia com o universo é um poço do qual todos os Hylotl tiram força e inspiração. Mesmo na nossa hora mais sombria, o artesanato Hylotl se manteve inigualável na forma e função. Uma civilização próspera renasceu das profundezas do oceano.\n\nAs cidadelas em espiral agora ostentam palácios imponentes com jardins abundantes, grandes empórios de comércio e entretenimento, e no coração de cada um uma biblioteca imensa.",
+    "path": "/contentPages/0"
   },
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "Nosso senso inato de harmonia com o universo é um poço do qual todos os Hylotl tiram força e inspiração. Mesmo na nossa hora mais sombria, o artesanato Hylotl se manteve inigualável na forma e função. Uma civilização próspera renasceu das profundezas do oceano.\n\nAs cidadelas em espiral agora ostentam palácios imponentes com jardins abundantes, grandes empórios de comércio e entretenimento, e no coração de cada um uma biblioteca imensa."
+    "value": "Desta vez, um fio de premeditação foi tecido em nossa cultura moderna - para proteger e defender nosso modo de vida com honra e graça.\n\nO guerreiro Hylotl é como o oceano, calmo a menos que enfurecido, enquando ao mesmo tempo, eles se tornam um tsunami.",
+    "path": "/contentPages/1"
   },
   {
     "op": "replace",
-    "path": "/contentPages/1",
-    "value": "Desta vez, um fio de premeditação foi tecido em nossa cultura moderna - para proteger e defender nosso modo de vida com honra e graça.\n\nO guerreiro Hylotl é como o oceano, calmo a menos que enfurecido, enquando ao mesmo tempo, eles se tornam um tsunami."
+    "value": "Nós Que Sobrevivemos",
+    "path": "/title"
   }
 ]

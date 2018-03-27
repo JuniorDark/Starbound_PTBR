@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/description", "value": "Gere seu próprio aldeão Avian!"}, {"op": "replace", "path": "/shortdescription", "value": "Avian Spawner"}, {"op": "replace", "path": "/floranDescription", "value": "Floran traz homem-pássaro para Floran!"}, {"op": "replace", "path": "/glitchDescription", "value": "Pensativo. O que Kluex pensaria sobre isso?"}, {"op": "replace", "path": "/apexDescription", "value": "Eu poderia gerar alguns amigos Avian."}, {"op": "replace", "path": "/humanDescription", "value": "Maneiro, eu poderia invocar um exército de pássaros."}, {"op": "replace", "path": "/avianDescription", "value": "Talvez eu possa usar isso para invocar um colega Grounded."}, {"op": "replace", "path": "/hylotlDescription", "value": "Suponho que invocar um Avian seria ok."}]
+[
+  {
+    "op": "replace",
+    "value": "Avian Spawner",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran traz homem-pássaro para Floran!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu poderia gerar alguns amigos Avian.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Suponho que invocar um Avian seria ok.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Maneiro, eu poderia invocar um exército de pássaros.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez eu possa usar isso para invocar um colega Grounded.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pensativo. O que Kluex pensaria sobre isso?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gere seu próprio aldeão Avian!",
+    "path": "/description"
+  }
+]

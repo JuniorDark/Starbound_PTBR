@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Claw Glove"}, {"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Claw Glove ^yellow;^reset;"}, {"op": "replace", "path": "/description", "value": "Não é de adamantium, mas ainda é legal."}]
+[
+  {
+    "op": "replace",
+    "value": "Claw Glove",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Claw Glove ^yellow;^reset;",
+    "path": "/upgradeParameters/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não é de adamantium, mas ainda é legal.",
+    "path": "/description"
+  }
+]

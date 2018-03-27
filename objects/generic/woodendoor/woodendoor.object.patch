@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma porta de madeira bruta. Não é muito segura."}, {"op": "replace", "path": "/shortdescription", "value": "Wooden Door"}, {"op": "replace", "path": "/apexDescription", "value": "Uma porta de madeira básica."}, {"op": "replace", "path": "/humanDescription", "value": "O tipo de porta que você esperaria ver em uma casa de campo."}, {"op": "replace", "path": "/glitchDescription", "value": "Alegre. Parece ser uma porta feita à mão."}, {"op": "replace", "path": "/avianDescription", "value": "Uma porta de madeira feita à mão."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma porta de madeira humilde."}, {"op": "replace", "path": "/novakidDescription", "value": "Meio rústica, mas serve."}, {"op": "replace", "path": "/floranDescription", "value": "Floran também faz porta de madeira semelhante."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta de madeira bruta. Não é muito segura.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta de madeira feita à mão.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alegre. Parece ser uma porta feita à mão.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran também faz porta de madeira semelhante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Meio rústica, mas serve.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O tipo de porta que você esperaria ver em uma casa de campo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wooden Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta de madeira básica.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta de madeira humilde.",
+    "path": "/hylotlDescription"
+  }
+]

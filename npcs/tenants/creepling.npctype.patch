@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/1", "value": "Você gosta de minha roupa? É muito... Eu."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/2", "value": "Essa roupa não costumava ser uma criatura real... Honesto."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/0", "value": "Isso é uma roupa, Eu juro."}]
+[
+  {
+    "op": "replace",
+    "value": "Você gosta de minha roupa? É muito... Eu.",
+    "path": "/scriptConfig/dialog/converse/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é uma roupa, Eu juro.",
+    "path": "/scriptConfig/dialog/converse/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Essa roupa não costumava ser uma criatura real... Honesto.",
+    "path": "/scriptConfig/dialog/converse/human/default/2"
+  }
+]

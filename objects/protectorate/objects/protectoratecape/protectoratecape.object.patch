@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Um pano do material do estandarte jogado no chão. Devo pegar?"}, {"op": "replace", "path": "/apexDescription", "value": "Um pedaço rasgado de tecido jogado no chão. Devo pegar?"}, {"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Algum material rasgado do estandarte do Protetorado. Devo pegar?"}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Banner Rag"}, {"op": "replace", "path": "/description", "value": "Um pedaço de tecido rasgado de um estandarte do Protetorado."}, {"op": "replace", "path": "/floranDescription", "value": "Alguns traposs no chão. Talvez Floran possa guardar?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Um pouco de tecido rasgado do estandarte\r\n acima. Talvez eu deva pegar."}, {"op": "replace", "path": "/novakidDescription", "value": "Um pedaço de material rasgado do estandarte. Devo pegar?"}, {"op": "replace", "path": "/avianDescription", "value": "Isso é um pedaço de tecido rasgado do estandarte acima? Talvez eu devesse pega-lo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um pedaço de material rasgado do estandarte. Devo pegar?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pouco de tecido rasgado do estandarte\r\n acima. Talvez eu deva pegar.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pano do material do estandarte jogado no chão. Devo pegar?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pedaço de tecido rasgado de um estandarte do Protetorado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um pedaço rasgado de tecido jogado no chão. Devo pegar?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Algum material rasgado do estandarte do Protetorado. Devo pegar?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é um pedaço de tecido rasgado do estandarte acima? Talvez eu devesse pega-lo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Banner Rag",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns traposs no chão. Talvez Floran possa guardar?",
+    "path": "/floranDescription"
+  }
+]

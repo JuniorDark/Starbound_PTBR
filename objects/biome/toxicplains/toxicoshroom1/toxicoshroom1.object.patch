@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Uma planta brilhante. Sua luz é bem-vinda."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta planta lança uma bela luz como um cobertor suave em torno dela."}, {"op": "replace", "path": "/avianDescription", "value": "Uma planta brilhante."}, {"op": "replace", "path": "/description", "value": "Uma planta brilhante tóxica."}, {"op": "replace", "path": "/shortdescription", "value": "Toxic Glowing Oshroom"}, {"op": "replace", "path": "/floranDescription", "value": "Luz parece uma bolha estranha."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Um tipo de fungo brilhante."}, {"op": "replace", "path": "/apexDescription", "value": "Este é uma planta levemente iluminada."}, {"op": "replace", "path": "/humanDescription", "value": "Esta planta brilhante é estranhamente bonita."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma planta brilhante tóxica.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta brilhante. Sua luz é bem-vinda.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Um tipo de fungo brilhante.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luz parece uma bolha estranha.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta planta brilhante é estranhamente bonita.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este é uma planta levemente iluminada.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta brilhante.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta planta lança uma bela luz como um cobertor suave em torno dela.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Toxic Glowing Oshroom",
+    "path": "/shortdescription"
+  }
+]

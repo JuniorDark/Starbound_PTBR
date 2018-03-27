@@ -1,1 +1,157 @@
-[{"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/apexDescription", "value": "Uma mesa com um monte de ferramentas para forrageamento."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/apexDescription", "value": "Uma mesa com um monte de ferramentas para forrageamento."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription", "value": "Inspirado. Módulo de agricultura ativado."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/floranDescription", "value": "Floran usssa mesa. Floran gosta de caçar!"}, {"op": "replace", "path": "/glitchDescription", "value": "Inspirado. Módulo de agricultura ativado."}, {"op": "replace", "path": "/apexDescription", "value": "Uma mesa com um monte de ferramentas para forrageamento."}, {"op": "replace", "path": "/humanDescription", "value": "Esta mesa vai me permitir fazer muito trabalho de campo"}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/humanDescription", "value": "Esta mesa vai me permitir fazer muito trabalho de campo"}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/avianDescription", "value": "Uma chance de mostrar sua capacidade de forragem."}, {"op": "replace", "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "^#b9b5b2;Forragem, fazenda e caça"}, {"op": "replace", "path": "/novakidDescription", "value": "Esta mesa é boa para cultivar algumas plantações."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/description", "value": "Usada para produzir itens para caça, mineração e agricultura."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/description", "value": "Usada para produzir itens avançados para caça, mineração e agricultura."}, {"op": "replace", "path": "/description", "value": "Usada para produzir itens para caça, mineração e agricultura."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/shortdescription", "value": "^orange;Foraging Table^white;"}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/shortdescription", "value": "^orange;Agricultural Station^white;"}, {"op": "replace", "path": "/shortdescription", "value": "^orange;Foraging Table^white;"}, {"op": "replace", "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title", "value": "Mesa de Forrageamento"}, {"op": "replace", "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title", "value": "Mesa Agrícola"}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/floranDescription", "value": "Floran usssa mesa. Floran gosta de caçar!"}, {"op": "replace", "path": "/floranDescription", "value": "Floran usssa mesa. Floran gosta de caçar!"}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription", "value": "Inspirado. Módulo de agricultura ativado."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/humanDescription", "value": "Esta mesa vai me permitir fazer muito trabalho de campo"}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/avianDescription", "value": "Uma chance de mostrar sua capacidade de forragem."}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription", "value": "Para semear a semente é para um dia colher a generosidade da natureza."}, {"op": "replace", "path": "/avianDescription", "value": "Uma chance de mostrar sua capacidade de forragem."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription", "value": "Para semear a semente é para um dia colher a generosidade da natureza."}, {"op": "replace", "path": "/hylotlDescription", "value": "Para semear a semente é para um dia colher a generosidade da natureza."}, {"op": "replace", "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "^#b9b5b2;Forragem, fazenda e caça"}, {"op": "replace", "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription", "value": "Esta mesa é boa para cultivar algumas plantações."}, {"op": "replace", "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription", "value": "Esta mesa é boa para cultivar algumas plantações."}]
+[
+  {
+    "op": "replace",
+    "value": "Mesa Agrícola",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Mesa de Forrageamento",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Forragem, fazenda e caça",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Forragem, fazenda e caça",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Uma chance de mostrar sua capacidade de forragem.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma chance de mostrar sua capacidade de forragem.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma chance de mostrar sua capacidade de forragem.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa com um monte de ferramentas para forrageamento.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa com um monte de ferramentas para forrageamento.",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa com um monte de ferramentas para forrageamento.",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran usssa mesa. Floran gosta de caçar!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran usssa mesa. Floran gosta de caçar!",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran usssa mesa. Floran gosta de caçar!",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inspirado. Módulo de agricultura ativado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inspirado. Módulo de agricultura ativado.",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inspirado. Módulo de agricultura ativado.",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa vai me permitir fazer muito trabalho de campo",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa vai me permitir fazer muito trabalho de campo",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa vai me permitir fazer muito trabalho de campo",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa é boa para cultivar algumas plantações.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa é boa para cultivar algumas plantações.",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa é boa para cultivar algumas plantações.",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para semear a semente é para um dia colher a generosidade da natureza.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para semear a semente é para um dia colher a generosidade da natureza.",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para semear a semente é para um dia colher a generosidade da natureza.",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Usada para produzir itens avançados para caça, mineração e agricultura.",
+    "path": "/upgradeStages/1/itemSpawnParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Usada para produzir itens para caça, mineração e agricultura.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Usada para produzir itens para caça, mineração e agricultura.",
+    "path": "/upgradeStages/0/itemSpawnParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Agricultural Station^white;",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Foraging Table^white;",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Foraging Table^white;",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription"
+  }
+]

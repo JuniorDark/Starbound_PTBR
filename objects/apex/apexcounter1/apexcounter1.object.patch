@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um par de gabinetes de cozinha padrão."}, {"op": "replace", "path": "/shortdescription", "value": "Standard Issue Cabinet"}, {"op": "replace", "path": "/floranDescription", "value": "Essstoque para comida. Mmmmmm."}, {"op": "replace", "path": "/glitchDescription", "value": "Ansioso. A possibilidade de comida excita mesmo o Glitch."}, {"op": "replace", "path": "/apexDescription", "value": "Antiquado porém funcional."}, {"op": "replace", "path": "/humanDescription", "value": "Parece um balcão de cozinha."}, {"op": "replace", "path": "/avianDescription", "value": "Um bom lugar para armazenar comida."}, {"op": "replace", "path": "/hylotlDescription", "value": "Quais pratos podem habitar dentro, eu me pergunto?"}, {"op": "replace", "path": "/novakidDescription", "value": "Apenas um bom balcão de cozinha."}]
+[
+  {
+    "op": "replace",
+    "value": "Um bom lugar para armazenar comida.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um par de gabinetes de cozinha padrão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ansioso. A possibilidade de comida excita mesmo o Glitch.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas um bom balcão de cozinha.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece um balcão de cozinha.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Antiquado porém funcional.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essstoque para comida. Mmmmmm.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Standard Issue Cabinet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quais pratos podem habitar dentro, eu me pergunto?",
+    "path": "/hylotlDescription"
+  }
+]

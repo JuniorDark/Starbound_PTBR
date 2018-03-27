@@ -1,47 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "United! Systems! Colonial Marines! Somos grandes! Somos durões! E nossas armas são malvadas! Sim... nunca mais vou cantar isso novamente."
+    "value": "Uma placa que promove a USCM, as forças armadas humanas.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Esta área claramente tinha uma presença militar humana."
+    "value": "Eu não ouvi falar desses caras, mas a julgar pelo estado desta placa, eles foram embora a muito tempo.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Os militares humanos certamente gostam de fazer sentir sua presença."
+    "value": "Placa estúpida e descarada. Florans tentam ser mais sssorrateiros sobre sua presença.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/shortdescription",
-    "value": "USCM Sign"
+    "value": "United! Systems! Colonial Marines! Somos grandes! Somos durões! E nossas armas são malvadas! Sim... nunca mais vou cantar isso novamente.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Pensativo. Táticas militares humanas envolvem muita bravura."
+    "value": "Os militares humanos certamente gostam de fazer sentir sua presença.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Uma placa que promove a USCM, as forças armadas humanas."
+    "value": "Esta área claramente tinha uma presença militar humana.",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "O que a USCM representa, novamente?"
+    "value": "Pensativo. Táticas militares humanas envolvem muita bravura.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Placa estúpida e descarada. Florans tentam ser mais sssorrateiros sobre sua presença."
+    "value": "USCM Sign",
+    "path": "/shortdescription"
   },
-   {
+  {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Eu não ouvi falar desses caras, mas a julgar pelo estado desta placa, eles foram embora a muito tempo."
+    "value": "O que a USCM representa, novamente?",
+    "path": "/description"
   }
 ]

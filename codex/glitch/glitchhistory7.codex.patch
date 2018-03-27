@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Uma observação sobre a dieta Glitch por Hylotl Dr. K. Sakana."}, {"op": "replace", "path": "/title", "value": "Enchendo o Tanque"}, {"op": "replace", "path": "/contentPages/0", "value": "Os Glitch comem. Eles comem assim como nós. Embora, obviamente, o seu processo de digestão é muito diferente.\n\nQuando os Glitch comem, os alimentos são coletados no corpo e quebrados por bactérias. Conforme a comida fermenta, gás metano é liberado e recolhido.\n\nO metano é então queimado, e o calor criado usado para alimentar uma turbina a gás. Como tal, cada Glitch tem seu próprio motor de combustão interna."}, {"op": "replace", "path": "/contentPages/1", "value": "Claro, nem todos os pedaços de comida se decompõem, mas o que resta se torna um excelente adubo. Estas sobras são... 'expulsas 'do corpo."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma observação sobre a dieta Glitch por Hylotl Dr. K. Sakana.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Enchendo o Tanque",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Claro, nem todos os pedaços de comida se decompõem, mas o que resta se torna um excelente adubo. Estas sobras são... 'expulsas 'do corpo.",
+    "path": "/contentPages/1"
+  },
+  {
+    "op": "replace",
+    "value": "Os Glitch comem. Eles comem assim como nós. Embora, obviamente, o seu processo de digestão é muito diferente.\n\nQuando os Glitch comem, os alimentos são coletados no corpo e quebrados por bactérias. Conforme a comida fermenta, gás metano é liberado e recolhido.\n\nO metano é então queimado, e o calor criado usado para alimentar uma turbina a gás. Como tal, cada Glitch tem seu próprio motor de combustão interna.",
+    "path": "/contentPages/0"
+  }
+]

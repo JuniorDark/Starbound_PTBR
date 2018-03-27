@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Hazmat Airtank"}, {"op": "replace", "path": "/description", "value": "Um tanque de ar, mas infelizmente está vazio."}]
+[
+  {
+    "op": "replace",
+    "value": "Um tanque de ar, mas infelizmente está vazio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Hazmat Airtank",
+    "path": "/shortdescription"
+  }
+]

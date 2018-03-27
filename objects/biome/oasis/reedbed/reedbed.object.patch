@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Dormir aqui faz com que Floran sonhe com caça."}, {"op": "replace", "path": "/description", "value": "Uma cama feita de madeira e junco."}, {"op": "replace", "path": "/shortdescription", "value": "Reed Bed"}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. É uma cama de madeira e juncos. Parece razoavelmente confortável."}, {"op": "replace", "path": "/apexDescription", "value": "Certamente vi camas mais funcionais, mas essa vai servir para um descanso..."}, {"op": "replace", "path": "/humanDescription", "value": "É uma cama de temática da selva. Ou... é genuinamente feita de madeira e juncos?"}, {"op": "replace", "path": "/avianDescription", "value": "Eu acredito que descansar aqui é para me fazer sentir como se eu estivesse numa densa selva."}, {"op": "replace", "path": "/hylotlDescription", "value": "Descansar aqui pode causar um sonho de aventuras na selva."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu não tenho certeza de que eu deveria sair dormindo em uma cama feita de juncos."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cama feita de madeira e junco.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Eu acredito que descansar aqui é para me fazer sentir como se eu estivesse numa densa selva.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não tenho certeza de que eu deveria sair dormindo em uma cama feita de juncos.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Certamente vi camas mais funcionais, mas essa vai servir para um descanso...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma cama de temática da selva. Ou... é genuinamente feita de madeira e juncos?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. É uma cama de madeira e juncos. Parece razoavelmente confortável.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Reed Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Descansar aqui pode causar um sonho de aventuras na selva.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dormir aqui faz com que Floran sonhe com caça.",
+    "path": "/floranDescription"
+  }
+]

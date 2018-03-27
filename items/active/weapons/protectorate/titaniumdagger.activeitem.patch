@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Esta adaga é leve, mas incrivelmente durável."}, {"op": "replace", "path": "/shortdescription", "value": "Titanium Dagger"}]
+[
+  {
+    "op": "replace",
+    "value": "Esta adaga é leve, mas incrivelmente durável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Titanium Dagger",
+    "path": "/shortdescription"
+  }
+]

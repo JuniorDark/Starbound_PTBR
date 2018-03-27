@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Esta lâmpada de vidro emite um brilho quente."}, {"op": "replace", "path": "/shortdescription", "value": "Island Lamp"}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de lâmpadasssde folhas."}, {"op": "replace", "path": "/glitchDescription", "value": "Calmo. Esta luz me faz sentir sonolento."}, {"op": "replace", "path": "/apexDescription", "value": "Esta lâmpada também tem uma fragrância gramínea. Me pergunto se é intencional."}, {"op": "replace", "path": "/humanDescription", "value": "Esta lâmpada é perfumada! Para qual propósito?"}, {"op": "replace", "path": "/avianDescription", "value": "Esta lâmpada é como um pequeno sol de vidro. Eu gosto disso."}, {"op": "replace", "path": "/hylotlDescription", "value": "Posso apreciar o acabamento de vidro suave desta luz."}, {"op": "replace", "path": "/novakidDescription", "value": "Posso me relacionar com o brilho colorido daquela lâmpada."}]
+[
+  {
+    "op": "replace",
+    "value": "Calmo. Esta luz me faz sentir sonolento.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de lâmpadasssde folhas.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso apreciar o acabamento de vidro suave desta luz.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso me relacionar com o brilho colorido daquela lâmpada.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Island Lamp",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lâmpada de vidro emite um brilho quente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lâmpada também tem uma fragrância gramínea. Me pergunto se é intencional.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lâmpada é como um pequeno sol de vidro. Eu gosto disso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lâmpada é perfumada! Para qual propósito?",
+    "path": "/humanDescription"
+  }
+]

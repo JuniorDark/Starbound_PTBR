@@ -1,1 +1,12 @@
-[{"op":"replace","path":"/description","value":"Transforme-se em uma esfera e mova-se rapidamente por líquidos! ^green;[F]"},{"op":"replace","path":"/shortDescription","value":"Esfera Aquática"}]
+[
+  {
+    "op": "replace",
+    "value": "Esfera Aquática",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Transforme-se em uma esfera e mova-se rapidamente por líquidos! ^green;[F]",
+    "path": "/description"
+  }
+]

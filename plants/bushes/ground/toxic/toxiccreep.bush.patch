@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Creep Tóxico"}, {"op": "replace", "path": "/shortdescription", "value": "Uma planta mutante."}, {"op": "replace", "path": "/floranDescription", "value": "Plantasss assustadoras."}, {"op": "replace", "path": "/glitchDescription", "value": "Declaração. Esta planta parece crescer em torno da radiação."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma planta mutante.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plantasss assustadoras.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Declaração. Esta planta parece crescer em torno da radiação.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Creep Tóxico",
+    "path": "/description"
+  }
+]

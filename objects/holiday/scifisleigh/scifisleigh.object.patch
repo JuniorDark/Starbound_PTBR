@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Foguetes poderiam explicar como Papai Noel entrega tantos presentes em uma noite."}, {"op": "replace", "path": "/shortdescription", "value": "Holiday Rocket Sleigh"}, {"op": "replace", "path": "/floranDescription", "value": "Floran se torna Papai Noel!"}, {"op": "replace", "path": "/humanDescription", "value": "Um trenó movido A foguetes. Incrível."}, {"op": "replace", "path": "/avianDescription", "value": "Um trenó movido A foguetes. Incrível."}, {"op": "replace", "path": "/description", "value": "Este trenó colorido tem um grande motor de foguete nas costas! Quem precisa de renas, né?"}, {"op": "replace", "path": "/glitchDescription", "value": "Divertido. Um trenó movido a foguetes."}, {"op": "replace", "path": "/apexDescription", "value": "Um trenó movido A foguetes. Incrível."}, {"op": "replace", "path": "/novakidDescription", "value": "Esse sim é o meu tipo de trenó!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um trenó movido A foguetes. Incrível.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Divertido. Um trenó movido a foguetes.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran se torna Papai Noel!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Holiday Rocket Sleigh",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um trenó movido A foguetes. Incrível.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse sim é o meu tipo de trenó!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Foguetes poderiam explicar como Papai Noel entrega tantos presentes em uma noite.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este trenó colorido tem um grande motor de foguete nas costas! Quem precisa de renas, né?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um trenó movido A foguetes. Incrível.",
+    "path": "/humanDescription"
+  }
+]

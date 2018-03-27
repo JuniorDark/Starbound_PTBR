@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um bloco nojento de terra corrompida."}, {"op": "replace", "path": "/shortdescription", "value": "Corrupt Dirt"}]
+[
+  {
+    "op": "replace",
+    "value": "Um bloco nojento de terra corrompida.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Corrupt Dirt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Com nojo. Esta terra foi corrompida.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Terra corrompida nojenta.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta terra corrompida não é muito agradável.",
+    "path": "/novakiddescription"
+  }
+]

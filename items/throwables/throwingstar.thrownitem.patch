@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Throwing Star"}, {"op": "replace", "path": "/description", "value": "Uma estrela de arremesso, de bolso e mortal."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estrela de arremesso, de bolso e mortal.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Throwing Star",
+    "path": "/shortdescription"
+  }
+]

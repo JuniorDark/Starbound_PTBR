@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um conjunto de armários do protetorado trancados."}, {"op": "replace", "path": "/shortdescription", "value": "Locked Protectorate Lockers"}, {"op": "replace", "path": "/floranDescription", "value": "Armáriosss para colocar suas coisasss. Estes estão trancados."}, {"op": "replace", "path": "/glitchDescription", "value": "Desinteressado. Armários trancados."}, {"op": "replace", "path": "/humanDescription", "value": "Estes armários estão trancados."}, {"op": "replace", "path": "/apexDescription", "value": "Um conjunto de armários. Eles estão trancados."}, {"op": "replace", "path": "/avianDescription", "value": "Armários de estudantes. Eles estão trancados."}, {"op": "replace", "path": "/hylotlDescription", "value": "Estes são armários de estudantes. O meu está em outro lugar."}, {"op": "replace", "path": "/novakidDescription", "value": "Este não é o meu armário. O meu está em outro lugar."}]
+[
+  {
+    "op": "replace",
+    "value": "Um conjunto de armários do protetorado trancados.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um conjunto de armários. Eles estão trancados.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Locked Protectorate Lockers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Armáriosss para colocar suas coisasss. Estes estão trancados.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Armários de estudantes. Eles estão trancados.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes são armários de estudantes. O meu está em outro lugar.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes armários estão trancados.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este não é o meu armário. O meu está em outro lugar.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desinteressado. Armários trancados.",
+    "path": "/glitchDescription"
+  }
+]

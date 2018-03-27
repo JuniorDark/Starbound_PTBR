@@ -1,1 +1,67 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Rob Repairo"}, {"op": "replace", "path": "/subtitle", "value": "Reparação de veículos"}, {"op": "replace", "path": "/novakidDescription", "value": "Ele com certeza parece feliz por estar consertando coisas todo o dia."}, {"op": "replace", "path": "/description", "value": "É um Rob Repairo, um comerciante mecânico que conserta veículos perdidos ou quebrados."}, {"op": "replace", "path": "/apexDescription", "value": "Este homem mecânico é dedicado a consertar as coisas."}, {"op": "replace", "path": "/glitchDescription", "value": "Aliviado. Este homem mecânico pode consertar veículos quebrados."}, {"op": "replace", "path": "/humanDescription", "value": "O bom e velho Rob Repairo. Ele tem um rosto alegre, e ele conserta as coisas!"}, {"op": "replace", "path": "/avianDescription", "value": "Este comerciante mecânico irá consertar veículos quebrados."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este comerciante mecânica é desconcertante alegre."}, {"op": "replace", "path": "/floranDescription", "value": "Homem de metal brilhante conserta coisass."}, {"op": "replace", "path": "/chatOptions/0", "value": "Conserte seus veículos aqui - alguns Auto Chips e você está pronto para montar!"}, {"op": "replace", "path": "/chatOptions/2", "value": "Com alguns Auto Chips, podemos polir os golpes e amassados em um instante!"}, {"op": "replace", "path": "/chatOptions/1", "value": "Não consegue se lembrar onde estacionou sua hoverbike? Apenas reconstrua ela com Auto Chips!"}]
+[
+  {
+    "op": "replace",
+    "value": "Não consegue se lembrar onde estacionou sua hoverbike? Apenas reconstrua ela com Auto Chips!",
+    "path": "/chatOptions/1"
+  },
+  {
+    "op": "replace",
+    "value": "Conserte seus veículos aqui - alguns Auto Chips e você está pronto para montar!",
+    "path": "/chatOptions/0"
+  },
+  {
+    "op": "replace",
+    "value": "O bom e velho Rob Repairo. Ele tem um rosto alegre, e ele conserta as coisas!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ele com certeza parece feliz por estar consertando coisas todo o dia.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um Rob Repairo, um comerciante mecânico que conserta veículos perdidos ou quebrados.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Aliviado. Este homem mecânico pode consertar veículos quebrados.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rob Repairo",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Homem de metal brilhante conserta coisass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este homem mecânico é dedicado a consertar as coisas.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este comerciante mecânica é desconcertante alegre.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este comerciante mecânico irá consertar veículos quebrados.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Reparação de veículos",
+    "path": "/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Com alguns Auto Chips, podemos polir os golpes e amassados em um instante!",
+    "path": "/chatOptions/2"
+  }
+]

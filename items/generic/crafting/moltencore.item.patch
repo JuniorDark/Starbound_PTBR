@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um núcleo fundido muito poderoso. Pode ser usado para criar uma metalwork station!"}, {"op": "replace", "path": "/shortdescription", "value": "Molten Core"}]
+[
+  {
+    "op": "replace",
+    "value": "Um núcleo fundido muito poderoso. Pode ser usado para criar uma metalwork station!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Molten Core",
+    "path": "/shortdescription"
+  }
+]

@@ -1,27 +1,27 @@
 [
   {
     "op": "replace",
-    "path": "/title",
-    "value": "Folheto da Corporação Letheia"
+    "value": "Uma folheto comercial para a Corporação Letheia.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma folheto comercial para a Corporação Letheia."
+    "value": "Folheto da Corporação Letheia",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/contentPages/0",
-    "value": "A ^yellow;Corporação Letheia^white; Está aqui para você, para ajudá-lo em todas as facetas da sua existência mortal. O lema da nossa empresa, \"Por que viver a vida sem a Letheia?\" agora é mais viável do que nunca! Dê uma olhada em nossa gama chocantemente robusta de produtos e serviços:\n\n^orange;Viagem Espacial^white;\n\nNossas naves de classe de luxo vêm em uma escala mais ampla do que nunca, de cargueiros industriais até o transporte privado de classe empresarial."
+    "value": "A ^yellow;Corporação Letheia^white; Está aqui para você, para ajudá-lo em todas as facetas da sua existência mortal. O lema da nossa empresa, \"Por que viver a vida sem a Letheia?\" agora é mais viável do que nunca! Dê uma olhada em nossa gama chocantemente robusta de produtos e serviços:\n\n^orange;Viagem Espacial^white;\n\nNossas naves de classe de luxo vêm em uma escala mais ampla do que nunca, de cargueiros industriais até o transporte privado de classe empresarial.",
+    "path": "/contentPages/0"
   },
   {
     "op": "replace",
-    "path": "/contentPages/1",
-    "value": "^orange;Estações Espaciais^white;\n\nQuer começar o seu próprio hub de comércio orbital? 65% de todas as implantações de estação na borda exterior acontecem agora através da Letheia!\n\n^orange;Mineração de Combustível^white;\n\nAs instalações de mineração de Erchius da Letheia estão enfrentando 6% menos acidentes misteriosos do que a concorrencia."
+    "value": "^orange;Mobiliário^white;\n\nNossos designers internos produzem alguns dos mais amplamente replicados móveis de naves espaciais em todos os aglomerados galáticos!\n\n^orange;Mídia^white;\n\nAs marcas de entretenimento da Lethia variam desde a série animada extremamente bem-sucedida Numi, até linhas de produtos de nicho como a franquia de videogames \"Beautiful Attempt!\".",
+    "path": "/contentPages/2"
   },
   {
     "op": "replace",
-    "path": "/contentPages/2",
-    "value": "^orange;Mobiliário^white;\n\nNossos designers internos produzem alguns dos mais amplamente replicados móveis de naves espaciais em todos os aglomerados galáticos!\n\n^orange;Mídia^white;\n\nAs marcas de entretenimento da Lethia variam desde a série animada extremamente bem-sucedida Numi, até linhas de produtos de nicho como a franquia de videogames \"Beautiful Attempt!\"."
+    "value": "^orange;Estações Espaciais^white;\n\nQuer começar o seu próprio hub de comércio orbital? 65% de todas as implantações de estação na borda exterior acontecem agora através da Letheia!\n\n^orange;Mineração de Combustível^white;\n\nAs instalações de mineração de Erchius da Letheia estão enfrentando 6% menos acidentes misteriosos do que a concorrencia.",
+    "path": "/contentPages/1"
   }
 ]

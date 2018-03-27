@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Uma irritante erva daninha."}, {"op": "replace", "path": "/floranDescription", "value": "Os Floran adoram erva daninha como também todas as plantas."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Uma ridícula erva daninha."}, {"op": "replace", "path": "/shortdescription", "value": "Uma erva daninha."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma erva daninha.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma irritante erva daninha.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Os Floran adoram erva daninha como também todas as plantas.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Uma ridícula erva daninha.",
+    "path": "/glitchDescription"
+  }
+]

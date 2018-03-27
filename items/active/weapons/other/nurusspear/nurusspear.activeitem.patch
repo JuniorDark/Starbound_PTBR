@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Nuru's Spear"}, {"op": "replace", "path": "/description", "value": "Isso pertence a Nuru. Como você conseguiu isso?"}]
+[
+  {
+    "op": "replace",
+    "value": "Isso pertence a Nuru. Como você conseguiu isso?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Nuru's Spear",
+    "path": "/shortdescription"
+  }
+]

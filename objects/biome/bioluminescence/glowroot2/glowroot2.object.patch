@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Essas raízes brilhantes minúsculas são reminiscências de alguns vermes tubo raro que uma vez eu vi em uma trincheira no oceano profundo."}, {"op": "replace", "path": "/shortdescription", "value": "Roots"}, {"op": "replace", "path": "/description", "value": "Há pequenas raízes brilhantes saindo do teto."}, {"op": "replace", "path": "/floranDescription", "value": "Até as raízes brilham... Floran anseia pela escuridão."}, {"op": "replace", "path": "/avianDescription", "value": "Pequenas raízes brilhando como estrelas adornam o teto."}, {"op": "replace", "path": "/apexDescription", "value": "Pequenas raízes com pequenas luzes na ponta."}, {"op": "replace", "path": "/humanDescription", "value": "Eu amo como cada coisinha aqui brilha, até mesmo as raízes!"}, {"op": "replace", "path": "/glitchDescription", "value": "Questionamento. Essas são as raízes das plantas acima, ou um organismo separado?"}, {"op": "replace", "path": "/novakidDescription", "value": "Essas raízes brilhantes são bonitas."}]
+[
+  {
+    "op": "replace",
+    "value": "Roots",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há pequenas raízes sobressaindo do teto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Até as raízes brilham... Floran anseia pela escuridão.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu amo como cada coisinha aqui brilha, até mesmo as raízes!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pequenas raízes brilhando como estrelas adornam o teto.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Questionamento. Essas são as raízes das plantas acima, ou um organismo separado?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas raízes brilhantes minúsculas são reminiscências de alguns vermes tubo raro que uma vez eu vi em uma trincheira no oceano profundo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas raízes brilhantes são bonitas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pequenas raízes com pequenas luzes na ponta.",
+    "path": "/apexDescription"
+  }
+]

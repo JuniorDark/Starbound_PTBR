@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Interessado. Esta estátua representa uma espécie de sapo da qual eu não tenho conhecimento."}, {"op": "replace", "path": "/floranDescription", "value": "Floran gostaria de esssfaquear este homem-sapo."}, {"op": "replace", "path": "/apexDescription", "value": "Uma estátua de um sapo de aparência pacífica."}, {"op": "replace", "path": "/humanDescription", "value": "Se houvesse mais alguns desses caras, poderíamos ter um cante junto."}, {"op": "replace", "path": "/hylotlDescription", "value": "É uma grande estátua de um sapo."}, {"op": "replace", "path": "/novakidDescription", "value": "Como este sapo está sentado assim? Pra mim parece que ele quebrou as pernas."}, {"op": "replace", "path": "/description", "value": "Uma estátua de um sapo sentado pacificamente."}, {"op": "replace", "path": "/shortdescription", "value": "Frog Statue"}, {"op": "replace", "path": "/avianDescription", "value": "Esta criatura parece pensativa e cheia de idéias."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estátua de um sapo sentado pacificamente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estátua de um sapo de aparência pacífica.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gostaria de esssfaquear este homem-sapo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Frog Statue",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Como este sapo está sentado assim? Pra mim parece que ele quebrou as pernas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se houvesse mais alguns desses caras, poderíamos ter um cante junto.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Esta estátua representa uma espécie de sapo da qual eu não tenho conhecimento.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma grande estátua de um sapo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta criatura parece pensativa e cheia de idéias.",
+    "path": "/avianDescription"
+  }
+]

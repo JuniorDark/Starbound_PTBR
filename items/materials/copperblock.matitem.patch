@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Copper Gear Block"}, {"op": "replace", "path": "/description", "value": "Este bloco de cobre tem umas marcas distintas de engrenagem."}]
+[
+  {
+    "op": "replace",
+    "value": "Copper Gear Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Blocos de cobre, eles parecem levemente como engrenagens.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Blocoss de cobre como engrenagenss de máquina.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Eu acho a forma da engrenagem desses blocos agradável.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este bloco de cobre tem umas marcas distintas de engrenagem.",
+    "path": "/description"
+  }
+]

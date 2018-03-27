@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Lancer's Helm"}, {"op": "replace", "path": "/description", "value": "Um elmo com excelentes capacidades de absorção de choque."}]
+[
+  {
+    "op": "replace",
+    "value": "Um elmo com excelentes capacidades de absorção de choque.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Lancer's Helm",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Meu chapéu, ele tem três dobras, três dobras tem o meu chapéu!"}, {"op": "replace", "path": "/shortdescription", "value": "Tricorne Hat"}]
+[
+  {
+    "op": "replace",
+    "value": "Meu chapéu, ele tem três dobras, três dobras tem o meu chapéu!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Tricorne Hat",
+    "path": "/shortdescription"
+  }
+]

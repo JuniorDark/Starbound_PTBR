@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um braço de mecha que lança um drone torreta ofensivo."
+    "value": "Um braço de mecha que lança um drone torreta ofensivo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Plasma Drone Mech Arm",
+    "path": "/shortdescription"
   }
 ]

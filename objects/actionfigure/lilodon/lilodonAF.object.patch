@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A etiqueta diz, \"Seus ancestrais costumavam viver no mar. Pode parecer pequeno, mas tem uma grande mordida.\""}, {"op": "replace", "path": "/shortdescription", "value": "Lilodon Figurine"}]
+[
+  {
+    "op": "replace",
+    "value": "Lilodon Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"Seus ancestrais costumavam viver no mar. Pode parecer pequeno, mas tem uma grande mordida.\"",
+    "path": "/description"
+  }
+]

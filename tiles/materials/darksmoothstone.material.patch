@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um bloco de pedra liso e escuro."}, {"op": "replace", "path": "/floranDescription", "value": "Bloco de pedra liso."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Um tijolo escuro feito de uma pedra desconhecida."}, {"op": "replace", "path": "/novakidDescription", "value": "Um tijolo de pedra escuro."}, {"op": "replace", "path": "/shortdescription", "value": "Dark Smooth Stone"}]
+[
+  {
+    "op": "replace",
+    "value": "Um tijolo de pedra escuro.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um bloco de pedra liso e escuro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Um tijolo escuro feito de uma pedra desconhecida.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dark Smooth Stone",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bloco de pedra liso.",
+    "path": "/floranDescription"
+  }
+]

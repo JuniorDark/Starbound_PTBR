@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Usando isso eu posso coletar a fibra de seda para tecer em pano de seda, um material mais luxuoso."}, {"op": "replace", "path": "/floranDescription", "value": "Mariposas boba, deixando para trás fibra de seda preciosa."}, {"op": "replace", "path": "/glitchDescription", "value": "Orgulhoso. Glitch farma mariposas para fazer a seda a mais fina."}, {"op": "replace", "path": "/avianDescription", "value": "Posso usar isso para coletar fibra de seda."}, {"op": "replace", "path": "/novakidDescription", "value": "Seda é um pouco extravagante para meu gosto, mas eu posso vendê-la!"}, {"op": "replace", "path": "/description", "value": "Atrai mariposas. Mariposas produzem silk!"}, {"op": "replace", "path": "/humanDescription", "value": "Não é estranho que um material tão elegante é feito por essas pequenas mariposas?"}, {"op": "replace", "path": "/shortdescription", "value": "Moth Trap"}, {"op": "replace", "path": "/apexDescription", "value": "Isso pode ser usado para coletar fibra de seda, se você deixá-lo por tempo suficiente."}]
+[
+  {
+    "op": "replace",
+    "value": "Atrai mariposas. Mariposas produzem silk!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Posso usar isso para coletar fibra de seda.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não é estranho que um material tão elegante é feito por essas pequenas mariposas?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Moth Trap",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Orgulhoso. Glitch farma mariposas para fazer a seda a mais fina.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Seda é um pouco extravagante para meu gosto, mas eu posso vendê-la!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mariposas boba, deixando para trás fibra de seda preciosa.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso pode ser usado para coletar fibra de seda, se você deixá-lo por tempo suficiente.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Usando isso eu posso coletar a fibra de seda para tecer em pano de seda, um material mais luxuoso.",
+    "path": "/hylotlDescription"
+  }
+]

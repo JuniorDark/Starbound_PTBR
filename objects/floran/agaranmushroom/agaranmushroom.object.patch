@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Divertido. Este é uma Agaran vivo, habilmente disfarçado."}, {"op": "replace", "path": "/novakidDescription", "value": "O que há de tão especial sobre este cogumelo?"}, {"op": "replace", "path": "/floranDescription", "value": "Floran conhece seu sssegredo, pequeno cogumelo. Floran fica quieto."}, {"op": "replace", "path": "/shortdescription", "value": "Giant Agaran Mushroom"}, {"op": "replace", "path": "/apexDescription", "value": "É mais bonito do que os Agarans."}, {"op": "replace", "path": "/description", "value": "Um cogumelo gigante de origem Agaran."}, {"op": "replace", "path": "/humanDescription", "value": "Precisa de mais lagarta."}, {"op": "replace", "path": "/avianDescription", "value": "Me pergunto que finalidade este cogumelo serve."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um cogumelo vil de origem Agaran."}]
+[
+  {
+    "op": "replace",
+    "value": "Um cogumelo gigante de origem Agaran.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um cogumelo vil de origem Agaran.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Divertido. Este é uma Agaran vivo, habilmente disfarçado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran conhece seu sssegredo, pequeno cogumelo. Floran fica quieto.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Giant Agaran Mushroom",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me pergunto que finalidade este cogumelo serve.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É mais bonito do que os Agarans.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Precisa de mais lagarta.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que há de tão especial sobre este cogumelo?",
+    "path": "/novakidDescription"
+  }
+]

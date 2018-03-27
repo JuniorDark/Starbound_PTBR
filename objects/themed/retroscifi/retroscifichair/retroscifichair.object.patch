@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Esta cadeira parece confortável, como sentar-se dentro de uma casca de ovo."}, {"op": "replace", "path": "/floranDescription", "value": "Floran sssuspeito de cadeira flutuante."}, {"op": "replace", "path": "/apexDescription", "value": "Confortável e atraente, qualidades ideais em uma cadeira."}, {"op": "replace", "path": "/avianDescription", "value": "Uma cadeira flutuante, é muito divertida."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma cadeira flutuante, como um romance."}, {"op": "replace", "path": "/humanDescription", "value": "Sempre quis uma cadeira em forma de ovo."}, {"op": "replace", "path": "/glitchDescription", "value": "Confuso. Como esta cadeira mantém o equilíbrio?"}, {"op": "replace", "path": "/description", "value": "Uma cadeira em forma de ovo feita em um estilo retro-futurista."}, {"op": "replace", "path": "/shortdescription", "value": "Retro Chair"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira flutuante, como um romance.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira flutuante, é muito divertida.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cadeira em forma de ovo feita em um estilo retro-futurista.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Confortável e atraente, qualidades ideais em uma cadeira.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. Como esta cadeira mantém o equilíbrio?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran sssuspeito de cadeira flutuante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sempre quis uma cadeira em forma de ovo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Retro Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cadeira parece confortável, como sentar-se dentro de uma casca de ovo.",
+    "path": "/novakidDescription"
+  }
+]

@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Pedaços de gelo inclinados."}, {"op": "replace", "path": "/shortdescription", "value": "Pedaços de gelo inclinados."}, {"op": "replace", "path": "/floranDescription", "value": "Pedaços gelados."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Pedaços de gelo inclinados."}]
+[
+  {
+    "op": "replace",
+    "value": "Pedaços de gelo inclinados.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pedaços de gelo inclinados.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedaços gelados.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Pedaços de gelo inclinados.",
+    "path": "/glitchDescription"
+  }
+]

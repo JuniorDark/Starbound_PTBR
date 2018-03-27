@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "O brilho natural calmante desta luz está em desacordo com o seu design grotesco."}, {"op": "replace", "path": "/description", "value": "Uma lâmpada estranha feita de uma estrutura semelhante a uma colmeia."}, {"op": "replace", "path": "/shortdescription", "value": "Hive Lamp"}, {"op": "replace", "path": "/floranDescription", "value": "Coisa de colmeia está a brilhar como fogo. Floran confuso."}, {"op": "replace", "path": "/apexDescription", "value": "Me pergunto se a fonte da luz nesta lâmpada é biológica ou eletrônica."}, {"op": "replace", "path": "/humanDescription", "value": "Eu não tenho certeza se eu posso ver qualquer fio... Então, o que está fazendo esta lâmpada acender?"}, {"op": "replace", "path": "/glitchDescription", "value": "Confuso. O que está fazendo esta lâmpada brilhar?"}, {"op": "replace", "path": "/novakidDescription", "value": "Não tenho certeza de como essa velha lâmpada está acesa..."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lâmpada estranha feita de uma estrutura semelhante a uma colmeia.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. O que está fazendo esta lâmpada brilhar?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Poderia esta lâmpada ser iluminada por insetos brilhantes?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hive Lamp",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Coisa de colmeia está a brilhar como fogo. Floran confuso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me pergunto se a fonte da luz nesta lâmpada é biológica ou eletrônica.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não tenho certeza de como essa velha lâmpada está acesa...",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não tenho certeza se eu posso ver qualquer fio... Então, o que está fazendo esta lâmpada acender?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O brilho natural calmante desta luz está em desacordo com o seu design grotesco.",
+    "path": "/hylotlDescription"
+  }
+]

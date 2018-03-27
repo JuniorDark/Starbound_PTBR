@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma grande vagem cheia de grãos de cacau. Moa e você terá chocolate!"}, {"op": "replace", "path": "/shortdescription", "value": "Cocoa Pod"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma grande vagem cheia de grãos de cacau. Moa e você terá chocolate!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cocoa Pod",
+    "path": "/shortdescription"
+  }
+]

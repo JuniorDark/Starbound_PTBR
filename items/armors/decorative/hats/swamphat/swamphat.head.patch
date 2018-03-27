@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Swamp Hat"}, {"op": "replace", "path": "/description", "value": "Pode ser usado, mas ainda tem apelo ao exterior."}]
+[
+  {
+    "op": "replace",
+    "value": "Pode ser usado, mas ainda tem apelo ao exterior.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Swamp Hat",
+    "path": "/shortdescription"
+  }
+]

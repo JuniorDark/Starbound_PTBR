@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Essa maçaneta é fortemente brilhante."}, {"op": "replace", "path": "/shortdescription", "value": "Classic Door"}, {"op": "replace", "path": "/apexDescription", "value": "A maçaneta é de ouro maciço e a madeira tem aroma de banana."}, {"op": "replace", "path": "/humanDescription", "value": "Essa porta... cheira a banana?"}, {"op": "replace", "path": "/avianDescription", "value": "Porta assim está aberta a muito poucos."}, {"op": "replace", "path": "/hylotlDescription", "value": "Madeira perfumada, uma prática comum na criação Hylotl."}, {"op": "replace", "path": "/glitchDescription", "value": "Irritado. Sensores sugerem um odor único desta porta."}, {"op": "replace", "path": "/description", "value": "Uma porta de madeira clássica infundida com banana com uma maçaneta dourada."}, {"op": "replace", "path": "/floranDescription", "value": "O aroma da fruta amarela Apex vem da madeira."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta de madeira clássica infundida com banana com uma maçaneta dourada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Classic Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa porta... cheira a banana?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Irritado. Sensores sugerem um odor único desta porta.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Madeira perfumada, uma prática comum na criação Hylotl.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Porta assim está aberta a muito poucos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa maçaneta é fortemente brilhante.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A maçaneta é de ouro maciço e a madeira tem aroma de banana.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O aroma da fruta amarela Apex vem da madeira.",
+    "path": "/floranDescription"
+  }
+]

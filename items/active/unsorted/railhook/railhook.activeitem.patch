@@ -1,17 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/category",
-    "value": "tool"
+    "value": "Rail Hook",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Monte nos trilhos!"
-  },
-  {
-    "op": "replace",
-    "path": "/shortdescription",
-    "value": "Rail Hook"
+    "value": "Monte nos trilhos!",
+    "path": "/description"
   }
 ]

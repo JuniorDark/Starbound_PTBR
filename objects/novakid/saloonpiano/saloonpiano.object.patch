@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran faz músssica de pele e osso, mestre do tambor. Não de máquina de sssom boba."}, {"op": "replace", "path": "/description", "value": "É um piano adequado para um saloon!"}, {"op": "replace", "path": "/shortdescription", "value": "Saloon Piano"}, {"op": "replace", "path": "/glitchDescription", "value": "Presunçoso. Os princípios matemáticos por trás desta máquina são trivialmente simples."}, {"op": "replace", "path": "/apexDescription", "value": "Todos os Apex devem aprender a tocar. No entanto, apenas a música sancionada pode ser interpretada. Há um microfone escondido em cada piano."}, {"op": "replace", "path": "/humanDescription", "value": "Um piano... Posso tocar Chopsticks!"}, {"op": "replace", "path": "/avianDescription", "value": "Os botões produzem sons agradáveis."}, {"op": "replace", "path": "/hylotlDescription", "value": "Ah, música... Tem o poder de iluminar até mesmo as nossas horas mais sombrias."}, {"op": "replace", "path": "/novakidDescription", "value": "Um piano adequado para o velho boteco."}]
+[
+  {
+    "op": "replace",
+    "value": "Um piano adequado para o velho boteco.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um piano... Posso tocar Chopsticks!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ah, música... Tem o poder de iluminar até mesmo as nossas horas mais sombrias.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Todos os Apex devem aprender a tocar. No entanto, apenas a música sancionada pode ser interpretada. Há um microfone escondido em cada piano.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran faz músssica de pele e osso, mestre do tambor. Não de máquina de sssom boba.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um piano adequado para um saloon!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Saloon Piano",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Presunçoso. Os princípios matemáticos por trás desta máquina são trivialmente simples.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os botões produzem sons agradáveis.",
+    "path": "/avianDescription"
+  }
+]

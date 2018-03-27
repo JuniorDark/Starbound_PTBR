@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Mandraflora Figurine"}, {"op": "replace", "path": "/description", "value": "A etiqueta diz, \"Seu estilo de vida sonolento permite que floresça no subsolo e atinja tamanhos impressionantes.\""}]
+[
+  {
+    "op": "replace",
+    "value": "Mandraflora Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"Seu estilo de vida sonolento permite que floresça no subsolo e atinja tamanhos impressionantes.\"",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Função sobre a forma."}, {"op": "replace", "path": "/humanDescription", "value": "Acho que isso conta como uma mesa."}, {"op": "replace", "path": "/avianDescription", "value": "Alguém simplesmente empilhou duas lajes de pedra."}, {"op": "replace", "path": "/shortdescription", "value": "Stone Table"}, {"op": "replace", "path": "/description", "value": "Uma mesa feita de pedregulho."}, {"op": "replace", "path": "/floranDescription", "value": "Mesa pedregosssa."}, {"op": "replace", "path": "/glitchDescription", "value": "Não impressionado. Artesanato terapêutico."}, {"op": "replace", "path": "/apexDescription", "value": "Uma mesa simples. Vai servir."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma rocha pequena com uma rocha maior em cima."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma mesa simples. Vai servir.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma rocha pequena com uma rocha maior em cima.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma mesa feita de pedregulho.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Função sobre a forma.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Acho que isso conta como uma mesa.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém simplesmente empilhou duas lajes de pedra.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mesa pedregosssa.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Stone Table",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não impressionado. Artesanato terapêutico.",
+    "path": "/glitchDescription"
+  }
+]

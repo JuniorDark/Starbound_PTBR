@@ -1,1 +1,207 @@
-[{"op": "replace", "path": "/scriptConfig/radioMessages/complete/text", "value": "Minhas teorias estavam corretas! ^#71f2f6;Volte para o Ark quando você estiver pronto(a)^white; e eu vou te dizer onde o artefato está sendo mantido, querido(a)."}, {"op": "replace", "path": "/text", "value": "Agora precisamos encontrar o ^orange;artefato Glitch^reset;. Os Glitch tendem a residir em planetas com um monte de ^orange;atividade vulcânica^reset; (eles parecem achar eles vagamente reconfortante). Planetas vulcânicos ocorrem em torno de ^orange;estrelas ardentes^reset;. ^green;Melhor procurar lá por ^orange;pistas^white;. Eu sei que os Glitch são um pouco incomum, mas não os subestime: tome cuidado querido(a)."}, {"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Volte a ^orange;Esther^reset; no ^orange;Ark^reset;"}, {"op": "replace", "path": "/scriptConfig/descriptions/findClues", "value": "^green;Escaneie objetos^reset; para achar ^orange;pistas sobre o Artefato Glitch^reset;"}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/6/text", "value": "Isto confirma algo que eu tinha especulado sobre!"}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/8/text", "value": "Até mesmo o menor pedaço de evidência pode ajudar a descobrir os segredos mais grandiosos do universo."}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/9/text", "value": "Esta pista aponta para informações ocultas."}, {"op": "replace", "path": "/scriptConfig/radioMessages/startAlreadyComplete/text", "value": "Você é um bom colecionador de antiguidades Glitch! Parece que você já localizou pistas suficientes que me permita identificar a localização do Artefato!"}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/7/text", "value": "Que peculiar! Mas informações surpresa podem ser mais valiosa do que a informação esperada..."}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/4/text", "value": "Isto é excelente, tudo o que encontrar contribuirá para a formação de uma teoria."}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/5/text", "value": "Hm, Eu me pergunto..."}, {"op": "replace", "path": "/title", "value": "Encontre Pistas para Localizar o Artefato Glitch"}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/glitchdecree/text", "value": "O texto que você acabou de escanear menciona um deposito de tesouro - uma torre que esconde itens valiosos. Sera que ela poderia conter algo tão valioso como o artefato?"}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/glitchscribe/text", "value": "A carta sobre esta mesa menciona uma figura de grande notoriedade entre os Glitch. Entre outras coisas, ele é proprietário de muitas riquezas..."}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/glitchchess/text", "value": "Esta mesa de xadrez é curiosa - as peças são todas esculpidas a mão, feito por um indivíduo qualificado. O design é um pouco peculiar. Me pergunto de que procedência é."}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/glitchhorndisplay/text", "value": "Heráldica é importante entre os Glitch. O simbolo nesta bandeira é único, e eu acredito que pode indiretamente se relacionar com o artefato. Vou pesquisar suas origens."}, {"op": "replace", "path": "/completionText", "value": "Essa última pista confirmou a localização do artefato Glitch! Excelente. Parabéns querido(a)."}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/2/text", "value": "Continue assim querido(a), tudo Isso é muito útil! "}, {"op": "replace", "path": "/scriptConfig/radioMessages/startWithProgress/text", "value": "Parece que você já encontrou alguns itens que fornecem pistas para o paradeiro do artefato. Vou começar a minha análise nestes enquanto você procurar mais!"}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/0/text", "value": "Hmmm, que curioso... Eu preciso cruzar as referências disso."}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/3/text", "value": "Uma pista de pequena implicação, mas relevante no entanto!"}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/glitchbaronfigure/text", "value": "Esta estatueta... Eu já vi essa pessoa antes! Foi em um livro em algum lugar? Vou investigar..."}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/1/text", "value": "Interessante. Isso certamente terá uma influência na minha pesquisa."}]
+[
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/complete/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/0/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/1/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/2/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/3/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/4/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/5/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/6/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/7/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/8/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/9/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/startAlreadyComplete/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/startWithProgress/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/glitchbaronfigure/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/glitchchess/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/glitchdecree/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/glitchhorndisplay/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/glitchscribe/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Volte a ^orange;Esther^reset; no ^orange;Ark^reset;",
+    "path": "/scriptConfig/descriptions/turnIn"
+  },
+  {
+    "op": "replace",
+    "value": "Encontre Pistas para Localizar o Artefato Glitch",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Heráldica é importante entre os Glitch. O simbolo nesta bandeira é único, e eu acredito que pode indiretamente se relacionar com o artefato. Vou pesquisar suas origens.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/glitchhorndisplay/text"
+  },
+  {
+    "op": "replace",
+    "value": "Minhas teorias estavam corretas! ^#71f2f6;Volte para o Ark quando você estiver pronto(a)^white; e eu vou te dizer onde o artefato está sendo mantido, querido(a).",
+    "path": "/scriptConfig/radioMessages/complete/text"
+  },
+  {
+    "op": "replace",
+    "value": "Agora precisamos encontrar o ^orange;artefato Glitch^reset;. Os Glitch tendem a residir em planetas com um monte de ^orange;atividade vulcânica^reset; (eles parecem achar eles vagamente reconfortante). Planetas vulcânicos ocorrem em torno de ^orange;estrelas ardentes^reset;. ^green;Melhor procurar lá por ^orange;pistas^white;. Eu sei que os Glitch são um pouco incomum, mas não os subestime: tome cuidado querido(a).",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "Essa última pista confirmou a localização do artefato Glitch! Excelente. Parabéns querido(a).",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "A carta sobre esta mesa menciona uma figura de grande notoriedade entre os Glitch. Entre outras coisas, ele é proprietário de muitas riquezas...",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/glitchscribe/text"
+  },
+  {
+    "op": "replace",
+    "value": "O texto que você acabou de escanear menciona um deposito de tesouro - uma torre que esconde itens valiosos. Sera que ela poderia conter algo tão valioso como o artefato?",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/glitchdecree/text"
+  },
+  {
+    "op": "replace",
+    "value": "Esta mesa de xadrez é curiosa - as peças são todas esculpidas a mão, feito por um indivíduo qualificado. O design é um pouco peculiar. Me pergunto de que procedência é.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/glitchchess/text"
+  },
+  {
+    "op": "replace",
+    "value": "Esta estatueta... Eu já vi essa pessoa antes! Foi em um livro em algum lugar? Vou investigar...",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/glitchbaronfigure/text"
+  },
+  {
+    "op": "replace",
+    "value": "Você é um bom colecionador de antiguidades Glitch! Parece que você já localizou pistas suficientes que me permita identificar a localização do Artefato!",
+    "path": "/scriptConfig/radioMessages/startAlreadyComplete/text"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Escaneie objetos^reset; para achar ^orange;pistas sobre o Artefato Glitch^reset;",
+    "path": "/scriptConfig/descriptions/findClues"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pista de pequena implicação, mas relevante no entanto!",
+    "path": "/scriptConfig/radioMessages/genericProgress/3/text"
+  },
+  {
+    "op": "replace",
+    "value": "Até mesmo o menor pedaço de evidência pode ajudar a descobrir os segredos mais grandiosos do universo.",
+    "path": "/scriptConfig/radioMessages/genericProgress/8/text"
+  },
+  {
+    "op": "replace",
+    "value": "Hm, Eu me pergunto...",
+    "path": "/scriptConfig/radioMessages/genericProgress/5/text"
+  },
+  {
+    "op": "replace",
+    "value": "Hmmm, que curioso... Eu preciso cruzar as referências disso.",
+    "path": "/scriptConfig/radioMessages/genericProgress/0/text"
+  },
+  {
+    "op": "replace",
+    "value": "Que peculiar! Mas informações surpresa podem ser mais valiosa do que a informação esperada...",
+    "path": "/scriptConfig/radioMessages/genericProgress/7/text"
+  },
+  {
+    "op": "replace",
+    "value": "Interessante. Isso certamente terá influência na minha pesquisa.",
+    "path": "/scriptConfig/radioMessages/genericProgress/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que você já encontrou alguns itens que fornecem pistas para o paradeiro do artefato. Vou começar a minha análise nestes enquanto você procura mais!",
+    "path": "/scriptConfig/radioMessages/startWithProgress/text"
+  },
+  {
+    "op": "replace",
+    "value": "Continue assim querido(a), tudo Isso é muito útil!",
+    "path": "/scriptConfig/radioMessages/genericProgress/2/text"
+  },
+  {
+    "op": "replace",
+    "value": "Esta pista sugere informações ocultas.",
+    "path": "/scriptConfig/radioMessages/genericProgress/9/text"
+  },
+  {
+    "op": "replace",
+    "value": "Isto confirma algo que eu tinha especulado sobre!",
+    "path": "/scriptConfig/radioMessages/genericProgress/6/text"
+  },
+  {
+    "op": "replace",
+    "value": "Isto é excelente, tudo o que encontrar contribuirá para a formação de uma teoria.",
+    "path": "/scriptConfig/radioMessages/genericProgress/4/text"
+  }
+]

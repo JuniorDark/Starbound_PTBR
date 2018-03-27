@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Zephyr Spark Launcher"}, {"op": "replace", "path": "/description", "value": "Sim, ele dispara fogos de artifício!"}]
+[
+  {
+    "op": "replace",
+    "value": "Sim, ele dispara fogos de artifício!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Zephyr Spark Launcher",
+    "path": "/shortdescription"
+  }
+]

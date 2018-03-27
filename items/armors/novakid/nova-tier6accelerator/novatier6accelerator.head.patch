@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Gambler's Hat"}, {"op": "replace", "path": "/description", "value": "Não importa o quão alto são as apostas, você não vai perder sua cabeça com esse chapéu de apostador."}]
+[
+  {
+    "op": "replace",
+    "value": "Gambler's Hat",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não importa o quão alto são as apostas, você não vai perder sua cabeça com esse chapéu de apostador.",
+    "path": "/description"
+  }
+]

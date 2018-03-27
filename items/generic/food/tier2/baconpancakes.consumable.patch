@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Panqueca. Bacon. Panqueca. Bacon. Panqueca. Manteiga. Comer."}, {"op": "replace", "path": "/shortdescription", "value": "Bacon Pancakes"}]
+[
+  {
+    "op": "replace",
+    "value": "Bacon Pancakes",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Panqueca. Bacon. Panqueca. Bacon. Panqueca. Manteiga. Comer.",
+    "path": "/description"
+  }
+]

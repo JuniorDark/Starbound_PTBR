@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "A gripe do macaco devastou a sociedade Apex. Estranhamente, ninguém que estava no poder estava doente. Havia rumores de que era uma experiência."}, {"op": "replace", "path": "/description", "value": "Gripe do macaco? Parece sério..."}, {"op": "replace", "path": "/shortdescription", "value": "Ape Flu Poster"}, {"op": "replace", "path": "/floranDescription", "value": "Gripe Apex boba, Floran vai te comer."}, {"op": "replace", "path": "/glitchDescription", "value": "Confiante. A gripe do macaco não tem efeito sobre o Glitch."}, {"op": "replace", "path": "/humanDescription", "value": "Espero que humanos não peguem a gripe do macaco."}, {"op": "replace", "path": "/avianDescription", "value": "Os Avians podem pegar a gripe do macaco?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Doença e sofrimento. O Apex merece nosso auxílio."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu não estou interessado em pegar isso."}]
+[
+  {
+    "op": "replace",
+    "value": "Ape Flu Poster",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gripe do macaco? Parece sério...",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A gripe do macaco devastou a sociedade Apex. Estranhamente, ninguém que estava no poder estava doente. Havia rumores de que era uma experiência.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Avians podem pegar a gripe do macaco?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Confiante. A gripe do macaco não tem efeito sobre o Glitch.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não estou interessado em pegar isso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Espero que humanos não peguem a gripe do macaco.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Doença e sofrimento. O Apex merece nosso auxílio.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gripe Apex boba, Floran vai te comer.",
+    "path": "/floranDescription"
+  }
+]

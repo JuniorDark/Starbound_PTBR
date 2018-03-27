@@ -1,1 +1,207 @@
-[{"op": "replace", "path": "/scriptConfig/radioMessages/startWithProgress/text", "value": "Parece que você já encontrou alguns itens que fornecem pistas para o paradeiro do artefato. Vou começar a minha análise nestes enquanto você procurar mais!"}, {"op": "replace", "path": "/scriptConfig/radioMessages/complete/text", "value": "Interessante - eu nunca tinha ouvido falar da Grande Biblioteca Pagoda. Eu não preciso de mais informações agora - ^#71f2f6;Volte para o Ark quando você estiver pronto(a)^white;, querido(a)."}, {"op": "replace", "path": "/text", "value": "Devemos agora começar a trabalhar em encontrar o ^orange;artefato Hylotl^reset;. Procure em torno de ^orange;estrelas temperadas^reset;, ^green;e cace por ^orange;pistas^white; em planetas com vastas áreas de ^orange;oceano^reset;, onde os Hylotl residem acima e abaixo das ondas. ^green;Volte aqui quando a sua pesquisa estiver completa^reset;; e se cuide."}, {"op": "replace", "path": "/title", "value": "Encontre Pistas para Localizar o Artefato Hylotl"}, {"op": "replace", "path": "/scriptConfig/descriptions/findClues", "value": "^green;Escaneie objetos^reset; para achar ^orange;pistas sobre o Artefato Hylotl^reset;"}, {"op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Volte a ^orange;Esther^reset; no ^orange;Ark^reset;"}, {"op": "replace", "path": "/completionText", "value": "Essa foi a última pista que precisávamos para encontrar o artefato Hylotl. Trabalho maravilhoso, querido(a)."}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/7/text", "value": "Que peculiar! Mas informações surpresa podem ser mais valiosa do que a informação esperada..."}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/9/text", "value": "Tudo Isso é muito útil, querido(a). Continue procurando!"}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/3/text", "value": "Hm, Eu me pergunto..."}, {"op": "replace", "path": "/scriptConfig/radioMessages/startAlreadyComplete/text", "value": "Você é um bom colecionador de antiguidades Hylotl! Parece que você já localizou pistas suficientes que me permita identificar a localização do Artefato!"}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/librarymodel/text", "value": "Esta biblioteca é feita em detalhes requintados - um palácio de conhecimento! Talvez o seu artefato está guardado em um lugar como este."}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/0/text", "value": "Hmmm, que curioso... Eu preciso cruzar as referências disso."}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/6/text", "value": "Isto confirma algo que eu tinha especulado sobre!"}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/4/text", "value": "Isto é excelente, tudo o que encontrar contribuirá para a formação de uma teoria."}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/hylotlmusicbox/text", "value": "Esta caixa de música toca uma melodia antiga... É um objeto comemorativo, vou pesquisar de onde suas origens são."}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/hylotllibraryposter1/text", "value": "Esta imagem é feita à mão e obviamente representa um edifício de importância cultural..."}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/2/text", "value": "Eu não posso ajudar, mas respeito o quanto a cultura tradicional Hylotl valoriza o conhecimento."}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/5/text", "value": "Esta pista aponta para informações ocultas."}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/pagodaaquarium/text", "value": "Este aquário tem a maquete de uma ilha em cima dele! Que curioso."}, {"op": "replace", "path": "/scriptConfig/radioMessages/uniqueProgress/librarycodex/text", "value": "Os Hylotl protegem e preservam o conhecimento como o tesouro mais precioso... Os livros são seu bem mais precioso, poderia o seu artefato estar armazenado entre um repositório de tomos?"}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/8/text", "value": "Até mesmo o menor pedaço de evidência pode ajudar a descobrir os segredos mais grandiosos do universo."}, {"op": "replace", "path": "/scriptConfig/radioMessages/genericProgress/1/text", "value": "Interessante. Isso certamente terá influência na minha pesquisa."}]
+[
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/complete/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/0/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/1/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/2/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/3/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/4/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/5/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/6/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/7/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/8/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/genericProgress/9/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/startAlreadyComplete/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/startWithProgress/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/hylotllibraryposter1/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/hylotlmusicbox/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/librarycodex/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/librarymodel/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Esther",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/pagodaaquarium/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Volte a ^orange;Esther^reset; no ^orange;Ark^reset;",
+    "path": "/scriptConfig/descriptions/turnIn"
+  },
+  {
+    "op": "replace",
+    "value": "Encontre Pistas para Localizar o Artefato Hylotl",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não posso ajudar, mas respeito o quanto a cultura tradicional Hylotl valoriza o conhecimento.",
+    "path": "/scriptConfig/radioMessages/genericProgress/2/text"
+  },
+  {
+    "op": "replace",
+    "value": "Interessante - eu nunca tinha ouvido falar da Grande Biblioteca Pagoda. Eu não preciso de mais informações agora - ^#71f2f6;Volte para o Ark quando você estiver pronto(a)^white;, querido(a).",
+    "path": "/scriptConfig/radioMessages/complete/text"
+  },
+  {
+    "op": "replace",
+    "value": "Essa foi a última pista que precisávamos para encontrar o artefato Hylotl. Trabalho maravilhoso, querido(a).",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "Os Hylotl protegem e preservam o conhecimento como o tesouro mais precioso... Os livros são seu bem mais precioso, poderia o seu artefato estar armazenado entre um repositório de tomos?",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/librarycodex/text"
+  },
+  {
+    "op": "replace",
+    "value": "Esta biblioteca é feita em detalhes requintados - um palácio de conhecimento! Talvez o seu artefato está guardado em um lugar como este.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/librarymodel/text"
+  },
+  {
+    "op": "replace",
+    "value": "Este aquário tem a maquete de uma ilha em cima dele! Que curioso.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/pagodaaquarium/text"
+  },
+  {
+    "op": "replace",
+    "value": "Esta imagem é feita à mão e obviamente representa um edifício de importância cultural...",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/hylotllibraryposter1/text"
+  },
+  {
+    "op": "replace",
+    "value": "Tudo Isso é muito útil, querido(a). Continue procurando!",
+    "path": "/scriptConfig/radioMessages/genericProgress/9/text"
+  },
+  {
+    "op": "replace",
+    "value": "Esta caixa de música toca uma melodia antiga... É um objeto comemorativo, vou pesquisar de onde suas origens são.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/hylotlmusicbox/text"
+  },
+  {
+    "op": "replace",
+    "value": "Devemos agora começar a trabalhar em encontrar o ^orange;artefato Hylotl^reset;. Procure em torno de ^orange;estrelas temperadas^reset;, ^green;e cace por ^orange;pistas^white; em planetas com vastas áreas de ^orange;oceano^reset;, onde os Hylotl residem acima e abaixo das ondas. ^green;Volte aqui quando a sua pesquisa estiver completa^reset;; e se cuide.",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "Você é um bom colecionador de antiguidades Hylotl! Parece que você já localizou pistas suficientes que me permita identificar a localização do Artefato!",
+    "path": "/scriptConfig/radioMessages/startAlreadyComplete/text"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Escaneie objetos^reset; para achar ^orange;pistas sobre o Artefato Hylotl^reset;",
+    "path": "/scriptConfig/descriptions/findClues"
+  },
+  {
+    "op": "replace",
+    "value": "Até mesmo o menor pedaço de evidência pode ajudar a descobrir os segredos mais grandiosos do universo.",
+    "path": "/scriptConfig/radioMessages/genericProgress/8/text"
+  },
+  {
+    "op": "replace",
+    "value": "Hm, Eu me pergunto...",
+    "path": "/scriptConfig/radioMessages/genericProgress/3/text"
+  },
+  {
+    "op": "replace",
+    "value": "Hmmm, que curioso... Eu preciso cruzar as referências disso.",
+    "path": "/scriptConfig/radioMessages/genericProgress/0/text"
+  },
+  {
+    "op": "replace",
+    "value": "Que peculiar! Mas informações surpresa podem ser mais valiosa do que a informação esperada...",
+    "path": "/scriptConfig/radioMessages/genericProgress/7/text"
+  },
+  {
+    "op": "replace",
+    "value": "Interessante. Isso certamente terá influência na minha pesquisa.",
+    "path": "/scriptConfig/radioMessages/genericProgress/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que você já encontrou alguns itens que fornecem pistas para o paradeiro do artefato. Vou começar a minha análise nestes enquanto você procura mais!",
+    "path": "/scriptConfig/radioMessages/startWithProgress/text"
+  },
+  {
+    "op": "replace",
+    "value": "Esta pista sugere informações ocultas.",
+    "path": "/scriptConfig/radioMessages/genericProgress/5/text"
+  },
+  {
+    "op": "replace",
+    "value": "Isto confirma algo que eu tinha especulado sobre!",
+    "path": "/scriptConfig/radioMessages/genericProgress/6/text"
+  },
+  {
+    "op": "replace",
+    "value": "Isto é excelente, tudo o que encontrar contribuirá para a formação de uma teoria.",
+    "path": "/scriptConfig/radioMessages/genericProgress/4/text"
+  }
+]

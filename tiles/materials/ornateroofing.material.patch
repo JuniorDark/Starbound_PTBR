@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Telhado ornamentado de aparência tradicional."}, {"op": "replace", "path": "/shortdescription", "value": "Ornate Roofing"}, {"op": "replace", "path": "/floranDescription", "value": "Telhado ornamentado é bonito."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Este telhado ornamentado é estruturalmente sólido."}, {"op": "replace", "path": "/novakidDescription", "value": "Não é o que eu estou acostumado, mas telhados são todos os mesmos."}]
+[
+  {
+    "op": "replace",
+    "value": "Não é o que eu estou acostumado, mas telhados são todos os mesmos.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Este telhado ornamentado é estruturalmente sólido.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ornate Roofing",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Telhado ornamentado é bonito.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Telhado ornamentado de aparência tradicional.",
+    "path": "/description"
+  }
+]

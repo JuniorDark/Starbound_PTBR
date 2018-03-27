@@ -1,7 +1,17 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um rifle de ataque de última geração endurecido para uso em ambientes extremos."
+    "value": "Um rifle de ataque de última geração endurecido para uso em ambientes extremos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Plasma Assault Rifle",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sticky Plasma Mines",
+    "path": "/altAbility/name"
   }
 ]

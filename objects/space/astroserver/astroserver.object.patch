@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma grande rack de servidor de computador, com suportes para montagem no chão."
+    "value": "Uma grande rack de servidor de computador, com suportes para montagem no chão.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Este rack de servidor está carregado com equipamentos de informática."
+    "value": "Um rack de servidor elegante.",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Um rack de servidor elegante."
+    "value": "Divertido. A maior parte da tecnologia dentro deste servidor agora pode ser contida dentro de um dispositivo portátil.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Gabinete de sservidor chique cheio de computadoresss."
+    "value": "Astro Server",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Divertido. A maior parte da tecnologia dentro deste servidor agora pode ser contida dentro de um dispositivo portátil."
+    "value": "Computador grande. Do tamanho de uma casa.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Este servidor parece ser configurado para algo importante."
+    "value": "Gabinete de sservidor chique cheio de computadoresss.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Parece que este servidor é refrigerado a líquido, isso é inteligente."
+    "value": "Parece que este servidor é refrigerado a líquido, isso é inteligente.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Computador grande. Do tamanho de uma casa."
+    "value": "Este servidor parece ser configurado para algo importante.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este rack de servidor está carregado com equipamentos de informática.",
+    "path": "/apexDescription"
   }
 ]

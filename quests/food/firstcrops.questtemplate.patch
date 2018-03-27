@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/completionText", "value": "Finalmente, a agricultura começa a se pagar! Eu deveria ver o que mais eu posso encontrar pra crescer."}, {"op": "replace", "path": "/title", "value": "^orange;A Primeira Colheita"}, {"op": "replace", "path": "/text", "value": "Agora que eu tenho uma enxada e um regador, posso começar a cultivar! Eu deveria ^green;arar e regar um pouco de terra para o plantio^white; e ^orange;colher 5 wheat e 5 pearlpeas^white;."}]
+[
+  {
+    "op": "replace",
+    "value": "Finalmente, a agricultura começa a se pagar! Eu deveria ver o que mais eu posso encontrar pra crescer.",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "Agora que eu tenho uma enxada e um regador, posso começar a cultivar! Eu deveria ^green;arar e regar um pouco de terra para o plantio^white; e ^orange;colher 5 wheat e 5 pearlpeas^white;.",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A Primeira Colheita",
+    "path": "/title"
+  }
+]

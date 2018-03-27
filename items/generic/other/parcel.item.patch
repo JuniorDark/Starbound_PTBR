@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Pacote de outra pessoa, embrulhado bem com fita!"}, {"op": "replace", "path": "/shortdescription", "value": "Parcel"}]
+[
+  {
+    "op": "replace",
+    "value": "Parcel",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pacote de outra pessoa, embrulhado bem com fita!",
+    "path": "/description"
+  }
+]

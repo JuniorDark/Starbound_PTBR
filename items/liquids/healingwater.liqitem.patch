@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma medida de água fresca, limpa e curativa. Beber ela vai restaurar seu corpo."}, {"op": "replace", "path": "/shortdescription", "value": "Healing Water"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma medida de água fresca, limpa e curativa. Beber ela vai restaurar seu corpo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Healing Water",
+    "path": "/shortdescription"
+  }
+]

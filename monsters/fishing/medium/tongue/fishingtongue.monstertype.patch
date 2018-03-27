@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Seu corpo é um músculo rosa longo, enrolado firmemente em uma concha fossilizada."}, {"op": "replace", "path": "/shortdescription", "value": "Hermit Tonguile"}]
+[
+  {
+    "op": "replace",
+    "value": "Hermit Tonguile",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Seu corpo é um músculo rosa longo, enrolado firmemente em uma concha fossilizada.",
+    "path": "/description"
+  }
+]

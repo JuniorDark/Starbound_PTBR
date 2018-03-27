@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Um brilhante pedaço de carne."}, {"op": "replace", "path": "/shortdescription", "value": "Um brilhante pedaço de carne."}, {"op": "replace", "path": "/floranDescription", "value": "Carne."}, {"op": "replace", "path": "/glitchDescription", "value": "Horrorizado. Um brilhante pedaço de carne."}]
+[
+  {
+    "op": "replace",
+    "value": "Carne.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um brilhante pedaço de carne.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um brilhante pedaço de carne.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Horrorizado. Um brilhante pedaço de carne.",
+    "path": "/glitchDescription"
+  }
+]

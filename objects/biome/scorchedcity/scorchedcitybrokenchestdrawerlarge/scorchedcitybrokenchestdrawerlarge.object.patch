@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Uma cômoda, muitas das gavetas estão desaparecidas."}, {"op": "replace", "path": "/description", "value": "Uma cômoda, esta faltando algumas gavetas."}, {"op": "replace", "path": "/shortdescription", "value": "Large Broken Drawers"}, {"op": "replace", "path": "/floranDescription", "value": "Uma enorme cômoda quebrada."}, {"op": "replace", "path": "/glitchDescription", "value": "Triste. Uma grande cômoda, quebrada em pedaços."}, {"op": "replace", "path": "/novakidDescription", "value": "Isso com certeza esta quebrado, até mesmo esta faltando algumas gavetas."}, {"op": "replace", "path": "/apexDescription", "value": "Isso uma vez foi uma cômoda, apenas algumas gavetas permanecem."}, {"op": "replace", "path": "/humanDescription", "value": "Uma cômoda, esta faltando algumas gavetas."}, {"op": "replace", "path": "/avianDescription", "value": "Esta cômoda está quebrada."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cômoda, esta faltando algumas gavetas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cômoda, muitas das gavetas estão desaparecidas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cômoda, esta faltando algumas gavetas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma enorme cômoda quebrada.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Large Broken Drawers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Triste. Uma grande cômoda, quebrada em pedaços.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso com certeza esta quebrado, até mesmo esta faltando algumas gavetas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso uma vez foi uma cômoda, apenas algumas gavetas permanecem.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cômoda está quebrada.",
+    "path": "/avianDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Solarium Star"}, {"op": "replace", "path": "/description", "value": "Solarium é encontrado principalmente em planetas que orbitam estrelas ardentes."}]
+[
+  {
+    "op": "replace",
+    "value": "Solarium é encontrado principalmente em planetas que orbitam estrelas ardentes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Solarium Star",
+    "path": "/shortdescription"
+  }
+]

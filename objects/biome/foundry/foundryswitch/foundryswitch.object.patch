@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Provavelmente não é uma boa ideia brincar com interruptores misteriosos em fundições abandonadas."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Um interruptor para maquinaria industrial."}, {"op": "replace", "path": "/apexDescription", "value": "Um interruptor de máquinas industriais."}, {"op": "replace", "path": "/humanDescription", "value": "Apenas um interruptor para uma máquina de algum tipo."}, {"op": "replace", "path": "/description", "value": "Um interruptor para ativar máquinas de fundição."}, {"op": "replace", "path": "/shortdescription", "value": "Foundry Switch"}, {"op": "replace", "path": "/floranDescription", "value": "Interruptor para máquinass."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este interruptor é gorduroso."}, {"op": "replace", "path": "/novakidDescription", "value": "Um interruptor de maquinaria de aparência desajeitada."}]
+[
+  {
+    "op": "replace",
+    "value": "Um interruptor de maquinaria de aparência desajeitada.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um interruptor para ativar máquinas de fundição.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um interruptor de máquinas industriais.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Foundry Switch",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Provavelmente não é uma boa ideia brincar com interruptores misteriosos em fundições abandonadas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas um interruptor para uma máquina de algum tipo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Um interruptor para maquinaria industrial.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interruptor para máquinass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este interruptor é gorduroso.",
+    "path": "/hylotlDescription"
+  }
+]

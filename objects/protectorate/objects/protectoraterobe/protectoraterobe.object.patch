@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Observador. O nosso Grande Protetor atual não usa roupões como estes."}, {"op": "replace", "path": "/novakidDescription", "value": "Roupas de gente chique."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um roupão elegante e escarlate. Grandes Protetores modernos não usam isso."}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Robe Prop"}, {"op": "replace", "path": "/floranDescription", "value": "Grande roupão vermelho. Parece desajeitado!"}, {"op": "replace", "path": "/apexDescription", "value": "Este roupão deve ser feito de um material luxuoso."}, {"op": "replace", "path": "/humanDescription", "value": "Um roupão antiquado usado por Grandes Protetores há muito tempo atrás."}, {"op": "replace", "path": "/avianDescription", "value": "O roupão de um Grande Protetor anterior. Parece confortável."}, {"op": "replace", "path": "/description", "value": "O roupão de um Grande Protetor anterior. Chique!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um roupão elegante e escarlate. Grandes Protetores modernos não usam isso.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um roupão antiquado usado por Grandes Protetores há muito tempo atrás.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grande roupão vermelho. Parece desajeitado!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Roupas de gente chique.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. O nosso Grande Protetor atual não usa roupões como estes.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Robe Prop",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O roupão de um Grande Protetor anterior. Chique!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "O roupão de um Grande Protetor anterior. Parece confortável.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este roupão deve ser feito de um material luxuoso.",
+    "path": "/apexDescription"
+  }
+]

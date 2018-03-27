@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Doomcannon"}, {"op": "replace", "path": "/description", "value": "'...porque no final, Doom é tudo o que conta.'"}]
+[
+  {
+    "op": "replace",
+    "value": "'...porque no final, Doom é tudo o que conta.'",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Doomcannon",
+    "path": "/shortdescription"
+  }
+]

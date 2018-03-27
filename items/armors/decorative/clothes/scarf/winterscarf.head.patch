@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "É um confortável cachecol de tricô. Vista-o ou você vai pegar um resfriado!"}, {"op": "replace", "path": "/shortdescription", "value": "Winter Scarf"}]
+[
+  {
+    "op": "replace",
+    "value": "É um confortável cachecol de tricô. Vista-o ou você vai pegar um resfriado!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Winter Scarf",
+    "path": "/shortdescription"
+  }
+]

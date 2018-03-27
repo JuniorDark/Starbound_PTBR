@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Macaco brilhante sssuper saboroso."}, {"op": "replace", "path": "/glitchDescription", "value": "Desconfiando. Pintura imprecisa suspeita."}, {"op": "replace", "path": "/humanDescription", "value": "Eu não acho que esse cara está vivendo de acordo com sua imagem."}, {"op": "replace", "path": "/avianDescription", "value": "Este Macaco é pintado como um Deus."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um líder verdadeiramente grande não se importa com a fama."}, {"op": "replace", "path": "/shortdescription", "value": "Glorious Leader Painting"}, {"op": "replace", "path": "/description", "value": "Uma pintura muito lisonjeira do Big Ape, Amado Líder dos Apex."}, {"op": "replace", "path": "/novakidDescription", "value": "Um Apex de encontro a um por do sol magnífico."}, {"op": "replace", "path": "/apexDescription", "value": "Big Ape... Esta pintura está pendurada em um milhão casas Apex. Danificar a imagem de Big Ape significa morte."}]
+[
+  {
+    "op": "replace",
+    "value": "Um líder verdadeiramente grande não se importa com a fama.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pintura muito lisonjeira do Big Ape, Amado Líder dos Apex.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um Apex de encontro a um por do sol magnífico.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Big Ape... Esta pintura está pendurada em um milhão casas Apex. Danificar a imagem de Big Ape significa morte.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desconfiando. Pintura imprecisa suspeita.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Glorious Leader Painting",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não acho que esse cara está vivendo de acordo com sua imagem.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Macaco brilhante sssuper saboroso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este Macaco é pintado como um Deus.",
+    "path": "/avianDescription"
+  }
+]

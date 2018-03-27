@@ -1,17 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/category",
-    "value": "tool"
+    "value": "Brocas são rápidas mas quebram rapidamente. Uma alternativa temporária para o manipulador de matéria.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Brocas são rápidas mas quebram rapidamente. Uma alternativa temporária para o manipulador de matéria."
-  },
-  {
-    "op": "replace",
-    "path": "/shortdescription",
-    "value": "Silver Drill"
+    "value": "Silver Drill",
+    "path": "/shortdescription"
   }
 ]

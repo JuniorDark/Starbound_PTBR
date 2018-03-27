@@ -1,1 +1,82 @@
-[{"op": "replace", "path": "/protectorateLoungeTutorial/text", "value": "Seu uniforme está dento de seu armário pessoal... É bem impressionante que você consiga ficar tão calmo quando está atrasado. Muito bom da sua parte."}, {"op": "replace", "path": "/protectorateTentacleBarrier/text", "value": "Você precisa destruir aquele tentáculo para chegar a plataforma de lançamento. Eu sugiro que você pegue uma arma daquele baú."}, {"op": "replace", "path": "/protectorateFloodedDoor/text", "value": "Leituras mostram que a sala atrás desta porta está inundada. É melhor não entrar... Eu aconselho você a encontrar uma forma de passar sobre ela - ^#71f2f6;use a barra de espaço para pular^white; para plataformas mais altas."}, {"op": "replace", "path": "/protectorateGetWeapon/text", "value": "O baú que está perto daquela esteira deve conter algum tipo de arma. Por favor equipe-se!"}, {"op": "replace", "path": "/protectorateDuctPester/text", "value": "Estamos ficando sem tempo. Eu sugiro que você dessa por esta plataforma ^#71f2f6;segurando S para agachar, então apertando a barra de espaço^withe;."}, {"op": "replace", "path": "/protectorateExitBedPester/text", "value": "Bom dia graduado! Você dormiu demais. ^#71f2f6;Pressione A ou D para sair da sua cama^white;."}, {"op": "replace", "path": "/protectorateStage5/text", "value": "Não é seguro ficar aqui! ^#71f2f6;Por favor pegue o Manipulador de Matéria^white;. Você precisa ir a plataforma de transporte!"}, {"op": "replace", "path": "/protectorateDormRoomPester/text", "value": "Lembre-se, você pode abrir uma porta ^#71f2f6;botando o cursor sobre a mesma, e apertando E^white;."}, {"op": "replace", "path": "/protectorateCollapsedGalleryNoMM/text", "value": "Pegue o Manipulador de Matéria largado pela Grande Protetora - Ele vai ser essencial para sua sobrevivência!"}, {"op": "replace", "path": "/protectorateDuct/text", "value": "Para descer de uma plataforma como esta você deve ^#71f2f6;segurar S para agachar e apertar a barra de espaço^white;."}, {"op": "replace", "path": "/protectorateRooftop/text", "value": "A escala do desastre é imensa; a destruição ocorrendo esta além da minha capacidade de quantificação. Você precisa sair deste planeta imediatamente."}, {"op": "replace", "path": "/protectorateWeaponPester/text", "value": "Acesse uma arma com facilidade ao ^#71f2f6;colocar em um dos espaços da barra de ação^white; no topo da tela, então ^#71f2f6;pressione o número correspondente no seu teclado para equipar^white; ou desequipar."}, {"op": "replace", "path": "/protectorateShipPlatform/text", "value": "Eu contornei as verificações de pré-voo. Suba na nave!"}, {"op": "replace", "path": "/protectorateCollapsedGalleryPester/text", "value": "Você pode passar por essa terra usando o seu Manipulador de Matéria. ^#71f2f6;Pressione a tecla R para equipa-lo^white;."}, {"op": "replace", "path": "/protectorateCollapsedGallery/text", "value": "Parece que o teto desabou. O Manipulador de Matéria pode ser usado para limpar esta terra. ^#71f2f6;Pressione a tecla R para equipa-lo^white;, então clique e segure na pilha de terra para cavar sobre ela."}, {"op": "replace", "path": "/protectorateDormRoomTutorial/text", "value": "Para interagir com uma pessoa, porta, ou outro objeto próximo você deve ^#71f2f6;mover seu cursor até ele e então apertar E^white;, se você estiver acordado o suficiente para fazer isso."}]
+[
+  {
+    "op": "replace",
+    "value": "Acesse uma arma com facilidade ao ^#71f2f6;colocar em um dos espaços da barra de ação^white; no topo da tela, então ^#71f2f6;pressione o número correspondente no seu teclado para equipar^white; ou desequipar.",
+    "path": "/protectorateWeaponPester/text"
+  },
+  {
+    "op": "replace",
+    "value": "Bom dia graduado! Você dormiu demais. ^#71f2f6;Pressione A ou D para sair da sua cama^white;.",
+    "path": "/protectorateExitBedPester/text"
+  },
+  {
+    "op": "replace",
+    "value": "Eu contornei as verificações de pré-voo. Suba na nave!",
+    "path": "/protectorateShipPlatform/text"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que o teto desabou. O Manipulador de Matéria pode ser usado para limpar esta terra. ^#71f2f6;Pressione a tecla R para equipa-lo^white;, então clique e segure na pilha de terra para cavar sobre ela.",
+    "path": "/protectorateCollapsedGallery/text"
+  },
+  {
+    "op": "replace",
+    "value": "Não é seguro ficar aqui! ^#71f2f6;Por favor pegue o Manipulador de Matéria^white;. Você precisa ir a plataforma de transporte!",
+    "path": "/protectorateStage5/text"
+  },
+  {
+    "op": "replace",
+    "value": "Lembre-se, você pode abrir uma porta ^#71f2f6;botando o cursor sobre a mesma, e apertando E^white;.",
+    "path": "/protectorateDormRoomPester/text"
+  },
+  {
+    "op": "replace",
+    "value": "Leituras mostram que a sala atrás desta porta está inundada. É melhor não entrar... Eu aconselho você a encontrar uma forma de passar sobre ela - ^#71f2f6;use a barra de espaço para pular^white; para plataformas mais altas.",
+    "path": "/protectorateFloodedDoor/text"
+  },
+  {
+    "op": "replace",
+    "value": "Pegue o Manipulador de Matéria largado pela Grande Protetora - Ele vai ser essencial para sua sobrevivência!",
+    "path": "/protectorateCollapsedGalleryNoMM/text"
+  },
+  {
+    "op": "replace",
+    "value": "O baú que está perto daquela esteira deve conter algum tipo de arma. Por favor equipe-se!",
+    "path": "/protectorateGetWeapon/text"
+  },
+  {
+    "op": "replace",
+    "value": "A escala do desastre é imensa; a destruição ocorrendo esta além da minha capacidade de quantificação. Você precisa sair deste planeta imediatamente.",
+    "path": "/protectorateRooftop/text"
+  },
+  {
+    "op": "replace",
+    "value": "Para interagir com uma pessoa, porta, ou outro objeto próximo você deve ^#71f2f6;mover seu cursor até ele e então apertar E^white;, se você estiver acordado o suficiente para fazer isso.",
+    "path": "/protectorateDormRoomTutorial/text"
+  },
+  {
+    "op": "replace",
+    "value": "Para descer de uma plataforma como esta você deve ^#71f2f6;segurar S para agachar e apertar a barra de espaço^white;.",
+    "path": "/protectorateDuct/text"
+  },
+  {
+    "op": "replace",
+    "value": "Estamos ficando sem tempo. Eu sugiro que você dessa por esta plataforma ^#71f2f6;segurando S para agachar, então apertando a barra de espaço^withe;.",
+    "path": "/protectorateDuctPester/text"
+  },
+  {
+    "op": "replace",
+    "value": "Você pode passar por essa terra usando o seu Manipulador de Matéria. ^#71f2f6;Pressione a tecla R para equipa-lo^white;.",
+    "path": "/protectorateCollapsedGalleryPester/text"
+  },
+  {
+    "op": "replace",
+    "value": "Você precisa destruir aquele tentáculo para chegar a plataforma de lançamento. Eu sugiro que você pegue uma arma daquele baú.",
+    "path": "/protectorateTentacleBarrier/text"
+  },
+  {
+    "op": "replace",
+    "value": "Seu uniforme está dento de seu armário pessoal... É bem impressionante que você consiga ficar tão calmo quando está atrasado. Muito bom da sua parte.",
+    "path": "/protectorateLoungeTutorial/text"
+  }
+]

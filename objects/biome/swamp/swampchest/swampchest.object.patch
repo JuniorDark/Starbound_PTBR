@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Eu me pergunto o que eu poderia guardar dentro de uma coisa como esta."}, {"op": "replace", "path": "/floranDescription", "value": "Floran quer guardar coisasss no baú!"}, {"op": "replace", "path": "/hylotlDescription", "value": "Este baú é bastante feio."}, {"op": "replace", "path": "/humanDescription", "value": "Gostaria de saber se há algum benefício em fazer um baú de galhos?"}, {"op": "replace", "path": "/apexDescription", "value": "Eu não confio na segurança de um baú como este."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Imagine todas as coisas que poderiam ser guardadas aqui."}, {"op": "replace", "path": "/shortdescription", "value": "Swamp Chest"}, {"op": "replace", "path": "/description", "value": "Um baú feito de galhos e raízes."}, {"op": "replace", "path": "/avianDescription", "value": "Um baú feito de recursos naturais. Admirável."}]
+[
+  {
+    "op": "replace",
+    "value": "Um baú feito de recursos naturais. Admirável.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú feito de galhos e raízes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Imagine todas as coisas que poderiam ser guardadas aqui.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran quer guardar coisasss no baú!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gostaria de saber se há algum benefício em fazer um baú de galhos?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto o que eu poderia guardar dentro de uma coisa como esta.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não confio na segurança de um baú como este.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Swamp Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este baú é bastante feio.",
+    "path": "/hylotlDescription"
+  }
+]

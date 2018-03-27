@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Não é uma má quantidade de armazenamento."}, {"op": "replace", "path": "/description", "value": "Um armário de madeira resistente."}, {"op": "replace", "path": "/apexDescription", "value": "Uma quantidade média de espaço de armazenamento."}, {"op": "replace", "path": "/humanDescription", "value": "Um armário com algumas gavetas."}, {"op": "replace", "path": "/avianDescription", "value": "Um pouco mais de espaço de armazenamento seria bom."}, {"op": "replace", "path": "/shortdescription", "value": "Wide Wooden Cabinet"}, {"op": "replace", "path": "/floranDescription", "value": "Armazenamento de tamanho médio."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Uma quantidade média de armazenamento."}, {"op": "replace", "path": "/novakidDescription", "value": "Apenas duas gavetas? Eu poderia fazer com mais."}]
+[
+  {
+    "op": "replace",
+    "value": "Um armário de madeira resistente.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário com algumas gavetas.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pouco mais de espaço de armazenamento seria bom.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma quantidade média de espaço de armazenamento.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Armazenamento de tamanho médio.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Uma quantidade média de armazenamento.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não é uma má quantidade de armazenamento.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas duas gavetas? Eu poderia fazer com mais.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wide Wooden Cabinet",
+    "path": "/shortdescription"
+  }
+]

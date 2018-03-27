@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Com Nojo. O fedor de fruta podre já é bastante evidente."}, {"op": "replace", "path": "/apexDescription", "value": "O aroma desta lâmpada é velho e enjoativo."}, {"op": "replace", "path": "/humanDescription", "value": "Uma lâmpada! Cheira a fruta podre por dentro."}, {"op": "replace", "path": "/hylotlDescription", "value": "O cheiro desta lâmpada ofende todos os meus sentidos."}, {"op": "replace", "path": "/description", "value": "Um cheiro enjoativo e doce se apega ao interior."}, {"op": "replace", "path": "/shortdescription", "value": "Golden Lamp"}, {"op": "replace", "path": "/floranDescription", "value": "Cheira repulsivo."}, {"op": "replace", "path": "/avianDescription", "value": "Uma vez usado para encher um templo com o cheiro de fruta. Agora cheira a fruta podre."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma lâmpada dourada incrível. Pena que fede."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lâmpada! Cheira a fruta podre por dentro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um cheiro enjoativo e doce se apega ao interior.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada dourada incrível. Pena que fede.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Com Nojo. O fedor de fruta podre já é bastante evidente.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Golden Lamp",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma vez usado para encher um templo com o cheiro de fruta. Agora cheira a fruta podre.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cheira repulsivo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O aroma desta lâmpada é velho e enjoativo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O cheiro desta lâmpada ofende todos os meus sentidos.",
+    "path": "/hylotlDescription"
+  }
+]

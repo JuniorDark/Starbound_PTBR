@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma cadeira de jantar adequada para o tipo de pessoa que gosta de caviar."}, {"op": "replace", "path": "/avianDescription", "value": "O veludo parece macio contra minhas penas."}, {"op": "replace", "path": "/shortdescription", "value": "Classic Chair"}, {"op": "replace", "path": "/floranDescription", "value": "Veludo vermelho sangue, cor favorita dos Florans."}, {"op": "replace", "path": "/glitchDescription", "value": "Melancólico. Nosso castelo de casa tinha cadeiras semelhantes."}, {"op": "replace", "path": "/apexDescription", "value": "Madeira rica e veludos macios. Esse luxo..."}, {"op": "replace", "path": "/humanDescription", "value": "O tecido nesta cadeira parece caro."}, {"op": "replace", "path": "/hylotlDescription", "value": "Que tecidos ricos..."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta cadeira é um pouco extravagante para o meu gosto."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma cadeira de jantar adequada para o tipo de pessoa que gosta de caviar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Veludo vermelho sangue, cor favorita dos Florans.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Classic Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Madeira rica e veludos macios. Esse luxo...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que tecidos ricos...",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O tecido nesta cadeira parece caro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O veludo parece macio contra minhas penas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cadeira é um pouco extravagante para o meu gosto.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Melancólico. Nosso castelo de casa tinha cadeiras semelhantes.",
+    "path": "/glitchDescription"
+  }
+]

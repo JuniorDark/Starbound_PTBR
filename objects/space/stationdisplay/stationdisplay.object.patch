@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um tela montada na parede iluminada com um monte de texto azul."
+    "value": "Uma tela, mostrando o que presumo que é uma informação importante.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Uma tela, mostrando o que presumo que é uma informação importante."
+    "value": "Um tela montada na parede iluminada com um monte de texto azul.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "O texto nesta tela é um azul gelado."
+    "value": "Uma tela angular, completa com um texto azul infinitamente rolando.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Floran não se preocupa com placa azul."
+    "value": "Floran não se preocupa com placa azul.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Intrigado. Me pergunto o quanto do texto nesta tela é realmente útil?"
+    "value": "Intrigado. Me pergunto o quanto do texto nesta tela é realmente útil?",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Uma tela angular, completa com um texto azul infinitamente rolando."
+    "value": "Station Display",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "As frias luzes azuis me lembram o luar ondulante na superfície de um rio."
+    "value": "As frias luzes azuis me lembram o luar ondulante na superfície de um rio.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Com certeza há muita informação nisso. Eu não tenho certeza se eu seria capaz de lembrar de tudo."
+    "value": "O texto nesta tela é um azul gelado.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Com certeza há muita informação nisso. Eu não tenho certeza se eu seria capaz de lembrar de tudo.",
+    "path": "/novakidDescription"
   }
 ]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Um computador humano. Tecnológicamente, isso é bastante impressionante."}, {"op": "replace", "path": "/avianDescription", "value": "O que isso opera, eu me pergunto?"}, {"op": "replace", "path": "/humanDescription", "value": "Um computador. Está executando um programa que requer que você digite um código em intervalos de 108 minutos."}, {"op": "replace", "path": "/apexDescription", "value": "Um computador. O teclado é muito pequeno para os dedos Apex."}, {"op": "replace", "path": "/description", "value": "Parece que é usado principalmente para a entrada de dados. Nada muito interessante."}, {"op": "replace", "path": "/floranDescription", "value": "Computador para digitar e encarar."}, {"op": "replace", "path": "/shortdescription", "value": "Small Computer"}, {"op": "replace", "path": "/glitchDescription", "value": "Melancólico. Eu sinto um parentesco com este computador humano."}, {"op": "replace", "path": "/novakidDescription", "value": "Isso é um computador. Eu não tenho certeza se é relevante."}]
+[
+  {
+    "op": "replace",
+    "value": "Um computador. Está executando um programa que requer que você digite um código em intervalos de 108 minutos.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um computador. O teclado é muito pequeno para os dedos Apex.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um computador humano. Tecnológicamente, isso é bastante impressionante.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Computador para digitar e encarar.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que é usado principalmente para a entrada de dados. Nada muito interessante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Small Computer",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é um computador. Eu não tenho certeza se é relevante.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que isso opera, eu me pergunto?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Melancólico. Eu sinto um parentesco com este computador humano.",
+    "path": "/glitchDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Uma lâmpada cintilante normal, protegida para que ele possa funcionar debaixo d'água."}, {"op": "replace", "path": "/floranDescription", "value": "Lâmpada cintilante."}, {"op": "replace", "path": "/hylotlDescription", "value": "É apenas uma lâmpada a prova d'água e cintilante."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta luz é a prova d'água. Algo ainda conseguiu danificá-la."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Uma luz cintilante à prova d'água."}, {"op": "replace", "path": "/description", "value": "Uma pequena luz cintilante que pode funcionar na água."}, {"op": "replace", "path": "/shortdescription", "value": "Small Flickering Flood Light"}, {"op": "replace", "path": "/humanDescription", "value": "É uma luz cintilante projetada para funcionar quando exposta à água."}, {"op": "replace", "path": "/avianDescription", "value": "Esta luz cintilante parece ser à prova d'água."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lâmpada cintilante normal, protegida para que ele possa funcionar debaixo d'água.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pequena luz cintilante que pode funcionar na água.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Lâmpada cintilante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma luz cintilante projetada para funcionar quando exposta à água.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É apenas uma lâmpada a prova d'água e cintilante.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Uma luz cintilante à prova d'água.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Small Flickering Flood Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz cintilante parece ser à prova d'água.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz é a prova d'água. Algo ainda conseguiu danificá-la.",
+    "path": "/novakidDescription"
+  }
+]

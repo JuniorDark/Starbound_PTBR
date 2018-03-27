@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran sse pergunta se porta tem usosss táticoss?"}, {"op": "replace", "path": "/glitchDescription", "value": "Aprovação. Uma porta resistente."}, {"op": "replace", "path": "/apexDescription", "value": "Me pergunto se os canos de latão nesta porta ajudam a mantê-la resistente?"}, {"op": "replace", "path": "/humanDescription", "value": "Essa porta realmente precisa de canos de latão nela?"}, {"op": "replace", "path": "/avianDescription", "value": "Os canos de latão nesta porta realmente ajudam ela se destacar."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma porta aceitável, com algum tipo de moldura de canos de latão."}, {"op": "replace", "path": "/description", "value": "Uma porta de madeira resistente, com uma moldura de canos de latão."}, {"op": "replace", "path": "/shortdescription", "value": "Steamspring Door"}, {"op": "replace", "path": "/novakidDescription", "value": "O tipo de porta que eu pensaria ver na casa de um Xerife."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta de madeira resistente, com uma moldura de canos de latão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta aceitável, com algum tipo de moldura de canos de latão.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aprovação. Uma porta resistente.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa porta realmente precisa de canos de latão nela?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran sse pergunta se porta tem usosss táticoss?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me pergunto se os canos de latão nesta porta ajudam a mantê-la resistente?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Steamspring Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os canos de latão nesta porta realmente ajudam ela se destacar.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O tipo de porta que eu pensaria ver na casa de um Xerife.",
+    "path": "/novakidDescription"
+  }
+]

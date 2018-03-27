@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um armário de cozinha montado na parede."}, {"op": "replace", "path": "/shortdescription", "value": "Kitchen Wall Cabinet"}, {"op": "replace", "path": "/floranDescription", "value": "Floran irá preencher armário com alimentosss saborososss!"}, {"op": "replace", "path": "/apexDescription", "value": "Este armário de cozinha parece carinhosamente feito à mão."}, {"op": "replace", "path": "/humanDescription", "value": "Um armário de cozinha pitoresco, assim como na casa da vovó."}, {"op": "replace", "path": "/avianDescription", "value": "Este armário rústico é devidamente discreto."}, {"op": "replace", "path": "/hylotlDescription", "value": "A aparência simples deste armário desmente a qualidade do seu artesanato."}, {"op": "replace", "path": "/novakidDescription", "value": "Um armário de cozinha prático apto para gente prática do campo."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Um sistema de armazenamento de cozinha bem elaborado."}]
+[
+  {
+    "op": "replace",
+    "value": "Um armário de cozinha montado na parede.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Kitchen Wall Cabinet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário de cozinha prático apto para gente prática do campo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário de cozinha pitoresco, assim como na casa da vovó.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran irá preencher armário com alimentosss saborososss!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Um sistema de armazenamento de cozinha bem elaborado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A aparência simples deste armário desmente a qualidade do seu artesanato.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este armário de cozinha parece carinhosamente feito à mão.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este armário rústico é devidamente discreto.",
+    "path": "/avianDescription"
+  }
+]

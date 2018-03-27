@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Bandage"}, {"op": "replace", "path": "/description", "value": "Uma atadura para curar ferimentos leves. Restaura 50 de vida."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma atadura para curar ferimentos leves. Restaura 50 de vida.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bandage",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Ele tem o maior dente em relação ao corpo de qualquer peixe conhecido."}, {"op": "replace", "path": "/shortdescription", "value": "Lampred"}]
+[
+  {
+    "op": "replace",
+    "value": "Ele tem o maior dente em relação ao corpo de qualquer peixe conhecido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Lampred",
+    "path": "/shortdescription"
+  }
+]

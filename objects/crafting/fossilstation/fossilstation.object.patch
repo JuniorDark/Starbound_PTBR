@@ -1,1 +1,57 @@
-[{"op": "replace", "path": "/description", "value": "Usada para fazer ferramentas de escavação de fósseis e expositores."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Estação de Fóssil"}, {"op": "replace", "path": "/floranDescription", "value": "Floran está curioso sobre rochass fóssseis. Aqui Floran pode fazer ferramentas para encontrar fóssseis!"}, {"op": "replace", "path": "/glitchDescription", "value": "Maravilhado. Para a fabricação de ferramentas para identificar fósseis. Mal posso esperar para usá-la."}, {"op": "replace", "path": "/apexDescription", "value": "Eu posso fazer ferramentas de escavação de fósseis aqui."}, {"op": "replace", "path": "/humanDescription", "value": "Ferramentas de restauração de fósseis são legais. Vamos aprender sobre a história desses mundos!"}, {"op": "replace", "path": "/avianDescription", "value": "Uma estação de fabricação onde eu posso fazer ferramentas de caçar fósseis."}, {"op": "replace", "path": "/hylotlDescription", "value": "Para fazer aparelhos de limpeza de fósseis, para ver o passado."}, {"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/subtitle", "value": "Pincéis de fósseis e expositores"}, {"op": "replace", "path": "/novakidDescription", "value": "Eu não sei muito sobre coisas do passado. Mas talvez eu poderia aprender com essas ferramentas."}, {"op": "replace", "path": "/shortdescription", "value": "^orange;Fossil Station^white;"}]
+[
+  {
+    "op": "replace",
+    "value": "Estação de Fóssil",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Pincéis de fósseis e expositores",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estação de fabricação onde eu posso fazer ferramentas de caçar fósseis.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Maravilhado. Para a fabricação de ferramentas para identificar fósseis. Mal posso esperar para usá-la.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran está curioso sobre rochass fóssseis. Aqui Floran pode fazer ferramentas para encontrar fóssseis!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Para fazer aparelhos de limpeza de fósseis, para ver o passado.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ferramentas de restauração de fósseis são legais. Vamos aprender sobre a história desses mundos!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso fazer ferramentas de escavação de fósseis aqui.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não sei muito sobre coisas do passado. Mas talvez eu poderia aprender com essas ferramentas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Usada para fazer ferramentas de escavação de fósseis e expositores.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Fossil Station^white;",
+    "path": "/shortdescription"
+  }
+]

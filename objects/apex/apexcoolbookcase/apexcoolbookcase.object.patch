@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Ela deve estar cheia de revistas científicas e relatórios de laboratório."}, {"op": "replace", "path": "/floranDescription", "value": "Floran conta históriass na fogueira."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Talvez haja algo a aprender com os Apex."}, {"op": "replace", "path": "/apexDescription", "value": "Uma estante Apex, eu me pergunto se há alguma coisa aqui..."}, {"op": "replace", "path": "/humanDescription", "value": "Uma estante de livros. Meu tradutor tem muito trabalho."}, {"op": "replace", "path": "/avianDescription", "value": "Poucos Avians do meu ninho são capazes de ler."}, {"op": "replace", "path": "/hylotlDescription", "value": "Há muitas grandes bibliotecas na parte inferior dos oceanos Hylotl."}, {"op": "replace", "path": "/shortdescription", "value": "Cool Bookcase"}, {"op": "replace", "path": "/novakidDescription", "value": "Parece conter principalmente literatura relacionada à ciência."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estante de livros. Meu tradutor tem muito trabalho.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estante Apex, eu me pergunto se há alguma coisa aqui...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cool Bookcase",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Talvez haja algo a aprender com os Apex.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Poucos Avians do meu ninho são capazes de ler.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran conta históriass na fogueira.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece conter principalmente literatura relacionada à ciência.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ela deve estar cheia de revistas científicas e relatórios de laboratório.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Há muitas grandes bibliotecas na parte inferior dos oceanos Hylotl.",
+    "path": "/hylotlDescription"
+  }
+]

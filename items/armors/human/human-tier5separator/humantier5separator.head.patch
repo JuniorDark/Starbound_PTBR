@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Adventurer's Helm"}, {"op": "replace", "path": "/description", "value": "Um capacete humano baseado nas cabeças resistente dos Glitch, arte imitando 'vida'."}]
+[
+  {
+    "op": "replace",
+    "value": "Um capacete humano baseado nas cabeças resistente dos Glitch, arte imitando 'vida'.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Adventurer's Helm",
+    "path": "/shortdescription"
+  }
+]

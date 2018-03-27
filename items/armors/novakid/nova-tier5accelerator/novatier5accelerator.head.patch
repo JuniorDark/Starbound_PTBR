@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Bandito's Sombrero"}, {"op": "replace", "path": "/description", "value": "Um sombrero elegante para manter o sol fora de seus olhos e seu ar de mistério intacto."}]
+[
+  {
+    "op": "replace",
+    "value": "Um sombrero elegante para manter o sol fora de seus olhos e seu ar de mistério intacto.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bandito's Sombrero",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Removedor do livre arbítrio."}, {"op": "replace", "path": "/shortdescription", "value": "Symbiote"}]
+[
+  {
+    "op": "replace",
+    "value": "Removedor do livre arbítrio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Symbiote",
+    "path": "/shortdescription"
+  }
+]

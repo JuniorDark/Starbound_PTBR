@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Bend top piece background",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bend top piece background",
+    "path": "/shortdescription"
+  }
+]

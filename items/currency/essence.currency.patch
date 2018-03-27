@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Energia misteriosa usada pelos Antigos. Ele pulsa em harmonia com o universo vivo."
+    "value": "Ancient Essence",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Energia misteriosa usada pelos Anciões. Ela pulsa em harmonia com o universo vivo.",
+    "path": "/description"
   }
 ]

@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/gui/toggleCrafting/caption", "value": "PASSAR"}]
+[
+  {
+    "op": "replace",
+    "value": "PASSAR",
+    "path": "/gui/toggleCrafting/caption"
+  }
+]

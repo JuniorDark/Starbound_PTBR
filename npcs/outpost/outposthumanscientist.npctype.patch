@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/human/default/0", "value": "A entidade que destruiu a Terra poderia atacar outros mundos. Devemos elaborar alguns meios de contra-atacar!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/human/human/0", "value": "Um sobrevivente companheiro! Você não saberia me dizer qualquer cientista que poderia me ajudar com minha pesquisa, não é?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "A entidade que destruiu a Terra poderia atacar outros mundos. Devemos elaborar alguns meios de contra-atacar!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um sobrevivente companheiro! Você não saberia me dizer qualquer cientista que poderia me ajudar com minha pesquisa, não é?",
+    "path": "/scriptConfig/dialog/converse/human/human/0"
+  },
+  {
+    "op": "replace",
+    "value": "A entidade que destruiu a Terra poderia atacar outros mundos. Devemos elaborar alguns meios de contra-atacar!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "A entidade que destruiu a Terra poderia atacar outros mundos. Devemos elaborar alguns meios de contra-atacar!",
+    "path": "/scriptConfig/dialog/converse/human/default/0"
+  }
+]

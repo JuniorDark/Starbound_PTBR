@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Uma tela que parece estar conectada a algum tipo de radar."
+    "value": "Uma tela que parece estar conectada a algum tipo de radar.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Esta tela mostra algum tipo de radar. Eu me pergunto se é importante?"
+    "value": "O vidro está pisscando em verde. Boa cor.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "O radar verde nesta tela é hipnótico..."
+    "value": "Eu me pergunto qual é o propósito desta tela?",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "O vidro está pisscando em verde. Boa cor."
+    "value": "Industrial Display",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Intrigado. Me pergunto de onde as informações nesta tela estão vindo."
+    "value": "Intrigado. Me pergunto de onde as informações nesta tela estão vindo.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Isso parece ser importante, mas na verdade não tenho ideia."
+    "value": "A luz piscando sobre este vidro aqui deve significar algo para alguém.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Eu me pergunto qual é o propósito desta tela?"
+    "value": "O radar verde nesta tela é hipnótico...",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "A luz piscando sobre este vidro aqui deve significar algo para alguém."
+    "value": "Esta tela mostra algum tipo de radar. Eu me pergunto se é importante?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso parece ser importante, mas na verdade não tenho ideia.",
+    "path": "/humanDescription"
   }
 ]

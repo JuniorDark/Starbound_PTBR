@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Pillar Block "}, {"op": "replace", "path": "/description", "value": "Um pilar de pedra de aparência velha."}, {"op": "replace", "path": "/floranDescription", "value": "Pilar de pedra é muito velho."}, {"op": "replace", "path": "/glitchDescription", "value": "Surpreso. Eu acredito que este pilar de pedra é muito velho."}, {"op": "replace", "path": "/novakidDescription", "value": "Isso é um pilar de pedra de aparência velha."}]
+[
+  {
+    "op": "replace",
+    "value": "Surpreso. Eu acredito que este pilar de pedra é muito velho.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pilar de pedra de aparência velha.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pillar Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pilar de pedra é muito velho.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é um pilar de pedra de aparência velha.",
+    "path": "/novakidDescription"
+  }
+]

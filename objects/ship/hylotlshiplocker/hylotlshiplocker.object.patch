@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Eu não sei por que os Hylotl sequer se preocuparam em trancar este compartimento de armazenamento. Qualquer um poderia facilmente arrombar."}, {"op": "replace", "path": "/description", "value": "Um armário. Guardar algumas coisas, por que não?"}, {"op": "replace", "path": "/avianDescription", "value": "Os Hylotl não projetou exatamente este armário com segurança em mente."}, {"op": "replace", "path": "/novakidDescription", "value": "Um armário, para colocar as coisas em."}, {"op": "replace", "path": "/floranDescription", "value": "Floran luta para arrombar o armário, mas consegue eventualmente."}, {"op": "replace", "path": "/glitchDescription", "value": "Cínico. Até mesmo um Floran poderia invadir este simples armário."}, {"op": "replace", "path": "/apexDescription", "value": "Um armário. Muito fácil de arrombar!"}, {"op": "replace", "path": "/shortdescription", "value": "Shiplocker"}, {"op": "replace", "path": "/hylotlDescription", "value": "Um armário seguro. Somente os mais astutos dos ladrões podem arrombar."}]
+[
+  {
+    "op": "replace",
+    "value": "Um armário. Muito fácil de arrombar!",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário seguro. Somente os mais astutos dos ladrões podem arrombar.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cínico. Até mesmo um Floran poderia invadir este simples armário.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran luta para arrombar o armário, mas consegue eventualmente.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não sei por que os Hylotl sequer se preocuparam em trancar este compartimento de armazenamento. Qualquer um poderia facilmente arrombar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Hylotl não projetou exatamente este armário com segurança em mente.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário. Guardar algumas coisas, por que não?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Shiplocker",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário para colocar as coisas dentro.",
+    "path": "/novakidDescription"
+  }
+]

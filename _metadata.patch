@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "Ativos Base do Jogo",
+    "path": "/friendlyName"
+  }
+]

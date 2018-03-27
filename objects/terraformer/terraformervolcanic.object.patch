@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Volcanic Terraformer"}, {"op": "replace", "path": "/description", "value": "Transforma o clima de um planeta em um local vulcânico fumegante."}]
+[
+  {
+    "op": "replace",
+    "value": "Transforma o clima de um planeta em um local vulcânico fumegante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Volcanic Terraformer",
+    "path": "/shortdescription"
+  }
+]

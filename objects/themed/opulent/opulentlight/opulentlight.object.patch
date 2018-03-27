@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Intrigado. Uma lanterna de cristal."}, {"op": "replace", "path": "/apexDescription", "value": "Uma fonte de luz bem feita."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma fonte de luz útil."}, {"op": "replace", "path": "/novakidDescription", "value": "Sempre quis uma lâmpada de cristal."}, {"op": "replace", "path": "/humanDescription", "value": "Uma lâmpada pura e robusta feita de um cristal."}, {"op": "replace", "path": "/description", "value": "Uma luz luxuosa brilhante feita de cristal."}, {"op": "replace", "path": "/shortdescription", "value": "Opulent Light"}, {"op": "replace", "path": "/floranDescription", "value": "Luz de cristal sssegura para Floran."}, {"op": "replace", "path": "/avianDescription", "value": "Este cristal não é Avian, mas brilha de forma semelhante às suas lâmpadas."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma fonte de luz útil.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma fonte de luz bem feita.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz luxuosa brilhante feita de cristal.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada pura e robusta feita de um cristal.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luz de cristal sssegura para Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sempre quis uma lâmpada de cristal.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Intrigado. Uma lanterna de cristal.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Opulent Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este cristal não é Avian, mas brilha de forma semelhante às suas lâmpadas.",
+    "path": "/avianDescription"
+  }
+]

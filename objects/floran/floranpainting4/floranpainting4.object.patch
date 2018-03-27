@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran faz imagem de folha. Folha muito parecida com Floran."}, {"op": "replace", "path": "/glitchDescription", "value": "Orgulhoso. O tema desta pintura é obviamente uma folha."}, {"op": "replace", "path": "/humanDescription", "value": "Uma pintura Floran de uma folha. Faz sentido eu acho."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma imagem de uma folha pega no vento."}, {"op": "replace", "path": "/description", "value": "Parece ser uma pintura de uma folha caindo."}, {"op": "replace", "path": "/shortdescription", "value": "Primitive Leaf Painting"}, {"op": "replace", "path": "/apexDescription", "value": "Uma pintura de uma folha."}, {"op": "replace", "path": "/avianDescription", "value": "Isto é um símbolo ou uma pintura?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Os Floran aspira para produzir arte?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pintura Floran de uma folha. Faz sentido eu acho.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pintura de uma folha.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma imagem de uma folha pega no vento.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Floran aspira para produzir arte?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran faz imagem de folha. Folha muito parecida com Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto é um símbolo ou uma pintura?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece ser uma pintura de uma folha caindo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Primitive Leaf Painting",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Orgulhoso. O tema desta pintura é obviamente uma folha.",
+    "path": "/glitchDescription"
+  }
+]

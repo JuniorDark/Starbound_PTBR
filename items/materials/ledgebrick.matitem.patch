@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Tijolos de pedra com uma pequena saliência."}, {"op": "replace", "path": "/shortdescription", "value": "Ledge Brick"}]
+[
+  {
+    "op": "replace",
+    "value": "Alguns tijolos de aparência velha.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijoloss de pedra esculpidos.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Esta pedra tem uma pequena saliência esculpida.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ledge Brick",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijolos de pedra com uma pequena saliência.",
+    "path": "/description"
+  }
+]

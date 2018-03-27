@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um poderoso corpo de mecha com estilo Glitch, feito de camadas grossas de violium chapeado."
+    "value": "Um poderoso corpo de mecha com estilo Glitch, feito de camadas grossas de violium chapeado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Arthuria Mech Body",
+    "path": "/shortdescription"
   }
 ]

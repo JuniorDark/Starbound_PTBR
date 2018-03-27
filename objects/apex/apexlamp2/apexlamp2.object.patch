@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Lâmpada alta, luz brilhante."}, {"op": "replace", "path": "/apexDescription", "value": "Edição padrão."}, {"op": "replace", "path": "/humanDescription", "value": "Uma lâmpada alta e brilhante."}, {"op": "replace", "path": "/avianDescription", "value": "Uma lâmpada alta. Gostaria de saber como funciona? Não há cristais."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta lâmpada poderia iluminar uma grande sala."}, {"op": "replace", "path": "/description", "value": "Uma lâmpada de madeira alta com um abajur de bolinhas."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Com a luz vem segurança."}, {"op": "replace", "path": "/shortdescription", "value": "Standard Issue Tall Lamp"}, {"op": "replace", "path": "/novakidDescription", "value": "É uma lâmpada alta e de pé."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lâmpada alta. Gostaria de saber como funciona? Não há cristais.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada de madeira alta com um abajur de bolinhas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada alta e brilhante.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma lâmpada alta e de pé.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Com a luz vem segurança.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Standard Issue Tall Lamp",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Edição padrão.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lâmpada alta, luz brilhante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lâmpada poderia iluminar uma grande sala.",
+    "path": "/hylotlDescription"
+  }
+]

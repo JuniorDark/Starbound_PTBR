@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um monumento apropriadamente glorioso dedicado a um líder glorioso."}, {"op": "replace", "path": "/shortdescription", "value": "Big Ape Monument"}, {"op": "replace", "path": "/humanDescription", "value": "É uma grande estátua. Ele parece severo."}, {"op": "replace", "path": "/glitchDescription", "value": "Humilhado. A escala está correta?"}, {"op": "replace", "path": "/apexDescription", "value": "Nosso glorioso líder..."}, {"op": "replace", "path": "/floranDescription", "value": "Um macaco tão grande e sssaboroso."}, {"op": "replace", "path": "/avianDescription", "value": "Uma estátua construída para inspirar orgulho? Ou talvez medo?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma exibição desnecessária de poder."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma grande estátua de um Apex sério."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma grande estátua de um Apex sério.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma exibição desnecessária de poder.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estátua construída para inspirar orgulho? Ou talvez medo?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um monumento apropriadamente glorioso dedicado a um líder glorioso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Big Ape Monument",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Humilhado. A escala está correta?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nosso glorioso líder...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um macaco tão grande e sssaboroso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma grande estátua. Ele parece severo.",
+    "path": "/humanDescription"
+  }
+]

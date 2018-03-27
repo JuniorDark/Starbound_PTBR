@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "O painel exibe informações sobre como interagir com prisioneiros..."}, {"op": "replace", "path": "/shortdescription", "value": "USCM Penal Colony Panel"}, {"op": "replace", "path": "/floranDescription", "value": "\"Não machuque os presos\". Muitas regrasss rígidas."}, {"op": "replace", "path": "/glitchDescription", "value": "Cético. Parece que os guardas têm que realizar verificações para garantir que os prisioneiros sejam humanos. Certamente esse erro não é comum?"}, {"op": "replace", "path": "/apexDescription", "value": "De acordo com isso, os prisioneiros não devem ser cutucados com paus."}, {"op": "replace", "path": "/humanDescription", "value": "Os prisioneiros só podem ter um máximo de trinta videogames ao mesmo tempo. Fale sobre opressão."}, {"op": "replace", "path": "/avianDescription", "value": "Aparentemente pedidos por \"uma boa xícara de chá\" devem ser negados."}, {"op": "replace", "path": "/hylotlDescription", "value": "Isso fala sobre algo chamado \"afogamento simulado\". Talvez algum tipo de tratamento."}, {"op": "replace", "path": "/novakidDescription", "value": "Um guia para interagir com prisioneiros. \"Lembre-se: o preso nunca está certo\"."}]
+[
+  {
+    "op": "replace",
+    "value": "\"Não machuque os presos\". Muitas regrasss rígidas.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um guia para interagir com prisioneiros. \"Lembre-se: o preso nunca está certo\".",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "De acordo com isso, os prisioneiros não devem ser cutucados com paus.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aparentemente pedidos por \"uma boa xícara de chá\" devem ser negados.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os prisioneiros só podem ter um máximo de trinta videogames ao mesmo tempo. Fale sobre opressão.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cético. Parece que os guardas têm que realizar verificações para garantir que os prisioneiros sejam humanos. Certamente esse erro não é comum?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O painel exibe informações sobre como interagir com prisioneiros...",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Isso fala sobre algo chamado \"afogamento simulado\". Talvez algum tipo de tratamento.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "USCM Penal Colony Panel",
+    "path": "/shortdescription"
+  }
+]

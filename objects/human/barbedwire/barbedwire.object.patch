@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Ai! Eu não devo ficar muito perto disso."}, {"op": "replace", "path": "/glitchDescription", "value": "Cauteloso. Este arame afiado pode arranhar até mesmo a mais resistente lataria Glitch."}, {"op": "replace", "path": "/apexDescription", "value": "Arame farpado. A Miniknog costuma usar isto para manter as pessoas fora... ou dentro."}, {"op": "replace", "path": "/shortdescription", "value": "Barbed Wire"}, {"op": "replace", "path": "/humanDescription", "value": "Arame farpado. A perdição da roupa humana."}, {"op": "replace", "path": "/avianDescription", "value": "Arame afiado. Tenho que ter cuidado para não prender minhas penas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Espinhos afiados feitos com arame. Uma forma bárbara e primitiva de segurança."}, {"op": "replace", "path": "/floranDescription", "value": "Fio pontiagudo e afiado."}, {"op": "replace", "path": "/novakidDescription", "value": "Arame farpado."}]
+[
+  {
+    "op": "replace",
+    "value": "Barbed Wire",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Arame farpado.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Arame farpado. A Miniknog costuma usar isto para manter as pessoas fora... ou dentro.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Arame farpado. A perdição da roupa humana.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. Este arame afiado pode arranhar até mesmo a mais resistente lataria Glitch.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ai! Eu não devo ficar muito perto disso.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Espinhos afiados feitos com arame. Uma forma bárbara e primitiva de segurança.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Arame afiado. Tenho que ter cuidado para não prender minhas penas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fio pontiagudo e afiado.",
+    "path": "/floranDescription"
+  }
+]

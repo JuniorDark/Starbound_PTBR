@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Mantém o monstro meleca longe do usuário."}, {"op": "replace", "path": "/shortdescription", "value": "Scientist Coat"}]
+[
+  {
+    "op": "replace",
+    "value": "Mantém o monstro meleca longe do usuário.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Scientist Coat",
+    "path": "/shortdescription"
+  }
+]

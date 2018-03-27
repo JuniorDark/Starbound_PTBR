@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Tenho certeza que esse metal velho poderia ser útil se você limpasse."}, {"op": "replace", "path": "/hylotlDescription", "value": "É simplesmente um pedaço de metal desagradável e enferrujando."}, {"op": "replace", "path": "/avianDescription", "value": "Um pedaço abandonado de metal velho enferrujado."}, {"op": "replace", "path": "/humanDescription", "value": "Isso parece ser um pedaço de metal enferrujado. A natureza fez isso? Como isso é possível?"}, {"op": "replace", "path": "/apexDescription", "value": "Este pedaço de escombro já esta há muito tempo enferrujado."}, {"op": "replace", "path": "/floranDescription", "value": "Floran poderia usssar metal como arma."}, {"op": "replace", "path": "/description", "value": "Um aglomerado de metal enferrujado. Cuidado com as bordas afiadas."}, {"op": "replace", "path": "/glitchDescription", "value": "Nervoso. A visão da ferrugem faz me sentir fraco."}, {"op": "replace", "path": "/shortdescription", "value": "Rusty Bush"}]
+[
+  {
+    "op": "replace",
+    "value": "Um aglomerado de metal enferrujado. Cuidado com as bordas afiadas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um pedaço abandonado de metal velho enferrujado.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran poderia usssar metal como arma.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tenho certeza que esse metal velho poderia ser útil se você limpasse.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É simplesmente um pedaço de metal desagradável e enferrujando.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nervoso. A visão da ferrugem faz me sentir fraco.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rusty Bush",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso parece ser um pedaço de metal enferrujado. A natureza fez isso? Como isso é possível?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este pedaço de escombro já esta há muito tempo enferrujado.",
+    "path": "/apexDescription"
+  }
+]

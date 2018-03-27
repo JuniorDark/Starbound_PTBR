@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Há algo inquietante sobre essas vagens de flores brilhantes."}, {"op": "replace", "path": "/description", "value": "Uma vagem de flor brilhante."}, {"op": "replace", "path": "/shortdescription", "value": "Glow Flower Pod"}, {"op": "replace", "path": "/apexDescription", "value": "Uma vagem de flor brilhante."}, {"op": "replace", "path": "/hylotlDescription", "value": "Eu vi vagens brilhantes assim no fundo do oceano. Sua luz é estranha e etérea."}, {"op": "replace", "path": "/floranDescription", "value": "Vagens brilhantes contêm néctar doce."}, {"op": "replace", "path": "/novakidDescription", "value": "Parece um ovo alienígena!"}, {"op": "replace", "path": "/humanDescription", "value": "Estas vagem de flores brilhante são muito assustadoras. Não é o meu tipo de coisa."}, {"op": "replace", "path": "/glitchDescription", "value": "Nervoso. Esta vagem de flor tem um brilho sinistro nela."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma vagem de flor brilhante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma vagem de flor brilhante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Glow Flower Pod",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vagens brilhantes contêm néctar doce.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vi vagens brilhantes assim no fundo do oceano. Sua luz é estranha e etérea.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece um ovo alienígena!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nervoso. Esta vagem de flor tem um brilho sinistro nela.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há algo inquietante sobre essas vagens de flores brilhantes.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas vagem de flores brilhante são muito assustadoras. Não é o meu tipo de coisa.",
+    "path": "/humanDescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um capacete militar projetado para médicos de combate."}, {"op": "replace", "path": "/shortdescription", "value": "Combat Medic Helmet"}]
+[
+  {
+    "op": "replace",
+    "value": "Um capacete militar projetado para médicos de combate.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Combat Medic Helmet",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/attack/glitch/default/0", "value": "Ameaçador. Esta é a minha fortaleza! Você vai pagar por ter vindo aqui!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/glitch/default/1", "value": "Orgulhoso. Você não é páreo para mim, ate mesmo meus próprios cavaleiros tem medo de mim!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/0", "value": "Ataque!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/glitch/default/2", "value": "Furioso. Você acha que pode vir aqui e apenas pegar o que lhe agrada!?"}]
+[
+  {
+    "op": "replace",
+    "value": "Atacar!",
+    "path": "/scriptConfig/dialog/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Furioso. Você acha que pode vir aqui e apenas pegar o que lhe agrada!?",
+    "path": "/scriptConfig/dialog/attack/glitch/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Ameaçador. Esta é a minha fortaleza! Você vai pagar por ter vindo aqui!",
+    "path": "/scriptConfig/dialog/attack/glitch/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Orgulhoso. Você não é páreo para mim, ate mesmo meus próprios cavaleiros tem medo de mim!",
+    "path": "/scriptConfig/dialog/attack/glitch/default/1"
+  }
+]

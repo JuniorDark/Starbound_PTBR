@@ -1,1 +1,67 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/3", "value": "Vamos fazer negócios novamente em breve!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/0", "value": "Melhore a sua casa com algumas instalações de janelas elegantes!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/1", "value": "Deixe um pouco de luz entrar em sua casa - Adicione algumas janelas!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/2", "value": "Pessoas com janelas em suas casas vivem vidas mais felizes. É um fato!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/3", "value": "Eu vendo materiais para janelas! Construa você mesmo uma casa brilhante, hoje!"}, {"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle", "value": "Vende materiais para janelas"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/welcome/default/default/0", "value": "Você veio! Agora, gostaria de comprar alguns materiais para janelas?"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/welcome/default/default/1", "value": "Maravilhoso. Agora, talvez você gostaria de dar uma olhada nas minhas janelas?"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/welcome/default/default/2", "value": "Aqui estamos nós - Gostaria de comprar um pouco de vidro para fazer janelas?"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/0", "value": "Se você precisar de mais janelas, você sabe onde me encontrar!"}, {"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title", "value": "Vendedor de Janelas"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/1", "value": "Deixe um pouco de luz entrar em sua casa - Volte logo!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/2", "value": "Eu espero que você esteja feliz com as suas janelas!"}]
+[
+  {
+    "op": "replace",
+    "value": "Vende materiais para janelas",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Vendedor de Janelas",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui estamos nós - Gostaria de comprar um pouco de vidro para fazer janelas?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu espero que você esteja feliz com as suas janelas!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu vendo materiais para janelas! Construa você mesmo uma casa brilhante, hoje!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Se você precisar de mais janelas, você sabe onde me encontrar!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Melhore a sua casa com algumas instalações de janelas elegantes!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Deixe um pouco de luz entrar em sua casa - Adicione algumas janelas!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Deixe um pouco de luz entrar em sua casa - Volte logo!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Pessoas com janelas em suas casas vivem vidas mais felizes. É um fato!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Maravilhoso. Agora, talvez você gostaria de dar uma olhada nas minhas janelas?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você veio! Agora, gostaria de comprar alguns materiais para janelas?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Vamos fazer negócios novamente em breve!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/3"
+  }
+]

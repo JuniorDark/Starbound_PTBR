@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Minério de Trianglium. Lindos triângulos brilhantes lisos."}, {"op": "replace", "path": "/shortdescription", "value": "Trianglium Ore"}]
+[
+  {
+    "op": "replace",
+    "value": "Trianglium Ore",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Minério de Trianglium. Lindos triângulos brilhantes lisos.",
+    "path": "/description"
+  }
+]

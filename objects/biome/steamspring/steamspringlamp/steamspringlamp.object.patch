@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma lâmpada estranha feita de madeira e latão."}, {"op": "replace", "path": "/shortdescription", "value": "Steamspring Lamp"}, {"op": "replace", "path": "/floranDescription", "value": "Lâmpada é engraçada - É sssecretamente uma arma?"}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Uma fonte de luz estranhamente montada."}, {"op": "replace", "path": "/apexDescription", "value": "Esta lâmpada tem uma forma muito original."}, {"op": "replace", "path": "/avianDescription", "value": "Que lâmpada de forma interessante!"}, {"op": "replace", "path": "/humanDescription", "value": "Quem fez essa lâmpada? É meio estranha."}, {"op": "replace", "path": "/hylotlDescription", "value": "A forma desta lâmpada lhe dá um charme estranho."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta é uma lâmpada de aparência estranha, se é que eu já vi uma."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lâmpada estranha feita de madeira e latão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Uma fonte de luz estranhamente montada.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lâmpada é engraçada - É sssecretamente uma arma?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Steamspring Lamp",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A forma desta lâmpada lhe dá um charme estranho.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é uma lâmpada de aparência estranha, se é que eu já vi uma.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lâmpada tem uma forma muito original.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que lâmpada de forma interessante!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quem fez essa lâmpada? É meio estranha.",
+    "path": "/humanDescription"
+  }
+]

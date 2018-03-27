@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A etiqueta diz, \"Não é o inseto mais eficiente, é um mistério como o Bobfae sobreviveu como espécie.\""}, {"op": "replace", "path": "/shortdescription", "value": "Bobfae Figurine"}]
+[
+  {
+    "op": "replace",
+    "value": "Bobfae Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"Não é o inseto mais eficiente, é um mistério como o Bobfae sobreviveu como espécie.\"",
+    "path": "/description"
+  }
+]

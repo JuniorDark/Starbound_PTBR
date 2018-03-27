@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Costelas doces e picantes. Delicioso!"}, {"op": "replace", "path": "/shortdescription", "value": "Spicy Ribs"}]
+[
+  {
+    "op": "replace",
+    "value": "Spicy Ribs",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Costelas doces e picantes. Delicioso!",
+    "path": "/description"
+  }
+]

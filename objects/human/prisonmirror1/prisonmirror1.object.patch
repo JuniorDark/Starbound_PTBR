@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Eu posso ver meu reflexo distorcido nos poucos pedaços restantes de espelho."}, {"op": "replace", "path": "/hylotlDescription", "value": "Isso só pode ter sido feito com raiva."}, {"op": "replace", "path": "/avianDescription", "value": "Não vou me gabar de minhas penas aqui tão cedo."}, {"op": "replace", "path": "/humanDescription", "value": "Parece que alguém deve ter sete anos de má sorte. E desta vez não sou eu!"}, {"op": "replace", "path": "/apexDescription", "value": "Um espelho quebrado. Tenho que ter cuidado para não me cortar."}, {"op": "replace", "path": "/description", "value": "Parece que alguém teve um caso das Segundas-feiras."}, {"op": "replace", "path": "/shortdescription", "value": "Large Broken Mirror"}, {"op": "replace", "path": "/floranDescription", "value": "Fragmentos de espelhos afiados fazem boas adagas de arremesso."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Há pelo menos quatrocentos e seis cacos de vidro aqui."}]
+[
+  {
+    "op": "replace",
+    "value": "Large Broken Mirror",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um espelho quebrado. Tenho que ter cuidado para não me cortar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu posso ver meu reflexo distorcido nos poucos pedaços restantes de espelho.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não vou me gabar de minhas penas aqui tão cedo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que alguém teve um caso das Segundas-feiras.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que alguém deve ter sete anos de má sorte. E desta vez não sou eu!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Há pelo menos quatrocentos e seis cacos de vidro aqui.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fragmentos de espelhos afiados fazem boas adagas de arremesso.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso só pode ter sido feito com raiva.",
+    "path": "/hylotlDescription"
+  }
+]

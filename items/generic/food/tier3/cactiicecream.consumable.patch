@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Cacti Ice Cream"}, {"op": "replace", "path": "/description", "value": "Um saboroso prazer espinhoso!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um saboroso prazer espinhoso!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cacti Ice Cream",
+    "path": "/shortdescription"
+  }
+]

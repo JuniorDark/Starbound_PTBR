@@ -1,7 +1,7 @@
 [
   {
     "op": "replace",
-    "path": "/ability/name",
-    "value": "Espada Gigante"
+    "value": "Espada Gigante",
+    "path": "/ability/name"
   }
 ]

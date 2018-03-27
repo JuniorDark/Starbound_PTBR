@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Isto é um rack de curtume, ou algum tipo de cavalete Floran?"}, {"op": "replace", "path": "/glitchDescription", "value": "Confuso. O objetivo deste rack é exibir uma pele animal?"}, {"op": "replace", "path": "/description", "value": "Uma pele animal esticada e secada entre dois grandes ossos."}, {"op": "replace", "path": "/humanDescription", "value": "Acho que este processo curte e endurece o couro."}, {"op": "replace", "path": "/shortdescription", "value": "Primitive Tanning Rack"}, {"op": "replace", "path": "/floranDescription", "value": "Florão estica pele e curti couro. Os ossos mantêm o couro esticado."}, {"op": "replace", "path": "/avianDescription", "value": "Um dispositivo Floran primitivo para o tratamento de couro."}, {"op": "replace", "path": "/hylotlDescription", "value": "É assim que os Floran obtêm couro curtido."}, {"op": "replace", "path": "/novakidDescription", "value": "Algum tipo de couro animal todo esticado."}]
+[
+  {
+    "op": "replace",
+    "value": "Um dispositivo Floran primitivo para o tratamento de couro.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pele animal esticada e secada entre dois grandes ossos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Confuso. O objetivo deste rack é exibir uma pele animal?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Florão estica pele e curti couro. Os ossos mantêm o couro esticado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Acho que este processo curte e endurece o couro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isto é um rack de curtume, ou algum tipo de cavalete Floran?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Primitive Tanning Rack",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de couro animal todo esticado.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É assim que os Floran obtêm couro curtido.",
+    "path": "/hylotlDescription"
+  }
+]

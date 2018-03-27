@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Há algo sobre essa placa que me faz querer perseverar."}, {"op": "replace", "path": "/floranDescription", "value": "Placa boba."}, {"op": "replace", "path": "/avianDescription", "value": "E se eu fosse?"}, {"op": "replace", "path": "/description", "value": "Uma placa de graffiti."}, {"op": "replace", "path": "/shortdescription", "value": "turnback"}, {"op": "replace", "path": "/glitchDescription", "value": "Confiar. Eu deveria fazer o que o graffiti diz. Graffiti não pode mentir, é impossível."}, {"op": "replace", "path": "/humanDescription", "value": "Voltar? Não é provável."}, {"op": "replace", "path": "/hylotlDescription", "value": "Palavras de sabedoria geralmente provêm de fontes improváveis."}, {"op": "replace", "path": "/novakidDescription", "value": "Não vou voltar agora."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma placa de graffiti.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Não vou voltar agora.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Placa boba.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há algo sobre essa placa que me faz querer perseverar.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Confiar. Eu deveria fazer o que o graffiti diz. Graffiti não pode mentir, é impossível.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Voltar? Não é provável.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "E se eu fosse?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Palavras de sabedoria geralmente provêm de fontes improváveis.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "turnback",
+    "path": "/shortdescription"
+  }
+]

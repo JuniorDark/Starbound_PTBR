@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Essa cadeira arruína a vida da sala."}, {"op": "replace", "path": "/avianDescription", "value": "Um pedaço abominável de tecido cobre essa cadeira."}, {"op": "replace", "path": "/shortdescription", "value": "Standard Issue Couch"}, {"op": "replace", "path": "/floranDescription", "value": "Parece velho."}, {"op": "replace", "path": "/glitchDescription", "value": "Chocado. Muitos princípios de design ignorados."}, {"op": "replace", "path": "/apexDescription", "value": "Outra parte feia de mobília que forçou inocentes."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma peça pouco atraente de mobília."}, {"op": "replace", "path": "/description", "value": "Outra vítima dessa estampa de bolinhas."}, {"op": "replace", "path": "/novakidDescription", "value": "Acho que é pra se sentar e não para olhar."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma peça pouco atraente de mobília.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pedaço abominável de tecido cobre essa cadeira.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Outra parte feia de mobília que forçou inocentes.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Outra vítima dessa estampa de bolinhas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Chocado. Muitos princípios de design ignorados.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Acho que é pra se sentar e não para olhar.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece velho.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Standard Issue Couch",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa cadeira arruína a vida da sala.",
+    "path": "/humanDescription"
+  }
+]

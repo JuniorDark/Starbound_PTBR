@@ -1,1 +1,167 @@
-[{"op": "replace", "path": "/systemTypes/Blue/variationParameters/0/description", "value": "Estrela Azul Pequena"}, {"op": "replace", "path": "/satelliteTypes/Tier5/baseParameters/description", "value": "Lua Tier 5"}, {"op": "replace", "path": "/satelliteTypes/Moon/baseParameters/description", "value": "Lua Bog Padrão"}, {"op": "replace", "path": "/systemTypes/Orange/variationParameters/2/description", "value": "Estrela Laranja Grande"}, {"op": "replace", "path": "/planetaryTypes/Tier6/baseParameters/description", "value": "Planeta Tier 6"}, {"op": "replace", "path": "/planetaryTypes/AsteroidField/baseParameters/description", "value": "Campo de Asteróides"}, {"op": "replace", "path": "/planetaryTypes/Barren/baseParameters/description", "value": "Planeta Estéril"}, {"op": "replace", "path": "/planetaryTypes/Tier1/baseParameters/description", "value": "Planeta Tier 1"}, {"op": "replace", "path": "/systemTypes/Blue/variationParameters/1/description", "value": "Estrela Azul Média "}, {"op": "replace", "path": "/planetaryTypes/Tier3/baseParameters/description", "value": "Planeta Tier 3"}, {"op": "replace", "path": "/planetaryTypes/AncientGateway/baseParameters/description", "value": "Portal Antigo"}, {"op": "replace", "path": "/systemTypes/Blue/variationParameters/2/description", "value": "Estrela Azul Grande"}, {"op": "replace", "path": "/systemTypes/Yellow/variationParameters/1/description", "value": "Estrela Amarela Média"}, {"op": "replace", "path": "/systemTypes/Orange/variationParameters/1/description", "value": "Estrela Laranja Média"}, {"op": "replace", "path": "/systemTypes/Red/variationParameters/2/description", "value": "Estrela Vermelha Grande"}, {"op": "replace", "path": "/planetaryTypes/Tier5/baseParameters/description", "value": "Planeta Tier 5"}, {"op": "replace", "path": "/satelliteTypes/Tier1/baseParameters/description", "value": "Lua Tier 1"}, {"op": "replace", "path": "/systemTypes/White/variationParameters/2/description", "value": "Estrela Branca Grande"}, {"op": "replace", "path": "/planetaryTypes/Tier2/baseParameters/description", "value": "Planeta Tier 2"}, {"op": "replace", "path": "/satelliteTypes/Tier2/baseParameters/description", "value": "Lua Tier 2"}, {"op": "replace", "path": "/systemTypes/Orange/variationParameters/0/description", "value": "Estrela Laranja Pequena"}, {"op": "replace", "path": "/planetaryTypes/Moon/baseParameters/description", "value": "Planeta Lua"}, {"op": "replace", "path": "/systemTypes/White/variationParameters/1/description", "value": "Estrela Branca Média"}, {"op": "replace", "path": "/systemTypes/Yellow/variationParameters/0/description", "value": "Estrela Amarela Pequena"}, {"op": "replace", "path": "/satelliteTypes/Tier6/baseParameters/description", "value": "Lua Tier 6"}, {"op": "replace", "path": "/satelliteTypes/Tier4/baseParameters/description", "value": "Lua Tier 4"}, {"op": "replace", "path": "/planetaryTypes/Tier4/baseParameters/description", "value": "Planeta Tier 4"}, {"op": "replace", "path": "/systemTypes/Yellow/variationParameters/2/description", "value": "Estrela Amarela Grande"}, {"op": "replace", "path": "/satelliteTypes/Tier3/baseParameters/description", "value": "Lua Tier 3"}, {"op": "replace", "path": "/systemTypes/Red/variationParameters/1/description", "value": "Estrela Vermelha Média"}, {"op": "replace", "path": "/planetaryTypes/GasGiant/baseParameters/description", "value": "Planeta Gasoso Gigante "}, {"op": "replace", "path": "/systemTypes/White/variationParameters/0/description", "value": "Estrela Branca Pequena"}, {"op": "replace", "path": "/systemTypes/Red/variationParameters/0/description", "value": "Estrela Vermelha Pequena"}]
+[
+  {
+    "op": "replace",
+    "value": "Portal Antigo",
+    "path": "/planetaryTypes/AncientGateway/baseParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Planeta Estéril",
+    "path": "/planetaryTypes/Barren/baseParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Lua Bog Padrão",
+    "path": "/satelliteTypes/Moon/baseParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Planeta Gasoso Gigante ",
+    "path": "/planetaryTypes/GasGiant/baseParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela Azul Grande",
+    "path": "/systemTypes/Blue/variationParameters/2/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela Laranja Grande",
+    "path": "/systemTypes/Orange/variationParameters/2/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela Vermelha Grande",
+    "path": "/systemTypes/Red/variationParameters/2/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela Branca Grande",
+    "path": "/systemTypes/White/variationParameters/2/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela Amarela Grande",
+    "path": "/systemTypes/Yellow/variationParameters/2/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela Azul Média ",
+    "path": "/systemTypes/Blue/variationParameters/1/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela Laranja Média",
+    "path": "/systemTypes/Orange/variationParameters/1/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela Vermelha Média",
+    "path": "/systemTypes/Red/variationParameters/1/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela Branca Média",
+    "path": "/systemTypes/White/variationParameters/1/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela Amarela Média",
+    "path": "/systemTypes/Yellow/variationParameters/1/description"
+  },
+  {
+    "op": "replace",
+    "value": "Planeta Lua",
+    "path": "/planetaryTypes/Moon/baseParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela Azul Pequena",
+    "path": "/systemTypes/Blue/variationParameters/0/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela Laranja Pequena",
+    "path": "/systemTypes/Orange/variationParameters/0/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela Vermelha Pequena",
+    "path": "/systemTypes/Red/variationParameters/0/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela Branca Pequena",
+    "path": "/systemTypes/White/variationParameters/0/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela Amarela Pequena",
+    "path": "/systemTypes/Yellow/variationParameters/0/description"
+  },
+  {
+    "op": "replace",
+    "value": "Lua Tier 1",
+    "path": "/satelliteTypes/Tier1/baseParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Planeta Tier 1",
+    "path": "/planetaryTypes/Tier1/baseParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Lua Tier 2",
+    "path": "/satelliteTypes/Tier2/baseParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Planeta Tier 2",
+    "path": "/planetaryTypes/Tier2/baseParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Lua Tier 3",
+    "path": "/satelliteTypes/Tier3/baseParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Planeta Tier 3",
+    "path": "/planetaryTypes/Tier3/baseParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Lua Tier 4",
+    "path": "/satelliteTypes/Tier4/baseParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Planeta Tier 4",
+    "path": "/planetaryTypes/Tier4/baseParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Lua Tier 5",
+    "path": "/satelliteTypes/Tier5/baseParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Planeta Tier 5",
+    "path": "/planetaryTypes/Tier5/baseParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Lua Tier 6",
+    "path": "/satelliteTypes/Tier6/baseParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Planeta Tier 6",
+    "path": "/planetaryTypes/Tier6/baseParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "Campo de Asteróides",
+    "path": "/planetaryTypes/AsteroidField/baseParameters/description"
+  }
+]

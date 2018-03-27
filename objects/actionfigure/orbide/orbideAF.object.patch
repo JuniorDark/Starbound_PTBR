@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A etiqueta diz, \"Algo sobre a forma como ele manca faz você se sentir desconfortável.\""}, {"op": "replace", "path": "/shortdescription", "value": "Orbide Figurine"}]
+[
+  {
+    "op": "replace",
+    "value": "Orbide Figurine",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A etiqueta diz, \"Algo sobre a forma como ele manca faz você se sentir desconfortável.\"",
+    "path": "/description"
+  }
+]

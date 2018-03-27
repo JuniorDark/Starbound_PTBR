@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Cristais."}, {"op": "replace", "path": "/floranDescription", "value": "Pedras pequenas."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Cristais pequenos."}, {"op": "replace", "path": "/description", "value": "Cristais pequenos."}]
+[
+  {
+    "op": "replace",
+    "value": "Cristais pequenos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cristais.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pedras pequenas.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Cristais pequenos.",
+    "path": "/glitchDescription"
+  }
+]

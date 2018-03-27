@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Precisa de um caçador de recompensas? Eu poderia usar os pixels."}]
+[
+  {
+    "op": "replace",
+    "value": "Precisa de um caçador de recompensas? Eu poderia usar os pixels.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

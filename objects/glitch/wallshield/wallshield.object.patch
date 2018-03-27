@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Uma bela peça de artesanato, mas feita inteiramente a partir de materiais decorativos."}, {"op": "replace", "path": "/description", "value": "Apenas um escudo cerimonial. Não seria muito bom em uma luta."}, {"op": "replace", "path": "/shortdescription", "value": "Glitch Shield Display"}, {"op": "replace", "path": "/apexDescription", "value": "Um escudo atraente. Puramente decorativo, no entanto."}, {"op": "replace", "path": "/humanDescription", "value": "Um escudo atraente, mas de aparência fraca."}, {"op": "replace", "path": "/avianDescription", "value": "Um escudo brilhantemente colorido."}, {"op": "replace", "path": "/floranDescription", "value": "Escudo vermelho de sangue!"}, {"op": "replace", "path": "/glitchDescription", "value": "Divertido. Um escudo puramente decorativo. Um único golpe pesado iria destruí-lo completamente."}, {"op": "replace", "path": "/novakidDescription", "value": "Este escudo parece bonito, mas com certeza não vai ser de qualquer uso."}]
+[
+  {
+    "op": "replace",
+    "value": "Um escudo atraente, mas de aparência fraca.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um escudo brilhantemente colorido.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bela peça de artesanato, mas feita inteiramente a partir de materiais decorativos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Divertido. Um escudo puramente decorativo. Um único golpe pesado iria destruí-lo completamente.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um escudo atraente. Puramente decorativo, no entanto.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Escudo vermelho de sangue!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Glitch Shield Display",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas um escudo cerimonial. Não seria muito bom em uma luta.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Este escudo parece bonito, mas com certeza não vai ser de qualquer uso.",
+    "path": "/novakidDescription"
+  }
+]

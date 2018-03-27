@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Uma estante cheia de livros."}, {"op": "replace", "path": "/description", "value": "Uma estante livremente esculpida. Esta parcialmente preenchida."}, {"op": "replace", "path": "/avianDescription", "value": "Uma estante de livros ornamentada."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma estante de livros tradicional, é obviamente esculpida."}, {"op": "replace", "path": "/shortdescription", "value": "Small Deprived Bookcase"}, {"op": "replace", "path": "/floranDescription", "value": "Floran já esssmagou estante."}, {"op": "replace", "path": "/glitchDescription", "value": "Ciumento. Esta estante é bastante sofisticada."}, {"op": "replace", "path": "/apexDescription", "value": "Esta é uma estante muito antiga e elegante."}, {"op": "replace", "path": "/humanDescription", "value": "Estante chique para livros chiques."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estante de livros tradicional, é obviamente esculpida.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estante de livros ornamentada.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estante livremente esculpida. Esta parcialmente preenchida.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estante chique para livros chiques.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran já esssmagou estante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ciumento. Esta estante é bastante sofisticada.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Small Deprived Bookcase",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é uma estante muito antiga e elegante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estante cheia de livros.",
+    "path": "/novakidDescription"
+  }
+]

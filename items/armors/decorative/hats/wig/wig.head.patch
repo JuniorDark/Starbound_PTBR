@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Very Subtle Wig"}, {"op": "replace", "path": "/description", "value": "Uma peruca discreta que é perfeita para ocasiões casuais."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma peruca discreta que é perfeita para ocasiões casuais.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Very Subtle Wig",
+    "path": "/shortdescription"
+  }
+]

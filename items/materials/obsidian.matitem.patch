@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Obsidian"}, {"op": "replace", "path": "/description", "value": "Obsidiana sólida. É naturalmente preta."}]
+[
+  {
+    "op": "replace",
+    "value": "Espantado. Este obsidiana é extremamente densa e forte.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Obsidian",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Obsssidiana. Rochass pretass fortess.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Obsidiana sólida. É naturalmente preta.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Algumas rochas de obsidiana pretas.",
+    "path": "/novakiddescription"
+  }
+]

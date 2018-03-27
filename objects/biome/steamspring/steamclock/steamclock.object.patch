@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Agora Floran sssabe que horas sssão."}, {"op": "replace", "path": "/shortdescription", "value": "Steam Clock Face"}, {"op": "replace", "path": "/humanDescription", "value": "O que tem mãos, mas não pode bater palmas?"}, {"op": "replace", "path": "/description", "value": "Um belo relógio analógico alimentado a vapor."}, {"op": "replace", "path": "/avianDescription", "value": "Um relógio grande. Você não pode perder isso."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um relógio maior não lhe dará mais tempo."}, {"op": "replace", "path": "/glitchDescription", "value": "Duvidoso. Esse relógio está exibindo a hora certa?"}, {"op": "replace", "path": "/apexDescription", "value": "Um relógio impressionante."}, {"op": "replace", "path": "/novakidDescription", "value": "Um relógio grande. Você não pode perder isso."}]
+[
+  {
+    "op": "replace",
+    "value": "Um relógio maior não lhe dará mais tempo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um relógio grande. Você não pode perder isso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um relógio grande. Você não pode perder isso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um belo relógio analógico alimentado a vapor.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um relógio impressionante.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Duvidoso. Esse relógio está exibindo a hora certa?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Agora Floran sssabe que horas sssão.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Steam Clock Face",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que tem mãos, mas não pode bater palmas?",
+    "path": "/humanDescription"
+  }
+]

@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Uma pedra em espiral fina."}, {"op": "replace", "path": "/shortdescription", "value": "Uma pedra em espiral fina."}, {"op": "replace", "path": "/floranDescription", "value": "Uma pedra estranha e fina."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Uma pedra em espiral fina."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pedra estranha e fina.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Uma pedra em espiral fina.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pedra em espiral fina.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pedra em espiral fina.",
+    "path": "/shortdescription"
+  }
+]

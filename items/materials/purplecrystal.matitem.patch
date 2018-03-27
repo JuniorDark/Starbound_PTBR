@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "A luz parece retorcer dentro desses cristais roxos."}, {"op": "replace", "path": "/shortdescription", "value": "Purple Crystal Block"}]
+[
+  {
+    "op": "replace",
+    "value": "Impressionado. A luz parece dançar através deste cristal roxo.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A luz parece retorcer dentro destes cristais roxos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Crisstal roxo bonito.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Purple Crystal Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este cristal roxo é bastante bonito.",
+    "path": "/novakiddescription"
+  }
+]

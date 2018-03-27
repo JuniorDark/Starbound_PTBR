@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Ancient Strip Light"}, {"op": "replace", "path": "/floranDescription", "value": "Essstranha luz azul..."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Eu não vejo uma fonte de energia para estas luzes antigas."}, {"op": "replace", "path": "/apexDescription", "value": "Estas luzes não parecem ser alimentadas por eletricidade."}, {"op": "replace", "path": "/humanDescription", "value": "Estas luzes pertencem a ruínas antigas, ou uma boate."}, {"op": "replace", "path": "/avianDescription", "value": "Estas luzes emitem um brilho etéreo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Eu me pergunto o que alimenta essas luzes antigas?"}, {"op": "replace", "path": "/novakidDescription", "value": "O que mantém esta luz azul brilhando?"}, {"op": "replace", "path": "/description", "value": "Uma luz misteriosa."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz misteriosa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ancient Strip Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Eu não vejo uma fonte de energia para estas luzes antigas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu me pergunto o que alimenta essas luzes antigas?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essstranha luz azul...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas luzes pertencem a ruínas antigas, ou uma boate.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas luzes não parecem ser alimentadas por eletricidade.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estas luzes emitem um brilho etéreo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O que mantém esta luz azul brilhando?",
+    "path": "/novakidDescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Cuidado com as rajadas de gelo mortal."}, {"op": "replace", "path": "/shortdescription", "value": "Ancient Ice Trap"}, {"op": "replace", "path": "/floranDescription", "value": "Gelo pode ser perigoso."}, {"op": "replace", "path": "/description", "value": "Esta armadilha vomita gelo para deter invasores. "}, {"op": "replace", "path": "/apexDescription", "value": "É uma armadilha de gelo mortal."}, {"op": "replace", "path": "/hylotlDescription", "value": "Gelo, água em sua forma mais mortífera."}, {"op": "replace", "path": "/glitchDescription", "value": "Cauteloso! é uma armadilha de gelo mortal."}, {"op": "replace", "path": "/avianDescription", "value": "Um perigoso mecanismo de gelo."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta armadilha de gelo poderia congelar as patas de um macaco de bronze."}]
+[
+  {
+    "op": "replace",
+    "value": "Um perigoso mecanismo de gelo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ancient Ice Trap",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso! é uma armadilha de gelo mortal.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gelo, água em sua forma mais mortífera.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma armadilha de gelo mortal.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta armadilha de gelo poderia congelar as patas de um macaco de bronze.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta armadilha vomita gelo para deter invasores. ",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cuidado com as rajadas de gelo mortal.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gelo pode ser perigoso.",
+    "path": "/floranDescription"
+  }
+]

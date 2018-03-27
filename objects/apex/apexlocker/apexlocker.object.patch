@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Um armário de laboratório."}, {"op": "replace", "path": "/avianDescription", "value": "Será que tem algo de valor dentro?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Talvez tenha algo útil dentro."}, {"op": "replace", "path": "/description", "value": "Um armário da Miniknog."}, {"op": "replace", "path": "/shortdescription", "value": "Laboratory Locker"}, {"op": "replace", "path": "/floranDescription", "value": "Pesquissssa."}, {"op": "replace", "path": "/glitchDescription", "value": "Animado. Algum item interessante dentro?"}, {"op": "replace", "path": "/apexDescription", "value": "Gostaria de saber se há algum segredo dentro..."}, {"op": "replace", "path": "/novakidDescription", "value": "Um armário. O que tem dentro?"}]
+[
+  {
+    "op": "replace",
+    "value": "Um armário da Miniknog.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário de laboratório.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um armário. O que tem dentro?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Será que tem algo de valor dentro?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Animado. Algum item interessante dentro?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gostaria de saber se há algum segredo dentro...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Laboratory Locker",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez tenha algo útil dentro.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pesquissssa.",
+    "path": "/floranDescription"
+  }
+]

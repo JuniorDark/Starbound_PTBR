@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Um vaso de lava natural."}, {"op": "replace", "path": "/shortdescription", "value": "Um vaso de lava natural."}, {"op": "replace", "path": "/floranDescription", "value": "Líquidos realmente quentes."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Um vaso de lava natural."}]
+[
+  {
+    "op": "replace",
+    "value": "Um vaso de lava natural.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um vaso de lava natural.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Líquidos realmente quentes.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Um vaso de lava natural.",
+    "path": "/glitchDescription"
+  }
+]

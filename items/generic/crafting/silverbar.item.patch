@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Silver Bar"}, {"op": "replace", "path": "/description", "value": "Prata é encontrada em profundidades moderadas da maioria dos planetas em torno de todas as estrelas."}]
+[
+  {
+    "op": "replace",
+    "value": "Prata é encontrada em profundidades moderadas da maioria dos planetas em torno de todas as estrelas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Silver Bar",
+    "path": "/shortdescription"
+  }
+]

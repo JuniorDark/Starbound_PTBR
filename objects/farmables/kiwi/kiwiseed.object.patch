@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Kiwi Seed"}, {"op": "replace", "path": "/avianDescription", "value": "Uma fruta estranha, cheia de sementes deliciosas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Outra fruta excessivamente doce. A superfície é desagradável ao toque."}, {"op": "replace", "path": "/humanDescription", "value": "É um kiwi de chão, um griwi."}, {"op": "replace", "path": "/novakidDescription", "value": "Estes tem gosto igual a um kiwi regular!"}, {"op": "replace", "path": "/description", "value": "Esta variedade particular de kiwi espacial cresce perto do solo."}, {"op": "replace", "path": "/floranDescription", "value": "Fruta peluda e mole."}, {"op": "replace", "path": "/glitchDescription", "value": "Divertido. É notável como muitos alimentos se assemelham com aqueles que comê-los."}, {"op": "replace", "path": "/apexDescription", "value": "O pelo do kiwi espacial é semelhante à de um Apex."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma fruta estranha, cheia de sementes deliciosas.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Divertido. É notável como muitos alimentos se assemelham com aqueles que comê-los.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Outra fruta excessivamente doce. A superfície é desagradável ao toque.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fruta peluda e mole.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um kiwi de chão, um griwi.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Kiwi Seed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "O pelo do kiwi espacial é semelhante à de um Apex.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estes tem gosto igual a um kiwi regular!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta variedade particular de kiwi espacial cresce perto do solo.",
+    "path": "/description"
+  }
+]

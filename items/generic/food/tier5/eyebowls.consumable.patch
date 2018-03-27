@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Eyebowls"}, {"op": "replace", "path": "/description", "value": "Oculemon enchido dentro de meia eggshoot, populares hors d'oeuvres em reuniões Floran."}]
+[
+  {
+    "op": "replace",
+    "value": "Eyebowls",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Oculemon enchido dentro de meia eggshoot, populares hors d'oeuvres em reuniões Floran.",
+    "path": "/description"
+  }
+]

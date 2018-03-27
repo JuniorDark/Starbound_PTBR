@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Neutro. A saída do temporizador alterna entre ligado e desligado a cada 4 segundos."}, {"op": "replace", "path": "/description", "value": "A saída do temporizador alterna entre ligado e desligado a cada 4 segundos."}, {"op": "replace", "path": "/shortdescription", "value": "Timer (4 Sec)"}, {"op": "replace", "path": "/floranDescription", "value": "A saída do temporizador alterna entre ligado e desligado a cada 2 segundosss."}]
+[
+  {
+    "op": "replace",
+    "value": "Neutro. A saída do temporizador alterna entre ligado e desligado a cada 4 segundos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A saída do temporizador alterna entre ligado e desligado a cada 4 segundos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Timer (4 Sec)",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A saída do temporizador alterna entre ligado e desligado a cada 2 segundosss.",
+    "path": "/floranDescription"
+  }
+]

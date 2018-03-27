@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Ervas daninhas."}, {"op": "replace", "path": "/description", "value": "Ervas daninhas."}, {"op": "replace", "path": "/shortdescription", "value": "Ervas daninhas."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Ervas daninhas."}]
+[
+  {
+    "op": "replace",
+    "value": "Relatório. Ervas daninhas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ervas daninhas.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ervas daninhas.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ervas daninhas.",
+    "path": "/floranDescription"
+  }
+]

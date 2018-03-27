@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um fruta que parece tóxica. As aparências enganam?"}, {"op": "replace", "path": "/shortdescription", "value": "Toxictop"}]
+[
+  {
+    "op": "replace",
+    "value": "Um fruta que parece tóxica. As aparências enganam?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Toxictop",
+    "path": "/shortdescription"
+  }
+]

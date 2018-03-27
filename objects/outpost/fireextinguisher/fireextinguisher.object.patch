@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Fire Extinguisher"}, {"op": "replace", "path": "/humanDescription", "value": "Um extintor de incêndio. Espero que eu não precise dele."}, {"op": "replace", "path": "/hylotlDescription", "value": "Algum tipo de dispositivo que pulveriza espuma."}, {"op": "replace", "path": "/description", "value": "Um extintor de incêndio. Não é para brincar."}, {"op": "replace", "path": "/floranDescription", "value": "Floran mata fogo com espuma!"}, {"op": "replace", "path": "/glitchDescription", "value": "Alarmado. Este extintor de incêndio não cumpre os regulamentos de segurança."}, {"op": "replace", "path": "/apexDescription", "value": "Um extintor de incêndio."}, {"op": "replace", "path": "/avianDescription", "value": "Um extintor útil."}, {"op": "replace", "path": "/novakidDescription", "value": "Essa coisa extingue incêndios."}]
+[
+  {
+    "op": "replace",
+    "value": "Um extintor de incêndio.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um extintor de incêndio. Espero que eu não precise dele.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um extintor de incêndio. Não é para brincar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um extintor útil.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alarmado. Este extintor de incêndio não cumpre os regulamentos de segurança.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fire Extinguisher",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran mata fogo com espuma!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de dispositivo que pulveriza espuma.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa coisa extingue incêndios.",
+    "path": "/novakidDescription"
+  }
+]

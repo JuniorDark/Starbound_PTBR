@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma pequena pistola totalmente automática."}, {"op": "replace", "path": "/shortdescription", "value": "NPC Machine Pistol"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pistola pequena totalmente automática.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "NPC Machine Pistol",
+    "path": "/shortdescription"
+  }
+]

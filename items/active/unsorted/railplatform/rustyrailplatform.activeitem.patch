@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma plataforma que segue um caminho definido quando colocada em um trilho."}, {"op": "replace", "path": "/shortdescription", "value": "Rusty Rail Platform"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma plataforma que segue um caminho definido quando colocada em um trilho.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Rusty Rail Platform",
+    "path": "/shortdescription"
+  }
+]

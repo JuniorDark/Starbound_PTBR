@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Um unicórnio de brinquedo fofo. Não é como o real!"}, {"op": "replace", "path": "/description", "value": "Um unicórnio fofinho e adorável. O que não é amar?"}, {"op": "replace", "path": "/shortdescription", "value": "Unicorn Plushie"}, {"op": "replace", "path": "/floranDescription", "value": "Criatura tem chifre na cabeça para esssfaquear."}, {"op": "replace", "path": "/glitchDescription", "value": "Nostálgico. Um unicórnio das lendas antigas."}, {"op": "replace", "path": "/apexDescription", "value": "Um unicórnio, hein? É muito fofo."}, {"op": "replace", "path": "/humanDescription", "value": "É um unicórnio! Que fofo."}, {"op": "replace", "path": "/avianDescription", "value": "Essa criatura parece poderosa. Sua adorabilidade é enganosa."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma bela criatura mítica. No entanto, esta pelúcia é simplesmente adorável."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma bela criatura mítica. No entanto, esta pelúcia é simplesmente adorável.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um unicórnio de brinquedo fofo. Não é como o real!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um unicórnio fofinho e adorável. O que não é amar?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um unicórnio, hein? É muito fofo.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Criatura tem chifre na cabeça para esssfaquear.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um unicórnio! Que fofo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nostálgico. Um unicórnio das lendas antigas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa criatura parece poderosa. Sua adorabilidade é enganosa.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Unicorn Plushie",
+    "path": "/shortdescription"
+  }
+]

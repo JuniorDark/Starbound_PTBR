@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Striped Wood"}, {"op": "replace", "path": "/description", "value": "Um pedaço de madeira alienígena listrada."}]
+[
+  {
+    "op": "replace",
+    "value": "Striped Wood",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pedaço de madeira alienígena listrada. Listrada!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Interessado. Parece que as listras presentes nesta madeira são o resultado de materiais que repelem um ao outro.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Madeira listrada. Faz casssa listrada!",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta madeira aqui está toda coberta de listras.",
+    "path": "/novakiddescription"
+  }
+]

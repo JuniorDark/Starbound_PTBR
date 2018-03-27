@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Cavalheiresco, não acha?"
+    "value": "Cavalheiresco, não acha?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Top Hat",
+    "path": "/shortdescription"
   }
 ]

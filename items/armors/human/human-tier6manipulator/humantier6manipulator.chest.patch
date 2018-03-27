@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Wanderer's Chestguard"}, {"op": "replace", "path": "/description", "value": "Defenda seus órgãos vitais ao mesmo tempo parecendo grande e resistente. Seus inimigos ficarão com ciumes."}]
+[
+  {
+    "op": "replace",
+    "value": "Defenda seus órgãos vitais ao mesmo tempo parecendo grande e resistente. Seus inimigos ficarão com ciumes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Wanderer's Chestguard",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um pedaço de material sintético."}, {"op": "replace", "path": "/shortdescription", "value": "Synthetic Material"}]
+[
+  {
+    "op": "replace",
+    "value": "Um pedaço de material sintético.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Synthetic Material",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Alarmado. Como pode uma tocha estar viva, assim?"}, {"op": "replace", "path": "/description", "value": "Uma tocha levemente cintilante de origem orgânica misteriosa."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu não estou interessado nessa luz de parede. Parece viva de alguma forma!"}, {"op": "replace", "path": "/shortdescription", "value": "Organic Torch"}, {"op": "replace", "path": "/floranDescription", "value": "Luz carnuda missteriosa."}, {"op": "replace", "path": "/apexDescription", "value": "Uma tocha feita inteiramente a partir de matéria orgânica. Desconcertante!"}, {"op": "replace", "path": "/humanDescription", "value": "Como funciona esta tocha? Do que é feita?"}, {"op": "replace", "path": "/avianDescription", "value": "Uma luz de parede feita do que parece material vivo. Como pode isso?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta tocha parece viva, como pode isso?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma tocha levemente cintilante de origem orgânica misteriosa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tocha feita inteiramente a partir de matéria orgânica. Desconcertante!",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz de parede feita do que parece material vivo. Como pode isso?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alarmado. Como pode uma tocha estar viva, assim?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Como funciona esta tocha? Do que é feita?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não estou interessado nessa luz de parede. Parece viva de alguma forma!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luz carnuda missteriosa.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Organic Torch",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta tocha parece viva, como pode isso?",
+    "path": "/hylotlDescription"
+  }
+]

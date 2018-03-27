@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/description", "value": "Um fax do Quartel General Miniknog para a Fortaleza Miniknog #1."}, {"op": "replace", "path": "/title", "value": "Sistemas Defensivos"}, {"op": "replace", "path": "/contentPages/0", "value": "ENVIADO HOJE\nDa: Fortaleza Miniknog #1\nPara: Sede Miniknog\nInformando o QG da eficácia dos novos sistemas defensivos instalados em #1. Também o sucesso do sistema de armas atualmente em desenvolvimento. Todas as expectativas superadas. #1 oferece assistência para o QG em instituir disse sistemas no QG local. Técnicos despachados imediatamente, mediante pedido."}]
+[
+  {
+    "op": "replace",
+    "value": "Um fax do Quartel General Miniknog para a Fortaleza Miniknog #1.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "ENVIADO HOJE\nDa: Fortaleza Miniknog #1\nPara: Sede Miniknog\nInformando o QG da eficácia dos novos sistemas defensivos instalados em #1. Também o sucesso do sistema de armas atualmente em desenvolvimento. Todas as expectativas superadas. #1 oferece assistência para o QG em instituir disse sistemas no QG local. Técnicos despachados imediatamente, mediante pedido.",
+    "path": "/contentPages/0"
+  },
+  {
+    "op": "replace",
+    "value": "Sistemas Defensivos",
+    "path": "/title"
+  }
+]

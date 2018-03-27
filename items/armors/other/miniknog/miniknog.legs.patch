@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Calças blindadas feita para soldados da Miniknog."}, {"op": "replace", "path": "/shortdescription", "value": "Miniknog Greaves"}]
+[
+  {
+    "op": "replace",
+    "value": "Calças blindadas feita para soldados da Miniknog.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Miniknog Greaves",
+    "path": "/shortdescription"
+  }
+]

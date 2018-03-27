@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma cama arco-íris. Colorida e confortável."}, {"op": "replace", "path": "/shortdescription", "value": "Rainbow Bed"}, {"op": "replace", "path": "/floranDescription", "value": "Floran hipnotizado por cores vivas. Sssono."}, {"op": "replace", "path": "/glitchDescription", "value": "Feliz. Esta cama aumenta consideravelmente meu humor."}, {"op": "replace", "path": "/apexDescription", "value": "Uma alegre cama arco-íris. Eu amo isso."}, {"op": "replace", "path": "/hylotlDescription", "value": "A miríade de cores brilhantes me lembra a vida sob o oceano."}, {"op": "replace", "path": "/humanDescription", "value": "Uma cama maravilhosa e colorida. Mal posso esperar para dormir aqui."}, {"op": "replace", "path": "/avianDescription", "value": "Apenas olhar para esta cama me relaxa."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta cama é muito colorida."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma alegre cama arco-íris. Eu amo isso.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama arco-íris. Colorida e confortável.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cama maravilhosa e colorida. Mal posso esperar para dormir aqui.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran hipnotizado por cores vivas. Sssono.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Feliz. Esta cama aumenta consideravelmente meu humor.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas olhar para esta cama me relaxa.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rainbow Bed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A miríade de cores brilhantes me lembra a vida sob o oceano.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta cama é muito colorida.",
+    "path": "/novakidDescription"
+  }
+]

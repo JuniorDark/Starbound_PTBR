@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Qualifica o portador para voar em naves da classe Condor."}, {"op": "replace", "path": "/shortdescription", "value": "Condor License"}]
+[
+  {
+    "op": "replace",
+    "value": "Condor License",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Qualifica o portador para voar em naves da classe Condor.",
+    "path": "/description"
+  }
+]

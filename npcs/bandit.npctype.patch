@@ -1,1 +1,42 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/2", "value": "Aposto que você vai deixar cair um monte de pixels!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/default/default/0", "value": "Ataque!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/0", "value": "Ei, olha, uma presa fácil!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/3", "value": "Você acaba de entrar na toca do lobo!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/4", "value": "Bom, uma luta! Eu estava quase entediado!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/6", "value": "Surpresa, você está prestes a ficar cheio de buracos!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/5", "value": "Isto não é pessoal, eu apenas adoro atacar as pessoas!"}, {"op": "replace", "path": "/scriptConfig/dialog/attack/human/default/1", "value": "Não pense que você sairá dessa facilmente!"}]
+[
+  {
+    "op": "replace",
+    "value": "Atacar!",
+    "path": "/scriptConfig/dialog/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Não pense que você sairá dessa facilmente!",
+    "path": "/scriptConfig/dialog/attack/human/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Bom, uma luta! Eu estava quase entediado!",
+    "path": "/scriptConfig/dialog/attack/human/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Ei, olha, uma presa fácil!",
+    "path": "/scriptConfig/dialog/attack/human/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aposto que você vai deixar cair um monte de pixels!",
+    "path": "/scriptConfig/dialog/attack/human/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Surpresa, você está prestes a ficar cheio de buracos!",
+    "path": "/scriptConfig/dialog/attack/human/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Isto não é pessoal, eu apenas adoro atacar as pessoas!",
+    "path": "/scriptConfig/dialog/attack/human/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Você acaba de entrar na toca do lobo!",
+    "path": "/scriptConfig/dialog/attack/human/default/3"
+  }
+]

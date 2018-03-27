@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Cuidadoso. Este padrão indica que eu deveria tomar cuidado."}, {"op": "replace", "path": "/shortdescription", "value": "Hazard Block"}, {"op": "replace", "path": "/description", "value": "Este padrão sugere cuidado."}, {"op": "replace", "path": "/floranDescription", "value": "Essas faixass significam cuidado."}, {"op": "replace", "path": "/novakidDescription", "value": "Essas faixas são algo que eu deveria prestar atenção."}]
+[
+  {
+    "op": "replace",
+    "value": "Cuidadoso. Este padrão indica que eu deveria tomar cuidado.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hazard Block",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas faixas são algo que eu deveria prestar atenção.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas faixass significam cuidado.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este padrão sugere cuidado.",
+    "path": "/description"
+  }
+]

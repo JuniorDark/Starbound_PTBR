@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/description", "value": "Terra arada seca. Parece que precisa de um pouco de água."}]
+[
+  {
+    "op": "replace",
+    "value": "Terra arada seca. Parece que precisa de um pouco de água.",
+    "path": "/description"
+  }
+]

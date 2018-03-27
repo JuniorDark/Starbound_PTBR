@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um pouco de terra embalada em pequenos tijolos."}, {"op": "replace", "path": "/shortdescription", "value": "Packed Dirt"}]
+[
+  {
+    "op": "replace",
+    "value": "Divertido. Estes tijolos são simplesmente embalados, em forma de terra.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijoloss feitos de terra embalada.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Packed Dirt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijolos de aparência suave, feitos de terra.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um pouco de terra transformada em pequenos tijolos.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op":"replace","path":"/description","value":"Transforme-se em uma esfera que cabe em lugares apertados! ^green;[F]"},{"op":"replace","path":"/shortDescription","value":"Esfera de Distorção"}]
+[
+  {
+    "op": "replace",
+    "value": "Esfera de Distorção",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Transforme-se em uma esfera que cabe em lugares apertados! ^green;[F]",
+    "path": "/description"
+  }
+]

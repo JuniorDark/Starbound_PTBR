@@ -1,1 +1,77 @@
-[{"op":"replace","path":"/gui/windowtitle/title","value":"Terraplanador Planetário"},{"op":"replace","path":"/gui/windowtitle/subtitle","value":"^#b9b5b2;Transforme o planeta inteiro usando Essência!"},{"op":"replace","path":"/gui/lblCurrentStatus/value","value":"Aguardando status..."},{"op":"replace","path":"/statusMessages/worldComplete","value":"^gray;Terraformação do mundo completa."},{"op":"replace","path":"/statusMessages/connecting","value":"^yellow;Conectando ao terraformador..."},{"op":"replace","path":"/statusMessages/active","value":"^yellow;Terraformação em progresso..."},{"op":"replace","path":"/statusMessages/insufficientEssence","value":"^red;Essência insuficiente!"},{"op":"replace","path":"/statusMessages/maxStepSize","value":"^gray;Estágio de terraformagem limitado a %s setores."},{"op":"replace","path":"/errorMessages/needSurface","value":"Deve ser colocado na superfície de um planeta!"},{"op":"replace","path":"/errorMessages/tooClose","value":"Muito próximo de outro terraformer ativo!"},{"op":"replace","path":"/errorMessages/alreadyActive","value":"Terraformação já em andamento!"},{"op":"replace","path":"/errorMessages/worldComplete","value":"Planeta já totalmente terraformado!"},{"op":"replace","path":"/errorMessages/noExpansion","value":"O tamanho do alvo deve ser maior do que o tamanho atual!"}]
+[
+  {
+    "op": "replace",
+    "value": "Terraplanador Planetário",
+    "path": "/gui/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Transforme o planeta inteiro usando Essência!",
+    "path": "/gui/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "0 / 0",
+    "path": "/gui/lblEssenceCount/value"
+  },
+  {
+    "op": "replace",
+    "value": "Deve ser colocado na superfície de um planeta!",
+    "path": "/errorMessages/needSurface"
+  },
+  {
+    "op": "replace",
+    "value": "Planeta já totalmente terraformado!",
+    "path": "/errorMessages/worldComplete"
+  },
+  {
+    "op": "replace",
+    "value": "O tamanho do alvo deve ser maior do que o tamanho atual!",
+    "path": "/errorMessages/noExpansion"
+  },
+  {
+    "op": "replace",
+    "value": "Terraformação já em andamento!",
+    "path": "/errorMessages/alreadyActive"
+  },
+  {
+    "op": "replace",
+    "value": "Muito próximo de outro terraformer ativo!",
+    "path": "/errorMessages/tooClose"
+  },
+  {
+    "op": "replace",
+    "value": "Aguardando status...",
+    "path": "/gui/lblCurrentStatus/value"
+  },
+  {
+    "op": "replace",
+    "value": "^gray;Estágio de terraformagem limitado a %s setores.",
+    "path": "/statusMessages/maxStepSize"
+  },
+  {
+    "op": "replace",
+    "value": "^gray;Terraformação do mundo completa.",
+    "path": "/statusMessages/worldComplete"
+  },
+  {
+    "op": "replace",
+    "value": "^green;ESSÊNCIA^white;",
+    "path": "/gui/lblEssenceLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "^red;Essência insuficiente!",
+    "path": "/statusMessages/insufficientEssence"
+  },
+  {
+    "op": "replace",
+    "value": "^yellow;Conectando ao terraformador...",
+    "path": "/statusMessages/connecting"
+  },
+  {
+    "op": "replace",
+    "value": "^yellow;Terraformação em progresso...",
+    "path": "/statusMessages/active"
+  }
+]

@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Mountainous Microformer"}, {"op": "replace", "path": "/description", "value": "Transforma uma área de um planeta em uma montanha rochosa. \n^red;Microformers são itens de uso único."}]
+[
+  {
+    "op": "replace",
+    "value": "Mountainous Microformer",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Transforma uma área de um planeta em uma montanha rochosa. \n^red;Microformers são itens de uso único.",
+    "path": "/description"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Não tenho certeza de que uma porta gotejando lodo em todos os lugares é a escolha mais higiênica para decorar."}, {"op": "replace", "path": "/apexDescription", "value": "Sob observação próxima, esta porta parece estar ligeiramente vazando alguns fluidos biológicos."}, {"op": "replace", "path": "/description", "value": "Uma porta pegajosa feita de casulos hexagonais orgânicos."}, {"op": "replace", "path": "/shortdescription", "value": "Hive Door"}, {"op": "replace", "path": "/floranDescription", "value": "Floran quer chutar porta pegajosa esstranha."}, {"op": "replace", "path": "/glitchDescription", "value": "Alarmado. Esta porta parece estar pingando algum fluido biológico..."}, {"op": "replace", "path": "/avianDescription", "value": "Esta porta deixa algo pegajoso em minhas penas quando toco..."}, {"op": "replace", "path": "/hylotlDescription", "value": "Posso pensar em mais mil outros materiais com os quais seria mais fácil construir uma porta."}, {"op": "replace", "path": "/novakidDescription", "value": "Estou a ficar com calafrios só de olhar para esta porta."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta pegajosa feita de casulos hexagonais orgânicos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Alarmado. Esta porta parece estar pingando algum fluido biológico...",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran quer chutar porta pegajosa esstranha.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hive Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Posso pensar em mais mil outros materiais com os quais seria mais fácil construir uma porta.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estou a ficar com calafrios só de olhar para esta porta.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não tenho certeza de que uma porta gotejando lodo em todos os lugares é a escolha mais higiênica para decorar.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta deixa algo pegajoso em minhas penas quando toco...",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sob observação próxima, esta porta parece estar ligeiramente vazando alguns fluidos biológicos.",
+    "path": "/apexDescription"
+  }
+]

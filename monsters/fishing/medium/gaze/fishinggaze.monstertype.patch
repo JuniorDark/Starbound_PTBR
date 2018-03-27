@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Seus olhos enormes ajudar a compensar a distorção causada pelas diferentes temperaturas e salinidade da água."}, {"op": "replace", "path": "/shortdescription", "value": "Right Gazer"}]
+[
+  {
+    "op": "replace",
+    "value": "Seus olhos enormes ajudar a compensar a distorção causada pelas diferentes temperaturas e salinidade da água.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Right Gazer",
+    "path": "/shortdescription"
+  }
+]

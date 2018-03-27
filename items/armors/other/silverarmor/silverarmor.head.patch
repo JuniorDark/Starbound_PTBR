@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Silver Helmet"}, {"op": "replace", "path": "/description", "value": "Fique brilhante usando este capacete de prata."}]
+[
+  {
+    "op": "replace",
+    "value": "Silver Helmet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fique brilhante usando este capacete de prata.",
+    "path": "/description"
+  }
+]

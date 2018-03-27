@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Um bloco de gelo."}, {"op": "replace", "path": "/shortdescription", "value": "Um bloco de gelo."}, {"op": "replace", "path": "/floranDescription", "value": "Gelo frio!"}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Um bloco de gelo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um bloco de gelo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um bloco de gelo.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gelo frio!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Relatório. Um bloco de gelo.",
+    "path": "/glitchDescription"
+  }
+]

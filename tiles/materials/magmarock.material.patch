@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Magmarock"}, {"op": "replace", "path": "/floranDescription", "value": "Rochass de magma quente."}, {"op": "replace", "path": "/glitchDescription", "value": "Cauteloso. A temperatura desta rocha de magma permanece perigosamente elevada."}, {"op": "replace", "path": "/novakidDescription", "value": "Melhor eu tomar cuidado com essas rochas de magma em chamas."}, {"op": "replace", "path": "/description", "value": "Rocha de magma. Isso é coisa quente."}]
+[
+  {
+    "op": "replace",
+    "value": "Melhor eu tomar cuidado com essas rochas de magma em chamas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rochass de magma quente.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. A temperatura desta rocha de magma permanece perigosamente elevada.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Magmarock",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rocha de magma. Isso é coisa quente.",
+    "path": "/description"
+  }
+]

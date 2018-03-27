@@ -1,1 +1,7 @@
-[{"op": "replace", "path": "/description", "value": "Este líquido que brilha fracamente parece naturalmente refrescante!"}]
+[
+  {
+    "op": "replace",
+    "value": "Este líquido que brilha fracamente parece naturalmente refrescante!",
+    "path": "/description"
+  }
+]

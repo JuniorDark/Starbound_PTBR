@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Esses figuras são muito fofas."}, {"op": "replace", "path": "/floranDescription", "value": "Brinquedos olhando para Floran!"}, {"op": "replace", "path": "/glitchDescription", "value": "Feliz. Alguns bons brinquedos de colecionadores!"}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Poptop Toy"}, {"op": "replace", "path": "/apexDescription", "value": "Um par de brinquedos."}, {"op": "replace", "path": "/humanDescription", "value": "Alguns bons brinquedos de colecionadores!"}, {"op": "replace", "path": "/avianDescription", "value": "Alguns brinquedos bonitos."}, {"op": "replace", "path": "/novakidDescription", "value": "Alguns brinquedos."}, {"op": "replace", "path": "/description", "value": "Uma figura de ação de Poptop do Protetorado."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma figura de ação de Poptop do Protetorado.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um par de brinquedos.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Feliz. Alguns bons brinquedos de colecionadores!",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Poptop Toy",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns brinquedos bonitos.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns bons brinquedos de colecionadores!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns brinquedos.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esses figuras são muito fofas.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Brinquedos olhando para Floran!",
+    "path": "/floranDescription"
+  }
+]

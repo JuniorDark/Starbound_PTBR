@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um bloco de tungstênio sólido."}, {"op": "replace", "path": "/shortdescription", "value": "Tungsten Block"}]
+[
+  {
+    "op": "replace",
+    "value": "Um bloco de tungstênio sólido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Atento. Estes blocos foram feitos de tungsténio.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Blocoss de tungstênio brilhante.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns blocos lisos feitos de tungsténio.",
+    "path": "/novakiddescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tungsten Block",
+    "path": "/shortdescription"
+  }
+]

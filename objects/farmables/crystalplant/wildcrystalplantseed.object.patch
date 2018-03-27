@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Crystal Plant Seed"}, {"op": "replace", "path": "/apexDescription", "value": "Cresce seus próprios cristais. Util"}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma planta que brota gloriosos cristais brilhantes."}, {"op": "replace", "path": "/floranDescription", "value": "Floran perplexo com planta brilhante."}, {"op": "replace", "path": "/novakidDescription", "value": "Um cristal cultivável! Agora sim!"}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. Cultivar estes em abundância pode prejudicar a economia."}, {"op": "replace", "path": "/humanDescription", "value": "Quando eu era pequeno, eu sempre quis uma árvore de dinheiro. Esta é a melhor coisa depois disso."}, {"op": "replace", "path": "/avianDescription", "value": "Uma planta que cresce cristais. É magico!"}, {"op": "replace", "path": "/description", "value": "Uma planta de cristal. Acontece que o dinheiro cresce em árvores."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma planta de cristal. Acontece que o dinheiro cresce em árvores.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um cristal cultivável! Agora sim!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta que cresce cristais. É magico!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma planta que brota gloriosos cristais brilhantes.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Cultivar estes em abundância pode prejudicar a economia.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Crystal Plant Seed",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran perplexo com planta brilhante.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cresce seus próprios cristais. Util",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quando eu era pequeno, eu sempre quis uma árvore de dinheiro. Esta é a melhor coisa depois disso.",
+    "path": "/humanDescription"
+  }
+]

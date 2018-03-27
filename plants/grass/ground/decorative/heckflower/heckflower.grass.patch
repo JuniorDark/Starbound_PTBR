@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Uma flor carnuda e má."}, {"op": "replace", "path": "/shortdescription", "value": "Flor de Carne"}, {"op": "replace", "path": "/floranDescription", "value": "Flor sssaborosa."}, {"op": "replace", "path": "/glitchDescription", "value": "Nojo. Uma flor feita de carne."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma flor carnuda e má.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Nojo. Uma flor feita de carne.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Flor de Carne",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Flor sssaborosa.",
+    "path": "/floranDescription"
+  }
+]

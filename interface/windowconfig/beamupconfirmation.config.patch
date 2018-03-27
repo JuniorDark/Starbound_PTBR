@@ -1,1 +1,27 @@
-[{"op":"replace","path":"/title","value":"Sair da Missão"},{"op":"replace","path":"/subtitle","value":"Teleportar de volta para sua nave"},{"op":"replace","path":"/message","value":"Saindo desta missão irá resetar o seu progresso para esta área. Tem certeza de que quer se teletransportar?"},{"op":"replace","path":"/okCaption","value":"Ok"},{"op":"replace","path":"/cancelCaption","value":"Cancelar"}]
+[
+  {
+    "op": "replace",
+    "value": "Cancelar",
+    "path": "/cancelCaption"
+  },
+  {
+    "op": "replace",
+    "value": "Sair da Missão",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Saindo desta missão irá resetar o seu progresso para esta área. Tem certeza de que quer se teletransportar?",
+    "path": "/message"
+  },
+  {
+    "op": "replace",
+    "value": "Teleportar de volta para sua nave",
+    "path": "/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Ok",
+    "path": "/okCaption"
+  }
+]

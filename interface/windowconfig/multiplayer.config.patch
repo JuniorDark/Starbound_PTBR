@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/account/hint", "value": "conta do servidor"}, {"op": "replace", "path": "/address/hint", "value": "endereço do servidor"}, {"op": "replace", "path": "/port/hint", "value": "porta"}, {"op": "replace", "path": "/password/hint", "value": "senha do servidor"}, {"op": "replace", "path": "/connect/caption", "value": "Entrar"}]
+[
+  {
+    "op": "replace",
+    "value": "Entrar",
+    "path": "/connect/caption"
+  },
+  {
+    "op": "replace",
+    "value": "porta",
+    "path": "/port/hint"
+  },
+  {
+    "op": "replace",
+    "value": "conta do servidor",
+    "path": "/account/hint"
+  },
+  {
+    "op": "replace",
+    "value": "endereço do servidor",
+    "path": "/address/hint"
+  },
+  {
+    "op": "replace",
+    "value": "senha do servidor",
+    "path": "/password/hint"
+  }
+]

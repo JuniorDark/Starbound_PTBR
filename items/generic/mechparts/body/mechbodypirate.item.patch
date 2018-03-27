@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um corpo de mecha usado principalmente por piratas e mercenários, por razões óbvias."
+    "value": "Um corpo de mecha usado principalmente por piratas e mercenários, por razões óbvias.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Skulduggery Mech Body",
+    "path": "/shortdescription"
   }
 ]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/hylotlDescription", "value": "Um colchão podre. Prefiro manter distância."}, {"op": "replace", "path": "/description", "value": "Este colchão esta imundo! Juro que acabei de ver algo rastejando por dentro."}, {"op": "replace", "path": "/shortdescription", "value": "Dirty Mattress"}, {"op": "replace", "path": "/floranDescription", "value": "Até Floran acha o cheiro repulsssivo."}, {"op": "replace", "path": "/apexDescription", "value": "Isso está se aproximando das condições de nível Miniknog."}, {"op": "replace", "path": "/humanDescription", "value": "Já dormi em piores."}, {"op": "replace", "path": "/avianDescription", "value": "Um colchão nojento."}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. Este colchão precisa ser desinfetado. Posso detectar sinais de vida."}, {"op": "replace", "path": "/novakidDescription", "value": "Que cheiro é esse? Não pode ser... este colchão?!"}]
+[
+  {
+    "op": "replace",
+    "value": "Um colchão nojento.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um colchão podre. Prefiro manter distância.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Este colchão precisa ser desinfetado. Posso detectar sinais de vida.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dirty Mattress",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Até Floran acha o cheiro repulsssivo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Já dormi em piores.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso está se aproximando das condições de nível Miniknog.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este colchão esta imundo! Juro que acabei de ver algo rastejando por dentro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Que cheiro é esse? Não pode ser... este colchão?!",
+    "path": "/novakidDescription"
+  }
+]

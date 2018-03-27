@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Cooked Bacon"}, {"op": "replace", "path": "/description", "value": " Bacon alienígena salgado e crocante."}]
+[
+  {
+    "op": "replace",
+    "value": "Cooked Bacon",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": " Bacon alienígena salgado e crocante.",
+    "path": "/description"
+  }
+]

@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um recipiente de metal selado, que pode ser usado para armazenar líquidos perigosos."
+    "value": "Um cilindro de metal selado, que pode ser usado para armazenar líquidos perigosos.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Este recipiente parece ideal para o transporte de substâncias voláteis."
+    "value": "Industrial Canister",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Que recipiente curiosa - eu me pergunto o que está dentro?"
+    "value": "Isso é um barril de óleo grande? Um barril muito estranho se eu diga.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Tubo amarelo. Poderia ter coisasss dentro."
+    "value": "Observador. Uma breve análise conclui que este cilindro é construído para armazenar com segurança líquidos valiosos.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Observador. Uma breve análise conclui que esta lata é construída para armazenar com segurança líquidos valiosos."
+    "value": "O som que este cilindro faz quando aberto é bastante satisfatório.",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "O som que este recipiente faz quando aberto é bastante satisfatório."
+    "value": "Este cilindro parece ideal para o transporte de substâncias voláteis.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Que recipiente de armazenamento curioso. Talvez seja construído para armazenar combustível?"
+    "value": "Que cilindro curioso - eu me pergunto o que está dentro?",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Isso é um barril de óleo grande? Um barril muito estranho se eu diga."
+    "value": "Que cilindro de armazenamento curioso. Talvez seja construído para armazenar combustível?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tubo amarelo. Poderia ter coisasss dentro.",
+    "path": "/floranDescription"
   }
 ]

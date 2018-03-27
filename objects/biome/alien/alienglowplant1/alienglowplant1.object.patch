@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma planta alienigéna brilhante"}, {"op": "replace", "path": "/shortdescription", "value": "Glowing Alien Plant"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma planta alienigéna brilhante",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Glowing Alien Plant",
+    "path": "/shortdescription"
+  }
+]

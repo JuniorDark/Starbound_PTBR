@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/speak/default/default/0", "value": "Você está realmente atrasado, <entityname>. Por favor vá depressa pra dentro antes que a cerimônia comece."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "A cerimônia vai começar a qualquer momento."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/1", "value": "Leda Portia é uma Grande Protetora honrosa. Ela realmente acredita que pode manter o universo seguro."}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/2", "value": "A vida de um Protetor não será sempre fácil, mas sei que você é parte de uma grande causa."}]
+[
+  {
+    "op": "replace",
+    "value": "Leda Portia é uma Grande Protetora honrosa. Ela realmente acredita que pode manter o universo seguro.",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "A cerimônia vai começar a qualquer momento.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "A vida de um Protetor não será sempre fácil, mas sei que você é parte de uma grande causa.",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você está realmente atrasado, <entityname>. Por favor vá depressa pra dentro antes que a cerimônia comece.",
+    "path": "/scriptConfig/dialog/speak/default/default/0"
+  }
+]

@@ -1,1 +1,72 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/1", "value": "Você precisa... Proteger... Sua propriedade? Não procure mais..."}, {"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title", "value": "Comerciante Caloteiro"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/0", "value": "Volte a qualquer hora se você precisar de alguma... Proteção..."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/1", "value": "Se você precisa proteger mais algumas áreas, você sabe quem chamar..."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/2", "value": "Eu espero que você aprecie meus... Suprimentos."}, {"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle", "value": "Vende armadilhas mortais!"}, {"op": "replace", "path": "/scriptConfig/dialog/tenant/arrivedHome/end/default/default/0", "value": "Aqui está um algo para garantir a minha... Digamos... Segurança."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/welcome/default/default/0", "value": "Aqui estamos..."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/welcome/default/default/1", "value": "Bem-vindo ao meu humilde estabelecimento..."}, {"op": "replace", "path": "/scriptConfig/dialog/tenant/arrivedHome/end/default/default/1", "value": "Aqui está um algo para mostrar o meu apreço..."}, {"op": "replace", "path": "/scriptConfig/dialog/tenant/arrivedHome/end/default/default/2", "value": "Eu morei em lugares piores. Aqui está um pequeno símbolo da minha... Apreciação."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/0", "value": "Eu tenho o que você precisa..."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/welcome/default/default/2", "value": "E aqui estamos nós."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/2", "value": "Quer dar uma olhada em algumas bugigangas interessantes?"}]
+[
+  {
+    "op": "replace",
+    "value": "Comerciante Caloteiro",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Vende armadilhas mortais!",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "E aqui estamos nós.",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Volte a qualquer hora se você precisar de alguma... Proteção...",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui estamos...",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está um algo para garantir a minha... Digamos... Segurança.",
+    "path": "/scriptConfig/dialog/tenant/arrivedHome/end/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui está um algo para mostrar o meu apreço...",
+    "path": "/scriptConfig/dialog/tenant/arrivedHome/end/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Eu tenho o que você precisa...",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu espero que você aprecie meus... Suprimentos.",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Eu morei em lugares piores. Aqui está um pequeno símbolo da minha... Apreciação.",
+    "path": "/scriptConfig/dialog/tenant/arrivedHome/end/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Se você precisa proteger mais algumas áreas, você sabe quem chamar...",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Quer dar uma olhada em algumas bugigangas interessantes?",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Bem-vindo ao meu humilde estabelecimento...",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você precisa... Proteger... Sua propriedade? Não procure mais...",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/1"
+  }
+]

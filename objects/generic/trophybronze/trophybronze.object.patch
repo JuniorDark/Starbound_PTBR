@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Este pequeno troféu é agradável ao olhar."}, {"op": "replace", "path": "/novakidDescription", "value": "Um pequeno troféu, ganho por fazer algo impressionante."}, {"op": "replace", "path": "/description", "value": "A placa diz: \"Nem tudo que reluz é ouro. Premiado por uma vitória heróica.\"."}, {"op": "replace", "path": "/shortdescription", "value": "Warrior's Trophy"}, {"op": "replace", "path": "/floranDescription", "value": "Este troféu é pequeno, mas um bom símbolo."}]
+[
+  {
+    "op": "replace",
+    "value": "Um pequeno troféu, ganho por fazer algo impressionante.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Este pequeno troféu é agradável ao olhar.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A placa diz: \"Nem tudo que reluz é ouro. Premiado por uma vitória heróica.\".",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Este troféu é pequeno, mas um bom símbolo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Warrior's Trophy",
+    "path": "/shortdescription"
+  }
+]

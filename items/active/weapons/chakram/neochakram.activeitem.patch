@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Neo Chakram ^yellow;^reset;"}, {"op": "replace", "path": "/shortdescription", "value": "Neo Chakram"}, {"op": "replace", "path": "/description", "value": "Carregado com energia destrutiva."}]
+[
+  {
+    "op": "replace",
+    "value": "Carregado com energia destrutiva.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Neo Chakram",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Neo Chakram ^yellow;^reset;",
+    "path": "/upgradeParameters/shortdescription"
+  }
+]

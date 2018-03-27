@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Uma luz pequena."}, {"op": "replace", "path": "/description", "value": "Uma luz de parede pequena."}, {"op": "replace", "path": "/shortdescription", "value": "Small Waterproof Light"}, {"op": "replace", "path": "/floranDescription", "value": "Luz."}, {"op": "replace", "path": "/humanDescription", "value": "É uma luz."}, {"op": "replace", "path": "/avianDescription", "value": "Uma luz de parede."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma luminária."}, {"op": "replace", "path": "/apexDescription", "value": "É uma luz de parede."}, {"op": "replace", "path": "/glitchDescription", "value": "Indiferente. Uma luz."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz de parede.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma luz de parede.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luminária.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz pequena.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz de parede pequena.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Indiferente. Uma luz.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma luz.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Luz.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Small Waterproof Light",
+    "path": "/shortdescription"
+  }
+]

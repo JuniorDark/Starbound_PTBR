@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "É tungsténio. Pode ser derretido e transformado em barras."}, {"op": "replace", "path": "/shortdescription", "value": "Tungsten Ore"}]
+[
+  {
+    "op": "replace",
+    "value": "É tungsténio. Pode ser derretido e transformado em barras.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Tungsten Ore",
+    "path": "/shortdescription"
+  }
+]

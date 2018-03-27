@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Uma coleira que aumenta significativamente o dano do seu pet."}, {"op": "replace", "path": "/shortdescription", "value": "Damage III Collar"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma coleira que aumenta significativamente o dano do seu pet.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Damage III Collar",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Alguma espécie de urna. Não é tão elegante quanto as encontradas nas tumbas Avian."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma urna bem trabalhada, é quase uma pena quebra-la."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta urna está implorando para ser esmagada."}, {"op": "replace", "path": "/description", "value": "Uma pequena urna frágil feita de argila."}, {"op": "replace", "path": "/shortdescription", "value": "Small Urn"}, {"op": "replace", "path": "/floranDescription", "value": "Esmague todas as urnass."}, {"op": "replace", "path": "/apexDescription", "value": "Uma pequena urna, duvido que guarde muita coisa dentro."}, {"op": "replace", "path": "/humanDescription", "value": "Há uma maneira rápida de descobrir o que está dentro dessa urna. Quebrando."}, {"op": "replace", "path": "/glitchDescription", "value": "Filosófico. A urna está meio cheia ou meio vazia?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma pequena urna frágil feita de argila.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Small Urn",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pequena urna, duvido que guarde muita coisa dentro.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma urna bem trabalhada, é quase uma pena quebra-la.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Filosófico. A urna está meio cheia ou meio vazia?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguma espécie de urna. Não é tão elegante quanto as encontradas nas tumbas Avian.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esmague todas as urnass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há uma maneira rápida de descobrir o que está dentro dessa urna. Quebrando.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta urna está implorando para ser esmagada.",
+    "path": "/novakidDescription"
+  }
+]

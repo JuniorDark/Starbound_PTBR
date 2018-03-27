@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Canos são uma solução resistente para fazer armazenamento de parede seguro."}, {"op": "replace", "path": "/humanDescription", "value": "Este é um uso bastante criativo de canos antigos."}, {"op": "replace", "path": "/shortdescription", "value": "Steampunk Shelf"}, {"op": "replace", "path": "/avianDescription", "value": "Existe um verdadeiro toque criativo nesta prateleira de aparência reciclada."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este é um método bastante inelegante de armazenar caixas, mas admiro o esforço."}, {"op": "replace", "path": "/description", "value": "Um conjunto de prateleiras penduradas com canos."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Os canos foram arranjados para segurar as prateleiras."}, {"op": "replace", "path": "/novakidDescription", "value": "Me pergunto se aquele relógio velho está quebrado?"}, {"op": "replace", "path": "/floranDescription", "value": "Floran não gosta de livrosss, mas prateleira é boa, eu acho."}]
+[
+  {
+    "op": "replace",
+    "value": "Um conjunto de prateleiras penduradas com canos.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran não gosta de livrosss, mas prateleira é boa, eu acho.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Me pergunto se aquele relógio velho está quebrado?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Os canos foram arranjados para segurar as prateleiras.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Canos são uma solução resistente para fazer armazenamento de parede seguro.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Steampunk Shelf",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Existe um verdadeiro toque criativo nesta prateleira de aparência reciclada.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este é um uso bastante criativo de canos antigos.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este é um método bastante inelegante de armazenar caixas, mas admiro o esforço.",
+    "path": "/hylotlDescription"
+  }
+]

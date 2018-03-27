@@ -1,1 +1,82 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/1", "value": "Você se parece com alguém que precisa de algumas flores!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/follow/default/default/1", "value": "Você gostaria de comprar algumas flores?"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/follow/default/default/2", "value": "Siga-me ate minha loja - Lá você pode comprar alguns vasos de plantas."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/follow/default/default/3", "value": "Você gostaria de ver meus vasos de plantas? Me siga."}, {"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title", "value": "Vendedor de Vaso de Flores"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/0", "value": "Volte logo se você gostaria de comprar mais algumas plantas!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/1", "value": "Obrigado por fazer negócio comigo - Volte se precisar de plantas!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/2", "value": "Volte logo se você gostaria de algumas plantas em vasos!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/default/3", "value": "Se você precisar de plantas que você sabe onde me encontrar."}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/0", "value": "Você gostaria de comprar algumas flores?"}, {"op": "replace", "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle", "value": "Vende vasos de plantas decorativas"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/welcome/default/default/0", "value": "Agora podemos negociar!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/welcome/default/default/1", "value": "Aqui estamos! Vá em frente e procure algo que você pode gostar!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/welcome/default/default/2", "value": "Agora, gostaria de comprar alguns vasos de plantas?"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/follow/default/default/0", "value": "Você gostaria de comprar algumas flores? Venha comigo!"}, {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/default/2", "value": "Devemos negociar! Eu tenho muitos vasos de plantas!"}]
+[
+  {
+    "op": "replace",
+    "value": "Vendedor de Vaso de Flores",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Vende vasos de plantas decorativas",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Volte logo se você gostaria de algumas plantas em vasos!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Volte logo se você gostaria de comprar mais algumas plantas!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Siga-me ate minha loja - Lá você pode comprar alguns vasos de plantas.",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Aqui estamos! Vá em frente e procure algo que você pode gostar!",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Se você precisar de plantas que você sabe onde me encontrar.",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Agora podemos negociar!",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Agora, gostaria de comprar alguns vasos de plantas?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado por fazer negócio comigo - Volte se precisar de plantas!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Devemos negociar! Eu tenho muitos vasos de plantas!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Você gostaria de ver meus vasos de plantas? Me siga.",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Você gostaria de comprar algumas flores?",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você gostaria de comprar algumas flores? Venha comigo!",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você gostaria de comprar algumas flores?",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Você se parece com alguém que precisa de algumas flores!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/1"
+  }
+]

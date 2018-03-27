@@ -1,1 +1,17 @@
-[{"op": "replace", "path": "/description", "value": "A transcrição de uma mensagem de rádio de saída falhada com resposta de bloqueio automático."}, {"op": "replace", "path": "/title", "value": "Falha na Comunicação"}, {"op": "replace", "path": "/contentPages/0", "value": "TRANSCRITO IMPRESSO # 013:\n\nEsta é Lunar 12 para QG Letheia. ... Nós temos uma emergência QG - algum tipo de monstro! Entrou QG! ... O que está acontecendo!? QG, você pode me ouv-\n\n^yellow;[INTERROMPIDO] Esta é a resposta de chamada automática Letheia. A Corporação Letheia está ciente de sua situação. As comunicações de saída da \"Base Lunar 12\" foram encerradas. Esperamos que você tenha um bom dia."}]
+[
+  {
+    "op": "replace",
+    "value": "Falha na Comunicação",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "TRANSCRITO IMPRESSO # 013:\n\nEsta é Lunar 12 para QG Letheia. ... Nós temos uma emergência QG - algum tipo de monstro! Entrou QG! ... O que está acontecendo!? QG, você pode me ouv-\n\n^yellow;[INTERROMPIDO] Esta é a resposta de chamada automática Letheia. A Corporação Letheia está ciente de sua situação. As comunicações de saída da \"Base Lunar 12\" foram encerradas. Esperamos que você tenha um bom dia.",
+    "path": "/contentPages/0"
+  },
+  {
+    "op": "replace",
+    "value": "A transcrição de uma mensagem de rádio de saída falhada com resposta de bloqueio automático.",
+    "path": "/description"
+  }
+]

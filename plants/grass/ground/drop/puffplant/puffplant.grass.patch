@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Declaração. Um puffball."}, {"op": "replace", "path": "/shortdescription", "value": "Um puffball."}, {"op": "replace", "path": "/floranDescription", "value": "Floran gosta de apertar puffball."}, {"op": "replace", "path": "/description", "value": "Um puffball."}]
+[
+  {
+    "op": "replace",
+    "value": "Um puffball.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um puffball.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran gosta de apertar puffball.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Declaração. Um puffball.",
+    "path": "/glitchDescription"
+  }
+]

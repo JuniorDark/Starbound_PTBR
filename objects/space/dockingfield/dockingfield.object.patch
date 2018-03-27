@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Este campo de energia pode conter ambos a atmosfera e a gravidade artificial."
+    "value": "Docking Field",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Um campo de ancoragem espacial, esta energia contém a atmosfera interna."
+    "value": "Um campo de ancoragem espacial, esta energia contém a atmosfera interna.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "A energia neste campo de ancoragem contém ar e gravidade no interior."
+    "value": "Campos de ancoragem como este são comuns no espaço, eles fazem travas de ar bastante eficazes.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Essa energia estalante contém o ar dentro."
+    "value": "Informado. Este campo é um tipo de energia especial destinado a conter a atmosfera e a gravidade artificial.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Informado. Este campo é um tipo de energia especial destinado a conter a atmosfera e a gravidade artificial."
+    "value": "A energia neste campo de ancoragem contém ar e gravidade no interior.",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Este tipo de campo de energia pode conter atmosfera e gravidade dentro das estruturas espaciais."
+    "value": "Essa energia estalante contém o ar dentro.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Campos de ancoragem como este são comuns no espaço, eles fazem travas de ar bastante eficazes."
+    "value": "Este campo de energia pode conter ambos a atmosfera e a gravidade artificial.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Este campo de energia aqui mantém o ar e a gravidade no interior e no espaço externo."
+    "value": "Este campo de energia aqui mantém o ar e a gravidade no interior e no espaço externo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este tipo de campo de energia pode conter atmosfera e gravidade dentro das estruturas espaciais.",
+    "path": "/humanDescription"
   }
 ]

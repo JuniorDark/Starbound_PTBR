@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/humanDescription", "value": "Parece que está faltando alguma coisa nessa estátua..."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma estátua grande de um Apex gigante sem cabeça."}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Deve ter sido um esforço para desfigurar esta estátua."}, {"op": "replace", "path": "/apexDescription", "value": "Nosso líder glorioso decapitado..."}, {"op": "replace", "path": "/avianDescription", "value": "Uma estátua construída para inspirar orgulho? Parece que foi vandalizada."}, {"op": "replace", "path": "/description", "value": "Estátua de Big Ape sem cabeça."}, {"op": "replace", "path": "/shortdescription", "value": "Headless Big Ape Statue"}, {"op": "replace", "path": "/floranDescription", "value": "Floran prefere macaco sem cabeça."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma exposição desnecessária de poder. Alguém concorda que parece e vandalizou esta estátua."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estátua grande de um Apex gigante sem cabeça.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma exposição desnecessária de poder. Alguém concorda que parece e vandalizou esta estátua.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estátua construída para inspirar orgulho? Parece que foi vandalizada.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Estátua de Big Ape sem cabeça.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran prefere macaco sem cabeça.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Headless Big Ape Statue",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Deve ter sido um esforço para desfigurar esta estátua.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nosso líder glorioso decapitado...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que está faltando alguma coisa nessa estátua...",
+    "path": "/humanDescription"
+  }
+]

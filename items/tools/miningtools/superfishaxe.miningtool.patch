@@ -1,12 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um passo abaixo de um sharknado."
+    "value": "Fishaxe",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/shortdescription",
-    "value": "Fishaxe"
+    "value": "Um passo abaixo de um sharknado.",
+    "path": "/description"
   }
 ]

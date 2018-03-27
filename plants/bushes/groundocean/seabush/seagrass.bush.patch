@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Erva marinha."}, {"op": "replace", "path": "/shortdescription", "value": "Erva marinha"}, {"op": "replace", "path": "/floranDescription", "value": "Ervas daninhas viscosas."}, {"op": "replace", "path": "/glitchDescription", "value": "Relatório. Arbusto do mar."}]
+[
+  {
+    "op": "replace",
+    "value": "Erva marinha",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Erva marinha.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Afirmação. Arbusto do mar.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ervas viscosasss",
+    "path": "/floranDescription"
+  }
+]

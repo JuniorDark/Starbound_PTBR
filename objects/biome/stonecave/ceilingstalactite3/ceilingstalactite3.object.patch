@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Essstalactite"}, {"op": "replace", "path": "/shortdescription", "value": "Rock Stalactite"}, {"op": "replace", "path": "/glitchDescription", "value": "Cauteloso. Estalactite pode cair e penetrar lataria Glitch."}, {"op": "replace", "path": "/description", "value": "Isso é uma velha estalactite de rocha."}, {"op": "replace", "path": "/apexDescription", "value": "Um espinho afiado, feito de rocha."}, {"op": "replace", "path": "/humanDescription", "value": "Não me lembro se isso é uma estalactite ou uma estalagmite."}, {"op": "replace", "path": "/avianDescription", "value": "Essa pedra parece uma lança."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma estalactite bonita e polida."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma estalactite. Espero que esteja bem presa."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma estalactite bonita e polida.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um espinho afiado, feito de rocha.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma estalactite. Espero que esteja bem presa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. Estalactite pode cair e penetrar lataria Glitch.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não me lembro se isso é uma estalactite ou uma estalagmite.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rock Stalactite",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essstalactite",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é uma velha estalactite de rocha.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Essa pedra parece uma lança.",
+    "path": "/avianDescription"
+  }
+]

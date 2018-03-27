@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Um alvo usado para a prática de tiro com arco."}, {"op": "replace", "path": "/humanDescription", "value": "Estou surpreso que não haja uma flecha presa neste alvo."}, {"op": "replace", "path": "/avianDescription", "value": "Um conjunto de anéis pintados em uma placa de madeira. Mas para que propósito?"}, {"op": "replace", "path": "/description", "value": "Na mosca!"}, {"op": "replace", "path": "/shortdescription", "value": "Target"}, {"op": "replace", "path": "/floranDescription", "value": "Pintura do homem de metal estranha."}, {"op": "replace", "path": "/hylotlDescription", "value": "Algum tipo de jogo, talvez?"}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Glitch pratica tiro com arco com grande habilidade."}, {"op": "replace", "path": "/novakidDescription", "value": "Isso é bom, mas um pouco desatualizado. Eu deveria fazer um teste..."}]
+[
+  {
+    "op": "replace",
+    "value": "Um conjunto de anéis pintados em uma placa de madeira. Mas para que propósito?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um alvo usado para a prática de tiro com arco.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Na mosca!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Estou surpreso que não haja uma flecha presa neste alvo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Glitch pratica tiro com arco com grande habilidade.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Algum tipo de jogo, talvez?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pintura do homem de metal estranha.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Target",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é bom, mas um pouco desatualizado. Eu deveria fazer um teste...",
+    "path": "/novakidDescription"
+  }
+]

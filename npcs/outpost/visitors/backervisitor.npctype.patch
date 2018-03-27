@@ -1,1 +1,32 @@
-[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/1", "value": "Ei! Meu nome é ^orange;<selfname>^white; - não pergunte o porquê. Eu ajudei a pagar pela criação do Posto Avançado!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Olá! Eu sou^orange;<selfname>^white; - Eu ajudei a financiar a criação do Posto Avançado!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/4", "value": "Olá. Seu nome é <entityname>? Eu sou ^orange;<selfname>^white;! Eu ajudei a financiar o desenvolvimento do Posto Avançado!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/3", "value": "Meus amigos me chamam de ^orange;<selfname>^white;. Eu sou um patrono deste lugar - Você gostou?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/5", "value": "Ei, eu sou ^orange;<selfname>^white;, patrono do Posto Avançado. Eu espero que você esteja gostando daqui!"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/2", "value": "Olá! Todo mundo me chama de ^orange;<selfname>^white;. Eu ajudei a pagar por este Posto Avançado - Espero que você goste!"}]
+[
+  {
+    "op": "replace",
+    "value": "Olá! Todo mundo me chama de ^orange;<selfname>^white;. Eu ajudei a pagar por este Posto Avançado - Espero que você goste!",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Olá. Seu nome é <entityname>? Eu sou ^orange;<selfname>^white;! Eu ajudei a financiar o desenvolvimento do Posto Avançado!",
+    "path": "/scriptConfig/dialog/converse/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Ei! Meu nome é ^orange;<selfname>^white; - não pergunte o porquê. Eu ajudei a pagar pela criação do Posto Avançado!",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Ei, eu sou ^orange;<selfname>^white;, patrono do Posto Avançado. Eu espero que você esteja gostando daqui!",
+    "path": "/scriptConfig/dialog/converse/default/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Olá! Eu sou^orange;<selfname>^white; - Eu ajudei a financiar a criação do Posto Avançado!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Meus amigos me chamam de ^orange;<selfname>^white;. Eu sou um patrono deste lugar - Você gostou?",
+    "path": "/scriptConfig/dialog/converse/default/default/3"
+  }
+]

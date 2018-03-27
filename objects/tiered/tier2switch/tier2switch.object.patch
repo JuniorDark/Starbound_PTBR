@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Floran puxa alavanca. Faz coisasss acontecerem!"}, {"op": "replace", "path": "/glitchDescription", "value": "Impressionado. Uma alavanca simples pode controlar tantos mecanismos diferentes."}, {"op": "replace", "path": "/description", "value": "Uma alavanca de tungstênio. Exige ser puxada."}, {"op": "replace", "path": "/shortdescription", "value": "Tungsten Lever"}, {"op": "replace", "path": "/apexDescription", "value": "Esta alavanca pode ser usada para muitas coisas."}, {"op": "replace", "path": "/humanDescription", "value": "Uma alavanca. Só tem que ser puxada."}, {"op": "replace", "path": "/avianDescription", "value": "Uma alavanca útil."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma alavanca."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma alavanca, eu quero puxá-la!"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma alavanca, eu quero puxá-la!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma alavanca.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma alavanca. Só tem que ser puxada.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma alavanca útil.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran puxa alavanca. Faz coisasss acontecerem!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressionado. Uma alavanca simples pode controlar tantos mecanismos diferentes.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta alavanca pode ser usada para muitas coisas.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma alavanca de tungstênio. Exige ser puxada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Tungsten Lever",
+    "path": "/shortdescription"
+  }
+]

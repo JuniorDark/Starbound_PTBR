@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um feixe de luz sólida criando uma plataforma."}, {"op": "replace", "path": "/shortdescription", "value": "Antiga Plataforma de Luz"}, {"op": "replace", "path": "/floranDescription", "value": "Floran suspeita de luz sólida."}, {"op": "replace", "path": "/glitchDescription", "value": "Nervoso. Parece que eu cairia através desta plataforma."}, {"op": "replace", "path": "/apexDescription", "value": "Apenas sua plataforma holográfica média."}, {"op": "replace", "path": "/humanDescription", "value": "Esta plataforma é feita de algum tipo de tecnologia de campo de força."}, {"op": "replace", "path": "/avianDescription", "value": "Isso não parece estável para suportar o meu peso."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta barreira de energia pode suportar o peso acima das suas possibilidades."}, {"op": "replace", "path": "/novakidDescription", "value": "Energia sólida, tal como nós Novakid."}]
+[
+  {
+    "op": "replace",
+    "value": "Um feixe de luz sólida criando uma plataforma.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Antiga Plataforma de Luz",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran suspeita de luz sólida.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apenas sua plataforma holográfica média.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nervoso. Parece que eu cairia através desta plataforma.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Energia sólida, tal como nós Novakid.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso não parece estável para suportar o meu peso.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta barreira de energia pode suportar o peso acima das suas possibilidades.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta plataforma é feita de algum tipo de tecnologia de campo de força.",
+    "path": "/humanDescription"
+  }
+]

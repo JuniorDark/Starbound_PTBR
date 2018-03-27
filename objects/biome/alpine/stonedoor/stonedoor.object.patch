@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/floranDescription", "value": "Parede entra, parede sai. Floran gosssta."}, {"op": "replace", "path": "/apexDescription", "value": "Os Apex estão muito familiarizados com portas secretas."}, {"op": "replace", "path": "/humanDescription", "value": "Seria fácil esconder esta porta em uma sala de pedregulho."}, {"op": "replace", "path": "/glitchDescription", "value": "Aprovação. Uso magistral de materiais naturais."}, {"op": "replace", "path": "/avianDescription", "value": "Uma porta bem camuflada."}, {"op": "replace", "path": "/hylotlDescription", "value": "Os maiores segredos estão escondidos em plena vista."}, {"op": "replace", "path": "/shortdescription", "value": "Stone Door"}, {"op": "replace", "path": "/description", "value": "Uma porta feita de pedregulho."}, {"op": "replace", "path": "/novakidDescription", "value": "Há uma pedra no meu caminho."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta feita de pedregulho.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta bem camuflada.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aprovação. Uso magistral de materiais naturais.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Seria fácil esconder esta porta em uma sala de pedregulho.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Stone Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Apex estão muito familiarizados com portas secretas.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os maiores segredos estão escondidos em plena vista.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há uma pedra no meu caminho.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parede entra, parede sai. Floran gosssta.",
+    "path": "/floranDescription"
+  }
+]

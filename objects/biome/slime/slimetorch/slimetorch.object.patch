@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma tocha feita de slime."}, {"op": "replace", "path": "/shortdescription", "value": "Slime Torch"}, {"op": "replace", "path": "/floranDescription", "value": "Tocha queima verde, mass não é natural."}, {"op": "replace", "path": "/glitchDescription", "value": "Divertido. Slime queima verde."}, {"op": "replace", "path": "/apexDescription", "value": "Não confio em nada que cheire tão mal."}, {"op": "replace", "path": "/humanDescription", "value": "Esta tocha está queimando gosma viscosa."}, {"op": "replace", "path": "/avianDescription", "value": "Esta tocha de slime cheira tão mal que meu bico dói."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma tocha de slime. Emite um odor desagradável ao queimar."}, {"op": "replace", "path": "/novakidDescription", "value": "Uma tocha feita de slime, como é que está queimando?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma tocha de slime. Emite um odor desagradável ao queimar.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tocha feita de slime, como é que está queimando?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma tocha feita de slime.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Divertido. Slime queima verde.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não confio em nada que cheire tão mal.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Slime Torch",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta tocha de slime cheira tão mal que meu bico dói.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta tocha está queimando gosma viscosa.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tocha queima verde, mass não é natural.",
+    "path": "/floranDescription"
+  }
+]

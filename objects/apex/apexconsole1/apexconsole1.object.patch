@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Acontece algo se eu puxar a alavanca?"}, {"op": "replace", "path": "/apexDescription", "value": "Gostaria de saber o que este interruptor faz..."}, {"op": "replace", "path": "/floranDescription", "value": "Uma única alavanca."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Uma alavanca."}, {"op": "replace", "path": "/humanDescription", "value": "Uma grande alavanca vermelha. O que poderia dar errado?"}, {"op": "replace", "path": "/hylotlDescription", "value": "Olhe antes de você puxar."}, {"op": "replace", "path": "/description", "value": "Essa grande alavanca vermelha deve provavelmente ser deixada sozinha."}, {"op": "replace", "path": "/shortdescription", "value": "Research Terminal"}, {"op": "replace", "path": "/novakidDescription", "value": "Um terminal com uma grande alavanca vermelha. Devo puxá-la?"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma grande alavanca vermelha. O que poderia dar errado?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma única alavanca.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um terminal com uma grande alavanca vermelha. Devo puxá-la?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Uma alavanca.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Acontece algo se eu puxar a alavanca?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gostaria de saber o que este interruptor faz...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Olhe antes de você puxar.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Research Terminal",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa grande alavanca vermelha deve provavelmente ser deixada sozinha.",
+    "path": "/description"
+  }
+]

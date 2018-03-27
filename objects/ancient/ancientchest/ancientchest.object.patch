@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Cauteloso. A estrutura desse baú é impenetrável para os meus sensores."}, {"op": "replace", "path": "/apexDescription", "value": "Um baú extremamente antigo. Pode conter qualquer coisa."}, {"op": "replace", "path": "/humanDescription", "value": "Esse é mesmo um baú antigo."}, {"op": "replace", "path": "/avianDescription", "value": "Esse baú parece ser realmente muito antigo."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esse baú tem um design estranho, eu sou incapaz de determinar o seu criador."}, {"op": "replace", "path": "/novakidDescription", "value": "É uma maravilha esse baú ainda estar de pé depois de todo esse tempo."}, {"op": "replace", "path": "/shortdescription", "value": "Ancient Chest"}, {"op": "replace", "path": "/floranDescription", "value": "Floran curiossso... o que poderia ter nessa caixa essstranha?"}, {"op": "replace", "path": "/description", "value": "Um baú antigo de origem desconhecida."}]
+[
+  {
+    "op": "replace",
+    "value": "Um baú antigo de origem desconhecida.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú extremamente antigo. Pode conter qualquer coisa.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ancient Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cauteloso. A estrutura desse baú é impenetrável para os meus sensores.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran curiossso... o que poderia ter nessa caixa essstranha?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma maravilha esse baú ainda estar de pé depois de todo esse tempo.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse é mesmo um baú antigo.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse baú tem um design estranho, eu sou incapaz de determinar o seu criador.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esse baú parece ser realmente muito antigo.",
+    "path": "/avianDescription"
+  }
+]

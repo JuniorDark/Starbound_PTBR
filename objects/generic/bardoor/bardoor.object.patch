@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Eu não gostaria de ficar trancado atrás dessas grossas barras de ferro."}, {"op": "replace", "path": "/shortdescription", "value": "Iron Bar Door"}, {"op": "replace", "path": "/floranDescription", "value": "Porta de ferro pesado protege guloseimass."}, {"op": "replace", "path": "/apexDescription", "value": "Uma porta da cela de ferro."}, {"op": "replace", "path": "/humanDescription", "value": "Parece que o tipo de porta que você encontraria em uma cela."}, {"op": "replace", "path": "/avianDescription", "value": "Os Avians usavam portas como estas para guardar as suas tumbas."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma porta opressiva."}, {"op": "replace", "path": "/glitchDescription", "value": "Surpreso. Isso se parece com as portas de celas em calabouços Glitch."}, {"op": "replace", "path": "/novakidDescription", "value": "Eu aposto que alguns vermes ficaram atrás de portas como estas."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma porta da cela de ferro.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma porta opressiva.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Porta de ferro pesado protege guloseimass.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu aposto que alguns vermes ficaram atrás de portas como estas.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não gostaria de ficar trancado atrás dessas grossas barras de ferro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Iron Bar Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que o tipo de porta que você encontraria em uma cela.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Surpreso. Isso se parece com as portas de celas em calabouços Glitch.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Avians usavam portas como estas para guardar as suas tumbas.",
+    "path": "/avianDescription"
+  }
+]

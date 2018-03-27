@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Decorated Music Box"}, {"op": "replace", "path": "/humanDescription", "value": "Há algo muito tranquilo nesta caixinha de música."}, {"op": "replace", "path": "/description", "value": "Uma caixa de música feita à mão. A melodia que toca é reconfortante."}, {"op": "replace", "path": "/floranDescription", "value": "Caixa de madeira bonita brilhante faz mússica."}, {"op": "replace", "path": "/glitchDescription", "value": "Encantado. Esta caixa foi projetada para tocar uma música simples."}, {"op": "replace", "path": "/apexDescription", "value": "Uma caixa de música feita à mão, essa foi bem cuidada."}, {"op": "replace", "path": "/avianDescription", "value": "Esta caixa de música parece ser especial para alguém."}, {"op": "replace", "path": "/hylotlDescription", "value": "Simples e bonita - isso incorpora todo o valor dos Hylotl."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta caixinha de madeira toca uma melodia muito bonita."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma caixa de música feita à mão, essa foi bem cuidada.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma caixa de música feita à mão. A melodia que toca é reconfortante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Decorated Music Box",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Esta caixa foi projetada para tocar uma música simples.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Caixa de madeira bonita brilhante faz mússica.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Simples e bonita - isso incorpora todo o valor dos Hylotl.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há algo muito tranquilo nesta caixinha de música.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta caixinha de madeira toca uma melodia muito bonita.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta caixa de música parece ser especial para alguém.",
+    "path": "/avianDescription"
+  }
+]

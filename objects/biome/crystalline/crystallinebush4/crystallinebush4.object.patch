@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Um monte de cristais brilhantes."}, {"op": "replace", "path": "/hylotlDescription", "value": "Este cristal me lembra de coral congelado."}, {"op": "replace", "path": "/floranDescription", "value": "Rochasss brilhantes e pontudas."}, {"op": "replace", "path": "/humanDescription", "value": "Ooh, bonito."}, {"op": "replace", "path": "/description", "value": "Um depósito cristalino. Brilhante."}, {"op": "replace", "path": "/shortdescription", "value": "Crystalline Bush"}, {"op": "replace", "path": "/apexDescription", "value": "Cristais são muito bonitos."}, {"op": "replace", "path": "/novakidDescription", "value": "Um cristal cintilante."}, {"op": "replace", "path": "/glitchDescription", "value": "Impaciente. Cristais são desagradáveis quando sob os pés."}]
+[
+  {
+    "op": "replace",
+    "value": "Um monte de cristais brilhantes.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um depósito cristalino. Brilhante.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um cristal cintilante.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Crystalline Bush",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cristais são muito bonitos.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impaciente. Cristais são desagradáveis quando sob os pés.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ooh, bonito.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rochasss brilhantes e pontudas.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este cristal me lembra de coral congelado.",
+    "path": "/hylotlDescription"
+  }
+]

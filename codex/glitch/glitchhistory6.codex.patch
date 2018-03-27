@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/contentPages/2", "value": "O mais intrigante de tudo, estes tratamentos são eficazes! Glitchs que não usam esses itens quando 'necessário' ficam doentes, e até morrem nos mesmos casos semelhante quando aflige seres biológicos.\n\nÉ um efeito placebo profundo e inevitável, provocado por sua programação."}, {"op": "replace", "path": "/contentPages/1", "value": "Curiosamente, alguns elementos de seus sistemas - aspectos computacionais especialmente - estão além de suas capacidades de consertar, do mesmo jeito que partes de nossa própria biologia complexa nos derrotam.\n\nNo entanto, o que eu acho mais fascinante é que os Glitch usam ataduras, pomadas e tinturas em sua medicina!\n\nIsto parece ser uma parte inata da sua programação, mesmo auto-consciente Glitchs seguem estas práticas."}, {"op": "replace", "path": "/description", "value": "Uma observação sobre as práticas médicas Glitch por Hylotl Dr. K. Sakana."}, {"op": "replace", "path": "/contentPages/0", "value": "Médicos Glitch funcionam como mecânicos, embora eles são incapazes de fazer essa comparação eles mesmos.\n\nSe você fosse a um cirurgião Glitch qualificado e pedisse a ele para consertar um veículo danificado, ele iria olhar para você completamente perplexo, apesar do fato que (irreconhecível para ele) ele seria perfeitamente capaz de fazê-lo."}, {"op": "replace", "path": "/title", "value": "Medicina Entre os Glitch"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma observação sobre as práticas médicas Glitch por Hylotl Dr. K. Sakana.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Médicos Glitch funcionam como mecânicos, embora eles são incapazes de fazer essa comparação eles mesmos.\n\nSe você fosse a um cirurgião Glitch qualificado e pedisse a ele para consertar um veículo danificado, ele iria olhar para você completamente perplexo, apesar do fato que (irreconhecível para ele) ele seria perfeitamente capaz de fazê-lo.",
+    "path": "/contentPages/0"
+  },
+  {
+    "op": "replace",
+    "value": "Curiosamente, alguns elementos de seus sistemas - aspectos computacionais especialmente - estão além de suas capacidades de consertar, do mesmo jeito que partes de nossa própria biologia complexa nos derrotam.\n\nNo entanto, o que eu acho mais fascinante é que os Glitch usam ataduras, pomadas e tinturas em sua medicina!\n\nIsto parece ser uma parte inata da sua programação, mesmo auto-consciente Glitchs seguem estas práticas.",
+    "path": "/contentPages/1"
+  },
+  {
+    "op": "replace",
+    "value": "Medicina Entre os Glitch",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "O mais intrigante de tudo, estes tratamentos são eficazes! Glitchs que não usam esses itens quando 'necessário' ficam doentes, e até morrem nos mesmos casos semelhante quando aflige seres biológicos.\n\nÉ um efeito placebo profundo e inevitável, provocado por sua programação.",
+    "path": "/contentPages/2"
+  }
+]

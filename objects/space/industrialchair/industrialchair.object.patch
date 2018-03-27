@@ -1,37 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Esta cadeira parece que é barato para produzir em massa, mas pode ser um pouco desconfortável."
+    "value": "Uma cadeira tão desconfortável não poderia ter sido feita acidentalmente.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Eu não acho que eu gostaria de descansar minhas penas por muito tempo nesta cadeira dura."
+    "value": "Uma cadeira de metal sólida com apenas o menor pedaço de estofamento.",
+    "path": "/description"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "Cadeira parece pesada. Floran ainda pode jogá-la!"
+    "value": "Cadeira parece pesada. Floran ainda pode jogá-la!",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Desconfortável. Esta cadeira parece que foi feita para a produção eficiente, em vez de conforto."
+    "value": "Eu não acho que eu gostaria de descansar minhas penas por muito tempo nesta cadeira dura.",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Você pensaria que com toda essa tecnologia espacial, as pessoas descobririam como fazer cadeiras consistentemente confortáveis."
+    "value": "Industrial Chair",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Uma cadeira tão desconfortável não poderia ter sido feita acidentalmente."
+    "value": "Não é o mais confortável de assentos, mas eu poderia relaxar nisso se eu tentar bastante.",
+    "path": "/novakidDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Não é o mais confortável de assentos, mas eu poderia relaxar nisso se eu tentar bastante."
+    "value": "Esta cadeira parece que é barato para produzir em massa, mas pode ser um pouco desconfortável.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desconfortável. Esta cadeira parece que foi feita para a produção eficiente, em vez de conforto.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Você pensaria que com toda essa tecnologia espacial, as pessoas descobririam como fazer cadeiras consistentemente confortáveis.",
+    "path": "/humanDescription"
   }
 ]

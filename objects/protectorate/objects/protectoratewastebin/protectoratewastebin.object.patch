@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma lixeira simples para estudantes."}, {"op": "replace", "path": "/shortdescription", "value": "Protectorate Waste Bin"}, {"op": "replace", "path": "/floranDescription", "value": "Lixeira está cheia de lixo."}, {"op": "replace", "path": "/glitchDescription", "value": "Descontente. Quem continua jogando coisas no lixo quando está claramente cheio?"}, {"op": "replace", "path": "/apexDescription", "value": "Eu esvaziei isso ontem mesmo! É a vez de outra pessoa hoje."}, {"op": "replace", "path": "/humanDescription", "value": "Alguém deve esvaziar esta lixeira... Farei isso depois!"}, {"op": "replace", "path": "/avianDescription", "value": "Alguém jogou comida novamente na lixeira? Fede."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma lixeira transbordando de lixo. Eu vivo com porcos."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta lixeira precisa ser esvaziada."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lixeira simples para estudantes.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lixeira transbordando de lixo. Eu vivo com porcos.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lixeira está cheia de lixo.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém jogou comida novamente na lixeira? Fede.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Descontente. Quem continua jogando coisas no lixo quando está claramente cheio?",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu esvaziei isso ontem mesmo! É a vez de outra pessoa hoje.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Waste Bin",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguém deve esvaziar esta lixeira... Farei isso depois!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lixeira precisa ser esvaziada.",
+    "path": "/novakidDescription"
+  }
+]

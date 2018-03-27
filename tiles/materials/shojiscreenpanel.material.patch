@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Um painel de tela tradicional."}, {"op": "replace", "path": "/shortdescription", "value": "Shoji Screen Panel"}, {"op": "replace", "path": "/floranDescription", "value": "Painéiss de tela estranhoss."}, {"op": "replace", "path": "/novakidDescription", "value": "Um painel de tela de aparência extravagante."}, {"op": "replace", "path": "/glitchDescription", "value": "Encantado. Estes painéis são simples e tradicionais."}]
+[
+  {
+    "op": "replace",
+    "value": "Um painel de tela de aparência extravagante.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um painel de tela tradicional.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Encantado. Estes painéis são simples e tradicionais.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Shoji Screen Panel",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Painéiss de tela estranhoss.",
+    "path": "/floranDescription"
+  }
+]

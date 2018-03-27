@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um girassol que está apenas procurando o sol."}, {"op": "replace", "path": "/shortdescription", "value": "Moving Sunflower"}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. Esta flor está procurando algo, ou alguém."}, {"op": "replace", "path": "/apexDescription", "value": "Este grande girassol parece estar perdido."}, {"op": "replace", "path": "/humanDescription", "value": "Um grande girassol. Obviamente está procurando o sol."}, {"op": "replace", "path": "/avianDescription", "value": "Eu quero ajudar esta flor a encontrar um sol."}, {"op": "replace", "path": "/floranDescription", "value": "Girasssol."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma grande flor amarela. Ele se move quando eu toco."}, {"op": "replace", "path": "/novakidDescription", "value": "Um grande girassol. Esta flor tem uma alma inquieta."}]
+[
+  {
+    "op": "replace",
+    "value": "Um grande girassol. Obviamente está procurando o sol.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma grande flor amarela. Ele se move quando eu toco.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um girassol que está apenas procurando o sol.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Eu quero ajudar esta flor a encontrar um sol.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Moving Sunflower",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Girasssol.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este grande girassol parece estar perdido.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um grande girassol. Esta flor tem uma alma inquieta.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Preocupado. Esta flor está procurando algo, ou alguém.",
+    "path": "/glitchDescription"
+  }
+]

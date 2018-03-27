@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Este corante colorido pode ser aplicado a uma peça de armadura ou roupas com o botão direito."}, {"op": "replace", "path": "/shortdescription", "value": "Purple Dye"}]
+[
+  {
+    "op": "replace",
+    "value": "Purple Dye",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este corante colorido pode ser aplicado a uma peça de armadura ou roupas com o botão direito.",
+    "path": "/description"
+  }
+]

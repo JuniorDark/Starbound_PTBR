@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Sparrow Loincloth"}, {"op": "replace", "path": "/description", "value": "Uma tanga listrada sedutora, reforçada com tungstênio."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma tanga listrada sedutora, reforçada com tungstênio.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Sparrow Loincloth",
+    "path": "/shortdescription"
+  }
+]

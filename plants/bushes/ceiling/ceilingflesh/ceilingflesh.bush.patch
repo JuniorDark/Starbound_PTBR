@@ -1,1 +1,22 @@
-[{"op": "replace", "path": "/description", "value": "Um tremendo pedaço de carne."}, {"op": "replace", "path": "/shortdescription", "value": "Um tremendo pedaço de carne."}, {"op": "replace", "path": "/floranDescription", "value": "Carne."}, {"op": "replace", "path": "/glitchDescription", "value": "Desgosto. Um pacote inclinado de carne."}]
+[
+  {
+    "op": "replace",
+    "value": "Um tremendo pedaço de carne.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um tremendo pedaço de carne.",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Carne.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Desgosto. Um pacote inclinado de carne.",
+    "path": "/glitchDescription"
+  }
+]

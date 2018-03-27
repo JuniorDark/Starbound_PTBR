@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Uma grade feita de metal. Está enferrujada."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um respiradouro. Não foi cuidado."}, {"op": "replace", "path": "/description", "value": "Grades de metal enferrujadas destinadas à ventilação."}, {"op": "replace", "path": "/shortdescription", "value": "Horizonal Metal Grates"}, {"op": "replace", "path": "/floranDescription", "value": "Grade."}, {"op": "replace", "path": "/apexDescription", "value": "Uma grade de metal enferrujada."}, {"op": "replace", "path": "/humanDescription", "value": "Eu sempre quis ir rastejando através de respiradouros."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Talvez um Glitch ágil caiba aqui."}, {"op": "replace", "path": "/novakidDescription", "value": "Um respiradouro. Não sei se está funcionando. Com certeza está abafado aqui."}]
+[
+  {
+    "op": "replace",
+    "value": "Horizonal Metal Grates",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma grade feita de metal. Está enferrujada.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma grade de metal enferrujada.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um respiradouro. Não sei se está funcionando. Com certeza está abafado aqui.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um respiradouro. Não foi cuidado.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Curioso. Talvez um Glitch ágil caiba aqui.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grade.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu sempre quis ir rastejando através de respiradouros.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grades de metal enferrujadas destinadas à ventilação.",
+    "path": "/description"
+  }
+]

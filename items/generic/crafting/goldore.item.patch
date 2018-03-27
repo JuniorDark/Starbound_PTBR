@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "É um minério de ouro. Pode ser derretido e transformado em barras."}, {"op": "replace", "path": "/shortdescription", "value": "Gold Ore"}]
+[
+  {
+    "op": "replace",
+    "value": "Gold Ore",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "É um minério de ouro. Pode ser derretido e transformado em barras.",
+    "path": "/description"
+  }
+]

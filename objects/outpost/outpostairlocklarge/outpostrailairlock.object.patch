@@ -1,42 +1,47 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Esta porta é feita de algum tipo de material à prova de balas. Possui um trilho composto que corre por ela."
+    "value": "Rail Airlock Door",
+    "path": "/shortdescription"
   },
   {
     "op": "replace",
-    "path": "/apexDescription",
-    "value": "Uma eclusa de ar com trilho."
+    "value": "Uma eclusa de ar básica para sistemas ferroviários.",
+    "path": "/hylotlDescription"
   },
   {
     "op": "replace",
-    "path": "/avianDescription",
-    "value": "Uma eclusa de ar com um trilho passando por ela."
+    "value": "Uma eclusa de ar que inclui um trilho. Útil!",
+    "path": "/humanDescription"
   },
   {
     "op": "replace",
-    "path": "/floranDescription",
-    "value": "É uma eclusa de ar com trilhosss."
+    "value": "Uma eclusa de ar com um trilho passando por ela.",
+    "path": "/avianDescription"
   },
   {
     "op": "replace",
-    "path": "/glitchDescription",
-    "value": "Apreciativo. Uma eclusa de ar resistente com um trilho passando por ela."
+    "value": "Uma eclusa de ar com trilho.",
+    "path": "/apexDescription"
   },
   {
     "op": "replace",
-    "path": "/humanDescription",
-    "value": "Uma eclusa de ar que inclui um trilho. Útil!"
+    "value": "Apreciativo. Uma eclusa de ar resistente com um trilho passando por ela.",
+    "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "path": "/hylotlDescription",
-    "value": "Uma eclusa de ar básica para sistemas ferroviários."
+    "value": "É uma eclusa de ar com trilhosss.",
+    "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "path": "/novakidDescription",
-    "value": "Parece uma eclusa de ar com trilhos correndo pelo meio."
+    "value": "Parece uma eclusa de ar com trilhos correndo pelo meio.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta é feita de algum tipo de material à prova de balas. Possui um trilho composto que corre por ela.",
+    "path": "/description"
   }
 ]

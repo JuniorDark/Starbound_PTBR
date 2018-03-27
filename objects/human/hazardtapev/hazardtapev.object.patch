@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/glitchDescription", "value": "Reminiscente. Marcas similares são usadas para denotar áreas nas quais Glitchs Auto-conscientes espreitam."}, {"op": "replace", "path": "/description", "value": "Esta fita de cores vivas indica claramente que a área não é segura."}, {"op": "replace", "path": "/shortdescription", "value": "Vertical Hazard Tape"}, {"op": "replace", "path": "/floranDescription", "value": "O único perigo aqui é Floran."}, {"op": "replace", "path": "/apexDescription", "value": "Esta fita avisa as pessoas de perigo."}, {"op": "replace", "path": "/humanDescription", "value": "Esta fita avisa que há perigo nas proximidades."}, {"op": "replace", "path": "/avianDescription", "value": "Há um perigo nas proximidades."}, {"op": "replace", "path": "/hylotlDescription", "value": "Se eles queriam que isso servisse como um aviso, talvez os humanos não deveriam ter feito esta fita tão colorida."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta fita está tentando me dizer para manter distância. Não recebo ordens de uma fita."}]
+[
+  {
+    "op": "replace",
+    "value": "Se eles queriam que isso servisse como um aviso, talvez os humanos não deveriam ter feito esta fita tão colorida.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Reminiscente. Marcas similares são usadas para denotar áreas nas quais Glitchs Auto-conscientes espreitam.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vertical Hazard Tape",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta fita avisa que há perigo nas proximidades.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O único perigo aqui é Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Há um perigo nas proximidades.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta fita de cores vivas indica claramente que a área não é segura.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta fita está tentando me dizer para manter distância. Não recebo ordens de uma fita.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta fita avisa as pessoas de perigo.",
+    "path": "/apexDescription"
+  }
+]

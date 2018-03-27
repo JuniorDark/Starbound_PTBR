@@ -1,22 +1,22 @@
 [
   {
     "op": "replace",
-    "path": "/gui/windowtitle/title",
-    "value": "Console da Estação"
+    "value": "Controle os sistemas da sua estação",
+    "path": "/gui/windowtitle/subtitle"
   },
   {
     "op": "replace",
-    "path": "/gui/windowtitle/subtitle",
-    "value": "Controle os sistemas da sua estação"
+    "value": "Console da Estação",
+    "path": "/gui/windowtitle/title"
   },
   {
     "op": "replace",
-    "path": "/gui/lblGravity/value",
-    "value": "GRAVIDADE"
+    "value": "GRAVIDADE",
+    "path": "/gui/lblGravity/value"
   },
   {
     "op": "replace",
-    "path": "/gui/lblHideExpansionSlots/value",
-    "value": "OCULTAR SLOTS DE EXPANSÃO"
+    "value": "OCULTAR SLOTS DE EXPANSÃO",
+    "path": "/gui/lblHideExpansionSlots/value"
   }
 ]

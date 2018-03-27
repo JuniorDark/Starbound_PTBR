@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Craftsmen Shirt"}, {"op": "replace", "path": "/description", "value": "Uma camisa simples com um bolso feito para artesão."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma camisa simples com um bolso feito para artesão.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Craftsmen Shirt",
+    "path": "/shortdescription"
+  }
+]

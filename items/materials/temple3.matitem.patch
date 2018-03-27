@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/description", "value": "Tijolos empoeirados mas finamente trabalhados."}, {"op": "replace", "path": "/shortdescription", "value": "Small Temple Bricks"}]
+[
+  {
+    "op": "replace",
+    "value": "Surpreso. Estes pequenos blocos exibem um alto nível de artesanato.",
+    "path": "/glitchdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijoloss pequenoss empoeiradoss.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tijolos empoeirados mas finamente trabalhados.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Small Temple Bricks",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alguns tijolos empoeirados.",
+    "path": "/novakiddescription"
+  }
+]

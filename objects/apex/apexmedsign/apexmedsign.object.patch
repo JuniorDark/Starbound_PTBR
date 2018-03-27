@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/apexDescription", "value": "Os Apex tem algumas das melhores tecnologias médicas em toda a galáxia, mas também a menor expectativa de vida."}, {"op": "replace", "path": "/hylotlDescription", "value": "Talvez um lugar de cura esteja próximo."}, {"op": "replace", "path": "/description", "value": "A placa indica algo relacionado a medicina nas imediações."}, {"op": "replace", "path": "/shortdescription", "value": "Medical Bay Sign"}, {"op": "replace", "path": "/floranDescription", "value": "Está tudo bem comer pessoas morrendo?"}, {"op": "replace", "path": "/humanDescription", "value": "Parece uma placa de hospital."}, {"op": "replace", "path": "/glitchDescription", "value": "Curioso. Uma oportunidade para aprender sobre fisiologia orgânica."}, {"op": "replace", "path": "/avianDescription", "value": "Não é todas as raças que também têm sacerdotes de cura?"}, {"op": "replace", "path": "/novakidDescription", "value": "Equipamentos médico é mantido aqui."}]
+[
+  {
+    "op": "replace",
+    "value": "Curioso. Uma oportunidade para aprender sobre fisiologia orgânica.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Não é todas as raças que também têm sacerdotes de cura?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Está tudo bem comer pessoas morrendo?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece uma placa de hospital.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Medical Bay Sign",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Equipamentos médico é mantido aqui.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Talvez um lugar de cura esteja próximo.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os Apex tem algumas das melhores tecnologias médicas em toda a galáxia, mas também a menor expectativa de vida.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A placa indica algo relacionado a medicina nas imediações.",
+    "path": "/description"
+  }
+]

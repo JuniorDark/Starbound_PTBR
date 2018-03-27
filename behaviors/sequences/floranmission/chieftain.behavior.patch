@@ -1,1 +1,7 @@
-[{"op":"replace","path":"/root/children/4/parameters/content/value","value":"Caçada sssagrada acabou. Osso sagrado é seu. Campeõesss."}]
+[
+  {
+    "op": "replace",
+    "path": "/root/children/4/parameters/content/value",
+    "value": "Caçada sssagrada acabou. Osso sagrado é seu. Campeõesss."
+  }
+]

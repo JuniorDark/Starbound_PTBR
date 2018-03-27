@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "A antena longa na cabeça do Wormeel pode capturar ondas de rádio de planetas próximos."}, {"op": "replace", "path": "/shortdescription", "value": "Banded Wormeel"}]
+[
+  {
+    "op": "replace",
+    "value": "Banded Wormeel",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A antena longa na cabeça do Wormeel pode capturar ondas de rádio de planetas próximos.",
+    "path": "/description"
+  }
+]

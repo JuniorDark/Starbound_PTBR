@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Um crânio Floran. Assustador."}, {"op": "replace", "path": "/shortdescription", "value": "Floran Skull Mask"}]
+[
+  {
+    "op": "replace",
+    "value": "Um crânio Floran. Assustador.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran Skull Mask",
+    "path": "/shortdescription"
+  }
+]

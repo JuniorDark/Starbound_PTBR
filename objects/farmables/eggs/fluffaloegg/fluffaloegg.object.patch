@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Choca um vulnerável filhote de fluffalo comum - uma boa fonte de plant fibre quando estiver totalmente crescido."}, {"op": "replace", "path": "/shortdescription", "value": "Fluffalo Egg"}, {"op": "replace", "path": "/floranDescription", "value": "Este grande ovo tem uma grande besta dentro dele - um grande fluffalo amigável!"}, {"op": "replace", "path": "/glitchDescription", "value": "Nostálgico. O fluffalo é uma escolha comum de gado para agricultores Glitch."}, {"op": "replace", "path": "/apexDescription", "value": "O ovo de um fluffalo comum, o animal maduro produz plant fibre."}, {"op": "replace", "path": "/avianDescription", "value": "Um ovo de fluffalo - é a variedade comum."}, {"op": "replace", "path": "/hylotlDescription", "value": "O ovo de um fluffalo comum, uma criatura amigável."}, {"op": "replace", "path": "/novakidDescription", "value": "É um ovo de fluffalo comum."}, {"op": "replace", "path": "/humanDescription", "value": "Um ovo de fluffalo! Há um pequeno fluffalo fofo dentro."}]
+[
+  {
+    "op": "replace",
+    "value": "Um ovo de fluffalo - é a variedade comum.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um ovo de fluffalo! Há um pequeno fluffalo fofo dentro.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fluffalo Egg",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Choca um vulnerável filhote de fluffalo comum - uma boa fonte de plant fibre quando estiver totalmente crescido.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "É um ovo de fluffalo comum.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nostálgico. O fluffalo é uma escolha comum de gado para agricultores Glitch.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O ovo de um fluffalo comum, uma criatura amigável.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O ovo de um fluffalo comum, o animal maduro produz plant fibre.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este grande ovo tem uma grande besta dentro dele - um grande fluffalo amigável!",
+    "path": "/floranDescription"
+  }
+]

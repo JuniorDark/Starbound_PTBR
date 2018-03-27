@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "Espalhe e Reze",
+    "path": "/ability/name"
+  }
+]

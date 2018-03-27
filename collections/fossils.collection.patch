@@ -1,1 +1,237 @@
-[{"op": "replace", "path": "/collectables/floranSkeleton/description", "value": "Este planta baseada em Floran tem ossos infundido com lignina, dando uma aparência de madeira."}, {"op": "replace", "path": "/collectables/ophidaunt/description", "value": "Este antepassado distante do Snaunt costumava caçar nos oceanos, em vez de em terra."}, {"op": "replace", "path": "/collectables/fish/description", "value": "Pouco mudou sobre a anatomia dos peixes ao longo dos milênios."}, {"op": "replace", "path": "/collectables/mysteriousalien/description", "value": "Uma forma de vida estranha e curiosa, agora perdida no tempo."}, {"op": "replace", "path": "/collectables/ixodoom/description", "value": "Este exoesqueleto espesso de artrópode ajudou ele a sobreviver durante milhões de anos."}, {"op": "replace", "path": "/collectables/amber/description", "value": "Âmbar tem mais variações do que qualquer outro artefato antigo catalogado."}, {"op": "replace", "path": "/collectables/hylotlSkeleton/description", "value": "Este esqueleto de Hylotl fossilizado mostra os primeiros sinais de adaptação à vida aquática."}, {"op": "replace", "path": "/collectables/mysteriousSkeleton/description", "value": "Uma criatura que tem intrigado muitos cientistas, sua origem e idade não pode ser determinada."}, {"op": "replace", "path": "/collectables/trex/description", "value": "Um dinossauro nativo da Terra, distribuídos pelas estrelas por cientistas ansiosos demais."}, {"op": "replace", "path": "/collectables/froggSkeleton/description", "value": "Um excelente exemplo de um Frogg fossilizado."}, {"op": "replace", "path": "/collectables/alpacaSkeleton/description", "value": "Os ossos duros e densos de uma Alpaca a muito tempo falecida."}, {"op": "replace", "path": "/collectables/glitchSkeleton/description", "value": "Um Glitch fossilizado. A fiação interna raramente é preservada."}, {"op": "replace", "path": "/collectables/ammonite/description", "value": "Amonites são fósseis amplamente reconhecidos, com variações que aparecem na maioria dos planetas que sustentam a vida."}, {"op": "replace", "path": "/collectables/avioscaleSkeleton/description", "value": "Este Avioscale possui cavidades oculares grandes e um bico proeminente."}, {"op": "replace", "path": "/collectables/humanSkeleton/description", "value": "Um humano fossilizado, a espécie dominante da Terra."}, {"op": "replace", "path": "/collectables/penguin/description", "value": "Os restos fossilizados de um pinguim."}, {"op": "replace", "path": "/collectables/egg/description", "value": "O ovo de uma criatura antiga, congelado no tempo antes que isso nunca realmente viveu."}, {"op": "replace", "path": "/collectables/trilobite/description", "value": "Trilobites é um dos grupos de fósseis mais bem preservados graças ao seu exoesqueleto."}, {"op": "replace", "path": "/collectables/sabertooth/description", "value": "Sabertooth são fósseis amplamente reconhecidos, facilmente identificáveis por seus dentes caninos alongados."}, {"op": "replace", "path": "/collectables/fish/title", "value": "Fish Fossil"}, {"op": "replace", "path": "/collectables/mysteriousalien/title", "value": "Mysterious Alien Skull"}, {"op": "replace", "path": "/collectables/floranSkeleton/title", "value": "Floran Fossil"}, {"op": "replace", "path": "/collectables/ophidaunt/title", "value": "Ophidaunt Fossil"}, {"op": "replace", "path": "/collectables/track/title", "value": "Footprint Fossil"}, {"op": "replace", "path": "/collectables/ixodoom/title", "value": "Ixodoom Fossil"}, {"op": "replace", "path": "/collectables/froggSkeleton/title", "value": "Frogg Fossil"}, {"op": "replace", "path": "/collectables/alpacaSkeleton/title", "value": "Alpaca Fossil"}, {"op": "replace", "path": "/collectables/amber/title", "value": "Amber"}, {"op": "replace", "path": "/collectables/glitchSkeleton/title", "value": "Glitch Fossil"}, {"op": "replace", "path": "/collectables/hylotlSkeleton/title", "value": "Hylotl Fossil"}, {"op": "replace", "path": "/collectables/mysteriousSkeleton/title", "value": "Unidentified Fossil"}, {"op": "replace", "path": "/collectables/trex/title", "value": "T-Rex Fossil"}, {"op": "replace", "path": "/collectables/ammonite/title", "value": "Ammonite"}, {"op": "replace", "path": "/collectables/avioscaleSkeleton/title", "value": "Avioscale Fossil"}, {"op": "replace", "path": "/collectables/humanSkeleton/title", "value": "Human Fossil"}, {"op": "replace", "path": "/collectables/penguin/title", "value": "Penguin Fossil"}, {"op": "replace", "path": "/collectables/egg/title", "value": "Egg Fossil"}, {"op": "replace", "path": "/collectables/fern/title", "value": "Fern Fossil"}, {"op": "replace", "path": "/collectables/trilobite/title", "value": "Trilobite"}, {"op": "replace", "path": "/collectables/sabertooth/title", "value": "Sabertooth Skull"}, {"op": "replace", "path": "/title", "value": "Fósseis"}, {"op": "replace", "path": "/collectables/track/description", "value": "O tamanho deste pegada indica que provavelmente foi feita por um macho adulto da espécie."}, {"op": "replace", "path": "/collectables/apexSkeleton/description", "value": "Os restos fossilizados de um Apex. Observe os dentes poderosos e cumes da testa nítidos."}, {"op": "replace", "path": "/collectables/avianSkeleton/description", "value": "As características de interesse neste Avian fossilizado são os ossos ocos e o bico curto flexível."}, {"op": "replace", "path": "/collectables/fern/description", "value": "Folhas de samambaia fossilizadas são evidências de vida orgânica de milênios atrás."}, {"op": "replace", "path": "/collectables/apexSkeleton/title", "value": "Apex Fossil"}, {"op": "replace", "path": "/collectables/avianSkeleton/title", "value": "Avian Fossil"}]
+[
+  {
+    "op": "replace",
+    "value": "Uma criatura que deixou muitos cientistas perplexos, sua origem e idade não pode ser determinada.",
+    "path": "/collectables/mysteriousSkeleton/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um dinossauro uma vez nativo da Terra, espalhado através das estrelas por cientistas ansiosos demais.",
+    "path": "/collectables/trex/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um Glitch fosilizado. A fiação interna raramente é preservada.",
+    "path": "/collectables/glitchSkeleton/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um humano fossilizado, a espécie dominante da Terra.",
+    "path": "/collectables/humanSkeleton/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma forma de vida estranha e curiosa, agora perdido para o tempo.",
+    "path": "/collectables/mysteriousalien/description"
+  },
+  {
+    "op": "replace",
+    "value": "Alpaca Fossil",
+    "path": "/collectables/alpacaSkeleton/title"
+  },
+  {
+    "op": "replace",
+    "value": "Amber",
+    "path": "/collectables/amber/title"
+  },
+  {
+    "op": "replace",
+    "value": "Âmbar tem mais variações do que qualquer outro artefato antigo catalogado.",
+    "path": "/collectables/amber/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ammonite",
+    "path": "/collectables/ammonite/title"
+  },
+  {
+    "op": "replace",
+    "value": "Amonites são fósseis amplamente reconhecidos, com variações que aparecem na maioria dos planetas que sustentam a vida.",
+    "path": "/collectables/ammonite/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um excelente exemplo de um Frogg fossilizado.",
+    "path": "/collectables/froggSkeleton/description"
+  },
+  {
+    "op": "replace",
+    "value": "Apex Fossil",
+    "path": "/collectables/apexSkeleton/title"
+  },
+  {
+    "op": "replace",
+    "value": "Avian Fossil",
+    "path": "/collectables/avianSkeleton/title"
+  },
+  {
+    "op": "replace",
+    "value": "Avioscale Fossil",
+    "path": "/collectables/avioscaleSkeleton/title"
+  },
+  {
+    "op": "replace",
+    "value": "Egg Fossil",
+    "path": "/collectables/egg/title"
+  },
+  {
+    "op": "replace",
+    "value": "As características de interesse neste Avian fossilizado são os ossos ocos e o bico curto flexível.",
+    "path": "/collectables/avianSkeleton/description"
+  },
+  {
+    "op": "replace",
+    "value": "Fern Fossil",
+    "path": "/collectables/fern/title"
+  },
+  {
+    "op": "replace",
+    "value": "Fish Fossil",
+    "path": "/collectables/fish/title"
+  },
+  {
+    "op": "replace",
+    "value": "Floran Fossil",
+    "path": "/collectables/floranSkeleton/title"
+  },
+  {
+    "op": "replace",
+    "value": "Footprint Fossil",
+    "path": "/collectables/track/title"
+  },
+  {
+    "op": "replace",
+    "value": "Frogg Fossil",
+    "path": "/collectables/froggSkeleton/title"
+  },
+  {
+    "op": "replace",
+    "value": "Glitch Fossil",
+    "path": "/collectables/glitchSkeleton/title"
+  },
+  {
+    "op": "replace",
+    "value": "Human Fossil",
+    "path": "/collectables/humanSkeleton/title"
+  },
+  {
+    "op": "replace",
+    "value": "Hylotl Fossil",
+    "path": "/collectables/hylotlSkeleton/title"
+  },
+  {
+    "op": "replace",
+    "value": "Ixodoom Fossil",
+    "path": "/collectables/ixodoom/title"
+  },
+  {
+    "op": "replace",
+    "value": "Pouco mudou sobre a anatomia dos peixes ao longo dos milênios.",
+    "path": "/collectables/fish/description"
+  },
+  {
+    "op": "replace",
+    "value": "Mysterious Alien Skull",
+    "path": "/collectables/mysteriousalien/title"
+  },
+  {
+    "op": "replace",
+    "value": "Ophidaunt Fossil",
+    "path": "/collectables/ophidaunt/title"
+  },
+  {
+    "op": "replace",
+    "value": "Penguin Fossil",
+    "path": "/collectables/penguin/title"
+  },
+  {
+    "op": "replace",
+    "value": "Sabertooth Skull",
+    "path": "/collectables/sabertooth/title"
+  },
+  {
+    "op": "replace",
+    "value": "Fósseis de sabertooth são amplamente reconhecidos, facilmente identificáveis por seus dentes caninos alongados.",
+    "path": "/collectables/sabertooth/description"
+  },
+  {
+    "op": "replace",
+    "value": "T-Rex Fossil",
+    "path": "/collectables/trex/title"
+  },
+  {
+    "op": "replace",
+    "value": "Os ossos duros e densos de uma Alpaca a muito tempo falecida.",
+    "path": "/collectables/alpacaSkeleton/description"
+  },
+  {
+    "op": "replace",
+    "value": "O ovo de uma criatura antiga, congelado no tempo antes de viver verdadeiramente.",
+    "path": "/collectables/egg/description"
+  },
+  {
+    "op": "replace",
+    "value": "Os restos fossilizados de um pinguim.",
+    "path": "/collectables/penguin/description"
+  },
+  {
+    "op": "replace",
+    "value": "Os restos fossilizados de um Apex. Observe os dentes poderosos e cumes da testa nítidos.",
+    "path": "/collectables/apexSkeleton/description"
+  },
+  {
+    "op": "replace",
+    "value": "A planta com base Floran tem ossos infundidos com lignina, dando uma aparência de madeira.",
+    "path": "/collectables/floranSkeleton/description"
+  },
+  {
+    "op": "replace",
+    "value": "O tamanho desta pegada indica que provavelmente foi feita por um macho adulto da espécie.",
+    "path": "/collectables/track/description"
+  },
+  {
+    "op": "replace",
+    "value": "Este Avioscale possui cavidades oculares grandes e um bico proeminente.",
+    "path": "/collectables/avioscaleSkeleton/description"
+  },
+  {
+    "op": "replace",
+    "value": "Este exoesqueleto espesso de artrópode tem o ajudado a sobreviver por milhões de anos.",
+    "path": "/collectables/ixodoom/description"
+  },
+  {
+    "op": "replace",
+    "value": "Este antepassado distante do Snaunt costumava caçar em oceanos em vez de em terra.",
+    "path": "/collectables/ophidaunt/description"
+  },
+  {
+    "op": "replace",
+    "value": "Este esqueleto fossilizado de Hylotl apresenta sinais precoces de adaptação à vida aquática.",
+    "path": "/collectables/hylotlSkeleton/description"
+  },
+  {
+    "op": "replace",
+    "value": "Trilobite",
+    "path": "/collectables/trilobite/title"
+  },
+  {
+    "op": "replace",
+    "value": "Unidentified Fossil",
+    "path": "/collectables/mysteriousSkeleton/title"
+  },
+  {
+    "op": "replace",
+    "value": "Folhas de samambaia fossilizadas são evidências de vida orgânica de milênios atrás.",
+    "path": "/collectables/fern/description"
+  },
+  {
+    "op": "replace",
+    "value": "Fósseis",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Os trilobitas são um dos grupos fósseis mais bem preservados graças ao seu exoesqueleto.",
+    "path": "/collectables/trilobite/description"
+  }
+]

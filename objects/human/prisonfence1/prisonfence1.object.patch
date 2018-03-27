@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/novakidDescription", "value": "Uma cerca de metal."}, {"op": "replace", "path": "/avianDescription", "value": "Uma cerca. Chacota cruel para os grounded."}, {"op": "replace", "path": "/humanDescription", "value": "Uma forte cerca de tela."}, {"op": "replace", "path": "/apexDescription", "value": "Uma cerca de tela."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutro. Uma cerca de tela."}, {"op": "replace", "path": "/floranDescription", "value": "Floran tem certeza de que Floran poderia pular essa cerca! Mas Floran não tentará."}, {"op": "replace", "path": "/description", "value": "É uma cerca de tela."}, {"op": "replace", "path": "/shortdescription", "value": "Tall Chain-link Fence"}, {"op": "replace", "path": "/hylotlDescription", "value": "Se esta cerca estivesse debaixo do oceano, eu poderia simplesmente nadar sobre ele. Então, novamente, pra que?"}]
+[
+  {
+    "op": "replace",
+    "value": "Tall Chain-link Fence",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cerca. Chacota cruel para os grounded.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran tem certeza de que Floran poderia pular essa cerca! Mas Floran não tentará.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Se esta cerca estivesse debaixo do oceano, eu poderia simplesmente nadar sobre ele. Então, novamente, pra que?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cerca de tela.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma cerca de metal.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma forte cerca de tela.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "É uma cerca de tela.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Neutro. Uma cerca de tela.",
+    "path": "/glitchDescription"
+  }
+]

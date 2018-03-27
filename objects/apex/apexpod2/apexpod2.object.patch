@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "A cápsula está vazia."}, {"op": "replace", "path": "/floranDescription", "value": "Essas máquinas não são naturais."}, {"op": "replace", "path": "/glitchDescription", "value": "Atento. Essa máquina parece tentar alterar o DNA dos Apex."}, {"op": "replace", "path": "/apexDescription", "value": "Felizmente esta capsula está vazia. É assim que a Miniknog tenta nos retornar ao nosso estado natural?"}, {"op": "replace", "path": "/humanDescription", "value": "Isso não parece bom. Tenho a impressão que algo vai pular em mim."}, {"op": "replace", "path": "/avianDescription", "value": "Isso é ciência sombria..."}, {"op": "replace", "path": "/hylotlDescription", "value": "Esta máquina tenta alterar o DNA de uma forma que não é remotamente sustentável."}, {"op": "replace", "path": "/shortdescription", "value": "Empty Life Support Pod"}, {"op": "replace", "path": "/novakidDescription", "value": "Eu não vou chegar perto isso."}]
+[
+  {
+    "op": "replace",
+    "value": "Atento. Essa máquina parece tentar alterar o DNA dos Apex.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Empty Life Support Pod",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Eu não vou chegar perto isso.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essas máquinas não são naturais.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Felizmente esta capsula está vazia. É assim que a Miniknog tenta nos retornar ao nosso estado natural?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A cápsula está vazia.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Isso não parece bom. Tenho a impressão que algo vai pular em mim.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Isso é ciência sombria...",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta máquina tenta alterar o DNA de uma forma que não é remotamente sustentável.",
+    "path": "/hylotlDescription"
+  }
+]

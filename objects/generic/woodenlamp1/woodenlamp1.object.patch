@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Uma linda lâmpada de madeira."}, {"op": "replace", "path": "/shortdescription", "value": "Wooden Table Lamp"}, {"op": "replace", "path": "/apexDescription", "value": "Uma lâmpada de madeira pequena."}, {"op": "replace", "path": "/humanDescription", "value": "Uma linda lâmpada."}, {"op": "replace", "path": "/hylotlDescription", "value": "Uma lâmpada encantadora."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta lâmpada é fofa."}, {"op": "replace", "path": "/glitchDescription", "value": "Satisfeito. Uma lâmpada de mesa simples."}, {"op": "replace", "path": "/avianDescription", "value": "Uma pequena luz de madeira alimentada por eletricidade."}, {"op": "replace", "path": "/floranDescription", "value": "Lâmpada bonita brilha calorosamente."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma lâmpada encantadora.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma linda lâmpada de madeira.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Uma linda lâmpada.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lâmpada de madeira pequena.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma pequena luz de madeira alimentada por eletricidade.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Uma lâmpada de mesa simples.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lâmpada bonita brilha calorosamente.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta lâmpada é fofa.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wooden Table Lamp",
+    "path": "/shortdescription"
+  }
+]

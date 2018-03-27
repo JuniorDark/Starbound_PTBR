@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Scientist Pants"}, {"op": "replace", "path": "/description", "value": "Protege suas pernas enquanto faz ciência.\r\n"}]
+[
+  {
+    "op": "replace",
+    "value": "Protege suas pernas enquanto faz ciência.\r\n",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Scientist Pants",
+    "path": "/shortdescription"
+  }
+]

@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um retrato muito famoso de uma senhora misteriosa."}, {"op": "replace", "path": "/shortdescription", "value": "Classic Ape Painting"}, {"op": "replace", "path": "/floranDescription", "value": "Floran quer roubar pintura e vender no mercado negro."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Esta falsificação é magistral."}, {"op": "replace", "path": "/apexDescription", "value": "Um retrato clássico. Tão bonito."}, {"op": "replace", "path": "/humanDescription", "value": "Ela parece familiar, mas de alguma forma... não."}, {"op": "replace", "path": "/avianDescription", "value": "Uau, ela certamente está bem."}, {"op": "replace", "path": "/hylotlDescription", "value": "Por que alguém iria querer imortalizar a fachada horrível desta criatura?"}, {"op": "replace", "path": "/novakidDescription", "value": "Isso sim é uma mulher estranha."}]
+[
+  {
+    "op": "replace",
+    "value": "Um retrato muito famoso de uma senhora misteriosa.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran quer roubar pintura e vender no mercado negro.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Essa sim é uma dama estranha.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um retrato clássico. Tão bonito.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Classic Ape Painting",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Esta falsificação é magistral.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ela parece familiar, mas de alguma forma... não.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Por que alguém iria querer imortalizar a fachada horrível desta criatura?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uau, ela certamente está bem.",
+    "path": "/avianDescription"
+  }
+]

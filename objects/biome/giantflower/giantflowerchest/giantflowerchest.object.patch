@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/description", "value": "Um baú feito de flores."}, {"op": "replace", "path": "/shortdescription", "value": "Giant Flower Chest"}, {"op": "replace", "path": "/floranDescription", "value": "Floran poderia adaptar baú para que coma ladrõesss."}, {"op": "replace", "path": "/humanDescription", "value": "Um baú colorido bonito."}, {"op": "replace", "path": "/avianDescription", "value": "Um baú de flor. Fácil de abrir."}, {"op": "replace", "path": "/hylotlDescription", "value": "Um baú bonito e natural."}, {"op": "replace", "path": "/glitchDescription", "value": "Observador. Abrir este baú libera nuvens invisíveis de pólen. Efeitos a longo prazo são desconhecidos."}, {"op": "replace", "path": "/novakidDescription", "value": "Um baú brilhante como este deve estar cheio de alegria."}, {"op": "replace", "path": "/apexDescription", "value": "Você poderia facilmente pegar este baú e sair andando com ele."}]
+[
+  {
+    "op": "replace",
+    "value": "Um baú bonito e natural.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú brilhante como este deve estar cheio de alegria.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú feito de flores.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú colorido bonito.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Um baú de flor. Fácil de abrir.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran poderia adaptar baú para que coma ladrõesss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Giant Flower Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Observador. Abrir este baú libera nuvens invisíveis de pólen. Efeitos a longo prazo são desconhecidos.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Você poderia facilmente pegar este baú e sair andando com ele.",
+    "path": "/apexDescription"
+  }
+]

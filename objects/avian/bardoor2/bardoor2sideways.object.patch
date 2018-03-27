@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/avianDescription", "value": "Portas de ferro pesadas como estas são boas para proteger qualquer local."}, {"op": "replace", "path": "/shortdescription", "value": "Horizontal Portcullis"}, {"op": "replace", "path": "/floranDescription", "value": "Portão de metal é pesado, barrass de metal são fortess."}, {"op": "replace", "path": "/glitchDescription", "value": "Preocupado. Essas barras de metal afiadas parecem perigosas."}, {"op": "replace", "path": "/apexDescription", "value": "Parece que esta porta de ferro se abre para dentro"}, {"op": "replace", "path": "/humanDescription", "value": "Esta porta de metal pesado é alinhada lateralmente."}, {"op": "replace", "path": "/hylotlDescription", "value": "Ferro sólido. Pode não ser bonito, mas mantém pra fora hóspedes indesejados."}, {"op": "replace", "path": "/description", "value": "Este rastrilho pesado de ferro abre para dentro."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta é uma porta de aparência robusta."}]
+[
+  {
+    "op": "replace",
+    "value": "Preocupado. Essas barras de metal afiadas parecem perigosas.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Portas de ferro pesadas como estas são boas para proteger qualquer local.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Horizontal Portcullis",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Parece que esta porta de ferro se abre para dentro",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Portão de metal é pesado, barrass de metal são fortess.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ferro sólido. Pode não ser bonito, mas mantém pra fora hóspedes indesejados.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Este rastrilho pesado de ferro abre para dentro.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta porta de metal pesado é alinhada lateralmente.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Esta é uma porta de aparência robusta.",
+    "path": "/novakidDescription"
+  }
+]

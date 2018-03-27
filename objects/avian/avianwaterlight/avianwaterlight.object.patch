@@ -1,1 +1,47 @@
-[{"op": "replace", "path": "/shortdescription", "value": "Crystal Light"}, {"op": "replace", "path": "/floranDescription", "value": "Uma luz brilhante feita de pedra."}, {"op": "replace", "path": "/description", "value": "O cristal embutido neste dispositivo brilha com uma luz pálida."}, {"op": "replace", "path": "/glitchDescription", "value": "Apreciativo. Que luz agradável."}, {"op": "replace", "path": "/apexDescription", "value": "Uma luz, talvez um pouco chamativa em design..."}, {"op": "replace", "path": "/humanDescription", "value": "Uma luz brilhante feita de pedra."}, {"op": "replace", "path": "/avianDescription", "value": "Cristais são úteis para tudo. Esta lâmpada define o humor perfeitamente."}, {"op": "replace", "path": "/hylotlDescription", "value": "Que lâmpada intrigante feita de uma jóia exemplar."}, {"op": "replace", "path": "/novakidDescription", "value": "Esta luz louca parece ser feita de pedra."}]
+[
+  {
+    "op": "replace",
+    "value": "Uma luz, talvez um pouco chamativa em design...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz brilhante feita de pedra.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Apreciativo. Que luz agradável.",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uma luz brilhante feita de pedra.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Crystal Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cristais são úteis para tudo. Esta lâmpada define o humor perfeitamente.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "O cristal embutido neste dispositivo brilha com uma luz pálida.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Esta luz louca parece ser feita de pedra.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Que lâmpada intrigante feita de uma jóia exemplar.",
+    "path": "/hylotlDescription"
+  }
+]

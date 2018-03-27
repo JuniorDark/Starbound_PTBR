@@ -1,7 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Um protótipo de corpo de mecha aberto, projetado para pilotos Glitch."
+    "value": "Um protótipo de corpo de mecha aberto, projetado para pilotos Glitch.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Arthuria-00 Mech Body",
+    "path": "/shortdescription"
   }
 ]

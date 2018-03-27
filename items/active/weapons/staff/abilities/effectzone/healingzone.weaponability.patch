@@ -1,7 +1,7 @@
 [
   {
     "op": "replace",
-    "path": "/ability/name",
-    "value": "Zona de Cura"
+    "value": "Zona de Cura",
+    "path": "/ability/name"
   }
 ]

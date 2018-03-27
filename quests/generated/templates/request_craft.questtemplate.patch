@@ -1,1 +1,137 @@
-[{"op": "replace", "path": "/scriptConfig/generatedText/completionText/last/glitch/1", "value": "Feliz. Ótimo, você conseguiu o <item>! Agora precisamos colocá-lo para usar como parte do meu grande plano!"}, {"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Adquira <item> de <target>"}, {"op": "replace", "path": "/scriptConfig/generatedText/text/first/glitch/1", "value": "Mau Humorado. Meu amigo ^orange;<target>^white; disse que <target.pronoun.subject> iria ajudar a fazer o ^orange;<item>^white; que eu preciso, mas <target.pronoun.subject> não apareceu. ^green;Você iria a <target.pronoun.object> e pediria a <target.pronoun.object> por isso?"}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/1", "value": "Em seguida, vá e faça ^orange;<target>^white; crie para nos um ^orange;<item> personalizado.^white; Apenas ^green;mencione meu nome, <target> sabe como eu gosto deles feitos."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/default/0", "value": "A próxima coisa que eu preciso é um ^orange;<item>. <target>^white; pode fazer praticamente qualquer coisa, ^green;peça a <target.pronoun.object> para fazer."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/0", "value": "Esperançoso. ^green;Se você falar com ^orange;<target>^white; <target.pronoun.subject> deve lhe dar o ^orange;<item>^white; que <target.pronoun.subject> está fazendo para mim."}, {"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Volte para <questGiver>"}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/0", "value": "Desapontado. Oh, a qualidade deste <item> não é o que eu esperava. Suponho que isso terá que servir."}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/1", "value": "Ninguém faz eles como <target>! Isso é mais uma coisa ordenada. Obrigado!"}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/1", "value": "Floran sabia que você poderia fazer isso. Com este <item> nós estamos bem preparados."}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/last/default/0", "value": "Bom, eu sabia que <target> conseguiria. Isso é uma coisa fora da lista..."}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/last/default/1", "value": "Eu nunca vi ninguém fazer algum <item> tão bom quanto <target> faz. Isso vai ser perfeito para o que eu tenho planejado."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/first/floran/1", "value": "Floran sabe que ^orange;<target> pode fazer o que precisamos. ^green;Vá buscar um ^orange;<item> ^white; <target.pronoun.object>."}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/last/floran/0", "value": "Sim! <target> não é o melhor? Este <item> será tão útil na próxima fase do nosso plano."}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/glitch/1", "value": "<target.pronoun.capitalSubject> realmente fez isso para mim? Eu realmente posso ficar com isso? Uau!"}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/default/0", "value": "Obrigado! <target> fez ele exatamente como queria, eu não podia simplesmente usar qualquer <item> velho para o que eu tenho em mente."}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/last/floran/1", "value": "Você conseguiu o <item>! Este é um bom dia!"}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/last/glitch/0", "value": "Satisfeito. Muito bem; <target> geralmente é amigável comigo, mas nem sempre tão generoso. Obrigado pela ajuda."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/1", "value": "Agora, Floran precisa pedir para você ^green;pegar um ^orange;<item>. ^white;Floran tem certeza que ^orange;<target> ^green;pode fazer um."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/first/default/1", "value": "A primeira coisa que você precisa é de um ^orange;<item>. <target>^white; é bom em faze-los, por isso vamos ^green;pedir a <target.pronoun.object> para fazer um^white; especificamente para nós."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/glitch/1", "value": "Mau Humorado. ^orange;<target>^white; sabe como fazer ^orange;<item>s^white; melhor do que eu. ^green;Por favor pergunte a <target.pronoun.object> para fazer um para mim."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/default/floran/0", "value": "Floran precisa de sua ajuda para recuperar algo especial de ^orange;<target>. ^green;Você deve ir e pedir um ^orange;<item>. ^white;<target.pronoun.capitalSubject> vai fazer isso para nós."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/first/default/0", "value": "Primeiro, eu preciso de você para pegar algo para mim. ^orange;<target>^white; sabe como fazer o melhor ^orange;<item>^white; no sistema estelar, ^green;vá e peça por um.^white; Nós vamos precisar dele mais tarde."}, {"op": "replace", "path": "/scriptConfig/generatedText/completionText/default/floran/0", "value": "Excelente, este <item> é perfeito."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/first/floran/0", "value": "Para começar há algo que Floran precisa de <target>, <target.pronoun.subject> não deve se importar. ^green;Vá perguntar a ^orange;<target> ^green;para criar pra Floran um ^orange;<item>."}, {"op": "replace", "path": "/scriptConfig/generatedText/text/first/glitch/0", "value": "Inquieto. ^green;Eu preciso de você para fazer uma visita^white; a ^orange;<target>^white;. O ^orange;<item>^white; que <target.pronoun.subject> prometeu criar para mim deve estar pronto."}]
+[
+  {
+    "op": "replace",
+    "value": "Volte a <questGiver>",
+    "path": "/scriptConfig/objectives/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "Desapontado. Oh, a qualidade deste <item> não é o que eu esperava. Suponho que isso terá que servir.",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Excelente, este <item> é perfeito.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Primeiro, eu preciso de você para pegar algo para mim. ^orange;<target>^white; sabe como fazer o melhor ^orange;<item>^white; no sistema estelar, ^green;vá e peça por um.^white; Nós vamos precisar dele mais tarde.",
+    "path": "/scriptConfig/generatedText/text/first/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran sabia que você poderia fazer isso. Com este <item> nós estamos bem preparados.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran sabe que ^orange;<target> pode fazer o que precisamos. ^green;Vá buscar um ^orange;<item> ^white; <target.pronoun.object>.",
+    "path": "/scriptConfig/generatedText/text/first/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Floran precisa de sua ajuda para recuperar algo especial de ^orange;<target>. ^green;Você deve ir e pedir um ^orange;<item>. ^white;<target.pronoun.capitalSubject> vai fazer isso para nós.",
+    "path": "/scriptConfig/generatedText/text/default/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Esperançoso. ^green;Se você falar com ^orange;<target>^white; <target.pronoun.subject> deve lhe dar o ^orange;<item>^white; que <target.pronoun.subject> está fazendo para mim.",
+    "path": "/scriptConfig/generatedText/text/default/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Eu nunca vi ninguém fazer algum <item> tão bom quanto <target> faz. Isso vai ser perfeito para o que eu tenho planejado.",
+    "path": "/scriptConfig/generatedText/completionText/last/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Feliz. Ótimo, você conseguiu o <item>! Agora precisamos colocá-lo para usar como parte do meu grande plano!",
+    "path": "/scriptConfig/generatedText/completionText/last/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Mau Humorado. ^orange;<target>^white; sabe como fazer ^orange;<item>s^white; melhor do que eu. ^green;Por favor pergunte a <target.pronoun.object> para fazer um para mim.",
+    "path": "/scriptConfig/generatedText/text/default/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Em seguida, vá e faça ^orange;<target>^white; crie para nos um ^orange;<item> personalizado.^white; Apenas ^green;mencione meu nome, <target> sabe como eu gosto deles feitos.",
+    "path": "/scriptConfig/generatedText/text/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Bom, eu sabia que <target> conseguiria. Isso é uma coisa fora da lista...",
+    "path": "/scriptConfig/generatedText/completionText/last/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ninguém faz eles como <target>! Isso é mais uma coisa ordenada. Obrigado!",
+    "path": "/scriptConfig/generatedText/completionText/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Agora, Floran precisa pedir para você ^green;pegar um ^orange;<item>. ^white;Floran tem certeza que ^orange;<target> ^green;pode fazer um.",
+    "path": "/scriptConfig/generatedText/text/default/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Satisfeito. Muito bem; <target> geralmente é amigável comigo, mas nem sempre tão generoso. Obrigado pela ajuda.",
+    "path": "/scriptConfig/generatedText/completionText/last/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Inquieto. ^green;Eu preciso de você para fazer uma visita^white; a ^orange;<target>^white;. O ^orange;<item>^white; que <target.pronoun.subject> prometeu criar para mim deve estar pronto.",
+    "path": "/scriptConfig/generatedText/text/first/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Mau Humorado. Meu amigo ^orange;<target>^white; disse que <target.pronoun.subject> iria ajudar a fazer o ^orange;<item>^white; que eu preciso, mas <target.pronoun.subject> não apareceu. ^green;Você iria a <target.pronoun.object> e pediria a <target.pronoun.object> por isso?",
+    "path": "/scriptConfig/generatedText/text/first/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "<target.pronoun.capitalSubject> realmente fez isso para mim? Eu realmente posso ficar com isso? Uau!",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Obrigado! <target> fez ele exatamente como queria, eu não podia simplesmente usar qualquer <item> velho para o que eu tenho em mente.",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "A primeira coisa que você precisa é de um ^orange;<item>. <target>^white; é bom em faze-los, por isso vamos ^green;pedir a <target.pronoun.object> para fazer um^white; especificamente para nós.",
+    "path": "/scriptConfig/generatedText/text/first/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "A próxima coisa que eu preciso é um ^orange;<item>. <target>^white; pode fazer praticamente qualquer coisa, ^green;peça a <target.pronoun.object> para fazer.",
+    "path": "/scriptConfig/generatedText/text/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Para começar há algo que Floran precisa de <target>, <target.pronoun.subject> não deve se importar. ^green;Vá perguntar a ^orange;<target> ^green;para criar pra Floran um ^orange;<item>.",
+    "path": "/scriptConfig/generatedText/text/first/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Sim! <target> não é o melhor? Este <item> será tão útil na próxima fase do nosso plano.",
+    "path": "/scriptConfig/generatedText/completionText/last/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Você conseguiu o <item>! Este é um bom dia!",
+    "path": "/scriptConfig/generatedText/completionText/last/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Adquira <item> de <target>",
+    "path": "/scriptConfig/objectives/0/text"
+  },
+  {
+    "op": "replace",
+    "value": "Amigo Amigável",
+    "path": "/parameters/target/example/name"
+  }
+]

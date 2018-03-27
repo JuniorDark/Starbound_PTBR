@@ -1,1 +1,12 @@
-[{"op": "replace", "path": "/description", "value": "Os chifres do Ringram começam a crescer desde o nascimento e nunca param."}, {"op": "replace", "path": "/shortdescription", "value": "Ringram"}]
+[
+  {
+    "op": "replace",
+    "value": "Ringram",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Os chifres do Ringram começam a crescer desde o nascimento e nunca param.",
+    "path": "/description"
+  }
+]

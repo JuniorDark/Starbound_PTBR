@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um escorpião de ferro para usar como chapéu.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Iron Scalpion",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um escorpi\u00e3o de ferro para usar como chap\u00e9u.","op":"replace"},{"path":"/shortdescription","value":"Iron Scalpion","op":"replace"}]

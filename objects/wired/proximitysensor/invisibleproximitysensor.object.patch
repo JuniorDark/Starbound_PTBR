@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "...",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Invisible Proximity Sensor",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"...","op":"replace"},{"path":"/shortdescription","value":"Invisible Proximity Sensor","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Sim, ele dispara fogos de artifício!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Zephyr Spark Launcher",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Sim, ele dispara fogos de artif\u00edcio!","op":"replace"},{"path":"/shortdescription","value":"Zephyr Spark Launcher","op":"replace"}]

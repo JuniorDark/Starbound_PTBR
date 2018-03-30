@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Capacete militar padrão. Este é projetado para um medico.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "M1 Medic Helmet",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Capacete militar padr\u00e3o. Este \u00e9 projetado para um medico.","op":"replace"},{"path":"/shortdescription","value":"M1 Medic Helmet","op":"replace"}]

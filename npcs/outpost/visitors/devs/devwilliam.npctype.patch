@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Oi! sou William. Um programador da Terra. Me especializei em IA.",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Oi! sou William. Um programador da Terra. Me especializei em IA.","op":"replace"}]

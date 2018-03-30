@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Grama resistente crescente do teto.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Grama resistente crescente do teto.","op":"replace"}]

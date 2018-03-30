@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "\"Uma amostra perfeita de um minério de titânio.\"",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Titanium Sample",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\"Uma amostra perfeita de um min\u00e9rio de tit\u00e2nio.\"","op":"replace"},{"path":"/shortdescription","value":"Titanium Sample","op":"replace"}]

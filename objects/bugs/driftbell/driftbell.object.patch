@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Driftbell",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este inseto faz um som fraco de sino tocando quando ele voa pelo ar.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Driftbell","op":"replace"},{"path":"/description","value":"Este inseto faz um som fraco de sino tocando quando ele voa pelo ar.","op":"replace"}]

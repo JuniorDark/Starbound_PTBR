@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peixe forte que usa seu chifre robusto para romper grossas camadas de gelo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Variegated Breacher",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peixe forte que usa seu chifre robusto para romper grossas camadas de gelo.","op":"replace"},{"path":"/shortdescription","value":"Variegated Breacher","op":"replace"}]

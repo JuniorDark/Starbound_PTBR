@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Wrangler's Pants",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Calças de Vaquiro, para o Vaqueiro resistente.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Wrangler's Pants","op":"replace"},{"path":"/description","value":"Cal\u00e7as de Vaquiro, para o Vaqueiro resistente.","op":"replace"}]

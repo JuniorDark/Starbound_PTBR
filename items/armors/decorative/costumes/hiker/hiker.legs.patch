@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Hiker Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O material resistente torna isso perfeito para encontrar monstros da montanha.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Hiker Trousers","op":"replace"},{"path":"/description","value":"O material resistente torna isso perfeito para encontrar monstros da montanha.","op":"replace"}]

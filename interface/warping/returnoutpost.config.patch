@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Voltar ao Posto Avançado",
-    "path": "/destinations/0/name"
-  },
-  {
-    "op": "replace",
-    "value": "Voltar para o 2 Stop Teleshop",
-    "path": "/destinations/0/planetName"
-  }
-]
+[{"path":"/destinations/0/name","value":"Voltar ao Posto Avan\u00e7ado","op":"replace"},{"path":"/destinations/0/planetName","value":"Voltar para o 2 Stop Teleshop","op":"replace"}]

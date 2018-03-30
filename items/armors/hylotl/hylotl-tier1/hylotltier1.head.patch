@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Puddle Hat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este chapéu de ferro é perfeito para manter a cabeça de secagem no sol quente.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Puddle Hat","op":"replace"},{"path":"/description","value":"Este chap\u00e9u de ferro \u00e9 perfeito para manter a cabe\u00e7a de secagem no sol quente.","op":"replace"}]

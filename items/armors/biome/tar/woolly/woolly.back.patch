@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Prehistoric Fur Tail",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta cauda de lã não vai ajudar com o equilíbrio, mas ela vai fazer você parecer um pouco como um mamute de lã!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Prehistoric Fur Tail","op":"replace"},{"path":"/description","value":"Esta cauda de l\u00e3 n\u00e3o vai ajudar com o equil\u00edbrio, mas ela vai fazer voc\u00ea parecer um pouco como um mamute de l\u00e3!","op":"replace"}]

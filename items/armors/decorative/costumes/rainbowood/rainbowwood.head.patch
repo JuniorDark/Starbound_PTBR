@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "É como se alguém tivesse decapitado uma árvore arco-íris.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Rainbow Wood Helmet",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\u00c9 como se algu\u00e9m tivesse decapitado uma \u00e1rvore arco-\u00edris.","op":"replace"},{"path":"/shortdescription","value":"Rainbow Wood Helmet","op":"replace"}]

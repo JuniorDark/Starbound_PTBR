@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Oi eu sou Donna. Você gosta do nome Clementine?",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Oi eu sou Donna. Voc\u00ea gosta do nome Clementine?","op":"replace"}]

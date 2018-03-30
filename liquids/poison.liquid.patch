@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Este líquido parece venenoso.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Este l\u00edquido parece venenoso.","op":"replace"}]

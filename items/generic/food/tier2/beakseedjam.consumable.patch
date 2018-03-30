@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Beakseed Jam",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Doce e crocante. Se ao menos houvesse uma variedade sem sementes.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Beakseed Jam","op":"replace"},{"path":"/description","value":"Doce e crocante. Se ao menos houvesse uma variedade sem sementes.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma pomada para curar ferimentos leves. Restaura 50 de vida ao longo de 10 segundos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Salve",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma pomada para curar ferimentos leves. Restaura 50 de vida ao longo de 10 segundos.","op":"replace"},{"path":"/shortdescription","value":"Salve","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um chapéu direto da pátria.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Ushanka",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um chap\u00e9u direto da p\u00e1tria.","op":"replace"},{"path":"/shortdescription","value":"Ushanka","op":"replace"}]

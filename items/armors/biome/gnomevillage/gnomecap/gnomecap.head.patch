@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um boné gnomo. Este é o maior tamanho disponível.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Gnome Cap",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um bon\u00e9 gnomo. Este \u00e9 o maior tamanho dispon\u00edvel.","op":"replace"},{"path":"/shortdescription","value":"Gnome Cap","op":"replace"}]

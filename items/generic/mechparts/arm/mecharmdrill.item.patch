@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma broca de mineração básica que pode servir como uma arma.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Drill Mech Arm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma broca de minera\u00e7\u00e3o b\u00e1sica que pode servir como uma arma.","op":"replace"},{"path":"/shortdescription","value":"Drill Mech Arm","op":"replace"}]

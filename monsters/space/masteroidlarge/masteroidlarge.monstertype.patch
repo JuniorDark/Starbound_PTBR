@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Masteroid (Large)",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Uma criatura baseada em boro que pode dividir seu corpo e consciência quando ferida.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Masteroid (Large)","op":"replace"},{"path":"/description","value":"Uma criatura baseada em boro que pode dividir seu corpo e consci\u00eancia quando ferida.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um capacete cerimonial oxidado usado pelos Hylotl de eras passadas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Valorous Helmet",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um capacete cerimonial oxidado usado pelos Hylotl de eras passadas.","op":"replace"},{"path":"/shortdescription","value":"Valorous Helmet","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma arrancada que teleporta por armadilhas e inimigos! Recarga: 2.5s",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Arrancada Piscante",
-    "path": "/shortDescription"
-  }
-]
+[{"path":"/description","value":"Uma arrancada que teleporta por armadilhas e inimigos! Recarga: 2.5s","op":"replace"},{"path":"/shortDescription","value":"Arrancada Piscante","op":"replace"}]

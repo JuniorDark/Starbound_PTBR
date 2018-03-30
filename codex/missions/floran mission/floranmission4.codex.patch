@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um diário escrito por uma raça que uma vez fez sua casa nas Cavernas Cerimoniais de Caça.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Vivendo no Medo",
-    "path": "/title"
-  },
-  {
-    "op": "replace",
-    "value": "As feras estão por toda parte. Elas cospem e sibilam, e apunhalam e comem! Eles se chamam de Floran.\n\nEles vieram do céu noturno. Eles são criaturas nascidas da escuridão entre as estrelas, tenho certeza disso!\n\nEu deveria ter fugido dias atrás, quando a maioria dos meus companheiros saíram... Agora não há para onde correr. Eu sou o único que permanece, e nossa cidade subterrânea se desintegra ao meu redor.",
-    "path": "/contentPages/0"
-  }
-]
+[{"path":"/description","value":"Um di\u00e1rio escrito por uma ra\u00e7a que uma vez fez sua casa nas Cavernas Cerimoniais de Ca\u00e7a.","op":"replace"},{"path":"/title","value":"Vivendo no Medo","op":"replace"},{"path":"/contentPages/0","value":"As feras est\u00e3o por toda parte. Elas cospem e sibilam, e apunhalam e comem! Eles se chamam de Floran.\n\nEles vieram do c\u00e9u noturno. Eles s\u00e3o criaturas nascidas da escurid\u00e3o entre as estrelas, tenho certeza disso!\n\nEu deveria ter fugido dias atr\u00e1s, quando a maioria dos meus companheiros sa\u00edram... Agora n\u00e3o h\u00e1 para onde correr. Eu sou o \u00fanico que permanece, e nossa cidade subterr\u00e2nea se desintegra ao meu redor.","op":"replace"}]

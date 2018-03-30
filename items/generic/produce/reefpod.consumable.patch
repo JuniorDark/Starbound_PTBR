@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Fruta do oceano.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Reefpod",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Fruta do oceano.","op":"replace"},{"path":"/shortdescription","value":"Reefpod","op":"replace"}]

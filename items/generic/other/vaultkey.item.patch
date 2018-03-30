@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Vault Key",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Uma chave brilhante que pode abrir uma porta para lugares a muito tempo esquecidos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Vault Key","op":"replace"},{"path":"/description","value":"Uma chave brilhante que pode abrir uma porta para lugares a muito tempo esquecidos.","op":"replace"}]

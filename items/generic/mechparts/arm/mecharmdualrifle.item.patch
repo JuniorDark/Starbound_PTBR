@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Dual Rifle Mech Arm",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O que é melhor do que uma metralhadora gigante? Duas metralhadoras gigantes.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Dual Rifle Mech Arm","op":"replace"},{"path":"/description","value":"O que \u00e9 melhor do que uma metralhadora gigante? Duas metralhadoras gigantes.","op":"replace"}]

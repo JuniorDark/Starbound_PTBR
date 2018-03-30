@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um cristal de gelo frio, parece que nunca derrete.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Ice Crystal",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um cristal de gelo frio, parece que nunca derrete.","op":"replace"},{"path":"/shortdescription","value":"Ice Crystal","op":"replace"}]

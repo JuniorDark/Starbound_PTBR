@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um módulo de EPP que aumenta ligeiramente seu dano causado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Damage I Augment",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um m\u00f3dulo de EPP que aumenta ligeiramente seu dano causado.","op":"replace"},{"path":"/shortdescription","value":"Damage I Augment","op":"replace"}]

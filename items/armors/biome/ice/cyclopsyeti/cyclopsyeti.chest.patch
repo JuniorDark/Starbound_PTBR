@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral feito de um yeti ciclope.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Cyclops Yeti Shirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral feito de um yeti ciclope.","op":"replace"},{"path":"/shortdescription","value":"Cyclops Yeti Shirt","op":"replace"}]

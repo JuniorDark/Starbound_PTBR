@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Fragmento de Núcleo.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Fragmento de N\u00facleo.","op":"replace"}]

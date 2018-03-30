@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Café com leite.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Flat White Coffee",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Caf\u00e9 com leite.","op":"replace"},{"path":"/shortdescription","value":"Flat White Coffee","op":"replace"}]

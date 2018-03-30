@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Grama florida e exuberante.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Grama florida e exuberante.","op":"replace"}]

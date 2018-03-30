@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma página rasgada pertencente a um documento fundamental da Miniknog.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Orçamento da Proposta de Alocação\n\n1 Visão geral\n1.1 Revisão Civil e Segurança\n1.2 Investigação e Desenvolvimento\n\n2 Unidade Social\n2.1 Reeducação\n2.2 Radiodifusão Big Ape\n\n3 Suprimindo os Rebeldes\n3.1 Identificar Insurgentes\n3.2 Ação Militar\n3.3 Retribuição",
-    "path": "/contentPages/0"
-  },
-  {
-    "op": "replace",
-    "value": "Páginas de Conteúdo",
-    "path": "/title"
-  }
-]
+[{"path":"/description","value":"Uma p\u00e1gina rasgada pertencente a um documento fundamental da Miniknog.","op":"replace"},{"path":"/contentPages/0","value":"Or\u00e7amento da Proposta de Aloca\u00e7\u00e3o\n\n1 Vis\u00e3o geral\n1.1 Revis\u00e3o Civil e Seguran\u00e7a\n1.2 Investiga\u00e7\u00e3o e Desenvolvimento\n\n2 Unidade Social\n2.1 Reeduca\u00e7\u00e3o\n2.2 Radiodifus\u00e3o Big Ape\n\n3 Suprimindo os Rebeldes\n3.1 Identificar Insurgentes\n3.2 A\u00e7\u00e3o Militar\n3.3 Retribui\u00e7\u00e3o","op":"replace"},{"path":"/title","value":"P\u00e1ginas de Conte\u00fado","op":"replace"}]

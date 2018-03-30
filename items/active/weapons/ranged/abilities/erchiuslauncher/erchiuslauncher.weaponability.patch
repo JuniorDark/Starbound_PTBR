@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Lançador de Erchius",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Lan\u00e7ador de Erchius","op":"replace"}]

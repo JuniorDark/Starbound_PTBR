@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Koichi",
-    "path": "/npcname"
-  },
-  {
-    "op": "replace",
-    "value": "Este lugar é fascinante. Eu tenho tanta pesquisa para fazer!",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  }
-]
+[{"path":"/npcname","value":"Koichi","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Este lugar \u00e9 fascinante. Eu tenho tanta pesquisa para fazer!","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um par de pernas Glitch corroídas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Glitch Legs",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um par de pernas Glitch corro\u00eddas.","op":"replace"},{"path":"/shortdescription","value":"Glitch Legs","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cell Materia",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Matéria Celular, eu ouvi que você pode usar isso para criar coisas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Cell Materia","op":"replace"},{"path":"/description","value":"Mat\u00e9ria Celular, eu ouvi que voc\u00ea pode usar isso para criar coisas.","op":"replace"}]

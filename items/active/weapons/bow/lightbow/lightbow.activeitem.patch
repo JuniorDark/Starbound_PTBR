@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Dispara feixes brilhantes de energia pura!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Light Bow",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Dispara feixes brilhantes de energia pura!","op":"replace"},{"path":"/shortdescription","value":"Light Bow","op":"replace"}]

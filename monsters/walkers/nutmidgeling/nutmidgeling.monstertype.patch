@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Muitas vezes se agrupa com outros Nutmidgelings, encontrando força e segurança em números.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Nutmidgeling",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Muitas vezes se agrupa com outros Nutmidgelings, encontrando for\u00e7a e seguran\u00e7a em n\u00fameros.","op":"replace"},{"path":"/shortdescription","value":"Nutmidgeling","op":"replace"}]

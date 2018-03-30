@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Gold Drill",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Brocas são rápidas mas quebram rapidamente. Uma alternativa temporária para o manipulador de matéria.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Gold Drill","op":"replace"},{"path":"/description","value":"Brocas s\u00e3o r\u00e1pidas mas quebram rapidamente. Uma alternativa tempor\u00e1ria para o manipulador de mat\u00e9ria.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pearlpea Risotto",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Pearlpeas perfeitamente maduras funcionam melhor para este prato de arroz saudável.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Pearlpea Risotto","op":"replace"},{"path":"/description","value":"Pearlpeas perfeitamente maduras funcionam melhor para este prato de arroz saud\u00e1vel.","op":"replace"}]

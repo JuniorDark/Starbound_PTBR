@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Calças Chainmail emparelhado com botas de tungstênio pesado - um passo a cima do normal.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Soldier's Trousers",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Cal\u00e7as Chainmail emparelhado com botas de tungst\u00eanio pesado - um passo a cima do normal.","op":"replace"},{"path":"/shortdescription","value":"Soldier's Trousers","op":"replace"}]

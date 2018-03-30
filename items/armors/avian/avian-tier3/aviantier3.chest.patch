@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Quail Breastplate",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Armadura de titânio que levemente coça, usada por plebeus Avian ao redor da galáxia.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Quail Breastplate","op":"replace"},{"path":"/description","value":"Armadura de tit\u00e2nio que levemente co\u00e7a, usada por plebeus Avian ao redor da gal\u00e1xia.","op":"replace"}]

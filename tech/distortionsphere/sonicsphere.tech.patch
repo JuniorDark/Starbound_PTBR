@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Realiza uma arrancada de esfera ao segurar ^green;[F] ^white;para transformar!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Esfera Sônica",
-    "path": "/shortDescription"
-  }
-]
+[{"path":"/description","value":"Realiza uma arrancada de esfera ao segurar ^green;[F] ^white;para transformar!","op":"replace"},{"path":"/shortDescription","value":"Esfera S\u00f4nica","op":"replace"}]

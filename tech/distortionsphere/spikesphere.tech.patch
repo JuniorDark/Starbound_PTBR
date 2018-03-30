@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Esfera de Espinhos",
-    "path": "/shortDescription"
-  },
-  {
-    "op": "replace",
-    "value": "Transforme-se um uma esfera que pode escalar paredes! ^green;[F]",
-    "path": "/description"
-  }
-]
+[{"path":"/shortDescription","value":"Esfera de Espinhos","op":"replace"},{"path":"/description","value":"Transforme-se um uma esfera que pode escalar paredes! ^green;[F]","op":"replace"}]

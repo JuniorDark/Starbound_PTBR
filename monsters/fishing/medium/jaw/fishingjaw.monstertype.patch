@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Copper Bonejaw",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Ele nasce com uma mandíbula suave que calcifica e endurece através de sua vida útil.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Copper Bonejaw","op":"replace"},{"path":"/description","value":"Ele nasce com uma mand\u00edbula suave que calcifica e endurece atrav\u00e9s de sua vida \u00fatil.","op":"replace"}]

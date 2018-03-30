@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Gold Feudibranch",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Seu corpo tubular é totalmente suave, exceto pelas longas pinças de queratina em sua cabeça.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Gold Feudibranch","op":"replace"},{"path":"/description","value":"Seu corpo tubular \u00e9 totalmente suave, exceto pelas longas pin\u00e7as de queratina em sua cabe\u00e7a.","op":"replace"}]

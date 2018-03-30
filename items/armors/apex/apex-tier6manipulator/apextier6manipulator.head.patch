@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma máscara com capuz que se adapta a natureza enigmática daqueles que derrubam regimes.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Usurper's Hood",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma m\u00e1scara com capuz que se adapta a natureza enigm\u00e1tica daqueles que derrubam regimes.","op":"replace"},{"path":"/shortdescription","value":"Usurper's Hood","op":"replace"}]

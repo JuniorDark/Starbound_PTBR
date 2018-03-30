@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ex Machina",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Número de Série: 0451",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Ex Machina","op":"replace"},{"path":"/description","value":"N\u00famero de S\u00e9rie: 0451","op":"replace"}]

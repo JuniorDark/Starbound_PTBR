@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Frilled Tadguppy",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A sua grande cauda pode criar impulsos rítmicos que distraem potenciais predadores.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Frilled Tadguppy","op":"replace"},{"path":"/description","value":"A sua grande cauda pode criar impulsos r\u00edtmicos que distraem potenciais predadores.","op":"replace"}]

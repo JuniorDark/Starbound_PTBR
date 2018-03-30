@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Rock Chest",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Armadura feita de pedras. Que inconveniente!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Rock Chest","op":"replace"},{"path":"/description","value":"Armadura feita de pedras. Que inconveniente!","op":"replace"}]

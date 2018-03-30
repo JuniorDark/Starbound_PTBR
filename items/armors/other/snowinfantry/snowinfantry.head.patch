@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Snow Infantry Helmet",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este capacete quente ajuda a evitar resfriados na cabeça.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Snow Infantry Helmet","op":"replace"},{"path":"/description","value":"Este capacete quente ajuda a evitar resfriados na cabe\u00e7a.","op":"replace"}]

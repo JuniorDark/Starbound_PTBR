@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Infiltrator's Breastplate",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta armadura quase impenetrável é flexível no pescoço, braços e barriga, para permitir agilidade em combate.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Infiltrator's Breastplate","op":"replace"},{"path":"/description","value":"Esta armadura quase impenetr\u00e1vel \u00e9 flex\u00edvel no pesco\u00e7o, bra\u00e7os e barriga, para permitir agilidade em combate.","op":"replace"}]

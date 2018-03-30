@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Para aqueles que são um pouco míope.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Huge Glasses",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Para aqueles que s\u00e3o um pouco m\u00edope.","op":"replace"},{"path":"/shortdescription","value":"Huge Glasses","op":"replace"}]

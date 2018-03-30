@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Geralmente uma capa curta. Provavelmente uma capa longa para pinguins.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Short Cape",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Geralmente uma capa curta. Provavelmente uma capa longa para pinguins.","op":"replace"},{"path":"/shortdescription","value":"Short Cape","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um corpo de mecha experimental alimentado por um núcleo radioativo instável.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Reactor Mech Body",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um corpo de mecha experimental alimentado por um n\u00facleo radioativo inst\u00e1vel.","op":"replace"},{"path":"/shortdescription","value":"Reactor Mech Body","op":"replace"}]

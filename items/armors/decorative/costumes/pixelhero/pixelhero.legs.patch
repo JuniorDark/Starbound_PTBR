@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Só pode ser usado por aqueles dignos o suficiente.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Pixel Hero Pants",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"S\u00f3 pode ser usado por aqueles dignos o suficiente.","op":"replace"},{"path":"/shortdescription","value":"Pixel Hero Pants","op":"replace"}]

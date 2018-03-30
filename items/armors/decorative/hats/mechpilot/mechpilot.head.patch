@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um capacete tipicamente usado para interagir com um mecha pessoal.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Mech Pilot Helmet",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um capacete tipicamente usado para interagir com um mecha pessoal.","op":"replace"},{"path":"/shortdescription","value":"Mech Pilot Helmet","op":"replace"}]

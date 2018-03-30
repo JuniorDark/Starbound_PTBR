@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Snaunt Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"É famoso por roubar de hortas.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Snaunt Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"\u00c9 famoso por roubar de hortas.\"","op":"replace"}]

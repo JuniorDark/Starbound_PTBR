@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Alien Alpaca Sweater",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Se você vai viajar pelo universo, não se esqueça de levar um suéter quente.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Alien Alpaca Sweater","op":"replace"},{"path":"/description","value":"Se voc\u00ea vai viajar pelo universo, n\u00e3o se esque\u00e7a de levar um su\u00e9ter quente.","op":"replace"}]

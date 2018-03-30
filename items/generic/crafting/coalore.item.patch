@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Coal",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "É carvão. Uma fonte decente de combustível.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Coal","op":"replace"},{"path":"/description","value":"\u00c9 carv\u00e3o. Uma fonte decente de combust\u00edvel.","op":"replace"}]

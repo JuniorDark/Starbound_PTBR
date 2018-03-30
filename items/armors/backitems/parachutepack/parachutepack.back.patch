@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um pára-quedas. Sem mais queda livre!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Parachute",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um p\u00e1ra-quedas. Sem mais queda livre!","op":"replace"},{"path":"/shortdescription","value":"Parachute","op":"replace"}]

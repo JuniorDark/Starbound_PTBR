@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "BOLA DE LUZ",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"BOLA DE LUZ","op":"replace"}]

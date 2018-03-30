@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "MORDIDA ÁEREA",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"MORDIDA \u00c1EREA","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Deliciosos rolos de arroz e algas marinhas. Um favorito dos Hylotl.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Sushi",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Deliciosos rolos de arroz e algas marinhas. Um favorito dos Hylotl.","op":"replace"},{"path":"/shortdescription","value":"Sushi","op":"replace"}]

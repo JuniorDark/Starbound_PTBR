@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Eu tenho feito uma pesquisa cultural, e eu sinto que é muito importante que o Big Ape seja incluído na seção Apex do meu museu. ^green;Você poderia por favor me trazer um ^orange;Big Ape Bust^white;? Ouvi dizer que eles são relativamente comuns, então você deve ser capaz de encontrar um em um assentamento Apex.",
-    "path": "/text"
-  },
-  {
-    "op": "replace",
-    "value": "Isto será perfeito para o museu! Muito obrigado.",
-    "path": "/completionText"
-  },
-  {
-    "op": "replace",
-    "value": "^green;O Governante dos Apex",
-    "path": "/title"
-  }
-]
+[{"path":"/text","value":"Eu tenho feito uma pesquisa cultural, e eu sinto que \u00e9 muito importante que o Big Ape seja inclu\u00eddo na se\u00e7\u00e3o Apex do meu museu. ^green;Voc\u00ea poderia por favor me trazer um ^orange;Big Ape Bust^white;? Ouvi dizer que eles s\u00e3o relativamente comuns, ent\u00e3o voc\u00ea deve ser capaz de encontrar um em um assentamento Apex.","op":"replace"},{"path":"/completionText","value":"Isto ser\u00e1 perfeito para o museu! Muito obrigado.","op":"replace"},{"path":"/title","value":"^green;O Governante dos Apex","op":"replace"}]

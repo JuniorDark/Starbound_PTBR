@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um gatinho vivo quer reivindicá-lo como seu escravo!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Kitty Hat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um gatinho vivo quer reivindic\u00e1-lo como seu escravo!","op":"replace"},{"path":"/shortdescription","value":"Kitty Hat","op":"replace"}]

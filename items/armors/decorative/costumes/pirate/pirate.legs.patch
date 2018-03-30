@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Calças de pirata, com furos para as pernas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Pirate Pantaloons.",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Cal\u00e7as de pirata, com furos para as pernas.","op":"replace"},{"path":"/shortdescription","value":"Pirate Pantaloons.","op":"replace"}]

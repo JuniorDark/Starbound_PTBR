@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Calças frias feitas de gelo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Ice Armor Trousers",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Cal\u00e7as frias feitas de gelo.","op":"replace"},{"path":"/shortdescription","value":"Ice Armor Trousers","op":"replace"}]

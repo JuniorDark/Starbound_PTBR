@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "30% dos Pixels Perdidos",
-    "path": "/panels/2/text"
-  }
-]
+[{"path":"/panels/2/text","value":"30% dos Pixels Perdidos","op":"replace"}]

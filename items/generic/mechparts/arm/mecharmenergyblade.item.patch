@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma poderosa lâmina de energia para cortar... Praticamente tudo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Energy Blade Mech Arm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma poderosa l\u00e2mina de energia para cortar... Praticamente tudo.","op":"replace"},{"path":"/shortdescription","value":"Energy Blade Mech Arm","op":"replace"}]

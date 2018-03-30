@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um trompete.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Trumpet",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um trompete.","op":"replace"},{"path":"/shortdescription","value":"Trumpet","op":"replace"}]

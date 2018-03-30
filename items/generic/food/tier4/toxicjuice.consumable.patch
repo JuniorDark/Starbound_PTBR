@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Toxic Juice",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O que você ganha se você misturar um toxictop com uma fruta alienígena? É isso mesmo, você adivinhou.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Toxic Juice","op":"replace"},{"path":"/description","value":"O que voc\u00ea ganha se voc\u00ea misturar um toxictop com uma fruta alien\u00edgena? \u00c9 isso mesmo, voc\u00ea adivinhou.","op":"replace"}]

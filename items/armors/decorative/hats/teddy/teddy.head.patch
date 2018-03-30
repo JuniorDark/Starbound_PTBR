@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Teddy Hat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este urso de pelucia quer descansar em sua cabeça!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Teddy Hat","op":"replace"},{"path":"/description","value":"Este urso de pelucia quer descansar em sua cabe\u00e7a!","op":"replace"}]

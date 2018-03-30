@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um protótipo de corpo de mecha aberto, projetado para pilotos Apex.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Dominion-00 Mech Body",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um prot\u00f3tipo de corpo de mecha aberto, projetado para pilotos Apex.","op":"replace"},{"path":"/shortdescription","value":"Dominion-00 Mech Body","op":"replace"}]

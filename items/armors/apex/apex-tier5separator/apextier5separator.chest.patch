@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma armadura reforçada majestosa, para se adequar ao suposto assassino.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Assassin's Chestguard",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma armadura refor\u00e7ada majestosa, para se adequar ao suposto assassino.","op":"replace"},{"path":"/shortdescription","value":"Assassin's Chestguard","op":"replace"}]

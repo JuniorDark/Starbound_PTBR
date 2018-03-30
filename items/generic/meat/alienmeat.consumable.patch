@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma fatia de uma estranha carne alienígena pegajosa crua. Talvez eu deveria cozinhar isso.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Raw Steak",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma fatia de uma estranha carne alien\u00edgena pegajosa crua. Talvez eu deveria cozinhar isso.","op":"replace"},{"path":"/shortdescription","value":"Raw Steak","op":"replace"}]

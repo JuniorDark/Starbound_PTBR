@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Rock Hat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Você pode colocar essas pedras em sua cabeça.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Rock Hat","op":"replace"},{"path":"/description","value":"Voc\u00ea pode colocar essas pedras em sua cabe\u00e7a.","op":"replace"}]

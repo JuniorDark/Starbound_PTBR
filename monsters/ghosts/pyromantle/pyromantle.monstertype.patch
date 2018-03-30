@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Seu núcleo quente produz um fluxo constante de lava. Ela da um belo soco.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Pyromantle",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Seu n\u00facleo quente produz um fluxo constante de lava. Ela da um belo soco.","op":"replace"},{"path":"/shortdescription","value":"Pyromantle","op":"replace"}]

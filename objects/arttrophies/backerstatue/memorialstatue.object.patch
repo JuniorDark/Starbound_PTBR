@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Imagination Memorial",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A placa diz \"Para um pai que abriu um novo mundo para mim. Em Memória de Tracy Dietrich 1963-2003\".",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Imagination Memorial","op":"replace"},{"path":"/description","value":"A placa diz \"Para um pai que abriu um novo mundo para mim. Em Mem\u00f3ria de Tracy Dietrich 1963-2003\".","op":"replace"}]

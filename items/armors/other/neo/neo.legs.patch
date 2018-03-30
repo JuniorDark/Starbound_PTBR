@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um flash de brilho enfeita essas calças de alta qualidade.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Neo Bottoms",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um flash de brilho enfeita essas cal\u00e7as de alta qualidade.","op":"replace"},{"path":"/shortdescription","value":"Neo Bottoms","op":"replace"}]

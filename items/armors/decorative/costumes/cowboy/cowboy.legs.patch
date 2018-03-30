@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cowboy Pants",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Feita com couro real de búfalo.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Cowboy Pants","op":"replace"},{"path":"/description","value":"Feita com couro real de b\u00fafalo.","op":"replace"}]

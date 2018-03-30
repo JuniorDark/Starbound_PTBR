@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "0",
-    "path": "/priceLabel/value"
-  },
-  {
-    "op": "replace",
-    "value": "Defesa",
-    "path": "/protectionStatLabel/value"
-  },
-  {
-    "op": "replace",
-    "value": "Energia Máxima",
-    "path": "/energyStatLabel/value"
-  }
-]
+[{"path":"/priceLabel/value","value":"0","op":"replace"},{"path":"/protectionStatLabel/value","value":"Defesa","op":"replace"},{"path":"/energyStatLabel/value","value":"Energia M\u00e1xima","op":"replace"}]

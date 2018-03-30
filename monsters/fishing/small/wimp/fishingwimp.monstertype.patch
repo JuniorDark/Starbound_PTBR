@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Glacial Wimp",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Ele passa a maior parte de seu tempo evitando predadores ao correr para longe com as suas pequenas pernas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Glacial Wimp","op":"replace"},{"path":"/description","value":"Ele passa a maior parte de seu tempo evitando predadores ao correr para longe com as suas pequenas pernas.","op":"replace"}]

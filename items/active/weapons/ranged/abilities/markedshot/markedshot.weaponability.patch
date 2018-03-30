@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Tiro Marcado",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Tiro Marcado","op":"replace"}]

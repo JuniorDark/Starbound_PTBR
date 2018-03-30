@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um par de pernas de Alpaca fossilizado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Alpaca Legs",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um par de pernas de Alpaca fossilizado.","op":"replace"},{"path":"/shortdescription","value":"Alpaca Legs","op":"replace"}]

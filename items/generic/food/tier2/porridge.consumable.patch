@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma tigela de mingau quente. Uma maneira saudável de começar o dia.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Porridge",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma tigela de mingau quente. Uma maneira saud\u00e1vel de come\u00e7ar o dia.","op":"replace"},{"path":"/shortdescription","value":"Porridge","op":"replace"}]

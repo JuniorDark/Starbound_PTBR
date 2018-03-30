@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Deputy's Hat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Você daria um delegado arrojado neste chapéu.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Deputy's Hat","op":"replace"},{"path":"/description","value":"Voc\u00ea daria um delegado arrojado neste chap\u00e9u.","op":"replace"}]

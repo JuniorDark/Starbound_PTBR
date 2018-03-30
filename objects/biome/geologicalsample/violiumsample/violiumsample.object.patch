@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "\"Uma amostra perfeita de um minério de violium.\"",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Violium Sample",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\"Uma amostra perfeita de um min\u00e9rio de violium.\"","op":"replace"},{"path":"/shortdescription","value":"Violium Sample","op":"replace"}]

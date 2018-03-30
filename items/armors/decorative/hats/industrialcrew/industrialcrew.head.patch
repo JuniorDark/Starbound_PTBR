@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Industrial Crew Helmet",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Equipamento de comunicação típico para trabalhar em naves de carga industriais.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Industrial Crew Helmet","op":"replace"},{"path":"/description","value":"Equipamento de comunica\u00e7\u00e3o t\u00edpico para trabalhar em naves de carga industriais.","op":"replace"}]

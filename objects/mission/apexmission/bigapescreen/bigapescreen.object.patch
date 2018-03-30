@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ape Monitor",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/shortdescription","value":"Ape Monitor","op":"replace"}]

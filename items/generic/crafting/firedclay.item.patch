@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Argila cozida em um tijolo sólido.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Fired Clay",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Argila cozida em um tijolo s\u00f3lido.","op":"replace"},{"path":"/shortdescription","value":"Fired Clay","op":"replace"}]

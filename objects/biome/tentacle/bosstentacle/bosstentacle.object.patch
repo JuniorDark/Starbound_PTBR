@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Boss Tentacle",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Tentáculo da Ruína.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Boss Tentacle","op":"replace"},{"path":"/description","value":"Tent\u00e1culo da Ru\u00edna.","op":"replace"}]

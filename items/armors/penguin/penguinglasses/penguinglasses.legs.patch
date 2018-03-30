@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um par de óculos de tamanho Pinguim.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Penguin Glasses",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um par de \u00f3culos de tamanho Pinguim.","op":"replace"},{"path":"/shortdescription","value":"Penguin Glasses","op":"replace"}]

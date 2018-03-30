@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Camada Núcleo de Obsidiana",
-    "path": "/friendlyName"
-  }
-]
+[{"path":"/friendlyName","value":"Camada N\u00facleo de Obsidiana","op":"replace"}]

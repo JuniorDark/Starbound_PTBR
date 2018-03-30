@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um prato Hylotl, sobrecarregado com ingredientes de origem oceânica questionável.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Ocean Surprise",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um prato Hylotl, sobrecarregado com ingredientes de origem oce\u00e2nica question\u00e1vel.","op":"replace"},{"path":"/shortdescription","value":"Ocean Surprise","op":"replace"}]

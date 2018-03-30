@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ele pode sentir o cheiro de presas se aproximando a uma milha de distância, mas também é muito lento para reagir.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Nosy Scoutier",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Ele pode sentir o cheiro de presas se aproximando a uma milha de dist\u00e2ncia, mas tamb\u00e9m \u00e9 muito lento para reagir.","op":"replace"},{"path":"/shortdescription","value":"Nosy Scoutier","op":"replace"}]

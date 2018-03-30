@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um capacete com uma estética elaborada, semelhante a uma bolha, que permite um amplo plano de visão.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Euphotic Helm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um capacete com uma est\u00e9tica elaborada, semelhante a uma bolha, que permite um amplo plano de vis\u00e3o.","op":"replace"},{"path":"/shortdescription","value":"Euphotic Helm","op":"replace"}]

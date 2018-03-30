@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um coelho vivo quer descansar em sua cabeça!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Bunny Hat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um coelho vivo quer descansar em sua cabe\u00e7a!","op":"replace"},{"path":"/shortdescription","value":"Bunny Hat","op":"replace"}]

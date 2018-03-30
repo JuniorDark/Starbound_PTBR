@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Mudstag",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este inseto é incrivelmente pegajoso. Tem dois chifres longos em sua cabeça.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Mudstag","op":"replace"},{"path":"/description","value":"Este inseto \u00e9 incrivelmente pegajoso. Tem dois chifres longos em sua cabe\u00e7a.","op":"replace"}]

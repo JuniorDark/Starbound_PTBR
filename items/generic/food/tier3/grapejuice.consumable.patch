@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um suco doce feito de uvas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Grape Juice",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um suco doce feito de uvas.","op":"replace"},{"path":"/shortdescription","value":"Grape Juice","op":"replace"}]

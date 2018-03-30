@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Projetado para o guerreiro que é um guardião da paz - fiel e inflexível.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Disphotic Breastplate",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Projetado para o guerreiro que \u00e9 um guardi\u00e3o da paz - fiel e inflex\u00edvel.","op":"replace"},{"path":"/shortdescription","value":"Disphotic Breastplate","op":"replace"}]

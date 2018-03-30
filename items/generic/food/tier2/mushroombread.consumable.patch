@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Mushroom Bread",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este pedaço de pão tem cogumelos assados dentro dele. Hum!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Mushroom Bread","op":"replace"},{"path":"/description","value":"Este peda\u00e7o de p\u00e3o tem cogumelos assados dentro dele. Hum!","op":"replace"}]

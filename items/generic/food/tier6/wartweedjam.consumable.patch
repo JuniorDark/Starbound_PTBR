@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma geléia grossa e cheia de sementes que deixa um gosto seco em sua boca.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Wartweed Jam",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma gel\u00e9ia grossa e cheia de sementes que deixa um gosto seco em sua boca.","op":"replace"},{"path":"/shortdescription","value":"Wartweed Jam","op":"replace"}]

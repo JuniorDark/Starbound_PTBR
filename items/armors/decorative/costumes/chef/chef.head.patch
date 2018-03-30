@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Chef Hat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Para fazer o utilizador parecer com um chefe profissional.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Chef Hat","op":"replace"},{"path":"/description","value":"Para fazer o utilizador parecer com um chefe profissional.","op":"replace"}]

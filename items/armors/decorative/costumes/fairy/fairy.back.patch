@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Asas bonitas, elas me fazem me sentir bonito(a).",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Fairy Wings",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Asas bonitas, elas me fazem me sentir bonito(a).","op":"replace"},{"path":"/shortdescription","value":"Fairy Wings","op":"replace"}]

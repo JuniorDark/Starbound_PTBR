@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma transcrição de um ASP da Miniknog.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Aversão à Crise Miniknog",
-    "path": "/title"
-  },
-  {
-    "op": "replace",
-    "value": "ESTE É UM ANÚNCIO DE SERVIÇO PÚBLICO DA MINIKNOG \n\nTodas as fontes de água foram descobertas conter um patógeno letal // \nOs médicos da Miniknog já descobriram uma cura // \nA vacinação inclui a matrícula gratuita no Processo Vestigi-Evo. Isso não é opcional // \nOs cidadãos devem se apresentar imediatamente à sua prefeitura local para vacinação //",
-    "path": "/contentPages/0"
-  }
-]
+[{"path":"/description","value":"Uma transcri\u00e7\u00e3o de um ASP da Miniknog.","op":"replace"},{"path":"/title","value":"Avers\u00e3o \u00e0 Crise Miniknog","op":"replace"},{"path":"/contentPages/0","value":"ESTE \u00c9 UM AN\u00daNCIO DE SERVI\u00c7O P\u00daBLICO DA MINIKNOG \n\nTodas as fontes de \u00e1gua foram descobertas conter um pat\u00f3geno letal // \nOs m\u00e9dicos da Miniknog j\u00e1 descobriram uma cura // \nA vacina\u00e7\u00e3o inclui a matr\u00edcula gratuita no Processo Vestigi-Evo. Isso n\u00e3o \u00e9 opcional // \nOs cidad\u00e3os devem se apresentar imediatamente \u00e0 sua prefeitura local para vacina\u00e7\u00e3o //","op":"replace"}]

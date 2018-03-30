@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma guitarra solo. Para aqueles que gostam de chamar a atenção.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Lead Guitar",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma guitarra solo. Para aqueles que gostam de chamar a aten\u00e7\u00e3o.","op":"replace"},{"path":"/shortdescription","value":"Lead Guitar","op":"replace"}]

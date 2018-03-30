@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral forte e leve.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tracker's Chestguard",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral forte e leve.","op":"replace"},{"path":"/shortdescription","value":"Tracker's Chestguard","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Alimentada por neve, é totalmente automática e mantém suas luvas secas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Snowball Shooter",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Alimentada por neve, \u00e9 totalmente autom\u00e1tica e mant\u00e9m suas luvas secas.","op":"replace"},{"path":"/shortdescription","value":"Snowball Shooter","op":"replace"}]

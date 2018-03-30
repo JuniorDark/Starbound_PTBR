@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Rebel's Chestguard",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Armadura de tronco feita de placas de tungstênio segmentadas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Rebel's Chestguard","op":"replace"},{"path":"/description","value":"Armadura de tronco feita de placas de tungst\u00eanio segmentadas.","op":"replace"}]

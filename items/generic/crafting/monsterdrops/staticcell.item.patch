@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um aglomerado de matéria celular carregada eletricamente. Pode ser usada para fabricação.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Static Cell",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um aglomerado de mat\u00e9ria celular carregada eletricamente. Pode ser usada para fabrica\u00e7\u00e3o.","op":"replace"},{"path":"/shortdescription","value":"Static Cell","op":"replace"}]

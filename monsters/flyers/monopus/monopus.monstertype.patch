@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Monopus",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Uma espécie antiga, sabe ser ágil e travessa. Eles têm um olhar inteligente em seu olho.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Monopus","op":"replace"},{"path":"/description","value":"Uma esp\u00e9cie antiga, sabe ser \u00e1gil e travessa. Eles t\u00eam um olhar inteligente em seu olho.","op":"replace"}]

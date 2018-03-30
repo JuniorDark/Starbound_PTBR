@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Asteroids Estéreis",
-    "path": "/friendlyName"
-  }
-]
+[{"path":"/friendlyName","value":"Asteroids Est\u00e9reis","op":"replace"}]

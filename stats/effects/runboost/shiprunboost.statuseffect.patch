@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Impulso de Corrida",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"Impulso de Corrida","op":"replace"}]

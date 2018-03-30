@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bladed Wings",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Asas majestosas, feitas de lâminas afiadas em forma de penas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Bladed Wings","op":"replace"},{"path":"/description","value":"Asas majestosas, feitas de l\u00e2minas afiadas em forma de penas.","op":"replace"}]

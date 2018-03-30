@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Protege você do sol quente.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Sombrero",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Protege voc\u00ea do sol quente.","op":"replace"},{"path":"/shortdescription","value":"Sombrero","op":"replace"}]

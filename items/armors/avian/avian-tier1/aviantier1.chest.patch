@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma couraça com ombros de ferro. Completa com o peito vermelho.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hatchling's Breastplate",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma coura\u00e7a com ombros de ferro. Completa com o peito vermelho.","op":"replace"},{"path":"/shortdescription","value":"Hatchling's Breastplate","op":"replace"}]

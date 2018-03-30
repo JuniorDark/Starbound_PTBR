@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um top elegante. É destinado para noivas, mas pode ser usado por qualquer pessoa se sentindo chique.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Elegant Wedding Top",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um top elegante. \u00c9 destinado para noivas, mas pode ser usado por qualquer pessoa se sentindo chique.","op":"replace"},{"path":"/shortdescription","value":"Elegant Wedding Top","op":"replace"}]

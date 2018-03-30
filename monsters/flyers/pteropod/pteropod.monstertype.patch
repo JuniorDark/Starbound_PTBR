@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pteropod",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Ela fabrica uma pasta tóxica em sua vagem feita a partir de frutos fermentados.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Pteropod","op":"replace"},{"path":"/description","value":"Ela fabrica uma pasta t\u00f3xica em sua vagem feita a partir de frutos fermentados.","op":"replace"}]

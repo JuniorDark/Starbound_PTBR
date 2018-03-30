@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um capacete de segurança brilhante com óculos enormes anexado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Foundry Hard Hat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um capacete de seguran\u00e7a brilhante com \u00f3culos enormes anexado.","op":"replace"},{"path":"/shortdescription","value":"Foundry Hard Hat","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Nutmidge Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"Nutmidgelings frequentemente se agrupam por segurança, empilhando dentro de um escudo protetor.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Nutmidge Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"Nutmidgelings frequentemente se agrupam por seguran\u00e7a, empilhando dentro de um escudo protetor.\"","op":"replace"}]

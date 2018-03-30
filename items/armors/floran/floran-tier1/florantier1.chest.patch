@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "É raro ver um peitoral como esse não coberto de dentes, sangue e pedaços de carne.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Sprout's Chestguard",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\u00c9 raro ver um peitoral como esse n\u00e3o coberto de dentes, sangue e peda\u00e7os de carne.","op":"replace"},{"path":"/shortdescription","value":"Sprout's Chestguard","op":"replace"}]

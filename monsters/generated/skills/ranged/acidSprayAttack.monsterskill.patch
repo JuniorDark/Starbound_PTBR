@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "ESPIRRO ÁCIDO",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"ESPIRRO \u00c1CIDO","op":"replace"}]

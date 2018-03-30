@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma camisa da baixa qualidade, vestida às vezes por comerciantes.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Merchant Shirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma camisa da baixa qualidade, vestida \u00e0s vezes por comerciantes.","op":"replace"},{"path":"/shortdescription","value":"Merchant Shirt","op":"replace"}]

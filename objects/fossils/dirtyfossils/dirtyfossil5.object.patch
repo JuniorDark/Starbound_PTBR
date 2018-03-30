@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Fossil",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Algum tipo de fóssil, todo coberto de lama e rocha. Vai precisar de uma limpeza cuidadosa para obtê-lo inteiro.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Fossil","op":"replace"},{"path":"/description","value":"Algum tipo de f\u00f3ssil, todo coberto de lama e rocha. Vai precisar de uma limpeza cuidadosa para obt\u00ea-lo inteiro.","op":"replace"}]

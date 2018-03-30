@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Sinta-se mais inteligente com esses óculos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Scientist Glasses",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Sinta-se mais inteligente com esses \u00f3culos.","op":"replace"},{"path":"/shortdescription","value":"Scientist Glasses","op":"replace"}]

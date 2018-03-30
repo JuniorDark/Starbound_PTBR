@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Icetip",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "As asas deste inseto estão congeladas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Icetip","op":"replace"},{"path":"/description","value":"As asas deste inseto est\u00e3o congeladas.","op":"replace"}]

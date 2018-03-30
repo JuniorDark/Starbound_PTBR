@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um chapéu alto que está em chamas! É muito chique.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hot Top Hat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um chap\u00e9u alto que est\u00e1 em chamas! \u00c9 muito chique.","op":"replace"},{"path":"/shortdescription","value":"Hot Top Hat","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Perfect Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Estas são calças incrivelmente perfeitas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Perfect Trousers","op":"replace"},{"path":"/description","value":"Estas s\u00e3o cal\u00e7as incrivelmente perfeitas.","op":"replace"}]

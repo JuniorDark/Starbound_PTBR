@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Eu vou continuar limpando o carburador enquanto estou aqui. A eficiência do combustível aumentou 10%!",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
-  },
-  {
-    "op": "replace",
-    "value": "Mecânico(a)",
-    "path": "/scriptConfig/crew/role/name"
-  },
-  {
-    "op": "replace",
-    "value": "Técnico",
-    "path": "/scriptConfig/crew/role/field"
-  }
-]
+[{"path":"/scriptConfig/dialog/crewmember/roleDescription/default/default/0","value":"Eu vou continuar limpando o carburador enquanto estou aqui. A efici\u00eancia do combust\u00edvel aumentou 10%!","op":"replace"},{"path":"/scriptConfig/crew/role/name","value":"Mec\u00e2nico(a)","op":"replace"},{"path":"/scriptConfig/crew/role/field","value":"T\u00e9cnico","op":"replace"}]

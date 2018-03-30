@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Boxing Glove",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Agora você pode ser um competidor.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Boxing Glove","op":"replace"},{"path":"/description","value":"Agora voc\u00ea pode ser um competidor.","op":"replace"}]

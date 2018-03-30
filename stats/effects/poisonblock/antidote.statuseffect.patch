@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Resistençia a Veneno",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"Resisten\u00e7ia a Veneno","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um saxofone. Para quando você tem o blues espacial.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Saxophone",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um saxofone. Para quando voc\u00ea tem o blues espacial.","op":"replace"},{"path":"/shortdescription","value":"Saxophone","op":"replace"}]

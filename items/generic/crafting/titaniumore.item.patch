@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "É titânio. Pode ser derretido e transformado em barras.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Titanium Ore",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\u00c9 tit\u00e2nio. Pode ser derretido e transformado em barras.","op":"replace"},{"path":"/shortdescription","value":"Titanium Ore","op":"replace"}]

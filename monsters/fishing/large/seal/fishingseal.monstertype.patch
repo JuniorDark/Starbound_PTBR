@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Quase idêntico aos seus ancestrais pré-históricos, mas mais gordo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Sealacanth",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Quase id\u00eantico aos seus ancestrais pr\u00e9-hist\u00f3ricos, mas mais gordo.","op":"replace"},{"path":"/shortdescription","value":"Sealacanth","op":"replace"}]

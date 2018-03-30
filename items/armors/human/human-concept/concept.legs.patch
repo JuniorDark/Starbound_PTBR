@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Casual Shorts",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Eles são mais longos do que calções padrões.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Casual Shorts","op":"replace"},{"path":"/description","value":"Eles s\u00e3o mais longos do que cal\u00e7\u00f5es padr\u00f5es.","op":"replace"}]

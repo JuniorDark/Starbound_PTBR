@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Comerciante de Suprimentos Militares",
-    "path": "/scriptConfig/guiConfig/gui/windowtitle/title"
-  }
-]
+[{"path":"/scriptConfig/guiConfig/gui/windowtitle/title","value":"Comerciante de Suprimentos Militares","op":"replace"}]

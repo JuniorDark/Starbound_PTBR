@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Stargazer Hood",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este capuz brilha como a luz das estrelas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Stargazer Hood","op":"replace"},{"path":"/description","value":"Este capuz brilha como a luz das estrelas.","op":"replace"}]

@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Esther concluiu que esta base Mansão é a localização do artefato Apex.",
-    "path": "/speciesText/default/selectSpeech/text"
-  },
-  {
-    "op": "replace",
-    "value": "Revisite a Fortaleza Miniknog ",
-    "path": "/speciesText/default/repeatButtonText"
-  },
-  {
-    "op": "replace",
-    "value": "A Fortaleza Miniknog ",
-    "path": "/speciesText/default/buttonText"
-  }
-]
+[{"path":"/speciesText/default/selectSpeech/text","value":"Esther concluiu que esta base Mans\u00e3o \u00e9 a localiza\u00e7\u00e3o do artefato Apex.","op":"replace"},{"path":"/speciesText/default/repeatButtonText","value":"Revisite a Fortaleza Miniknog ","op":"replace"},{"path":"/speciesText/default/buttonText","value":"A Fortaleza Miniknog ","op":"replace"}]

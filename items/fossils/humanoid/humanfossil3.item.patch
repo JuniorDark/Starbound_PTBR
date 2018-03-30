@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um par fosilizado de pernas humana.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Human Legs",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um par fosilizado de pernas humana.","op":"replace"},{"path":"/shortdescription","value":"Human Legs","op":"replace"}]

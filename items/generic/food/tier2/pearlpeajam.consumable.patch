@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Geralmente conhecida como \"geléia de perola\". Parece bom.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Pearlpea Jam",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Geralmente conhecida como \"gel\u00e9ia de perola\". Parece bom.","op":"replace"},{"path":"/shortdescription","value":"Pearlpea Jam","op":"replace"}]

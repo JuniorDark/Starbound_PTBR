@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um suculento hambúrguer, coberto com queijo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Cheeseburger",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um suculento hamb\u00farguer, coberto com queijo.","op":"replace"},{"path":"/shortdescription","value":"Cheeseburger","op":"replace"}]

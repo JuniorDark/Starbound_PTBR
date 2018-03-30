@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pearlpea Parcels",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Pearlpeas embrulhadas perfeitamente em um pacote de wartweed.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Pearlpea Parcels","op":"replace"},{"path":"/description","value":"Pearlpeas embrulhadas perfeitamente em um pacote de wartweed.","op":"replace"}]

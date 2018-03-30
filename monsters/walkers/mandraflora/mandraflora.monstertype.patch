@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Seu estilo de vida sonolento permite que floresça no subsolo e atinja tamanhos impressionantes.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Mandraflora",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Seu estilo de vida sonolento permite que flores\u00e7a no subsolo e atinja tamanhos impressionantes.","op":"replace"},{"path":"/shortdescription","value":"Mandraflora","op":"replace"}]

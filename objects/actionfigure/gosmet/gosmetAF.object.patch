@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Gosmet Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"Essas criaturas têm corpos etéreos que eles transformam em armadura quando ameaçados.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Gosmet Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"Essas criaturas t\u00eam corpos et\u00e9reos que eles transformam em armadura quando amea\u00e7ados.\"","op":"replace"}]

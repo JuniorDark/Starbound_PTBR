@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "As marcações neste elmo diz \"Escolhido dos mortos\".",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Valkyrie Helm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"As marca\u00e7\u00f5es neste elmo diz \"Escolhido dos mortos\".","op":"replace"},{"path":"/shortdescription","value":"Valkyrie Helm","op":"replace"}]

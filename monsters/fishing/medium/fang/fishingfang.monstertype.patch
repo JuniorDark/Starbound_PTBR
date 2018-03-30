@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Muckfang",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este anfíbio lento pode passar horas se aproximando da presa antes de paralisá-la com presas venenosas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Muckfang","op":"replace"},{"path":"/description","value":"Este anf\u00edbio lento pode passar horas se aproximando da presa antes de paralis\u00e1-la com presas venenosas.","op":"replace"}]

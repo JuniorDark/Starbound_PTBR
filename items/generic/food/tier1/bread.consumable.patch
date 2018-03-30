@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bread",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Mmm, fresquinho do forno.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Bread","op":"replace"},{"path":"/description","value":"Mmm, fresquinho do forno.","op":"replace"}]

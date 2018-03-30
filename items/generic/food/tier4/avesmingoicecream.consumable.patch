@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Avesmingo Ice Cream",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Avesmingos podem ter gosto de nada! Para melhor ou pior, pode ser este sorvete.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Avesmingo Ice Cream","op":"replace"},{"path":"/description","value":"Avesmingos podem ter gosto de nada! Para melhor ou pior, pode ser este sorvete.","op":"replace"}]

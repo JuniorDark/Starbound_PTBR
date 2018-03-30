@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Arctic Speartooth",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Ele mantém uma concha de gelo dura em torno do seu corpo para proteção.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Arctic Speartooth","op":"replace"},{"path":"/description","value":"Ele mant\u00e9m uma concha de gelo dura em torno do seu corpo para prote\u00e7\u00e3o.","op":"replace"}]

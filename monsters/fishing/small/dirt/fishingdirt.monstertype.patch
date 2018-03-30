@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Sandy Dirtwhisker",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este peixe desenvolveu dois olhos extras apenas para parecer decepcionado.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Sandy Dirtwhisker","op":"replace"},{"path":"/description","value":"Este peixe desenvolveu dois olhos extras apenas para parecer decepcionado.","op":"replace"}]

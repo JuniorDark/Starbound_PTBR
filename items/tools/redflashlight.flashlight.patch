@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Flashlight",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Uma lanterna vermelha! Tudo parece quente e cheio de raiva.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Flashlight","op":"replace"},{"path":"/description","value":"Uma lanterna vermelha! Tudo parece quente e cheio de raiva.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Rail Hook",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Monte nos trilhos!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Rail Hook","op":"replace"},{"path":"/description","value":"Monte nos trilhos!","op":"replace"}]

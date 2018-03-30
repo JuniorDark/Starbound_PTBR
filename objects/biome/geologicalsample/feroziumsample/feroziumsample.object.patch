@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "\"Uma amostra perfeita de um minério de ferozium.\"",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Ferozium Sample",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\"Uma amostra perfeita de um min\u00e9rio de ferozium.\"","op":"replace"},{"path":"/shortdescription","value":"Ferozium Sample","op":"replace"}]

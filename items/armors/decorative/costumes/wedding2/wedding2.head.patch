@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um véu de casamento feito de seda rendada.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Wedding Veil",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um v\u00e9u de casamento feito de seda rendada.","op":"replace"},{"path":"/shortdescription","value":"Wedding Veil","op":"replace"}]

@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "^shadow;Defesa Quebrada!",
-    "path": "/definition/text"
-  }
-]
+[{"path":"/definition/text","value":"^shadow;Defesa Quebrada!","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pode ou não conter um pára-quedas funcionando.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Pilot's Backpack",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Pode ou n\u00e3o conter um p\u00e1ra-quedas funcionando.","op":"replace"},{"path":"/shortdescription","value":"Pilot's Backpack","op":"replace"}]

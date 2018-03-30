@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Tiro de Flecha",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Tiro de Flecha","op":"replace"}]

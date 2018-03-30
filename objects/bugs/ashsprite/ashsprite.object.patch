@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ashsprite",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esses insetos parecem surgir das nuvens de cinzas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Ashsprite","op":"replace"},{"path":"/description","value":"Esses insetos parecem surgir das nuvens de cinzas.","op":"replace"}]

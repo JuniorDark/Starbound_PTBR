@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Mortilus",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "As gavinhas deste cefalópode são revestidas com uma toxina mortal que pode paralisar até mesmo um Poptop totalmente crescido.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Mortilus","op":"replace"},{"path":"/description","value":"As gavinhas deste cefal\u00f3pode s\u00e3o revestidas com uma toxina mortal que pode paralisar at\u00e9 mesmo um Poptop totalmente crescido.","op":"replace"}]

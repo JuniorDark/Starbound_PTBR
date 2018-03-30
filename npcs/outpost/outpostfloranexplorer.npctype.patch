@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Floran gossta de viajar! Floran quer ver o universo inteiro!",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  },
-  {
-    "op": "replace",
-    "value": "Floran gossta de viajar! Floran quer ver o universo inteiro!",
-    "path": "/scriptConfig/dialog/converse/floran/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Floran gossta de viajar! Floran quer ver o universo inteiro!","op":"replace"},{"path":"/scriptConfig/dialog/converse/floran/default/0","value":"Floran gossta de viajar! Floran quer ver o universo inteiro!","op":"replace"}]

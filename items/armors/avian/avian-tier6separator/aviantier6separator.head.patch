@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Este elmo incrivelmente durável é surpreendentemente confortável.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Toucan Helm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Este elmo incrivelmente dur\u00e1vel \u00e9 surpreendentemente confort\u00e1vel.","op":"replace"},{"path":"/shortdescription","value":"Toucan Helm","op":"replace"}]

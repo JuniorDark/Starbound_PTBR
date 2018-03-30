@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral havaiano, feito de dois pedaços de coco.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hawaiian Chest",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral havaiano, feito de dois peda\u00e7os de coco.","op":"replace"},{"path":"/shortdescription","value":"Hawaiian Chest","op":"replace"}]

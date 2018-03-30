@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Avian Anatomy Mask",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "É educativo! Uma máscara da anatomia muscular Avian.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Avian Anatomy Mask","op":"replace"},{"path":"/description","value":"\u00c9 educativo! Uma m\u00e1scara da anatomia muscular Avian.","op":"replace"}]

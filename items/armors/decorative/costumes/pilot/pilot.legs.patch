@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pilot's Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Estas calças farão o usuário querer gritar, 'Top Ho Squiffy!'",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Pilot's Trousers","op":"replace"},{"path":"/description","value":"Estas cal\u00e7as far\u00e3o o usu\u00e1rio querer gritar, 'Top Ho Squiffy!'","op":"replace"}]

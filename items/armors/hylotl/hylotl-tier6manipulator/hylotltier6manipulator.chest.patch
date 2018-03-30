@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral construído para suportar a alta pressão das profundezas do oceano, entre outras coisas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Aphotic Chestguard",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral constru\u00eddo para suportar a alta press\u00e3o das profundezas do oceano, entre outras coisas.","op":"replace"},{"path":"/shortdescription","value":"Aphotic Chestguard","op":"replace"}]

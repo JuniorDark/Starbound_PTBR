@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um braço de mecha equipado com uma metralhadora pesada.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Gatling Gun Mech Arm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um bra\u00e7o de mecha equipado com uma metralhadora pesada.","op":"replace"},{"path":"/shortdescription","value":"Gatling Gun Mech Arm","op":"replace"}]

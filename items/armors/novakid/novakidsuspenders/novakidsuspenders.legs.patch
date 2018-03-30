@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um par de calças com botões para suspensórios.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Suspender Pants",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um par de cal\u00e7as com bot\u00f5es para suspens\u00f3rios.","op":"replace"},{"path":"/shortdescription","value":"Suspender Pants","op":"replace"}]

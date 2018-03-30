@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Proteção feita para o futuro herói Glitch -\r\n melhor arranhar seu peitoral do que a sua lataria.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Soldier's Breastplate",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Prote\u00e7\u00e3o feita para o futuro her\u00f3i Glitch -\r\n melhor arranhar seu peitoral do que a sua lataria.","op":"replace"},{"path":"/shortdescription","value":"Soldier's Breastplate","op":"replace"}]

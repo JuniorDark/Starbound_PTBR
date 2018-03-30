@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"Alguns acreditam que Wispers são espíritos perdidos. À noite, seu brilho pode fazer exploradores se perderem.\"",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Wisper Figurine",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"A etiqueta diz, \"Alguns acreditam que Wispers s\u00e3o esp\u00edritos perdidos. \u00c0 noite, seu brilho pode fazer exploradores se perderem.\"","op":"replace"},{"path":"/shortdescription","value":"Wisper Figurine","op":"replace"}]

@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Floran não é carnívoro como os outros Floransss! Floran esta fazendo fazenda em vez disso.",
-    "path": "/scriptConfig/dialog/converse/default/default/2"
-  },
-  {
-    "op": "replace",
-    "value": "Floran essta fazendo fazenda! Floran esta aqui apenas para pegar algumass sssementes.",
-    "path": "/scriptConfig/dialog/converse/default/default/1"
-  },
-  {
-    "op": "replace",
-    "value": "Floran esta aqui apenas para comprar sssementes para a fazenda de Floran.",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/2","value":"Floran n\u00e3o \u00e9 carn\u00edvoro como os outros Floransss! Floran esta fazendo fazenda em vez disso.","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/1","value":"Floran essta fazendo fazenda! Floran esta aqui apenas para pegar algumass sssementes.","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Floran esta aqui apenas para comprar sssementes para a fazenda de Floran.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Soggy Paper",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Por que eu iria pegar esse lixo inútil?",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Soggy Paper","op":"replace"},{"path":"/description","value":"Por que eu iria pegar esse lixo in\u00fatil?","op":"replace"}]

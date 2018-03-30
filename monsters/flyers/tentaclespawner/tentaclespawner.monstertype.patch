@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "-todo-",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "tentaclespawner",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"-todo-","op":"replace"},{"path":"/shortdescription","value":"tentaclespawner","op":"replace"}]

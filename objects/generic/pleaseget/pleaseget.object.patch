@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "...",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Please Get Sign",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"...","op":"replace"},{"path":"/shortdescription","value":"Please Get Sign","op":"replace"}]

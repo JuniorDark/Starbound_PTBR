@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Essas calças pisará em milhares de mundos alienígenas em seu tempo de vida.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Universalist's Trousers",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Essas cal\u00e7as pisar\u00e1 em milhares de mundos alien\u00edgenas em seu tempo de vida.","op":"replace"},{"path":"/shortdescription","value":"Universalist's Trousers","op":"replace"}]

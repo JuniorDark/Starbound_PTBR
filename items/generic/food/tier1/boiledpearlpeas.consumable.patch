@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma tigela de ervilhas-perola cozidas, bastante sem graça.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Boiled Pearlpeas",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma tigela de ervilhas-perola cozidas, bastante sem gra\u00e7a.","op":"replace"},{"path":"/shortdescription","value":"Boiled Pearlpeas","op":"replace"}]

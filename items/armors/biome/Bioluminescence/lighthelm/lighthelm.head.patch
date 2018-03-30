@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Fluorescent Helmet",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Faz você parecer uma lâmpada ambulante. Mas ei, função sobre moda!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Fluorescent Helmet","op":"replace"},{"path":"/description","value":"Faz voc\u00ea parecer uma l\u00e2mpada ambulante. Mas ei, fun\u00e7\u00e3o sobre moda!","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um pedaço de pão de cenoura. Vamos ser honestos, é apenas bolo em forma de pão.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Carrot Bread",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peda\u00e7o de p\u00e3o de cenoura. Vamos ser honestos, \u00e9 apenas bolo em forma de p\u00e3o.","op":"replace"},{"path":"/shortdescription","value":"Carrot Bread","op":"replace"}]

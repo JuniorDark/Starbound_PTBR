@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Banana Split",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O ingrediente secreto nesta receita favorita dos Apex é abacaxi!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Banana Split","op":"replace"},{"path":"/description","value":"O ingrediente secreto nesta receita favorita dos Apex \u00e9 abacaxi!","op":"replace"}]

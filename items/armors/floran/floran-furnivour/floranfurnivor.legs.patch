@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Furnivour Legs",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Parece ser decorado com peles de animais de uma caçada.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Furnivour Legs","op":"replace"},{"path":"/description","value":"Parece ser decorado com peles de animais de uma ca\u00e7ada.","op":"replace"}]

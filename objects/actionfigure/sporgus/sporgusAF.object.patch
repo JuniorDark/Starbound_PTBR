@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Sporgus Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"Ele prefere climas quentes e úmidos, onde ele ira crescer mais rápido.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Sporgus Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"Ele prefere climas quentes e \u00famidos, onde ele ira crescer mais r\u00e1pido.\"","op":"replace"}]

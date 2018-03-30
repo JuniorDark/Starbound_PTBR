@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma arma biológica criada por cientistas humanos irresponsáveis",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Parasprite",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma arma biol\u00f3gica criada por cientistas humanos irrespons\u00e1veis","op":"replace"},{"path":"/shortdescription","value":"Parasprite","op":"replace"}]

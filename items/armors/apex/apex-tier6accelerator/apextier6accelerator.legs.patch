@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um conjunto de armadura de perna com grevas reforçada com solarium que pouco pode penetrar.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Infiltrator's Greaves",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um conjunto de armadura de perna com grevas refor\u00e7ada com solarium que pouco pode penetrar.","op":"replace"},{"path":"/shortdescription","value":"Infiltrator's Greaves","op":"replace"}]

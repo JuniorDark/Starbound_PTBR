@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Scuttleploom",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "As pernas desse inseto se movem tão rápido que são difíceis de contar.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Scuttleploom","op":"replace"},{"path":"/description","value":"As pernas desse inseto se movem t\u00e3o r\u00e1pido que s\u00e3o dif\u00edceis de contar.","op":"replace"}]

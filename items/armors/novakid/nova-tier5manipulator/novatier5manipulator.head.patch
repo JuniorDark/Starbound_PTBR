@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bonesaw's Hat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Um chapéu intimidante, seus olhos queimam com malícia.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Bonesaw's Hat","op":"replace"},{"path":"/description","value":"Um chap\u00e9u intimidante, seus olhos queimam com mal\u00edcia.","op":"replace"}]

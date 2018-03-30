@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um componente crucial de reparação de veículos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Auto Chip",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um componente crucial de repara\u00e7\u00e3o de ve\u00edculos.","op":"replace"},{"path":"/shortdescription","value":"Auto Chip","op":"replace"}]

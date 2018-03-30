@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Blueback",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este inseto azul tem dentes afiados.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Blueback","op":"replace"},{"path":"/description","value":"Este inseto azul tem dentes afiados.","op":"replace"}]

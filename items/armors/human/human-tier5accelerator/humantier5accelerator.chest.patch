@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Escolhida por sua força no campo de batalha. Essa jaqueta salvou muitas vidas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Vanguard's Flak Jacket",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Escolhida por sua for\u00e7a no campo de batalha. Essa jaqueta salvou muitas vidas.","op":"replace"},{"path":"/shortdescription","value":"Vanguard's Flak Jacket","op":"replace"}]

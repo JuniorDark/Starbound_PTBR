@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um braço de mecha pesado que lança um trio de mísseis guiados remotamente.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Guided Missile Mech Arm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um bra\u00e7o de mecha pesado que lan\u00e7a um trio de m\u00edsseis guiados remotamente.","op":"replace"},{"path":"/shortdescription","value":"Guided Missile Mech Arm","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma camiseta de algodão simples. Vestuário apropriado para todas as ocasiões e cenários.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Plain T-Shirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma camiseta de algod\u00e3o simples. Vestu\u00e1rio apropriado para todas as ocasi\u00f5es e cen\u00e1rios.","op":"replace"},{"path":"/shortdescription","value":"Plain T-Shirt","op":"replace"}]

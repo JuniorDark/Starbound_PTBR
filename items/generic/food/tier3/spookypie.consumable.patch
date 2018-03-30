@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Apenas assustadora o suficiente.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Spooky Pie",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Apenas assustadora o suficiente.","op":"replace"},{"path":"/shortdescription","value":"Spooky Pie","op":"replace"}]

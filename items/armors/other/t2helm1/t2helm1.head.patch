@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Handy Space Helmet",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Você nunca será condenado com este capacete espacial útil.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Handy Space Helmet","op":"replace"},{"path":"/description","value":"Voc\u00ea nunca ser\u00e1 condenado com este capacete espacial \u00fatil.","op":"replace"}]

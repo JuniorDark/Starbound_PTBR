@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma saia em camadas inteligente. Que elegante!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Smart Skirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma saia em camadas inteligente. Que elegante!","op":"replace"},{"path":"/shortdescription","value":"Smart Skirt","op":"replace"}]

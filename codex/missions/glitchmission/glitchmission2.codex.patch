@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um compêndio das façanhas de aventureiros famosos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "O Barão (Glitch): vivo, mas aposentado.\n\nAs façanhas do Barão abrangem várias décadas e centenas de mundos. Ele lutou contra bandos de Ignome nos campos de Magma de Apoc e saqueou o tesouro das ruínas de uma vez grandes civilizações. Ele navegou os mares selvagens de Cyanine, e explorou as profundezas mais obscuras da remota floresta Ereb; em todos esses esforços sempre prosseguido pelo seu arqui-inimigo Count 01, um antigo e poderoso RAMpiro. Verdadeiramente, O Barão é um dos maiores aventureiros da história.",
-    "path": "/contentPages/0"
-  },
-  {
-    "op": "replace",
-    "value": "O Grande Livro dos Aventureiros",
-    "path": "/title"
-  }
-]
+[{"path":"/description","value":"Um comp\u00eandio das fa\u00e7anhas de aventureiros famosos.","op":"replace"},{"path":"/contentPages/0","value":"O Bar\u00e3o (Glitch): vivo, mas aposentado.\n\nAs fa\u00e7anhas do Bar\u00e3o abrangem v\u00e1rias d\u00e9cadas e centenas de mundos. Ele lutou contra bandos de Ignome nos campos de Magma de Apoc e saqueou o tesouro das ru\u00ednas de uma vez grandes civiliza\u00e7\u00f5es. Ele navegou os mares selvagens de Cyanine, e explorou as profundezas mais obscuras da remota floresta Ereb; em todos esses esfor\u00e7os sempre prosseguido pelo seu arqui-inimigo Count 01, um antigo e poderoso RAMpiro. Verdadeiramente, O Bar\u00e3o \u00e9 um dos maiores aventureiros da hist\u00f3ria.","op":"replace"},{"path":"/title","value":"O Grande Livro dos Aventureiros","op":"replace"}]

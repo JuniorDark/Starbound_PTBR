@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Seu corpo cria uma reação química constante que impulsiona ele para frente.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Sulphish",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Seu corpo cria uma rea\u00e7\u00e3o qu\u00edmica constante que impulsiona ele para frente.","op":"replace"},{"path":"/shortdescription","value":"Sulphish","op":"replace"}]

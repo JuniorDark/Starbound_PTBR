@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pilot's Jacket",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "As axilas estão um pouco desgastadas, este casaco deve ter sido abanado muito.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Pilot's Jacket","op":"replace"},{"path":"/description","value":"As axilas est\u00e3o um pouco desgastadas, este casaco deve ter sido abanado muito.","op":"replace"}]

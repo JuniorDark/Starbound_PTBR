@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pelt Legs",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta tanga está ligada com vinhas resistentes.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Pelt Legs","op":"replace"},{"path":"/description","value":"Esta tanga est\u00e1 ligada com vinhas resistentes.","op":"replace"}]

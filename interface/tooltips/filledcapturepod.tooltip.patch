@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "0",
-    "path": "/priceLabel/value"
-  },
-  {
-    "op": "replace",
-    "value": "SEM COLEIRA",
-    "path": "/noCollarLabel/value"
-  }
-]
+[{"path":"/priceLabel/value","value":"0","op":"replace"},{"path":"/noCollarLabel/value","value":"SEM COLEIRA","op":"replace"}]

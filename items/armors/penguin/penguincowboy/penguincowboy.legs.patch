@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um chapéu de cowboy para Pinguins. Yee-haw.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Penguin Cowboy Hat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um chap\u00e9u de cowboy para Pinguins. Yee-haw.","op":"replace"},{"path":"/shortdescription","value":"Penguin Cowboy Hat","op":"replace"}]

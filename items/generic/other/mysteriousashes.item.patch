@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Mysterious Ashes",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Isto é tudo o que resta do conteúdo misterioso do saco de lixo.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Mysterious Ashes","op":"replace"},{"path":"/description","value":"Isto \u00e9 tudo o que resta do conte\u00fado misterioso do saco de lixo.","op":"replace"}]

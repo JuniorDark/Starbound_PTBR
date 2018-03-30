@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "0",
-    "path": "/priceLabel/value"
-  },
-  {
-    "op": "replace",
-    "value": "Velocidade de Voo",
-    "path": "/speedStatLabel/value"
-  },
-  {
-    "op": "replace",
-    "value": "Manobrabilidade",
-    "path": "/controlStatLabel/value"
-  }
-]
+[{"path":"/priceLabel/value","value":"0","op":"replace"},{"path":"/speedStatLabel/value","value":"Velocidade de Voo","op":"replace"},{"path":"/controlStatLabel/value","value":"Manobrabilidade","op":"replace"}]

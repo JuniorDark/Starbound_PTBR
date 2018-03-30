@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Metade de uma roda antiga feita para traduzir runas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Left Translation Wheel",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Metade de uma roda antiga feita para traduzir runas.","op":"replace"},{"path":"/shortdescription","value":"Left Translation Wheel","op":"replace"}]

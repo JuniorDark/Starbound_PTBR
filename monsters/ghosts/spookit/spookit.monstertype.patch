@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Quando ele fecha os olhos torna-se imune a ataques ao entrar em um plano diferente de existência.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Spookit",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Quando ele fecha os olhos torna-se imune a ataques ao entrar em um plano diferente de exist\u00eancia.","op":"replace"},{"path":"/shortdescription","value":"Spookit","op":"replace"}]

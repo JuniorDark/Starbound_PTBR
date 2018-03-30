@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um conjunto de propulsores de mecha pontiagudos de alta qualidade. Tenha cuidado com esses cantos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Zero Mech Boosters",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um conjunto de propulsores de mecha pontiagudos de alta qualidade. Tenha cuidado com esses cantos.","op":"replace"},{"path":"/shortdescription","value":"Zero Mech Boosters","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bananas e purê de cenouras em uma tigela faz um lanche favorito dos Apex.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Lucky Dip",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Bananas e pur\u00ea de cenouras em uma tigela faz um lanche favorito dos Apex.","op":"replace"},{"path":"/shortdescription","value":"Lucky Dip","op":"replace"}]

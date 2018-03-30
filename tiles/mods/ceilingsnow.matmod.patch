@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Neve tão fria que está presa ao teto.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Neve t\u00e3o fria que est\u00e1 presa ao teto.","op":"replace"}]

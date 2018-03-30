@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma espada curta que pertencia a um cultista.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "NPC Cultist Shortsword",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma espada curta que pertencia a um cultista.","op":"replace"},{"path":"/shortdescription","value":"NPC Cultist Shortsword","op":"replace"}]

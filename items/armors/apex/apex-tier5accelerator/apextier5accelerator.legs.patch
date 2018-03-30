@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Rogue's Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Calças e botas que são leves e flexíveis - traje ideal para se esconder.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Rogue's Trousers","op":"replace"},{"path":"/description","value":"Cal\u00e7as e botas que s\u00e3o leves e flex\u00edveis - traje ideal para se esconder.","op":"replace"}]

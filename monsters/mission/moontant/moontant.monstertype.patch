@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Perturbadoramente, esta criatura de Erchius poderia ter sido uma pessoa uma vez...",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Moontant",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Perturbadoramente, esta criatura de Erchius poderia ter sido uma pessoa uma vez...","op":"replace"},{"path":"/shortdescription","value":"Moontant","op":"replace"}]

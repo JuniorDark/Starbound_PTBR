@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "É uma prisilite star! Uma das coisas mais resistentes na galáxia!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Prisilite Star",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\u00c9 uma prisilite star! Uma das coisas mais resistentes na gal\u00e1xia!","op":"replace"},{"path":"/shortdescription","value":"Prisilite Star","op":"replace"}]

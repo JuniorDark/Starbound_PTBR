@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um boné de beisebol esportivo para um verdadeiro fã.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Sporty Cap",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um bon\u00e9 de beisebol esportivo para um verdadeiro f\u00e3.","op":"replace"},{"path":"/shortdescription","value":"Sporty Cap","op":"replace"}]

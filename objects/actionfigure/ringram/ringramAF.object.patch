@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ringram Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"Os chifres do Ringram começam a crescer desde o nascimento e nunca param.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Ringram Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"Os chifres do Ringram come\u00e7am a crescer desde o nascimento e nunca param.\"","op":"replace"}]

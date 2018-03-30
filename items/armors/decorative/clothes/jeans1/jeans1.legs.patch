@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Calças jeans extremamente justas, para o viajante espacial consciente da moda.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Skinny Jeans",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Cal\u00e7as jeans extremamente justas, para o viajante espacial consciente da moda.","op":"replace"},{"path":"/shortdescription","value":"Skinny Jeans","op":"replace"}]

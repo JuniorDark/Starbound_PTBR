@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ferramenta",
-    "path": "/toolLabel/value"
-  }
-]
+[{"path":"/toolLabel/value","value":"Ferramenta","op":"replace"}]

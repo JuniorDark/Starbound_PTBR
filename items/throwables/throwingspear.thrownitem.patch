@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma lança de arremesso que corta carne de monstros.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Iron Hunting Spear",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma lan\u00e7a de arremesso que corta carne de monstros.","op":"replace"},{"path":"/shortdescription","value":"Iron Hunting Spear","op":"replace"}]

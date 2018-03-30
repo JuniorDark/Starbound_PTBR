@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Aurorabee",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A superfície da casca desse inseto brilha como óleo.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Aurorabee","op":"replace"},{"path":"/description","value":"A superf\u00edcie da casca desse inseto brilha como \u00f3leo.","op":"replace"}]

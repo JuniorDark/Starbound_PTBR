@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Shawl of Elation",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Estudos mostraram que é impossível ser infeliz enquanto vestindo esta capa.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Shawl of Elation","op":"replace"},{"path":"/description","value":"Estudos mostraram que \u00e9 imposs\u00edvel ser infeliz enquanto vestindo esta capa.","op":"replace"}]

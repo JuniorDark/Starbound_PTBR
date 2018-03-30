@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Caiu do céu em um dia ventoso.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Shark Hat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Caiu do c\u00e9u em um dia ventoso.","op":"replace"},{"path":"/shortdescription","value":"Shark Hat","op":"replace"}]

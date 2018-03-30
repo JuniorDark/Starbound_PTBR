@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Oi, sou Lili! Eu quero capturar cada monstro único através das estrelas. Especialmente os mais gordinhos.",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Oi, sou Lili! Eu quero capturar cada monstro \u00fanico atrav\u00e9s das estrelas. Especialmente os mais gordinhos.","op":"replace"}]

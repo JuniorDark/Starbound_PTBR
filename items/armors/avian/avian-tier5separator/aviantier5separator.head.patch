@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um elmo de batalha reluzente feito de violium puro e brilhante.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Phoenix Helm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um elmo de batalha reluzente feito de violium puro e brilhante.","op":"replace"},{"path":"/shortdescription","value":"Phoenix Helm","op":"replace"}]

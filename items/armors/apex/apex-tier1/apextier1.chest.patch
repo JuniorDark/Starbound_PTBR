@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma couraça militar de baixo grau que protege os órgãos mais vitais.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Defector's Chestguard",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma coura\u00e7a militar de baixo grau que protege os \u00f3rg\u00e3os mais vitais.","op":"replace"},{"path":"/shortdescription","value":"Defector's Chestguard","op":"replace"}]

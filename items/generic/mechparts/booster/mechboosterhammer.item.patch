@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um conjunto de propulsores grandes, que trocam velocidade por maior controle.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hammer Mech Boosters",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um conjunto de propulsores grandes, que trocam velocidade por maior controle.","op":"replace"},{"path":"/shortdescription","value":"Hammer Mech Boosters","op":"replace"}]

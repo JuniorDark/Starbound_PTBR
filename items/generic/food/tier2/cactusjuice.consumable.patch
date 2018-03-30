@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cactus Juice",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Frio como um cacto.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Cactus Juice","op":"replace"},{"path":"/description","value":"Frio como um cacto.","op":"replace"}]

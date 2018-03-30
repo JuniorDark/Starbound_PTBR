@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma lata gelada de limonada, um pouco além do meu alcance...",
-    "path": "/scriptConfig/dialog/converse/default/default/1"
-  },
-  {
-    "op": "replace",
-    "value": "A máquina de venda engoliu meus pixels. Poderia este dia ficar pior?",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/1","value":"Uma lata gelada de limonada, um pouco al\u00e9m do meu alcance...","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/0","value":"A m\u00e1quina de venda engoliu meus pixels. Poderia este dia ficar pior?","op":"replace"}]

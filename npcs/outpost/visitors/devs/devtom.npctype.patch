@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ei, sou Tom! Você já viu alguém chamado Lenna por ai?",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Ei, sou Tom! Voc\u00ea j\u00e1 viu algu\u00e9m chamado Lenna por ai?","op":"replace"}]

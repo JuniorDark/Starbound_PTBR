@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Rex",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este cão é ferozmente leal ao seu dono. Ele ama afagos e esfregadas na barriga!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Rex","op":"replace"},{"path":"/description","value":"Este c\u00e3o \u00e9 ferozmente leal ao seu dono. Ele ama afagos e esfregadas na barriga!","op":"replace"}]

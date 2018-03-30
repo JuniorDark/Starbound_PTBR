@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Coloca um bonde controlado pelo usuário que funciona com rail tram stops.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Rail Tram",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Coloca um bonde controlado pelo usu\u00e1rio que funciona com rail tram stops.","op":"replace"},{"path":"/shortdescription","value":"Rail Tram","op":"replace"}]

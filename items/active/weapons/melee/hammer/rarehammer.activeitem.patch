@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Lento, pesado e eficaz.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Rare Hammer",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Lento, pesado e eficaz.","op":"replace"},{"path":"/shortdescription","value":"Rare Hammer","op":"replace"}]

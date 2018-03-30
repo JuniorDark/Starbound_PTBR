@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Crescent Hoopfish",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O aro através de seu corpo cria uma corrente que impulsiona ele através da água.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Crescent Hoopfish","op":"replace"},{"path":"/description","value":"O aro atrav\u00e9s de seu corpo cria uma corrente que impulsiona ele atrav\u00e9s da \u00e1gua.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bonesmith's Skullhat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Feito a partir de um crânio de tungstênio chapeado - prático e elegante.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Bonesmith's Skullhat","op":"replace"},{"path":"/description","value":"Feito a partir de um cr\u00e2nio de tungst\u00eanio chapeado - pr\u00e1tico e elegante.","op":"replace"}]

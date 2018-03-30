@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Stargazer Priest Wings",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Asas como estas são concedidas aos Stargazers que pregam a palavra de Kluex.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Stargazer Priest Wings","op":"replace"},{"path":"/description","value":"Asas como estas s\u00e3o concedidas aos Stargazers que pregam a palavra de Kluex.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Isto veio de uma nova era.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Unicorn Head",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Isto veio de uma nova era.","op":"replace"},{"path":"/shortdescription","value":"Unicorn Head","op":"replace"}]

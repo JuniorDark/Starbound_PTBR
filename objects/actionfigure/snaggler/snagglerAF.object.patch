@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Snaggler Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"Sua concha é impossível de penetrar o que pode torná-lo um inimigo complicado.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Snaggler Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"Sua concha \u00e9 imposs\u00edvel de penetrar o que pode torn\u00e1-lo um inimigo complicado.\"","op":"replace"}]

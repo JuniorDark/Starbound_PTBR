@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma vara de durasteel para pescar em ambientes extremos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Durable Fishing Rod",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma vara de durasteel para pescar em ambientes extremos.","op":"replace"},{"path":"/shortdescription","value":"Durable Fishing Rod","op":"replace"}]

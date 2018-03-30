@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "TORPEDO PLASMÁTICO",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"TORPEDO PLASM\u00c1TICO","op":"replace"}]

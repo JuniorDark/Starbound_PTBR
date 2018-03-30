@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bottled Healing Water",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O poder restaurador desta água é incrível.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Bottled Healing Water","op":"replace"},{"path":"/description","value":"O poder restaurador desta \u00e1gua \u00e9 incr\u00edvel.","op":"replace"}]

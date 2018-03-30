@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Leaf Chest",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta camisa está coberta de grandes folhas ásperas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Leaf Chest","op":"replace"},{"path":"/description","value":"Esta camisa est\u00e1 coberta de grandes folhas \u00e1speras.","op":"replace"}]

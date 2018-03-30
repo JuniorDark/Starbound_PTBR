@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Sentinel's Breastplate",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Um peitoral de solarium, marcado com osso.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Sentinel's Breastplate","op":"replace"},{"path":"/description","value":"Um peitoral de solarium, marcado com osso.","op":"replace"}]

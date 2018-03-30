@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Crusader's Breastplate",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Forjado de aegisalt puro. Construído para agilidade, para ser usado com coragem.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Crusader's Breastplate","op":"replace"},{"path":"/description","value":"Forjado de aegisalt puro. Constru\u00eddo para agilidade, para ser usado com coragem.","op":"replace"}]

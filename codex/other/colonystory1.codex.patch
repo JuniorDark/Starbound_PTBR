@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Como Me Tornei Um Senhorio 1",
-    "path": "/title"
-  },
-  {
-    "op": "replace",
-    "value": "O verão passado foi um dos mais chuvosos que eu tinha visto na região de floresta de Rana Esker VI. Eu só fui lá pelo café (tenho que ter aqueles feijões fresco da floresta), e depois de muito rastejar na chuva pesada eu estava pronto para voltar para a cama. Eu podia ver uma pequena cabana em ruínas no topo da colina, então eu comecei a caminhar penosamente até lá. Não foi tão ruim quando cheguei, havia até mesmo um saco de dormir e os restos de uma velha fogueira, obviamente, um local popular para aventureiros exaustos e encharcados como eu.",
-    "path": "/contentPages/0"
-  },
-  {
-    "op": "replace",
-    "value": "O diário de um explorador que se tornou um senhorio.",
-    "path": "/description"
-  }
-]
+[{"path":"/title","value":"Como Me Tornei Um Senhorio 1","op":"replace"},{"path":"/contentPages/0","value":"O ver\u00e3o passado foi um dos mais chuvosos que eu tinha visto na regi\u00e3o de floresta de Rana Esker VI. Eu s\u00f3 fui l\u00e1 pelo caf\u00e9 (tenho que ter aqueles feij\u00f5es fresco da floresta), e depois de muito rastejar na chuva pesada eu estava pronto para voltar para a cama. Eu podia ver uma pequena cabana em ru\u00ednas no topo da colina, ent\u00e3o eu comecei a caminhar penosamente at\u00e9 l\u00e1. N\u00e3o foi t\u00e3o ruim quando cheguei, havia at\u00e9 mesmo um saco de dormir e os restos de uma velha fogueira, obviamente, um local popular para aventureiros exaustos e encharcados como eu.","op":"replace"},{"path":"/description","value":"O di\u00e1rio de um explorador que se tornou um senhorio.","op":"replace"}]

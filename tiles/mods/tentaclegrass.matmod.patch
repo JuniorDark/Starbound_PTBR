@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Tentáculos pulsantes",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Tent\u00e1culos pulsantes","op":"replace"}]

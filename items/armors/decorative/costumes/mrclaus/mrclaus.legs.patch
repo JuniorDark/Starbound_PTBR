@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Holiday Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Calças e botas tradicionais, perfeito para caminhadas pela neve.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Holiday Trousers","op":"replace"},{"path":"/description","value":"Cal\u00e7as e botas tradicionais, perfeito para caminhadas pela neve.","op":"replace"}]

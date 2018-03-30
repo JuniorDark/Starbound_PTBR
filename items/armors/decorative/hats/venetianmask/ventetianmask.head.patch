@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma máscara e um chapéu Venetian. Que horas são? CARNAVAL!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Venetian Mask",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma m\u00e1scara e um chap\u00e9u Venetian. Que horas s\u00e3o? CARNAVAL!","op":"replace"},{"path":"/shortdescription","value":"Venetian Mask","op":"replace"}]

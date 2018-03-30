@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Trailblazer's Greaves",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Com joelheiras de ferozium, para todas as suas necessidades de ajoelhamento.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Trailblazer's Greaves","op":"replace"},{"path":"/description","value":"Com joelheiras de ferozium, para todas as suas necessidades de ajoelhamento.","op":"replace"}]

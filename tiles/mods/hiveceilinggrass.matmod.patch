@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Grama de teto grossa.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Grama de teto grossa.","op":"replace"}]

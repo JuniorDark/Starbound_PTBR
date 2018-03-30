@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma medida de leite de coco. O sabor é incrível.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Coconut Milk",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma medida de leite de coco. O sabor \u00e9 incr\u00edvel.","op":"replace"},{"path":"/shortdescription","value":"Coconut Milk","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Feito a partir de materiais recolhidos em uma caçada, ele fornece pouca proteção, mas te deixa orgulhoso de usar.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Survivalist Chest",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Feito a partir de materiais recolhidos em uma ca\u00e7ada, ele fornece pouca prote\u00e7\u00e3o, mas te deixa orgulhoso de usar.","op":"replace"},{"path":"/shortdescription","value":"Survivalist Chest","op":"replace"}]

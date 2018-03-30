@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ela foi construída para se assemelhar a uma galinha, ainda precisa de alguns ajustes.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Robotic Chicken",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Ela foi constru\u00edda para se assemelhar a uma galinha, ainda precisa de alguns ajustes.","op":"replace"},{"path":"/shortdescription","value":"Robotic Chicken","op":"replace"}]

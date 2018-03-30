@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um acessório elegante para qualquer roupa.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Neo Disc",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um acess\u00f3rio elegante para qualquer roupa.","op":"replace"},{"path":"/shortdescription","value":"Neo Disc","op":"replace"}]

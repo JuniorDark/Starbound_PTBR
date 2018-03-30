@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Voltar a Nave",
-    "path": "/destinations/0/name"
-  },
-  {
-    "op": "replace",
-    "value": "Deixar este mundo para trás",
-    "path": "/destinations/0/planetName"
-  }
-]
+[{"path":"/destinations/0/name","value":"Voltar a Nave","op":"replace"},{"path":"/destinations/0/planetName","value":"Deixar este mundo para tr\u00e1s","op":"replace"}]

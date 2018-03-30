@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Terrifying Eye Hat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O seu olhar penetrante deve colocar medo até mesmo no coração mais valente.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Terrifying Eye Hat","op":"replace"},{"path":"/description","value":"O seu olhar penetrante deve colocar medo at\u00e9 mesmo no cora\u00e7\u00e3o mais valente.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Mostre e equipe facilmente conjuntos de armadura!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Mannequin",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Mostre e equipe facilmente conjuntos de armadura!","op":"replace"},{"path":"/shortdescription","value":"Mannequin","op":"replace"}]

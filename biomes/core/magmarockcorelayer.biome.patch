@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Camada Núcleo de Rochas Magmáticas",
-    "path": "/friendlyName"
-  }
-]
+[{"path":"/friendlyName","value":"Camada N\u00facleo de Rochas Magm\u00e1ticas","op":"replace"}]

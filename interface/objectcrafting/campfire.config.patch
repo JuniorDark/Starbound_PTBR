@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cozinhar",
-    "path": "/gui/toggleCrafting/caption"
-  },
-  {
-    "op": "replace",
-    "value": "^#b9b5b2;Coloque um ou mais ingredientes no espaço esquerdo.",
-    "path": "/gui/lblText/value"
-  }
-]
+[{"path":"/gui/toggleCrafting/caption","value":"Cozinhar","op":"replace"},{"path":"/gui/lblText/value","value":"^#b9b5b2;Coloque um ou mais ingredientes no espa\u00e7o esquerdo.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma refrescante lata de refrigerante.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Soda",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma refrescante lata de refrigerante.","op":"replace"},{"path":"/shortdescription","value":"Soda","op":"replace"}]

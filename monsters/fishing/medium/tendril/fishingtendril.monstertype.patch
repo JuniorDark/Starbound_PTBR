@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Red Hand",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta criatura estranha não é uma entidade única, mas sim um grupo de organismos simbióticos separados.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Red Hand","op":"replace"},{"path":"/description","value":"Esta criatura estranha n\u00e3o \u00e9 uma entidade \u00fanica, mas sim um grupo de organismos simbi\u00f3ticos separados.","op":"replace"}]

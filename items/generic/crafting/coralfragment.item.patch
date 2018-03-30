@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ember Coral Fragment",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Isso irradia um calor agradável.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Ember Coral Fragment","op":"replace"},{"path":"/description","value":"Isso irradia um calor agrad\u00e1vel.","op":"replace"}]

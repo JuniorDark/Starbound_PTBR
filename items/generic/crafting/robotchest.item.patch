@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peito de robô, forte como aço.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Robot Chest",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peito de rob\u00f4, forte como a\u00e7o.","op":"replace"},{"path":"/shortdescription","value":"Robot Chest","op":"replace"}]

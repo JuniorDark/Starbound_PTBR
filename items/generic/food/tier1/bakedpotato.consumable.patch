@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Baked Potato",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Crocante por fora, quente como lava derretida por dentro.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Baked Potato","op":"replace"},{"path":"/description","value":"Crocante por fora, quente como lava derretida por dentro.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Copper Ore",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Minério de cobre. Pode ser derretido e transformado em barras.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Copper Ore","op":"replace"},{"path":"/description","value":"Min\u00e9rio de cobre. Pode ser derretido e transformado em barras.","op":"replace"}]

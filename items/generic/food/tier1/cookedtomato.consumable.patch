@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cooked Tomato",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Macio, doce e suculento.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Cooked Tomato","op":"replace"},{"path":"/description","value":"Macio, doce e suculento.","op":"replace"}]

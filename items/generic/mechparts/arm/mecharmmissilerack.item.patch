@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Dispara um enxame de mini misseis guiados.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Missile Rack Mech Arm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Dispara um enxame de mini misseis guiados.","op":"replace"},{"path":"/shortdescription","value":"Missile Rack Mech Arm","op":"replace"}]

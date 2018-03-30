@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bonus de Energia",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"Bonus de Energia","op":"replace"}]

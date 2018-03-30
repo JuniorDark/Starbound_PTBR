@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um quiche de queijo cheio de cogumelos frescos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Mushroom Quiche",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um quiche de queijo cheio de cogumelos frescos.","op":"replace"},{"path":"/shortdescription","value":"Mushroom Quiche","op":"replace"}]

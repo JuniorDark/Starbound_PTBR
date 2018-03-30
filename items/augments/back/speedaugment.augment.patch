@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um módulo de EPP que aumenta sua velocidade de movimento.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Speed Augment",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um m\u00f3dulo de EPP que aumenta sua velocidade de movimento.","op":"replace"},{"path":"/shortdescription","value":"Speed Augment","op":"replace"}]

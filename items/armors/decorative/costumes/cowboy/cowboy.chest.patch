@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cowboy Jacket",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta jaqueta esta um pouco suja.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Cowboy Jacket","op":"replace"},{"path":"/description","value":"Esta jaqueta esta um pouco suja.","op":"replace"}]

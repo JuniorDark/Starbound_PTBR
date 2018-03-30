@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Outrider's Helm",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O capacete de durasteel do batedor é construído para ser usado nos ambientes mais inóspitos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Outrider's Helm","op":"replace"},{"path":"/description","value":"O capacete de durasteel do batedor \u00e9 constru\u00eddo para ser usado nos ambientes mais in\u00f3spitos.","op":"replace"}]

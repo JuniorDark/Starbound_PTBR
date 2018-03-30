@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Resistência Elétrica",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"Resist\u00eancia El\u00e9trica","op":"replace"}]

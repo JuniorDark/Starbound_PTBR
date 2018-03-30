@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "^shadow;Envenenado",
-    "path": "/definition/text"
-  }
-]
+[{"path":"/definition/text","value":"^shadow;Envenenado","op":"replace"}]

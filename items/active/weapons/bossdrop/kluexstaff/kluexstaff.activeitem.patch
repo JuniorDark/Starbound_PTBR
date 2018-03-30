@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Kluex Staff",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Kluex Staff ^yellow;^reset;",
-    "path": "/upgradeParameters/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este poderoso cajado fortalece o guerreiro que o empunha.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Kluex Staff","op":"replace"},{"path":"/upgradeParameters/shortdescription","value":"Kluex Staff ^yellow;\ue024^reset;","op":"replace"},{"path":"/description","value":"Este poderoso cajado fortalece o guerreiro que o empunha.","op":"replace"}]

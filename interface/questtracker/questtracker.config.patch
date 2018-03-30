@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Colete 8 Peles de Lobo Sarnento",
-    "path": "/paneLayout/lblQuestObjectiveList/value"
-  }
-]
+[{"path":"/paneLayout/lblQuestObjectiveList/value","value":"Colete 8 Peles de Lobo Sarnento","op":"replace"}]

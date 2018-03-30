@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Gambler's Hat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Não importa o quão alto são as apostas, você não vai perder sua cabeça com esse chapéu de apostador.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Gambler's Hat","op":"replace"},{"path":"/description","value":"N\u00e3o importa o qu\u00e3o alto s\u00e3o as apostas, voc\u00ea n\u00e3o vai perder sua cabe\u00e7a com esse chap\u00e9u de apostador.","op":"replace"}]

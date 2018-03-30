@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Durasteel Revolver",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Um revólver grande que da um coice e tanto.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Durasteel Revolver","op":"replace"},{"path":"/description","value":"Um rev\u00f3lver grande que da um coice e tanto.","op":"replace"}]

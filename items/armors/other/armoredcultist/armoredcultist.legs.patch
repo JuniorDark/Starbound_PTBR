@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma armadura de cultista blindada.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Armoured Cultist Greaves",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma armadura de cultista blindada.","op":"replace"},{"path":"/shortdescription","value":"Armoured Cultist Greaves","op":"replace"}]

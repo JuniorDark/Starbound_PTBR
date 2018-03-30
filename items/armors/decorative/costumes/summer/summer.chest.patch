@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Summer Top",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O verão está chegando! Prepare-se para ele com este top elegante.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Summer Top","op":"replace"},{"path":"/description","value":"O ver\u00e3o est\u00e1 chegando! Prepare-se para ele com este top elegante.","op":"replace"}]

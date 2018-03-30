@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral durável, perfeito para explorar.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Explorer's Chestpiece",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral dur\u00e1vel, perfeito para explorar.","op":"replace"},{"path":"/shortdescription","value":"Explorer's Chestpiece","op":"replace"}]

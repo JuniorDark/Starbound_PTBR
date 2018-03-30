@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "...",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Invisible Timer (1 Sec)",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"...","op":"replace"},{"path":"/shortdescription","value":"Invisible Timer (1 Sec)","op":"replace"}]

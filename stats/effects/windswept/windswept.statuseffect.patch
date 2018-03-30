@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Exposto ao Vento",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"Exposto ao Vento","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um elmo sinistro que encobre o rosto em mistério.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Dark Knight's Helm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um elmo sinistro que encobre o rosto em mist\u00e9rio.","op":"replace"},{"path":"/shortdescription","value":"Dark Knight's Helm","op":"replace"}]

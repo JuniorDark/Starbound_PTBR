@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Blighteel",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Ele não tem olhos, por isso prefere caçar à noite, quando a presa não pode vê-lo chegando.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Blighteel","op":"replace"},{"path":"/description","value":"Ele n\u00e3o tem olhos, por isso prefere ca\u00e7ar \u00e0 noite, quando a presa n\u00e3o pode v\u00ea-lo chegando.","op":"replace"}]

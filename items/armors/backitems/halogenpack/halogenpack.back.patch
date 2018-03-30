@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma mochila com uma luz halogênica anexada. É muito brilhante!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Halogen Pack",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma mochila com uma luz halog\u00eanica anexada. \u00c9 muito brilhante!","op":"replace"},{"path":"/shortdescription","value":"Halogen Pack","op":"replace"}]

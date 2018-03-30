@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Forrado com isolamento para que você não ter os pés frios.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Snow Infantry Trousers",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Forrado com isolamento para que voc\u00ea n\u00e3o ter os p\u00e9s frios.","op":"replace"},{"path":"/shortdescription","value":"Snow Infantry Trousers","op":"replace"}]

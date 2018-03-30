@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um animal de estimação, um amigo, um chapéu.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Sensory Squid Hat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um animal de estima\u00e7\u00e3o, um amigo, um chap\u00e9u.","op":"replace"},{"path":"/shortdescription","value":"Sensory Squid Hat","op":"replace"}]

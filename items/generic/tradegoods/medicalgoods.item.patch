@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma caixa selada de suprimentos médicos, valiosa para o comércio interestelar.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Medical Supplies",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma caixa selada de suprimentos m\u00e9dicos, valiosa para o com\u00e9rcio interestelar.","op":"replace"},{"path":"/shortdescription","value":"Medical Supplies","op":"replace"}]

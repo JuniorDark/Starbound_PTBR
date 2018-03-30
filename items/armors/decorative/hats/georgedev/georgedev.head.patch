@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "George's Foxy Glasses",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Uns óculos sensuais que pertencem ao George. Você pode lidar com eles!?",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"George's Foxy Glasses","op":"replace"},{"path":"/description","value":"Uns \u00f3culos sensuais que pertencem ao George. Voc\u00ea pode lidar com eles!?","op":"replace"}]

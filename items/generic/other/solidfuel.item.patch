@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Crystal Erchius Fuel",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Uma substância cristalina instável, extraída de luas e utilizada como combustível para o FTL.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Crystal Erchius Fuel","op":"replace"},{"path":"/description","value":"Uma subst\u00e2ncia cristalina inst\u00e1vel, extra\u00edda de luas e utilizada como combust\u00edvel para o FTL.","op":"replace"}]

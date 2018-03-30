@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Perfect Helm",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Perfeição pura. Da ate vergonha colocar na minha cabeça.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Perfect Helm","op":"replace"},{"path":"/description","value":"Perfei\u00e7\u00e3o pura. Da ate vergonha colocar na minha cabe\u00e7a.","op":"replace"}]

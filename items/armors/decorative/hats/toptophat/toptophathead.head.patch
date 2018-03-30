@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Mais cavalheiresco, não acha?",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Top Top Hat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Mais cavalheiresco, n\u00e3o acha?","op":"replace"},{"path":"/shortdescription","value":"Top Top Hat","op":"replace"}]

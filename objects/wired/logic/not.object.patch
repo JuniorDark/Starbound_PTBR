@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "<Um interruptor /'NOT'/. Inverte a entrada no circuito.>",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "NOT Switch",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"<Um interruptor /'NOT'/. Inverte a entrada no circuito.>","op":"replace"},{"path":"/shortdescription","value":"NOT Switch","op":"replace"}]

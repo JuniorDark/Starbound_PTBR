@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Diamond Pickaxe",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta ferramenta não vai durar muito, mas eu vou ser capaz de cavar muito rápido com ela.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Diamond Pickaxe","op":"replace"},{"path":"/description","value":"Esta ferramenta n\u00e3o vai durar muito, mas eu vou ser capaz de cavar muito r\u00e1pido com ela.","op":"replace"}]

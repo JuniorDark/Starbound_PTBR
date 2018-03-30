@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral de inseto, com um par de braços extras anexados.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Larva Chest",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral de inseto, com um par de bra\u00e7os extras anexados.","op":"replace"},{"path":"/shortdescription","value":"Larva Chest","op":"replace"}]

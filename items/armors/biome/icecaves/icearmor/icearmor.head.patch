@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma máscara moldada feita de gelo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Ice Armor Mask",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma m\u00e1scara moldada feita de gelo.","op":"replace"},{"path":"/shortdescription","value":"Ice Armor Mask","op":"replace"}]

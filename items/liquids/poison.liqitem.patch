@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma medida de veneno forte.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Poison",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma medida de veneno forte.","op":"replace"},{"path":"/shortdescription","value":"Poison","op":"replace"}]

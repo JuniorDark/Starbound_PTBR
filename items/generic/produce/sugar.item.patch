@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma porção de açúcar.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Sugar",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma por\u00e7\u00e3o de a\u00e7\u00facar.","op":"replace"},{"path":"/shortdescription","value":"Sugar","op":"replace"}]

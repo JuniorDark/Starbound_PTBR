@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Beakseed Tart",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Criado sem necessidade na temporada de grão-de-bico para fazer uso de todo a geléia.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Beakseed Tart","op":"replace"},{"path":"/description","value":"Criado sem necessidade na temporada de gr\u00e3o-de-bico para fazer uso de todo a gel\u00e9ia.","op":"replace"}]

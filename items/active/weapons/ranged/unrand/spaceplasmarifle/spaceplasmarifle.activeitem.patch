@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um rifle de ataque de última geração endurecido para uso em ambientes extremos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Plasma Assault Rifle",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Sticky Plasma Mines",
-    "path": "/altAbility/name"
-  }
-]
+[{"path":"/description","value":"Um rifle de ataque de \u00faltima gera\u00e7\u00e3o endurecido para uso em ambientes extremos.","op":"replace"},{"path":"/shortdescription","value":"Plasma Assault Rifle","op":"replace"},{"path":"/altAbility/name","value":"Minas de Plasma Grundentas","op":"replace"}]

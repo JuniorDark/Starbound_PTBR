@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Tungstênio é encontrado principalmente em planetas que orbitam estrelas suaves.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tungsten Bar",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Tungst\u00eanio \u00e9 encontrado principalmente em planetas que orbitam estrelas suaves.","op":"replace"},{"path":"/shortdescription","value":"Tungsten Bar","op":"replace"}]

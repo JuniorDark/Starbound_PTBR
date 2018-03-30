@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Lantern Stick",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Fornece luz enquanto deixa suas mãos livres. Um acessório essencial para aventuras!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Lantern Stick","op":"replace"},{"path":"/description","value":"Fornece luz enquanto deixa suas m\u00e3os livres. Um acess\u00f3rio essencial para aventuras!","op":"replace"}]

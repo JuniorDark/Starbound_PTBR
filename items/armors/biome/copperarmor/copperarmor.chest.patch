@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral simples feito de cobre.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Copper Chestpiece",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral simples feito de cobre.","op":"replace"},{"path":"/shortdescription","value":"Copper Chestpiece","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Knave's Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A maior parte do ferro desta calça está na fivela do cinto.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Knave's Trousers","op":"replace"},{"path":"/description","value":"A maior parte do ferro desta cal\u00e7a est\u00e1 na fivela do cinto.","op":"replace"}]

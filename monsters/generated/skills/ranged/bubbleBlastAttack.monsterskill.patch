@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "BOLHA EXPLOSIVA",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"BOLHA EXPLOSIVA","op":"replace"}]

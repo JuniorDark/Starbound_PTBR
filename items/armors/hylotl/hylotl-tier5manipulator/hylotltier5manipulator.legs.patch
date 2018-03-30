@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Reef Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Estas calças de ferozium de forma ajustada atado são práticos e elegantes.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Reef Trousers","op":"replace"},{"path":"/description","value":"Estas cal\u00e7as de ferozium de forma ajustada atado s\u00e3o pr\u00e1ticos e elegantes.","op":"replace"}]

@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Oceano Tropical",
-    "path": "/friendlyName"
-  }
-]
+[{"path":"/friendlyName","value":"Oceano Tropical","op":"replace"}]

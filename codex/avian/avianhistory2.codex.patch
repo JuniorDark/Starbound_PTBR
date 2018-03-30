@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Avoscript: Verso 23:4:27",
-    "path": "/title"
-  },
-  {
-    "op": "replace",
-    "value": "No fundo do coração dos Avian, uma única faísca de ganância se acendeu. A chama cresceu até que queimar a si mesmos, e foi assim que as Avian foram para o reino mortal, para que eles possam caminhar entre seres de carne e sangue.\n\nMas mediante eles dando as costas para os céus, todos os Avian estavam sempre vetados de suas asas etéreas, e devem andar nas trevas até que possam alcançar o verdadeiro perdão na luz de Kluex.",
-    "path": "/contentPages/0"
-  },
-  {
-    "op": "replace",
-    "value": "Um trecho do livro sagrado Avian.",
-    "path": "/description"
-  }
-]
+[{"path":"/title","value":"Avoscript: Verso 23:4:27","op":"replace"},{"path":"/contentPages/0","value":"No fundo do cora\u00e7\u00e3o dos Avian, uma \u00fanica fa\u00edsca de gan\u00e2ncia se acendeu. A chama cresceu at\u00e9 que queimar a si mesmos, e foi assim que as Avian foram para o reino mortal, para que eles possam caminhar entre seres de carne e sangue.\n\nMas mediante eles dando as costas para os c\u00e9us, todos os Avian estavam sempre vetados de suas asas et\u00e9reas, e devem andar nas trevas at\u00e9 que possam alcan\u00e7ar o verdadeiro perd\u00e3o na luz de Kluex.","op":"replace"},{"path":"/description","value":"Um trecho do livro sagrado Avian.","op":"replace"}]

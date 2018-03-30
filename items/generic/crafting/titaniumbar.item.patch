@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Titânio é encontrado principalmente em planetas que orbitam estrelas temperadas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Titanium Bar",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Tit\u00e2nio \u00e9 encontrado principalmente em planetas que orbitam estrelas temperadas.","op":"replace"},{"path":"/shortdescription","value":"Titanium Bar","op":"replace"}]

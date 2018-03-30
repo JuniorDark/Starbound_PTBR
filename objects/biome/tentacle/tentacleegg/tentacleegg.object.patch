@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Alguém quer ovos de monstro mexidos?",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tentacle Monster Egg",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Algu\u00e9m quer ovos de monstro mexidos?","op":"replace"},{"path":"/shortdescription","value":"Tentacle Monster Egg","op":"replace"}]

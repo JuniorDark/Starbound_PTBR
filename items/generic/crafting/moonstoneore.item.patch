@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Moonstone Ore",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Minério de moonstone. Encontrado apenas em luas e muitas vezes usado para a construção do motor FTL.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Moonstone Ore","op":"replace"},{"path":"/description","value":"Min\u00e9rio de moonstone. Encontrado apenas em luas e muitas vezes usado para a constru\u00e7\u00e3o do motor FTL.","op":"replace"}]

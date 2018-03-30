@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Lâmina Giratória",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"L\u00e2mina Girat\u00f3ria","op":"replace"}]

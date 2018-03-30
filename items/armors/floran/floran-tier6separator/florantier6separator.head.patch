@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Synthesizer's Helm",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A presa do universo estremece à vista deste elmo estranho.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Synthesizer's Helm","op":"replace"},{"path":"/description","value":"A presa do universo estremece \u00e0 vista deste elmo estranho.","op":"replace"}]

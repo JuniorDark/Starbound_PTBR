@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Miasmop Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"Exposição prolongada aos seus vapores pungentes vai te nocautear.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Miasmop Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"Exposi\u00e7\u00e3o prolongada aos seus vapores pungentes vai te nocautear.\"","op":"replace"}]

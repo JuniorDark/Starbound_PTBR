@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um módulo de EPP que aumenta sua velocidade de movimento e poder de pulo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Mobility Augment",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um m\u00f3dulo de EPP que aumenta sua velocidade de movimento e poder de pulo.","op":"replace"},{"path":"/shortdescription","value":"Mobility Augment","op":"replace"}]

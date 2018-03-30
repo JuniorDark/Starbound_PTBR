@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Andar de cima para pensar, andar de baixo para dançar; ate mesmo Florans sábios tem que se soltar.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Wiseman's Loincloth",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Andar de cima para pensar, andar de baixo para dan\u00e7ar; ate mesmo Florans s\u00e1bios tem que se soltar.","op":"replace"},{"path":"/shortdescription","value":"Wiseman's Loincloth","op":"replace"}]

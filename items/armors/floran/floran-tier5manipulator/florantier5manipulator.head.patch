@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cannibal's Mask",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Amaldiçoado com um rosto amigável e atraente? Proteja-se com essa máscara assustadora.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Cannibal's Mask","op":"replace"},{"path":"/description","value":"Amaldi\u00e7oado com um rosto amig\u00e1vel e atraente? Proteja-se com essa m\u00e1scara assustadora.","op":"replace"}]

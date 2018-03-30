@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Captain's Cap",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Quem é o capitão? Deve ser quem está vestindo isso!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Captain's Cap","op":"replace"},{"path":"/description","value":"Quem \u00e9 o capit\u00e3o? Deve ser quem est\u00e1 vestindo isso!","op":"replace"}]

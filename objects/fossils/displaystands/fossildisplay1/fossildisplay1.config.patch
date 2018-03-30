@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Insira Fóssil",
-    "path": "/gui/dragDrop/value"
-  }
-]
+[{"path":"/gui/dragDrop/value","value":"Insira F\u00f3ssil","op":"replace"}]

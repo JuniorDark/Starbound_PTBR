@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Owl Skirt",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta saia forrada de durasteel é confortável em todos os lugares certos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Owl Skirt","op":"replace"},{"path":"/description","value":"Esta saia forrada de durasteel \u00e9 confort\u00e1vel em todos os lugares certos.","op":"replace"}]

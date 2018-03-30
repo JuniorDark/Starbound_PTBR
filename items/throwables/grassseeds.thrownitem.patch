@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Grass Seeds",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Jogue elas em terra arada úmida para crescer grama.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Grass Seeds","op":"replace"},{"path":"/description","value":"Jogue elas em terra arada \u00famida para crescer grama.","op":"replace"}]

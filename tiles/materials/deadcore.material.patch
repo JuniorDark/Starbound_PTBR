@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Dead Core Block",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O núcleo superdenso de um planeta morto. Quase inquebrável.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Dead Core Block","op":"replace"},{"path":"/description","value":"O n\u00facleo superdenso de um planeta morto. Quase inquebr\u00e1vel.","op":"replace"}]

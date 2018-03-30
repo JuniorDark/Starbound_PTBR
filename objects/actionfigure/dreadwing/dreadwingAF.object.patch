@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Dreadwing Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"O infame Pinguim pirata Dreadwing, em seu inconfundível OVNI.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Dreadwing Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"O infame Pinguim pirata Dreadwing, em seu inconfund\u00edvel OVNI.\"","op":"replace"}]

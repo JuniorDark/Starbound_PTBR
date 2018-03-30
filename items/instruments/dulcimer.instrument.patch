@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um dulcimer. Toque uma melodia.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hammered Dulcimer",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um dulcimer. Toque uma melodia.","op":"replace"},{"path":"/shortdescription","value":"Hammered Dulcimer","op":"replace"}]

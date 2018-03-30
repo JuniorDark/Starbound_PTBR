@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Oi! sou Tom. Eu estou trabalhando em catalogar o Universo inteiro! Sou absolutamente o Starbounder.",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Oi! sou Tom. Eu estou trabalhando em catalogar o Universo inteiro! Sou absolutamente o Starbounder.","op":"replace"}]

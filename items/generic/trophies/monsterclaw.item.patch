@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma garra impressionantemente grande. Aposto que alguém iria pagar um bom dinheiro por isso.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Monster Claw",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma garra impressionantemente grande. Aposto que algu\u00e9m iria pagar um bom dinheiro por isso.","op":"replace"},{"path":"/shortdescription","value":"Monster Claw","op":"replace"}]

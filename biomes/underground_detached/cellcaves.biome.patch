@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Caverna Célular",
-    "path": "/friendlyName"
-  }
-]
+[{"path":"/friendlyName","value":"Caverna C\u00e9lular","op":"replace"}]

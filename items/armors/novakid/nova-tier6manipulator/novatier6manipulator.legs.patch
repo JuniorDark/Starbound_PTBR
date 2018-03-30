@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Clockwork Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Calças de relógio  - assim você sempre marcha no tempo.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Clockwork Trousers","op":"replace"},{"path":"/description","value":"Cal\u00e7as de rel\u00f3gio  - assim voc\u00ea sempre marcha no tempo.","op":"replace"}]

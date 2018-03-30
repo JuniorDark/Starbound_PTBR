@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um lendário capacete Dwarven, o Hrodgard. É feito de pedra.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "The Hrodgard",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um lend\u00e1rio capacete Dwarven, o Hrodgard. \u00c9 feito de pedra.","op":"replace"},{"path":"/shortdescription","value":"The Hrodgard","op":"replace"}]

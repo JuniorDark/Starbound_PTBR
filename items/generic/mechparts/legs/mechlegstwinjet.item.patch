@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pernas de mecha que têm um jato propulsor extra para desempenho equilibrado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Twinjet Mech Legs",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Pernas de mecha que t\u00eam um jato propulsor extra para desempenho equilibrado.","op":"replace"},{"path":"/shortdescription","value":"Twinjet Mech Legs","op":"replace"}]

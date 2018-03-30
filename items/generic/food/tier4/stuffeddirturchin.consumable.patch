@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um dirturchin recheado com pearlpeas. O sabor é meio sem graça...",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Stuffed Dirturchin",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um dirturchin recheado com pearlpeas. O sabor \u00e9 meio sem gra\u00e7a...","op":"replace"},{"path":"/shortdescription","value":"Stuffed Dirturchin","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma geléia picante feita de neonmelons.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Neonmelon Jam",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma gel\u00e9ia picante feita de neonmelons.","op":"replace"},{"path":"/shortdescription","value":"Neonmelon Jam","op":"replace"}]

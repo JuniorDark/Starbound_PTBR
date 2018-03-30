@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Flowery Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Calças que você pode crescer dentro.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Flowery Trousers","op":"replace"},{"path":"/description","value":"Cal\u00e7as que voc\u00ea pode crescer dentro.","op":"replace"}]

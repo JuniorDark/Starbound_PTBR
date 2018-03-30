@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Slime Blob",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Uma gota de slime verde.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Slime Blob","op":"replace"},{"path":"/description","value":"Uma gota de slime verde.","op":"replace"}]

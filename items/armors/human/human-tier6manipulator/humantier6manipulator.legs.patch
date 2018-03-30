@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma maravilhosa combinação de botas/calças que protegem as pernas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Wanderer's Trousers",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma maravilhosa combina\u00e7\u00e3o de botas/cal\u00e7as que protegem as pernas.","op":"replace"},{"path":"/shortdescription","value":"Wanderer's Trousers","op":"replace"}]

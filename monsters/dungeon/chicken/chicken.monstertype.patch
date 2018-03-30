@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Chicken",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Nativa da Terra, está ave gentil frequentemente põe ovos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Chicken","op":"replace"},{"path":"/description","value":"Nativa da Terra, est\u00e1 ave gentil frequentemente p\u00f5e ovos.","op":"replace"}]

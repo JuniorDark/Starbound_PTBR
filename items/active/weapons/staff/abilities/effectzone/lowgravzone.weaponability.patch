@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Zona de Baixa Gravidade",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Zona de Baixa Gravidade","op":"replace"}]

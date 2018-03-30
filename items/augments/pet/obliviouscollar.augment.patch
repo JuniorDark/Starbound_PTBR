@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma coleira que deixa seu pet pacifico.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Oblivious Collar",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma coleira que deixa seu pet pacifico.","op":"replace"},{"path":"/shortdescription","value":"Oblivious Collar","op":"replace"}]

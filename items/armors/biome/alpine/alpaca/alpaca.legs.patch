@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Alien Alpaca Legs",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Parece com uma Alpaca, até inclui um par extra de pernas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Alien Alpaca Legs","op":"replace"},{"path":"/description","value":"Parece com uma Alpaca, at\u00e9 inclui um par extra de pernas.","op":"replace"}]

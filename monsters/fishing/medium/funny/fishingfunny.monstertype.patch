@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Funnyfish",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Acha que é mais engraçado do que ele realmente é.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Funnyfish","op":"replace"},{"path":"/description","value":"Acha que \u00e9 mais engra\u00e7ado do que ele realmente \u00e9.","op":"replace"}]

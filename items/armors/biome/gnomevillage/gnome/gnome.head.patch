@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Gnome Hat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Ele só senta lá o dia todo. Que cara preguiçoso.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Gnome Hat","op":"replace"},{"path":"/description","value":"Ele s\u00f3 senta l\u00e1 o dia todo. Que cara pregui\u00e7oso.","op":"replace"}]

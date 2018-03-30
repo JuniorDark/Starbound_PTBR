@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Grama densa.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Grama densa.","op":"replace"}]

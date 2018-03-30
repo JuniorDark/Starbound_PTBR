@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Rastro de Combustível",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Rastro de Combust\u00edvel","op":"replace"}]

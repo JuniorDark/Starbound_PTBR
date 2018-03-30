@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Frogg Merchant Legs",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Usar isso fará com que você se assemelhe a um Frogg comerciante.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Frogg Merchant Legs","op":"replace"},{"path":"/description","value":"Usar isso far\u00e1 com que voc\u00ea se assemelhe a um Frogg comerciante.","op":"replace"}]

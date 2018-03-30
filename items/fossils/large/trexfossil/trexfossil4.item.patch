@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um fragmento de cauda de T-Rex fossilizado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "T-Rex Upper Tail",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um fragmento de cauda de T-Rex fossilizado.","op":"replace"},{"path":"/shortdescription","value":"T-Rex Upper Tail","op":"replace"}]

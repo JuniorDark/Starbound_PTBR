@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma coroa para o Glitch no poder.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Glitch Crown",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma coroa para o Glitch no poder.","op":"replace"},{"path":"/shortdescription","value":"Glitch Crown","op":"replace"}]

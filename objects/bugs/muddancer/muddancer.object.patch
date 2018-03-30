@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Muddancer",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Estes insetos podem ser vistos dançando ao anoitecer.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Muddancer","op":"replace"},{"path":"/description","value":"Estes insetos podem ser vistos dan\u00e7ando ao anoitecer.","op":"replace"}]

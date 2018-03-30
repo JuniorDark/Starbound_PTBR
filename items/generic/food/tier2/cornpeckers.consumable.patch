@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Grão-de-bico e milho seco. Uma mistura Avian comum, ou cereal de café da manhã.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Corn Peckers",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Gr\u00e3o-de-bico e milho seco. Uma mistura Avian comum, ou cereal de caf\u00e9 da manh\u00e3.","op":"replace"},{"path":"/shortdescription","value":"Corn Peckers","op":"replace"}]

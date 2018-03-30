@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pernas e quadris de T-Rex fossilizados.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "T-Rex Legs",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Pernas e quadris de T-Rex fossilizados.","op":"replace"},{"path":"/shortdescription","value":"T-Rex Legs","op":"replace"}]

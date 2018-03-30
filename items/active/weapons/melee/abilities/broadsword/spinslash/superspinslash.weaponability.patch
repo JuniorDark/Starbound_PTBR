@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Super Golpe Giratório",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Super Golpe Girat\u00f3rio","op":"replace"}]

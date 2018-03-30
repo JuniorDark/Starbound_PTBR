@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma rosquinha deliciosa preenchida com banana e creme. É quase saudável!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Banana Cream Donut",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma rosquinha deliciosa preenchida com banana e creme. \u00c9 quase saud\u00e1vel!","op":"replace"},{"path":"/shortdescription","value":"Banana Cream Donut","op":"replace"}]

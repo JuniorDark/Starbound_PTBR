@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "- Estar sempre pronto e atento\n\n- Proteger o Templo acima de si mesmo\n\n- Não se aventure nas profundezas do Templo\n\n- Seja vigilante e cauteloso com estranhos\n\n- Adore o indomável Kluex",
-    "path": "/contentPages/0"
-  },
-  {
-    "op": "replace",
-    "value": "Diretrizes do Guarda",
-    "path": "/title"
-  },
-  {
-    "op": "replace",
-    "value": "Diretrizes para o guarda do Grande Templo Sovereign.",
-    "path": "/description"
-  }
-]
+[{"path":"/contentPages/0","value":"- Estar sempre pronto e atento\n\n- Proteger o Templo acima de si mesmo\n\n- N\u00e3o se aventure nas profundezas do Templo\n\n- Seja vigilante e cauteloso com estranhos\n\n- Adore o indom\u00e1vel Kluex","op":"replace"},{"path":"/title","value":"Diretrizes do Guarda","op":"replace"},{"path":"/description","value":"Diretrizes para o guarda do Grande Templo Sovereign.","op":"replace"}]

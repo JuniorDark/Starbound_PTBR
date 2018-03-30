@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Mutant Head",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Vista isto e pareça algum tipo de mutante tóxico!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Mutant Head","op":"replace"},{"path":"/description","value":"Vista isto e pare\u00e7a algum tipo de mutante t\u00f3xico!","op":"replace"}]

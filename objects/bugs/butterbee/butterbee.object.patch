@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um inseto amarelo brilhante, suas asas cheiram a manteiga.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Butterbee",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um inseto amarelo brilhante, suas asas cheiram a manteiga.","op":"replace"},{"path":"/shortdescription","value":"Butterbee","op":"replace"}]

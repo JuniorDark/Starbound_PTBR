@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Fungus Stim",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este estimulante tem propriedades curativas naturais.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Fungus Stim","op":"replace"},{"path":"/description","value":"Este estimulante tem propriedades curativas naturais.","op":"replace"}]

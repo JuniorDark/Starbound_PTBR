@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Hunter's Hood",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O capuz do caçador é construído para ser leve, permitindo que um Floran rastreie suas presas a muitas milhas de distancia.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Hunter's Hood","op":"replace"},{"path":"/description","value":"O capuz do ca\u00e7ador \u00e9 constru\u00eddo para ser leve, permitindo que um Floran rastreie suas presas a muitas milhas de distancia.","op":"replace"}]

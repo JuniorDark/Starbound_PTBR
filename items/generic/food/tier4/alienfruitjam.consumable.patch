@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Alien Fruit Jam",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Geléia de fruta alienígena. Grudenta.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Alien Fruit Jam","op":"replace"},{"path":"/description","value":"Gel\u00e9ia de fruta alien\u00edgena. Grudenta.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Clown Mech Horn",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Fom.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Clown Mech Horn","op":"replace"},{"path":"/description","value":"Fom.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um corpo de mecha robusto, originalmente projetado pela corporação Letheia.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Venturer Mech Body",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um corpo de mecha robusto, originalmente projetado pela corpora\u00e7\u00e3o Letheia.","op":"replace"},{"path":"/shortdescription","value":"Venturer Mech Body","op":"replace"}]

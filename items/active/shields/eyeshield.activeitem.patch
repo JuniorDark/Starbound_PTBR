@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Eye Shield",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Vê cada ataque vindo.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Eye Shield","op":"replace"},{"path":"/description","value":"V\u00ea cada ataque vindo.","op":"replace"}]

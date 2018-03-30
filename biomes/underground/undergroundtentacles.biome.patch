@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "tentáculossubterrâneos",
-    "path": "/friendlyName"
-  }
-]
+[{"path":"/friendlyName","value":"tent\u00e1culossubterr\u00e2neos","op":"replace"}]

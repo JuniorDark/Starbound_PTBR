@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um quimono tradicional lustroso.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Kimono Skirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um quimono tradicional lustroso.","op":"replace"},{"path":"/shortdescription","value":"Kimono Skirt","op":"replace"}]

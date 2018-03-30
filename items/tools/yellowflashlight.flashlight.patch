@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Flashlight",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Um lanterna amarela! Não tenha medo. ",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Flashlight","op":"replace"},{"path":"/description","value":"Um lanterna amarela! N\u00e3o tenha medo. ","op":"replace"}]

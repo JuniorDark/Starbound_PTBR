@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um quadrado de seda brilhante e macia.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Silk",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um quadrado de seda brilhante e macia.","op":"replace"},{"path":"/shortdescription","value":"Silk","op":"replace"}]

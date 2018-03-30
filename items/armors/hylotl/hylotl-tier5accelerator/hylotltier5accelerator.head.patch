@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Sea Hat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta chapelaria protege a mente do guerreiro, que deve sempre ser afiada, afiada como uma lâmina.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Sea Hat","op":"replace"},{"path":"/description","value":"Esta chapelaria protege a mente do guerreiro, que deve sempre ser afiada, afiada como uma l\u00e2mina.","op":"replace"}]

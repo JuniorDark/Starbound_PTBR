@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Imperviray",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A sua pele suave é revestida com uma camada de Impervium resistente ao calor.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Imperviray","op":"replace"},{"path":"/description","value":"A sua pele suave \u00e9 revestida com uma camada de Impervium resistente ao calor.","op":"replace"}]

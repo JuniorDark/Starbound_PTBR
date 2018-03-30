@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um machado de arremesso, para cortar as coisas à distância.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Throwing Axe",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um machado de arremesso, para cortar as coisas \u00e0 dist\u00e2ncia.","op":"replace"},{"path":"/shortdescription","value":"Throwing Axe","op":"replace"}]

@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Olá eu sou Doris. Meu hoverboard caiu de um penhasco e eu vim aqui para comprar um novo.",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Ol\u00e1 eu sou Doris. Meu hoverboard caiu de um penhasco e eu vim aqui para comprar um novo.","op":"replace"}]

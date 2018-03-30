@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um donut inofensivo recheado com geléia de toxictop.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Toxic Jam Donut",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um donut inofensivo recheado com gel\u00e9ia de toxictop.","op":"replace"},{"path":"/shortdescription","value":"Toxic Jam Donut","op":"replace"}]

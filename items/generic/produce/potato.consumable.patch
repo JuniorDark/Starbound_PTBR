@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ba-ta-ta.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Potato",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Ba-ta-ta.","op":"replace"},{"path":"/shortdescription","value":"Potato","op":"replace"}]

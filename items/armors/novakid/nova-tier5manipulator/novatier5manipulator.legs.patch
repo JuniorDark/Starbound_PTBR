@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "As calças sinistras de um Bonesaw.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Bonesaw's Slacks",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"As cal\u00e7as sinistras de um Bonesaw.","op":"replace"},{"path":"/shortdescription","value":"Bonesaw's Slacks","op":"replace"}]

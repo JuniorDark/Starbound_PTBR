@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Moneybags Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Estas calças de smoking chiques deixa você sair em grande estilo.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Moneybags Trousers","op":"replace"},{"path":"/description","value":"Estas cal\u00e7as de smoking chiques deixa voc\u00ea sair em grande estilo.","op":"replace"}]

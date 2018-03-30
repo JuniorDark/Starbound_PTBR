@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma coroa bonita feita com flores. É totalmente o estilo havaiano.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hawaiian Flower Crown",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma coroa bonita feita com flores. \u00c9 totalmente o estilo havaiano.","op":"replace"},{"path":"/shortdescription","value":"Hawaiian Flower Crown","op":"replace"}]

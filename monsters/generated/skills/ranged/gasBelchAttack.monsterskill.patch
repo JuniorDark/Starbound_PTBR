@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "ARROTO DE GAS",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"ARROTO DE GAS","op":"replace"}]

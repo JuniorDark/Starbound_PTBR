@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Butterfly Wings",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Finalmente eu posso ser uma fada!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Butterfly Wings","op":"replace"},{"path":"/description","value":"Finalmente eu posso ser uma fada!","op":"replace"}]

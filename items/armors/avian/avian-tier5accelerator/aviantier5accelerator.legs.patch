@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Botas feitas de aegisalt são ditas para nunca dar um passo errado. Isto ainda não foi confirmado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Peacock Skirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Botas feitas de aegisalt s\u00e3o ditas para nunca dar um passo errado. Isto ainda n\u00e3o foi confirmado.","op":"replace"},{"path":"/shortdescription","value":"Peacock Skirt","op":"replace"}]

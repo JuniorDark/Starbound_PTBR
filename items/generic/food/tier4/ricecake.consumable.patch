@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um simples lanche feito de arroz, mantidos juntos por algas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Rice Cake",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um simples lanche feito de arroz, mantidos juntos por algas.","op":"replace"},{"path":"/shortdescription","value":"Rice Cake","op":"replace"}]

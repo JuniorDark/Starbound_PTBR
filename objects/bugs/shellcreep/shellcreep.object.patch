@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Parece que ele poderia escapar de sua casca instantaneamente.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Shellcreep",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Parece que ele poderia escapar de sua casca instantaneamente.","op":"replace"},{"path":"/shortdescription","value":"Shellcreep","op":"replace"}]

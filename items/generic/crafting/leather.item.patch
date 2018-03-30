@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um quadrado de couro.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Leather",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um quadrado de couro.","op":"replace"},{"path":"/shortdescription","value":"Leather","op":"replace"}]

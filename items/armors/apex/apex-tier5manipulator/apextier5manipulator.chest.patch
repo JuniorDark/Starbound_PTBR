@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Spy's Jacket",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "As múltiplas camadas de ferozium dobrado usado para moldar esta armadura torna seu portador quase invencível.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Spy's Jacket","op":"replace"},{"path":"/description","value":"As m\u00faltiplas camadas de ferozium dobrado usado para moldar esta armadura torna seu portador quase invenc\u00edvel.","op":"replace"}]

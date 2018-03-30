@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um capacete liso e aerodinâmico, feito dos melhores materiais.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Neo Helmet",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um capacete liso e aerodin\u00e2mico, feito dos melhores materiais.","op":"replace"},{"path":"/shortdescription","value":"Neo Helmet","op":"replace"}]

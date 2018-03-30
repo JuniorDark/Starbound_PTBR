@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Durasteel Assault Rifle",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Um rifle de nível militar totalmente automático.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Durasteel Assault Rifle","op":"replace"},{"path":"/description","value":"Um rifle de n\u00edvel militar totalmente autom\u00e1tico.","op":"replace"}]

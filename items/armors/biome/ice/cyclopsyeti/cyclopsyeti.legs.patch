@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cyclops Yeti Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Calças feitas de cabelo de yeti ciclope.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Cyclops Yeti Trousers","op":"replace"},{"path":"/description","value":"Cal\u00e7as feitas de cabelo de yeti ciclope.","op":"replace"}]

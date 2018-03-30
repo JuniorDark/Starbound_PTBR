@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Monk Shirt",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Essas vestes são tradicionalmente usadas por monges Hylotl.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Monk Shirt","op":"replace"},{"path":"/description","value":"Essas vestes s\u00e3o tradicionalmente usadas por monges Hylotl.","op":"replace"}]

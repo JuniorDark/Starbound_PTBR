@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um elmo de aparência impressionante e durabilidade imensa.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Legionnaire's Helm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um elmo de apar\u00eancia impressionante e durabilidade imensa.","op":"replace"},{"path":"/shortdescription","value":"Legionnaire's Helm","op":"replace"}]

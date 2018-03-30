@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cooked Ribs",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Passa o molho de churrasco!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Cooked Ribs","op":"replace"},{"path":"/description","value":"Passa o molho de churrasco!","op":"replace"}]

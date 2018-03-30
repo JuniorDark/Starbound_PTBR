@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Rainbow Wood Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Estas calças fazem um agradável som lenhoso ao andar.\r\n",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Rainbow Wood Trousers","op":"replace"},{"path":"/description","value":"Estas cal\u00e7as fazem um agrad\u00e1vel som lenhoso ao andar.\r\n","op":"replace"}]

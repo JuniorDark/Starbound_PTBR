@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma saia de bailarina cheia de babados.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tutu",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma saia de bailarina cheia de babados.","op":"replace"},{"path":"/shortdescription","value":"Tutu","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma banana geneticamente melhorada.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Banana",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma banana geneticamente melhorada.","op":"replace"},{"path":"/shortdescription","value":"Banana","op":"replace"}]

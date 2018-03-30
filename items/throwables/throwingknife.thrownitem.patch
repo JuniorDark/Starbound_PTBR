@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Throwing Knife",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Arremessar esta faca requer precisão cuidadosa.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Throwing Knife","op":"replace"},{"path":"/description","value":"Arremessar esta faca requer precis\u00e3o cuidadosa.","op":"replace"}]

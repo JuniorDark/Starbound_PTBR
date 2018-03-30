@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Trim trim!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Bike Bell Mech Horn",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Trim trim!","op":"replace"},{"path":"/shortdescription","value":"Bike Bell Mech Horn","op":"replace"}]

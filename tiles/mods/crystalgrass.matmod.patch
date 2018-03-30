@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pequenos cristais parecem estar cutucando através do solo.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Pequenos cristais parecem estar cutucando atrav\u00e9s do solo.","op":"replace"}]

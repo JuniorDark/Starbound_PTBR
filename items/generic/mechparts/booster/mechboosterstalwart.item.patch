@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um design clássico de propulsores de alcance médio, historicamente usado por naves de entrega.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Stalwart Mech Boosters",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um design cl\u00e1ssico de propulsores de alcance m\u00e9dio, historicamente usado por naves de entrega.","op":"replace"},{"path":"/shortdescription","value":"Stalwart Mech Boosters","op":"replace"}]

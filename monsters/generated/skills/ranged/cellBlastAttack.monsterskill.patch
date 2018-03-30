@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "CÉLULA DE CHOQUE",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"C\u00c9LULA DE CHOQUE","op":"replace"}]

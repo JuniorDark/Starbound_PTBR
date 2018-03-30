@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma jaqueta de oficial Apex edição padrão.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Officer Jacket",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma jaqueta de oficial Apex edi\u00e7\u00e3o padr\u00e3o.","op":"replace"},{"path":"/shortdescription","value":"Officer Jacket","op":"replace"}]

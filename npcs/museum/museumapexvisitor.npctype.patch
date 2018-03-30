@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Quantos anos você acha que todas essas coisas tem?",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  },
-  {
-    "op": "replace",
-    "value": "Um dia, as pessoas vão lembrar da nossa espécie por coisas a não ser o nosso regime opressivo.",
-    "path": "/scriptConfig/dialog/converse/apex/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Quantos anos voc\u00ea acha que todas essas coisas tem?","op":"replace"},{"path":"/scriptConfig/dialog/converse/apex/default/0","value":"Um dia, as pessoas v\u00e3o lembrar da nossa esp\u00e9cie por coisas a n\u00e3o ser o nosso regime opressivo.","op":"replace"}]

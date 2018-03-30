@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Projetado para cortar eficazmente.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Common Axe",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Projetado para cortar eficazmente.","op":"replace"},{"path":"/shortdescription","value":"Common Axe","op":"replace"}]

@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Revisite o Local de Teste de Armas",
-    "path": "/speciesText/default/repeatButtonText"
-  },
-  {
-    "op": "replace",
-    "value": "O cientista pinguim Dr. Akaggy requer sua ajuda para testar uma nova arma.",
-    "path": "/speciesText/default/selectSpeech/text"
-  },
-  {
-    "op": "replace",
-    "value": "Local de Teste de Armas",
-    "path": "/speciesText/default/buttonText"
-  }
-]
+[{"path":"/speciesText/default/repeatButtonText","value":"Revisite o Local de Teste de Armas","op":"replace"},{"path":"/speciesText/default/selectSpeech/text","value":"O cientista pinguim Dr. Akaggy requer sua ajuda para testar uma nova arma.","op":"replace"},{"path":"/speciesText/default/buttonText","value":"Local de Teste de Armas","op":"replace"}]

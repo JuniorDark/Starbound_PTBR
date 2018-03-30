@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Terreno Chamuscado",
-    "path": "/friendlyName"
-  }
-]
+[{"path":"/friendlyName","value":"Terreno Chamuscado","op":"replace"}]

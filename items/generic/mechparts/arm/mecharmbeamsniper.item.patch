@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um braço-arma de mecha que descarrega feixes rápidos de energia solar.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Beam Sniper Mech Arm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um bra\u00e7o-arma de mecha que descarrega feixes r\u00e1pidos de energia solar.","op":"replace"},{"path":"/shortdescription","value":"Beam Sniper Mech Arm","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma saia para perseguir presas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Gatherer's Skirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma saia para perseguir presas.","op":"replace"},{"path":"/shortdescription","value":"Gatherer's Skirt","op":"replace"}]

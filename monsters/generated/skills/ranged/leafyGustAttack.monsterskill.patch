@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "RAJADA FOLHOSA",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"RAJADA FOLHOSA","op":"replace"}]

@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um pedaço do jornal Avian grounded, O Coro da Manhã.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Avians que tem fé em Kluex sustentam uma crença religiosa peculiar que nossa espécie uma vez teve asas capazes de voar, muito parecidas com as de pássaros não conscientes. É um pensamento curioso, que provavelmente nasceu do idealismo ao invés de um fato histórico. Do ponto de vista biológico, não é impensável que nossos braços poderiam ter evoluído a partir das asas dos nossos antepassados, mas não sem a passagem de um milhão de anos ou mais. É um pensamento curioso, de fato.",
-    "path": "/contentPages/0"
-  },
-  {
-    "op": "replace",
-    "value": "Nossas Asas Perdidas",
-    "path": "/title"
-  }
-]
+[{"path":"/description","value":"Um peda\u00e7o do jornal Avian grounded, O Coro da Manh\u00e3.","op":"replace"},{"path":"/contentPages/0","value":"Avians que tem f\u00e9 em Kluex sustentam uma cren\u00e7a religiosa peculiar que nossa esp\u00e9cie uma vez teve asas capazes de voar, muito parecidas com as de p\u00e1ssaros n\u00e3o conscientes. \u00c9 um pensamento curioso, que provavelmente nasceu do idealismo ao inv\u00e9s de um fato hist\u00f3rico. Do ponto de vista biol\u00f3gico, n\u00e3o \u00e9 impens\u00e1vel que nossos bra\u00e7os poderiam ter evolu\u00eddo a partir das asas dos nossos antepassados, mas n\u00e3o sem a passagem de um milh\u00e3o de anos ou mais. \u00c9 um pensamento curioso, de fato.","op":"replace"},{"path":"/title","value":"Nossas Asas Perdidas","op":"replace"}]

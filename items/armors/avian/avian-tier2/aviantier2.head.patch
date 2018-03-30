@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um forte elmo pontudo de tungstênio de grande valor estético.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Sparrow Helm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um forte elmo pontudo de tungst\u00eanio de grande valor est\u00e9tico.","op":"replace"},{"path":"/shortdescription","value":"Sparrow Helm","op":"replace"}]

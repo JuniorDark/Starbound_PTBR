@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Chapelaria que oculta o rosto do utilizador. Os óculos tingem o mundo de escarlate.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Spy's Hood",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Chapelaria que oculta o rosto do utilizador. Os \u00f3culos tingem o mundo de escarlate.","op":"replace"},{"path":"/shortdescription","value":"Spy's Hood","op":"replace"}]

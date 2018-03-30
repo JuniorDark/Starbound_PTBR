@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Escritos de um Avian estudioso sobre tecnologia.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Os Olhos de Kluex",
-    "path": "/title"
-  },
-  {
-    "op": "replace",
-    "value": "O entendimento de máquinas não veio facilmente para a espécie Avian. Nós não nascemos de uma raça de engenheiros, mais sim de uma raça de guerreiros e sacerdotes. Este é o caminho natural das coisas mas, mudou para sempre, uma vez que os cristais Avolite foram concedidos a nós.\n\nA ponte entre o espiritismo e a ciência, os cristais têm permitido a nossa civilização florescer nesta idade moderna.",
-    "path": "/contentPages/0"
-  }
-]
+[{"path":"/description","value":"Escritos de um Avian estudioso sobre tecnologia.","op":"replace"},{"path":"/title","value":"Os Olhos de Kluex","op":"replace"},{"path":"/contentPages/0","value":"O entendimento de m\u00e1quinas n\u00e3o veio facilmente para a esp\u00e9cie Avian. N\u00f3s n\u00e3o nascemos de uma ra\u00e7a de engenheiros, mais sim de uma ra\u00e7a de guerreiros e sacerdotes. Este \u00e9 o caminho natural das coisas mas, mudou para sempre, uma vez que os cristais Avolite foram concedidos a n\u00f3s.\n\nA ponte entre o espiritismo e a ci\u00eancia, os cristais t\u00eam permitido a nossa civiliza\u00e7\u00e3o florescer nesta idade moderna.","op":"replace"}]

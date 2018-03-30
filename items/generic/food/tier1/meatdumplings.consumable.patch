@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Meat Dumplings",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Bolinhos de carne cozidos no vapor. Maravilhosamente simples!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Meat Dumplings","op":"replace"},{"path":"/description","value":"Bolinhos de carne cozidos no vapor. Maravilhosamente simples!","op":"replace"}]

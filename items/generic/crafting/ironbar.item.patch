@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Iron Bar",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Ferro é encontrado principalmente em planetas que orbitam estrelas suaves.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Iron Bar","op":"replace"},{"path":"/description","value":"Ferro \u00e9 encontrado principalmente em planetas que orbitam estrelas suaves.","op":"replace"}]

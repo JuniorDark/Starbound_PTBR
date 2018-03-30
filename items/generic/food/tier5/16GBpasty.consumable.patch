@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um pastel grande o bastante para conter todos os seus vegetais metálicos saborosos favoritos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Rusty Pasty",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um pastel grande o bastante para conter todos os seus vegetais met\u00e1licos saborosos favoritos.","op":"replace"},{"path":"/shortdescription","value":"Rusty Pasty","op":"replace"}]

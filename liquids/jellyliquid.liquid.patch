@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Lodo pegajoso e vil.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Lodo pegajoso e vil.","op":"replace"}]

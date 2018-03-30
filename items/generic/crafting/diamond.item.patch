@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Diamond",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "É um belo diamante lapidado.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Diamond","op":"replace"},{"path":"/description","value":"\u00c9 um belo diamante lapidado.","op":"replace"}]

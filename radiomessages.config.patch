@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "SAIL",
-    "path": "/messageDefaults/senderName"
-  }
-]
+[{"path":"/messageDefaults/senderName","value":"SAIL","op":"replace"}]

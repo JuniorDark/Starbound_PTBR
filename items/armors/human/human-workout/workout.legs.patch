@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Sweatpants",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Estas são perfeitas se você está trabalhando ou só comendo pizza na frente da TV. Tão versátil!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Sweatpants","op":"replace"},{"path":"/description","value":"Estas s\u00e3o perfeitas se voc\u00ea est\u00e1 trabalhando ou s\u00f3 comendo pizza na frente da TV. T\u00e3o vers\u00e1til!","op":"replace"}]

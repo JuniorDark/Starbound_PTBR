@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Sandy Terraformer",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Transforma o clima de um planeta em um deserto arenoso.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Sandy Terraformer","op":"replace"},{"path":"/description","value":"Transforma o clima de um planeta em um deserto arenoso.","op":"replace"}]

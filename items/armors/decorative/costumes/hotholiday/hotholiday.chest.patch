@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Holiday Top",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Isso não parece muito eficaz em mantê-lo aquecido.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Holiday Top","op":"replace"},{"path":"/description","value":"Isso n\u00e3o parece muito eficaz em mant\u00ea-lo aquecido.","op":"replace"}]

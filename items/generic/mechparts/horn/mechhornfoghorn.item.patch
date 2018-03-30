@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma buzina tradicionalmente usada para avisar os outros de perigos próximos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Foghorn Mech Horn",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma buzina tradicionalmente usada para avisar os outros de perigos pr\u00f3ximos.","op":"replace"},{"path":"/shortdescription","value":"Foghorn Mech Horn","op":"replace"}]

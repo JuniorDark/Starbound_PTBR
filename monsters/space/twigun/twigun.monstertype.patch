@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma torre de defesa autônoma produzida em massa. Ela tenta muito não errar.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Twigun",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma torre de defesa aut\u00f4noma produzida em massa. Ela tenta muito n\u00e3o errar.","op":"replace"},{"path":"/shortdescription","value":"Twigun","op":"replace"}]

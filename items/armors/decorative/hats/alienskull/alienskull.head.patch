@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um misterioso crânio alienígena que você pode vestir. Macabro.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Alien Skull",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um misterioso cr\u00e2nio alien\u00edgena que voc\u00ea pode vestir. Macabro.","op":"replace"},{"path":"/shortdescription","value":"Alien Skull","op":"replace"}]

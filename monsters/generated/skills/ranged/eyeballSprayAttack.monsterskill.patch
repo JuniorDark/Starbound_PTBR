@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "EXPLOSÃO ÓTICA",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"EXPLOS\u00c3O \u00d3TICA","op":"replace"}]

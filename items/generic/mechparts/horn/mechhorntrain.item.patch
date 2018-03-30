@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Coloque o seu chapéu de maestro e entre na pista para se divertir!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Train Whistle Mech Horn",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Coloque o seu chap\u00e9u de maestro e entre na pista para se divertir!","op":"replace"},{"path":"/shortdescription","value":"Train Whistle Mech Horn","op":"replace"}]

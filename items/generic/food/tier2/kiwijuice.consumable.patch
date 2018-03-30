@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um suco doce e tropical feito de kiwis.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Kiwi Juice",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um suco doce e tropical feito de kiwis.","op":"replace"},{"path":"/shortdescription","value":"Kiwi Juice","op":"replace"}]

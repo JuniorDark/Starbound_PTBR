@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Spooky Donut",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Muito assustador.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Spooky Donut","op":"replace"},{"path":"/description","value":"Muito assustador.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Holiday Hat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O chapéu festivo clássico!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Holiday Hat","op":"replace"},{"path":"/description","value":"O chap\u00e9u festivo cl\u00e1ssico!","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um braço de mecha bem feito que dispara feixes de algo parecido com energia pura.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Energy Rifle Mech Arm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um bra\u00e7o de mecha bem feito que dispara feixes de algo parecido com energia pura.","op":"replace"},{"path":"/shortdescription","value":"Energy Rifle Mech Arm","op":"replace"}]

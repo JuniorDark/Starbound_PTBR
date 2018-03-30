@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Perfeito para adicionar aquele sentimento sintético a sua atuação.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Square Wave",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Perfeito para adicionar aquele sentimento sint\u00e9tico a sua atua\u00e7\u00e3o.","op":"replace"},{"path":"/shortdescription","value":"Square Wave","op":"replace"}]

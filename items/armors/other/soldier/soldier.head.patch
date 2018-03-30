@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Soldier's Helmet",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este capacete realmente exige atenção!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Soldier's Helmet","op":"replace"},{"path":"/description","value":"Este capacete realmente exige aten\u00e7\u00e3o!","op":"replace"}]

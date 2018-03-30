@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "AURÉOLA ARDENTE",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"AUR\u00c9OLA ARDENTE","op":"replace"}]

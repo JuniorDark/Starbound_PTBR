@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Dreadwing O Pinguim",
-    "path": "/title"
-  },
-  {
-    "op": "replace",
-    "value": "Reunidos em círculos falam de Dreadwing, o flagelo do universo, perturbador de todos os viajantes espaciais. Raramente esta besta desprezível passa um dia sem algum novo esquema maléfico ocorrendo a esta besta desprezível. Ele ronda as estrelas em seu disco voador, deixando apenas um ressentimento amargo por onde passa.\n\nSeguidores juntam-se a ele, atraídos pelo respeito ou pressionados pelo medo. O som de seu nome é espalhado aos quatro ventos por seus inimigos. Ele é DREADWING, o pequeno pinguim azul.",
-    "path": "/contentPages/0"
-  },
-  {
-    "op": "replace",
-    "value": "Escritos sobre Dreadwing, pinguim flagelo dos céus.",
-    "path": "/description"
-  }
-]
+[{"path":"/title","value":"Dreadwing O Pinguim","op":"replace"},{"path":"/contentPages/0","value":"Reunidos em c\u00edrculos falam de Dreadwing, o flagelo do universo, perturbador de todos os viajantes espaciais. Raramente esta besta desprez\u00edvel passa um dia sem algum novo esquema mal\u00e9fico ocorrendo a esta besta desprez\u00edvel. Ele ronda as estrelas em seu disco voador, deixando apenas um ressentimento amargo por onde passa.\n\nSeguidores juntam-se a ele, atra\u00eddos pelo respeito ou pressionados pelo medo. O som de seu nome \u00e9 espalhado aos quatro ventos por seus inimigos. Ele \u00e9 DREADWING, o pequeno pinguim azul.","op":"replace"},{"path":"/description","value":"Escritos sobre Dreadwing, pinguim flagelo dos c\u00e9us.","op":"replace"}]

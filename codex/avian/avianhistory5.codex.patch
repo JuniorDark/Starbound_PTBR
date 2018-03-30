@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um documento escrito por Avians que rejeitaram sua cultura.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Manifesto dos Grounded",
-    "path": "/title"
-  },
-  {
-    "op": "replace",
-    "value": "Nós os Grounded,\n\nVemos através da grande mentira que eles chamam de \"Kluex '. O sonho do falso perdão é uma gaiola em que nos recusamos a permanecer por mais tempo. Nosso povo vai nos chamar de blasfemadores, mas somos livres. Nós devemos navegar os céus em naves de nossa própria fabricação, e não em sonhos de asas. Podemos agora ser exilados, mas vamos encontrar comunidades entre as estrelas que são baseados em uma fundação da verdade, não falsidades.\n\nDeixe Isso Ser Conhecido",
-    "path": "/contentPages/0"
-  }
-]
+[{"path":"/description","value":"Um documento escrito por Avians que rejeitaram sua cultura.","op":"replace"},{"path":"/title","value":"Manifesto dos Grounded","op":"replace"},{"path":"/contentPages/0","value":"N\u00f3s os Grounded,\n\nVemos atrav\u00e9s da grande mentira que eles chamam de \"Kluex '. O sonho do falso perd\u00e3o \u00e9 uma gaiola em que nos recusamos a permanecer por mais tempo. Nosso povo vai nos chamar de blasfemadores, mas somos livres. N\u00f3s devemos navegar os c\u00e9us em naves de nossa pr\u00f3pria fabrica\u00e7\u00e3o, e n\u00e3o em sonhos de asas. Podemos agora ser exilados, mas vamos encontrar comunidades entre as estrelas que s\u00e3o baseados em uma funda\u00e7\u00e3o da verdade, n\u00e3o falsidades.\n\nDeixe Isso Ser Conhecido","op":"replace"}]

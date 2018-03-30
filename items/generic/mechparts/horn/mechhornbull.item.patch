@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bull Mech Horn",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Por que simplesmente agarrar o touro pelos chifres, quando você pode SER o touro?",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Bull Mech Horn","op":"replace"},{"path":"/description","value":"Por que simplesmente agarrar o touro pelos chifres, quando voc\u00ea pode SER o touro?","op":"replace"}]

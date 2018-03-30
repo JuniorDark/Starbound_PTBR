@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ar fresco e liberdade, essa é a vida para mim!",
-    "path": "/scriptConfig/dialog/converse/default/default/2"
-  },
-  {
-    "op": "replace",
-    "value": "Entrei para um equipe de dirigível quando parei de acreditar em Kluex. Boms tempos dirigindo o vento.",
-    "path": "/scriptConfig/dialog/converse/default/default/1"
-  },
-  {
-    "op": "replace",
-    "value": "Yo-ho-ho, é a vida de Grounded pra mim!",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/2","value":"Ar fresco e liberdade, essa \u00e9 a vida para mim!","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/1","value":"Entrei para a tripula\u00e7\u00e3o de um dirig\u00edvel quando parei de acreditar em Kluex. Bons tempos dirigindo o vento.","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Yo-ho-ho, \u00e9 a vida de Grounded pra mim!","op":"replace"}]

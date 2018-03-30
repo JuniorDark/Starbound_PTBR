@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma mochila espetada que pode armazenar um monte de equipamento.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Foundry Foreman Pack",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma mochila espetada que pode armazenar um monte de equipamento.","op":"replace"},{"path":"/shortdescription","value":"Foundry Foreman Pack","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma mochila de sobrevivência vazia... inútil!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Survival Gear Backpack",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma mochila de sobreviv\u00eancia vazia... in\u00fatil!","op":"replace"},{"path":"/shortdescription","value":"Survival Gear Backpack","op":"replace"}]

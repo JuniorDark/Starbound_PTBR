@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um tronco Apex fossilizado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Apex Torso",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um tronco Apex fossilizado.","op":"replace"},{"path":"/shortdescription","value":"Apex Torso","op":"replace"}]

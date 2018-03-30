@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "A exposição humana pode ser pequena, mas traz de volta lembranças da Terra...",
-    "path": "/scriptConfig/dialog/converse/human/default/0"
-  },
-  {
-    "op": "replace",
-    "value": "A exposição humana pode ser pequena, mas traz de volta lembranças de casa...",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/human/default/0","value":"A exposi\u00e7\u00e3o humana pode ser pequena, mas traz de volta lembran\u00e7as da Terra...","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/0","value":"A exposi\u00e7\u00e3o humana pode ser pequena, mas traz de volta lembran\u00e7as de casa...","op":"replace"}]

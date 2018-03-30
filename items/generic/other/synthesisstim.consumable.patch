@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Synthesis Stim",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este estimulante esta cheio de seiva de árvore. Ela tem propriedades curativas benéficas",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Synthesis Stim","op":"replace"},{"path":"/description","value":"Este estimulante esta cheio de seiva de \u00e1rvore. Ela tem propriedades curativas ben\u00e9ficas","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Hypnare Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"Ele ama brincar através de florestas e prados.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Hypnare Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"Ele ama brincar atrav\u00e9s de florestas e prados.\"","op":"replace"}]

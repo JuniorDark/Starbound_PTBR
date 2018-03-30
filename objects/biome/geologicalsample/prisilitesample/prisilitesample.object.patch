@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "\"Uma amostra perfeita de um minério de prisilite.\"",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Prisilite Sample",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\"Uma amostra perfeita de um min\u00e9rio de prisilite.\"","op":"replace"},{"path":"/shortdescription","value":"Prisilite Sample","op":"replace"}]

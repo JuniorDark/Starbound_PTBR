@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma mochila grande o suficiente para armazenar todos os itens essenciais para explorar.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hiker Backpack",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma mochila grande o suficiente para armazenar todos os itens essenciais para explorar.","op":"replace"},{"path":"/shortdescription","value":"Hiker Backpack","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Irradiated Globfish",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Seu corpo não contém nenhuma carne - é inteiramente composto de um lodo orgânico.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Irradiated Globfish","op":"replace"},{"path":"/description","value":"Seu corpo n\u00e3o cont\u00e9m nenhuma carne - \u00e9 inteiramente composto de um lodo org\u00e2nico.","op":"replace"}]

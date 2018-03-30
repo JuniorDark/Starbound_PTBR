@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma coleira que emite luz.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Light Collar",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma coleira que emite luz.","op":"replace"},{"path":"/shortdescription","value":"Light Collar","op":"replace"}]

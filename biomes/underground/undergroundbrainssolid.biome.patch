@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "cérebrosólidosubterrâneo",
-    "path": "/friendlyName"
-  }
-]
+[{"path":"/friendlyName","value":"c\u00e9rebros\u00f3lidosubterr\u00e2neo","op":"replace"}]

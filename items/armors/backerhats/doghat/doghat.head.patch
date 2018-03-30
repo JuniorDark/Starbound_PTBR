@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Dog Hat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Para que você se pareça com um cachorro!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Dog Hat","op":"replace"},{"path":"/description","value":"Para que voc\u00ea se pare\u00e7a com um cachorro!","op":"replace"}]

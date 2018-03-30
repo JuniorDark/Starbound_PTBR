@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Larva Legs",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Pernas largas e grandes de aparência assustadora.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Larva Legs","op":"replace"},{"path":"/description","value":"Pernas largas e grandes de apar\u00eancia assustadora.","op":"replace"}]

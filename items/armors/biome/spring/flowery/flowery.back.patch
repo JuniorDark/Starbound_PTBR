@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Flowery Vines",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Se eu pudesse controlar essas vinhas como braços extras.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Flowery Vines","op":"replace"},{"path":"/description","value":"Se eu pudesse controlar essas vinhas como bra\u00e7os extras.","op":"replace"}]

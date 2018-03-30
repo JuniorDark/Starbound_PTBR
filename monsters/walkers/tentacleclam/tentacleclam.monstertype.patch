@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "-todo-Parece como um alho-porro grande e robusto. Ele sangra quando você o cortá ,embora.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "tentacleclam",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"-todo-Parece como um alho-porro grande e robusto. Ele sangra quando voc\u00ea o cort\u00e1 ,embora.","op":"replace"},{"path":"/shortdescription","value":"tentacleclam","op":"replace"}]

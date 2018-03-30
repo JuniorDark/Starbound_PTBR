@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "É prata. Pode ser derretida e transformada em barras.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Silver Ore",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\u00c9 prata. Pode ser derretida e transformada em barras.","op":"replace"},{"path":"/shortdescription","value":"Silver Ore","op":"replace"}]

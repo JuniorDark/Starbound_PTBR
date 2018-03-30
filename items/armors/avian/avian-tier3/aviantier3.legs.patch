@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Calças flexível, com tornozeleiras de titânio.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Quail Trousers",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Cal\u00e7as flex\u00edvel, com tornozeleiras de tit\u00e2nio.","op":"replace"},{"path":"/shortdescription","value":"Quail Trousers","op":"replace"}]

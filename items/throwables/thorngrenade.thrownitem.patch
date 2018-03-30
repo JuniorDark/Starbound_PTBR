@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "É assustador o que se pode conseguir com uma fruta e um pouco de pó volátil.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Thorn Grenade",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\u00c9 assustador o que se pode conseguir com uma fruta e um pouco de p\u00f3 vol\u00e1til.","op":"replace"},{"path":"/shortdescription","value":"Thorn Grenade","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral acolchoado de uniforme de soldado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Soldier's Chestpiece",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral acolchoado de uniforme de soldado.","op":"replace"},{"path":"/shortdescription","value":"Soldier's Chestpiece","op":"replace"}]

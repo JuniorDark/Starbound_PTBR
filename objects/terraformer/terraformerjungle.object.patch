@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Jungle Terraformer",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Transforma o clima de um planeta em uma selva densa.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Jungle Terraformer","op":"replace"},{"path":"/description","value":"Transforma o clima de um planeta em uma selva densa.","op":"replace"}]

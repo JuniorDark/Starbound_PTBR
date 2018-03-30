@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Radiation EPP Upgrade",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta melhoria adiciona neutralização de radiação para as capacidades do seu EPP. Útil em planetas com ^red;níveis elevados de radiação^reset;.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Radiation EPP Upgrade","op":"replace"},{"path":"/description","value":"Esta melhoria adiciona neutraliza\u00e7\u00e3o de radia\u00e7\u00e3o para as capacidades do seu EPP. \u00datil em planetas com ^red;n\u00edveis elevados de radia\u00e7\u00e3o^reset;.","op":"replace"}]

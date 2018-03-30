@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um corpo de mecha elegante de estilo Hylotl, completo com um sistema de patrulha trinocular.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Kabuto Mech Body",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um corpo de mecha elegante de estilo Hylotl, completo com um sistema de patrulha trinocular.","op":"replace"},{"path":"/shortdescription","value":"Kabuto Mech Body","op":"replace"}]

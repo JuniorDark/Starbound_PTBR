@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral de ferozium que protege o torso, mas permite que as penas respirem.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Flamingo Chainmail",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral de ferozium que protege o torso, mas permite que as penas respirem.","op":"replace"},{"path":"/shortdescription","value":"Flamingo Chainmail","op":"replace"}]

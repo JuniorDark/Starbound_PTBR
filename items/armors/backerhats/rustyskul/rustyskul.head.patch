@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Não Incluído: Uma arma, e o poder infinito da nano-augmentation.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Rusty Metal Skul",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"N\u00e3o Inclu\u00eddo: Uma arma, e o poder infinito da nano-augmentation.","op":"replace"},{"path":"/shortdescription","value":"Rusty Metal Skul","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um par de pernas de Avioscale fossilizadas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Avioscale Legs",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um par de pernas de Avioscale fossilizadas.","op":"replace"},{"path":"/shortdescription","value":"Avioscale Legs","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cateye Glasses",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Estes costumavam pertencer a uma senhora muito bonita.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Cateye Glasses","op":"replace"},{"path":"/description","value":"Estes costumavam pertencer a uma senhora muito bonita.","op":"replace"}]

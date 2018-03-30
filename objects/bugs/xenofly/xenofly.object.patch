@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Esse cara tem um rosto assustador.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Xenofly",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Esse cara tem um rosto assustador.","op":"replace"},{"path":"/shortdescription","value":"Xenofly","op":"replace"}]

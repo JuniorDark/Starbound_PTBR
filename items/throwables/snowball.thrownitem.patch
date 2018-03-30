@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma bola de neve, no tamanho perfeito para jogar.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Snowball",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma bola de neve, no tamanho perfeito para jogar.","op":"replace"},{"path":"/shortdescription","value":"Snowball","op":"replace"}]

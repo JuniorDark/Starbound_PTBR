@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um capacete de cavaleiro chique. Tem uma pluma grande e extravagante!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Plume Knight Helm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um capacete de cavaleiro chique. Tem uma pluma grande e extravagante!","op":"replace"},{"path":"/shortdescription","value":"Plume Knight Helm","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Hiker Jacket",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Faz com que o usuário se sinta como que poderia escalar qualquer montanha.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Hiker Jacket","op":"replace"},{"path":"/description","value":"Faz com que o usu\u00e1rio se sinta como que poderia escalar qualquer montanha.","op":"replace"}]

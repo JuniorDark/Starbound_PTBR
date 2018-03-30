@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Acorde. Você dormiu demais.",
-    "path": "/panels/4/text"
-  },
-  {
-    "op": "replace",
-    "value": "Acorde...",
-    "path": "/panels/3/text"
-  }
-]
+[{"path":"/panels/4/text","value":"Acorde. Voc\u00ea dormiu demais.","op":"replace"},{"path":"/panels/3/text","value":"Acorde...","op":"replace"}]

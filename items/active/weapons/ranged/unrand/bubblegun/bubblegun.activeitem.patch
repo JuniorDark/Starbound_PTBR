@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma arma de bolhas! Ela dispara bolhas! Wheeeee!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Bubble Blaster",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma arma de bolhas! Ela dispara bolhas! Wheeeee!","op":"replace"},{"path":"/shortdescription","value":"Bubble Blaster","op":"replace"}]

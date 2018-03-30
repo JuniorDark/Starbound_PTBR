@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Posto Avançado - Ruínas Arcaicas",
-    "path": "/bookmarkName"
-  },
-  {
-    "op": "replace",
-    "value": "Ir a Nave",
-    "path": "/destinations/0/name"
-  }
-]
+[{"path":"/bookmarkName","value":"Posto Avan\u00e7ado - Ru\u00ednas Arcaicas","op":"replace"},{"path":"/destinations/0/name","value":"Ir a Nave","op":"replace"}]

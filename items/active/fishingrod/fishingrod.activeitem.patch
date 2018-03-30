@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Fishing Rod",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Uma vara de pesca de madeira simples com acessórios de titânio.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Fishing Rod","op":"replace"},{"path":"/description","value":"Uma vara de pesca de madeira simples com acess\u00f3rios de tit\u00e2nio.","op":"replace"}]

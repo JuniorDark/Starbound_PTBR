@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Stone Sword",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta espada de pedra saiu de uma rocha.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Stone Sword","op":"replace"},{"path":"/description","value":"Esta espada de pedra saiu de uma rocha.","op":"replace"}]

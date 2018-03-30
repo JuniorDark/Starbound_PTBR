@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Craftsmen Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Calça durável, tradicionalmente usada pelos artesãos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Craftsmen Trousers","op":"replace"},{"path":"/description","value":"Cal\u00e7a dur\u00e1vel, tradicionalmente usada pelos artes\u00e3os.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Blue Glowstick",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Cria um brilho bioluminescente azul quando jogado!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Blue Glowstick","op":"replace"},{"path":"/description","value":"Cria um brilho bioluminescente azul quando jogado!","op":"replace"}]

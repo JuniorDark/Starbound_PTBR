@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Beakseed Bread",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Um pão pesado e denso cheio de sementes.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Beakseed Bread","op":"replace"},{"path":"/description","value":"Um p\u00e3o pesado e denso cheio de sementes.","op":"replace"}]

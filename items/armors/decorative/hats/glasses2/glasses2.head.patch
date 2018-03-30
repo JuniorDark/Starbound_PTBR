@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pareça com um verdadeiro cavalheiro.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Monocle",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Pare\u00e7a com um verdadeiro cavalheiro.","op":"replace"},{"path":"/shortdescription","value":"Monocle","op":"replace"}]

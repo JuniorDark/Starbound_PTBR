@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Gambler's Vest",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Tem um empreendimento arriscado planejado? Certifique-se de levar este colete de apostador.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Gambler's Vest","op":"replace"},{"path":"/description","value":"Tem um empreendimento arriscado planejado? Certifique-se de levar este colete de apostador.","op":"replace"}]

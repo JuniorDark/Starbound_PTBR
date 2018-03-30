@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um capacete projetado para o guerreiro de elite, a crista implica nobreza de propósito.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Disphotic Helm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um capacete projetado para o guerreiro de elite, a crista implica nobreza de prop\u00f3sito.","op":"replace"},{"path":"/shortdescription","value":"Disphotic Helm","op":"replace"}]

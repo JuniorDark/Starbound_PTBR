@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Coral Chirpfish",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Ele emite um som quando está feliz. Será que ele acha que é um pássaro?",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Coral Chirpfish","op":"replace"},{"path":"/description","value":"Ele emite um som quando est\u00e1 feliz. Ser\u00e1 que ele acha que \u00e9 um p\u00e1ssaro?","op":"replace"}]

@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Morrendo de Fome",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"Morrendo de Fome","op":"replace"}]

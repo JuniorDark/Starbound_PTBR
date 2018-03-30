@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um par de calças listradas. Não se preocupe, o ferrão é apenas enfeite.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Buzzy Trousers",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um par de cal\u00e7as listradas. N\u00e3o se preocupe, o ferr\u00e3o \u00e9 apenas enfeite.","op":"replace"},{"path":"/shortdescription","value":"Buzzy Trousers","op":"replace"}]

@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Grama grossa.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Grama grossa.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma peça de armadura feita de um material misterioso.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Mysterious Chestpiece",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma pe\u00e7a de armadura feita de um material misterioso.","op":"replace"},{"path":"/shortdescription","value":"Mysterious Chestpiece","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma medida de água gelada e limpa.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Water",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma medida de \u00e1gua gelada e limpa.","op":"replace"},{"path":"/shortdescription","value":"Water","op":"replace"}]

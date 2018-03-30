@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Calças coberta de folhas que está em harmonia com a floresta.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Nomad's Trousers",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Cal\u00e7as coberta de folhas que est\u00e1 em harmonia com a floresta.","op":"replace"},{"path":"/shortdescription","value":"Nomad's Trousers","op":"replace"}]

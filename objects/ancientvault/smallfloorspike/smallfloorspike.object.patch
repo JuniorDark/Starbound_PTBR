@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "É um espinho",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Small Floor Spike",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\u00c9 um espinho","op":"replace"},{"path":"/shortdescription","value":"Small Floor Spike","op":"replace"}]

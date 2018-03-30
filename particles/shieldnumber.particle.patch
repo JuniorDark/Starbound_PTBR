@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "^shadow;BLOQUEADO",
-    "path": "/definition/text"
-  }
-]
+[{"path":"/definition/text","value":"^shadow;BLOQUEADO","op":"replace"}]

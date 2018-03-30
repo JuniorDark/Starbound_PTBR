@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Este elmo é leve e arejado, perfeito para rastreamento.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tracker's Helm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Este elmo \u00e9 leve e arejado, perfeito para rastreamento.","op":"replace"},{"path":"/shortdescription","value":"Tracker's Helm","op":"replace"}]

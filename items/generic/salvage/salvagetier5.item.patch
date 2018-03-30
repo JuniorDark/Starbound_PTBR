@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Salvaged Proton Limiter",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este componente poderia ser útil para criar peças de mecha avançadas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Salvaged Proton Limiter","op":"replace"},{"path":"/description","value":"Este componente poderia ser \u00fatil para criar pe\u00e7as de mecha avan\u00e7adas.","op":"replace"}]

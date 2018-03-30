@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Como Me Tornei Um Senhorio 2",
-    "path": "/title"
-  },
-  {
-    "op": "replace",
-    "value": "De manhã eu fui saudado por uma vista espetacular do nascer do sol sobre as copas das árvores lá embaixo. Imaginei que este pequeno barraco poderia ser útil para outras pessoas que se encontrassem perdidas na mata como eu, então eu comecei a remover o mato alto e substituindo algumas vigas apodrecidas para preencher as lacunas nas paredes e pisos. Ele rapidamente se tornou um projeto de renovação muito maior, e eu a fiz de residência semi-permanente por um tempo. Essa pequena cabana começou a parecer como um verdadeiro lar longe de casa para mim, então eu decidi que ela merecia um inquilino.",
-    "path": "/contentPages/0"
-  },
-  {
-    "op": "replace",
-    "value": "O diário de um explorador que se tornou um senhorio.",
-    "path": "/description"
-  }
-]
+[{"path":"/title","value":"Como Me Tornei Um Senhorio 2","op":"replace"},{"path":"/contentPages/0","value":"De manh\u00e3 eu fui saudado por uma vista espetacular do nascer do sol sobre as copas das \u00e1rvores l\u00e1 embaixo. Imaginei que este pequeno barraco poderia ser \u00fatil para outras pessoas que se encontrassem perdidas na mata como eu, ent\u00e3o eu comecei a remover o mato alto e substituindo algumas vigas apodrecidas para preencher as lacunas nas paredes e pisos. Ele rapidamente se tornou um projeto de renova\u00e7\u00e3o muito maior, e eu a fiz de resid\u00eancia semi-permanente por um tempo. Essa pequena cabana come\u00e7ou a parecer como um verdadeiro lar longe de casa para mim, ent\u00e3o eu decidi que ela merecia um inquilino.","op":"replace"},{"path":"/description","value":"O di\u00e1rio de um explorador que se tornou um senhorio.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Lightbulb",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "É uma lâmpada.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Lightbulb","op":"replace"},{"path":"/description","value":"\u00c9 uma l\u00e2mpada.","op":"replace"}]

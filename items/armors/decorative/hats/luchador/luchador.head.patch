@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Luchador Mask",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Lute para a glória com esta máscara elegante de luchador.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Luchador Mask","op":"replace"},{"path":"/description","value":"Lute para a gl\u00f3ria com esta m\u00e1scara elegante de luchador.","op":"replace"}]

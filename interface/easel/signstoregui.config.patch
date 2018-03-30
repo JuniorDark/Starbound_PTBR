@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "E.A.S.E.L",
-    "path": "/gui/windowtitle/title"
-  },
-  {
-    "op": "replace",
-    "value": "^#b9b5b2;Elegantly Automatic Sign Engineering Lithographer",
-    "path": "/gui/windowtitle/subtitle"
-  }
-]
+[{"path":"/gui/windowtitle/title","value":"E.A.S.E.L","op":"replace"},{"path":"/gui/windowtitle/subtitle","value":"^#b9b5b2;Elegantly Automatic Sign Engineering Lithographer","op":"replace"}]

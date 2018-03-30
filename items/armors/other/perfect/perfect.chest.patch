@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral perfeito. Quase perfeito demais.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Perfect Breastplate",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral perfeito. Quase perfeito demais.","op":"replace"},{"path":"/shortdescription","value":"Perfect Breastplate","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Right Organs",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Órgãos da Ruína.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Right Organs","op":"replace"},{"path":"/description","value":"\u00d3rg\u00e3os da Ru\u00edna.","op":"replace"}]

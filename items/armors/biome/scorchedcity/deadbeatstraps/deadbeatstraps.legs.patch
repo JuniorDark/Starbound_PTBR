@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Deadbeat Straps Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Calças resistentes, desgastadas pela exposição aos elementos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Deadbeat Straps Trousers","op":"replace"},{"path":"/description","value":"Cal\u00e7as resistentes, desgastadas pela exposi\u00e7\u00e3o aos elementos.","op":"replace"}]

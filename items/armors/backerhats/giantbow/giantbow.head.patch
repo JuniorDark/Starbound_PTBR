@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um laço gigante! É tão bonito.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Giant Bow",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um la\u00e7o gigante! \u00c9 t\u00e3o bonito.","op":"replace"},{"path":"/shortdescription","value":"Giant Bow","op":"replace"}]

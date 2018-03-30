@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pirate Jacket",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este colete pirata não é à prova d'água. Será que esses piratas até mesmo vão para o mar?",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Pirate Jacket","op":"replace"},{"path":"/description","value":"Este colete pirata n\u00e3o \u00e9 \u00e0 prova d'\u00e1gua. Ser\u00e1 que esses piratas at\u00e9 mesmo v\u00e3o para o mar?","op":"replace"}]

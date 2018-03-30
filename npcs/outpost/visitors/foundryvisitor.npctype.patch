@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Eu trabalho nas fundições, onde o calor iria derreter o mais forte dos aços!",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  },
-  {
-    "op": "replace",
-    "value": "Eu só estou vindo aqui para pegar alguns suprimentos. Normalmente, eu estou trabalhando nas fundições.",
-    "path": "/scriptConfig/dialog/converse/default/default/1"
-  },
-  {
-    "op": "replace",
-    "value": "Eu estou apenas visitando durante meu almoço. Normalmente eu estou trabalhando duro nas fundições!",
-    "path": "/scriptConfig/dialog/converse/default/default/2"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Eu trabalho nas fundi\u00e7\u00f5es, onde o calor iria derreter o mais forte dos a\u00e7os!","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/1","value":"Eu s\u00f3 estou vindo aqui para pegar alguns suprimentos. Normalmente, eu estou trabalhando nas fundi\u00e7\u00f5es.","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/2","value":"Eu estou apenas visitando durante meu almo\u00e7o. Normalmente eu estou trabalhando duro nas fundi\u00e7\u00f5es!","op":"replace"}]

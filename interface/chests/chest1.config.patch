@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "1 ESPAÇO",
-    "path": "/gui/count/value"
-  },
-  {
-    "op": "replace",
-    "value": "Pegar tudo",
-    "path": "/gui/clear/caption"
-  }
-]
+[{"path":"/gui/count/value","value":"1 ESPA\u00c7O","op":"replace"},{"path":"/gui/clear/caption","value":"Pegar tudo","op":"replace"}]

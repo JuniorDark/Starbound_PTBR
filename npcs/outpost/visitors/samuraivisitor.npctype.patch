@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um guerreiro Hylotl sempre precisa estar bem alimentado! Estou aqui simplesmente para comprar comida.",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  },
-  {
-    "op": "replace",
-    "value": "Se eu for para proteger o meu povo, devo ser tão forte o quanto eu puder. Isto significa estar bem alimentado... Eu estou aqui apenas para um lanche.",
-    "path": "/scriptConfig/dialog/converse/default/default/2"
-  },
-  {
-    "op": "replace",
-    "value": "Este lugar não é maravilhoso? Me faz querer escrever um poema, ou cantar uma balada.",
-    "path": "/scriptConfig/dialog/converse/default/default/1"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Um guerreiro Hylotl sempre precisa estar bem alimentado! Estou aqui simplesmente para comprar comida.","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/2","value":"Se eu for para proteger o meu povo, devo ser t\u00e3o forte o quanto eu puder. Isto significa estar bem alimentado... Eu estou aqui apenas para um lanche.","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/1","value":"Este lugar n\u00e3o \u00e9 maravilhoso? Me faz querer escrever um poema, ou cantar uma balada.","op":"replace"}]

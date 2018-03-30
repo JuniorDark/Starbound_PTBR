@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Fantástico! Meu museu será o local mais educacional deste lado da galáxia. Obrigado, este item é perfeito.",
-    "path": "/completionText"
-  },
-  {
-    "op": "replace",
-    "value": "Os Glitch me fascinam. Eles são máquinas magníficas, no entanto a maioria deles parecem ser programados em uma mentalidade arcaica. Talvez se você visitasse quaisquer castelos Glitch você poderia me ^green;trazer um conjunto de ^orange;Armed Display Armour^white; para o museu?",
-    "path": "/text"
-  },
-  {
-    "op": "replace",
-    "value": "^green;Cavaleiro Silencioso",
-    "path": "/title"
-  }
-]
+[{"path":"/completionText","value":"Fant\u00e1stico! Meu museu ser\u00e1 o local mais educacional deste lado da gal\u00e1xia. Obrigado, este item \u00e9 perfeito.","op":"replace"},{"path":"/text","value":"Os Glitch me fascinam. Eles s\u00e3o m\u00e1quinas magn\u00edficas, no entanto a maioria deles parecem ser programados em uma mentalidade arcaica. Talvez se voc\u00ea visitasse quaisquer castelos Glitch voc\u00ea poderia me ^green;trazer um conjunto de ^orange;Armed Display Armour^white; para o museu?","op":"replace"},{"path":"/title","value":"^green;Cavaleiro Silencioso","op":"replace"}]

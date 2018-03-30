@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "...",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Invisible Latch",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"...","op":"replace"},{"path":"/shortdescription","value":"Invisible Latch","op":"replace"}]

@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ativos Base do Jogo",
-    "path": "/friendlyName"
-  }
-]
+[{"path":"/friendlyName","value":"Ativos Base do Jogo","op":"replace"}]

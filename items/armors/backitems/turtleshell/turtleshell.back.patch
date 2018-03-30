@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um casco de tartaruga. É bastante espaçoso dentro!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Turtle Shell",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um casco de tartaruga. \u00c9 bastante espa\u00e7oso dentro!","op":"replace"},{"path":"/shortdescription","value":"Turtle Shell","op":"replace"}]

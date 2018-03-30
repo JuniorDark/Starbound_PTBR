@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Scandroid",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O Scandroid está em uma busca interminável. Ninguém sabe para quê.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Scandroid","op":"replace"},{"path":"/description","value":"O Scandroid est\u00e1 em uma busca intermin\u00e1vel. Ningu\u00e9m sabe para qu\u00ea.","op":"replace"}]

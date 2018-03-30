@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "\"Uma amostra perfeita de um minério de ouro.\"",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Gold Sample",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\"Uma amostra perfeita de um min\u00e9rio de ouro.\"","op":"replace"},{"path":"/shortdescription","value":"Gold Sample","op":"replace"}]

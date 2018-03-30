@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Lança de Energia",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Lan\u00e7a de Energia","op":"replace"}]

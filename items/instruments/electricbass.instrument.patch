@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um baixo elétrico. Coloque um pouco de ritmo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Electric Bass Guitar",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um baixo el\u00e9trico. Coloque um pouco de ritmo.","op":"replace"},{"path":"/shortdescription","value":"Electric Bass Guitar","op":"replace"}]

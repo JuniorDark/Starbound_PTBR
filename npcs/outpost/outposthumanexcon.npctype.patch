@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Eu não estive na Terra em anos, mas eu ainda estou arrasado com a notícia. O universo é um lugar confuso...",
-    "path": "/scriptConfig/dialog/converse/human/human/0"
-  },
-  {
-    "op": "replace",
-    "value": "Já fiz algumas coisas no meu passado que eu não me orgulho, mas as pessoas aqui têm sido boas comigo. Devo muito a elas.",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  },
-  {
-    "op": "replace",
-    "value": "Já fiz algumas coisas no meu passado que eu não me orgulho, mas as pessoas aqui têm sido boas comigo. Devo muito a elas.",
-    "path": "/scriptConfig/dialog/converse/human/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/human/human/0","value":"Eu n\u00e3o estive na Terra em anos, mas eu ainda estou arrasado com a not\u00edcia. O universo \u00e9 um lugar confuso...","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/0","value":"J\u00e1 fiz algumas coisas no meu passado que eu n\u00e3o me orgulho, mas as pessoas aqui t\u00eam sido boas comigo. Devo muito a elas.","op":"replace"},{"path":"/scriptConfig/dialog/converse/human/default/0","value":"J\u00e1 fiz algumas coisas no meu passado que eu n\u00e3o me orgulho, mas as pessoas aqui t\u00eam sido boas comigo. Devo muito a elas.","op":"replace"}]

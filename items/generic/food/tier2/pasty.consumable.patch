@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma pastel terráqueo tradicional destinado a ser comido quando no subsolo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Pasty",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma pastel terr\u00e1queo tradicional destinado a ser comido quando no subsolo.","op":"replace"},{"path":"/shortdescription","value":"Pasty","op":"replace"}]

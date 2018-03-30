@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um crânio terrível que se encaixa confortavelmente sobre o seu próprio.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Dreadful Skull",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um cr\u00e2nio terr\u00edvel que se encaixa confortavelmente sobre o seu pr\u00f3prio.","op":"replace"},{"path":"/shortdescription","value":"Dreadful Skull","op":"replace"}]

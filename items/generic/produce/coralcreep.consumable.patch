@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Coralcreep",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A fruta de coralcreep fica vermelha quando cozida, como uma lagosta.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Coralcreep","op":"replace"},{"path":"/description","value":"A fruta de coralcreep fica vermelha quando cozida, como uma lagosta.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ignome",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Sua superfície carbonizada é surpreendentemente agradável ao toque. Apenas mantenha longe das chamas!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Ignome","op":"replace"},{"path":"/description","value":"Sua superf\u00edcie carbonizada \u00e9 surpreendentemente agrad\u00e1vel ao toque. Apenas mantenha longe das chamas!","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um corpo de mecha que usa um campo de energia de ponta para proteger a cabine do piloto.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Cyclops Mech Body",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um corpo de mecha que usa um campo de energia de ponta para proteger a cabine do piloto.","op":"replace"},{"path":"/shortdescription","value":"Cyclops Mech Body","op":"replace"}]

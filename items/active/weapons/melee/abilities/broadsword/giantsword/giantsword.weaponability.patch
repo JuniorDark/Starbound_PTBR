@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Espada Gigante",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Espada Gigante","op":"replace"}]

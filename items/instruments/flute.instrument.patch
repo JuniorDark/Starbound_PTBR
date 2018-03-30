@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma flauta. Mas será que é mágica?",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Flute",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma flauta. Mas ser\u00e1 que \u00e9 m\u00e1gica?","op":"replace"},{"path":"/shortdescription","value":"Flute","op":"replace"}]

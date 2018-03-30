@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Banana Cream Pie",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Melhor para comer, ou para jogar na cara das pessoas?",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Banana Cream Pie","op":"replace"},{"path":"/description","value":"Melhor para comer, ou para jogar na cara das pessoas?","op":"replace"}]

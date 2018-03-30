@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um capuz de cultista feito para se assemelhar a um grande olho.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Armoured Cultist Hood",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um capuz de cultista feito para se assemelhar a um grande olho.","op":"replace"},{"path":"/shortdescription","value":"Armoured Cultist Hood","op":"replace"}]

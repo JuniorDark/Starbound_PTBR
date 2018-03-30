@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "A hora chegará para você, <entityname>. Mas você ainda não está pronto(a).",
-    "path": "/scriptConfig/dialog/unavailable/default/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/unavailable/default/default/0","value":"A hora chegar\u00e1 para voc\u00ea, <entityname>. Mas voc\u00ea ainda n\u00e3o est\u00e1 pronto(a).","op":"replace"}]

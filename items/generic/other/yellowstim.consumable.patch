@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma injeção de estimulante cheia de líquido amarelo, isso vai fazer você brilhar!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Yellow Stim Pack",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma inje\u00e7\u00e3o de estimulante cheia de l\u00edquido amarelo, isso vai fazer voc\u00ea brilhar!","op":"replace"},{"path":"/shortdescription","value":"Yellow Stim Pack","op":"replace"}]

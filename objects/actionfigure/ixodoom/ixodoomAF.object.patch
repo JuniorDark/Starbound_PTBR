@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ixodoom Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"Um artrópode gigante que pode regenerar seu exoesqueleto duro em segundos se ferido.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Ixodoom Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"Um artr\u00f3pode gigante que pode regenerar seu exoesqueleto duro em segundos se ferido.\"","op":"replace"}]

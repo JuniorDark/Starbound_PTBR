@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma máscara de geode. Faz seus olhos brilharem.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Geode Mask",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma m\u00e1scara de geode. Faz seus olhos brilharem.","op":"replace"},{"path":"/shortdescription","value":"Geode Mask","op":"replace"}]

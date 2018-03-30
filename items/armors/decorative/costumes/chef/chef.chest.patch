@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Chef Jacket",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Dado a cada chefe quando eles passam seus exames de chefe.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Chef Jacket","op":"replace"},{"path":"/description","value":"Dado a cada chefe quando eles passam seus exames de chefe.","op":"replace"}]

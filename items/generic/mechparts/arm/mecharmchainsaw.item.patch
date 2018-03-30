@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma motosserra energizada originalmente desenvolvida para cortar gelo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Neo Chainsaw Mech Arm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma motosserra energizada originalmente desenvolvida para cortar gelo.","op":"replace"},{"path":"/shortdescription","value":"Neo Chainsaw Mech Arm","op":"replace"}]

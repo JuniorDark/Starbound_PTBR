@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "ONDA PÚTRIDA",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"ONDA P\u00daTRIDA","op":"replace"}]

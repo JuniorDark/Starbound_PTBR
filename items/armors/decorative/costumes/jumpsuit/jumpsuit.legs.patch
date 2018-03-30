@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Jump Suit Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Há uma etiqueta que diz, \"Made in Deep 13.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Jump Suit Trousers","op":"replace"},{"path":"/description","value":"H\u00e1 uma etiqueta que diz, \"Made in Deep 13.\"","op":"replace"}]

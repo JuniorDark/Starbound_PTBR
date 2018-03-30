@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Canned Food",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Não é a comida da melhor qualidade, mas vai durar por um longo tempo.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Canned Food","op":"replace"},{"path":"/description","value":"N\u00e3o \u00e9 a comida da melhor qualidade, mas vai durar por um longo tempo.","op":"replace"}]

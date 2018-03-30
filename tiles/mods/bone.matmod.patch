@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Eca, ossos esmagados!",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Eca, ossos esmagados!","op":"replace"}]

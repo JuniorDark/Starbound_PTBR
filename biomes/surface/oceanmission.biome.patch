@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Missão Oceânica",
-    "path": "/friendlyName"
-  }
-]
+[{"path":"/friendlyName","value":"Miss\u00e3o Oce\u00e2nica","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Phrygian Cap",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este barrete frígio é uma explosão do passado.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Phrygian Cap","op":"replace"},{"path":"/description","value":"Este barrete fr\u00edgio \u00e9 uma explos\u00e3o do passado.","op":"replace"}]

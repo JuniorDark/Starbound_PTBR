@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Nojento. Impossível que isso ainda seja comestível.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Rotten Food",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Nojento. Imposs\u00edvel que isso ainda seja comest\u00edvel.","op":"replace"},{"path":"/shortdescription","value":"Rotten Food","op":"replace"}]

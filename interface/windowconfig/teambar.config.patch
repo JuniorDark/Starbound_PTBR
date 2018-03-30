@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Beefjeff",
-    "path": "/paneLayout/name/value"
-  }
-]
+[{"path":"/paneLayout/name/value","value":"Beefjeff","op":"replace"}]

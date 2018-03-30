@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Hard Hat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Chapéu duro. É duro, e um chapéu.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Hard Hat","op":"replace"},{"path":"/description","value":"Chap\u00e9u duro. \u00c9 duro, e um chap\u00e9u.","op":"replace"}]

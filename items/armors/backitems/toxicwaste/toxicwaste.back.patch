@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Toxic Waste",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Um barril de resíduos tóxicos de verdade. Por que você consideraria usar isto em suas costas?",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Toxic Waste","op":"replace"},{"path":"/description","value":"Um barril de res\u00edduos t\u00f3xicos de verdade. Por que voc\u00ea consideraria usar isto em suas costas?","op":"replace"}]

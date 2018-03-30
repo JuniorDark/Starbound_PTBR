@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Peitoral produzido em massa para soldados leais da Miniknog.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Miniknog Chest",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Peitoral produzido em massa para soldados leais da Miniknog.","op":"replace"},{"path":"/shortdescription","value":"Miniknog Chest","op":"replace"}]

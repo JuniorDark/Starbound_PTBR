@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Calças para pessoas resistentes!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tough Trousers",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Cal\u00e7as para pessoas resistentes!","op":"replace"},{"path":"/shortdescription","value":"Tough Trousers","op":"replace"}]

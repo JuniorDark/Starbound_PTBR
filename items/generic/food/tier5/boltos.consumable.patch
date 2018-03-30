@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bolt O's",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Bolt O's, para quando você acorda com tanta fome que não se importa o que você está colocando em sua boca!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Bolt O's","op":"replace"},{"path":"/description","value":"Bolt O's, para quando voc\u00ea acorda com tanta fome que n\u00e3o se importa o que voc\u00ea est\u00e1 colocando em sua boca!","op":"replace"}]

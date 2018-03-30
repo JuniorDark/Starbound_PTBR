@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma camisa tecida de nervos ópticos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Eyeball Shirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma camisa tecida de nervos \u00f3pticos.","op":"replace"},{"path":"/shortdescription","value":"Eyeball Shirt","op":"replace"}]

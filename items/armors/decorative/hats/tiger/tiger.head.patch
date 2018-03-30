@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Este chapéu assemelha-se a um tigre. É pele real?",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tiger Hat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Este chap\u00e9u assemelha-se a um tigre. \u00c9 pele real?","op":"replace"},{"path":"/shortdescription","value":"Tiger Hat","op":"replace"}]

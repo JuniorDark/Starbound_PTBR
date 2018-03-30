@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um livro de receitas Floran, ou quase.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "LIVRO DE CARNES FLORAN\n\nPrecisa:\n1 Fogo para cozinhar\n1 Carne\n\nPasso 1: Coloque a Carne no fogo\nPasso Dois - Pegue a carne com o fogo apagado (não com as mãos)\n3: Coma a Carne\n\nDicas: Não coma outro Floran se ele ainda estiver vivo.\nCozinhar carne é mais fácil se ela não estiver gritando",
-    "path": "/contentPages/0"
-  },
-  {
-    "op": "replace",
-    "value": "Livro de Carnes Floran",
-    "path": "/title"
-  }
-]
+[{"path":"/description","value":"Um livro de receitas Floran, ou quase.","op":"replace"},{"path":"/contentPages/0","value":"LIVRO DE CARNES FLORAN\n\nPrecisa:\n1 Fogo para cozinhar\n1 Carne\n\nPasso 1: Coloque a Carne no fogo\nPasso Dois - Pegue a carne com o fogo apagado (n\u00e3o com as m\u00e3os)\n3: Coma a Carne\n\nDicas: N\u00e3o coma outro Floran se ele ainda estiver vivo.\nCozinhar carne \u00e9 mais f\u00e1cil se ela n\u00e3o estiver gritando","op":"replace"},{"path":"/title","value":"Livro de Carnes Floran","op":"replace"}]

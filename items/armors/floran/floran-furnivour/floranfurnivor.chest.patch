@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma exposição vaidosa de peles de animais, reivindicado de uma caçada recente.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Furnivour Chest",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma exposi\u00e7\u00e3o vaidosa de peles de animais, reivindicado de uma ca\u00e7ada recente.","op":"replace"},{"path":"/shortdescription","value":"Furnivour Chest","op":"replace"}]

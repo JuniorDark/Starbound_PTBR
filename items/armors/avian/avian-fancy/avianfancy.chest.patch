@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma camisa elegante, geralmente reservada para ocasiões especiais.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Ornate Shirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma camisa elegante, geralmente reservada para ocasi\u00f5es especiais.","op":"replace"},{"path":"/shortdescription","value":"Ornate Shirt","op":"replace"}]

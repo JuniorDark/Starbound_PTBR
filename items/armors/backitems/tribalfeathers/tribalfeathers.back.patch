@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Penas decorativas para enfeitar seu traseiro.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tribal Feathers",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Penas decorativas para enfeitar seu traseiro.","op":"replace"},{"path":"/shortdescription","value":"Tribal Feathers","op":"replace"}]

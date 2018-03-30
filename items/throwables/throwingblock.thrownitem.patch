@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Throwing Block",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Um bloco que você pode jogar!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Throwing Block","op":"replace"},{"path":"/description","value":"Um bloco que voc\u00ea pode jogar!","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma máscara de olho gigante. Reduz drasticamente a sua percepção de profundidade.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Eyeball Mask",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma m\u00e1scara de olho gigante. Reduz drasticamente a sua percep\u00e7\u00e3o de profundidade.","op":"replace"},{"path":"/shortdescription","value":"Eyeball Mask","op":"replace"}]

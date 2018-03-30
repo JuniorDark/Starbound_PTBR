@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma cauda superior de Ophidan fossilizada.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Ophidaunt Upper Tail",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma cauda superior de Ophidan fossilizada.","op":"replace"},{"path":"/shortdescription","value":"Ophidaunt Upper Tail","op":"replace"}]

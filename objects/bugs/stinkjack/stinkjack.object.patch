@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Stinkjack",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Você vai sentir o cheiro de um destes carinhas antes de você ver um.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Stinkjack","op":"replace"},{"path":"/description","value":"Voc\u00ea vai sentir o cheiro de um destes carinhas antes de voc\u00ea ver um.","op":"replace"}]

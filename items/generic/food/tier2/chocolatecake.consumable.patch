@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um bolo feito de chocolate! E outros ingredientes de bolo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Chocolate Cake",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um bolo feito de chocolate! E outros ingredientes de bolo.","op":"replace"},{"path":"/shortdescription","value":"Chocolate Cake","op":"replace"}]

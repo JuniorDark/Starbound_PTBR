@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Plutonium.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Plutonium.","op":"replace"}]

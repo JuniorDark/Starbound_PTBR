@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bone Dragon Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"Um imponente dragão robô cuspidor de fogo, projetado para parecer como um esqueleto reanimado.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Bone Dragon Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"Um imponente drag\u00e3o rob\u00f4 cuspidor de fogo, projetado para parecer como um esqueleto reanimado.\"","op":"replace"}]

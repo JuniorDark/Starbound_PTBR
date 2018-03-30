@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Controle de pragas perfeito.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Pollen Pump",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Pollen Pump ^yellow;^reset;",
-    "path": "/upgradeParameters/shortdescription"
-  }
-]
+[{"path":"/description","value":"Controle de pragas perfeito.","op":"replace"},{"path":"/shortdescription","value":"Pollen Pump","op":"replace"},{"path":"/upgradeParameters/shortdescription","value":"Pollen Pump ^yellow;\ue024^reset;","op":"replace"}]

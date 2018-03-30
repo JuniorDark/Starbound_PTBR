@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Flashlight",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Flashlight","op":"replace"}]

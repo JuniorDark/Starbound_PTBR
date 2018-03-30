@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Tintic",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Ele não parece comer ou dormir... É uma máquina?",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Tintic","op":"replace"},{"path":"/description","value":"Ele n\u00e3o parece comer ou dormir... \u00c9 uma m\u00e1quina?","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Mutagen Back Pipe",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este cano vestível parece estar bombeando líquidos tóxicos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Mutagen Back Pipe","op":"replace"},{"path":"/description","value":"Este cano vest\u00edvel parece estar bombeando l\u00edquidos t\u00f3xicos.","op":"replace"}]

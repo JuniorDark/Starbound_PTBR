@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "O seu corpo leve flui na direção do vento.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Skimbus",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"O seu corpo leve flui na dire\u00e7\u00e3o do vento.","op":"replace"},{"path":"/shortdescription","value":"Skimbus","op":"replace"}]

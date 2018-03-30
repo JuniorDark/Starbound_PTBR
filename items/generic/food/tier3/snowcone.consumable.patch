@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um cone de neve saborosa, vários sabores!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Snowcone",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um cone de neve saborosa, v\u00e1rios sabores!","op":"replace"},{"path":"/shortdescription","value":"Snowcone","op":"replace"}]

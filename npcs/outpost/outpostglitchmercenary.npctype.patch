@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Desculpas. Por favor, não se ofenda se o meu companheiro de preto não falar com você. Ele não é muito de falar.",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  },
-  {
-    "op": "replace",
-    "value": "Desculpas. Por favor, não se ofenda se o meu companheiro de preto não falar com você. Ele não é muito de falar.",
-    "path": "/scriptConfig/dialog/converse/glitch/default/0"
-  },
-  {
-    "op": "replace",
-    "value": "Saudoso. Eram tempos não mais simples antes que nós aprendemos de tudo... isso?",
-    "path": "/scriptConfig/dialog/converse/glitch/glitch/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Desculpas. Por favor, n\u00e3o se ofenda se o meu companheiro de preto n\u00e3o falar com voc\u00ea. Ele n\u00e3o \u00e9 muito de falar.","op":"replace"},{"path":"/scriptConfig/dialog/converse/glitch/default/0","value":"Desculpas. Por favor, n\u00e3o se ofenda se o meu companheiro de preto n\u00e3o falar com voc\u00ea. Ele n\u00e3o \u00e9 muito de falar.","op":"replace"},{"path":"/scriptConfig/dialog/converse/glitch/glitch/0","value":"Saudoso. Eram tempos n\u00e3o mais simples antes que n\u00f3s aprendemos de tudo... isso?","op":"replace"}]

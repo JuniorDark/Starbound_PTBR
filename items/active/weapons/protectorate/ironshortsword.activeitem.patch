@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Não parece tão curta para os inimigos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Iron Shortsword",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"N\u00e3o parece t\u00e3o curta para os inimigos.","op":"replace"},{"path":"/shortdescription","value":"Iron Shortsword","op":"replace"}]

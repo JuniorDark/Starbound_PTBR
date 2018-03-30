@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma camisa feita de gelo sólido.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Ice Armor Shirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma camisa feita de gelo s\u00f3lido.","op":"replace"},{"path":"/shortdescription","value":"Ice Armor Shirt","op":"replace"}]

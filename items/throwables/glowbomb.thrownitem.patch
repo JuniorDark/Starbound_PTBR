@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Para quando você precisa de uma fonte de luz rápida.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "The Night Light",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Para quando voc\u00ea precisa de uma fonte de luz r\u00e1pida.","op":"replace"},{"path":"/shortdescription","value":"The Night Light","op":"replace"}]

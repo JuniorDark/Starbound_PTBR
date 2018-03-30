@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Foundry Timer (0.5 Sec)",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "<Um temporizador. Para quando você precisa de tempo para fugir.>",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Foundry Timer (0.5 Sec)","op":"replace"},{"path":"/description","value":"<Um temporizador. Para quando voc\u00ea precisa de tempo para fugir.>","op":"replace"}]

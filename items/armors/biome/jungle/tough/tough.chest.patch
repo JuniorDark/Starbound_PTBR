@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um traje de músculos para pessoas fortes!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tough Chest",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um traje de m\u00fasculos para pessoas fortes!","op":"replace"},{"path":"/shortdescription","value":"Tough Chest","op":"replace"}]

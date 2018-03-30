@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "...",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Invisible Countdown Timer",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"...","op":"replace"},{"path":"/shortdescription","value":"Invisible Countdown Timer","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ocean Chestguard",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este peitoral é projetado para desviar os ataques de peixes enormes, assim como aqueles de adversários mais ordinários.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Ocean Chestguard","op":"replace"},{"path":"/description","value":"Este peitoral \u00e9 projetado para desviar os ataques de peixes enormes, assim como aqueles de advers\u00e1rios mais ordin\u00e1rios.","op":"replace"}]

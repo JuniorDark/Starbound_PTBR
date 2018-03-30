@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Apex Anatomy Mask",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "É educativo! Uma máscara da anatomia muscular Apex.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Apex Anatomy Mask","op":"replace"},{"path":"/description","value":"\u00c9 educativo! Uma m\u00e1scara da anatomia muscular Apex.","op":"replace"}]

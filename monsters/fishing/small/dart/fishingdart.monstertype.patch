@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Basalt Darter",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Seu corpo angular estreito se encaixa bem em fendas nas rochas vulcânicas onde ele dorme.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Basalt Darter","op":"replace"},{"path":"/description","value":"Seu corpo angular estreito se encaixa bem em fendas nas rochas vulc\u00e2nicas onde ele dorme.","op":"replace"}]

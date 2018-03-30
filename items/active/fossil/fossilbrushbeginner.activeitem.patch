@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Basic Fossil Brush",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Pode ser usado uma vez para escavar um fóssil, com pouca chance de sucesso.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Basic Fossil Brush","op":"replace"},{"path":"/description","value":"Pode ser usado uma vez para escavar um f\u00f3ssil, com pouca chance de sucesso.","op":"replace"}]

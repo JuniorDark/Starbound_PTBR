@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "É um flexível cone de trânsito azul. Por que não usá-lo em sua cabeça?",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Wizard Hat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\u00c9 um flex\u00edvel cone de tr\u00e2nsito azul. Por que n\u00e3o us\u00e1-lo em sua cabe\u00e7a?","op":"replace"},{"path":"/shortdescription","value":"Wizard Hat","op":"replace"}]

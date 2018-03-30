@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Detalhes da Aposta",
-    "path": "/title"
-  },
-  {
-    "op": "replace",
-    "value": "Eu, Axelbrass Fuseamp III, decidi apostar meu forte e as terras em um jogo de clunky jacks com o Barão, e com isto, a promessa de fornecer ao barão as escrituras ao referido imóvel, no caso improvável de que ele ganhe.\n\nCaso eu ganhe, vou ser regado com as riquezas do Barão (e vou ganhar, porque eu sou realmente bom no clunky jacks).",
-    "path": "/contentPages/0"
-  },
-  {
-    "op": "replace",
-    "value": "Prova escrita da propriedade legítima do Forte do Barão",
-    "path": "/description"
-  }
-]
+[{"path":"/title","value":"Detalhes da Aposta","op":"replace"},{"path":"/contentPages/0","value":"Eu, Axelbrass Fuseamp III, decidi apostar meu forte e as terras em um jogo de clunky jacks com o Bar\u00e3o, e com isto, a promessa de fornecer ao bar\u00e3o as escrituras ao referido im\u00f3vel, no caso improv\u00e1vel de que ele ganhe.\n\nCaso eu ganhe, vou ser regado com as riquezas do Bar\u00e3o (e vou ganhar, porque eu sou realmente bom no clunky jacks).","op":"replace"},{"path":"/description","value":"Prova escrita da propriedade leg\u00edtima do Forte do Bar\u00e3o","op":"replace"}]

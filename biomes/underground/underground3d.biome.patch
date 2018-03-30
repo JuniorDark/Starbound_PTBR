@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Subterrâneo3d",
-    "path": "/friendlyName"
-  }
-]
+[{"path":"/friendlyName","value":"Subterr\u00e2neo3d","op":"replace"}]

@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Revisite a Grande Biblioteca Pagoda",
-    "path": "/speciesText/default/repeatButtonText"
-  },
-  {
-    "op": "replace",
-    "value": "A Grande Biblioteca Pagoda",
-    "path": "/speciesText/default/buttonText"
-  },
-  {
-    "op": "replace",
-    "value": "Esta antiga ilha complexo foi calculada para ser a localização aproximada do Artefato Hylotl.",
-    "path": "/speciesText/default/selectSpeech/text"
-  }
-]
+[{"path":"/speciesText/default/repeatButtonText","value":"Revisite a Grande Biblioteca Pagoda","op":"replace"},{"path":"/speciesText/default/buttonText","value":"A Grande Biblioteca Pagoda","op":"replace"},{"path":"/speciesText/default/selectSpeech/text","value":"Esta antiga ilha complexo foi calculada para ser a localiza\u00e7\u00e3o aproximada do Artefato Hylotl.","op":"replace"}]

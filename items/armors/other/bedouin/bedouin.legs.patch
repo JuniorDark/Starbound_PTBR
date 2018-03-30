@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Desert Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Você vai ser capaz de se manter fresco e ventoso nestas calças que cai bem.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Desert Trousers","op":"replace"},{"path":"/description","value":"Voc\u00ea vai ser capaz de se manter fresco e ventoso nestas cal\u00e7as que cai bem.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Hemogoblin",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Na verdade, é coberto de pele vermelha, mas ainda é muito nojento.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Hemogoblin","op":"replace"},{"path":"/description","value":"Na verdade, \u00e9 coberto de pele vermelha, mas ainda \u00e9 muito nojento.","op":"replace"}]

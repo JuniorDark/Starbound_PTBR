@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um ferrão de Ixodoom fossilizado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Ixodoom Stinger",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um ferr\u00e3o de Ixodoom fossilizado.","op":"replace"},{"path":"/shortdescription","value":"Ixodoom Stinger","op":"replace"}]

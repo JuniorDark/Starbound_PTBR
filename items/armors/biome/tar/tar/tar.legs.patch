@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Tar Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Calças feitas de piche quente e pegajoso.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Tar Trousers","op":"replace"},{"path":"/description","value":"Cal\u00e7as feitas de piche quente e pegajoso.","op":"replace"}]

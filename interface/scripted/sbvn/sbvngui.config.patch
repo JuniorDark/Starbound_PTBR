@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": " SBVN",
-    "path": "/gui/windowtitle/title"
-  },
-  {
-    "op": "replace",
-    "value": "[nenhum jogo carregado]",
-    "path": "/gui/lblText/value"
-  }
-]
+[{"path":"/gui/windowtitle/title","value":" SBVN","op":"replace"},{"path":"/gui/lblText/value","value":"[nenhum jogo carregado]","op":"replace"}]

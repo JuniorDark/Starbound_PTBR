@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um módulo de EPP que aumenta a sua vida total.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Health II Augment",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um m\u00f3dulo de EPP que aumenta a sua vida total.","op":"replace"},{"path":"/shortdescription","value":"Health II Augment","op":"replace"}]

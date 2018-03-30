@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Phoenix Circlet",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta tiara representa um pássaro de fogo legendário que é famoso por vagar as estrelas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Phoenix Circlet","op":"replace"},{"path":"/description","value":"Esta tiara representa um p\u00e1ssaro de fogo legend\u00e1rio que \u00e9 famoso por vagar as estrelas.","op":"replace"}]

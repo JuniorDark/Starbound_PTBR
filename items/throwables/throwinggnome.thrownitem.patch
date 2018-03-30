@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ball of Gnomes",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Atire esses carinhas para lutar para você.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Ball of Gnomes","op":"replace"},{"path":"/description","value":"Atire esses carinhas para lutar para voc\u00ea.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma saia lisa que oferece mobilidade e conforto.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hide Skirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma saia lisa que oferece mobilidade e conforto.","op":"replace"},{"path":"/shortdescription","value":"Hide Skirt","op":"replace"}]

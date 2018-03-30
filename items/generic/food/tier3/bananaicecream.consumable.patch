@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Banana Ice Cream",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Um sorvete de banana cremoso e gelado.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Banana Ice Cream","op":"replace"},{"path":"/description","value":"Um sorvete de banana cremoso e gelado.","op":"replace"}]

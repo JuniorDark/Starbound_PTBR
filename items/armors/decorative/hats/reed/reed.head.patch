@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um chapéu bastante atraente feito de juncos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Reed Hat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um chap\u00e9u bastante atraente feito de juncos.","op":"replace"},{"path":"/shortdescription","value":"Reed Hat","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Sai somente durante certas fases da lua.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tidefly",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Sai somente durante certas fases da lua.","op":"replace"},{"path":"/shortdescription","value":"Tidefly","op":"replace"}]

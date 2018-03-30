@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Calças de durasteel que permitem que o usuário fique em seu posto por muitas horas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Lake Greaves",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Cal\u00e7as de durasteel que permitem que o usu\u00e1rio fique em seu posto por muitas horas.","op":"replace"},{"path":"/shortdescription","value":"Lake Greaves","op":"replace"}]

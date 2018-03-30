@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Manipulator Module",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este módulo pode ser usado para melhorar um manipulador de matéria!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Manipulator Module","op":"replace"},{"path":"/description","value":"Este m\u00f3dulo pode ser usado para melhorar um manipulador de mat\u00e9ria!","op":"replace"}]

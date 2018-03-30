@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Grama carbonizada se agarra à vida entre as cinzas.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Grama carbonizada se agarra \u00e0 vida entre as cinzas.","op":"replace"}]

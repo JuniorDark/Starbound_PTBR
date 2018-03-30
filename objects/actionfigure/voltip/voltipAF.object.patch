@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"O resultado de um experimento científico que deu errado.\"",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Voltip Figurine",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"A etiqueta diz, \"O resultado de um experimento cient\u00edfico que deu errado.\"","op":"replace"},{"path":"/shortdescription","value":"Voltip Figurine","op":"replace"}]

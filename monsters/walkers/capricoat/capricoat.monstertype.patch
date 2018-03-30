@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Capricoat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Sua pelagem grossa o mantém quente em climas mais frios.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Capricoat","op":"replace"},{"path":"/description","value":"Sua pelagem grossa o mant\u00e9m quente em climas mais frios.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Smoglin Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"Uma reação química em sua barriga torna a sua respiração quente tóxica.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Smoglin Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"Uma rea\u00e7\u00e3o qu\u00edmica em sua barriga torna a sua respira\u00e7\u00e3o quente t\u00f3xica.\"","op":"replace"}]

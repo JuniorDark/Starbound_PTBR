@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "É um barra de platina.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Platinum Bar",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\u00c9 um barra de platina.","op":"replace"},{"path":"/shortdescription","value":"Platinum Bar","op":"replace"}]

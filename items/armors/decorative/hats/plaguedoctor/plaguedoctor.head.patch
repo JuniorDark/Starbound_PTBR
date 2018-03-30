@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma velha máscara de doutor da peste. Vista-a e assuste seus amigos!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Plague Doctor Mask",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma velha m\u00e1scara de doutor da peste. Vista-a e assuste seus amigos!","op":"replace"},{"path":"/shortdescription","value":"Plague Doctor Mask","op":"replace"}]

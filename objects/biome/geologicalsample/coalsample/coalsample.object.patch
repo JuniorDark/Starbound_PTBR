@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "\"Uma amostra perfeita de um minério de carvão.\"",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Coal Sample",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\"Uma amostra perfeita de um min\u00e9rio de carv\u00e3o.\"","op":"replace"},{"path":"/shortdescription","value":"Coal Sample","op":"replace"}]

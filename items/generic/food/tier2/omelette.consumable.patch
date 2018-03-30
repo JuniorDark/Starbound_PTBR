@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Facilmente preparado e delicioso, nada pode dar errado com um omelete!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Omelette",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Facilmente preparado e delicioso, nada pode dar errado com um omelete!","op":"replace"},{"path":"/shortdescription","value":"Omelette","op":"replace"}]

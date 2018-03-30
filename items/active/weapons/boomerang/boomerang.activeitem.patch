@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Boomerang",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Boomerang ^yellow;^reset;",
-    "path": "/upgradeParameters/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Micromotores de última geração garantem que ele sempre vai voltar.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Boomerang","op":"replace"},{"path":"/upgradeParameters/shortdescription","value":"Boomerang ^yellow;\ue024^reset;","op":"replace"},{"path":"/description","value":"Micromotores de \u00faltima gera\u00e7\u00e3o garantem que ele sempre vai voltar.","op":"replace"}]

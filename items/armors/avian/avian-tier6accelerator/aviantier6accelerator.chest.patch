@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Macaw Shirt",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta camisa sem frescura está entrelaçada com fios de solarium puro. Uma mistura hábil de força e estilo.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Macaw Shirt","op":"replace"},{"path":"/description","value":"Esta camisa sem frescura est\u00e1 entrela\u00e7ada com fios de solarium puro. Uma mistura h\u00e1bil de for\u00e7a e estilo.","op":"replace"}]

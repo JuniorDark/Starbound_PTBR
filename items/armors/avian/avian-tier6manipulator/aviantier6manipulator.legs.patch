@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Calças formadas a partir de tecido solarium. Simplesmente deslumbrante.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Raven's Claws",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Cal\u00e7as formadas a partir de tecido solarium. Simplesmente deslumbrante.","op":"replace"},{"path":"/shortdescription","value":"Raven's Claws","op":"replace"}]

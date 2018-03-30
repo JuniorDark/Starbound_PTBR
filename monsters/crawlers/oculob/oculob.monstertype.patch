@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "É desagradável olhar pra ele. Também é desagradável quando ele olha para você.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Oculob",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\u00c9 desagrad\u00e1vel olhar pra ele. Tamb\u00e9m \u00e9 desagrad\u00e1vel quando ele olha para voc\u00ea.","op":"replace"},{"path":"/shortdescription","value":"Oculob","op":"replace"}]

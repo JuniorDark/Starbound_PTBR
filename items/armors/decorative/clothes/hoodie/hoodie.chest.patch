@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um casaco simples com capuz, no caso de ficar um pouco frio.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Casual Hoodie",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um casaco simples com capuz, no caso de ficar um pouco frio.","op":"replace"},{"path":"/shortdescription","value":"Casual Hoodie","op":"replace"}]

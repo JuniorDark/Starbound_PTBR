@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "River Leggings",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Forte e flexível, como as pernas flexíveis de seu portador.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"River Leggings","op":"replace"},{"path":"/description","value":"Forte e flex\u00edvel, como as pernas flex\u00edveis de seu portador.","op":"replace"}]

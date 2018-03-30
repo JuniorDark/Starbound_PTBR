@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bunny Mask",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Pareça exatamente como um coelho com esta máscara.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Bunny Mask","op":"replace"},{"path":"/description","value":"Pare\u00e7a exatamente como um coelho com esta m\u00e1scara.","op":"replace"}]

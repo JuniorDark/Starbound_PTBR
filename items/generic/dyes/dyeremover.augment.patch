@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Aplique este removedor de corante a qualquer roupa com o botão direito para restaurar a sua cor base.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Dye Remover",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Aplique este removedor de corante a qualquer roupa com o bot\u00e3o direito para restaurar a sua cor base.","op":"replace"},{"path":"/shortdescription","value":"Dye Remover","op":"replace"}]

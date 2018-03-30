@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Durasteel Bar",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Durasteel é encontrado principalmente em planetas que orbitam estrelas radioativas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Durasteel Bar","op":"replace"},{"path":"/description","value":"Durasteel \u00e9 encontrado principalmente em planetas que orbitam estrelas radioativas.","op":"replace"}]

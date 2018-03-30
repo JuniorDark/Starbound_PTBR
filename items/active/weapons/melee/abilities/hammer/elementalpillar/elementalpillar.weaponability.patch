@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pilar de Energia",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Pilar de Energia","op":"replace"}]

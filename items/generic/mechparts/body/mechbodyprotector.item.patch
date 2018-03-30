@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um corpo de mecha finamente projetado, para uso de membros do Protetorado Terreno.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Protector's Mech Body",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um corpo de mecha finamente projetado, para uso de membros do Protetorado Terreno.","op":"replace"},{"path":"/shortdescription","value":"Protector's Mech Body","op":"replace"}]

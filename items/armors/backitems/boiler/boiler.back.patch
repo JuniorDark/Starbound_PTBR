@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma caldeira portátil, alimentada por movimento.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Boiler",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma caldeira port\u00e1til, alimentada por movimento.","op":"replace"},{"path":"/shortdescription","value":"Boiler","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pareça digno e inteligente com este top bem feito.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Smart Top",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Pare\u00e7a digno e inteligente com este top bem feito.","op":"replace"},{"path":"/shortdescription","value":"Smart Top","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Thread",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Fio reforçado com raiz viva.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Thread","op":"replace"},{"path":"/description","value":"Fio refor\u00e7ado com raiz viva.","op":"replace"}]

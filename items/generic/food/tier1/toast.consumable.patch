@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma fatia quente de pão com ovo. Delicioso.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Eggy Toast",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma fatia quente de p\u00e3o com ovo. Delicioso.","op":"replace"},{"path":"/shortdescription","value":"Eggy Toast","op":"replace"}]

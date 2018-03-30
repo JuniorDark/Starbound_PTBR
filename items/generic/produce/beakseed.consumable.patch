@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Beakseed",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Beakseed. Mmm crocante.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Beakseed","op":"replace"},{"path":"/description","value":"Beakseed. Mmm crocante.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Wizard Robe Top",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Bruxos são muitas vezes vistos vestindo túnicas como esta.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Wizard Robe Top","op":"replace"},{"path":"/description","value":"Bruxos s\u00e3o muitas vezes vistos vestindo t\u00fanicas como esta.","op":"replace"}]

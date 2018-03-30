@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma fatia quente de pizza de pepperoni.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Pizza Slice",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma fatia quente de pizza de pepperoni.","op":"replace"},{"path":"/shortdescription","value":"Pizza Slice","op":"replace"}]

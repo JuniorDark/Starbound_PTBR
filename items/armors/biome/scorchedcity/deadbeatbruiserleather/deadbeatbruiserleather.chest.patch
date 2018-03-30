@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma jaqueta de couro desgastado, chamuscada por condições extremas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Deadbeat Bruiser Jacket",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma jaqueta de couro desgastado, chamuscada por condi\u00e7\u00f5es extremas.","op":"replace"},{"path":"/shortdescription","value":"Deadbeat Bruiser Jacket","op":"replace"}]

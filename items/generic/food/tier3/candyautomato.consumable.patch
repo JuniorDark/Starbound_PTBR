@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Candy Automato",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "É como um pirulito de automato com sabor! O que é meio estranho.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Candy Automato","op":"replace"},{"path":"/description","value":"\u00c9 como um pirulito de automato com sabor! O que \u00e9 meio estranho.","op":"replace"}]

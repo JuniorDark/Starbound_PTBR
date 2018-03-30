@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Combinando a moda do mergulho com a proteção do ferozium, não há nenhum lugar que este casaco não possa ser usado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Reef Jacket",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Combinando a moda do mergulho com a prote\u00e7\u00e3o do ferozium, n\u00e3o h\u00e1 nenhum lugar que este casaco n\u00e3o possa ser usado.","op":"replace"},{"path":"/shortdescription","value":"Reef Jacket","op":"replace"}]

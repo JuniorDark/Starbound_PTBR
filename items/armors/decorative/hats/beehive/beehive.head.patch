@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Beehive",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Acho que encontrei um pouco de mel aqui. Não, apenas mais abelhas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Beehive","op":"replace"},{"path":"/description","value":"Acho que encontrei um pouco de mel aqui. N\u00e3o, apenas mais abelhas.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Defenda o universo com este chassis de mecha excitante.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hero Mech Body",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Defenda o universo com este chassis de mecha excitante.","op":"replace"},{"path":"/shortdescription","value":"Hero Mech Body","op":"replace"}]

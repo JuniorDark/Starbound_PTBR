@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um elmo ornamentado que protege sua cabeça e ilumina seu caminho. O que mais você poderia desejar?",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Steampunk Helmet",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um elmo ornamentado que protege sua cabe\u00e7a e ilumina seu caminho. O que mais voc\u00ea poderia desejar?","op":"replace"},{"path":"/shortdescription","value":"Steampunk Helmet","op":"replace"}]

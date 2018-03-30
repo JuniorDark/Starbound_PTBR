@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Calças que protegem suas pernas e sua castidade.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Paladin's Greaves",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Cal\u00e7as que protegem suas pernas e sua castidade.","op":"replace"},{"path":"/shortdescription","value":"Paladin's Greaves","op":"replace"}]

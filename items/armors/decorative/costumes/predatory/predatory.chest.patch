@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Roupa folhosa e ameaçadora. A caça começou!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Predatory Chest",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Roupa folhosa e amea\u00e7adora. A ca\u00e7a come\u00e7ou!","op":"replace"},{"path":"/shortdescription","value":"Predatory Chest","op":"replace"}]

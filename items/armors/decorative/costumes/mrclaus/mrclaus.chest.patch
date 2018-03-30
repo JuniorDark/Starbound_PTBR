@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Holiday Coat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Se mantenha aquecido com este casaco festivo.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Holiday Coat","op":"replace"},{"path":"/description","value":"Se mantenha aquecido com este casaco festivo.","op":"replace"}]

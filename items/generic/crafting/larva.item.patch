@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma larva bebê alienígena, é pequena, mole, e indefesa.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Baby Larva",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma larva beb\u00ea alien\u00edgena, \u00e9 pequena, mole, e indefesa.","op":"replace"},{"path":"/shortdescription","value":"Baby Larva","op":"replace"}]

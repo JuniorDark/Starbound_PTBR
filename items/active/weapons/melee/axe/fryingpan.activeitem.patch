@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Frying Pan",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A tecnologia da frigideira nunca vai ser melhor que ferro fundido.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Frying Pan","op":"replace"},{"path":"/description","value":"A tecnologia da frigideira nunca vai ser melhor que ferro fundido.","op":"replace"}]

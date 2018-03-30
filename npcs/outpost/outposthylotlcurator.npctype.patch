@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Saudações! Espero que este dia esteja bom.",
-    "path": "/scriptConfig/dialog/converse/Hylotl/default/0"
-  },
-  {
-    "op": "replace",
-    "value": "Saudações! Espero que este dia esteja bom.",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  },
-  {
-    "op": "replace",
-    "value": "Saudações, meu jovem amigo! Você também gosta de atividades acadêmicas?",
-    "path": "/scriptConfig/dialog/converse/Hylotl/hylotl/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/Hylotl/default/0","value":"Sauda\u00e7\u00f5es! Espero que este dia esteja bom.","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Sauda\u00e7\u00f5es! Espero que este dia esteja bom.","op":"replace"},{"path":"/scriptConfig/dialog/converse/Hylotl/hylotl/0","value":"Sauda\u00e7\u00f5es, meu jovem amigo! Voc\u00ea tamb\u00e9m gosta de atividades acad\u00eamicas?","op":"replace"}]

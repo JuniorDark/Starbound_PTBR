@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma cauda inferior de Ophidaunt fossilizada.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Ophidaunt Lower Tail",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma cauda inferior de Ophidaunt fossilizada.","op":"replace"},{"path":"/shortdescription","value":"Ophidaunt Lower Tail","op":"replace"}]

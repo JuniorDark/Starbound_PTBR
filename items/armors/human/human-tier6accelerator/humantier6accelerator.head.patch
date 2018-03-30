@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Seeker's Helmet",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A viseira neste capacete resistente é projetada para aguçar a mira do usuário.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Seeker's Helmet","op":"replace"},{"path":"/description","value":"A viseira neste capacete resistente \u00e9 projetada para agu\u00e7ar a mira do usu\u00e1rio.","op":"replace"}]

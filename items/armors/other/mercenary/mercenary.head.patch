@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Armadura confiável é o melhor amigo de um mercenário.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Mercenary's Helm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Armadura confi\u00e1vel \u00e9 o melhor amigo de um mercen\u00e1rio.","op":"replace"},{"path":"/shortdescription","value":"Mercenary's Helm","op":"replace"}]

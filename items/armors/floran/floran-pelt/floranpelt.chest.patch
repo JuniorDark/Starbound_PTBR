@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Isolados com plantas para mantê-lo aquecido.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Pelt Chest",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Isolados com plantas para mant\u00ea-lo aquecido.","op":"replace"},{"path":"/shortdescription","value":"Pelt Chest","op":"replace"}]

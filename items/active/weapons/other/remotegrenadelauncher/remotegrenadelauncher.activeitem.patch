@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Dispara granadas que podem ser acionadas manualmente para explodir.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Remote Grenade Launcher",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Dispara granadas que podem ser acionadas manualmente para explodir.","op":"replace"},{"path":"/shortdescription","value":"Remote Grenade Launcher","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral dourado para enfeitar o peito daqueles adeptos da guerra.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Doom Lord's Breastplate",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral dourado para enfeitar o peito daqueles adeptos da guerra.","op":"replace"},{"path":"/shortdescription","value":"Doom Lord's Breastplate","op":"replace"}]

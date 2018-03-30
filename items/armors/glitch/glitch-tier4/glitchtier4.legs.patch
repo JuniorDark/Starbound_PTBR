@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Dark Knight's Tassets",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Calças ameaçadoras que fornecem umas das mais adequadas proteções para a virilha no universo.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Dark Knight's Tassets","op":"replace"},{"path":"/description","value":"Cal\u00e7as amea\u00e7adoras que fornecem umas das mais adequadas prote\u00e7\u00f5es para a virilha no universo.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma caixa de música. Isso é uma chave de corda?",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Music Box",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma caixa de m\u00fasica. Isso \u00e9 uma chave de corda?","op":"replace"},{"path":"/shortdescription","value":"Music Box","op":"replace"}]

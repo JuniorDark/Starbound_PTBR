@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "É urânio. Uma boa fonte de combustível.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Uranium Ore",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\u00c9 ur\u00e2nio. Uma boa fonte de combust\u00edvel.","op":"replace"},{"path":"/shortdescription","value":"Uranium Ore","op":"replace"}]

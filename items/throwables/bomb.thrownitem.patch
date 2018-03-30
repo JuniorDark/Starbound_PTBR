@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma ótima maneira de explodir coisas. Tenha cuidado onde você joga ela!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Bomb",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma \u00f3tima maneira de explodir coisas. Tenha cuidado onde voc\u00ea joga ela!","op":"replace"},{"path":"/shortdescription","value":"Bomb","op":"replace"}]

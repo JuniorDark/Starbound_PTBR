@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma coleira que dá um aspecto fantasmagórico ao seu pet.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Ghostly Collar",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma coleira que d\u00e1 um aspecto fantasmag\u00f3rico ao seu pet.","op":"replace"},{"path":"/shortdescription","value":"Ghostly Collar","op":"replace"}]

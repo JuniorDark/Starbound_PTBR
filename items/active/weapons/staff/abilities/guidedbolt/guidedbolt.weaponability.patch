@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Dardo Guiado",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Dardo Guiado","op":"replace"}]

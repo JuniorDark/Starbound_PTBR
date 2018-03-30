@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Voltar ao Ark",
-    "path": "/destinations/0/name"
-  },
-  {
-    "op": "replace",
-    "value": "Retornar as ruinas Arcaicas",
-    "path": "/destinations/0/planetName"
-  }
-]
+[{"path":"/destinations/0/name","value":"Voltar ao Ark","op":"replace"},{"path":"/destinations/0/planetName","value":"Retornar as ruinas Arcaicas","op":"replace"}]

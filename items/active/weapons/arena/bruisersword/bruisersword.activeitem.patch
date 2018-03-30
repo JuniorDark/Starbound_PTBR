@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Esta coisa é enorme!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Bruiser's Broadsword",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Esta coisa \u00e9 enorme!","op":"replace"},{"path":"/shortdescription","value":"Bruiser's Broadsword","op":"replace"}]

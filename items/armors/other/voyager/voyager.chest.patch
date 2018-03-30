@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "O corte baixo e ombreiras grandes sugerem que esta armadura foi projetada mais para estilo do que para proteção.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Voyager's Chestguard",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"O corte baixo e ombreiras grandes sugerem que esta armadura foi projetada mais para estilo do que para prote\u00e7\u00e3o.","op":"replace"},{"path":"/shortdescription","value":"Voyager's Chestguard","op":"replace"}]

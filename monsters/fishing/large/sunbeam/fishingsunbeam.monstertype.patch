@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peixe sem mandíbula, muitas vezes procurada pela forma que suas escamas brilham na luz solar.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Pink Sunbeam",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peixe sem mand\u00edbula, muitas vezes procurada pela forma que suas escamas brilham na luz solar.","op":"replace"},{"path":"/shortdescription","value":"Pink Sunbeam","op":"replace"}]

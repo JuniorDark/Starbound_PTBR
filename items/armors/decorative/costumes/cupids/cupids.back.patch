@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cupid's Wings",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Asas de cupido podem não ser suficientemente fortes para suportar seu peso.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Cupid's Wings","op":"replace"},{"path":"/description","value":"Asas de cupido podem n\u00e3o ser suficientemente fortes para suportar seu peso.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um pedaço de corda. Útil para escalada e amarrar as coisas juntas!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Rope",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peda\u00e7o de corda. \u00datil para escalada e amarrar as coisas juntas!","op":"replace"},{"path":"/shortdescription","value":"Rope","op":"replace"}]

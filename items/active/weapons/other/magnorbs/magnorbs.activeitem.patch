@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Magnorbs",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Braçadeiras magnéticas especializadas para arremessar e pegar esferas especialmente projetada.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Magnorbs","op":"replace"},{"path":"/description","value":"Bra\u00e7adeiras magn\u00e9ticas especializadas para arremessar e pegar esferas especialmente projetada.","op":"replace"}]

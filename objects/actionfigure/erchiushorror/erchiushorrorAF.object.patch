@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Erchius Horror Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"Uma aberração parasita crescida de dentro de cristais de Erchius.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Erchius Horror Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"Uma aberra\u00e7\u00e3o parasita crescida de dentro de cristais de Erchius.\"","op":"replace"}]

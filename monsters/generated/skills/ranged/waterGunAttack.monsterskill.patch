@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "ARMA DE ÁGUA",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"ARMA DE \u00c1GUA","op":"replace"}]

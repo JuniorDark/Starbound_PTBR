@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Estes trapos vão fazer você parecer um cara divertido!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Wild Fungus Rags",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Estes trapos v\u00e3o fazer voc\u00ea parecer um cara divertido!","op":"replace"},{"path":"/shortdescription","value":"Wild Fungus Rags","op":"replace"}]

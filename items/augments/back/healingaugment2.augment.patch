@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um módulo de EPP que restaura sua vida ao longo do tempo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Healing II Augment",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um m\u00f3dulo de EPP que restaura sua vida ao longo do tempo.","op":"replace"},{"path":"/shortdescription","value":"Healing II Augment","op":"replace"}]

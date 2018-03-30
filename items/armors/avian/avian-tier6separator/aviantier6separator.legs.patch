@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Esta tanga de violium é reforçada com solarium, permitindo o movimento enquanto ainda protege as pernas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Toucan Loincloth",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Esta tanga de violium \u00e9 refor\u00e7ada com solarium, permitindo o movimento enquanto ainda protege as pernas.","op":"replace"},{"path":"/shortdescription","value":"Toucan Loincloth","op":"replace"}]

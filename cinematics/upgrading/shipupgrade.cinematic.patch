@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "MELHORANDO A NAVE...",
-    "path": "/panels/1/text"
-  }
-]
+[{"path":"/panels/1/text","value":"MELHORANDO A NAVE...","op":"replace"}]

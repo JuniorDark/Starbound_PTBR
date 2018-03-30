@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Raven's Beak",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Reforçado com solarium puro, esta bela obra de arte usável pode invocar alegria ou medo em quem vê.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Raven's Beak","op":"replace"},{"path":"/description","value":"Refor\u00e7ado com solarium puro, esta bela obra de arte us\u00e1vel pode invocar alegria ou medo em quem v\u00ea.","op":"replace"}]

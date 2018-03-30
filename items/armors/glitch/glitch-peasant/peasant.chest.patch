@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma camisa de camponês suja e desgastada.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Peasant Shirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma camisa de campon\u00eas suja e desgastada.","op":"replace"},{"path":"/shortdescription","value":"Peasant Shirt","op":"replace"}]

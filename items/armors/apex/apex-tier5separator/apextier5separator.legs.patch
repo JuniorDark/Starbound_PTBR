@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um elegante conjunto de calças e botas que são leves o suficiente para o utilizador fazer uma fuga rápida.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Assassin's Trousers",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um elegante conjunto de cal\u00e7as e botas que s\u00e3o leves o suficiente para o utilizador fazer uma fuga r\u00e1pida.","op":"replace"},{"path":"/shortdescription","value":"Assassin's Trousers","op":"replace"}]

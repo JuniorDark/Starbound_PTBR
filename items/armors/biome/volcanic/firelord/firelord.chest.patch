@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Fire Lord's Breastplate",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este peitoral é dito ser forjado no núcleo de estrelas mortas por seres poderosos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Fire Lord's Breastplate","op":"replace"},{"path":"/description","value":"Este peitoral \u00e9 dito ser forjado no n\u00facleo de estrelas mortas por seres poderosos.","op":"replace"}]

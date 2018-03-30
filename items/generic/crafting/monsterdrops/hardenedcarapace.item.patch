@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um fragmento de uma concha orgânica resistente. Pode ser usada para fabricação.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hardened Carapace",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um fragmento de uma concha org\u00e2nica resistente. Pode ser usada para fabrica\u00e7\u00e3o.","op":"replace"},{"path":"/shortdescription","value":"Hardened Carapace","op":"replace"}]

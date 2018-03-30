@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Eyeball Skirt",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta saia tudo-em-uma possui um olho vivo gigante. Arrepiante.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Eyeball Skirt","op":"replace"},{"path":"/description","value":"Esta saia tudo-em-uma possui um olho vivo gigante. Arrepiante.","op":"replace"}]

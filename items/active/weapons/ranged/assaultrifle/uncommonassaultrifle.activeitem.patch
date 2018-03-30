@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um rifle de nível militar totalmente automático.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Uncommon Assault Rifle",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um rifle de n\u00edvel militar totalmente autom\u00e1tico.","op":"replace"},{"path":"/shortdescription","value":"Uncommon Assault Rifle","op":"replace"}]

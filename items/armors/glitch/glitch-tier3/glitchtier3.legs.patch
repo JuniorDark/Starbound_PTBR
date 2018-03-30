@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Knight's Tassets",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Os tassets de um cavaleiro protegem as coxas de um guerreiro.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Knight's Tassets","op":"replace"},{"path":"/description","value":"Os tassets de um cavaleiro protegem as coxas de um guerreiro.","op":"replace"}]

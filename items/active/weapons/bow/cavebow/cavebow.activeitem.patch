@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um arco de pedra pesado, quase muito rígido para sacar.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Rock Bow",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um arco de pedra pesado, quase muito r\u00edgido para sacar.","op":"replace"},{"path":"/shortdescription","value":"Rock Bow","op":"replace"}]

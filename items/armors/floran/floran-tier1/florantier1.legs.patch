@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Tornozeleiras que permitem que Florans jovens tire força do sol.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Sprout's Anklets",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Tornozeleiras que permitem que Florans jovens tire for\u00e7a do sol.","op":"replace"},{"path":"/shortdescription","value":"Sprout's Anklets","op":"replace"}]

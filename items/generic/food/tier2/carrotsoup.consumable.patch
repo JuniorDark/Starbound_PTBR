@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Carrot Soup",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Cremosa, deliciosa, nutritiva!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Carrot Soup","op":"replace"},{"path":"/description","value":"Cremosa, deliciosa, nutritiva!","op":"replace"}]

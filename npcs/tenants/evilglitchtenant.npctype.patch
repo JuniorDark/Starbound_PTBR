@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Animado. Eu tenho muita raiva interior, que estou ansioso para expressar com o meu machado.",
-    "path": "/scriptConfig/dialog/converse/glitch/default/1"
-  },
-  {
-    "op": "replace",
-    "value": "Impaciente. Faz tempo que eu não arranco algumas cabeças.",
-    "path": "/scriptConfig/dialog/converse/glitch/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/glitch/default/1","value":"Animado. Eu tenho muita raiva interior, que estou ansioso para expressar com o meu machado.","op":"replace"},{"path":"/scriptConfig/dialog/converse/glitch/default/0","value":"Impaciente. Faz tempo que eu n\u00e3o arranco algumas cabe\u00e7as.","op":"replace"}]

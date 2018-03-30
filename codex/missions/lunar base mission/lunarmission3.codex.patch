@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Diretrizes amigáveis da Corporação Letheia para todos os seus empregados.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Diretrizes da Corporação Letheia",
-    "path": "/title"
-  },
-  {
-    "op": "replace",
-    "value": "Pedimos gentilmente aos empregados:\n\n1. Use o equipamento de segurança adequado em todos os momentos\n\n2. Comporte-se adequadamente e de forma profissional\n\n3. Relate ocorrências desconhecidas para o QG Letheia antes de se aproximar da gestão no local\n\n4. Tenha um bom dia",
-    "path": "/contentPages/0"
-  }
-]
+[{"path":"/description","value":"Diretrizes amig\u00e1veis da Corpora\u00e7\u00e3o Letheia para todos os seus empregados.","op":"replace"},{"path":"/title","value":"Diretrizes da Corpora\u00e7\u00e3o Letheia","op":"replace"},{"path":"/contentPages/0","value":"Pedimos gentilmente aos empregados:\n\n1. Use o equipamento de seguran\u00e7a adequado em todos os momentos\n\n2. Comporte-se adequadamente e de forma profissional\n\n3. Relate ocorr\u00eancias desconhecidas para o QG Letheia antes de se aproximar da gest\u00e3o no local\n\n4. Tenha um bom dia","op":"replace"}]

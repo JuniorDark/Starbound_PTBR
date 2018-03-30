@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral meio que faz você querer amarrar uma donzela a uma ferrovia.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Varmint's Plate",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral meio que faz voc\u00ea querer amarrar uma donzela a uma ferrovia.","op":"replace"},{"path":"/shortdescription","value":"Varmint's Plate","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Snowskater",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "As pontas de suas pernas estão cobertas de neve.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Snowskater","op":"replace"},{"path":"/description","value":"As pontas de suas pernas est\u00e3o cobertas de neve.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um cogumelo. Eu poderia fazer algumas coisas com bastante destes.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Mushroom",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um cogumelo. Eu poderia fazer algumas coisas com bastante destes.","op":"replace"},{"path":"/shortdescription","value":"Mushroom","op":"replace"}]

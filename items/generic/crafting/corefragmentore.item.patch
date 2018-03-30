@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Core Fragment",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Estes cristais que ocorrem naturalmente produzem energia.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Core Fragment","op":"replace"},{"path":"/description","value":"Estes cristais que ocorrem naturalmente produzem energia.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cresce boltbulb! Surpreendentemente macio.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Boltbulb",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Boltbulb! Surpreendentemente macio.","op":"replace"},{"path":"/shortdescription","value":"Boltbulb","op":"replace"}]

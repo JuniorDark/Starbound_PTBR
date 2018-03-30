@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um pergaminho comicamente grande. Dentro dele diz, 'A pessoa que veste isto quer que todos saibam que eles são um bruxo.'",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Magic Scroll",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um pergaminho comicamente grande. Dentro dele diz, 'A pessoa que veste isto quer que todos saibam que eles s\u00e3o um bruxo.'","op":"replace"},{"path":"/shortdescription","value":"Magic Scroll","op":"replace"}]

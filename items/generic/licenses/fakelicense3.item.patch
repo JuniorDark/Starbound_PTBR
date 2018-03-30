@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Fake Falcon License",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Permite você atualizar permanentemente o tamanho da sua nave.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Fake Falcon License","op":"replace"},{"path":"/description","value":"Permite voc\u00ea atualizar permanentemente o tamanho da sua nave.","op":"replace"}]

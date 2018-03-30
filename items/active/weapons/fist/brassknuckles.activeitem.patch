@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Brass Knuckles",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "É difícil de quebrar esses nós dos dedos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Brass Knuckles","op":"replace"},{"path":"/description","value":"\u00c9 dif\u00edcil de quebrar esses n\u00f3s dos dedos.","op":"replace"}]

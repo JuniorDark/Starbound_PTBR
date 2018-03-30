@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bottled Water",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Água limpa e fresca. Tranquilizante e rejuvenescedora.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Bottled Water","op":"replace"},{"path":"/description","value":"\u00c1gua limpa e fresca. Tranquilizante e rejuvenescedora.","op":"replace"}]

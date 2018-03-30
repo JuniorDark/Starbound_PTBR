@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Vísceras de dirturchin enfiadas em um coralcreep para fazer um prato que soa terrível e tem um gosto bom.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Soggy Sack",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"V\u00edsceras de dirturchin enfiadas em um coralcreep para fazer um prato que soa terr\u00edvel e tem um gosto bom.","op":"replace"},{"path":"/shortdescription","value":"Soggy Sack","op":"replace"}]

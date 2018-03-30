@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Armadura de perna decorativa, reservada apenas para indivíduos de grande valor.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Premier Greaves",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Armadura de perna decorativa, reservada apenas para indiv\u00edduos de grande valor.","op":"replace"},{"path":"/shortdescription","value":"Premier Greaves","op":"replace"}]

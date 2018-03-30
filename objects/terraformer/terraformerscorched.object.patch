@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Scorched Terraformer",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Transforma o clima de um planeta em um deserto empoeirado e apocalíptico.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Scorched Terraformer","op":"replace"},{"path":"/description","value":"Transforma o clima de um planeta em um deserto empoeirado e apocal\u00edptico.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Electronium Hat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Eu me sinto mais inteligente apenas vestindo esta coisa",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Electronium Hat","op":"replace"},{"path":"/description","value":"Eu me sinto mais inteligente apenas vestindo esta coisa","op":"replace"}]

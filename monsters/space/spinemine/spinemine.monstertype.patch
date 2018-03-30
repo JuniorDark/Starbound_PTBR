@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Explode sempre que encontra alguém novo. Ninguém sabe como elas já não estão extintas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Spinemine",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Explode sempre que encontra algu\u00e9m novo. Ningu\u00e9m sabe como elas j\u00e1 n\u00e3o est\u00e3o extintas.","op":"replace"},{"path":"/shortdescription","value":"Spinemine","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "T Junction Vertical Piece Background",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "T Junction Vertical Piece Background",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"T Junction Vertical Piece Background","op":"replace"},{"path":"/shortdescription","value":"T Junction Vertical Piece Background","op":"replace"}]

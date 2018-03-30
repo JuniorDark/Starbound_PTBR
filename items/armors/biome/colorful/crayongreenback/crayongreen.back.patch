@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um giz de cera verde. Equipe para trazer um pouco de cor para sua roupa.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Green Crayon",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um giz de cera verde. Equipe para trazer um pouco de cor para sua roupa.","op":"replace"},{"path":"/shortdescription","value":"Green Crayon","op":"replace"}]

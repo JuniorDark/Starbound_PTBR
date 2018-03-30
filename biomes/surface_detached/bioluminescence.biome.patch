@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bioluminescência",
-    "path": "/friendlyName"
-  }
-]
+[{"path":"/friendlyName","value":"Bioluminesc\u00eancia","op":"replace"}]

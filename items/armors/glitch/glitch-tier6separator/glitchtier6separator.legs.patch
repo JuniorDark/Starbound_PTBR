@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Doom Lord's Greaves",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O barulho que essas calças faz vai assombrar os sonhos de seu inimigo.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Doom Lord's Greaves","op":"replace"},{"path":"/description","value":"O barulho que essas cal\u00e7as faz vai assombrar os sonhos de seu inimigo.","op":"replace"}]

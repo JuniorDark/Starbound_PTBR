@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ei, sou Jay. Ouvi falar que a Terra foi destruída? Isso é uma má notícia.",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Ei, sou Jay. Ouvi falar que a Terra foi destru\u00edda? Isso \u00e9 uma m\u00e1 not\u00edcia.","op":"replace"}]

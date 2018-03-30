@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "VARREDURA PLASMÁTICA",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"VARREDURA PLASM\u00c1TICA","op":"replace"}]

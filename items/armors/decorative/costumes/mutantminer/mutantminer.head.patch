@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um capacete viscoso que faz você parecer um Moontant.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Mutant Miner's Helmet",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um capacete viscoso que faz voc\u00ea parecer um Moontant.","op":"replace"},{"path":"/shortdescription","value":"Mutant Miner's Helmet","op":"replace"}]

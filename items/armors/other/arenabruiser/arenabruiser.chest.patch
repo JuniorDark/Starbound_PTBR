@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bruiser's Chestpiece",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta armadura e ombros imponentes são principalmente para exibição.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Bruiser's Chestpiece","op":"replace"},{"path":"/description","value":"Esta armadura e ombros imponentes s\u00e3o principalmente para exibi\u00e7\u00e3o.","op":"replace"}]

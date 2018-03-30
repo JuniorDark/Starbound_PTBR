@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Petricub",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Ele olha para você com expectativa com seus olhos redondos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Petricub","op":"replace"},{"path":"/description","value":"Ele olha para voc\u00ea com expectativa com seus olhos redondos.","op":"replace"}]

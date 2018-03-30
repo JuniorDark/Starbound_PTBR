@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bomba Inimiga",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Bomba Inimiga","op":"replace"}]

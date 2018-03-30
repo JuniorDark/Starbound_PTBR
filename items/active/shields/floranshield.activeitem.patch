@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Floran Shield",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Essas folhas são surpreendentemente resistentes.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Floran Shield","op":"replace"},{"path":"/description","value":"Essas folhas s\u00e3o surpreendentemente resistentes.","op":"replace"}]

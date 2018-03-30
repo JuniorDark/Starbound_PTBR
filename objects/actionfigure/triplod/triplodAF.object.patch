@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"Ele te observa através de suas lentes grandes.\"",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Triplod Figurine",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"A etiqueta diz, \"Ele te observa atrav\u00e9s de suas lentes grandes.\"","op":"replace"},{"path":"/shortdescription","value":"Triplod Figurine","op":"replace"}]

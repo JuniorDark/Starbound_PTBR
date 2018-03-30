@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um módulo de EPP que faz você ser altamente resistente a fogo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Fire Resist Augment",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um m\u00f3dulo de EPP que faz voc\u00ea ser altamente resistente a fogo.","op":"replace"},{"path":"/shortdescription","value":"Fire Resist Augment","op":"replace"}]

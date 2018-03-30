@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Seeker's Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Estas calças contam o número de passos que você da através de circuitos sofisticados. Por quê? Por que não.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Seeker's Trousers","op":"replace"},{"path":"/description","value":"Estas cal\u00e7as contam o n\u00famero de passos que voc\u00ea da atrav\u00e9s de circuitos sofisticados. Por qu\u00ea? Por que n\u00e3o.","op":"replace"}]

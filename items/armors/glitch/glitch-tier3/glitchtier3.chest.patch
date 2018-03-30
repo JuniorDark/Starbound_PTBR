@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Entre no campo de batalha com confiança, envolta deste pesado peitoral de titânio.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Knight's Breastplate",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Entre no campo de batalha com confian\u00e7a, envolta deste pesado peitoral de tit\u00e2nio.","op":"replace"},{"path":"/shortdescription","value":"Knight's Breastplate","op":"replace"}]

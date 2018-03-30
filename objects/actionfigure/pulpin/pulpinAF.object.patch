@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pulpin Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"Ele tem uma textura pegajosa que permite subir superfícies com facilidade.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Pulpin Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"Ele tem uma textura pegajosa que permite subir superf\u00edcies com facilidade.\"","op":"replace"}]

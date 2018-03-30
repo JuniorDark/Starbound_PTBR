@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Formado de tecidos respiráveis e costura dupla para durabilidade.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Neo Chestpiece",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Formado de tecidos respir\u00e1veis e costura dupla para durabilidade.","op":"replace"},{"path":"/shortdescription","value":"Neo Chestpiece","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Rice",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Arroz. Grãos da bondade.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Rice","op":"replace"},{"path":"/description","value":"Arroz. Gr\u00e3os da bondade.","op":"replace"}]

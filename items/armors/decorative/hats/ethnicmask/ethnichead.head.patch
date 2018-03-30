@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma grande máscara tribal.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tribal Mask",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma grande m\u00e1scara tribal.","op":"replace"},{"path":"/shortdescription","value":"Tribal Mask","op":"replace"}]

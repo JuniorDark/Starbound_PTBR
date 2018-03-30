@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "É bonito, mas extremamente radioativo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Plutonium Ore",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\u00c9 bonito, mas extremamente radioativo.","op":"replace"},{"path":"/shortdescription","value":"Plutonium Ore","op":"replace"}]

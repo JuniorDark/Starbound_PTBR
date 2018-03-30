@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Helicultist",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O mecanismo por trás de sua engenhoca voadora é um grande mistério.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Helicultist","op":"replace"},{"path":"/description","value":"O mecanismo por tr\u00e1s de sua engenhoca voadora \u00e9 um grande mist\u00e9rio.","op":"replace"}]

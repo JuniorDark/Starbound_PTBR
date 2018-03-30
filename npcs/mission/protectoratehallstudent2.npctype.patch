@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ansioso. Meu próprio Manipulador de Matéria. Eu mal posso esperar.",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  },
-  {
-    "op": "replace",
-    "value": "Nervoso. Meus parafusos parecem grande nisso?",
-    "path": "/scriptConfig/dialog/converse/default/default/1"
-  },
-  {
-    "op": "replace",
-    "value": "Satisfeito. Estou feliz que eu passei meu uniforme esta manhã.",
-    "path": "/scriptConfig/dialog/converse/default/default/2"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Ansioso. Meu pr\u00f3prio Manipulador de Mat\u00e9ria. Eu mal posso esperar.","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/1","value":"Nervoso. Meus parafusos parecem grande nisso?","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/2","value":"Satisfeito. Estou feliz que eu passei meu uniforme esta manh\u00e3.","op":"replace"}]

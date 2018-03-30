@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Instalação de Mineração de Erchius",
-    "path": "/speciesText/default/buttonText"
-  },
-  {
-    "op": "replace",
-    "value": "Revisite a Instalação de Mineração de Erchius",
-    "path": "/speciesText/default/repeatButtonText"
-  },
-  {
-    "op": "replace",
-    "value": "Esta Instalação é a fonte central de Cristais Erchius, quais podem atualizar o Motor FTL da sua nave.",
-    "path": "/speciesText/default/selectSpeech/text"
-  }
-]
+[{"path":"/speciesText/default/buttonText","value":"Instala\u00e7\u00e3o de Minera\u00e7\u00e3o de Erchius","op":"replace"},{"path":"/speciesText/default/repeatButtonText","value":"Revisite a Instala\u00e7\u00e3o de Minera\u00e7\u00e3o de Erchius","op":"replace"},{"path":"/speciesText/default/selectSpeech/text","value":"Esta Instala\u00e7\u00e3o \u00e9 a fonte central de Cristais Erchius, quais podem atualizar o Motor FTL da sua nave.","op":"replace"}]

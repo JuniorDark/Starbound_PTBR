@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ele usa seus chifres para atrair um parceiro. Os shows de luzes durante a época de acasalamento são espetaculares.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Narfin",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Ele usa seus chifres para atrair um parceiro. Os shows de luzes durante a \u00e9poca de acasalamento s\u00e3o espetaculares.","op":"replace"},{"path":"/shortdescription","value":"Narfin","op":"replace"}]

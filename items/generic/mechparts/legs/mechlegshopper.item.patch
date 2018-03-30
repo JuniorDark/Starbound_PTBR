@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um conjunto de pernas de mecha de qualidade média projetadas para pular.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hopper Mech Legs",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um conjunto de pernas de mecha de qualidade m\u00e9dia projetadas para pular.","op":"replace"},{"path":"/shortdescription","value":"Hopper Mech Legs","op":"replace"}]

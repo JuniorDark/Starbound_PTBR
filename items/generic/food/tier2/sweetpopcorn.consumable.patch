@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Milho recentemente estourado, com uma cobertura amanteigada doce.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Sweet Popcorn",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Milho recentemente estourado, com uma cobertura amanteigada doce.","op":"replace"},{"path":"/shortdescription","value":"Sweet Popcorn","op":"replace"}]

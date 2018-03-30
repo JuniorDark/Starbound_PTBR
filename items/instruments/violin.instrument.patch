@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um violino. Não se curve ainda.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Violin",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um violino. N\u00e3o se curve ainda.","op":"replace"},{"path":"/shortdescription","value":"Violin","op":"replace"}]

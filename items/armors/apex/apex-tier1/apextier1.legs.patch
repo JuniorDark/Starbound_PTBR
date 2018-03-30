@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Defector's Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Calças e botas que permitem flexibilidade, enquanto continua a fornecer proteção contra os elementos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Defector's Trousers","op":"replace"},{"path":"/description","value":"Cal\u00e7as e botas que permitem flexibilidade, enquanto continua a fornecer prote\u00e7\u00e3o contra os elementos.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Paratail Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"Durante tempestades ele se prende a árvores para não ser soprado pra longe.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Paratail Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"Durante tempestades ele se prende a \u00e1rvores para n\u00e3o ser soprado pra longe.\"","op":"replace"}]

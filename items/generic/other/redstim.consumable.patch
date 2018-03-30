@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma injeção de estimulante cheia de líquido vermelho, concede uma regeneração breve, mas poderosa!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Red Stim Pack",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma inje\u00e7\u00e3o de estimulante cheia de l\u00edquido vermelho, concede uma regenera\u00e7\u00e3o breve, mas poderosa!","op":"replace"},{"path":"/shortdescription","value":"Red Stim Pack","op":"replace"}]

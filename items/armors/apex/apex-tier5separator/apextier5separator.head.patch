@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Assassin's Mask",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Chapelaria projetada para disfarçar discretamente o utilizador.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Assassin's Mask","op":"replace"},{"path":"/description","value":"Chapelaria projetada para disfar\u00e7ar discretamente o utilizador.","op":"replace"}]

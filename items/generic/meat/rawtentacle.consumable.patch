@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um tentáculo cru. Pode ser mais comestível se ele for cozido...",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Raw Tentacle",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um tent\u00e1culo cru. Pode ser mais comest\u00edvel se ele for cozido...","op":"replace"},{"path":"/shortdescription","value":"Raw Tentacle","op":"replace"}]

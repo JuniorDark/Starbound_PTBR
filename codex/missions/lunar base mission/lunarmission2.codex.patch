@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Falha na Comunicação",
-    "path": "/title"
-  },
-  {
-    "op": "replace",
-    "value": "TRANSCRITO IMPRESSO # 013:\n\nEsta é Lunar 12 para QG Letheia. ... Nós temos uma emergência QG - algum tipo de monstro! Entrou QG! ... O que está acontecendo!? QG, você pode me ouv-\n\n^yellow;[INTERROMPIDO] Esta é a resposta de chamada automática Letheia. A Corporação Letheia está ciente de sua situação. As comunicações de saída da \"Base Lunar 12\" foram encerradas. Esperamos que você tenha um bom dia.",
-    "path": "/contentPages/0"
-  },
-  {
-    "op": "replace",
-    "value": "A transcrição de uma mensagem de rádio de saída falhada com resposta de bloqueio automático.",
-    "path": "/description"
-  }
-]
+[{"path":"/title","value":"Falha na Comunica\u00e7\u00e3o","op":"replace"},{"path":"/contentPages/0","value":"TRANSCRITO IMPRESSO # 013:\n\nEsta \u00e9 Lunar 12 para QG Letheia. ... N\u00f3s temos uma emerg\u00eancia QG - algum tipo de monstro! Entrou QG! ... O que est\u00e1 acontecendo!? QG, voc\u00ea pode me ouv-\n\n^yellow;[INTERROMPIDO] Esta \u00e9 a resposta de chamada autom\u00e1tica Letheia. A Corpora\u00e7\u00e3o Letheia est\u00e1 ciente de sua situa\u00e7\u00e3o. As comunica\u00e7\u00f5es de sa\u00edda da \"Base Lunar 12\" foram encerradas. Esperamos que voc\u00ea tenha um bom dia.","op":"replace"},{"path":"/description","value":"A transcri\u00e7\u00e3o de uma mensagem de r\u00e1dio de sa\u00edda falhada com resposta de bloqueio autom\u00e1tico.","op":"replace"}]

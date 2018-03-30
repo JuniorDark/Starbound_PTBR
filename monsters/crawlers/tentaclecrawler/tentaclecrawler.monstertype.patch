@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Os espinhos afiados podem penetrar qualquer bota espacial.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "tentaclecrawler",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Os espinhos afiados podem penetrar qualquer bota espacial.","op":"replace"},{"path":"/shortdescription","value":"tentaclecrawler","op":"replace"}]

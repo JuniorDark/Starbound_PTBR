@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Arroz frito delicioso com cogumelos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Mushroom Rice",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Arroz frito delicioso com cogumelos.","op":"replace"},{"path":"/shortdescription","value":"Mushroom Rice","op":"replace"}]

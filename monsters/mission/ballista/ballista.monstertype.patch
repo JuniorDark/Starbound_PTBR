@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ballista",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Não fique muito perto ou você pode ficar frustrado",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Ballista","op":"replace"},{"path":"/description","value":"N\u00e3o fique muito perto ou voc\u00ea pode ficar frustrado","op":"replace"}]

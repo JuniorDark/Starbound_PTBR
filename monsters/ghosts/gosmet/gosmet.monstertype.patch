@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Gosmet",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Essas criaturas têm corpos etéreos que eles transformam em armadura quando ameaçados.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Gosmet","op":"replace"},{"path":"/description","value":"Essas criaturas t\u00eam corpos et\u00e9reos que eles transformam em armadura quando amea\u00e7ados.","op":"replace"}]

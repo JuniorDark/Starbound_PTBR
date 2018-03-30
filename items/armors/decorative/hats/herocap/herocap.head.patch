@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Hero's Cap",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Diz-se que esta touca pertenceu a um herói da lenda.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Hero's Cap","op":"replace"},{"path":"/description","value":"Diz-se que esta touca pertenceu a um her\u00f3i da lenda.","op":"replace"}]

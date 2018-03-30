@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Basic Mech Boosters",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Propulsores de mecha produzidos em massa, com anexos externos de tanque de combustível.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Basic Mech Boosters","op":"replace"},{"path":"/description","value":"Propulsores de mecha produzidos em massa, com anexos externos de tanque de combust\u00edvel.","op":"replace"}]

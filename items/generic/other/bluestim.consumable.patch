@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma injeção de estimulante cheia de líquido azul, que dá uma melhoria no seu pulo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Blue Stim Pack",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma inje\u00e7\u00e3o de estimulante cheia de l\u00edquido azul, que d\u00e1 uma melhoria no seu pulo.","op":"replace"},{"path":"/shortdescription","value":"Blue Stim Pack","op":"replace"}]

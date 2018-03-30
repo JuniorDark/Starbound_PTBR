@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Resistençia ao Frio",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"Resisten\u00e7ia ao Frio","op":"replace"}]

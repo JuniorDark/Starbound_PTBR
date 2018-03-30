@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma mistura suave de café e chocolate quente.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Mochaccino",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma mistura suave de caf\u00e9 e chocolate quente.","op":"replace"},{"path":"/shortdescription","value":"Mochaccino","op":"replace"}]

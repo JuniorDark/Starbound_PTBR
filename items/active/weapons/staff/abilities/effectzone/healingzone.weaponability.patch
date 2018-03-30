@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Zona de Cura",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Zona de Cura","op":"replace"}]

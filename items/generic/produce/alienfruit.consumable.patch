@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Alien Fruit",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Uma fruta alienígena, muito suculenta.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Alien Fruit","op":"replace"},{"path":"/description","value":"Uma fruta alien\u00edgena, muito suculenta.","op":"replace"}]

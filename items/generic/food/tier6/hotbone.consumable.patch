@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Boneboo assado com pimentas faz um picante e crocante deleite Floran.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hot Bone",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Boneboo assado com pimentas faz um picante e crocante deleite Floran.","op":"replace"},{"path":"/shortdescription","value":"Hot Bone","op":"replace"}]

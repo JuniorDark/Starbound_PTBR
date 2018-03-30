@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Mutant Terraformer",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Transforma o clima de um planeta em um ecossistema alienígena estranhamente mutante.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Mutant Terraformer","op":"replace"},{"path":"/description","value":"Transforma o clima de um planeta em um ecossistema alien\u00edgena estranhamente mutante.","op":"replace"}]

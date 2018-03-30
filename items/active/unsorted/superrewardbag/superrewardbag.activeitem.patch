@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Use isso para abri-lo e revelar o seu conteúdo. Que exitante!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Special Reward",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Use isso para abri-lo e revelar o seu conte\u00fado. Que exitante!","op":"replace"},{"path":"/shortdescription","value":"Special Reward","op":"replace"}]

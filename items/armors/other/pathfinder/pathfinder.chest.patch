@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pathfinder's Chestpiece",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta armadura é normalmente usada por exploradores, encarregado de explorar ambientes inóspitos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Pathfinder's Chestpiece","op":"replace"},{"path":"/description","value":"Esta armadura \u00e9 normalmente usada por exploradores, encarregado de explorar ambientes in\u00f3spitos.","op":"replace"}]

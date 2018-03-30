@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Mech bay piece background",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Mech bay piece background",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Mech bay piece background","op":"replace"},{"path":"/shortdescription","value":"Mech bay piece background","op":"replace"}]

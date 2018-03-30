@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um oboé. Esta muito empoeirado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Oboe",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um obo\u00e9. Esta muito empoeirado.","op":"replace"},{"path":"/shortdescription","value":"Oboe","op":"replace"}]

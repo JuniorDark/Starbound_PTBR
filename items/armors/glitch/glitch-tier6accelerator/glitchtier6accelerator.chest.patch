@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral forte, formado por chapeamento de solarium polido.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Legionnaire's Breastplate",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral forte, formado por chapeamento de solarium polido.","op":"replace"},{"path":"/shortdescription","value":"Legionnaire's Breastplate","op":"replace"}]

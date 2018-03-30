@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma medida do óleo pegajoso não refinado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Oil",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma medida do \u00f3leo pegajoso n\u00e3o refinado.","op":"replace"},{"path":"/shortdescription","value":"Oil","op":"replace"}]

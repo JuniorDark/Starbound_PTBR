@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "É solarium. É quente ao toque.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Solarium Ore",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\u00c9 solarium. \u00c9 quente ao toque.","op":"replace"},{"path":"/shortdescription","value":"Solarium Ore","op":"replace"}]

@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Culinária",
-    "path": "/title"
-  }
-]
+[{"path":"/title","value":"Culin\u00e1ria","op":"replace"}]

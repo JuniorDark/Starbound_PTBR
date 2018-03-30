@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um capuz grande, com as orelhas pontudas unidas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hood With Ears",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um capuz grande, com as orelhas pontudas unidas.","op":"replace"},{"path":"/shortdescription","value":"Hood With Ears","op":"replace"}]

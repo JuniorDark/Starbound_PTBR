@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "DISPARO DE GELO",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"DISPARO DE GELO","op":"replace"}]

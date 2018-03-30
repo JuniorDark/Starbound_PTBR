@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Água de pântano suja.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"\u00c1gua de p\u00e2ntano suja.","op":"replace"}]

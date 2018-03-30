@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Calças de imensa força e tonalidade sanguínea.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Templar's Greaves",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Cal\u00e7as de imensa for\u00e7a e tonalidade sangu\u00ednea.","op":"replace"},{"path":"/shortdescription","value":"Templar's Greaves","op":"replace"}]

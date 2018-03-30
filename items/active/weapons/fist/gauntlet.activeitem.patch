@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Gauntlet",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Gauntlet ^yellow;^reset;",
-    "path": "/upgradeParameters/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Perfeita para iniciar um duelo.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Gauntlet","op":"replace"},{"path":"/upgradeParameters/shortdescription","value":"Gauntlet ^yellow;\ue024^reset;","op":"replace"},{"path":"/description","value":"Perfeita para iniciar um duelo.","op":"replace"}]

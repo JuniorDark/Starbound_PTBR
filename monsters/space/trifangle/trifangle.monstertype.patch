@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma máquina espacial agressiva e pontuda. Eles têm personalidades individuais - eles estão todos unicamente irritados.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Trifangle",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma m\u00e1quina espacial agressiva e pontuda. Eles t\u00eam personalidades individuais - eles est\u00e3o todos unicamente irritados.","op":"replace"},{"path":"/shortdescription","value":"Trifangle","op":"replace"}]

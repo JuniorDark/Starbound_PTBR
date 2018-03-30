@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Lumoth Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"A lâmpada só permanece acesa enquanto o Lumoth bate suas asas.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Lumoth Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"A l\u00e2mpada s\u00f3 permanece acesa enquanto o Lumoth bate suas asas.\"","op":"replace"}]

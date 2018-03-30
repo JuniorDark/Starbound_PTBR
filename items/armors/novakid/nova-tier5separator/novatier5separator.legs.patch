@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Folgada e durável, para todas as suas necessidades de varmint.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Varmint's Pants",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Folgada e dur\u00e1vel, para todas as suas necessidades de varmint.","op":"replace"},{"path":"/shortdescription","value":"Varmint's Pants","op":"replace"}]

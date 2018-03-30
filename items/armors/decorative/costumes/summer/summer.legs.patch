@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Summer Dress",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O vestido perfeito para todas as festividades de verão.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Summer Dress","op":"replace"},{"path":"/description","value":"O vestido perfeito para todas as festividades de ver\u00e3o.","op":"replace"}]

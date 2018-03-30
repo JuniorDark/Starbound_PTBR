@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ninguém sabe de onde este braço de mecha metralhadora obteve seu nome.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tommy Gun Mech Arm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Ningu\u00e9m sabe de onde este bra\u00e7o de mecha metralhadora obteve seu nome.","op":"replace"},{"path":"/shortdescription","value":"Tommy Gun Mech Arm","op":"replace"}]

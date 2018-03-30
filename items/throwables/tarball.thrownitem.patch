@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ser atingido por uma destas é pegajoso.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tarball",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Ser atingido por uma destas \u00e9 pegajoso.","op":"replace"},{"path":"/shortdescription","value":"Tarball","op":"replace"}]

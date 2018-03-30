@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Propulsores de mecha veloz de alcance médio que são moldados em forma de letra Z.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Zed Mech Boosters",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Propulsores de mecha veloz de alcance m\u00e9dio que s\u00e3o moldados em forma de letra Z.","op":"replace"},{"path":"/shortdescription","value":"Zed Mech Boosters","op":"replace"}]

@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Acidentalmente formada a partir de uma espada no fundo do oceano durante uma explosão de um acelerador de partículas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hokucide",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Hokucide ^yellow;^reset;",
-    "path": "/upgradeParameters/shortdescription"
-  }
-]
+[{"path":"/description","value":"Acidentalmente formada a partir de uma espada no fundo do oceano durante uma explos\u00e3o de um acelerador de part\u00edculas.","op":"replace"},{"path":"/shortdescription","value":"Hokucide","op":"replace"},{"path":"/upgradeParameters/shortdescription","value":"Hokucide ^yellow;\ue024^reset;","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um tufo de fibra de algodão natural.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Cotton Fibre",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um tufo de fibra de algod\u00e3o natural.","op":"replace"},{"path":"/shortdescription","value":"Cotton Fibre","op":"replace"}]

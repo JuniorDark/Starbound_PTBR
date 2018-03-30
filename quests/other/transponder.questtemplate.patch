@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Aqui esta o seu próprio ^orange;Station Transponder^white;! ^green;Use-o em sua nave^white; para implantar uma estação espacial em seu sistema estelar local!",
-    "path": "/completionText"
-  },
-  {
-    "op": "replace",
-    "value": "Você gostaria de implantar sua própria estação espacial? Eu posso criar para você seu próprio ^orange;Station Transponder^white;, e tudo o que será necessário são alguns recursos! \nSimplesmente ^green;traga 50 ^orange;Titanium Bars^white;, ^green;50 ^orange;Gold Bars^white;, ^green;50 ^orange;Silver Bars^white; e ^green;1000^orange; pixels ^green;Para mim ou para qualquer outro fornecedor de Transponder^white;!",
-    "path": "/text"
-  },
-  {
-    "op": "replace",
-    "value": "^orange;Sua Própria Estação Espacial",
-    "path": "/title"
-  }
-]
+[{"path":"/completionText","value":"Aqui esta o seu pr\u00f3prio ^orange;Station Transponder^white;! ^green;Use-o em sua nave^white; para implantar uma esta\u00e7\u00e3o espacial em seu sistema estelar local!","op":"replace"},{"path":"/text","value":"Voc\u00ea gostaria de implantar sua pr\u00f3pria esta\u00e7\u00e3o espacial? Eu posso criar para voc\u00ea seu pr\u00f3prio ^orange;Station Transponder^white;, e tudo o que ser\u00e1 necess\u00e1rio s\u00e3o alguns recursos! \nSimplesmente ^green;traga 50 ^orange;Titanium Bars^white;, ^green;50 ^orange;Gold Bars^white;, ^green;50 ^orange;Silver Bars^white; e ^green;1000^orange; pixels ^green;Para mim ou para qualquer outro fornecedor de Transponder^white;!","op":"replace"},{"path":"/title","value":"^orange;Sua Pr\u00f3pria Esta\u00e7\u00e3o Espacial","op":"replace"}]

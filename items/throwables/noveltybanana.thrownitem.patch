@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Novelty Banana",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O que temos aqui?",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Novelty Banana","op":"replace"},{"path":"/description","value":"O que temos aqui?","op":"replace"}]

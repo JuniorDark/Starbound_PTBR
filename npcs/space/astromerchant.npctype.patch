@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "  Comerciante Astro",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
-  },
-  {
-    "op": "replace",
-    "value": "  Vende mobília astro!",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
-  }
-]
+[{"path":"/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value":"  Comerciante Astro","op":"replace"},{"path":"/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value":"  Vende mob\u00edlia astro!","op":"replace"}]

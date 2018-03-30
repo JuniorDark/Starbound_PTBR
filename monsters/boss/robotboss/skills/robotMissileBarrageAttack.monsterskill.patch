@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "BARRAGEM DE MÍSSIL",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"BARRAGEM DE M\u00cdSSIL","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um colete leve, estampado com o logotipo do Protetorado Terreno.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Protectorate Vest",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um colete leve, estampado com o logotipo do Protetorado Terreno.","op":"replace"},{"path":"/shortdescription","value":"Protectorate Vest","op":"replace"}]

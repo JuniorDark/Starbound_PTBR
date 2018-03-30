@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Leite cremoso de algum animal ou vegetal alienígena.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Leite cremoso de algum animal ou vegetal alien\u00edgena.","op":"replace"}]

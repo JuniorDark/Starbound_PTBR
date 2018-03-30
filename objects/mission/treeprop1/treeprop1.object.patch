@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma bela árvore.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tree Prop",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma bela \u00e1rvore.","op":"replace"},{"path":"/shortdescription","value":"Tree Prop","op":"replace"}]

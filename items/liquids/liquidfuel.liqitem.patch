@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Substância perigosa e volátil, retirada de luas e utilizada como combustível para o FTL.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Liquid Erchius Fuel",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Subst\u00e2ncia perigosa e vol\u00e1til, retirada de luas e utilizada como combust\u00edvel para o FTL.","op":"replace"},{"path":"/shortdescription","value":"Liquid Erchius Fuel","op":"replace"}]

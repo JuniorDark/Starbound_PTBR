@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma faixa de cabeça com algumas penas grandes falsificadas no topo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Feather Headband",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma faixa de cabe\u00e7a com algumas penas grandes falsificadas no topo.","op":"replace"},{"path":"/shortdescription","value":"Feather Headband","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma capa sombria, para aqueles que preferem sombra.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Dark Cape",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma capa sombria, para aqueles que preferem sombra.","op":"replace"},{"path":"/shortdescription","value":"Dark Cape","op":"replace"}]

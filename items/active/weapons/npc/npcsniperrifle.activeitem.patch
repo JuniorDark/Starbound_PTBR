@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Poderosamente forte para cobrir longas distâncias.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "NPC Sniper Rifle",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Poderosamente forte para cobrir longas dist\u00e2ncias.","op":"replace"},{"path":"/shortdescription","value":"NPC Sniper Rifle","op":"replace"}]

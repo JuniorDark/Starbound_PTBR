@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Fluffy Ruffs",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Elas são duras e macias!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Fluffy Ruffs","op":"replace"},{"path":"/description","value":"Elas s\u00e3o duras e macias!","op":"replace"}]

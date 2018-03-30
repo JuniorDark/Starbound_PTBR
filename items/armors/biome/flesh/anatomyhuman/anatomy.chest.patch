@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Anatomy Shirt",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "É educativo! Uma camisa mostrando a musculatura do tronco.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Anatomy Shirt","op":"replace"},{"path":"/description","value":"\u00c9 educativo! Uma camisa mostrando a musculatura do tronco.","op":"replace"}]

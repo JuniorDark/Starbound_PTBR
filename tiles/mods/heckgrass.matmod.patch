@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Grama grossa e parreira.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Grama grossa e parreira.","op":"replace"}]

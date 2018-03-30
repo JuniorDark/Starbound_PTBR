@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral de tungstênio de design simples e elegante.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Pond Breastplate",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral de tungst\u00eanio de design simples e elegante.","op":"replace"},{"path":"/shortdescription","value":"Pond Breastplate","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Este peitoral reforçado poderia enfrentar um capricoat.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Wrangler's Plate",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Este peitoral refor\u00e7ado poderia enfrentar um capricoat.","op":"replace"},{"path":"/shortdescription","value":"Wrangler's Plate","op":"replace"}]

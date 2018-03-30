@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bandit Hat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Vá em incógnito neste combo de bandana-chapéu.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Bandit Hat","op":"replace"},{"path":"/description","value":"V\u00e1 em inc\u00f3gnito neste combo de bandana-chap\u00e9u.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "-50 de inteligência quando usado de lado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Cap",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"-50 de intelig\u00eancia quando usado de lado.","op":"replace"},{"path":"/shortdescription","value":"Cap","op":"replace"}]

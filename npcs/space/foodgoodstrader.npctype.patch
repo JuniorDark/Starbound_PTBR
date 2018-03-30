@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": " Comerciante de Provisões",
-    "path": "/scriptConfig/guiConfig/gui/windowtitle/title"
-  }
-]
+[{"path":"/scriptConfig/guiConfig/gui/windowtitle/title","value":" Comerciante de Provis\u00f5es","op":"replace"}]

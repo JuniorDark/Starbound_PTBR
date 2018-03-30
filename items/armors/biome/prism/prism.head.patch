@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um capacete transparente feito de um vidro gelado. Impraticável, mas elegante.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Prism Helmet",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um capacete transparente feito de um vidro gelado. Impratic\u00e1vel, mas elegante.","op":"replace"},{"path":"/shortdescription","value":"Prism Helmet","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Fennix",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Às vezes, quando perseguindo o próprio rabo ele pode acidentalmente botar fogo em si mesmo.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Fennix","op":"replace"},{"path":"/description","value":"\u00c0s vezes, quando perseguindo o pr\u00f3prio rabo ele pode acidentalmente botar fogo em si mesmo.","op":"replace"}]

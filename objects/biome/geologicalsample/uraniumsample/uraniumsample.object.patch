@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "\"Uma amostra perfeita de um minério de urânio.\"",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Uranium Sample",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\"Uma amostra perfeita de um min\u00e9rio de ur\u00e2nio.\"","op":"replace"},{"path":"/shortdescription","value":"Uranium Sample","op":"replace"}]

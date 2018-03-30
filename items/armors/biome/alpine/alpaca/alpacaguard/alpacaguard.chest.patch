@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral protetor pesado usada por guardas Alpaca.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Alpaca Real Guard Torso",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral protetor pesado usada por guardas Alpaca.","op":"replace"},{"path":"/shortdescription","value":"Alpaca Real Guard Torso","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral brilhante feito de prata.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Silver Chestpiece",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral brilhante feito de prata.","op":"replace"},{"path":"/shortdescription","value":"Silver Chestpiece","op":"replace"}]

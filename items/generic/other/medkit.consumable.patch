@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Medical Kit",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Restaura 100 de vida ao longo de 10 segundos, e cura instantaneamente a maioria dos efeitos negativos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Medical Kit","op":"replace"},{"path":"/description","value":"Restaura 100 de vida ao longo de 10 segundos, e cura instantaneamente a maioria dos efeitos negativos.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Não deve ser confundido com o infame Dreadwing.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Redwing",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"N\u00e3o deve ser confundido com o infame Dreadwing.","op":"replace"},{"path":"/shortdescription","value":"Redwing","op":"replace"}]

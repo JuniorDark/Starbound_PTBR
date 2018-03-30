@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": " Vende itens... do ESPAAAAAAÇO!",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
-  },
-  {
-    "op": "replace",
-    "value": "  Comerciante Espacial",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
-  }
-]
+[{"path":"/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value":" Vende itens... do ESPAAAAAA\u00c7O!","op":"replace"},{"path":"/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value":"  Comerciante Espacial","op":"replace"}]

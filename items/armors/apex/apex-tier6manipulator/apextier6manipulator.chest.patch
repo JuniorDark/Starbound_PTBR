@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma jaqueta rendada de solarium que oferece muito mais proteção do que o observador médio poderia suspeitar.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Usurper's Coat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma jaqueta rendada de solarium que oferece muito mais prote\u00e7\u00e3o do que o observador m\u00e9dio poderia suspeitar.","op":"replace"},{"path":"/shortdescription","value":"Usurper's Coat","op":"replace"}]

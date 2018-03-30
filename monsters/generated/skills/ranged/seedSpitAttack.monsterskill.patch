@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "SEMENTE TÓXICA",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"SEMENTE T\u00d3XICA","op":"replace"}]

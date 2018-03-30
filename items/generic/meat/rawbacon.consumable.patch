@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Raw Bacon",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Tiras cruas de bacon. Eu devo cozinhá-las primeiro, certo?",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Raw Bacon","op":"replace"},{"path":"/description","value":"Tiras cruas de bacon. Eu devo cozinh\u00e1-las primeiro, certo?","op":"replace"}]

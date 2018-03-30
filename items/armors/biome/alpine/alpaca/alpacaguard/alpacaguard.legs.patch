@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Alpaca Real Guard Legs",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Estas pernas de Alpaca chapeadas é ao mesmo tempo protetora e felpuda!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Alpaca Real Guard Legs","op":"replace"},{"path":"/description","value":"Estas pernas de Alpaca chapeadas \u00e9 ao mesmo tempo protetora e felpuda!","op":"replace"}]

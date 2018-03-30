@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma coleira que aumenta ligeiramente a vida total do seu pet.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Health I Collar",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma coleira que aumenta ligeiramente a vida total do seu pet.","op":"replace"},{"path":"/shortdescription","value":"Health I Collar","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um chicote feito de pura energia. Faça estralar!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Lucaine's Energy Whip",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um chicote feito de pura energia. Fa\u00e7a estralar!","op":"replace"},{"path":"/shortdescription","value":"Lucaine's Energy Whip","op":"replace"}]

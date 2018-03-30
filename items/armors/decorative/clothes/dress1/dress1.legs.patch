@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Elegante e ventilada!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Pleated Skirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Elegante e ventilada!","op":"replace"},{"path":"/shortdescription","value":"Pleated Skirt","op":"replace"}]

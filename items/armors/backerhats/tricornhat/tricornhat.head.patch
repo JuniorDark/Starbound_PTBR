@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Horned Tricorn",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este tricórnio extravagante vem com uma máscara facial.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Horned Tricorn","op":"replace"},{"path":"/description","value":"Este tric\u00f3rnio extravagante vem com uma m\u00e1scara facial.","op":"replace"}]

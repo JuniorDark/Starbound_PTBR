@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Deadbeat Tight Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Calças apertadas e duráveis.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Deadbeat Tight Trousers","op":"replace"},{"path":"/description","value":"Cal\u00e7as apertadas e dur\u00e1veis.","op":"replace"}]

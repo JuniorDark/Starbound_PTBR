@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Caretaker Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Umas calças de zelador amplamente cobertas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Caretaker Trousers","op":"replace"},{"path":"/description","value":"Umas cal\u00e7as de zelador amplamente cobertas.","op":"replace"}]

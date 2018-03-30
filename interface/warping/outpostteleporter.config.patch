@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Museu do Koichi",
-    "path": "/destinations/1/name"
-  },
-  {
-    "op": "replace",
-    "value": "Posto Avançado - 2 Stop Teleshop",
-    "path": "/bookmarkName"
-  },
-  {
-    "op": "replace",
-    "value": "Ir a Nave",
-    "path": "/destinations/0/name"
-  }
-]
+[{"path":"/destinations/1/name","value":"Museu do Koichi","op":"replace"},{"path":"/bookmarkName","value":"Posto Avan\u00e7ado - 2 Stop Teleshop","op":"replace"},{"path":"/destinations/0/name","value":"Ir a Nave","op":"replace"}]

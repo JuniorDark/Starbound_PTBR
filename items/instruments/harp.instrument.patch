@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma harpa. Corajoso.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Harp",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma harpa. Corajoso.","op":"replace"},{"path":"/shortdescription","value":"Harp","op":"replace"}]

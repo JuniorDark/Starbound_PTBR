@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cross piece background",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Cross piece background",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Cross piece background","op":"replace"},{"path":"/shortdescription","value":"Cross piece background","op":"replace"}]

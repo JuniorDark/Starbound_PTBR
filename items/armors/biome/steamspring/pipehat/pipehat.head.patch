@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pipe Hat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este chapéu é movido a vapor.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Pipe Hat","op":"replace"},{"path":"/description","value":"Este chap\u00e9u \u00e9 movido a vapor.","op":"replace"}]

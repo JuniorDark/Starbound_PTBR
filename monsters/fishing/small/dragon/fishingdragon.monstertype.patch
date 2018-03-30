@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Seadragon",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta criatura delicada usa as pequenas barbatanas em forma de asas nas costas para montar suaves correntes no magma fluindo.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Seadragon","op":"replace"},{"path":"/description","value":"Esta criatura delicada usa as pequenas barbatanas em forma de asas nas costas para montar suaves correntes no magma fluindo.","op":"replace"}]

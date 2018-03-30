@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Braço de depuração que apenas despawna o mecha.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Despawn Mech Arm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Bra\u00e7o de depura\u00e7\u00e3o que apenas despawna o mecha.","op":"replace"},{"path":"/shortdescription","value":"Despawn Mech Arm","op":"replace"}]

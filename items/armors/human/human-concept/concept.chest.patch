@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma jaqueta simples, no caso de ficar um pouco frio.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Casual Cardigan",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma jaqueta simples, no caso de ficar um pouco frio.","op":"replace"},{"path":"/shortdescription","value":"Casual Cardigan","op":"replace"}]

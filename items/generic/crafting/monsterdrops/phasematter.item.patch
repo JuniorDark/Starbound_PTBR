@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma substância que parece ser quase intangível. Pode ser usada para fabricação.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Phase Matter",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma subst\u00e2ncia que parece ser quase intang\u00edvel. Pode ser usada para fabrica\u00e7\u00e3o.","op":"replace"},{"path":"/shortdescription","value":"Phase Matter","op":"replace"}]

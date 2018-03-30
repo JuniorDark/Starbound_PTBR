@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Lavahopper",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta criatura minúscula salta através de lagos quentes de lava.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Lavahopper","op":"replace"},{"path":"/description","value":"Esta criatura min\u00fascula salta atrav\u00e9s de lagos quentes de lava.","op":"replace"}]

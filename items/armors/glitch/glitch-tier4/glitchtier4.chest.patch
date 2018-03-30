@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma couraça intimidante de grande força, indicativa de intenção sinistra.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Dark Knight's Breastplate",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma coura\u00e7a intimidante de grande for\u00e7a, indicativa de inten\u00e7\u00e3o sinistra.","op":"replace"},{"path":"/shortdescription","value":"Dark Knight's Breastplate","op":"replace"}]

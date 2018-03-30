@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Tecnologia Suficientemente Avançada.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Rare Wand",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Tecnologia Suficientemente Avan\u00e7ada.","op":"replace"},{"path":"/shortdescription","value":"Rare Wand","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Transforma o clima de um planeta em uma espessa floresta temperada.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Wooded Terraformer",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Transforma o clima de um planeta em uma espessa floresta temperada.","op":"replace"},{"path":"/shortdescription","value":"Wooded Terraformer","op":"replace"}]

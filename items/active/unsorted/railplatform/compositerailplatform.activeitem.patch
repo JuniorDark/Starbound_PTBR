@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Composite Rail Platform",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Uma plataforma autopropulsada que segue trilhos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Composite Rail Platform","op":"replace"},{"path":"/description","value":"Uma plataforma autopropulsada que segue trilhos.","op":"replace"}]

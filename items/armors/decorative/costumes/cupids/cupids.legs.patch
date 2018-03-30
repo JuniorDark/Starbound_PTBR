@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cupid's Diaper",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Fralda de cupido. Tem cheiro de amor!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Cupid's Diaper","op":"replace"},{"path":"/description","value":"Fralda de cupido. Tem cheiro de amor!","op":"replace"}]

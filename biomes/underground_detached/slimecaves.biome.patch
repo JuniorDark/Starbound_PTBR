@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cavernas de Gosma",
-    "path": "/friendlyName"
-  }
-]
+[{"path":"/friendlyName","value":"Cavernas de Gosma","op":"replace"}]

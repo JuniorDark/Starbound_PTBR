@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "CANHÃO DE PULSO",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"CANH\u00c3O DE PULSO","op":"replace"}]

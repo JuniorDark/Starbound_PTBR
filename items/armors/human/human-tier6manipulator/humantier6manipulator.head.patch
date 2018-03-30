@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Proteja sua cabeça enquanto você vagueia o universo - afinal, sua cabeça é onde seu cérebro está.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Wanderer's Helmet",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Proteja sua cabe\u00e7a enquanto voc\u00ea vagueia o universo - afinal, sua cabe\u00e7a \u00e9 onde seu c\u00e9rebro est\u00e1.","op":"replace"},{"path":"/shortdescription","value":"Wanderer's Helmet","op":"replace"}]

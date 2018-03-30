@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Oculemon",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Azedo mas vale a pena.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Oculemon","op":"replace"},{"path":"/description","value":"Azedo mas vale a pena.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Explorer's Lantern",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta lanterna pode ser carregada por exploradores para iluminar a área ao redor.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Explorer's Lantern","op":"replace"},{"path":"/description","value":"Esta lanterna pode ser carregada por exploradores para iluminar a \u00e1rea ao redor.","op":"replace"}]

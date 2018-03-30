@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Poison Antidote",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Protege seu corpo de venenos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Poison Antidote","op":"replace"},{"path":"/description","value":"Protege seu corpo de venenos.","op":"replace"}]

@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma espessa camada de cinza.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Uma espessa camada de cinza.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um maço de fibras de seda.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Silk Fibre",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um ma\u00e7o de fibras de seda.","op":"replace"},{"path":"/shortdescription","value":"Silk Fibre","op":"replace"}]

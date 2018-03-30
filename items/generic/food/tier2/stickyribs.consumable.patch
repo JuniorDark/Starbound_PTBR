@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Sticky Ribs",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Costelas doces e pegajosas. Delicioso!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Sticky Ribs","op":"replace"},{"path":"/description","value":"Costelas doces e pegajosas. Delicioso!","op":"replace"}]

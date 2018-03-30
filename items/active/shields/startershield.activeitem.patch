@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Basic Shield",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Um pouco mais durável do que suas mãos nuas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Basic Shield","op":"replace"},{"path":"/description","value":"Um pouco mais dur\u00e1vel do que suas m\u00e3os nuas.","op":"replace"}]

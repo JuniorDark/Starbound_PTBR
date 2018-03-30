@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Mashed Potato",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esmagar batatas é cientificamente comprovado para torná-las 500% mais saborosas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Mashed Potato","op":"replace"},{"path":"/description","value":"Esmagar batatas \u00e9 cientificamente comprovado para torn\u00e1-las 500% mais saborosas.","op":"replace"}]

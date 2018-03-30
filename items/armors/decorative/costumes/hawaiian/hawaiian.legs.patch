@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma saia havaiana, feita de palha.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hawaiian Skirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma saia havaiana, feita de palha.","op":"replace"},{"path":"/shortdescription","value":"Hawaiian Skirt","op":"replace"}]

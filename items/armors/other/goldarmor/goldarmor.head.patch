@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um capacete resistente coberto com ouro maciço.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Gold Helmet",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um capacete resistente coberto com ouro maci\u00e7o.","op":"replace"},{"path":"/shortdescription","value":"Gold Helmet","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma injeção de estimulante cheia de líquido verde, que dá uma melhoria na sua corrida.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Green Stim Pack",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma inje\u00e7\u00e3o de estimulante cheia de l\u00edquido verde, que d\u00e1 uma melhoria na sua corrida.","op":"replace"},{"path":"/shortdescription","value":"Green Stim Pack","op":"replace"}]

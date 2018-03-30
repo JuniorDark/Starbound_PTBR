@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Chocolate",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Apenas a melhor coisa do mundo.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Chocolate","op":"replace"},{"path":"/description","value":"Apenas a melhor coisa do mundo.","op":"replace"}]

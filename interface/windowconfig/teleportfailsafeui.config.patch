@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Replace Me",
-    "path": "/gui/messages/children/list/schema/listTemplate/message/value"
-  },
-  {
-    "op": "replace",
-    "value": "NÃO PODE TELEPORTAR:",
-    "path": "/cannotTeleportText"
-  }
-]
+[{"path":"/gui/messages/children/list/schema/listTemplate/message/value","value":"Replace Me","op":"replace"},{"path":"/cannotTeleportText","value":"N\u00c3O PODE TELEPORTAR:","op":"replace"}]

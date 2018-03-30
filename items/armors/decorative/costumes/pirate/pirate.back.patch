@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Espero que não seja um barril de pólvora, melhor verificar antes de colocá-lo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Pirate Barrel",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Espero que n\u00e3o seja um barril de p\u00f3lvora, melhor verificar antes de coloc\u00e1-lo.","op":"replace"},{"path":"/shortdescription","value":"Pirate Barrel","op":"replace"}]

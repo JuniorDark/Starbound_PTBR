@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um documento informativo sobre cristais Avolite e tecnologia Avian.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tesouros dos Stargazers",
-    "path": "/title"
-  },
-  {
-    "op": "replace",
-    "value": "Os cristais Avolite, foram considerados como um presente divino de Kluex para sociedade Avian, que só surgem naturalmente na terra natal dos Avian, Avos. Estas pedras sagradas são impossíveis de cortar e portanto só existem na sua forma bruta natural. Os sumos sacerdotes Avian, conhecidos como Stargazers, tem os direitos exclusivos de minera-los, e invadir suas minas é um crime punível com a morte.",
-    "path": "/contentPages/0"
-  }
-]
+[{"path":"/description","value":"Um documento informativo sobre cristais Avolite e tecnologia Avian.","op":"replace"},{"path":"/title","value":"Tesouros dos Stargazers","op":"replace"},{"path":"/contentPages/0","value":"Os cristais Avolite, foram considerados como um presente divino de Kluex para sociedade Avian, que s\u00f3 surgem naturalmente na terra natal dos Avian, Avos. Estas pedras sagradas s\u00e3o imposs\u00edveis de cortar e portanto s\u00f3 existem na sua forma bruta natural. Os sumos sacerdotes Avian, conhecidos como Stargazers, tem os direitos exclusivos de minera-los, e invadir suas minas \u00e9 um crime pun\u00edvel com a morte.","op":"replace"}]

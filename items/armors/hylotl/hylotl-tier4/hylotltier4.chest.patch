@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral projetado para fortalecer a durabilidade do usuário, bem como a sua resolução.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Lake Breastplate",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral projetado para fortalecer a durabilidade do usu\u00e1rio, bem como a sua resolu\u00e7\u00e3o.","op":"replace"},{"path":"/shortdescription","value":"Lake Breastplate","op":"replace"}]

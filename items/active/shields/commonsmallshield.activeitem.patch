@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Small Shield",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Há algo pequeno especial entre nós.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Small Shield","op":"replace"},{"path":"/description","value":"H\u00e1 algo pequeno especial entre n\u00f3s.","op":"replace"}]

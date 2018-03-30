@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um chicote feito de uma vinha espinhosa. Faça estralar!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Vine Whip",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Vine Whip ^yellow;^reset;",
-    "path": "/upgradeParameters/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um chicote feito de uma vinha espinhosa. Fa\u00e7a estralar!","op":"replace"},{"path":"/shortdescription","value":"Vine Whip","op":"replace"},{"path":"/upgradeParameters/shortdescription","value":"Vine Whip ^yellow;\ue024^reset;","op":"replace"}]

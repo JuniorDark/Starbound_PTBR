@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Impassable Rubble",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Não há como voltar. Mesmo um Manipulador de Matéria não poderia quebrar esse detritos reforçados.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Impassable Rubble","op":"replace"},{"path":"/description","value":"N\u00e3o h\u00e1 como voltar. Mesmo um Manipulador de Mat\u00e9ria n\u00e3o poderia quebrar esse detritos refor\u00e7ados.","op":"replace"}]

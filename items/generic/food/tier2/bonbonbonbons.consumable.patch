@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bon Bon Bon Bons",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Eureca! A única maneira possível para melhorar a perfeição é multiplicá-la.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Bon Bon Bon Bons","op":"replace"},{"path":"/description","value":"Eureca! A \u00fanica maneira poss\u00edvel para melhorar a perfei\u00e7\u00e3o \u00e9 multiplic\u00e1-la.","op":"replace"}]

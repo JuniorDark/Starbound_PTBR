@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma espiga amanteigada de milho no sabugo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Corn Cob",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma espiga amanteigada de milho no sabugo.","op":"replace"},{"path":"/shortdescription","value":"Corn Cob","op":"replace"}]

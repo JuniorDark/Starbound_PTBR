@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um chapéu-coco chique. Distinto.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Dapper Hat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um chap\u00e9u-coco chique. Distinto.","op":"replace"},{"path":"/shortdescription","value":"Dapper Hat","op":"replace"}]

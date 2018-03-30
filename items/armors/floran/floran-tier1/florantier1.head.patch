@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Armadura de ferro projetada para ser usada por Florans jovens em suas primeiras caçadas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Sprout's Circlet",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Armadura de ferro projetada para ser usada por Florans jovens em suas primeiras ca\u00e7adas.","op":"replace"},{"path":"/shortdescription","value":"Sprout's Circlet","op":"replace"}]

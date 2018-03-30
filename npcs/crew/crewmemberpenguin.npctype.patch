@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Segurança",
-    "path": "/scriptConfig/crew/role/field"
-  },
-  {
-    "op": "replace",
-    "value": "Soldado",
-    "path": "/scriptConfig/crew/role/name"
-  }
-]
+[{"path":"/scriptConfig/crew/role/field","value":"Seguran\u00e7a","op":"replace"},{"path":"/scriptConfig/crew/role/name","value":"Soldado","op":"replace"}]

@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Lunarang",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Lunarang ^yellow;^reset;",
-    "path": "/upgradeParameters/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Isso não é lua.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Lunarang","op":"replace"},{"path":"/upgradeParameters/shortdescription","value":"Lunarang ^yellow;\ue024^reset;","op":"replace"},{"path":"/description","value":"Isso n\u00e3o \u00e9 lua.","op":"replace"}]

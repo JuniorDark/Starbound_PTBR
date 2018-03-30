@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um tanga particularmente extravagante. Somente lavagem a seco.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Ornate Loincloth",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um tanga particularmente extravagante. Somente lavagem a seco.","op":"replace"},{"path":"/shortdescription","value":"Ornate Loincloth","op":"replace"}]

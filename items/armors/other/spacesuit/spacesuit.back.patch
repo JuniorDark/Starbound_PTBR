@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma mochila espacial que se destina a ajudá-lo a respirar e outras coisas. Infelizmente isso não acontece.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Spacesuit Backpack",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma mochila espacial que se destina a ajud\u00e1-lo a respirar e outras coisas. Infelizmente isso n\u00e3o acontece.","op":"replace"},{"path":"/shortdescription","value":"Spacesuit Backpack","op":"replace"}]

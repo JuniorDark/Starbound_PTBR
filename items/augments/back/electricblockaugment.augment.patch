@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um módulo de EPP que faz você ser altamente resistente à eletricidade.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Electric Resist Augment",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um m\u00f3dulo de EPP que faz voc\u00ea ser altamente resistente \u00e0 eletricidade.","op":"replace"},{"path":"/shortdescription","value":"Electric Resist Augment","op":"replace"}]

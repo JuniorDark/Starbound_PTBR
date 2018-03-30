@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Frostfleck",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este inseto é facilmente confundido com um floco de neve.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Frostfleck","op":"replace"},{"path":"/description","value":"Este inseto \u00e9 facilmente confundido com um floco de neve.","op":"replace"}]

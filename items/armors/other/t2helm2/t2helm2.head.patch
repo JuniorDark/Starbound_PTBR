@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Não seja apanhado sem este capacete de soldagem elegante.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Neat Welder's Helmet",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"N\u00e3o seja apanhado sem este capacete de soldagem elegante.","op":"replace"},{"path":"/shortdescription","value":"Neat Welder's Helmet","op":"replace"}]

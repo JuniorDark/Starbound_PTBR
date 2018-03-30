@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "\"Uma amostra perfeita de um Cristal de combustível Erchius - grandes quantidades são usadas para abastecer os motores FTL de naves.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Erchius Crystal Sample",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\"Uma amostra perfeita de um Cristal de combust\u00edvel Erchius - grandes quantidades s\u00e3o usadas para abastecer os motores FTL de naves.","op":"replace"},{"path":"/shortdescription","value":"Erchius Crystal Sample","op":"replace"}]

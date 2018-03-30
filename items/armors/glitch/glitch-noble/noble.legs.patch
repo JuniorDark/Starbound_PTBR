@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Noble Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este estilo de calças é freqüentemente usado por nobres Glitch.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Noble Trousers","op":"replace"},{"path":"/description","value":"Este estilo de cal\u00e7as \u00e9 freq\u00fcentemente usado por nobres Glitch.","op":"replace"}]

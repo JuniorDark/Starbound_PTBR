@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Creepling Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Estas calças têm a textura de couro embolorado. Nojento.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Creepling Trousers","op":"replace"},{"path":"/description","value":"Estas cal\u00e7as t\u00eam a textura de couro embolorado. Nojento.","op":"replace"}]

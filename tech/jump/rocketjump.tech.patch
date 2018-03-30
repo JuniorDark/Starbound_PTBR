@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Te dá um impulso aéreo atrasado em qualquer direção!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Pulo Foguete",
-    "path": "/shortDescription"
-  }
-]
+[{"path":"/description","value":"Te d\u00e1 um impulso a\u00e9reo atrasado em qualquer dire\u00e7\u00e3o!","op":"replace"},{"path":"/shortDescription","value":"Pulo Foguete","op":"replace"}]

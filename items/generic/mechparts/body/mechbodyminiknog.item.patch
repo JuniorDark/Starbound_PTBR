@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um corpo de mecha feito para soldados da Miniknog que estão autorizados para o combate espacial.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Miniknog Mech Body",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um corpo de mecha feito para soldados da Miniknog que est\u00e3o autorizados para o combate espacial.","op":"replace"},{"path":"/shortdescription","value":"Miniknog Mech Body","op":"replace"}]

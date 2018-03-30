@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Chiropterror",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Seu reator interno de nitrogênio está constantemente sobrecarregando, causando a fuga de parafusos explosivos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Chiropterror","op":"replace"},{"path":"/description","value":"Seu reator interno de nitrog\u00eanio est\u00e1 constantemente sobrecarregando, causando a fuga de parafusos explosivos.","op":"replace"}]

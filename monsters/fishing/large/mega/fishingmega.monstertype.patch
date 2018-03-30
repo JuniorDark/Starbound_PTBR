@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peixe quase lendário dito ser feito de magma. Um verdadeiro desafio para pegar.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Magmalodon",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peixe quase lend\u00e1rio dito ser feito de magma. Um verdadeiro desafio para pegar.","op":"replace"},{"path":"/shortdescription","value":"Magmalodon","op":"replace"}]

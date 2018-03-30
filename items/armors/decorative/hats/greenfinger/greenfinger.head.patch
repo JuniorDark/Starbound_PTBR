@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um cocar ornamentado, denotando um Floran como o Greenfinger de sua tribo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Greenfinger's Headdress",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um cocar ornamentado, denotando um Floran como o Greenfinger de sua tribo.","op":"replace"},{"path":"/shortdescription","value":"Greenfinger's Headdress","op":"replace"}]

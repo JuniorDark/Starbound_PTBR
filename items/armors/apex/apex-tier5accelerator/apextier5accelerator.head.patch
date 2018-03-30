@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um capuz que esconde a face do usuário e cria um ar de mistério - perfeito para operações clandestinas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Rogue's Hood",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um capuz que esconde a face do usu\u00e1rio e cria um ar de mist\u00e9rio - perfeito para opera\u00e7\u00f5es clandestinas.","op":"replace"},{"path":"/shortdescription","value":"Rogue's Hood","op":"replace"}]

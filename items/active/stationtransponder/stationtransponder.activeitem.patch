@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Configure sua própria sonda de implantação de estação.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Station Transponder",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Configure sua pr\u00f3pria sonda de implanta\u00e7\u00e3o de esta\u00e7\u00e3o.","op":"replace"},{"path":"/shortdescription","value":"Station Transponder","op":"replace"}]

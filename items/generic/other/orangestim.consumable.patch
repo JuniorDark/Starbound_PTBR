@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma injeção de estimulante cheia de líquido laranja, que vai te deixar todo animadinho.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Orange Stim Pack",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma inje\u00e7\u00e3o de estimulante cheia de l\u00edquido laranja, que vai te deixar todo animadinho.","op":"replace"},{"path":"/shortdescription","value":"Orange Stim Pack","op":"replace"}]

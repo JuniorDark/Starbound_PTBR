@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um trecho do diário de Hiraki Corale, Hylotl Aventureiro.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Enjoado",
-    "path": "/title"
-  },
-  {
-    "op": "replace",
-    "value": "por Hiraki Corale, Hylotl Aventureiro\n\nPassei meus dias neste navio me sentindo realmente enjoado, na ocasião eu realmente sucumbi à náusea e... Bem, não é educado falar disso.\n\nAgora, estou à procura de um companheiro. E um plano! E uma causa, talvez. Ouvi que os Apex poderiam precisar de uma ajudinha. Ou talvez os humanos. Vou fazer uma cruzada pela justiça em toda a galáxia, e será glorioso.",
-    "path": "/contentPages/0"
-  }
-]
+[{"path":"/description","value":"Um trecho do di\u00e1rio de Hiraki Corale, Hylotl Aventureiro.","op":"replace"},{"path":"/title","value":"Enjoado","op":"replace"},{"path":"/contentPages/0","value":"por Hiraki Corale, Hylotl Aventureiro\n\nPassei meus dias neste navio me sentindo realmente enjoado, na ocasi\u00e3o eu realmente sucumbi \u00e0 n\u00e1usea e... Bem, n\u00e3o \u00e9 educado falar disso.\n\nAgora, estou \u00e0 procura de um companheiro. E um plano! E uma causa, talvez. Ouvi que os Apex poderiam precisar de uma ajudinha. Ou talvez os humanos. Vou fazer uma cruzada pela justi\u00e7a em toda a gal\u00e1xia, e ser\u00e1 glorioso.","op":"replace"}]

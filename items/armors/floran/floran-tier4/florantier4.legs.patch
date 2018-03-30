@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma saia feita de couro, amarrada com fio de durasteel.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hunter's Skirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma saia feita de couro, amarrada com fio de durasteel.","op":"replace"},{"path":"/shortdescription","value":"Hunter's Skirt","op":"replace"}]

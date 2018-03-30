@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Comerciante do Oasis",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
-  },
-  {
-    "op": "replace",
-    "value": "Vende funcionalidades de água encantadoras!",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
-  }
-]
+[{"path":"/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value":"Comerciante do Oasis","op":"replace"},{"path":"/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value":"Vende funcionalidades de \u00e1gua encantadoras!","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Frost Shield",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Impede ataques frio.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Frost Shield","op":"replace"},{"path":"/description","value":"Impede ataques frio.","op":"replace"}]

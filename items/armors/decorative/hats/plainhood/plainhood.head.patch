@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Plain Hood",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Útil para aqueles que querem esconder sua identidade.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Plain Hood","op":"replace"},{"path":"/description","value":"\u00datil para aqueles que querem esconder sua identidade.","op":"replace"}]

@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "ATAQUE PÚTRIDO",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"ATAQUE P\u00daTRIDO","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um smoking extravagante, perfeito para o baile.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Moneybags Tux",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um smoking extravagante, perfeito para o baile.","op":"replace"},{"path":"/shortdescription","value":"Moneybags Tux","op":"replace"}]

@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "A HUMANIDADE PRECISA DE VOCÊ!",
-    "path": "/title"
-  },
-  {
-    "op": "replace",
-    "value": "Humanos devem se organizar para\nsuperar a ameaça\nque nos atormenta!\n\nDevemos lutar contra as\nraças verminosas que\ninfestam nosso universo!\n\nEnquanto você está sentado sastifeito\nestas criaturas malvadas corrompem\nnossa casa!\n\nHumanos se unam.\nJunte-se a Occasus.\nVista o capuz roxo.",
-    "path": "/contentPages/0"
-  },
-  {
-    "op": "replace",
-    "value": "Propaganda da Occasus.",
-    "path": "/description"
-  }
-]
+[{"path":"/title","value":"A HUMANIDADE PRECISA DE VOC\u00ca!","op":"replace"},{"path":"/contentPages/0","value":"Humanos devem se organizar para\nsuperar a amea\u00e7a\nque nos atormenta!\n\nDevemos lutar contra as\nra\u00e7as verminosas que\ninfestam nosso universo!\n\nEnquanto voc\u00ea est\u00e1 sentado sastifeito\nestas criaturas malvadas corrompem\nnossa casa!\n\nHumanos se unam.\nJunte-se a Occasus.\nVista o capuz roxo.","op":"replace"},{"path":"/description","value":"Propaganda da Occasus.","op":"replace"}]

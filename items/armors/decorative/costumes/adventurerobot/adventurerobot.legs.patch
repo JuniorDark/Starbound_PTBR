@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Adventurer's Greaves",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este protótipo de calças é um pouco rígido, mas realmente acabam com a aparência robótica.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Adventurer's Greaves","op":"replace"},{"path":"/description","value":"Este prot\u00f3tipo de cal\u00e7as \u00e9 um pouco r\u00edgido, mas realmente acabam com a apar\u00eancia rob\u00f3tica.","op":"replace"}]

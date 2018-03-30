@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Disphotic Greaves",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Calças reforçadas com solarium puro, tão forte como o espírito do seu usuário.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Disphotic Greaves","op":"replace"},{"path":"/description","value":"Cal\u00e7as refor\u00e7adas com solarium puro, t\u00e3o forte como o esp\u00edrito do seu usu\u00e1rio.","op":"replace"}]

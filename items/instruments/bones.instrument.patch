@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um xilofone de osso. Produz um som matador.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Floran Bone Xylophone",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um xilofone de osso. Produz um som matador.","op":"replace"},{"path":"/shortdescription","value":"Floran Bone Xylophone","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Repositório de combustível Erchius",
-    "path": "/gui/windowtitle/subtitle"
-  },
-  {
-    "op": "replace",
-    "value": "Tanque de Combustível do Motor FTL ",
-    "path": "/gui/windowtitle/title"
-  }
-]
+[{"path":"/gui/windowtitle/subtitle","value":"Reposit\u00f3rio de combust\u00edvel Erchius","op":"replace"},{"path":"/gui/windowtitle/title","value":"Tanque de Combust\u00edvel do Motor FTL ","op":"replace"}]

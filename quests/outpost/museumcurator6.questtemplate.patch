@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Muito obrigado por tudo isso - minha coleção está finalmente completa, e meu museu pronto para abrir! Espero que todo mundo goste. Espero que Nuru goste.^green; Você pode visitar o Museu usando o teleportador ao lado do ^orange;2 Stop Teleshop^white;.",
-    "path": "/completionText"
-  },
-  {
-    "op": "replace",
-    "value": "O museu está quase pronto, mas eu preciso de um último item para completar a exposição Hylotl. Por favor, você pode me ^green;trazer um ^orange;Traditional Gong^white;? Eles são bastante comuns em assentamentos Hylotl, em ambas as vilas e cidades.",
-    "path": "/text"
-  },
-  {
-    "op": "replace",
-    "value": "^green;A Aquisição Final",
-    "path": "/title"
-  }
-]
+[{"path":"/completionText","value":"Muito obrigado por tudo isso - minha cole\u00e7\u00e3o est\u00e1 finalmente completa, e meu museu pronto para abrir! Espero que todo mundo goste. Espero que Nuru goste.^green; Voc\u00ea pode visitar o Museu usando o teleportador ao lado do ^orange;2 Stop Teleshop^white;.","op":"replace"},{"path":"/text","value":"O museu est\u00e1 quase pronto, mas eu preciso de um \u00faltimo item para completar a exposi\u00e7\u00e3o Hylotl. Por favor, voc\u00ea pode me ^green;trazer um ^orange;Traditional Gong^white;? Eles s\u00e3o bastante comuns em assentamentos Hylotl, em ambas as vilas e cidades.","op":"replace"},{"path":"/title","value":"^green;A Aquisi\u00e7\u00e3o Final","op":"replace"}]

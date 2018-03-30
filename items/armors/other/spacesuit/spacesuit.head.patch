@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um capacete espacial a moda antiga! Uau!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Space Helmet",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um capacete espacial a moda antiga! Uau!","op":"replace"},{"path":"/shortdescription","value":"Space Helmet","op":"replace"}]

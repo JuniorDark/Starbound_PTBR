@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral hazmat, É selado para evitar contaminantes externos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hazmat Shirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral hazmat, \u00c9 selado para evitar contaminantes externos.","op":"replace"},{"path":"/shortdescription","value":"Hazmat Shirt","op":"replace"}]

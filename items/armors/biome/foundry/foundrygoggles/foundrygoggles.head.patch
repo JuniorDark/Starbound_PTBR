@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Óculos grandes para proteger seus olhos pequenos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Foundry Goggles",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\u00d3culos grandes para proteger seus olhos pequenos.","op":"replace"},{"path":"/shortdescription","value":"Foundry Goggles","op":"replace"}]

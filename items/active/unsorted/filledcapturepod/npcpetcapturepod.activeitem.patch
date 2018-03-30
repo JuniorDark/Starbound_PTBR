@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Filled Capture Pod",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Jogue-o para para liberar a criatura capturada dentro!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Filled Capture Pod","op":"replace"},{"path":"/description","value":"Jogue-o para para liberar a criatura capturada dentro!","op":"replace"}]

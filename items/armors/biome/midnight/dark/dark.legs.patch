@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Dark Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Estas calças transbordam com energia sombria.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Dark Trousers","op":"replace"},{"path":"/description","value":"Estas cal\u00e7as transbordam com energia sombria.","op":"replace"}]

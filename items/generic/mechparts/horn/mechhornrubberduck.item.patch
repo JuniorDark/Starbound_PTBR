@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um clássico atemporal.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Rubber Duck Mech Horn",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um cl\u00e1ssico atemporal.","op":"replace"},{"path":"/shortdescription","value":"Rubber Duck Mech Horn","op":"replace"}]

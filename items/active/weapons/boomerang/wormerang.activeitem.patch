@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um verme gigante aterrorizante, jogue em alguém.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": " Giant Worm ",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Giant Worm ^yellow;^reset;",
-    "path": "/upgradeParameters/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um verme gigante aterrorizante, jogue em algu\u00e9m.","op":"replace"},{"path":"/shortdescription","value":" Giant Worm ","op":"replace"},{"path":"/upgradeParameters/shortdescription","value":"Giant Worm ^yellow;\ue024^reset;","op":"replace"}]

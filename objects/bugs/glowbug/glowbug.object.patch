@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Glowbug",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Quanto mais quente este inseto fica, mais ele brilha.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Glowbug","op":"replace"},{"path":"/description","value":"Quanto mais quente este inseto fica, mais ele brilha.","op":"replace"}]

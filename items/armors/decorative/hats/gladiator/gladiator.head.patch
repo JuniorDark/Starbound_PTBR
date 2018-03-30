@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um capacete de bronze, para aqueles que gostam de perder as estribeiras.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Gladiator Helmet",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um capacete de bronze, para aqueles que gostam de perder as estribeiras.","op":"replace"},{"path":"/shortdescription","value":"Gladiator Helmet","op":"replace"}]

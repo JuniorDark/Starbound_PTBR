@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma criatura que conseguiu evitar a extinção, apesar de seu corpo frágil.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Volcaris",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma criatura que conseguiu evitar a extin\u00e7\u00e3o, apesar de seu corpo fr\u00e1gil.","op":"replace"},{"path":"/shortdescription","value":"Volcaris","op":"replace"}]

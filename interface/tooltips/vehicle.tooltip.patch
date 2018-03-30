@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "0",
-    "path": "/priceLabel/value"
-  }
-]
+[{"path":"/priceLabel/value","value":"0","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma camisa elegante com suspensórios.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Suspender Shirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma camisa elegante com suspens\u00f3rios.","op":"replace"},{"path":"/shortdescription","value":"Suspender Shirt","op":"replace"}]

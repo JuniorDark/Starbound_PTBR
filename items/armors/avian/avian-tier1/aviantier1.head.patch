@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma tiara de ferro para se proteger contra golpes aéreos. É uma pena que você não pode voar, ou isto não seria muito um problema.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hatchling's Circlet",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma tiara de ferro para se proteger contra golpes a\u00e9reos. \u00c9 uma pena que voc\u00ea n\u00e3o pode voar, ou isto n\u00e3o seria muito um problema.","op":"replace"},{"path":"/shortdescription","value":"Hatchling's Circlet","op":"replace"}]

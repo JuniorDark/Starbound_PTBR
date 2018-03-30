@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Wartweed",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Verrugosa, mas não muito magricela.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Wartweed","op":"replace"},{"path":"/description","value":"Verrugosa, mas n\u00e3o muito magricela.","op":"replace"}]

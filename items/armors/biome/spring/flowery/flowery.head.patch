@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Flowery Mask",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "É melhor me certificar de manter essa máscara regada.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Flowery Mask","op":"replace"},{"path":"/description","value":"\u00c9 melhor me certificar de manter essa m\u00e1scara regada.","op":"replace"}]

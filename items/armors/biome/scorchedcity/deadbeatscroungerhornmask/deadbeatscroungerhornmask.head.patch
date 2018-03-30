@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Deadbeat Scrounger Horns",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Chifres sobressaem desta máscara esfarrapada.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Deadbeat Scrounger Horns","op":"replace"},{"path":"/description","value":"Chifres sobressaem desta m\u00e1scara esfarrapada.","op":"replace"}]

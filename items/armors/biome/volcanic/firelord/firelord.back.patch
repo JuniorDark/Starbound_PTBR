@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Fire Lord's Cloak",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A capa de um poderoso senhor do fogo. Os fios são colados com chamas super quentes.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Fire Lord's Cloak","op":"replace"},{"path":"/description","value":"A capa de um poderoso senhor do fogo. Os fios s\u00e3o colados com chamas super quentes.","op":"replace"}]

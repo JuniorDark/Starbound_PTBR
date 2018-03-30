@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Refinar",
-    "path": "/gui/toggleCrafting/caption"
-  },
-  {
-    "op": "replace",
-    "value": "^#b9b5b2;Coloque minério no espaço esquerdo pra refinar em pixels.",
-    "path": "/gui/lblText/value"
-  }
-]
+[{"path":"/gui/toggleCrafting/caption","value":"Refinar","op":"replace"},{"path":"/gui/lblText/value","value":"^#b9b5b2;Coloque min\u00e9rio no espa\u00e7o esquerdo pra refinar em pixels.","op":"replace"}]

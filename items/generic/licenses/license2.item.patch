@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Kestrel License",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Qualifica o portador para voar em naves da classe Kestrel.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Kestrel License","op":"replace"},{"path":"/description","value":"Qualifica o portador para voar em naves da classe Kestrel.","op":"replace"}]

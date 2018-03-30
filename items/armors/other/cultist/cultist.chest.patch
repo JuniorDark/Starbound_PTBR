@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma jaqueta acolchoada, frequentemente usado por cultistas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Cultist Chestpiece",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma jaqueta acolchoada, frequentemente usado por cultistas.","op":"replace"},{"path":"/shortdescription","value":"Cultist Chestpiece","op":"replace"}]

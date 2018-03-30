@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Desert Head Scarf",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Para aqueles que querem enfrentar os elementos sem medo.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Desert Head Scarf","op":"replace"},{"path":"/description","value":"Para aqueles que querem enfrentar os elementos sem medo.","op":"replace"}]

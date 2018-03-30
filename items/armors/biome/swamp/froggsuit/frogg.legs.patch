@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Frogg Legs",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Vestindo isso fará com que você se pareça com um sapo.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Frogg Legs","op":"replace"},{"path":"/description","value":"Vestindo isso far\u00e1 com que voc\u00ea se pare\u00e7a com um sapo.","op":"replace"}]

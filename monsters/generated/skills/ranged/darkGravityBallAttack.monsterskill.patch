@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "BOLA DE GRAVIDADE CONGELADA",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"BOLA DE GRAVIDADE CONGELADA","op":"replace"}]

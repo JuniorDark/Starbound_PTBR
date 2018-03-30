@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "REDEMOINHO DE FOGO",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"REDEMOINHO DE FOGO","op":"replace"}]

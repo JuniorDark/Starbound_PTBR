@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Chakram",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Chakram ^yellow;^reset;",
-    "path": "/upgradeParameters/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Grandes mestres do chakram podem pegá-lo sem perder os dedos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Chakram","op":"replace"},{"path":"/upgradeParameters/shortdescription","value":"Chakram ^yellow;\ue024^reset;","op":"replace"},{"path":"/description","value":"Grandes mestres do chakram podem peg\u00e1-lo sem perder os dedos.","op":"replace"}]

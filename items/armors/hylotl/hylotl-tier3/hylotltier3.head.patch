@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Parte armadura e parte máscara - para o guerreiro que precisa tanto se infiltrar e se proteger.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "River Helm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Parte armadura e parte m\u00e1scara - para o guerreiro que precisa tanto se infiltrar e se proteger.","op":"replace"},{"path":"/shortdescription","value":"River Helm","op":"replace"}]

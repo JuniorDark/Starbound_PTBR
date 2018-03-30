@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Calças brilhantes feitas de prata.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Silver Greaves",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Cal\u00e7as brilhantes feitas de prata.","op":"replace"},{"path":"/shortdescription","value":"Silver Greaves","op":"replace"}]

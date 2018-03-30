@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Atraído por calor, esse carinha precisa de calor.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Heathugger",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Atra\u00eddo por calor, esse carinha precisa de calor.","op":"replace"},{"path":"/shortdescription","value":"Heathugger","op":"replace"}]

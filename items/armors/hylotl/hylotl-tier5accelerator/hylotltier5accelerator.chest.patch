@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral leve e flexível, que permite que o guerreiro ataque rapidamente.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Sea Chestguard",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral leve e flex\u00edvel, que permite que o guerreiro ataque rapidamente.","op":"replace"},{"path":"/shortdescription","value":"Sea Chestguard","op":"replace"}]

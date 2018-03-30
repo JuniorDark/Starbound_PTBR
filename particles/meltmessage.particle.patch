@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "^shadow;Derrentendo!",
-    "path": "/definition/text"
-  }
-]
+[{"path":"/definition/text","value":"^shadow;Derrentendo!","op":"replace"}]

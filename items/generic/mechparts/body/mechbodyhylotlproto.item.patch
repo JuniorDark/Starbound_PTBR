@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um protótipo de corpo de mcha aberto, projetado para pilotos Hylotl.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Kabuto-00 Mech Body",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um prot\u00f3tipo de corpo de mcha aberto, projetado para pilotos Hylotl.","op":"replace"},{"path":"/shortdescription","value":"Kabuto-00 Mech Body","op":"replace"}]

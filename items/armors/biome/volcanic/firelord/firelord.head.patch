@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Fire Lord's Helm",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Rumores dizem que é possível ouvir os sussurros do passado usando este capacete.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Fire Lord's Helm","op":"replace"},{"path":"/description","value":"Rumores dizem que \u00e9 poss\u00edvel ouvir os sussurros do passado usando este capacete.","op":"replace"}]

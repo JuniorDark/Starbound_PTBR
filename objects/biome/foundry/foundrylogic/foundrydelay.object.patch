@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "<Um circuito que transmite sinais após um atraso definido.>",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Foundry Delay Gate",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"<Um circuito que transmite sinais ap\u00f3s um atraso definido.>","op":"replace"},{"path":"/shortdescription","value":"Foundry Delay Gate","op":"replace"}]

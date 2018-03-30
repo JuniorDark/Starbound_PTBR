@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Stylish Bottoms",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Quando você usa essas calças legais, você sente como se tudo fosse possível.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Stylish Bottoms","op":"replace"},{"path":"/description","value":"Quando voc\u00ea usa essas cal\u00e7as legais, voc\u00ea sente como se tudo fosse poss\u00edvel.","op":"replace"}]

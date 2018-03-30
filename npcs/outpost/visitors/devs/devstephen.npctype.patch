@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ei, sou Stephen! Eu posso fazer um monte de barulhos diferentes. Boop!",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Ei, sou Stephen! Eu posso fazer um monte de barulhos diferentes. Boop!","op":"replace"}]

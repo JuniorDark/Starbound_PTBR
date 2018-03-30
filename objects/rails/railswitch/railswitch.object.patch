@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Direciona rail riders para caminhos diferentes",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Rail Switch",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Direciona rail riders para caminhos diferentes","op":"replace"},{"path":"/shortdescription","value":"Rail Switch","op":"replace"}]

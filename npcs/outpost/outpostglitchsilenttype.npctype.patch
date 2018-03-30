@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "...",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/0","value":"...","op":"replace"}]

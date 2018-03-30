@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bigode Dourado",
-    "path": "/itemList/schema/listTemplate/itemName/value"
-  },
-  {
-    "op": "replace",
-    "value": "INGREDIENTES",
-    "path": "/title/value"
-  }
-]
+[{"path":"/itemList/schema/listTemplate/itemName/value","value":"Bigode Dourado","op":"replace"},{"path":"/title/value","value":"INGREDIENTES","op":"replace"}]

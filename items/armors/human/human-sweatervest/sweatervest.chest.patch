@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Sweater Vest",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Seu peito está quente, mas e quanto aos seus braços?",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Sweater Vest","op":"replace"},{"path":"/description","value":"Seu peito est\u00e1 quente, mas e quanto aos seus bra\u00e7os?","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ele prefere climas quentes e úmidos, onde ele ira crescer mais rápido.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Sporgus",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Ele prefere climas quentes e \u00famidos, onde ele ira crescer mais r\u00e1pido.","op":"replace"},{"path":"/shortdescription","value":"Sporgus","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Vendo a partir do olho da espada é desorientador no início.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "NPC Oculus Reaver",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Vendo a partir do olho da espada \u00e9 desorientador no in\u00edcio.","op":"replace"},{"path":"/shortdescription","value":"NPC Oculus Reaver","op":"replace"}]

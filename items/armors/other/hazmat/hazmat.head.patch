@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Hazmat Mask",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta máscara hazmat pode filtrar até mesmo perigos microscópicos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Hazmat Mask","op":"replace"},{"path":"/description","value":"Esta m\u00e1scara hazmat pode filtrar at\u00e9 mesmo perigos microsc\u00f3picos.","op":"replace"}]

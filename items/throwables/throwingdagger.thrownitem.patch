@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma adaga de arremesso, para atos de combate ou de circo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Throwing Dagger",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma adaga de arremesso, para atos de combate ou de circo.","op":"replace"},{"path":"/shortdescription","value":"Throwing Dagger","op":"replace"}]

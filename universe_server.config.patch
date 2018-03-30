@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Incompatibilidade de ativos entre cliente e servidor, e a opção de substituição não esta definida",
-    "path": "/clientAssetsMismatchMessage"
-  },
-  {
-    "op": "replace",
-    "value": "Esse servidor não permite conexões de clientes com ativos incompatíveis",
-    "path": "/serverAssetsMismatchMessage"
-  }
-]
+[{"path":"/clientAssetsMismatchMessage","value":"Incompatibilidade de ativos entre cliente e servidor, e a op\u00e7\u00e3o de substitui\u00e7\u00e3o n\u00e3o esta definida","op":"replace"},{"path":"/serverAssetsMismatchMessage","value":"Esse servidor n\u00e3o permite conex\u00f5es de clientes com ativos incompat\u00edveis","op":"replace"}]

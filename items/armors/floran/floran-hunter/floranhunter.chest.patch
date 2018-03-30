@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Savage Chest",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este peitoral de caçador mantém você quente e seco.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Savage Chest","op":"replace"},{"path":"/description","value":"Este peitoral de ca\u00e7ador mant\u00e9m voc\u00ea quente e seco.","op":"replace"}]

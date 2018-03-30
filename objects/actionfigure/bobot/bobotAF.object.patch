@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bobot Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"Ninguém sabe de onde veio ou quem fez isso.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Bobot Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"Ningu\u00e9m sabe de onde veio ou quem fez isso.\"","op":"replace"}]

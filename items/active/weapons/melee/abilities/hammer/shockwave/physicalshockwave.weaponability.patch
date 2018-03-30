@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Onda de Choque",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Onda de Choque","op":"replace"}]

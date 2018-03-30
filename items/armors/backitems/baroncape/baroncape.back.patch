@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Baron's Cape",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta capa foi projetada para balançar dramaticamente à medida que o usuário entra em uma sala.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Baron's Cape","op":"replace"},{"path":"/description","value":"Esta capa foi projetada para balan\u00e7ar dramaticamente \u00e0 medida que o usu\u00e1rio entra em uma sala.","op":"replace"}]

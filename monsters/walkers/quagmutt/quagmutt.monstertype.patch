@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Seu estilo de vida anti-higiênico deixa muito a desejar.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Quagmutt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Seu estilo de vida anti-higi\u00eanico deixa muito a desejar.","op":"replace"},{"path":"/shortdescription","value":"Quagmutt","op":"replace"}]

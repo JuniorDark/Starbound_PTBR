@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "A todo vapor!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Steam Whistle Mech Horn",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"A todo vapor!","op":"replace"},{"path":"/shortdescription","value":"Steam Whistle Mech Horn","op":"replace"}]

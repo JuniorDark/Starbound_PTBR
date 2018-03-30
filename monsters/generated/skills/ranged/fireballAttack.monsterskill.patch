@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "CARVÃO SALTITANTE",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"CARV\u00c3O SALTITANTE","op":"replace"}]

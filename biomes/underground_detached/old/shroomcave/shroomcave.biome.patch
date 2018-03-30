@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Caverna de Cogumelos",
-    "path": "/friendlyName"
-  }
-]
+[{"path":"/friendlyName","value":"Caverna de Cogumelos","op":"replace"}]

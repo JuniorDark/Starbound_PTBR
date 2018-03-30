@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Purple Paintgun",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta arma faz chover roxo.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Purple Paintgun","op":"replace"},{"path":"/description","value":"Esta arma faz chover roxo.","op":"replace"}]

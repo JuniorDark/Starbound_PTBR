@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Beachball",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "É uma bola de praia inflável.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Beachball","op":"replace"},{"path":"/description","value":"\u00c9 uma bola de praia infl\u00e1vel.","op":"replace"}]

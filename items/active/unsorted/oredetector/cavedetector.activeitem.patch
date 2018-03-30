@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cave Detector",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Emite pulsos para traçar a densidade de materiais próximos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Cave Detector","op":"replace"},{"path":"/description","value":"Emite pulsos para tra\u00e7ar a densidade de materiais pr\u00f3ximos.","op":"replace"}]

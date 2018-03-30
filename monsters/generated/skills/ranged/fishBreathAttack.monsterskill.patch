@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "REGURGITAÇÃO TÓXICA",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"REGURGITA\u00c7\u00c3O T\u00d3XICA","op":"replace"}]

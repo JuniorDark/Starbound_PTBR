@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Coffee",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Café fresquinho. Quero Cafééé.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Coffee","op":"replace"},{"path":"/description","value":"Caf\u00e9 fresquinho. Quero Caf\u00e9\u00e9\u00e9.","op":"replace"}]

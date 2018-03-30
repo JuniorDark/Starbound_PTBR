@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Fennix Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"Às vezes, quando perseguindo o próprio rabo ele pode acidentalmente botar fogo em si mesmo.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Fennix Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"\u00c0s vezes, quando perseguindo o pr\u00f3prio rabo ele pode acidentalmente botar fogo em si mesmo.\"","op":"replace"}]

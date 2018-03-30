@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Roasted Mushrooms",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Torra-los realmente revela todo o sabor.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Roasted Mushrooms","op":"replace"},{"path":"/description","value":"Torra-los realmente revela todo o sabor.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um torso humano fossilizado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Human Torso",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um torso humano fossilizado.","op":"replace"},{"path":"/shortdescription","value":"Human Torso","op":"replace"}]

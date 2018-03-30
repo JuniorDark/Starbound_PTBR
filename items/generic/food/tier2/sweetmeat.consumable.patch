@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um raro prato doce Floran de bacon açucarado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Sweet Meat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um raro prato doce Floran de bacon a\u00e7ucarado.","op":"replace"},{"path":"/shortdescription","value":"Sweet Meat","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Este machado é surpreendentemente robusto pelo seu tamanho.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tungsten Axe",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Este machado \u00e9 surpreendentemente robusto pelo seu tamanho.","op":"replace"},{"path":"/shortdescription","value":"Tungsten Axe","op":"replace"}]

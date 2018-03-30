@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Feixe de Erchius",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Feixe de Erchius","op":"replace"}]

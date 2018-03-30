@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Sulphur",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Enxofre, um composto surpreendentemente útil.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Sulphur","op":"replace"},{"path":"/description","value":"Enxofre, um composto surpreendentemente \u00fatil.","op":"replace"}]

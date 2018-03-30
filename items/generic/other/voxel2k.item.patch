@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "2000 pixels comprimidos em um voxel. Descompacte-o para obter os pixels de volta.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "2k Voxel",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"2000 pixels comprimidos em um voxel. Descompacte-o para obter os pixels de volta.","op":"replace"},{"path":"/shortdescription","value":"2k Voxel","op":"replace"}]

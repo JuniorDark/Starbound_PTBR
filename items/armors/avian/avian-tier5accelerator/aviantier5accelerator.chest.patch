@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral habilmente projetado que irá desviar lanças, espadas e balas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Peacock Chestplate",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral habilmente projetado que ir\u00e1 desviar lan\u00e7as, espadas e balas.","op":"replace"},{"path":"/shortdescription","value":"Peacock Chestplate","op":"replace"}]

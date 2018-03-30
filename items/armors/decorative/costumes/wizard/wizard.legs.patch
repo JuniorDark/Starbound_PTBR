@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "É como um roupão de banho, mas foi feito para Bruxos de verdade. Será que bruxos tomam banho?",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Wizard Robe Bottoms",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\u00c9 como um roup\u00e3o de banho, mas foi feito para Bruxos de verdade. Ser\u00e1 que bruxos tomam banho?","op":"replace"},{"path":"/shortdescription","value":"Wizard Robe Bottoms","op":"replace"}]

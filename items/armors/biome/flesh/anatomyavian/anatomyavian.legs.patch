@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Avian Anatomy Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "É educativo! Calças mostrando a musculatura da perna Avian.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Avian Anatomy Trousers","op":"replace"},{"path":"/description","value":"\u00c9 educativo! Cal\u00e7as mostrando a musculatura da perna Avian.","op":"replace"}]

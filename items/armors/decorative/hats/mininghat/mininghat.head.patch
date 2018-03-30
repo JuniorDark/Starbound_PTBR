@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um chapéu de mineiro, tem uma luz nele!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Mining Helmet",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um chap\u00e9u de mineiro, tem uma luz nele!","op":"replace"},{"path":"/shortdescription","value":"Mining Helmet","op":"replace"}]

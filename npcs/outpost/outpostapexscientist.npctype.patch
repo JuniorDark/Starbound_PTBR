@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Eu cresci cansado de ver os meus irmãos e irmãs Apex sendo atormentados nas mãos do Miniknog, então eu sai.",
-    "path": "/scriptConfig/dialog/converse/apex/default/0"
-  },
-  {
-    "op": "replace",
-    "value": "Eu cresci cansado de ver os meus irmãos e irmãs Apex sendo atormentados nas mãos do Miniknog, então eu sai.",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  },
-  {
-    "op": "replace",
-    "value": "Me faz feliz ver um outro Apex que escapou da brutalidade do Miniknog.",
-    "path": "/scriptConfig/dialog/converse/apex/apex/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/apex/default/0","value":"Eu cresci cansado de ver os meus irm\u00e3os e irm\u00e3s Apex sendo atormentados nas m\u00e3os do Miniknog, ent\u00e3o eu sai.","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Eu cresci cansado de ver os meus irm\u00e3os e irm\u00e3s Apex sendo atormentados nas m\u00e3os do Miniknog, ent\u00e3o eu sai.","op":"replace"},{"path":"/scriptConfig/dialog/converse/apex/apex/0","value":"Me faz feliz ver um outro Apex que escapou da brutalidade do Miniknog.","op":"replace"}]

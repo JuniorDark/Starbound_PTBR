@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma espinha de Ixodoom fossilizada.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Ixodoom Spine",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma espinha de Ixodoom fossilizada.","op":"replace"},{"path":"/shortdescription","value":"Ixodoom Spine","op":"replace"}]

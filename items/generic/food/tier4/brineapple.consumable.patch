@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Brineapple",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Coralcreep gelatinoso dentro de um abacaxi de vidro, servido quente.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Brineapple","op":"replace"},{"path":"/description","value":"Coralcreep gelatinoso dentro de um abacaxi de vidro, servido quente.","op":"replace"}]

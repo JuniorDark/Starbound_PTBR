@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma maçã vermelha madura.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Red Apple",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma ma\u00e7\u00e3 vermelha madura.","op":"replace"},{"path":"/shortdescription","value":"Red Apple","op":"replace"}]

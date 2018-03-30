@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Camo Helmet",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Mantenha sua cabeça abaixada e você pode passar despercebido.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Camo Helmet","op":"replace"},{"path":"/description","value":"Mantenha sua cabe\u00e7a abaixada e voc\u00ea pode passar despercebido.","op":"replace"}]

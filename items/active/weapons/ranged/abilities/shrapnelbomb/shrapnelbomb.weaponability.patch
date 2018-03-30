@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bomba de Estilhaços",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Bomba de Estilha\u00e7os","op":"replace"}]

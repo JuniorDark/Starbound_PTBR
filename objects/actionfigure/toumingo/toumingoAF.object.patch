@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"As longas pernas permitem ele ficar na água para pegar peixes.\"",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Toumingo Figurine",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"A etiqueta diz, \"As longas pernas permitem ele ficar na \u00e1gua para pegar peixes.\"","op":"replace"},{"path":"/shortdescription","value":"Toumingo Figurine","op":"replace"}]

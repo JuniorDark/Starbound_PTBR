@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um bumerangue congelado com um núcleo congelado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Frozen Boomerang",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Frozen Boomerang ^yellow;^reset;",
-    "path": "/upgradeParameters/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um bumerangue congelado com um n\u00facleo congelado.","op":"replace"},{"path":"/shortdescription","value":"Frozen Boomerang","op":"replace"},{"path":"/upgradeParameters/shortdescription","value":"Frozen Boomerang ^yellow;\ue024^reset;","op":"replace"}]

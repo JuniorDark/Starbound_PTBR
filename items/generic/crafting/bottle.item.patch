@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Empty Bottle",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Uma garrafa vazia. Perfeita para armazenar líquidos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Empty Bottle","op":"replace"},{"path":"/description","value":"Uma garrafa vazia. Perfeita para armazenar l\u00edquidos.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Praticamente o único aproveitamento para a geléia de pussplum.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Pussplum Tart",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Praticamente o \u00fanico aproveitamento para a gel\u00e9ia de pussplum.","op":"replace"},{"path":"/shortdescription","value":"Pussplum Tart","op":"replace"}]

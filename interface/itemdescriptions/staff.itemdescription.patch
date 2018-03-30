@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "tree",
-    "path": "/priceLabel/value"
-  },
-  {
-    "op": "replace",
-    "value": "Nível:",
-    "path": "/levelTitleLabel/value"
-  }
-]
+[{"path":"/priceLabel/value","value":"tree","op":"replace"},{"path":"/levelTitleLabel/value","value":"N\u00edvel:","op":"replace"}]

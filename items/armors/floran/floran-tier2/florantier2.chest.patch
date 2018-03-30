@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bonesmith's Chestguard",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Tungstênio, reforçado com osso e acolchoado com couro feito da pele da presa caçada.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Bonesmith's Chestguard","op":"replace"},{"path":"/description","value":"Tungst\u00eanio, refor\u00e7ado com osso e acolchoado com couro feito da pele da presa ca\u00e7ada.","op":"replace"}]

@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Camada Núcleo da Lua",
-    "path": "/friendlyName"
-  }
-]
+[{"path":"/friendlyName","value":"Camada N\u00facleo da Lua","op":"replace"}]

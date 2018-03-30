@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Óculos, que em breve será usado em algum cosplay steampunk.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Pilot Goggles",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\u00d3culos, que em breve ser\u00e1 usado em algum cosplay steampunk.","op":"replace"},{"path":"/shortdescription","value":"Pilot Goggles","op":"replace"}]

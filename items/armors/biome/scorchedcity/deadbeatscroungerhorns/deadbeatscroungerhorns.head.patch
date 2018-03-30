@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma máscara verde pálido com chifres.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Deadbeat Merchant Horns",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma m\u00e1scara verde p\u00e1lido com chifres.","op":"replace"},{"path":"/shortdescription","value":"Deadbeat Merchant Horns","op":"replace"}]

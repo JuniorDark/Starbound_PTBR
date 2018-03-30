@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pearlpeas",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Pearlpeas! Vou precisar morder forte.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Pearlpeas","op":"replace"},{"path":"/description","value":"Pearlpeas! Vou precisar morder forte.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Sua concha é impossível de penetrar o que pode torná-lo um inimigo complicado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Snaggler",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Sua concha \u00e9 imposs\u00edvel de penetrar o que pode torn\u00e1-lo um inimigo complicado.","op":"replace"},{"path":"/shortdescription","value":"Snaggler","op":"replace"}]

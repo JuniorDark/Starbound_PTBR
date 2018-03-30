@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Seu corpo se enrola ao longo de sua vida, até que esteja muito enrolado até mesmo pra nadar.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Silver Curloach",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Seu corpo se enrola ao longo de sua vida, at\u00e9 que esteja muito enrolado at\u00e9 mesmo pra nadar.","op":"replace"},{"path":"/shortdescription","value":"Silver Curloach","op":"replace"}]

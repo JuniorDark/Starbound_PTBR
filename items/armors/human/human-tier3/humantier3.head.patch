@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pioneer's Helm",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O elmo de titânio elegante do pioneiro.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Pioneer's Helm","op":"replace"},{"path":"/description","value":"O elmo de tit\u00e2nio elegante do pioneiro.","op":"replace"}]

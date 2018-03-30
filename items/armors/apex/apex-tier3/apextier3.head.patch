@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Insurgent's Mask",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este chapelaria astuta deixa apenas os olhos visíveis.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Insurgent's Mask","op":"replace"},{"path":"/description","value":"Este chapelaria astuta deixa apenas os olhos vis\u00edveis.","op":"replace"}]

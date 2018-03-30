@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Dispara uma mina remota que cria uma pequena singularidade gravitacional.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Gravity Mine Mech Arm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Dispara uma mina remota que cria uma pequena singularidade gravitacional.","op":"replace"},{"path":"/shortdescription","value":"Gravity Mine Mech Arm","op":"replace"}]

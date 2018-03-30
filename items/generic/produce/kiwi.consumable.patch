@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Kiwi",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Textura macia e sabor açucarado, hum.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Kiwi","op":"replace"},{"path":"/description","value":"Textura macia e sabor a\u00e7ucarado, hum.","op":"replace"}]

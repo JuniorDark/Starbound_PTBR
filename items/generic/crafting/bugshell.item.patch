@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bug Shell",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Uma casca velha seca de algum inseto morto há muito tempo.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Bug Shell","op":"replace"},{"path":"/description","value":"Uma casca velha seca de algum inseto morto h\u00e1 muito tempo.","op":"replace"}]

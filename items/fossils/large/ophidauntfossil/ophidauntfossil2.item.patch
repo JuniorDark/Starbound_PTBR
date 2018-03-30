@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um torso de Ophidaunt fossilizado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Ophidaunt Torso",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um torso de Ophidaunt fossilizado.","op":"replace"},{"path":"/shortdescription","value":"Ophidaunt Torso","op":"replace"}]

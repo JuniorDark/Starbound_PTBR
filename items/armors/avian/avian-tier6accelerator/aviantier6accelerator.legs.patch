@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Macaw Leggings",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Estas calças de corte fino esta entrelaçada com fios de solarium puro para maior durabilidade.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Macaw Leggings","op":"replace"},{"path":"/description","value":"Estas cal\u00e7as de corte fino esta entrela\u00e7ada com fios de solarium puro para maior durabilidade.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um crânio de Glitch. Bem, não exatamente um crânio, mas eles tentaram.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Glitch Skull Mask",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um cr\u00e2nio de Glitch. Bem, n\u00e3o exatamente um cr\u00e2nio, mas eles tentaram.","op":"replace"},{"path":"/shortdescription","value":"Glitch Skull Mask","op":"replace"}]

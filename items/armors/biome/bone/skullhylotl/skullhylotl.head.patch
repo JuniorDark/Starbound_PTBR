@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um crânio de Hylotl. Esperançosamente morreram como um guerreiro.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hylotl Skull Mask",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um cr\u00e2nio de Hylotl. Esperan\u00e7osamente morreram como um guerreiro.","op":"replace"},{"path":"/shortdescription","value":"Hylotl Skull Mask","op":"replace"}]

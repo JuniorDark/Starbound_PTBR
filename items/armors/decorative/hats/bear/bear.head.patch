@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um chapéu de urso, para quando você está se sentindo grisalho.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Bear Hat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um chap\u00e9u de urso, para quando voc\u00ea est\u00e1 se sentindo grisalho.","op":"replace"},{"path":"/shortdescription","value":"Bear Hat","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Capricoat Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"Sua pelagem grossa o mantém quente em climas mais frios.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Capricoat Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"Sua pelagem grossa o mant\u00e9m quente em climas mais frios.\"","op":"replace"}]

@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Apenas água.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Apenas \u00e1gua.","op":"replace"}]

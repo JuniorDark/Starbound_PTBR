@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral para protegê-lo de pessoas que ficam com raiva quando você devora outras pessoas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Cannibal's Chestguard",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral para proteg\u00ea-lo de pessoas que ficam com raiva quando voc\u00ea devora outras pessoas.","op":"replace"},{"path":"/shortdescription","value":"Cannibal's Chestguard","op":"replace"}]

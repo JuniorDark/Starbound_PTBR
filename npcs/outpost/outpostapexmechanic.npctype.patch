@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Não é muito, mas eu faço o que posso para manter este lugar mais típico.",
-    "path": "/scriptConfig/dialog/converse/apex/default/0"
-  },
-  {
-    "op": "replace",
-    "value": "Não é muito, mas eu faço o que posso para manter este lugar mais típico.",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  },
-  {
-    "op": "replace",
-    "value": "Bem-vindo meu amigo! É bom ver que outros que escaparam da tirania do Big Ape.",
-    "path": "/scriptConfig/dialog/converse/apex/apex/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/apex/default/0","value":"N\u00e3o \u00e9 muito, mas eu fa\u00e7o o que posso para manter este lugar mais t\u00edpico.","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/0","value":"N\u00e3o \u00e9 muito, mas eu fa\u00e7o o que posso para manter este lugar mais t\u00edpico.","op":"replace"},{"path":"/scriptConfig/dialog/converse/apex/apex/0","value":"Bem-vindo meu amigo! \u00c9 bom ver que outros que escaparam da tirania do Big Ape.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Fancy Hat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Perfeito para Ascot.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Fancy Hat","op":"replace"},{"path":"/description","value":"Perfeito para Ascot.","op":"replace"}]

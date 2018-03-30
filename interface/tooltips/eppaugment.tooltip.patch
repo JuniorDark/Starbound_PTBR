@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "0",
-    "path": "/priceLabel/value"
-  },
-  {
-    "op": "replace",
-    "value": "Equipe no EPP com o botão direito",
-    "path": "/instructionLabel/value"
-  }
-]
+[{"path":"/priceLabel/value","value":"0","op":"replace"},{"path":"/instructionLabel/value","value":"Equipe no EPP com o bot\u00e3o direito","op":"replace"}]

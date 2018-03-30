@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pathfinders's Helm",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O capacete do pathfinder é construído para comunicação. Infelizmente, este não funciona.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Pathfinders's Helm","op":"replace"},{"path":"/description","value":"O capacete do pathfinder \u00e9 constru\u00eddo para comunica\u00e7\u00e3o. Infelizmente, este n\u00e3o funciona.","op":"replace"}]

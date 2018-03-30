@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma fatia de uma deliciosa carne alienígena cozida.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Cooked Steak",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma fatia de uma deliciosa carne alien\u00edgena cozida.","op":"replace"},{"path":"/shortdescription","value":"Cooked Steak","op":"replace"}]

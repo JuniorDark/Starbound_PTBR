@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um top de dança, garante 300% menos balançamento.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Dance Top",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um top de dan\u00e7a, garante 300% menos balan\u00e7amento.","op":"replace"},{"path":"/shortdescription","value":"Dance Top","op":"replace"}]

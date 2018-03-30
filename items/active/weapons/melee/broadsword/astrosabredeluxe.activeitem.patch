@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma inscrição na lâmina diz, \"Bate aqui para se expressar!\"",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Asuterosaberu DX",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma inscri\u00e7\u00e3o na l\u00e2mina diz, \"Bate aqui para se expressar!\"","op":"replace"},{"path":"/shortdescription","value":"Asuterosaberu DX","op":"replace"}]

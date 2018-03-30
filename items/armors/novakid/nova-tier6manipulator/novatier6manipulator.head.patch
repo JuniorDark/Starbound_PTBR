@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um chapéu de relógio. Para lembrar seus inimigos da implacável marcha do tempo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Clockwork Hat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um chap\u00e9u de rel\u00f3gio. Para lembrar seus inimigos da implac\u00e1vel marcha do tempo.","op":"replace"},{"path":"/shortdescription","value":"Clockwork Hat","op":"replace"}]

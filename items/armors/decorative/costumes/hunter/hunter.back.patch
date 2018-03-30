@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma grande faca decorativa com uma cinta para vestir em suas costas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hunter's Knife",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma grande faca decorativa com uma cinta para vestir em suas costas.","op":"replace"},{"path":"/shortdescription","value":"Hunter's Knife","op":"replace"}]

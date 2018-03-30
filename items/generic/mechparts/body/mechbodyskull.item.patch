@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um corpo de mecha feito para furtividade e infiltração, personalizado com um rosto de crânio assustador.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Nightwinder Mech Body",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um corpo de mecha feito para furtividade e infiltra\u00e7\u00e3o, personalizado com um rosto de cr\u00e2nio assustador.","op":"replace"},{"path":"/shortdescription","value":"Nightwinder Mech Body","op":"replace"}]

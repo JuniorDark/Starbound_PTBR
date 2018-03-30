@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma comida cerimonial Avian tradicional comida em celebrações.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Feather Food",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma comida cerimonial Avian tradicional comida em celebra\u00e7\u00f5es.","op":"replace"},{"path":"/shortdescription","value":"Feather Food","op":"replace"}]

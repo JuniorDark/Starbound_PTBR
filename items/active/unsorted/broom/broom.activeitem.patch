@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Broom",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A mais útil das ferramentas de varrer.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Broom","op":"replace"},{"path":"/description","value":"A mais \u00fatil das ferramentas de varrer.","op":"replace"}]

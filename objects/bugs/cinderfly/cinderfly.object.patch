@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cinderfly",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Prospera em condições desoladas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Cinderfly","op":"replace"},{"path":"/description","value":"Prospera em condi\u00e7\u00f5es desoladas.","op":"replace"}]

@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Relâmpago Globular",
-    "path": "/altAbility/name"
-  },
-  {
-    "op": "replace",
-    "value": "Controle poderosos raios ao criar trilhas ionizadas pelo ar.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tesla's Staff",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/altAbility/name","value":"Rel\u00e2mpago Globular","op":"replace"},{"path":"/description","value":"Controle poderosos raios ao criar trilhas ionizadas pelo ar.","op":"replace"},{"path":"/shortdescription","value":"Tesla's Staff","op":"replace"}]

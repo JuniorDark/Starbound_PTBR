@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Este carinha espinhoso tem asas afiadas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Thornbee",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Este carinha espinhoso tem asas afiadas.","op":"replace"},{"path":"/shortdescription","value":"Thornbee","op":"replace"}]

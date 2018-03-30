@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um tentáculo invasor.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Protectorate Tentacle",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um tent\u00e1culo invasor.","op":"replace"},{"path":"/shortdescription","value":"Protectorate Tentacle","op":"replace"}]

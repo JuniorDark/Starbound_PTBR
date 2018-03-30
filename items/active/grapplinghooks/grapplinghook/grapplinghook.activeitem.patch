@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Grappling Hook",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Ah meu Deus, iupi! Isso é tão divertido!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Grappling Hook","op":"replace"},{"path":"/description","value":"Ah meu Deus, iupi! Isso \u00e9 t\u00e3o divertido!","op":"replace"}]

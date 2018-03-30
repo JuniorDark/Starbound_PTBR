@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Floresta",
-    "path": "/friendlyName"
-  }
-]
+[{"path":"/friendlyName","value":"Floresta","op":"replace"}]

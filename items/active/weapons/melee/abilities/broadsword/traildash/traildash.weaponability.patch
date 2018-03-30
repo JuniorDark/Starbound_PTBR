@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Esquiva de Rastro",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Esquiva de Rastro","op":"replace"}]

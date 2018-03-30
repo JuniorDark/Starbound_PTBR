@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Meteorito que se desfez em pó.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Meteorito que se desfez em p\u00f3.","op":"replace"}]

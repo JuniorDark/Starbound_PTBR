@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma variação da pizzap, ela tem mais do que um cheiro de cobre nela.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Piodia Slice",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma varia\u00e7\u00e3o da pizzap, ela tem mais do que um cheiro de cobre nela.","op":"replace"},{"path":"/shortdescription","value":"Piodia Slice","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Green Paintgun",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta arma de tinta vai deixar os outros verdes de inveja.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Green Paintgun","op":"replace"},{"path":"/description","value":"Esta arma de tinta vai deixar os outros verdes de inveja.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma máscara Kabuki muito intimidante. Ele esconde bem a identidade do portador.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Insidious Mask",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma m\u00e1scara Kabuki muito intimidante. Ele esconde bem a identidade do portador.","op":"replace"},{"path":"/shortdescription","value":"Insidious Mask","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma jaqueta justa com estofamento de ombros.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Deadbeat Spandex Jacket",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma jaqueta justa com estofamento de ombros.","op":"replace"},{"path":"/shortdescription","value":"Deadbeat Spandex Jacket","op":"replace"}]

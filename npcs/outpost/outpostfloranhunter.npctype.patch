@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Todos os Floran devem caçar e busscar a glória. É pra isso que você está aqui?",
-    "path": "/scriptConfig/dialog/converse/floran/default/0"
-  },
-  {
-    "op": "replace",
-    "value": "Outra Floran. Você deve compreender a glória da caça.",
-    "path": "/scriptConfig/dialog/converse/floran/floran/0"
-  },
-  {
-    "op": "replace",
-    "value": "Só os fortess obtem o respeito de Floran.",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/floran/default/0","value":"Todos os Floran devem ca\u00e7ar e busscar a gl\u00f3ria. \u00c9 pra isso que voc\u00ea est\u00e1 aqui?","op":"replace"},{"path":"/scriptConfig/dialog/converse/floran/floran/0","value":"Outra Floran. Voc\u00ea deve compreender a gl\u00f3ria da ca\u00e7a.","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/0","value":"S\u00f3 os fortess obtem o respeito de Floran.","op":"replace"}]

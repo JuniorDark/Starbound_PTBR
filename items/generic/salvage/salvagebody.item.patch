@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Salvaged Armor Plate",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este componente poderia ser útil para a fabricação de corpos de mecha.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Salvaged Armor Plate","op":"replace"},{"path":"/description","value":"Este componente poderia ser \u00fatil para a fabrica\u00e7\u00e3o de corpos de mecha.","op":"replace"}]

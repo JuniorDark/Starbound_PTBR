@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Sandclown",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Quem iria viver no deserto? Este palhaço.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Sandclown","op":"replace"},{"path":"/description","value":"Quem iria viver no deserto? Este palha\u00e7o.","op":"replace"}]

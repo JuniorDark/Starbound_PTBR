@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Substitui a arrancada por uma corrida que custa energia!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Corrida",
-    "path": "/shortDescription"
-  }
-]
+[{"path":"/description","value":"Substitui a arrancada por uma corrida que custa energia!","op":"replace"},{"path":"/shortDescription","value":"Corrida","op":"replace"}]

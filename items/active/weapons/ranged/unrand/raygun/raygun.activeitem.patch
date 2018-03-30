@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma arma estranha que dispara orbes de energia oscilantes.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Ray Gun",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Ray Gun ^yellow;^reset;",
-    "path": "/upgradeParameters/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma arma estranha que dispara orbes de energia oscilantes.","op":"replace"},{"path":"/shortdescription","value":"Ray Gun","op":"replace"},{"path":"/upgradeParameters/shortdescription","value":"Ray Gun ^yellow;\ue024^reset;","op":"replace"}]

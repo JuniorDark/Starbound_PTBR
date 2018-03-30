@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Poptop Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"O Poptop cantarola lindamente para confundir sua presa.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Poptop Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"O Poptop cantarola lindamente para confundir sua presa.\"","op":"replace"}]

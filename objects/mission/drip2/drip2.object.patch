@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Acid Drop Source",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Ácido está pingando deste lugar.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Acid Drop Source","op":"replace"},{"path":"/description","value":"\u00c1cido est\u00e1 pingando deste lugar.","op":"replace"}]

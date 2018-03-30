@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Fish and Chips",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Fritar todas as coisas! Este é um velho favorito para os seres humanos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Fish and Chips","op":"replace"},{"path":"/description","value":"Fritar todas as coisas! Este \u00e9 um velho favorito para os seres humanos.","op":"replace"}]

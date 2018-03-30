@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma capa básica. Uma cor sólida é tudo que você precisa!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Simple Cape",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma capa b\u00e1sica. Uma cor s\u00f3lida \u00e9 tudo que voc\u00ea precisa!","op":"replace"},{"path":"/shortdescription","value":"Simple Cape","op":"replace"}]

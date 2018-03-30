@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Manipulador de Matéria",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Manipule qualquer coisa que importa. ^green;Selecione rapidamente com a tecla [R].",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Manipulador de Mat\u00e9ria","op":"replace"},{"path":"/description","value":"Manipule qualquer coisa que importa. ^green;Selecione rapidamente com a tecla [R].","op":"replace"}]

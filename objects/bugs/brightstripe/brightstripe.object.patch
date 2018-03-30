@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Brightstripe",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Vibrante e bonito, tem um sorriso pequeno amigável em sua cara.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Brightstripe","op":"replace"},{"path":"/description","value":"Vibrante e bonito, tem um sorriso pequeno amig\u00e1vel em sua cara.","op":"replace"}]

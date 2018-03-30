@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Poderosamente forte para cobrir longas distâncias.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tesla's Wrath",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Tesla's Wrath ^yellow;^reset;",
-    "path": "/upgradeParameters/shortdescription"
-  }
-]
+[{"path":"/description","value":"Poderosamente forte para cobrir longas dist\u00e2ncias.","op":"replace"},{"path":"/shortdescription","value":"Tesla's Wrath","op":"replace"},{"path":"/upgradeParameters/shortdescription","value":"Tesla's Wrath ^yellow;\ue024^reset;","op":"replace"}]

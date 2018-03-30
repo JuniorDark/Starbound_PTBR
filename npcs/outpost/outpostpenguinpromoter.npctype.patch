@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Tem uma nave? Você deve conferir a Penguin Bay la trás! Muitas vezes temos coisas úteis para viajantes como você.",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Tem uma nave? Voc\u00ea deve conferir a Penguin Bay la tr\u00e1s! Muitas vezes temos coisas \u00fateis para viajantes como voc\u00ea.","op":"replace"}]

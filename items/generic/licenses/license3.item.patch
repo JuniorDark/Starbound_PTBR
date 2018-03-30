@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Falcon License",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Qualifica o portador para voar em naves da classe Falcon.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Falcon License","op":"replace"},{"path":"/description","value":"Qualifica o portador para voar em naves da classe Falcon.","op":"replace"}]

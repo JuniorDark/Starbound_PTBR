@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ele se esconde em fendas escuras e cantos, rapidamente atacando a presa despretensiosa que vagueia próxima.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Swarpion",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Ele se esconde em fendas escuras e cantos, rapidamente atacando a presa despretensiosa que vagueia pr\u00f3xima.","op":"replace"},{"path":"/shortdescription","value":"Swarpion","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Certamente a única coisa mais assustadora do que um esqueleto é um esqueleto voando!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Skeletal Wings",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Certamente a \u00fanica coisa mais assustadora do que um esqueleto \u00e9 um esqueleto voando!","op":"replace"},{"path":"/shortdescription","value":"Skeletal Wings","op":"replace"}]

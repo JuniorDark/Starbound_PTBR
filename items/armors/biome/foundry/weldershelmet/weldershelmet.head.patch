@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Isto irá fornecer proteção suficiente contra o calor enquanto você está soldando.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Welder's Helmet",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Isto ir\u00e1 fornecer prote\u00e7\u00e3o suficiente contra o calor enquanto voc\u00ea est\u00e1 soldando.","op":"replace"},{"path":"/shortdescription","value":"Welder's Helmet","op":"replace"}]

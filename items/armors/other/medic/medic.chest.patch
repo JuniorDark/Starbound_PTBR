@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma jaqueta de combate militar, projetada para um médico.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Combat Medic Chest",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma jaqueta de combate militar, projetada para um m\u00e9dico.","op":"replace"},{"path":"/shortdescription","value":"Combat Medic Chest","op":"replace"}]

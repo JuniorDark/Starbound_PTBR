@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Moderadamente confortável, razoavelmente fácil de usar.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Shorts",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Moderadamente confort\u00e1vel, razoavelmente f\u00e1cil de usar.","op":"replace"},{"path":"/shortdescription","value":"Shorts","op":"replace"}]

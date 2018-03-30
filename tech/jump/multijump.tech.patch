@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Te dá 3 pequenos pulos que você pode usar no ar!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Multi Pulo",
-    "path": "/shortDescription"
-  }
-]
+[{"path":"/description","value":"Te d\u00e1 3 pequenos pulos que voc\u00ea pode usar no ar!","op":"replace"},{"path":"/shortDescription","value":"Multi Pulo","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma pétala vermelha, poderia ser transformada em corante.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Red Petal",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma p\u00e9tala vermelha, poderia ser transformada em corante.","op":"replace"},{"path":"/shortdescription","value":"Red Petal","op":"replace"}]

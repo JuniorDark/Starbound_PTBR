@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Posto Avançado",
-    "path": "/friendlyName"
-  }
-]
+[{"path":"/friendlyName","value":"Posto Avan\u00e7ado","op":"replace"}]

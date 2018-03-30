@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Óculos adequados para aqueles com visão trinocular!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Three-Eyed Glasses",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\u00d3culos adequados para aqueles com vis\u00e3o trinocular!","op":"replace"},{"path":"/shortdescription","value":"Three-Eyed Glasses","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Seeker's Chestguard",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O circuito dentro desta armadura regula a taxa de respiração e ajuda o usuário a manter uma mira firme.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Seeker's Chestguard","op":"replace"},{"path":"/description","value":"O circuito dentro desta armadura regula a taxa de respira\u00e7\u00e3o e ajuda o usu\u00e1rio a manter uma mira firme.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "É um diodo laser.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Laser Diode",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\u00c9 um diodo laser.","op":"replace"},{"path":"/shortdescription","value":"Laser Diode","op":"replace"}]

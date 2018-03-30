@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Nada melhor em um dia quente do que uma refrescante e gelada lata de Oculemonade.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Oculemonade",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Nada melhor em um dia quente do que uma refrescante e gelada lata de Oculemonade.","op":"replace"},{"path":"/shortdescription","value":"Oculemonade","op":"replace"}]

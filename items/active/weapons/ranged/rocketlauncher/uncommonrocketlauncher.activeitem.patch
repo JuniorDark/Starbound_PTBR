@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "O poder para explodir as coisas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Uncommon Rocket Launcher",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"O poder para explodir as coisas.","op":"replace"},{"path":"/shortdescription","value":"Uncommon Rocket Launcher","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bush Prop 1",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Um arbusto de um planeta oceânico.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Bush Prop 1","op":"replace"},{"path":"/description","value":"Um arbusto de um planeta oce\u00e2nico.","op":"replace"}]

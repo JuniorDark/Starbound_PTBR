@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Dispara flechas imbuída com geada incapacitante.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Frozen Bow",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Dispara flechas imbu\u00edda com geada incapacitante.","op":"replace"},{"path":"/shortdescription","value":"Frozen Bow","op":"replace"}]

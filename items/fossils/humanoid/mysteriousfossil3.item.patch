@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um par de pernas fossilizadas não identificadas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Unidentified Legs",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um par de pernas fossilizadas n\u00e3o identificadas.","op":"replace"},{"path":"/shortdescription","value":"Unidentified Legs","op":"replace"}]

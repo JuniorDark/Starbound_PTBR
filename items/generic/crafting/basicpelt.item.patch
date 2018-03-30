@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "É a pele de um animal.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Pelt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\u00c9 a pele de um animal.","op":"replace"},{"path":"/shortdescription","value":"Pelt","op":"replace"}]

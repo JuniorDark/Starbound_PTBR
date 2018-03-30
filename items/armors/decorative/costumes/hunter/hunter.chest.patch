@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Hunter Jacket",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Robusto, prático, elegante.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Hunter Jacket","op":"replace"},{"path":"/description","value":"Robusto, pr\u00e1tico, elegante.","op":"replace"}]

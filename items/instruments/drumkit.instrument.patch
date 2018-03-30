@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma bateria. Melhor avisar os vizinhos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Drum Kit",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma bateria. Melhor avisar os vizinhos.","op":"replace"},{"path":"/shortdescription","value":"Drum Kit","op":"replace"}]

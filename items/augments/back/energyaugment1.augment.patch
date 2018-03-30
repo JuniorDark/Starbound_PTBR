@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um módulo de EPP que aumenta um pouco a sua energia total.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Energy I Augment",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um m\u00f3dulo de EPP que aumenta um pouco a sua energia total.","op":"replace"},{"path":"/shortdescription","value":"Energy I Augment","op":"replace"}]

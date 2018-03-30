@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um trecho do diário de Hiraki Corale, Hylotl Aventureiro.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Preso em uma Tumba",
-    "path": "/title"
-  },
-  {
-    "op": "replace",
-    "value": "por Hiraki Corale, Hylotl Aventureiro\n\nEntão eu estou preso em uma tumba. Estou aqui há algumas semanas, pelas minhas contas. Eu não consigo encontrar a saída. Eu acionei uma porta secreta e, porque portas secretas são super emocionantes, entrei. Ela fechou-se atrás de mim, e agora eu estou preso em algum conjunto empoeirado de túneis. Eu vou encontrar uma maneira de sair, eventualmente, é claro, eu sempre encontro. Estou surpreso que ninguém me resgatou embora, Eu certamente estou fazendo muito barulho.",
-    "path": "/contentPages/0"
-  }
-]
+[{"path":"/description","value":"Um trecho do di\u00e1rio de Hiraki Corale, Hylotl Aventureiro.","op":"replace"},{"path":"/title","value":"Preso em uma Tumba","op":"replace"},{"path":"/contentPages/0","value":"por Hiraki Corale, Hylotl Aventureiro\n\nEnt\u00e3o eu estou preso em uma tumba. Estou aqui h\u00e1 algumas semanas, pelas minhas contas. Eu n\u00e3o consigo encontrar a sa\u00edda. Eu acionei uma porta secreta e, porque portas secretas s\u00e3o super emocionantes, entrei. Ela fechou-se atr\u00e1s de mim, e agora eu estou preso em algum conjunto empoeirado de t\u00faneis. Eu vou encontrar uma maneira de sair, eventualmente, \u00e9 claro, eu sempre encontro. Estou surpreso que ningu\u00e9m me resgatou embora, Eu certamente estou fazendo muito barulho.","op":"replace"}]

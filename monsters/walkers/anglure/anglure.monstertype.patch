@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Anglure",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "À noite, tudo que você pode ver do Anglure é a sua luz.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Anglure","op":"replace"},{"path":"/description","value":"\u00c0 noite, tudo que voc\u00ea pode ver do Anglure \u00e9 a sua luz.","op":"replace"}]

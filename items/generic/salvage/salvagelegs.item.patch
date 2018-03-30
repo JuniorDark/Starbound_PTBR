@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Salvaged Actuator",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este componente poderia ser útil para a fabricação de pernas de mecha.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Salvaged Actuator","op":"replace"},{"path":"/description","value":"Este componente poderia ser \u00fatil para a fabrica\u00e7\u00e3o de pernas de mecha.","op":"replace"}]

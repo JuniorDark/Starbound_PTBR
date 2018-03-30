@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Prairie Terraformer",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Transforma o clima de um planeta em uma pastagem árida.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Prairie Terraformer","op":"replace"},{"path":"/description","value":"Transforma o clima de um planeta em uma pastagem \u00e1rida.","op":"replace"}]

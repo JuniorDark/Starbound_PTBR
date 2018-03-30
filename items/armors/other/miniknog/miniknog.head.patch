@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um capacete edição padrão para soldados da Miniknog.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Miniknog Helmet",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um capacete edi\u00e7\u00e3o padr\u00e3o para soldados da Miniknog.","op":"replace"},{"path":"/shortdescription","value":"Miniknog Helmet","op":"replace"}]

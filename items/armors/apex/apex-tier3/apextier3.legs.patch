@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Calças com absorção de Impacto com botas de placa de titânio.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Insurgent's Trousers",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Cal\u00e7as com absor\u00e7\u00e3o de Impacto com botas de placa de tit\u00e2nio.","op":"replace"},{"path":"/shortdescription","value":"Insurgent's Trousers","op":"replace"}]

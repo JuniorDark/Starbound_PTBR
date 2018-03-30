@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Gentilmente e eficiente rega suas plantações.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Wooden Watering Can",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Gentilmente e eficiente rega suas planta\u00e7\u00f5es.","op":"replace"},{"path":"/shortdescription","value":"Wooden Watering Can","op":"replace"}]

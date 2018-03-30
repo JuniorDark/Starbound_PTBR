@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Quadris de Ixodoom fossilizado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Ixodoom Hips",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Quadris de Ixodoom fossilizado.","op":"replace"},{"path":"/shortdescription","value":"Ixodoom Hips","op":"replace"}]

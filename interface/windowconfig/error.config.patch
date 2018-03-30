@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Erro ocorrido ",
-    "path": "/paneLayout/labelError/value"
-  },
-  {
-    "op": "replace",
-    "value": "Ok",
-    "path": "/paneLayout/btnOk/caption"
-  }
-]
+[{"path":"/paneLayout/labelError/value","value":"Erro ocorrido ","op":"replace"},{"path":"/paneLayout/btnOk/caption","value":"Ok","op":"replace"}]

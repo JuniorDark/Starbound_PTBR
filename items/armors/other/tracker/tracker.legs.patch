@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Estas botas deixam uma pegada distinta.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tracker's Trousers",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Estas botas deixam uma pegada distinta.","op":"replace"},{"path":"/shortdescription","value":"Tracker's Trousers","op":"replace"}]

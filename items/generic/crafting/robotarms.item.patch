@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Robot Arms",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Braços robóticos fortes, capazes de levantar objetos pesados.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Robot Arms","op":"replace"},{"path":"/description","value":"Bra\u00e7os rob\u00f3ticos fortes, capazes de levantar objetos pesados.","op":"replace"}]

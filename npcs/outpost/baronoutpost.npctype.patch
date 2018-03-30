@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Animado. Esther estava me mostrando como ^orange;consertar armas Protetoradas quebradas^white;. Se eu pudesse consertar meu próprio corpo enferrujado. Ha ha ha!",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  },
-  {
-    "op": "replace",
-    "value": "O Barão",
-    "path": "/npcname"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Animado. Esther tem me mostrando como ^orange;consertar armas Protetoradas quebradas^white;. Se eu pudesse consertar meu pr\u00f3prio corpo enferrujado. Ha ha ha!","op":"replace"},{"path":"/npcname","value":"O Bar\u00e3o","op":"replace"}]

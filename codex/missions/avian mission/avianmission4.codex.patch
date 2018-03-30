@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Escritos de um Avian Grounded sobre grandes templos Avian.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Os Grandes Templos",
-    "path": "/title"
-  },
-  {
-    "op": "replace",
-    "value": "O Sovereign é de longe o mais impressionante dos seis Grandes Templos. Ele é o maior, o mais antigo, e o único que não se tornou mais uma ruína. Enquanto os outros se desintegraram, o Sovereign sobreviveu - nunca houveram saqueamentos ou invasões, intocado pelos estragos do tempo. Ele tem resistido, protegendo os seus tesouros, desde antes da memória. É dito que todos os seis Grandes Templos guardam relíquias de Kluex. Talvez O Sovereign guarde algo de poder genuíno e importância.",
-    "path": "/contentPages/0"
-  }
-]
+[{"path":"/description","value":"Escritos de um Avian Grounded sobre grandes templos Avian.","op":"replace"},{"path":"/title","value":"Os Grandes Templos","op":"replace"},{"path":"/contentPages/0","value":"O Sovereign \u00e9 de longe o mais impressionante dos seis Grandes Templos. Ele \u00e9 o maior, o mais antigo, e o \u00fanico que n\u00e3o se tornou mais uma ru\u00edna. Enquanto os outros se desintegraram, o Sovereign sobreviveu - nunca houveram saqueamentos ou invas\u00f5es, intocado pelos estragos do tempo. Ele tem resistido, protegendo os seus tesouros, desde antes da mem\u00f3ria. \u00c9 dito que todos os seis Grandes Templos guardam rel\u00edquias de Kluex. Talvez O Sovereign guarde algo de poder genu\u00edno e import\u00e2ncia.","op":"replace"}]

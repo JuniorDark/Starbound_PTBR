@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "AGORA você minera peixe.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Fishaxe",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"AGORA voc\u00ea minera peixe.","op":"replace"},{"path":"/shortdescription","value":"Fishaxe","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Lancer's Breastplate",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Leve e resistente, construído para incentivar a velocidade e destreza em seu usuário.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Lancer's Breastplate","op":"replace"},{"path":"/description","value":"Leve e resistente, constru\u00eddo para incentivar a velocidade e destreza em seu usu\u00e1rio.","op":"replace"}]

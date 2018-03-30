@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma auto drive. No futuro eu posso usar isso para fortalecer veículos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Auto Drive",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma auto drive. No futuro eu posso usar isso para fortalecer ve\u00edculos.","op":"replace"},{"path":"/shortdescription","value":"Auto Drive","op":"replace"}]

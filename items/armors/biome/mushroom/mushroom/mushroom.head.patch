@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Mushroom Hat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Com este chapéu, você pode ser confundido com um cogumelo.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Mushroom Hat","op":"replace"},{"path":"/description","value":"Com este chap\u00e9u, voc\u00ea pode ser confundido com um cogumelo.","op":"replace"}]

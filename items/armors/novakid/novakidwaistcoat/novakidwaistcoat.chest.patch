@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Para o viajante espacial leve.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Formal Waistcoat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Para o viajante espacial leve.","op":"replace"},{"path":"/shortdescription","value":"Formal Waistcoat","op":"replace"}]

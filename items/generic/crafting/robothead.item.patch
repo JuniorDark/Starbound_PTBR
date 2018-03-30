@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma cabeça de robô, completa com cérebro vivo!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Robot Head",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma cabe\u00e7a de rob\u00f4, completa com c\u00e9rebro vivo!","op":"replace"},{"path":"/shortdescription","value":"Robot Head","op":"replace"}]

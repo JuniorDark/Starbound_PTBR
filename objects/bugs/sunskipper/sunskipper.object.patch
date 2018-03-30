@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Sunskipper",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este inseto bonito ama a luz do sol.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Sunskipper","op":"replace"},{"path":"/description","value":"Este inseto bonito ama a luz do sol.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma camisa pegajosa feita de piche espesso.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tar Shirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma camisa pegajosa feita de piche espesso.","op":"replace"},{"path":"/shortdescription","value":"Tar Shirt","op":"replace"}]

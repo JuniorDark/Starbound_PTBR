@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "SPRAY DE TINTA",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"SPRAY DE TINTA","op":"replace"}]

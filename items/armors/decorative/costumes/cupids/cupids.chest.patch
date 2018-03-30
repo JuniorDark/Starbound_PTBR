@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cupid's Sash",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Faixa de cupido. Será que isso segura as asas?",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Cupid's Sash","op":"replace"},{"path":"/description","value":"Faixa de cupido. Ser\u00e1 que isso segura as asas?","op":"replace"}]

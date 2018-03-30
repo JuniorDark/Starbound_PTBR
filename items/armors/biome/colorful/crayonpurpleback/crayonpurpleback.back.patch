@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um giz de cera roxo. Equipe para trazer um pouco de cor para sua roupa.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Purple Crayon",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um giz de cera roxo. Equipe para trazer um pouco de cor para sua roupa.","op":"replace"},{"path":"/shortdescription","value":"Purple Crayon","op":"replace"}]

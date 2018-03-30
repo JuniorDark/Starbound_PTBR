@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "\"Uma amostra perfeita de um minério de solarium.\"",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Solarium Sample",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\"Uma amostra perfeita de um min\u00e9rio de solarium.\"","op":"replace"},{"path":"/shortdescription","value":"Solarium Sample","op":"replace"}]

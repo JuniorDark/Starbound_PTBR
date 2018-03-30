@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um nariz de mordaça redondo. É para ser engraçado, mas realmente não é.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Gag Nose",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um nariz de morda\u00e7a redondo. \u00c9 para ser engra\u00e7ado, mas realmente n\u00e3o \u00e9.","op":"replace"},{"path":"/shortdescription","value":"Gag Nose","op":"replace"}]

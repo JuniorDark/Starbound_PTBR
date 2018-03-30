@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Glass shaft piece background",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Glass shaft piece background",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Glass shaft piece background","op":"replace"},{"path":"/shortdescription","value":"Glass shaft piece background","op":"replace"}]

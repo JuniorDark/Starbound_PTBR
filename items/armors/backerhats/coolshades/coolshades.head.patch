@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um conjunto muito legal de óculos escuros. Parece que alguém famoso usaria estes.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Cool Shades",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um conjunto muito legal de \u00f3culos escuros. Parece que algu\u00e9m famoso usaria estes.","op":"replace"},{"path":"/shortdescription","value":"Cool Shades","op":"replace"}]

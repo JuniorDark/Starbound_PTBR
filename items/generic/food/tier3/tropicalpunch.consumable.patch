@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma mistura tropical que tem grande efeito.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tropical Punch",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma mistura tropical que tem grande efeito.","op":"replace"},{"path":"/shortdescription","value":"Tropical Punch","op":"replace"}]

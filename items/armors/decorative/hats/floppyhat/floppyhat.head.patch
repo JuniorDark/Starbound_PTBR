@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Floppy Fancy Hat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Perfeito para tomar chá no gramado.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Floppy Fancy Hat","op":"replace"},{"path":"/description","value":"Perfeito para tomar ch\u00e1 no gramado.","op":"replace"}]

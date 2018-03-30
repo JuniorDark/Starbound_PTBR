@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um chapéu irrecusável",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Horse head",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um chap\u00e9u irrecus\u00e1vel","op":"replace"},{"path":"/shortdescription","value":"Horse head","op":"replace"}]

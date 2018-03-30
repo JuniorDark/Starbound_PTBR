@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Transmissão de Emergência da Terra",
-    "path": "/title"
-  },
-  {
-    "op": "replace",
-    "value": "S.O.S. - SALVE NOSSA ESPÉCIE  // \nA TERRA ESTÁ SENDO ATACADA POR UM ORGANISMO NÃO IDENTIFICADO. A DESTRUIÇÃO É IMINENTE  // \nA EVACUAÇÃO É IMPOSSÍVEL SEM NENHUM ASSENTAMENTO PRINCIPAL FORA DO PLANETA  // \nSE VOCÊ É UM HUMANO RECEBENDO ESTA TRANSMISSÃO, NÓS SOMOS AGORA UMA ESPÉCIE EM EXTINÇÃO  // \nO FUTURO DO PROTETORADO TERRENO ESTÁ NAS SUAS MÃOS  //",
-    "path": "/contentPages/0"
-  },
-  {
-    "op": "replace",
-    "value": "A última mensagem desesperada enviada da Terra qunado o desastre aconteceu.",
-    "path": "/description"
-  }
-]
+[{"path":"/title","value":"Transmiss\u00e3o de Emerg\u00eancia da Terra","op":"replace"},{"path":"/contentPages/0","value":"S.O.S. - SALVE NOSSA ESP\u00c9CIE  // \nA TERRA EST\u00c1 SENDO ATACADA POR UM ORGANISMO N\u00c3O IDENTIFICADO. A DESTRUI\u00c7\u00c3O \u00c9 IMINENTE  // \nA EVACUA\u00c7\u00c3O \u00c9 IMPOSS\u00cdVEL SEM NENHUM ASSENTAMENTO PRINCIPAL FORA DO PLANETA  // \nSE VOC\u00ca \u00c9 UM HUMANO RECEBENDO ESTA TRANSMISS\u00c3O, N\u00d3S SOMOS AGORA UMA ESP\u00c9CIE EM EXTIN\u00c7\u00c3O  // \nO FUTURO DO PROTETORADO TERRENO EST\u00c1 NAS SUAS M\u00c3OS  //","op":"replace"},{"path":"/description","value":"A \u00faltima mensagem desesperada enviada da Terra qunado o desastre aconteceu.","op":"replace"}]

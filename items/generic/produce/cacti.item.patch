@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cactus",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Cacto espinhento e suculento.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Cactus","op":"replace"},{"path":"/description","value":"Cacto espinhento e suculento.","op":"replace"}]

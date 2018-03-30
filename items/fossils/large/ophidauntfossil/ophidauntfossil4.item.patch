@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma cauda média de Ophidaunt fossilizada.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Ophidaunt Mid Tail",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma cauda m\u00e9dia de Ophidaunt fossilizada.","op":"replace"},{"path":"/shortdescription","value":"Ophidaunt Mid Tail","op":"replace"}]

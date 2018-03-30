@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um casaco escuro com uma ombreira empoeirada.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Outlaw Chest",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um casaco escuro com uma ombreira empoeirada.","op":"replace"},{"path":"/shortdescription","value":"Outlaw Chest","op":"replace"}]

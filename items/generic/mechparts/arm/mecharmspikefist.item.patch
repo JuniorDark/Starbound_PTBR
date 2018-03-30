@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma arma de mecha que dispara um punho de auto-retorno com espinhos de durasteel.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Spikefist Mech Arm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma arma de mecha que dispara um punho de auto-retorno com espinhos de durasteel.","op":"replace"},{"path":"/shortdescription","value":"Spikefist Mech Arm","op":"replace"}]

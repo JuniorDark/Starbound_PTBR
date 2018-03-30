@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Segundo a lenda, esta lâmina flamejante foi forjada por anjos caídos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Firestorm's Fury",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Firestorm's Fury ^yellow;^reset;",
-    "path": "/upgradeParameters/shortdescription"
-  }
-]
+[{"path":"/description","value":"Segundo a lenda, esta l\u00e2mina flamejante foi forjada por anjos ca\u00eddos.","op":"replace"},{"path":"/shortdescription","value":"Firestorm's Fury","op":"replace"},{"path":"/upgradeParameters/shortdescription","value":"Firestorm's Fury ^yellow;\ue024^reset;","op":"replace"}]

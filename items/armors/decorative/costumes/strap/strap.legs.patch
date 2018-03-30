@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cintas de corpo indutoras de calor. Parece que não estou usando nada!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Strap Legs",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Cintas de corpo indutoras de calor. Parece que n\u00e3o estou usando nada!","op":"replace"},{"path":"/shortdescription","value":"Strap Legs","op":"replace"}]

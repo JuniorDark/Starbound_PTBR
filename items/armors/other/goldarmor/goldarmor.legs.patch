@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Gold Greaves",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Calças douradas para aqueles que preferem vestir sua riqueza.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Gold Greaves","op":"replace"},{"path":"/description","value":"Cal\u00e7as douradas para aqueles que preferem vestir sua riqueza.","op":"replace"}]

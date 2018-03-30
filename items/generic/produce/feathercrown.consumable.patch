@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Feathercrown",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Feathercrown, você tem que arrancá-la antes de consumir.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Feathercrown","op":"replace"},{"path":"/description","value":"Feathercrown, voc\u00ea tem que arranc\u00e1-la antes de consumir.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um processador muito poderoso.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Processor",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um processador muito poderoso.","op":"replace"},{"path":"/shortdescription","value":"Processor","op":"replace"}]

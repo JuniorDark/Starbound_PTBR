@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Fish Pie",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Torta Stargazy! Peixes cozidos em molho, coberto com purê cremoso.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Fish Pie","op":"replace"},{"path":"/description","value":"Torta Stargazy! Peixes cozidos em molho, coberto com pur\u00ea cremoso.","op":"replace"}]

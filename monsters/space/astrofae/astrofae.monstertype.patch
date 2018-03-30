@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Astrofae",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Está no espaço!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Astrofae","op":"replace"},{"path":"/description","value":"Est\u00e1 no espa\u00e7o!","op":"replace"}]

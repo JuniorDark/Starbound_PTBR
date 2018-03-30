@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Capture Pod",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Jogue em um monstro para capturá-lo a força e leva-lo para um novo lar.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Capture Pod","op":"replace"},{"path":"/description","value":"Jogue em um monstro para captur\u00e1-lo a for\u00e7a e leva-lo para um novo lar.","op":"replace"}]

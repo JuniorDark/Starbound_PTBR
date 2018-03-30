@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma grande tigela de legumes misturados. Nutritivo!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Garden Salad",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma grande tigela de legumes misturados. Nutritivo!","op":"replace"},{"path":"/shortdescription","value":"Garden Salad","op":"replace"}]

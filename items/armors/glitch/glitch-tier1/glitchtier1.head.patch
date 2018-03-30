@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Knave's Helm",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este elmo de ferro só protege o topo da cabeça.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Knave's Helm","op":"replace"},{"path":"/description","value":"Este elmo de ferro s\u00f3 protege o topo da cabe\u00e7a.","op":"replace"}]

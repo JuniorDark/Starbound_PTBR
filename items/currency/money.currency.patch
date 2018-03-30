@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pixels",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Pixels são uma moeda universal. Eles também podem ser usados para impressão 3D.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Pixels","op":"replace"},{"path":"/description","value":"Pixels s\u00e3o uma moeda universal. Eles tamb\u00e9m podem ser usados para impress\u00e3o 3D.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um corpo de mecha imponente, desenhado à imagem de um guerreiro Avian.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Champion Mech Body",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um corpo de mecha imponente, desenhado \u00e0 imagem de um guerreiro Avian.","op":"replace"},{"path":"/shortdescription","value":"Champion Mech Body","op":"replace"}]

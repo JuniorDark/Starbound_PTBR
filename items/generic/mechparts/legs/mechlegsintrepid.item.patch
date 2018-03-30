@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pernas de mecha resistentes que equilíbra velocidade e potência de propulsão.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Intrepid Mech Legs",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Pernas de mecha resistentes que equil\u00edbra velocidade e pot\u00eancia de propuls\u00e3o.","op":"replace"},{"path":"/shortdescription","value":"Intrepid Mech Legs","op":"replace"}]

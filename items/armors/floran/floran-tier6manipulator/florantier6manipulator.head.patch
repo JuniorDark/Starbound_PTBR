@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Olhos maníacos e um sorriso diabólico são os aspectos menos inquietantes desta máscara terrível.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Shaman's Mask",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Olhos man\u00edacos e um sorriso diab\u00f3lico s\u00e3o os aspectos menos inquietantes desta m\u00e1scara terr\u00edvel.","op":"replace"},{"path":"/shortdescription","value":"Shaman's Mask","op":"replace"}]

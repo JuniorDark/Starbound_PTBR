@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Oi, sou Kyren! Estou muito interessado nas origens do Universo.",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Oi, sou Kyren! Estou muito interessado nas origens do Universo.","op":"replace"}]

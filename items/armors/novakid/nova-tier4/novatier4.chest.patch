@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Seja o mais bem vestido na cidade, neste colete de xerife!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Sheriff's Vest",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Seja o mais bem vestido na cidade, neste colete de xerife!","op":"replace"},{"path":"/shortdescription","value":"Sheriff's Vest","op":"replace"}]

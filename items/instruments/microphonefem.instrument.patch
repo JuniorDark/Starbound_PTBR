@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um microfone. Para todas as divas emotivas lá fora.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "High-Pitch Microphone",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um microfone. Para todas as divas emotivas l\u00e1 fora.","op":"replace"},{"path":"/shortdescription","value":"High-Pitch Microphone","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um casaco ameaçador, mas elegante.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Bonesaw's Coat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um casaco amea\u00e7ador, mas elegante.","op":"replace"},{"path":"/shortdescription","value":"Bonesaw's Coat","op":"replace"}]

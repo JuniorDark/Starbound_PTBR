@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Roupão tradicional de um zelador.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Caretaker Robes",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Roup\u00e3o tradicional de um zelador.","op":"replace"},{"path":"/shortdescription","value":"Caretaker Robes","op":"replace"}]

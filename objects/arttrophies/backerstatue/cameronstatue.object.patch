@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma estátua de Cameron \"KyeTheShy\" York. Amei a aventura, mas foi um pouco longe demais... No espaço.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Cameron York Statue",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma est\u00e1tua de Cameron \"KyeTheShy\" York. Amei a aventura, mas foi um pouco longe demais... No espa\u00e7o.","op":"replace"},{"path":"/shortdescription","value":"Cameron York Statue","op":"replace"}]

@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Piche grosso cobre o chão aqui.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Piche grosso cobre o ch\u00e3o aqui.","op":"replace"}]

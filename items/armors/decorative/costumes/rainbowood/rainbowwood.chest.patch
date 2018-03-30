@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Rainbow Wood Shirt",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este peitoral de madeira me faz sentir como uma árvore.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Rainbow Wood Shirt","op":"replace"},{"path":"/description","value":"Este peitoral de madeira me faz sentir como uma \u00e1rvore.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um tronco de Avioscale fossilizado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Avioscale Torso",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um tronco de Avioscale fossilizado.","op":"replace"},{"path":"/shortdescription","value":"Avioscale Torso","op":"replace"}]

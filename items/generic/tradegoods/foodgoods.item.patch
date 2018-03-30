@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma caixa selada de alimentos e ingredientes, valiosa para o comércio interestelar.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Food Rations",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma caixa selada de alimentos e ingredientes, valiosa para o com\u00e9rcio interestelar.","op":"replace"},{"path":"/shortdescription","value":"Food Rations","op":"replace"}]

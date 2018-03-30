@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma baga gigante que você pode usar. Não deve ser confundida com uma boina.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Berry Hat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma baga gigante que voc\u00ea pode usar. N\u00e3o deve ser confundida com uma boina.","op":"replace"},{"path":"/shortdescription","value":"Berry Hat","op":"replace"}]

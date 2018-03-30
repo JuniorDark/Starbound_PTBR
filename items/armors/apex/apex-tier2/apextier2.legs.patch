@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Rebel's Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Armadura de perna banhada a tungstênio que não restringe o movimento do utilizador.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Rebel's Trousers","op":"replace"},{"path":"/description","value":"Armadura de perna banhada a tungst\u00eanio que n\u00e3o restringe o movimento do utilizador.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Reef-Cola",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Prove o oceano, com Reef-Cola.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Reef-Cola","op":"replace"},{"path":"/description","value":"Prove o oceano, com Reef-Cola.","op":"replace"}]

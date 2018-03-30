@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um braço que dispara cartuchos que explodem em todas as direções.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Split Shot Mech Arm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um bra\u00e7o que dispara cartuchos que explodem em todas as dire\u00e7\u00f5es.","op":"replace"},{"path":"/shortdescription","value":"Split Shot Mech Arm","op":"replace"}]

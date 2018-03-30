@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma cartola punk com um relógio nela.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Clock Tophat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma cartola punk com um rel\u00f3gio nela.","op":"replace"},{"path":"/shortdescription","value":"Clock Tophat","op":"replace"}]

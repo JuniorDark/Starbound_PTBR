@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma moeda contratual aceita por Pinguins Mercenários no Bar Beakeasy.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Dubloon",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma moeda contratual aceita por Pinguins Mercen\u00e1rios no Bar Beakeasy.","op":"replace"},{"path":"/shortdescription","value":"Dubloon","op":"replace"}]

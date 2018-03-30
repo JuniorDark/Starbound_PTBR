@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Iron Broadsword",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "É uma espada mal acabada.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Iron Broadsword","op":"replace"},{"path":"/description","value":"\u00c9 uma espada mal acabada.","op":"replace"}]

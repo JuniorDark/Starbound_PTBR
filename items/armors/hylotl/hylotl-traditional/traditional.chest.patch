@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um estilo comum de camisa que oferece conforto e simplicidade.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Traditional Shirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um estilo comum de camisa que oferece conforto e simplicidade.","op":"replace"},{"path":"/shortdescription","value":"Traditional Shirt","op":"replace"}]

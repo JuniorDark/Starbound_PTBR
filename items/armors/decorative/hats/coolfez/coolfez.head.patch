@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cool Fez",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Fezzes são... legais!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Cool Fez","op":"replace"},{"path":"/description","value":"Fezzes s\u00e3o... legais!","op":"replace"}]

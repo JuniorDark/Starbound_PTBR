@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma tanga feita de placas de tungstênio sobrepostas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Bonesmith's Loincloth",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma tanga feita de placas de tungst\u00eanio sobrepostas.","op":"replace"},{"path":"/shortdescription","value":"Bonesmith's Loincloth","op":"replace"}]

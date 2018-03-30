@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um dardo arremessável, mire no alvo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Throwing Dart",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um dardo arremess\u00e1vel, mire no alvo.","op":"replace"},{"path":"/shortdescription","value":"Throwing Dart","op":"replace"}]

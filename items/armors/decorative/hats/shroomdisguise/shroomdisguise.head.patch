@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Disfarce de cogumelo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Shroom Disguise Mask",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Disfarce de cogumelo.","op":"replace"},{"path":"/shortdescription","value":"Shroom Disguise Mask","op":"replace"}]

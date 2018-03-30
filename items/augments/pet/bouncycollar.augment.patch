@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma coleira que faz com que seu pet salte desnecessariamente.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Bouncy Collar",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma coleira que faz com que seu pet salte desnecessariamente.","op":"replace"},{"path":"/shortdescription","value":"Bouncy Collar","op":"replace"}]

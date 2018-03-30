@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um barril perigoso. ",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Unstable Barrel",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um barril perigoso. ","op":"replace"},{"path":"/shortdescription","value":"Unstable Barrel","op":"replace"}]

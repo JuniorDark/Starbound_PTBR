@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um cartão tecnológico em branco. Com bastante destes posso desenvolver tecnologias avançadas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tech Card",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um cart\u00e3o tecnol\u00f3gico em branco. Com bastante destes posso desenvolver tecnologias avan\u00e7adas.","op":"replace"},{"path":"/shortdescription","value":"Tech Card","op":"replace"}]

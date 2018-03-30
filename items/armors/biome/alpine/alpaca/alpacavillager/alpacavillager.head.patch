@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Alien Alpaca Real Head",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Uma cabeça de uma Alpaca de verdade.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Alien Alpaca Real Head","op":"replace"},{"path":"/description","value":"Uma cabe\u00e7a de uma Alpaca de verdade.","op":"replace"}]

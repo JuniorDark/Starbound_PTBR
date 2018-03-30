@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Suas pernas parecem vinhas entrelaçadas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Vineclimber",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Suas pernas parecem vinhas entrela\u00e7adas.","op":"replace"},{"path":"/shortdescription","value":"Vineclimber","op":"replace"}]

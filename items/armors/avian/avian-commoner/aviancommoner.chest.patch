@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma camiseta simples sem mangas, às vezes usada em cerimonias tradicionais.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hide Shirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma camiseta simples sem mangas, \u00e0s vezes usada em cerimonias tradicionais.","op":"replace"},{"path":"/shortdescription","value":"Hide Shirt","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um casaco de armadura Avian entrelaçada com solarium puro. Magnífica.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Raven's Breast",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um casaco de armadura Avian entrela\u00e7ada com solarium puro. Magn\u00edfica.","op":"replace"},{"path":"/shortdescription","value":"Raven's Breast","op":"replace"}]

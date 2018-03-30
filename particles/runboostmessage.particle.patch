@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "^shadow;Impulso de Velocidade",
-    "path": "/definition/text"
-  }
-]
+[{"path":"/definition/text","value":"^shadow;Impulso de Velocidade","op":"replace"}]

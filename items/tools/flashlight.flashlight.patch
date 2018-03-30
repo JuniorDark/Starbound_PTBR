@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Flashlight",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Uma lanterna útil!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Flashlight","op":"replace"},{"path":"/description","value":"Uma lanterna \u00fatil!","op":"replace"}]

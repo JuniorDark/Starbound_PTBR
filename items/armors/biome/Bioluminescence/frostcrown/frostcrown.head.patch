@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Frost Crown",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Uma coroa feita de gelo. ",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Frost Crown","op":"replace"},{"path":"/description","value":"Uma coroa feita de gelo. ","op":"replace"}]

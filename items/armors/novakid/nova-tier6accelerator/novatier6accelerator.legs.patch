@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Corte com espaço de sobra. Perfeita para um indivíduo astuto.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Gambler's Pants",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Corte com espa\u00e7o de sobra. Perfeita para um indiv\u00edduo astuto.","op":"replace"},{"path":"/shortdescription","value":"Gambler's Pants","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Trailblazer's Helm",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Não devemos ver a vida através de óculos cor de rosa, mas de um visor de cor âmbar é provavelmente ok.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Trailblazer's Helm","op":"replace"},{"path":"/description","value":"N\u00e3o devemos ver a vida atrav\u00e9s de \u00f3culos cor de rosa, mas de um visor de cor \u00e2mbar \u00e9 provavelmente ok.","op":"replace"}]

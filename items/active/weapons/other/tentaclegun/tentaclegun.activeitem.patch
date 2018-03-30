@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um híbrido horrível de carne e aço.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Alien Appendage",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um h\u00edbrido horr\u00edvel de carne e a\u00e7o.","op":"replace"},{"path":"/shortdescription","value":"Alien Appendage","op":"replace"}]

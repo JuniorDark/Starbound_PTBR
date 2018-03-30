@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma poderosa espada de duas mãos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "NPC Cultist Broadsword",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma poderosa espada de duas m\u00e3os.","op":"replace"},{"path":"/shortdescription","value":"NPC Cultist Broadsword","op":"replace"}]

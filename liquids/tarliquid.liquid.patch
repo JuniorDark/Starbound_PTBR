@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Óleo bruto, grosso e pegajoso.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"\u00d3leo bruto, grosso e pegajoso.","op":"replace"}]

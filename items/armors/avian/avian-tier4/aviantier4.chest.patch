@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma túnica confortável, enrolada em durasteel para maior durabilidade.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Owl Breastplate",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma t\u00fanica confort\u00e1vel, enrolada em durasteel para maior durabilidade.","op":"replace"},{"path":"/shortdescription","value":"Owl Breastplate","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma aljava cheia de flechas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Quiver",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma aljava cheia de flechas.","op":"replace"},{"path":"/shortdescription","value":"Quiver","op":"replace"}]

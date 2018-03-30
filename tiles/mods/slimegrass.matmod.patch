@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Grama pegajosa.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Grama pegajosa.","op":"replace"}]

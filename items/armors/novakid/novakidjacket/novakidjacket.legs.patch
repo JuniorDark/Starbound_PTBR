@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Mantem fresco e confortável quando você escala todas aquelas montanhas ásperas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Rustler Cut-offs",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Mantem fresco e confort\u00e1vel quando voc\u00ea escala todas aquelas montanhas \u00e1speras.","op":"replace"},{"path":"/shortdescription","value":"Rustler Cut-offs","op":"replace"}]

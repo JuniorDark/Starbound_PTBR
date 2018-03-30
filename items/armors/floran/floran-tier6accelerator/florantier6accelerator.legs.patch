@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Porque você precisa de liberdade de movimento quando você está no corredor polonês.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Sentinel's Shorts",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Porque voc\u00ea precisa de liberdade de movimento quando voc\u00ea est\u00e1 no corredor polon\u00eas.","op":"replace"},{"path":"/shortdescription","value":"Sentinel's Shorts","op":"replace"}]

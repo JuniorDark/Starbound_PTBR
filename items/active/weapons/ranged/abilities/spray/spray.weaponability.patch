@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Espalhe e Reze",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Espalhe e Reze","op":"replace"}]

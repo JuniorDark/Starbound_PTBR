@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Colhe carne e outros produtos de monstros.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tungsten Hunting Bow",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Colhe carne e outros produtos de monstros.","op":"replace"},{"path":"/shortdescription","value":"Tungsten Hunting Bow","op":"replace"}]

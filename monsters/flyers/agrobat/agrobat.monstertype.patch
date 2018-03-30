@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Agrobat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Devido às seus olhos sensíveis, ele prefere ambientes escuros, como cavernas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Agrobat","op":"replace"},{"path":"/description","value":"Devido \u00e0s seus olhos sens\u00edveis, ele prefere ambientes escuros, como cavernas.","op":"replace"}]

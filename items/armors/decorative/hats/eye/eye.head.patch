@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um capacete com um grande globo ocular no centro. Prático!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "All-Seeing Helmet",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um capacete com um grande globo ocular no centro. Pr\u00e1tico!","op":"replace"},{"path":"/shortdescription","value":"All-Seeing Helmet","op":"replace"}]

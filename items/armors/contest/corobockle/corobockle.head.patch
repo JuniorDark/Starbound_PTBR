@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma pessoinha, para manter sua cabeça quente.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Corobockle",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma pessoinha, para manter sua cabe\u00e7a quente.","op":"replace"},{"path":"/shortdescription","value":"Corobockle","op":"replace"}]

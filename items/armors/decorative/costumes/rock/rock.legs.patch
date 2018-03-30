@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Camuflagem perfeita para mineradores.\r\n",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Rock Trousers",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Camuflagem perfeita para mineradores.\r\n","op":"replace"},{"path":"/shortdescription","value":"Rock Trousers","op":"replace"}]

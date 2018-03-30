@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Battered Banana",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Banana padrão esmagada e frita em uma massa rica.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Battered Banana","op":"replace"},{"path":"/description","value":"Banana padr\u00e3o esmagada e frita em uma massa rica.","op":"replace"}]

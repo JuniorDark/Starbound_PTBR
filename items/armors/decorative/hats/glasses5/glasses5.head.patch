@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Simple Glasses",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O original e o melhor.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Simple Glasses","op":"replace"},{"path":"/description","value":"O original e o melhor.","op":"replace"}]

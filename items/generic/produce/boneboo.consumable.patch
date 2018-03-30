@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Boneboo",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Assustador.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Boneboo","op":"replace"},{"path":"/description","value":"Assustador.","op":"replace"}]

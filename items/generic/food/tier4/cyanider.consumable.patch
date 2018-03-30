@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma bebida feita de oculemon e pussplum. Deliciosa!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Cyanider",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma bebida feita de oculemon e pussplum. Deliciosa!","op":"replace"},{"path":"/shortdescription","value":"Cyanider","op":"replace"}]

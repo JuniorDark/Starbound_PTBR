@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma shuriken feita de flocos de neve gelados.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Snowflake Shuriken",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma shuriken feita de flocos de neve gelados.","op":"replace"},{"path":"/shortdescription","value":"Snowflake Shuriken","op":"replace"}]

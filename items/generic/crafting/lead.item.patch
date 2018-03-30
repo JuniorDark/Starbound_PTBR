@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um bloco de chumbo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Lead",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um bloco de chumbo.","op":"replace"},{"path":"/shortdescription","value":"Lead","op":"replace"}]

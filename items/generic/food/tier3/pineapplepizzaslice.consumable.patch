@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Mais coberturas!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Pineapple Pizza Slice",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Mais coberturas!","op":"replace"},{"path":"/shortdescription","value":"Pineapple Pizza Slice","op":"replace"}]

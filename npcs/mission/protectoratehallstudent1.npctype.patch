@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Floran espera que haverá tempo para uma pausa pro banheiro.",
-    "path": "/scriptConfig/dialog/converse/default/default/2"
-  },
-  {
-    "op": "replace",
-    "value": "Floran se arrepende de beber cinco Oculemonades no almoço...",
-    "path": "/scriptConfig/dialog/converse/default/default/1"
-  },
-  {
-    "op": "replace",
-    "value": "Não são muitos os Floran que se tornam Protetoresss. Floran se orgulha de ser escolhido!",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/2","value":"Floran espera que haver\u00e1 tempo para uma pausa pro banheiro.","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/1","value":"Floran se arrepende de beber cinco Oculemonades no almo\u00e7o...","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/0","value":"N\u00e3o s\u00e3o muitos os Floran que se tornam Protetoresss. Floran se orgulha de ser escolhido!","op":"replace"}]

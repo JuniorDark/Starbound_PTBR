@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma camisa tradicional lustrosa do quimono.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Kimono Shirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma camisa tradicional lustrosa do quimono.","op":"replace"},{"path":"/shortdescription","value":"Kimono Shirt","op":"replace"}]

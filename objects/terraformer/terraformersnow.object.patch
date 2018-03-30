@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Snowy Terraformer",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Transforma o clima de um planeta em uma taiga fria.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Snowy Terraformer","op":"replace"},{"path":"/description","value":"Transforma o clima de um planeta em uma taiga fria.","op":"replace"}]

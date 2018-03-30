@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma caixa selada de componentes de armas, valiosa para o comércio interestelar.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Weapon Parts",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma caixa selada de componentes de armas, valiosa para o com\u00e9rcio interestelar.","op":"replace"},{"path":"/shortdescription","value":"Weapon Parts","op":"replace"}]

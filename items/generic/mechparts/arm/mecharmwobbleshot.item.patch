@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Este braço de mecha dispara estranhas roscas de plasma oscilantes.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Wobbleshot Mech Arm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Este bra\u00e7o de mecha dispara estranhas roscas de plasma oscilantes.","op":"replace"},{"path":"/shortdescription","value":"Wobbleshot Mech Arm","op":"replace"}]

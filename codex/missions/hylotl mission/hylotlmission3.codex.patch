@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um aviso colocado para os visitantes da Grande Biblioteca Pagoda desde a sua recuperação.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Notificação Oficial",
-    "path": "/title"
-  },
-  {
-    "op": "replace",
-    "value": "Enquanto damos boas-vindas aos estudiosos para a recém redescoberta Grande Biblioteca Pagoda, pedimos que todos os visitantes tomem cuidado dentro do prédio.\n\nNós pedimos que você não manuseie os livros mais frágeis e suplico para não entrar em áreas que são claramente inseguras.\n\nNós gostaríamos de lembrar aos nossos familiares que o bom senso é tão importante quanto a sabedoria.",
-    "path": "/contentPages/0"
-  }
-]
+[{"path":"/description","value":"Um aviso colocado para os visitantes da Grande Biblioteca Pagoda desde a sua recupera\u00e7\u00e3o.","op":"replace"},{"path":"/title","value":"Notifica\u00e7\u00e3o Oficial","op":"replace"},{"path":"/contentPages/0","value":"Enquanto damos boas-vindas aos estudiosos para a rec\u00e9m redescoberta Grande Biblioteca Pagoda, pedimos que todos os visitantes tomem cuidado dentro do pr\u00e9dio.\n\nN\u00f3s pedimos que voc\u00ea n\u00e3o manuseie os livros mais fr\u00e1geis e suplico para n\u00e3o entrar em \u00e1reas que s\u00e3o claramente inseguras.\n\nN\u00f3s gostar\u00edamos de lembrar aos nossos familiares que o bom senso \u00e9 t\u00e3o importante quanto a sabedoria.","op":"replace"}]

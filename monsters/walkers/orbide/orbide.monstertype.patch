@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Orbide",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Algo sobre a forma como ele manca faz você se sentir desconfortável.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Orbide","op":"replace"},{"path":"/description","value":"Algo sobre a forma como ele manca faz voc\u00ea se sentir desconfort\u00e1vel.","op":"replace"}]

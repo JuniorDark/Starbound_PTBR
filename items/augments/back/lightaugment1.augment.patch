@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um módulo de EPP que permite que um pacote de sobrevivência emita uma luz fraca.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Light I Augment",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um m\u00f3dulo de EPP que permite que um pacote de sobreviv\u00eancia emita uma luz fraca.","op":"replace"},{"path":"/shortdescription","value":"Light I Augment","op":"replace"}]

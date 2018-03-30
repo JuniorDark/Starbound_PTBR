@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Erchius Horror",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/shortdescription","value":"Erchius Horror","op":"replace"}]

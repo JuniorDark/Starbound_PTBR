@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ganancioso e astuto na natureza. Se perturbado enquanto escondido ele vai te dar mau-olhado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Yokat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Ganancioso e astuto na natureza. Se perturbado enquanto escondido ele vai te dar mau-olhado.","op":"replace"},{"path":"/shortdescription","value":"Yokat","op":"replace"}]

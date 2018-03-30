@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um elmo demoníaco com chifres, profético da desgraça.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Doom Lord's Helm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um elmo demon\u00edaco com chifres, prof\u00e9tico da desgra\u00e7a.","op":"replace"},{"path":"/shortdescription","value":"Doom Lord's Helm","op":"replace"}]

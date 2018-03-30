@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um design de arma clássico que sobrecarga inimigos com uma carga elétrica devastadora.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tesla Stream Mech Arm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um design de arma cl\u00e1ssico que sobrecarga inimigos com uma carga el\u00e9trica devastadora.","op":"replace"},{"path":"/shortdescription","value":"Tesla Stream Mech Arm","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um capacete de proteção com uma viseira embutida.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Miner's Helmet",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um capacete de prote\u00e7\u00e3o com uma viseira embutida.","op":"replace"},{"path":"/shortdescription","value":"Miner's Helmet","op":"replace"}]

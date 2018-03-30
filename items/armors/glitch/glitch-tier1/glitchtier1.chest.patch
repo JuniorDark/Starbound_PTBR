@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um peitoral simples e sem adornos, refletindo sua posição na sociedade.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Knave's Breastplate",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um peitoral simples e sem adornos, refletindo sua posi\u00e7\u00e3o na sociedade.","op":"replace"},{"path":"/shortdescription","value":"Knave's Breastplate","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Molotov",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O líquido nesta garrafa é altamente inflamável.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Molotov","op":"replace"},{"path":"/description","value":"O l\u00edquido nesta garrafa \u00e9 altamente inflam\u00e1vel.","op":"replace"}]

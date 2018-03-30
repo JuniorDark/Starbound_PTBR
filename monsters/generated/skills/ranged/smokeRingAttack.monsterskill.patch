@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "VINGANÇA DE TOBOLD",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"VINGAN\u00c7A DE TOBOLD","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Monopus Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"Uma espécie antiga, sabe ser ágil e travessa. Eles têm um olhar inteligente em seu olho.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Monopus Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"Uma esp\u00e9cie antiga, sabe ser \u00e1gil e travessa. Eles t\u00eam um olhar inteligente em seu olho.\"","op":"replace"}]

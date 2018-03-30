@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pyromantle Figurine",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"Seu núcleo quente produz um fluxo constante de lava. Ela da um belo soco.\"",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Pyromantle Figurine","op":"replace"},{"path":"/description","value":"A etiqueta diz, \"Seu n\u00facleo quente produz um fluxo constante de lava. Ela da um belo soco.\"","op":"replace"}]

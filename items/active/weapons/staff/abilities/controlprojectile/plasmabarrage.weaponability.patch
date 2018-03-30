@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Barragem de Plasma",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Barragem de Plasma","op":"replace"}]

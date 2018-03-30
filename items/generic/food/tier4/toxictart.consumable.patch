@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Toxic Tart",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O que mais você vai fazer com toda esse geléia de toxictop?",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Toxic Tart","op":"replace"},{"path":"/description","value":"O que mais voc\u00ea vai fazer com toda esse gel\u00e9ia de toxictop?","op":"replace"}]

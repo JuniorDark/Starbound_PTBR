@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Crimson Fantail",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Este echinodermata tem curiosos membros rosa para se disfarçar como uma criatura decorada tipo peixe.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Crimson Fantail","op":"replace"},{"path":"/description","value":"Este echinodermata tem curiosos membros rosa para se disfar\u00e7ar como uma criatura decorada tipo peixe.","op":"replace"}]

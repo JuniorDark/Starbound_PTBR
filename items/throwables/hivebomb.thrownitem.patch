@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Bug Hive",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Cuidado! Esses insetos têm uma picada mortal.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Bug Hive","op":"replace"},{"path":"/description","value":"Cuidado! Esses insetos t\u00eam uma picada mortal.","op":"replace"}]

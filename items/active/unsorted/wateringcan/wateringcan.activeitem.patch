@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Regue suas plantas com este regador elegante.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Watering Can",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Regue suas plantas com este regador elegante.","op":"replace"},{"path":"/shortdescription","value":"Watering Can","op":"replace"}]

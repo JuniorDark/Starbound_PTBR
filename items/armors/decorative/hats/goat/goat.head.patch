@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Goat Skull Mask",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Assombre seus amigos e inimigos com esta máscara demoníaca de crânio da cabra!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Goat Skull Mask","op":"replace"},{"path":"/description","value":"Assombre seus amigos e inimigos com esta m\u00e1scara demon\u00edaca de cr\u00e2nio da cabra!","op":"replace"}]

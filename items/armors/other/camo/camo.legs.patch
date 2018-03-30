@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Camo Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "As joelheiras nessas calças são incrivelmente grossas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Camo Trousers","op":"replace"},{"path":"/description","value":"As joelheiras nessas cal\u00e7as s\u00e3o incrivelmente grossas.","op":"replace"}]

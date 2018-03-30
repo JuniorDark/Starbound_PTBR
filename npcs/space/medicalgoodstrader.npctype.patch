@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": " Comerciante de Mercadorias Médicas",
-    "path": "/scriptConfig/guiConfig/gui/windowtitle/title"
-  }
-]
+[{"path":"/scriptConfig/guiConfig/gui/windowtitle/title","value":" Comerciante de Mercadorias M\u00e9dicas","op":"replace"}]

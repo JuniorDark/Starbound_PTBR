@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Space Uniform Trousers",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Você parecera empreendedor ao vestir estas calças.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Space Uniform Trousers","op":"replace"},{"path":"/description","value":"Voc\u00ea parecera empreendedor ao vestir estas cal\u00e7as.","op":"replace"}]

@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Areia espalhadas.",
-    "path": "/description"
-  }
-]
+[{"path":"/description","value":"Areia espalhadas.","op":"replace"}]

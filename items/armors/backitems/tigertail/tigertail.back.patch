@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Nenhum tigre foi ferido na fabricação desta cauda de tigre decorativa.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Tiger Tail",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Nenhum tigre foi ferido na fabrica\u00e7\u00e3o desta cauda de tigre decorativa.","op":"replace"},{"path":"/shortdescription","value":"Tiger Tail","op":"replace"}]

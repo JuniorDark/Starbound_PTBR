@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma máscara de crânio de pano. A maneira mais assustadora de esconder seu rosto.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Skull Mask",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma m\u00e1scara de cr\u00e2nio de pano. A maneira mais assustadora de esconder seu rosto.","op":"replace"},{"path":"/shortdescription","value":"Skull Mask","op":"replace"}]

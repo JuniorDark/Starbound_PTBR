@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Sleek Mech Legs",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Pernas de mecha elegantes que combinam meias compostas com sandálias de titânio.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Sleek Mech Legs","op":"replace"},{"path":"/description","value":"Pernas de mecha elegantes que combinam meias compostas com sand\u00e1lias de tit\u00e2nio.","op":"replace"}]

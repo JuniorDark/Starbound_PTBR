@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Starbound",
-    "path": "/windowTitle"
-  }
-]
+[{"path":"/windowTitle","value":"Starbound","op":"replace"}]

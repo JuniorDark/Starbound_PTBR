@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma caixa selada de componentes eletrônicos, valiosa para o comércio interestelar.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Electronic Parts",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma caixa selada de componentes eletr\u00f4nicos, valiosa para o com\u00e9rcio interestelar.","op":"replace"},{"path":"/shortdescription","value":"Electronic Parts","op":"replace"}]

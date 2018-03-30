@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma grande vagem cheia de grãos de cacau. Moa e você terá chocolate!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Cocoa Pod",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma grande vagem cheia de gr\u00e3os de cacau. Moa e voc\u00ea ter\u00e1 chocolate!","op":"replace"},{"path":"/shortdescription","value":"Cocoa Pod","op":"replace"}]

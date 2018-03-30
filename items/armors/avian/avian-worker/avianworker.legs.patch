@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma saia leve, arejada com grandes bolsos para ferramentas. Ideal para trabalhadores.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Worker Skirt",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma saia leve, arejada com grandes bolsos para ferramentas. Ideal para trabalhadores.","op":"replace"},{"path":"/shortdescription","value":"Worker Skirt","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Harpoon Gun",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "A arma favorita de caçadores de oceano profundo.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Harpoon Gun","op":"replace"},{"path":"/description","value":"A arma favorita de ca\u00e7adores de oceano profundo.","op":"replace"}]

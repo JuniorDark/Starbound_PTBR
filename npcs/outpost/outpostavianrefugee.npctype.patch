@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Outra Avian que não segue mais Kluex? Sua presença me traz conforto.",
-    "path": "/scriptConfig/dialog/converse/avian/avian/0"
-  },
-  {
-    "op": "replace",
-    "value": "Eu quase se tornei um Ascendente para Kluex, mas eu fiquei com medo e fugi pra cá. O que eu faço agora?",
-    "path": "/scriptConfig/dialog/converse/avian/default/0"
-  },
-  {
-    "op": "replace",
-    "value": "Eu quase se tornei um Ascendente para Kluex, mas eu fiquei com medo e fugi pra cá. O que eu faço agora?",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/avian/avian/0","value":"Outra Avian que n\u00e3o segue mais Kluex? Sua presen\u00e7a me traz conforto.","op":"replace"},{"path":"/scriptConfig/dialog/converse/avian/default/0","value":"Eu quase se tornei um Ascendente para Kluex, mas eu fiquei com medo e fugi pra c\u00e1. O que eu fa\u00e7o agora?","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Eu quase se tornei um Ascendente para Kluex, mas eu fiquei com medo e fugi pra c\u00e1. O que eu fa\u00e7o agora?","op":"replace"}]

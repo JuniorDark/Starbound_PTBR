@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "A etiqueta diz, \"Sua dieta é composta de pequenas quantidades de água que encontra cavando no solo.\"",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Trictus Figurine",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"A etiqueta diz, \"Sua dieta \u00e9 composta de pequenas quantidades de \u00e1gua que encontra cavando no solo.\"","op":"replace"},{"path":"/shortdescription","value":"Trictus Figurine","op":"replace"}]

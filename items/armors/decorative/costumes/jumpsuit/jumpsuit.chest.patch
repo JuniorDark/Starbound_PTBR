@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Jump Suit Jacket",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Vamos esperar que alguém se lembrou do pára-quedas.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Jump Suit Jacket","op":"replace"},{"path":"/description","value":"Vamos esperar que algu\u00e9m se lembrou do p\u00e1ra-quedas.","op":"replace"}]

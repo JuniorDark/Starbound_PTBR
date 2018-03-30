@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Modo Fiação",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Construído para colocar cabos óticos entre pontos de entrada. ^green;Selecione rapidamente com a tecla [T].",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Modo Fia\u00e7\u00e3o","op":"replace"},{"path":"/description","value":"Constru\u00eddo para colocar cabos \u00f3ticos entre pontos de entrada. ^green;Selecione rapidamente com a tecla [T].","op":"replace"}]

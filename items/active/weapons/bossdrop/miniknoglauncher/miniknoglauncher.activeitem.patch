@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um lançador de mísseis em miniatura, desenvolvido pelos melhores cientistas da Miniknog.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Miniknog Launcher",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um lan\u00e7ador de m\u00edsseis em miniatura, desenvolvido pelos melhores cientistas da Miniknog.","op":"replace"},{"path":"/shortdescription","value":"Miniknog Launcher","op":"replace"}]

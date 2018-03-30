@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Chainsaw",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Ótima para derrubar árvores. Tente evitar massacres.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Chainsaw","op":"replace"},{"path":"/description","value":"\u00d3tima para derrubar \u00e1rvores. Tente evitar massacres.","op":"replace"}]

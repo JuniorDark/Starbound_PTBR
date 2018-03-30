@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Batong",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Provando as partículas no ar, ele pode sentir o que está à sua frente.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Batong","op":"replace"},{"path":"/description","value":"Provando as part\u00edculas no ar, ele pode sentir o que est\u00e1 \u00e0 sua frente.","op":"replace"}]

@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "^shadow;$dmg$ ",
-    "path": "/definition/text"
-  }
-]
+[{"path":"/definition/text","value":"^shadow;$dmg$","op":"replace"}]

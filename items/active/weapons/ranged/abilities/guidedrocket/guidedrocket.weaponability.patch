@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Foguete Guiado",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Foguete Guiado","op":"replace"}]

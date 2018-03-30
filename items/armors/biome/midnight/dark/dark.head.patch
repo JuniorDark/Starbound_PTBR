@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Dark Mask",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O material nesta máscara está expelindo escuridão pura.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Dark Mask","op":"replace"},{"path":"/description","value":"O material nesta m\u00e1scara est\u00e1 expelindo escurid\u00e3o pura.","op":"replace"}]

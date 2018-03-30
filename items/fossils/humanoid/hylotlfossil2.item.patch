@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um torso de Hylotl fossilizado.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Hylotl Torso",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um torso de Hylotl fossilizado.","op":"replace"},{"path":"/shortdescription","value":"Hylotl Torso","op":"replace"}]

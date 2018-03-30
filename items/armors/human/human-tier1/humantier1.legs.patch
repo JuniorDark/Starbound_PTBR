@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Fibras de ferro de proteção são tecidas no tecido.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Scouter's Greaves",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Fibras de ferro de prote\u00e7\u00e3o s\u00e3o tecidas no tecido.","op":"replace"},{"path":"/shortdescription","value":"Scouter's Greaves","op":"replace"}]

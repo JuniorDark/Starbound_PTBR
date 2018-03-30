@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Revolutionary's Jacket",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O forro de durasteel desta jaqueta torna ela elegante e resistente.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Revolutionary's Jacket","op":"replace"},{"path":"/description","value":"O forro de durasteel desta jaqueta torna ela elegante e resistente.","op":"replace"}]

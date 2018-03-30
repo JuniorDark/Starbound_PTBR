@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Prism Shirt",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Fique quentinho no frio com este casaco térmico macio.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Prism Shirt","op":"replace"},{"path":"/description","value":"Fique quentinho no frio com este casaco t\u00e9rmico macio.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um dardo poderoso cheio de energia cinética. Adequado para a caça.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Energy Javelin",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um dardo poderoso cheio de energia cin\u00e9tica. Adequado para a ca\u00e7a.","op":"replace"},{"path":"/shortdescription","value":"Energy Javelin","op":"replace"}]

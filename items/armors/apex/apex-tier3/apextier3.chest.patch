@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Insurgent's Jacket",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta jaqueta tem protetores de ombro de titânio e é construída em acolchoamento resistente a impactos.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Insurgent's Jacket","op":"replace"},{"path":"/description","value":"Esta jaqueta tem protetores de ombro de tit\u00e2nio e \u00e9 constru\u00edda em acolchoamento resistente a impactos.","op":"replace"}]

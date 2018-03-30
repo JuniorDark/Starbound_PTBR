@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Curar",
-    "path": "/gui/toggleCrafting/caption"
-  },
-  {
-    "op": "replace",
-    "value": "^#b9b5b2;Coloque o Capture Pod no espaço esquerdo.",
-    "path": "/gui/lblText/value"
-  }
-]
+[{"path":"/gui/toggleCrafting/caption","value":"Curar","op":"replace"},{"path":"/gui/lblText/value","value":"^#b9b5b2;Coloque o Capture Pod no espa\u00e7o esquerdo.","op":"replace"}]

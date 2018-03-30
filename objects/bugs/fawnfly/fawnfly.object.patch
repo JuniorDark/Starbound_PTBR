@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Fawnfly",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Suas asas marrom torna ele difícil de localizar em árvores.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Fawnfly","op":"replace"},{"path":"/description","value":"Suas asas marrom torna ele dif\u00edcil de localizar em \u00e1rvores.","op":"replace"}]

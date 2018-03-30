@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Você dormiu sobre seu alarme SAIL? Isso é tão você.",
-    "path": "/scriptConfig/dialog/converse/default/default/1"
-  },
-  {
-    "op": "replace",
-    "value": "Ei <entityname>! Eu estava me perguntando se você iria comparecer ou não.",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  },
-  {
-    "op": "replace",
-    "value": "Você não parece tão ruim, por ter acabado de acordar!",
-    "path": "/scriptConfig/dialog/converse/default/default/2"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/default/default/1","value":"Voc\u00ea dormiu sobre seu alarme SAIL? Isso \u00e9 t\u00e3o voc\u00ea.","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Ei <entityname>! Eu estava me perguntando se voc\u00ea iria comparecer ou n\u00e3o.","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/2","value":"Voc\u00ea n\u00e3o parece t\u00e3o ruim, por ter acabado de acordar!","op":"replace"}]

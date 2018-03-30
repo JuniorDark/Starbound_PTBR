@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Alien Alpaca Mask",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Uma máscara de Alpaca. É quente e fofa.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Alien Alpaca Mask","op":"replace"},{"path":"/description","value":"Uma m\u00e1scara de Alpaca. \u00c9 quente e fofa.","op":"replace"}]

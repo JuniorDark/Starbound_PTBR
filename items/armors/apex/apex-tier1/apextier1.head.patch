@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma máscara de ferro que de certa forma esconde a identidade do utilizador.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Defector's Mask",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma m\u00e1scara de ferro que de certa forma esconde a identidade do utilizador.","op":"replace"},{"path":"/shortdescription","value":"Defector's Mask","op":"replace"}]

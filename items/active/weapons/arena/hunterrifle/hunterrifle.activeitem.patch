@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma mira poderosa ajuda essa arma abater alvos distantes com facilidade.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Vintage Scoped Rifle",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Vintage Scoped Rifle ^yellow;^reset;",
-    "path": "/upgradeParameters/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma mira poderosa ajuda essa arma abater alvos distantes com facilidade.","op":"replace"},{"path":"/shortdescription","value":"Vintage Scoped Rifle","op":"replace"},{"path":"/upgradeParameters/shortdescription","value":"Vintage Scoped Rifle ^yellow;\ue024^reset;","op":"replace"}]

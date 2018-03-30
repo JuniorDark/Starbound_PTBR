@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Tar Mask",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Envolva sua cabeça em piche quente! O que poderia dar errado?",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Tar Mask","op":"replace"},{"path":"/description","value":"Envolva sua cabe\u00e7a em piche quente! O que poderia dar errado?","op":"replace"}]

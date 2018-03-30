@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma garra de monstro afiada. Pode ser usada para fabricação.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Sharpened Claw",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma garra de monstro afiada. Pode ser usada para fabrica\u00e7\u00e3o.","op":"replace"},{"path":"/shortdescription","value":"Sharpened Claw","op":"replace"}]

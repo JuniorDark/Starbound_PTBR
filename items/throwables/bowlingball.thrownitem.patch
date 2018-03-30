@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma grande bola de boliche pesada.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Bowling Ball",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma grande bola de boliche pesada.","op":"replace"},{"path":"/shortdescription","value":"Bowling Ball","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Knight's Helm ",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O Glitch revestido de titânio luta com honra. E uma espada afiada...",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Knight's Helm ","op":"replace"},{"path":"/description","value":"O Glitch revestido de tit\u00e2nio luta com honra. E uma espada afiada...","op":"replace"}]

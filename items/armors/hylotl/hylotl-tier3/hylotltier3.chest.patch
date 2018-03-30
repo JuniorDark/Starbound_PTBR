@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Feito com seda e metal. Como o guerreiro Hylotl, este peitoral combina elegância e força.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "River Breastplate",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Feito com seda e metal. Como o guerreiro Hylotl, este peitoral combina eleg\u00e2ncia e for\u00e7a.","op":"replace"},{"path":"/shortdescription","value":"River Breastplate","op":"replace"}]

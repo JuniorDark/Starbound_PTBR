@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Exatamente como biscoitos normais, apenas espinhentos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Spiky Cookies",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Exatamente como biscoitos normais, apenas espinhentos.","op":"replace"},{"path":"/shortdescription","value":"Spiky Cookies","op":"replace"}]

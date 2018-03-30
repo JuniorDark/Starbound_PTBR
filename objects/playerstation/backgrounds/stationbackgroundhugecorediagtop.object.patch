@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Huge Core Diagonal Top Piece Background",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Huge Core Diagonal Top Piece Background",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Huge Core Diagonal Top Piece Background","op":"replace"},{"path":"/shortdescription","value":"Huge Core Diagonal Top Piece Background","op":"replace"}]

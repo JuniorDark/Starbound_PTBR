@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um inseto animado, pode ser visto bebendo o orvalho da manhã.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Dewhopper",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um inseto animado, pode ser visto bebendo o orvalho da manh\u00e3.","op":"replace"},{"path":"/shortdescription","value":"Dewhopper","op":"replace"}]

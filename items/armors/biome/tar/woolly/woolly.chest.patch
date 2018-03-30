@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "É lã para manter o calor, e ainda não cobre muita pele. Curioso!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Prehistoric Woolly Coat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\u00c9 l\u00e3 para manter o calor, e ainda n\u00e3o cobre muita pele. Curioso!","op":"replace"},{"path":"/shortdescription","value":"Prehistoric Woolly Coat","op":"replace"}]

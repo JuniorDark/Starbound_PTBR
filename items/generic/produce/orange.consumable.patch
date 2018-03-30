@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "É uma laranja.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Orange",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"\u00c9 uma laranja.","op":"replace"},{"path":"/shortdescription","value":"Orange","op":"replace"}]

@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Estouro Explosivo",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Estouro Explosivo","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Decorado com os chifres e mandíbula de uma presa outrora digna, e forrado com placa de solarium.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Sentinel's Helm",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Decorado com os chifres e mand\u00edbula de uma presa outrora digna, e forrado com placa de solarium.","op":"replace"},{"path":"/shortdescription","value":"Sentinel's Helm","op":"replace"}]

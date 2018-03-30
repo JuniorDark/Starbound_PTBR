@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "O mais básico da cozinha Glitch.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Wattage Potage",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"O mais b\u00e1sico da cozinha Glitch.","op":"replace"},{"path":"/shortdescription","value":"Wattage Potage","op":"replace"}]

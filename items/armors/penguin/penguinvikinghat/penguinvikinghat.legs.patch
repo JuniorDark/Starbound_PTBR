@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um chapéu Viking com chifres, apto para Pinguins.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Penguin Viking Hat",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um chap\u00e9u Viking com chifres, apto para Pinguins.","op":"replace"},{"path":"/shortdescription","value":"Penguin Viking Hat","op":"replace"}]

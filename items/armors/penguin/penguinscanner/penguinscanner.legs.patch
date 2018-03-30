@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um scanner de interface, para Pinguins.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Penguin Scanner",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um scanner de interface, para Pinguins.","op":"replace"},{"path":"/shortdescription","value":"Penguin Scanner","op":"replace"}]

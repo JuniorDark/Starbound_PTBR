@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Agaran Waxcap Hat",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Parece um Agaran com este chapéu de cogumelo!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Agaran Waxcap Hat","op":"replace"},{"path":"/description","value":"Parece um Agaran com este chap\u00e9u de cogumelo!","op":"replace"}]

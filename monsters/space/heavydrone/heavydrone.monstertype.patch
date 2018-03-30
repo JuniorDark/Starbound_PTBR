@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Heavy Drone",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "O auge da tecnologia de defesa automatizada. Sua IA a bordo é mais alegre do que você pode imaginar.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Heavy Drone","op":"replace"},{"path":"/description","value":"O pin\u00e1culo da tecnologia de defesa automatizada. A IA de bordo \u00e9 mais alegre do que voc\u00ea pode assumir.","op":"replace"}]

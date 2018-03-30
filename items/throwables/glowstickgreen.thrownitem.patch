@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Cria um brilho bioluminescente verde quando jogado!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Green Glowstick",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Cria um brilho bioluminescente verde quando jogado!","op":"replace"},{"path":"/shortdescription","value":"Green Glowstick","op":"replace"}]

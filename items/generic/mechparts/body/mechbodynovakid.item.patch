@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um corpo de mecha Novakid com estilo exclusivo, construído para pilotos incansáveis e habilidosos.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Marshal Mech Body",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um corpo de mecha Novakid com estilo exclusivo, constru\u00eddo para pilotos incans\u00e1veis e habilidosos.","op":"replace"},{"path":"/shortdescription","value":"Marshal Mech Body","op":"replace"}]

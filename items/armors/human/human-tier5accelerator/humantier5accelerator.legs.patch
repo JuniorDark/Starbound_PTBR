@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Lute com paixão, honra e calças de aegisalt elegantes.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Vanguard's Trousers",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Lute com paix\u00e3o, honra e cal\u00e7as de aegisalt elegantes.","op":"replace"},{"path":"/shortdescription","value":"Vanguard's Trousers","op":"replace"}]

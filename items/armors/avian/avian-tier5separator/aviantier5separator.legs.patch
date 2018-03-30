@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Phoenix Greaves",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Alguns dizem que estes calças de violium concedem a quem usar uma velocidade mítica. Outros dizem que isso é tudo inventado.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Phoenix Greaves","op":"replace"},{"path":"/description","value":"Alguns dizem que estes cal\u00e7as de violium concedem a quem usar uma velocidade m\u00edtica. Outros dizem que isso \u00e9 tudo inventado.","op":"replace"}]

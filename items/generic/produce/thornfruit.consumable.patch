@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Contanto que você tome cuidado com os espinhos, estas são deliciosas.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Thorn Fruit",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Contanto que voc\u00ea tome cuidado com os espinhos, estas s\u00e3o deliciosas.","op":"replace"},{"path":"/shortdescription","value":"Thorn Fruit","op":"replace"}]

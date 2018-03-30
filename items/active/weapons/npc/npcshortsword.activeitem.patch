@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Uma espada de uma mão robusta.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "NPC Shortsword",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Uma espada de uma m\u00e3o robusta.","op":"replace"},{"path":"/shortdescription","value":"NPC Shortsword","op":"replace"}]

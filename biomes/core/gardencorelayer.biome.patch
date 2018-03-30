@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Camada de Núcleo Jardim ",
-    "path": "/friendlyName"
-  }
-]
+[{"path":"/friendlyName","value":"Camada de N\u00facleo Jardim ","op":"replace"}]

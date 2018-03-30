@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Pedaços de cobre sortidos aromatizados.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Nuts'n'Bolts",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Peda\u00e7os de cobre sortidos aromatizados.","op":"replace"},{"path":"/shortdescription","value":"Nuts'n'Bolts","op":"replace"}]

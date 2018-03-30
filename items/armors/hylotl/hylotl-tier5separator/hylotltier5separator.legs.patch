@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Ocean Greaves",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Calças de violium permitem que um explorador do oceano afunde facilmente e permaneça afundado.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Ocean Greaves","op":"replace"},{"path":"/description","value":"Cal\u00e7as de violium permitem que um explorador do oceano afunde facilmente e permane\u00e7a afundado.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Heating EPP Upgrade",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Esta melhoria adiciona a geração de calor para as capacidades do seu EPP. Útil em planetas ^red;perigosamente frios^reset;.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Heating EPP Upgrade","op":"replace"},{"path":"/description","value":"Esta melhoria adiciona a gera\u00e7\u00e3o de calor para as capacidades do seu EPP. \u00datil em planetas ^red;perigosamente frios^reset;.","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Grãos de café amargo.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Coffee Beans",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Gr\u00e3os de caf\u00e9 amargo.","op":"replace"},{"path":"/shortdescription","value":"Coffee Beans","op":"replace"}]

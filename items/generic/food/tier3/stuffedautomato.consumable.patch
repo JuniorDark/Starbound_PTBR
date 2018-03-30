@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Stuffed Automato",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "Tem gosto de um tomate recheado real, se você poder passar por isso sem quebrar seus dentes!",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Stuffed Automato","op":"replace"},{"path":"/description","value":"Tem gosto de um tomate recheado real, se voc\u00ea poder passar por isso sem quebrar seus dentes!","op":"replace"}]

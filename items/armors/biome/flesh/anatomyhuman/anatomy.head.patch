@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Human Anatomy Mask",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
-    "value": "É educativo! Uma máscara da anatomia muscular humana.",
-    "path": "/description"
-  }
-]
+[{"path":"/shortdescription","value":"Human Anatomy Mask","op":"replace"},{"path":"/description","value":"\u00c9 educativo! Uma m\u00e1scara da anatomia muscular humana.","op":"replace"}]

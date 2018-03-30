@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Outro explorador Avian! Não é emocionante morar entre as estrelas!",
-    "path": "/scriptConfig/dialog/converse/avian/avian/0"
-  },
-  {
-    "op": "replace",
-    "value": "Eu aprendi que há muito mais na vida do que voar. Há um universo inteiro para explorar!",
-    "path": "/scriptConfig/dialog/converse/avian/default/0"
-  },
-  {
-    "op": "replace",
-    "value": "Eu aprendi que há muito mais na vida do que voar. Há um universo inteiro para explorar!",
-    "path": "/scriptConfig/dialog/converse/default/default/0"
-  }
-]
+[{"path":"/scriptConfig/dialog/converse/avian/avian/0","value":"Outro explorador Avian! N\u00e3o \u00e9 emocionante morar entre as estrelas!","op":"replace"},{"path":"/scriptConfig/dialog/converse/avian/default/0","value":"Eu aprendi que h\u00e1 muito mais na vida do que voar. H\u00e1 um universo inteiro para explorar!","op":"replace"},{"path":"/scriptConfig/dialog/converse/default/default/0","value":"Eu aprendi que h\u00e1 muito mais na vida do que voar. H\u00e1 um universo inteiro para explorar!","op":"replace"}]

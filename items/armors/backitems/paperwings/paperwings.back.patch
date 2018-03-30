@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Asas ornamentais feitas à mão de papel e madeira. Elas são impraticadamente pesadas!",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Paper Wings",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Asas ornamentais feitas \u00e0 m\u00e3o de papel e madeira. Elas s\u00e3o impraticadamente pesadas!","op":"replace"},{"path":"/shortdescription","value":"Paper Wings","op":"replace"}]

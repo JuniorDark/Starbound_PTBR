@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "CUSPE ÁCIDO",
-    "path": "/label"
-  }
-]
+[{"path":"/label","value":"CUSPE \u00c1CIDO","op":"replace"}]

@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Isso é legal, cara.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Space Synth",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Isso \u00e9 legal, cara.","op":"replace"},{"path":"/shortdescription","value":"Space Synth","op":"replace"}]

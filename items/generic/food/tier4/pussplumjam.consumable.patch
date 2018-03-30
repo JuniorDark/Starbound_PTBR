@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Geléia feita de pussplum. É surpreendentemente grossa.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Pussplum Jam",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Gel\u00e9ia feita de pussplum. \u00c9 surpreendentemente grossa.","op":"replace"},{"path":"/shortdescription","value":"Pussplum Jam","op":"replace"}]

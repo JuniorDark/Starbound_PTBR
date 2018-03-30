@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Gaiola de Força",
-    "path": "/ability/name"
-  }
-]
+[{"path":"/ability/name","value":"Gaiola de For\u00e7a","op":"replace"}]

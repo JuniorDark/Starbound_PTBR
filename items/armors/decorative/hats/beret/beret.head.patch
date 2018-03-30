@@ -1,12 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Um ousado chapéu de feltro. Chique e na moda.",
-    "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "Sassy Beret",
-    "path": "/shortdescription"
-  }
-]
+[{"path":"/description","value":"Um ousado chap\u00e9u de feltro. Chique e na moda.","op":"replace"},{"path":"/shortdescription","value":"Sassy Beret","op":"replace"}]

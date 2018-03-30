@@ -1,17 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Engenheiro(a)",
-    "path": "/scriptConfig/crew/role/name"
-  },
-  {
-    "op": "replace",
-    "value": "Engenharia",
-    "path": "/scriptConfig/crew/role/field"
-  },
-  {
-    "op": "replace",
-    "value": "Vou manter seus motores em boa forma. A velocidade de impulso aumentou 25%!",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
-  }
-]
+[{"path":"/scriptConfig/crew/role/name","value":"Engenheiro(a)","op":"replace"},{"path":"/scriptConfig/crew/role/field","value":"Engenharia","op":"replace"},{"path":"/scriptConfig/dialog/crewmember/roleDescription/default/default/0","value":"Vou manter seus motores em boa forma. A velocidade de impulso aumentou 25%!","op":"replace"}]

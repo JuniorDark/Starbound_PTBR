@@ -12,7 +12,7 @@ Este mod é uma tradução para o jogo [Starbound](http://store.steampowered.com
 - Coloque o arquivo 'Starbound_PTBR.pak' dentro da pasta 'mods' dentro da pasta do starbound.
 
 ### INFORMAÇÕES IMPORTANTES:
-- Funciona apenas na versão 1.3.4 ou acima
+- Funciona apenas na versão 1.4 ou acima
 - Os NOMES dos itens NÃO estão traduzidos (com exceção dos códices), para que seja possível encontra-los facilmente em wikis.
 - Alguns textos não são possiveis traduzir devido a estarem dentro do executavel do starbound. (Ex:Mensagens de erro, chat, servidor.)
 - Textos de missões obtidas antes da instalação desta tradução estarão em Inglês.

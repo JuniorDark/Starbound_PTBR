@@ -1,1 +1,1 @@
-[{"op":"replace","path":"/ability/name","value":"Lança-Chamas"}]
+[{"path":"/ability/name","value":"Flamethrower","op":"replace"}]
